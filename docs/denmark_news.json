@@ -28,6 +28,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "150 Iranian naval vessels are destroyed after four weeks of war",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/150-iranske-flaadefartoejer-er-oedelagt-efter-fire-ugers-krig?referrer=RSS",
+        "published_date": "2026-03-28 23:00:48",
+        "category": "Military"
+    },
+    {
         "title": "Ukraine enters into several defense cooperations in the Middle East",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/ukraine-indgaar-flere-forsvarssamarbejder-i-mellemoesten",
@@ -61,6 +68,104 @@
         "url": "https://jv.dk/esbjerg/lose-knuser-konkurrenterne-paa-personlige-stemmer-nu-reagerer-hun?rss",
         "published_date": "2026-03-25 12:56:20",
         "category": "Economy"
+    },
+    {
+        "title": "Iran's Revolutionary Guard threatens to attack US universities",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/irans-revolutionsgarde-truer-med-angreb-paa-usas-universiteter?referrer=RSS",
+        "published_date": "2026-03-28 23:28:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "US condemns attack on home of Kurdish leader in Iraq",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-fordoemmer-angreb-mod-hjem-tilhoerende-kurdisk-leder-i-irak?referrer=RSS",
+        "published_date": "2026-03-28 23:16:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "H\u00f8jgaard is playing close to his first PGA triumph",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/hoejgaard-spiller-sig-taet-paa-foerste-pga-triumf",
+        "published_date": "2026-03-28 22:12:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Liberal Alliance throws out newly elected Member of Parliament",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/liberal-alliance-smider-nyvalgt-folketingsmedlem-ud?referrer=RSS",
+        "published_date": "2026-03-28 22:10:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Big round sends H\u00f8jgaard closer to first Danish PGA triumph",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/stor-runde-sender-hoejgaard-naermere-foerste-danske-pga-triumf?referrer=RSS",
+        "published_date": "2026-03-28 22:07:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The world number seven regains the Miami Open after a three-set final",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/verdensetteren-genvinder-miami-open-efter-tresaetsfinale?referrer=RSS",
+        "published_date": "2026-03-28 21:28:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Newly elected Member of Parliament finished in Liberal Alliance: Not being honest about \"incorrect information of a significant nature\", says the party",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/nyvalgt-folketingsmedlem-faerdig-i-liberal-alliance-ikke-vaeret-aerlig-om-urigtige-oplysninger-af-vaesentlig-karakter-siger-partiet?referrer=RSS",
+        "published_date": "2026-03-28 21:05:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Houthis confirm another Israeli attack and will continue",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/houthierne-bekraefter-endnu-et-israel-angreb-og-vil-fortsaette?referrer=RSS",
+        "published_date": "2026-03-28 20:59:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Liberal Alliance excludes newly elected Member of Parliament",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/liberal-alliance-ekskluderer-nyvalgt-folketingsmedlem",
+        "published_date": "2026-03-28 20:28:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran opens up more Pakistani ships through the Strait of Hormuz",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-aabner-for-flere-pakistanske-skibe-gennem-hormuzstraedet?referrer=RSS",
+        "published_date": "2026-03-28 20:16:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Italian rejects criticism after cheering over playoff opponent",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/italiener-afviser-kritik-efter-jubel-over-playoff-modstander?referrer=RSS",
+        "published_date": "2026-03-28 20:02:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "22-year-old wins Greenlandic dog sledding championship",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/22-aarig-vinder-groenlandsk-mesterskab-i-hundeslaedeloeb",
+        "published_date": "2026-03-28 18:56:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tonight the clocks are set forward one hour",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/i-nat-stilles-uret-en-time-frem",
+        "published_date": "2026-03-28 18:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "22 migrants died in rubber boat in the Mediterranean",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/22-migranter-doede-i-gummibaad-paa-middelhavet",
+        "published_date": "2026-03-28 17:53:00",
+        "category": "Local Events"
     },
     {
         "title": "Millions are expected on the streets in protest against Trump and the Iran war",
@@ -102,104 +207,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/vingegaard-sejrer-og-udbygger-foering-i-catalonien-rundt?referrer=RSS",
         "published_date": "2026-03-28 16:53:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two women have been injured in an accident at a venue",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/to-kvinder-er-kommet-til-skade-i-ulykke-paa-spillested?referrer=RSS",
-        "published_date": "2026-03-28 16:42:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Everyone knows her messy bed with the vodka bottles, the cigarettes and the dirty underwear \u2013 it's great art",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kunst/alle-kender-hendes-uredte-seng-med-vodkaflaskerne-smoegerne-og-det-beskidte-undertoej--det-er-stor-kunst?referrer=RSS",
-        "published_date": "2026-03-28 16:36:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ung F\u00e6ring believes he can set a record as the youngest team player",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/ung-faering-tror-paa-at-kunne-saette-rekord-som-yngste-lagmand?referrer=RSS",
-        "published_date": "2026-03-28 16:23:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "China and the Philippines resume negotiations on the South China Sea",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kina-og-filippinerne-genoptager-forhandlinger-om-det-sydkinesiske-hav",
-        "published_date": "2026-03-28 16:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rosatom: The situation at the Iranian nuclear power plant worsened",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rosatom-situationen-ved-iransk-atomkraftvaerk-forvaerret",
-        "published_date": "2026-03-28 15:12:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Truck with 12 tons of KitKat stolen between Italy and Poland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lastbil-med-12-ton-kitkat-stjaalet-mellem-italien-og-polen",
-        "published_date": "2026-03-28 15:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bomb attack averted in Paris last night",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bombeangreb-afvaerget-i-paris-i-nat",
-        "published_date": "2026-03-28 14:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "From today, Norwegian is expanding its connections to and from Billund Airport",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norwegian-udvider-fra-i-dag-sine-forbindelser-til-og-fra-billund-lufthavn",
-        "published_date": "2026-03-28 12:52:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nepal's former prime minister has been arrested",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nepals-forhenvaerende-premierminister-er-blevet-anholdt",
-        "published_date": "2026-03-28 12:19:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Indonesia restricts young people's access to social media",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/indonesien-begraenser-unges-adgang-til-sociale-medier",
-        "published_date": "2026-03-28 11:59:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mette Frederiksen 'expects long and difficult negotiations'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-forventer-lange-og-svaere-forhandlinger",
-        "published_date": "2026-03-28 11:55:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two people injured during concert in Aalborg: Hit by ventilator",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/personer-kvaestet-under-koncert-i-aalborg-ramt-af-ventilator",
-        "published_date": "2026-03-28 10:48:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "From April, Danes can look forward to cheaper electricity bills",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fra-april-kan-danskerne-se-frem-til-billigere-elregninger",
-        "published_date": "2026-03-28 10:28:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Princess Astrid of Norway is recovering",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norges-prinsesse-astrid-er-i-bedring",
-        "published_date": "2026-03-28 10:23:00",
         "category": "Local Events"
     }
 ]
