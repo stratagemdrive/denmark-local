@@ -1,5 +1,33 @@
 [
     {
+        "title": "Turkey: NATO shoots down a fourth missile over Turkish airspace",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tyrkiet-nato-nedskyder-et-fjerde-missil-over-tyrkisk-luftrum?referrer=RSS",
+        "published_date": "2026-03-30 14:44:43",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Great Britain's ambassador with a message to the Danes: We are the Arctic's closest neighbour.We take that responsibility seriously",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/storbritanniens-ambassadoer-med-besked-til-danskerne-vi-er-arktis-naermeste-nabo-det-ansvar-tager-vi-alvorligt?referrer=RSS",
+        "published_date": "2026-03-30 14:09:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Ulrik Bie: Trump's war sends a big bill to Europe \u2013 expensive spring on the way",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/oekonomi/ulrik-bie-trumps-krig-sender-stor-regning-til-europa--dyrt-foraar-paa-vej?referrer=RSS",
+        "published_date": "2026-03-30 13:57:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "UN soldier killed in Lebanon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fn-soldat-draebt-i-libanon",
+        "published_date": "2026-03-30 03:45:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "UN soldier killed in southern Lebanon - another critically wounded",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/fn-soldat-draebt-i-det-sydlige-libanon-en-anden-er-kritisk-saaret?referrer=RSS",
@@ -70,6 +98,13 @@
         "category": "Military"
     },
     {
+        "title": "Copenhagen\u2019s buses are now 100 percent electric",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260330/copenhagens-buses-are-now-100-percent-electric",
+        "published_date": "2026-03-30 14:35:58",
+        "category": "Energy"
+    },
+    {
         "title": "Media: US gives Russian oil tanker permission to sail to Cuba",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/medie-usa-giver-russisk-olietanker-tilladelse-til-at-sejle-til-cuba?referrer=RSS",
@@ -112,143 +147,143 @@
         "category": "Economy"
     },
     {
-        "title": "Amnesty: Critical situation in the USA may affect fans at the World Cup",
+        "title": "Family-friendly events in Copenhagen over the Easter holiday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260330/family-friendly-events-in-copenhagen-over-the-easter-holiday",
+        "published_date": "2026-03-30 15:40:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Copenhagen-Stockholm high-speed rail connection set to return",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260330/copenhagen-stockholm-high-speed-rail-connection-set-to-return",
+        "published_date": "2026-03-30 15:19:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Weather data gives residents of Odense cheaper district heating",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/amnesty-kritisk-situation-i-usa-kan-paavirke-fans-ved-vm?referrer=RSS",
-        "published_date": "2026-03-30 00:01:45",
+        "url": "https://www.berlingske.dk/danmark/vejrdata-giver-beboere-i-odense-billigere-fjernvarme?referrer=RSS",
+        "published_date": "2026-03-30 14:48:43",
         "category": "Local Events"
     },
     {
-        "title": "Sinner extends record in superb Miami Open triumph",
+        "title": "Queue formation on the Great Belt Bridge towards Funen after an accident",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/sinner-udbygger-rekord-i-suveraen-miami-open-triumf?referrer=RSS",
-        "published_date": "2026-03-29 23:58:47",
+        "url": "https://www.berlingske.dk/indland/koedannelse-paa-storebaeltsbroen-mod-fyn-efter-uheld?referrer=RSS",
+        "published_date": "2026-03-30 14:44:46",
         "category": "Local Events"
     },
     {
-        "title": "After a six-year hiatus, Air China flies to North Korea again",
+        "title": "The US has reopened its embassy in Venezuela after seven years",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-har-genaabnet-ambassaden-i-venezuela-efter-syv-aar",
+        "published_date": "2026-03-30 14:43:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish furniture manufacturer turns a deficit into a profit of millions",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/air-china-flyver-efter-seks-aars-pause-igen-til-nordkorea?referrer=RSS",
-        "published_date": "2026-03-29 23:46:47",
+        "url": "https://www.berlingske.dk/business/dansk-moebelproducent-vender-underskud-til-millionoverskud?referrer=RSS",
+        "published_date": "2026-03-30 14:28:56",
         "category": "Local Events"
     },
     {
-        "title": "Hundreds were evacuated after fire at German nightclub",
+        "title": "Svensson's chemistry with the new sporting director is the management's responsibility",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hundredvis-blev-evakueret-efter-brand-paa-tysk-natklub?referrer=RSS",
-        "published_date": "2026-03-29 23:14:46",
+        "url": "https://www.berlingske.dk/sport/svenssons-kemi-med-ny-sportsdirektoer-er-ledelsens-ansvar?referrer=RSS",
+        "published_date": "2026-03-30 14:28:50",
         "category": "Local Events"
     },
     {
-        "title": "H\u00f8jgaard has to settle for second place after a difficult last round",
+        "title": "The US embassy in Venezuela reopens after seven years",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/hoejgaard-maa-noejes-med-andenplads-efter-svaer-sidste-runde?referrer=RSS",
-        "published_date": "2026-03-29 22:10:49",
+        "url": "https://www.berlingske.dk/internationalt/usas-ambassade-i-venezuela-genaabner-efter-syv-aar?referrer=RSS",
+        "published_date": "2026-03-30 14:28:47",
         "category": "Local Events"
     },
     {
-        "title": "Reactor coolant production plant destroyed in Iran",
+        "title": "Germany is working to send Syrian refugees home",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tyskland-arbejder-paa-sende-syriske-flygtninge-hjem",
+        "published_date": "2026-03-30 14:21:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel on clash with CNN team: 'A serious ethical and professional failure'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-om-sammenstoed-med-cnn-hold-et-alvorligt-etisk-og-professionelt-svigt",
+        "published_date": "2026-03-30 14:04:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "War in the Middle East - follow here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/anlaeg-til-produktion-af-koelemateriale-til-reaktor-oedelagt-i-iran?referrer=RSS",
-        "published_date": "2026-03-29 21:48:47",
+        "url": "https://www.berlingske.dk/internationalt/krig-i-mellemoesten--foelg-med-her-121?referrer=RSS",
+        "published_date": "2026-03-30 13:53:10",
         "category": "Local Events"
     },
     {
-        "title": "Vestas expects to have to cut 440 positions",
+        "title": "The negotiations for a new government are underway - follow here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/vestas-forventer-at-maatte-nedlaegge-440-stillinger?referrer=RSS",
-        "published_date": "2026-03-29 20:10:48",
+        "url": "https://www.berlingske.dk/politik/forhandlingerne-om-en-ny-regering-er-i-gang--foelg-med-her-2?referrer=RSS",
+        "published_date": "2026-03-30 13:50:24",
         "category": "Local Events"
     },
     {
-        "title": "Excluded member will not let mandates go to Liberal Alliance",
+        "title": "Danish word of the day: Vemodig",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260330/danish-word-of-the-day-vemodig",
+        "published_date": "2026-03-30 13:02:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Over 5,000 are charged with reckless driving",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ekskluderet-medlem-vil-ikke-lade-mandater-gaa-til-liberal-alliance",
-        "published_date": "2026-03-29 19:19:00",
+        "url": "https://www.dr.dk/nyheder/seneste/over-5-000-er-sigtet-vanvidsbilisme",
+        "published_date": "2026-03-30 12:45:00",
         "category": "Local Events"
     },
     {
-        "title": "Paintings by Renoir, C\u00e9zanne and Matisse stolen in Italy",
+        "title": "So\u2026 who is the prime minister of Denmark right now?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260330/so-who-is-the-prime-minister-of-denmark-right-now",
+        "published_date": "2026-03-30 12:30:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish delivery service Dao warns of scam 'genuine' address requests",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260330/danish-delivery-service-dao-warns-of-fake-scam-messages",
+        "published_date": "2026-03-30 11:13:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "American universities in Armenia and Lebanon move online after Iranian threats",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/malerier-af-renoir-cezanne-og-matisse-stjaalet-i-italien",
-        "published_date": "2026-03-29 18:26:00",
+        "url": "https://www.dr.dk/nyheder/seneste/amerikanske-universiteter-i-armenien-og-libanon-rykker-online-efter-iranske-trusler",
+        "published_date": "2026-03-30 10:35:00",
         "category": "Local Events"
     },
     {
-        "title": "Vestas will cut 440 positions at Lind\u00f8",
+        "title": "Candidate from the Citizens' Party withdraws",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vestas-vil-nedlaegge-440-stillinger-paa-lindoe",
-        "published_date": "2026-03-29 17:35:33",
+        "url": "https://www.dr.dk/nyheder/seneste/kandidat-fra-borgernes-parti-traekker-sig",
+        "published_date": "2026-03-30 10:33:00",
         "category": "Local Events"
     },
     {
-        "title": "AI images of the Crown Princess of Belgium spread",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ai-billeder-af-belgiens-kronprinsesse-spredes",
-        "published_date": "2026-03-29 15:39:00",
+        "title": "Danish wind turbine giant Vestas set to cut over 400 jobs",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260330/danish-wind-turbine-giant-vestas-set-to-cut-over-400-jobs",
+        "published_date": "2026-03-30 10:26:34",
         "category": "Local Events"
     },
     {
-        "title": "Macron and Meloni condemn the decision to deny the cardinal access to the Church of the Holy Sepulchre",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/macron-og-meloni-fordoemmer-beslutning-om-naegte-kardinal-adgang-til-gravkirken",
-        "published_date": "2026-03-29 14:44:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two more people arrested for thwarted attack in Paris",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/yderligere-personer-anholdt-afvaerget-angreb-i-paris",
-        "published_date": "2026-03-29 13:52:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Office chair Grand Prix held in Japan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kontorstols-grand-prix-afholdt-i-japan",
-        "published_date": "2026-03-29 13:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train has hit a flock of sheep - two train departures cancelled",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tog-har-ramt-en-faareflok-togafgange-aflyst",
-        "published_date": "2026-03-29 12:52:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Insurance company for holiday home owners: Hidden water damage can surprise after a long winter",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/forsikringsselskab-til-sommerhusejere-skjulte-vandskader-kan-overraske-efter-lang-vinter",
-        "published_date": "2026-03-29 12:27:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Finland suspects territorial violation after two drones crash",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/finland-mistaenker-territorialkraenkelse-efter-droner-er-styrtet-ned",
-        "published_date": "2026-03-29 11:39:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unusual weather phenomenon on the Australian west coast",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/video-usaedvanligt-vejrfaenomen-paa-den-australske-vestkyst?referrer=RSS",
-        "published_date": "2026-03-29 11:37:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Verstappen misses the joy and is considering a Formula 1 exit",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/verstappen-savner-glaeden-og-overvejer-formel-1-exit?referrer=RSS",
-        "published_date": "2026-03-29 11:20:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Church leaders prevented from celebrating Palm Sunday in the Church of the Holy Sepulcher",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kirke-ledere-forhindret-i-fejre-palmesoendag-i-gravkirken",
-        "published_date": "2026-03-29 11:12:00",
+        "title": "Today in Denmark: A roundup of the latest news on Monday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260330/today-in-denmark-a-roundup-of-the-latest-news-on-monday-38",
+        "published_date": "2026-03-30 08:28:07",
         "category": "Local Events"
     }
 ]
