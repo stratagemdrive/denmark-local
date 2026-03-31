@@ -1,5 +1,33 @@
 [
     {
+        "title": "Can Denmark respond to soaring fuel prices without a government?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260331/can-denmark-respond-to-soaring-fuel-prices-without-a-government",
+        "published_date": "2026-03-31 15:11:01",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Business update: Oh no, Trump.Gasoline prices in the US at the highest level since 2022",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/aktier/business-update-aah-nej-trump-benzinprisen-i-usa-paa-det-hoejeste-niveau-siden-2022?referrer=RSS",
+        "published_date": "2026-03-31 14:49:52",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Inflation in Europe is rising",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/inflationen-i-europa-stiger",
+        "published_date": "2026-03-31 09:39:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Bangkok will host the first Asian Eurovision",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bangkok-bliver-vaert-foerste-eurovision-i-asien",
+        "published_date": "2026-03-31 06:17:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Company warns of oil spill after attack on large tanker in Dubai",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/selskab-advarer-om-olieudslip-efter-angreb-paa-stort-tankskib-i-dubai?referrer=RSS",
@@ -98,6 +126,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Mayor on Erik's fight against Citizen Service in the address case: - We have reached out",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/middelfart/borgmester-om-eriks-kamp-mod-borgerservice-i-adresse-sag-vi-har-rakt-haanden-frem?rss",
+        "published_date": "2026-03-31 16:06:00",
+        "category": "Military"
+    },
+    {
+        "title": "Danish princess among first to serve 11 months national service",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260331/danish-princess-among-first-to-serve-11-months-national-service",
+        "published_date": "2026-03-31 11:57:28",
+        "category": "Military"
+    },
+    {
         "title": "150 Iranian naval vessels are destroyed after four weeks of war",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/150-iranske-flaadefartoejer-er-oedelagt-efter-fire-ugers-krig?referrer=RSS",
@@ -140,6 +182,13 @@
         "category": "Energy"
     },
     {
+        "title": "Enhedslisten continues to fight for wealth tax, but is not ultimate",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/enhedslisten-kaemper-videre-for-formueskat-men-er-ikke-ultimative?referrer=RSS",
+        "published_date": "2026-03-31 14:44:48",
+        "category": "Economy"
+    },
+    {
         "title": "The Danes are crazy about dividend shares - but many overlook a few important details",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/aktier/danskerne-er-vilde-med-udbytteaktier--men-mange-overser-et-par-vigtige-detaljer?referrer=RSS",
@@ -168,143 +217,143 @@
         "category": "Economy"
     },
     {
-        "title": "Trump gets airport in Florida named after him",
+        "title": "Seven-month manhunt in the Australian bush is over: Wanted man killed by police",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-faar-lufthavn-i-florida-opkaldt-efter-sig?referrer=RSS",
-        "published_date": "2026-03-30 23:55:47",
+        "url": "https://www.berlingske.dk/internationalt/syv-maaneders-jagt-i-den-australske-bush-er-slut-eftersoegt-mand-draebt-af-politiet?referrer=RSS",
+        "published_date": "2026-03-31 14:49:34",
         "category": "Local Events"
     },
     {
-        "title": "FBI: Synagogue attack in Michigan was terrorism inspired by Hezbollah",
+        "title": "Fifa president: Iran's World Cup matches will be played in the US as planned",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fifa-praesident-irans-vm-kampe-spilles-i-usa-som-planlagt?referrer=RSS",
+        "published_date": "2026-03-31 14:47:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "US gasoline prices reach highest level since 2022",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/amerikanske-benzinpriser-naar-hoejeste-niveau-siden-2022?referrer=RSS",
+        "published_date": "2026-03-31 14:47:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish series are in the running for the TV festival in Cannes",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/danske-serier-er-med-i-oploebet-til-tv-festival-i-cannes?referrer=RSS",
+        "published_date": "2026-03-31 14:40:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The owner-occupied home has become a privilege \u2013 not an opportunity",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/ejerboligen-er-blevet-et-privilegium--ikke-en-mulighed?referrer=RSS",
+        "published_date": "2026-03-31 14:38:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police make a stay ban in the Comanches clubhouse in North Jutland",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-laver-opholdsforbud-i-comanches-klubhus-i-nordjylland?referrer=RSS",
+        "published_date": "2026-03-31 14:37:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Employment increases for the 25th month in a row",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fbi-synagoge-angreb-i-michigan-var-terror-inspireret-af-hizbollah",
-        "published_date": "2026-03-30 23:29:00",
+        "url": "https://www.dr.dk/nyheder/seneste/beskaeftigelsen-stiger-25-maaned-i-traek",
+        "published_date": "2026-03-31 14:31:00",
         "category": "Local Events"
     },
     {
-        "title": "Synagogue attack in Michigan was terror inspired by Hezbollah",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/synagoge-angreb-i-michigan-var-terror-inspireret-af-hizbollah?referrer=RSS",
-        "published_date": "2026-03-30 23:14:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Australia is investigating tech giants for breaching social media bans",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/australien-gransker-techgiganter-for-brud-paa-forbud-mod-sociale-medier?referrer=RSS",
-        "published_date": "2026-03-30 23:14:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Netanyahu: We are over halfway with efforts against Iran",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/netanyahu-vi-er-over-halvvejs-med-indsats-mod-iran?referrer=RSS",
-        "published_date": "2026-03-30 22:19:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Karsten M\u00f8ller Hansen: She let me understand that it was not death she was thinking about.It was all she could no longer do",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/karsten-moeller-hansen-hun-lod-mig-forstaa-at-det-ikke-var-doeden-hun-taenkte-paa-det-var-alt-det-hun-ikke-laengere-kunne?referrer=RSS",
-        "published_date": "2026-03-30 21:55:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Love for the people",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/poesi/kaerlighed-til-folket?referrer=RSS",
-        "published_date": "2026-03-30 21:34:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fewer people visit health platform after dissemination of Google's AI overview",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/faerre-besoeger-sundhedsplatform-efter-udbredelse-af-googles-ai-oversigt?referrer=RSS",
-        "published_date": "2026-03-30 21:26:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iranian state television reports on the toll plan for the Strait of Hormuz",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iransk-stats-tv-bringer-melding-om-afgiftsplan-for-hormuzstraedet?referrer=RSS",
-        "published_date": "2026-03-30 21:17:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "C\u00e9line Dion gives ten concerts in France",
+        "title": "Spain's Prime Minister calls Israel's new law 'another step towards apartheid'",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/celine-dion-giver-ti-koncerter-i-frankrig",
-        "published_date": "2026-03-30 19:28:00",
+        "url": "https://www.dr.dk/nyheder/seneste/spaniens-premierminister-kalder-israels-nye-lov-endnu-et-skridt-mod-apartheid",
+        "published_date": "2026-03-31 14:26:00",
         "category": "Local Events"
     },
     {
-        "title": "The police have lifted the visitation zone in Odense",
+        "title": "Olga Ravn is out of the final sprint for the international book prize",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/olga-ravn-er-ude-af-slutspurten-til-international-bogpris?referrer=RSS",
+        "published_date": "2026-03-31 14:21:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police issue a temporary restraining order at the rock clubhouse",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-har-ophaevet-visitationszone-i-odense",
-        "published_date": "2026-03-30 19:04:00",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-udsteder-midlertidigt-opholdsforbud-ved-rockerklubhus",
+        "published_date": "2026-03-31 14:21:00",
         "category": "Local Events"
     },
     {
-        "title": "Israel passes death penalty law",
+        "title": "Gasoline prices in the US reach their highest point in several years",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israel-vedtager-lov-om-doedstraf",
-        "published_date": "2026-03-30 18:36:00",
+        "url": "https://www.dr.dk/nyheder/seneste/benzinpriser-i-usa-naar-hoejeste-punkt-i-flere-aar",
+        "published_date": "2026-03-31 14:20:00",
         "category": "Local Events"
     },
     {
-        "title": "Outbreak of contagious cattle disease in Esbjerg",
+        "title": "US vice president publishes book about his faith",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/udbrud-af-smitsom-kvaegsygdom-i-esbjerg",
-        "published_date": "2026-03-30 18:10:00",
+        "url": "https://www.dr.dk/nyheder/seneste/amerikansk-vicepraesident-udgiver-bog-om-sin-tro",
+        "published_date": "2026-03-31 14:12:00",
         "category": "Local Events"
     },
     {
-        "title": "Condolences only in English after the accident: Now the flight commander is leaving",
+        "title": "Stewardess tested positive for alcohol: SAS takes it 'very seriously'",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kondolerede-kun-paa-engelsk-efter-ulykke-nu-gaar-flychef-af",
-        "published_date": "2026-03-30 15:45:00",
+        "url": "https://www.dr.dk/nyheder/seneste/stewardesse-testede-positiv-alkohol-sas-tager-det-meget-alvorligt",
+        "published_date": "2026-03-31 13:49:00",
         "category": "Local Events"
     },
     {
-        "title": "Family-friendly events in Copenhagen over the Easter holiday",
+        "title": "UPDATE: Denmark's MitID digital ID system restored after outage",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260330/family-friendly-events-in-copenhagen-over-the-easter-holiday",
-        "published_date": "2026-03-30 15:40:38",
+        "url": "https://www.thelocal.dk/20260331/denmarks-mitid-digital-id-system-inaccessible-due-to-outage",
+        "published_date": "2026-03-31 13:26:53",
         "category": "Local Events"
     },
     {
-        "title": "Copenhagen-Stockholm high-speed rail connection set to return",
+        "title": "Police move out with a mobile police station in Kastrup after a shooting incident",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-rykker-ud-med-mobil-politistation-i-kastrup-efter-skudepisode",
+        "published_date": "2026-03-31 13:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Why April could mean better Danish weather than you might think",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260330/copenhagen-stockholm-high-speed-rail-connection-set-to-return",
-        "published_date": "2026-03-30 15:19:32",
+        "url": "https://www.thelocal.dk/20260331/why-april-could-mean-better-danish-weather-than-you-might-think",
+        "published_date": "2026-03-31 12:59:06",
         "category": "Local Events"
     },
     {
-        "title": "Beaver's dams kicked to pieces in Hiller\u00f8d",
+        "title": "A safe with confidential documents is gone after a burglary in a municipal building",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/baeveres-daemninger-sparket-i-stykker-i-hilleroed",
-        "published_date": "2026-03-30 15:00:00",
+        "url": "https://www.dr.dk/nyheder/seneste/pengeskab-med-fortrolige-dokumenter-er-vaek-efter-indbrud-i-kommunal-bygning",
+        "published_date": "2026-03-31 12:57:00",
         "category": "Local Events"
     },
     {
-        "title": "Weather data gives residents of Odense cheaper district heating",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/vejrdata-giver-beboere-i-odense-billigere-fjernvarme?referrer=RSS",
-        "published_date": "2026-03-30 14:48:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Queue formation on the Great Belt Bridge towards Funen after an accident",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/koedannelse-paa-storebaeltsbroen-mod-fyn-efter-uheld?referrer=RSS",
-        "published_date": "2026-03-30 14:44:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US has reopened its embassy in Venezuela after seven years",
+        "title": "King Charles is going on a state visit to the United States",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-har-genaabnet-ambassaden-i-venezuela-efter-syv-aar",
-        "published_date": "2026-03-30 14:43:00",
+        "url": "https://www.dr.dk/nyheder/seneste/kong-charles-skal-paa-statsbesoeg-i-usa",
+        "published_date": "2026-03-31 12:22:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "What could Greenlandic politicians ask for in Danish government talks?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260331/what-could-greenlandic-politicians-ask-for-in-danish-government-talks",
+        "published_date": "2026-03-31 12:14:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lidl is recalling scrambled eggs sold throughout the country",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lidl-tilbagekalder-skrabeaeg-solgt-i-hele-landet",
+        "published_date": "2026-03-31 12:03:00",
         "category": "Local Events"
     }
 ]
