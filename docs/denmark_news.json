@@ -1,5 +1,33 @@
 [
     {
+        "title": "Trump will express his disgust with NATO in a pre-announced speech",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-vil-udtrykke-afsky-over-for-nato-i-varslet-tale?referrer=RSS",
+        "published_date": "2026-04-01 14:23:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Trump will express 'disgust' towards Nato in announced speech",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-vil-udtrykke-afsky-over-nato-i-varslet-tale",
+        "published_date": "2026-04-01 13:43:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "How to save money on food and drink in Denmark",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260401/how-to-save-money-on-food-and-drink-in-denmark",
+        "published_date": "2026-04-01 13:11:21",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Trump threatens to pull the US out of NATO",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-truer-med-traekke-usa-ud-af-nato",
+        "published_date": "2026-04-01 09:58:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "UN commissioner wants Israel to immediately repeal new death penalty law",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/fn-kommissaer-vil-have-israel-til-straks-ophaeve-ny-lov-om-doedsstraf",
@@ -112,32 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "In the middle of the interview, Christine Lagarde came up with a warning: It exceeds anything we can imagine",
+        "title": "Trump: Iran has asked for a ceasefire",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/aktier/midt-i-interviewet-kom-christine-lagarde-med-en-advarsel-det-overgaar-alt-vi-kan-forestille-os?referrer=RSS",
-        "published_date": "2026-03-28 17:08:01",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/trump-iran-har-bedt-om-vaabenhvile?referrer=RSS",
+        "published_date": "2026-04-01 14:35:46",
+        "category": "Military"
     },
     {
-        "title": "Viborg is ready for the European semi-finals after overall victory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/viborg-er-klar-til-europaeisk-semifinale-efter-samlet-sejr?referrer=RSS",
-        "published_date": "2026-03-28 16:39:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "What are European countries doing to keep fuel costs down?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260328/what-are-european-countries-doing-to-keep-fuel-costs-down",
-        "published_date": "2026-03-28 14:13:15",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "UK warns of Easter travel delays due to new EU border checks",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260327/uk-warns-of-easter-travel-delays-to-due-to-new-eu-border-checks",
-        "published_date": "2026-03-27 12:40:25",
-        "category": "Diplomacy"
+        "title": "Trump: Iran has just asked the US for a ceasefire",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-iran-har-netop-bedt-usa-om-en-vaabenhvile",
+        "published_date": "2026-04-01 13:10:00",
+        "category": "Military"
     },
     {
         "title": "29 are reported dead after a Russian military plane has crashed over the Crimean peninsula",
@@ -182,13 +196,6 @@
         "category": "Military"
     },
     {
-        "title": "Absurd error became Erik's headache: Must prove that he has not lived in Ukraine for two years",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/middelfart/kommunens-fejl-blev-eriks-hovedpine-skal-bevise-at-han-ikke-har-boet-i-ukraine?rss",
-        "published_date": "2026-03-24 05:08:00",
-        "category": "Military"
-    },
-    {
         "title": "Copenhagen\u2019s buses are now 100 percent electric",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260330/copenhagens-buses-are-now-100-percent-electric",
@@ -208,6 +215,13 @@
         "url": "https://www.dr.dk/nyheder/seneste/vigtig-russisk-oliehavn-ramt-af-ukrainsk-droneangreb-siger-russisk-guvernoer",
         "published_date": "2026-03-29 07:54:00",
         "category": "Energy"
+    },
+    {
+        "title": "Danish shares rise after new Trump announcement",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danske-aktier-stiger-efter-ny-trump-melding",
+        "published_date": "2026-04-01 07:34:00",
+        "category": "Economy"
     },
     {
         "title": "Enhedslisten continues to fight for wealth tax, but is not ultimate",
@@ -245,143 +259,143 @@
         "category": "Economy"
     },
     {
-        "title": "Disappointed Brian Riemer has no plans to leave his job",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/skuffet-brian-riemer-har-ingen-planer-om-at-forlade-sit-job?referrer=RSS",
-        "published_date": "2026-03-31 23:41:47",
+        "title": "Tell The Local Denmark's new editor what issues you want us to cover",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260401/tell-the-local-denmarks-new-editor-what-issues-you-want-us-to-cover",
+        "published_date": "2026-04-01 15:26:58",
         "category": "Local Events"
     },
     {
-        "title": "Tiger Woods is taking a break and will seek treatment",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tiger-woods-tager-pause-og-vil-soege-behandling?referrer=RSS",
-        "published_date": "2026-03-31 23:35:48",
+        "title": "Pig milk and beer-flavoured condoms: Denmark's best April Fool jokes",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260401/pig-milk-and-beer-flavoured-condoms-denmarks-best-april-fool-jokes",
+        "published_date": "2026-04-01 15:03:12",
         "category": "Local Events"
     },
     {
-        "title": "DBU director Freder Riemer after colossal WC disappointment",
+        "title": "Fire in pig transport blocks motorway lanes",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dbu-direktoer-freder-riemer-efter-kolossal-vm-skuffelse?referrer=RSS",
-        "published_date": "2026-03-31 23:04:48",
+        "url": "https://www.berlingske.dk/indland/brand-i-grisetransport-spaerrer-motorvejsspor?referrer=RSS",
+        "published_date": "2026-04-01 14:53:44",
         "category": "Local Events"
     },
     {
-        "title": "Two out of three Americans want a quick end to the Iran war",
+        "title": "The press is looking for a scapegoat.But why isn't the arrow pointing at Trump?- Birgitte Borup has selected today's stories",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/to-ud-af-tre-amerikanere-oensker-hurtig-afslutning-paa-iran-krig?referrer=RSS",
-        "published_date": "2026-03-31 22:41:46",
+        "url": "https://www.berlingske.dk/indland/pressen-leder-efter-en-syndebuk-men-hvorfor-peger-pilen-ikke-paa-trump-birgitte-borup-har-udvalgt-dagens-historier?referrer=RSS",
+        "published_date": "2026-04-01 14:44:38",
         "category": "Local Events"
     },
     {
-        "title": "Trump: The US may soon end the war in Iran",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-usa-kan-snart-ende-krig-i-iran?referrer=RSS",
-        "published_date": "2026-03-31 22:35:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dejected Brian Riemer: It's on our shoulders",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/nedslaaet-brian-riemer-det-ligger-paa-vores-skuldre?referrer=RSS",
-        "published_date": "2026-03-31 22:24:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump tightens rules for postal votes ahead of midterm elections",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-strammer-regler-for-brevstemmer-forud-for-midtvejsvalg?referrer=RSS",
-        "published_date": "2026-03-31 22:20:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish hero on WC ticket: It is indescribable",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/svensk-helt-om-vm-billet-det-er-ubeskriveligt?referrer=RSS",
-        "published_date": "2026-03-31 22:13:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Failure in Prague: The national team threw it all on the floor in a Czech nightmare",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/fiasko-i-prag-landsholdet-smed-det-hele-paa-gulvet-i-tjekkisk-mareridt?referrer=RSS",
-        "published_date": "2026-03-31 22:01:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge orders construction halt on Trump's ballroom project",
+        "title": "Trump is the first president to attend arguments in the Supreme Court",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dommer-beordrer-byggestop-paa-trumps-balsals-projekt",
-        "published_date": "2026-03-31 19:47:00",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-overvaerer-som-foerste-praesident-argumenter-i-hoejesteret",
+        "published_date": "2026-04-01 14:44:00",
         "category": "Local Events"
     },
     {
-        "title": "Foreign journalist kidnapped in Iraq",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/udenlandsk-journalist-kidnappet-i-irak",
-        "published_date": "2026-03-31 18:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran has the 'necessary will' to end the war, says the country's president",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-har-den-noedvendige-vilje-til-afslutte-krigen-siger-landets-praesident",
-        "published_date": "2026-03-31 18:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Finland finds drone close to border with Russia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/finland-finder-drone-taet-paa-graensen-til-rusland",
-        "published_date": "2026-03-31 17:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "US Supreme Court strikes down Colorado's ban on conversion therapy",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-s-hoejesteret-underkender-colorados-forbud-mod-omvendelsesterapi",
-        "published_date": "2026-03-31 17:41:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "France bans nicotine pouches from tomorrow",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/frankrig-forbyder-nikotinposer-fra-i-morgen",
-        "published_date": "2026-03-31 15:32:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "King Frederik has now taken over Marselisborg Castle",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kong-frederik-har-nu-overtaget-marselisborg-slot",
-        "published_date": "2026-03-31 15:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "After great success: Now the bus to Trelleborg will be free all season",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-stor-succes-nu-bliver-bussen-til-trelleborg-gratis-hele-saesonen",
-        "published_date": "2026-03-31 14:58:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Seven-month manhunt in the Australian bush is over: Wanted man killed by police",
+        "title": "Trump in a completely unusual visit to the Supreme Court",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/syv-maaneders-jagt-i-den-australske-bush-er-slut-eftersoegt-mand-draebt-af-politiet?referrer=RSS",
-        "published_date": "2026-03-31 14:49:34",
+        "url": "https://www.berlingske.dk/internationalt/trump-i-helt-usaedvanligt-hoejesteretsbesoeg?referrer=RSS",
+        "published_date": "2026-04-01 14:41:45",
         "category": "Local Events"
     },
     {
-        "title": "Fifa president: Iran's World Cup matches will be played in the US as planned",
+        "title": "Organization is heavy on Enhedslisten and the Alternative: \"Voters may end up with something different than they expected\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fifa-praesident-irans-vm-kampe-spilles-i-usa-som-planlagt?referrer=RSS",
-        "published_date": "2026-03-31 14:47:50",
+        "url": "https://www.berlingske.dk/indland/organisation-sidder-tungt-paa-enhedslisten-og-alternativet-vaelgere-kan-ende-med-andet-end-de-regnede-med?referrer=RSS",
+        "published_date": "2026-04-01 14:26:21",
         "category": "Local Events"
     },
     {
-        "title": "US gasoline prices reach highest level since 2022",
+        "title": "Hackers gained access to personal data in a data breach at Sats",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amerikanske-benzinpriser-naar-hoejeste-niveau-siden-2022?referrer=RSS",
-        "published_date": "2026-03-31 14:47:46",
+        "url": "https://www.berlingske.dk/danmark/hackere-fik-adgang-til-persondata-i-databrud-hos-sats?referrer=RSS",
+        "published_date": "2026-04-01 14:20:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Italian star steals victory from van Aert in wild classic",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/italiensk-stjerne-stjaeler-sejren-fra-van-aert-i-vild-klassiker?referrer=RSS",
+        "published_date": "2026-04-01 14:14:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump in the White House - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-i-det-hvide-hus--foelg-med-her-90?referrer=RSS",
+        "published_date": "2026-04-01 13:53:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thief stole Faberg\u00e9 eggs while Salling's widow was at home",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tyv-stjal-faberge-aeg-mens-salling-enke-var-hjemme?referrer=RSS",
+        "published_date": "2026-04-01 13:52:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Teenagers remanded in custody for case of shooting at apartment in Kastrup",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/teenagere-varetaegtsfaengslet-sag-om-skud-mod-lejlighed-i-kastrup",
+        "published_date": "2026-04-01 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "58-year-old from Helsinge gets nine years in prison in drug case",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/58-aarig-fra-helsinge-faar-ni-aars-faengsel-i-narkosag",
+        "published_date": "2026-04-01 12:51:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Convicted in neighbor dispute appeals verdict",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doemt-i-nabostrid-anker-dom",
+        "published_date": "2026-04-01 12:28:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Try it in Copenhagen: Now your old appliances can get a new lease of life",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/forsoeg-i-koebenhavn-nu-kan-dine-gamle-haarde-hvidevarer-faa-nyt-liv",
+        "published_date": "2026-04-01 12:27:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A golden toilet has appeared in Washington",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/et-gyldent-toilet-er-dukket-op-i-washington",
+        "published_date": "2026-04-01 12:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Case about reminder fee on parking fine settled",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sag-om-rykkergebyr-paa-p-boede-afgjort",
+        "published_date": "2026-04-01 11:47:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Election posters must be removed before midnight",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/valgplakater-skal-fjernes-inden-midnat",
+        "published_date": "2026-04-01 10:18:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "'An historic catastrophe': Denmark reacts to missing out on World Cup",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260401/danish-mens-team-to-miss-football-world-cup-for-first-time-since-2014",
+        "published_date": "2026-04-01 09:10:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Then it's over with breezers and spirits in special places in the store",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/saa-er-det-slut-med-breezers-og-spiritus-paa-saerlige-steder-i-butikken",
+        "published_date": "2026-04-01 08:46:00",
         "category": "Local Events"
     }
 ]
