@@ -1,5 +1,19 @@
 [
     {
+        "title": "NATO chief visits Washington next week as Trump threatens to pull out of the alliance",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nato-chef-besoeger-washington-i-naeste-uge-mens-trump-truer-med-traekke-sig-ud-af-alliancen",
+        "published_date": "2026-04-01 22:31:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Finland's president to Trump: A more European NATO is taking shape",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/finlands-praesident-til-trump-et-mere-europaeisk-nato-tager-form",
+        "published_date": "2026-04-01 17:41:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Trump will express his disgust with NATO in a pre-announced speech",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-vil-udtrykke-afsky-over-for-nato-i-varslet-tale?referrer=RSS",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The death penalty proposal in Israel worries several European countries",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/doedsstraf-forslag-i-israel-bekymrer-flere-europaeiske-lande?referrer=RSS",
-        "published_date": "2026-03-29 22:13:46",
-        "category": "Diplomacy"
+        "title": "Drone found on Finnish lake came from Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/drone-fundet-paa-finsk-soe-kom-fra-ukraine",
+        "published_date": "2026-04-01 19:01:00",
+        "category": "Military"
     },
     {
-        "title": "Over 12 tonnes of new KitKat chocolate range stolen in Europe",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260329/over-12-tonnes-of-new-kitkat-chocolate-range-stolen-in-europe",
-        "published_date": "2026-03-29 16:14:52",
-        "category": "Diplomacy"
+        "title": "Extensive Russian drone attack against Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/omfattende-russisk-droneangreb-mod-ukraine",
+        "published_date": "2026-04-01 16:48:00",
+        "category": "Military"
     },
     {
         "title": "Trump: Iran has asked for a ceasefire",
@@ -194,6 +208,13 @@
         "url": "https://www.dr.dk/nyheder/seneste/ukraine-indgaar-flere-forsvarssamarbejder-i-mellemoesten",
         "published_date": "2026-03-28 14:51:00",
         "category": "Military"
+    },
+    {
+        "title": "US lifts sanctions against Venezuela's interim president",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-ophaever-sanktioner-mod-venezuelas-midlertidige-praesident?referrer=RSS",
+        "published_date": "2026-04-01 20:41:44",
+        "category": "Energy"
     },
     {
         "title": "Copenhagen\u2019s buses are now 100 percent electric",
@@ -259,10 +280,122 @@
         "category": "Economy"
     },
     {
+        "title": "A Tsunami warning has been issued following an earthquake in the Moluccas Sea near Indonesia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/der-er-udsendt-tsunami-advarsel-efter-jordskaelv-i-molukkerhavet-naer-indonesien",
+        "published_date": "2026-04-01 23:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earthquake in Indonesia triggers tsunami warning",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/jordskaelv-i-indonesien-udloeser-varsel-om-tsunami?referrer=RSS",
+        "published_date": "2026-04-01 23:36:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Astronauts heading for the Moon after successful launch",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/astronauter-har-kurs-mod-maanen-efter-vellykket-opsendelse?referrer=RSS",
+        "published_date": "2026-04-01 23:28:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "DNA test links American serial killer to 52-year-old murder",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/dna-test-knytter-amerikansk-seriemorder-til-52-aar-gammelt-drab?referrer=RSS",
+        "published_date": "2026-04-01 21:26:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "GOG collapses against Nantes in the Champions League",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/gog-kollapser-mod-nantes-i-champions-league?referrer=RSS",
+        "published_date": "2026-04-01 20:45:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "A man and a woman have been found dead in the same home in L\u00f8gst\u00f8r",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-og-kvinde-er-fundet-doede-i-samme-hjem-i-loegstoer",
+        "published_date": "2026-04-01 20:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A man and a woman have been found dead in the same home in L\u00f8gst\u00f8r",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-og-kvinde-er-fundet-doede-i-samme-hjem-i-loegstoer?referrer=RSS",
+        "published_date": "2026-04-01 20:18:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "DNA links serial killer Ted Bundy to unsolved murder in the US",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dna-knytter-massemorder-ted-bundy-til-uopklaret-drab-i-usa",
+        "published_date": "2026-04-01 20:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Odense and Team Esbjerg continue their race for first place",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/odense-og-team-esbjerg-fortsaetter-parloeb-om-foersteplads?referrer=RSS",
+        "published_date": "2026-04-01 20:05:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several people arrested in suspicious circumstances in Kalvehave",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/flere-personer-anholdt-i-mistaenkeligt-forhold-i-kalvehave?referrer=RSS",
+        "published_date": "2026-04-01 20:02:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fines are no longer behavioral regulation \u2013 they have become a business model",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/boeder-er-ikke-laengere-adfaerdsregulering--det-er-blevet-en-forretningsmodel?referrer=RSS",
+        "published_date": "2026-04-01 19:54:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "A fire in a pig transport caused problems on the motorway for several hours",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/brand-i-grisetransport-gav-problemer-paa-motorvej-i-flere-timer?referrer=RSS",
+        "published_date": "2026-04-01 19:46:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Astronauts on their way to spacecraft",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/astronauter-paa-vej-til-rumfartoej",
+        "published_date": "2026-04-01 18:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norwegian ship run over by environmental activists in Antarctica",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/norsk-skib-paasejlet-af-miljoeaktivister-ved-antarktis",
+        "published_date": "2026-04-01 17:29:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "US FDA approves Eli Lilly's weight loss pill",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/amerikansk-laegemiddelstyrelse-godkender-eli-lillys-vaegttabspille",
+        "published_date": "2026-04-01 15:57:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Tell The Local Denmark's new editor what issues you want us to cover",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260401/tell-the-local-denmarks-new-editor-what-issues-you-want-us-to-cover",
         "published_date": "2026-04-01 15:26:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three people in custody for two arson attacks",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-personer-varetaegtsfaengslet-brandattentater",
+        "published_date": "2026-04-01 15:23:00",
         "category": "Local Events"
     },
     {
@@ -284,118 +417,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/pressen-leder-efter-en-syndebuk-men-hvorfor-peger-pilen-ikke-paa-trump-birgitte-borup-har-udvalgt-dagens-historier?referrer=RSS",
         "published_date": "2026-04-01 14:44:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump is the first president to attend arguments in the Supreme Court",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-overvaerer-som-foerste-praesident-argumenter-i-hoejesteret",
-        "published_date": "2026-04-01 14:44:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump in a completely unusual visit to the Supreme Court",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-i-helt-usaedvanligt-hoejesteretsbesoeg?referrer=RSS",
-        "published_date": "2026-04-01 14:41:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Organization is heavy on Enhedslisten and the Alternative: \"Voters may end up with something different than they expected\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/organisation-sidder-tungt-paa-enhedslisten-og-alternativet-vaelgere-kan-ende-med-andet-end-de-regnede-med?referrer=RSS",
-        "published_date": "2026-04-01 14:26:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hackers gained access to personal data in a data breach at Sats",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/hackere-fik-adgang-til-persondata-i-databrud-hos-sats?referrer=RSS",
-        "published_date": "2026-04-01 14:20:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Italian star steals victory from van Aert in wild classic",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/italiensk-stjerne-stjaeler-sejren-fra-van-aert-i-vild-klassiker?referrer=RSS",
-        "published_date": "2026-04-01 14:14:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump in the White House - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-i-det-hvide-hus--foelg-med-her-90?referrer=RSS",
-        "published_date": "2026-04-01 13:53:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Thief stole Faberg\u00e9 eggs while Salling's widow was at home",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/tyv-stjal-faberge-aeg-mens-salling-enke-var-hjemme?referrer=RSS",
-        "published_date": "2026-04-01 13:52:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Teenagers remanded in custody for case of shooting at apartment in Kastrup",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/teenagere-varetaegtsfaengslet-sag-om-skud-mod-lejlighed-i-kastrup",
-        "published_date": "2026-04-01 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "58-year-old from Helsinge gets nine years in prison in drug case",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/58-aarig-fra-helsinge-faar-ni-aars-faengsel-i-narkosag",
-        "published_date": "2026-04-01 12:51:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Convicted in neighbor dispute appeals verdict",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/doemt-i-nabostrid-anker-dom",
-        "published_date": "2026-04-01 12:28:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Try it in Copenhagen: Now your old appliances can get a new lease of life",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/forsoeg-i-koebenhavn-nu-kan-dine-gamle-haarde-hvidevarer-faa-nyt-liv",
-        "published_date": "2026-04-01 12:27:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A golden toilet has appeared in Washington",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/et-gyldent-toilet-er-dukket-op-i-washington",
-        "published_date": "2026-04-01 12:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Case about reminder fee on parking fine settled",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sag-om-rykkergebyr-paa-p-boede-afgjort",
-        "published_date": "2026-04-01 11:47:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Election posters must be removed before midnight",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/valgplakater-skal-fjernes-inden-midnat",
-        "published_date": "2026-04-01 10:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'An historic catastrophe': Denmark reacts to missing out on World Cup",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260401/danish-mens-team-to-miss-football-world-cup-for-first-time-since-2014",
-        "published_date": "2026-04-01 09:10:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Then it's over with breezers and spirits in special places in the store",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/saa-er-det-slut-med-breezers-og-spiritus-paa-saerlige-steder-i-butikken",
-        "published_date": "2026-04-01 08:46:00",
         "category": "Local Events"
     }
 ]
