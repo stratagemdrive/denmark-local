@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kallas: The EU mission in the Red Sea must be expanded",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kallas-eu-missionen-i-det-roede-hav-maa-udvides",
+        "published_date": "2026-04-02 18:36:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Shein, Temu: Why European consumers will pay more for cheap online orders",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260402/shein-temu-why-european-consumers-will-pay-more-for-cheap-online-orders",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "UN soldier killed in Lebanon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fn-soldat-draebt-i-libanon",
-        "published_date": "2026-03-30 03:45:00",
-        "category": "Diplomacy"
+        "title": "Drones injure two and set fire to Ukraine's second-largest city",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/droner-saarer-to-og-saetter-ild-til-ukraines-naeststoerste-by?referrer=RSS",
+        "published_date": "2026-04-02 23:23:45",
+        "category": "Military"
+    },
+    {
+        "title": "As China expands, even New Zealand is beginning to take its military seriously",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mens-kina-ekspanderer-begynder-selv-new-zealand-at-tage-sit-militaer-alvorligt?referrer=RSS",
+        "published_date": "2026-04-02 20:33:06",
+        "category": "Military"
     },
     {
         "title": "Drone found on Finnish lake came from Ukraine",
@@ -273,6 +287,97 @@
         "category": "Economy"
     },
     {
+        "title": "Judge dismisses movie star's sexual harassment lawsuit",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/dommer-haelder-filmstjernes-soegsmaal-om-sexchikane-ned-ad-braettet?referrer=RSS",
+        "published_date": "2026-04-02 23:49:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man charged with reckless driving after accident with towering blood alcohol level",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/ung-mand-sigtet-for-vanvidsbilisme-efter-uheld-med-taarnhoej-promille?referrer=RSS",
+        "published_date": "2026-04-02 23:07:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "IS allies kill at least 43 people in DR Congo",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/is-allierede-draeber-mindst-43-mennesker-i-dr-congo?referrer=RSS",
+        "published_date": "2026-04-02 22:41:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Revolutionary Guard claims to have attacked American IT giants",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/revolutionsgarden-haevder-at-have-angrebet-amerikanske-it-giganter?referrer=RSS",
+        "published_date": "2026-04-02 21:48:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump announces massive tariffs on medical products: Companies that lower the price or move production to the US are exempt",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-varsler-massiv-told-paa-medicinalprodukter-virksomheder-der-saenker-prisen-eller-flytter",
+        "published_date": "2026-04-02 21:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pete Hegseth Fires US Army Chief of Staff",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/pete-hegseth-fyrer-den-amerikanske-haers-stabschef?referrer=RSS",
+        "published_date": "2026-04-02 21:24:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Tottenham manager defends himself after criticism of comment",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/ny-tottenham-traener-forsvarer-sig-efter-kritik-af-kommentar?referrer=RSS",
+        "published_date": "2026-04-02 20:59:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump threatens tariffs in pursuit of deals with drugmakers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-truer-med-told-i-jagt-paa-aftaler-med-laegemiddelproducenter?referrer=RSS",
+        "published_date": "2026-04-02 20:34:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vance travels to Hungary before Orb\u00e1n's final run in the election",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/vance-rejser-til-ungarn-inden-orbans-slutspurt-i-valget?referrer=RSS",
+        "published_date": "2026-04-02 20:10:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran claims to have targeted US IT companies in the Middle East",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-haevder-have-ramt-amerikanske-it-virksomheder-i-mellemoesten",
+        "published_date": "2026-04-02 19:41:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Disappeared at 13, found alive after 32 years",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/forsvandt-som-13-aarig-fundet-i-live-efter-32-aar",
+        "published_date": "2026-04-02 18:57:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump fires Attorney General Pam Bondi",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-fyrer-justitsminister-pam-bondi",
+        "published_date": "2026-04-02 17:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Danish badminton national team for the WC will be without Axelsen",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/det-danske-badmintonlandshold-til-vm-bliver-uden-axelsen",
+        "published_date": "2026-04-02 15:12:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Apartments evacuated after partial collapse of gable",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/lejligheder-evakueret-efter-delvis-sammenstyrtning-af-gavl?referrer=RSS",
@@ -319,97 +424,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260402/high-speed-ferry-service-between-norway-and-denmark-reopens",
         "published_date": "2026-04-02 14:26:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Viktor Axelsen is not with Denmark at the team WC",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/viktor-axelsen-er-ikke-med-for-danmark-ved-hold-vm?referrer=RSS",
-        "published_date": "2026-04-02 14:20:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gable partially collapsed in Lyngby",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/gavl-delvis-kollapset-i-lyngby",
-        "published_date": "2026-04-02 14:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Danes want foreign hands - just not from the Middle East and Africa",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/danskerne-vil-gerne-have-de-udenlandske-haender-bare-ikke-fra-mellemoesten-og-afrika?referrer=RSS",
-        "published_date": "2026-04-02 14:19:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wegovy pill beats competitor in new Novo Nordisk studies",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/wegovy-pille-slaar-konkurrent-i-nye-novo-nordisk-studier?referrer=RSS",
-        "published_date": "2026-04-02 14:00:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Italian football president resigns after failure",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/italiensk-fodboldpraesident-traekker-sig-efter-fiasko?referrer=RSS",
-        "published_date": "2026-04-02 13:46:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "A woman and two men are in custody in a case of serious violence",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/en-kvinde-og-maend-varetaegtsfaengsles-i-sag-om-grov-vold",
-        "published_date": "2026-04-02 12:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three members of the Norwegian Parliament drop triple mandates",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-folketingsmedlemmer-dropper-trippelmandater",
-        "published_date": "2026-04-02 11:26:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The first tunnel element for the Fehmarnbelt connection will soon go down to the seabed",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/foerste-tunnelelement-til-femern-baelt-forbindelsen-skal-snart-ned-paa-havbunden",
-        "published_date": "2026-04-02 11:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish word of the day: Sk\u00e6rtorsdag",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260402/danish-word-of-the-day-skaertorsdag",
-        "published_date": "2026-04-02 11:22:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Putin wants to help Egypt with grain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/putin-vil-hjaelpe-egypten-med-korn",
-        "published_date": "2026-04-02 11:14:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sea eagle eggs have hatched during the live broadcast on Lolland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/havoerneaeg-er-klaekket-under-livesending-paa-lolland",
-        "published_date": "2026-04-02 08:51:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "After eight years, it is again possible to ski in the 'Copenhagen Alps' at Easter",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-otte-aar-er-det-igen-muligt-staa-paa-ski-i-koebenhavns-alper-i-paasken",
-        "published_date": "2026-04-02 08:46:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Thursday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260402/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-35",
-        "published_date": "2026-04-02 08:25:03",
         "category": "Local Events"
     }
 ]
