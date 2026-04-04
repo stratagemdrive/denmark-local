@@ -1,5 +1,12 @@
 [
     {
+        "title": "Temu acknowledged problems during rare EU visit to China",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/temu-anerkendte-problemer-under-sjaeldent-eu-besoeg-i-kina?referrer=RSS",
+        "published_date": "2026-04-04 11:36:48",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Danish lottery player wins a prize of over DKK 63 million",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/dansk-lottospiller-vinder-gevinst-paa-over-63-millioner-kroner?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Danish Eurovision favorite in sudden stormy weather: A picture with a special message arouses anger",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/musik/dansk-eurovision-favorit-i-pludseligt-stormvejr-et-billede-med-saerligt-budskab-vaekker-vrede?referrer=RSS",
-        "published_date": "2026-03-30 21:55:17",
-        "category": "Diplomacy"
+        "title": "Five people killed in Russian attack in Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fem-personer-draebt-i-russisk-angreb-i-ukraine",
+        "published_date": "2026-04-04 09:15:00",
+        "category": "Military"
     },
     {
         "title": "Ukraine reports Russian attacks last night and this morning",
@@ -252,6 +259,13 @@
         "category": "Military"
     },
     {
+        "title": "Iranian media reports attacks on oil industrial area in Iran",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iranske-medier-melder-om-angreb-paa-olieindustriomraade-i-iran?referrer=RSS",
+        "published_date": "2026-04-04 10:37:44",
+        "category": "Energy"
+    },
+    {
         "title": "The energy shock requires a strategy for the green industry",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kommentar/energichokket-kraever-en-strategi-for-den-groenne-industri?referrer=RSS",
@@ -329,143 +343,143 @@
         "category": "Economy"
     },
     {
-        "title": "Lakers star Don\u010di\u0107 out with injury shortly before NBA playoffs",
+        "title": "After pyrotechnics: Rungsted has identified the first people",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/lakers-stjernen-donic-ude-med-skade-kort-foer-nba-slutspil?referrer=RSS",
-        "published_date": "2026-04-03 23:12:51",
+        "url": "https://www.berlingske.dk/sport/efter-pyroteknik-rungsted-har-identificeret-de-foerste-personer?referrer=RSS",
+        "published_date": "2026-04-04 11:46:45",
         "category": "Local Events"
     },
     {
-        "title": "Three young men accused of fire attacks on Jewish ambulances",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tre-unge-maend-anklaget-for-brandangreb-paa-joediske-ambulancer?referrer=RSS",
-        "published_date": "2026-04-03 23:12:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three young men arrested in case of attacks on Jewish ambulances",
+        "title": "Zelenskyy has gone to Istanbul to meet with Erdogan",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-unge-maend-anholdt-i-sag-om-angreb-paa-joediske-ambulancer",
-        "published_date": "2026-04-03 23:00:00",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-er-taget-til-istanbul-moedes-med-erdogan",
+        "published_date": "2026-04-04 11:42:00",
         "category": "Local Events"
     },
     {
-        "title": "Two teenagers plead not guilty in a shooting attack in Kastrup",
+        "title": "Bo Svensson: New coach is a chance for everyone in FCK",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/to-teenagere-naegter-sig-skyldige-i-sag-om-skudattentat-i-kastrup?referrer=RSS",
-        "published_date": "2026-04-03 22:47:46",
+        "url": "https://www.berlingske.dk/sport/bo-svensson-ny-traener-er-en-chance-for-alle-i-fck?referrer=RSS",
+        "published_date": "2026-04-04 11:21:44",
         "category": "Local Events"
     },
     {
-        "title": "US warns of Iranian attacks on universities in Lebanon",
+        "title": "Lisbet Dahl turns 80: \"I don't have that many dreams left - so now I have to find some new ones\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-advarer-om-iranske-angreb-paa-universiteter-i-libanon?referrer=RSS",
-        "published_date": "2026-04-03 22:19:46",
+        "url": "https://www.berlingske.dk/scene/lisbet-dahl-bliver-80jeg-har-jo-ikke-saa-mange-droemme-tilbage--saa-nu-maa-jeg-finde-nogle-nye?referrer=RSS",
+        "published_date": "2026-04-04 11:21:38",
         "category": "Local Events"
     },
     {
-        "title": "DMI warns of wind gusts of hurricane force in North Jutland",
+        "title": "Five killed in Russian attack on market in Ukrainian frontline town",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dmi-varsler-vindstoed-af-orkanstyrke-i-nordjylland?referrer=RSS",
-        "published_date": "2026-04-03 21:18:45",
+        "url": "https://www.berlingske.dk/internationalt/fem-meldes-draebt-i-russisk-angreb-paa-marked-i-ukrainsk-frontlinjeby?referrer=RSS",
+        "published_date": "2026-04-04 11:15:44",
         "category": "Local Events"
     },
     {
-        "title": "Danes score in vain in defeat to Paris Saint-Germain",
+        "title": "Wall collapses during handball tournament",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/vaeg-styrter-sammen-under-haandboldstaevne",
+        "published_date": "2026-04-04 11:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark needs a firm scientific voice at the center of power",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansker-scorer-forgaeves-i-nederlag-til-paris-saint-germain?referrer=RSS",
-        "published_date": "2026-04-03 20:42:47",
+        "url": "https://www.berlingske.dk/synspunkter/danmark-har-brug-for-en-fast-videnskabelig-stemme-i-magtens-centrum?referrer=RSS",
+        "published_date": "2026-04-04 10:53:55",
         "category": "Local Events"
     },
     {
-        "title": "In Valby, the winner of 63 million kroner is walking around - the person just doesn't know it yet",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/i-valby-gaar-vinderen-af-63-millioner-kroner-rundt-vedkommende-ved-det-bare-ikke-endnu",
-        "published_date": "2026-04-03 20:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pyrotechnics mar Herning's sure victory over Rungsted",
+        "title": "Guide: Five brilliant cinema films for your Easter",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/pyroteknik-skaemmer-hernings-sikre-sejr-over-rungsted?referrer=RSS",
-        "published_date": "2026-04-03 20:21:47",
+        "url": "https://www.berlingske.dk/skaerm/guide-fem-geniale-biograffilm-til-din-paaske?referrer=RSS",
+        "published_date": "2026-04-04 10:53:30",
         "category": "Local Events"
     },
     {
-        "title": "DMI warns of wind gusts of hurricane force on Sunday",
+        "title": "Despite early Easter, many will rent a holiday home",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dmi-varsler-om-vindstoed-af-orkanstyrke-soendag",
-        "published_date": "2026-04-03 19:54:00",
+        "url": "https://www.dr.dk/nyheder/seneste/paa-trods-af-tidlig-paaske-vil-mange-leje-sommerhus",
+        "published_date": "2026-04-04 10:36:00",
         "category": "Local Events"
     },
     {
-        "title": "Police are looking for witnesses after finding a man in critical condition",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-soeger-vidner-efter-fund-af-mand-i-kritisk-tilstand",
-        "published_date": "2026-04-03 19:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Eight people killed in earthquake in Afghanistan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/otte-mennesker-omkommet-i-jordskaelv-i-afghanistan",
-        "published_date": "2026-04-03 18:52:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wanted 37-year-old man found dead",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-37-aarig-mand-der-har-vaeret-vaek-i-fire-doegn",
-        "published_date": "2026-04-03 17:07:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jesper told the truth to his dying sister: - The last thing she said to us was sorry",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/fynskemennesker/jesper-sagde-sandheden-til-sin-doeende-soester-det-sidste-hun-sagde-til-os-var-undskyld?rss",
-        "published_date": "2026-04-03 15:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Major opioid smuggling case to court after tightening of laws",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stor-smuglersag-om-opioider-retten-efter-lovstramning",
-        "published_date": "2026-04-03 13:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of new jobs in the US in March is a positive surprise",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-nye-job-i-usa-i-marts-overrasker-positivt",
-        "published_date": "2026-04-03 13:31:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "We will rock you!The Danes love copycat bands - but there is a downside",
+        "title": "Copenhagen Airport has spent six billion on a huge expansion \u2013 big changes ready for next summer",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/we-will-rock-you-danskerne-elsker-kopibands--men-det-har-en-bagside?referrer=RSS",
-        "published_date": "2026-04-03 11:34:09",
+        "url": "https://www.berlingske.dk/virksomheder/koebenhavns-lufthavn-har-brugt-seks-milliarder-paa-enorm-udbygning--store-forandringer-klar-til-naeste-sommer?referrer=RSS",
+        "published_date": "2026-04-04 10:31:20",
         "category": "Local Events"
     },
     {
-        "title": "Police on double death: Right now nothing suggests anything criminal",
+        "title": "The police are investigating suspicious circumstances in Greve",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-undersoeger-mistaenkeligt-forhold-i-greve?referrer=RSS",
+        "published_date": "2026-04-04 10:26:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government negotiations on the Faroe Islands continue today",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-om-dobbelt-doedsfald-lige-nu-tyder-intet-paa-noget-kriminelt",
-        "published_date": "2026-04-03 11:30:00",
+        "url": "https://www.dr.dk/nyheder/seneste/regeringsforhandlinger-paa-faeroeerne-fortsaetter-i-dag",
+        "published_date": "2026-04-04 09:36:00",
         "category": "Local Events"
     },
     {
-        "title": "Macron after Trump's personal attack: \"Does not deserve an answer\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/video-macron-efter-trumps-personlige-angreb-fortjener-ikke-et-svar?referrer=RSS",
-        "published_date": "2026-04-03 11:13:34",
+        "title": "Danish word of the day: P\u00e5ske",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260404/danish-word-of-the-day-paske",
+        "published_date": "2026-04-04 09:17:14",
         "category": "Local Events"
     },
     {
-        "title": "Bent Winther: L\u00f8kke puts \"huge pressure\" on Mette Frederiksen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/bent-winther-loekke-laegger-et-kaempe-pres-paa-mette-frederiksen?referrer=RSS",
-        "published_date": "2026-04-03 11:11:00",
+        "title": "Strong winds heading towards Denmark: Ferries cancelled",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kraftig-vind-paa-vej-mod-danmark-faerger-aflyst",
+        "published_date": "2026-04-04 07:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men with links to opposition group executed in Iran",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maend-med-forbindelse-til-oppositionsgruppe-henrettet-i-iran",
+        "published_date": "2026-04-04 07:18:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong wind on the Storeb\u00e6ltsbroen - driving ban for certain vehicles",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kraftig-vind-paa-storebaeltsbroen-koerselsforbud-visse-koeretoejer",
+        "published_date": "2026-04-04 07:13:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Djurs Sommerland is expanding",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/djurs-sommerland-udvider",
+        "published_date": "2026-04-04 06:54:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "One dead and several injured in Ukrainian attack on Russia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/en-doed-og-flere-saaret-i-ukrainsk-angreb-paa-rusland",
+        "published_date": "2026-04-04 06:52:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aalborg University will send a self-driving robot to the Moon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/aalborg-universitet-vil-sende-selvkoerende-robot-til-maanen",
+        "published_date": "2026-04-04 05:33:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sauna club in Copenhagen burst into flames",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/saunaklub-i-koebenhavn-brudt-i-brand",
+        "published_date": "2026-04-04 05:08:00",
         "category": "Local Events"
     }
 ]
