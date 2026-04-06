@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Nigerian soldiers free 31 abducted churchgoers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/nigerianske-soldater-befrier-31-bortfoerte-kirkegaengere?referrer=RSS",
+        "published_date": "2026-04-05 23:16:45",
+        "category": "Military"
+    },
+    {
+        "title": "Israel warns of intensified attacks against Hezbollah",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/israel-varsler-intensiverede-angreb-mod-hizbollah?referrer=RSS",
+        "published_date": "2026-04-05 20:25:44",
+        "category": "Military"
+    },
+    {
         "title": "Two family members of late Iranian military leader arrested in US",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/to-familiemedlemmer-til-afdoed-iransk-militaerleder-anholdt-i-usa?referrer=RSS",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Danish princess among first to serve 11 months national service",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260331/danish-princess-among-first-to-serve-11-months-national-service",
-        "published_date": "2026-03-31 11:57:28",
-        "category": "Military"
-    },
-    {
-        "title": "150 Iranian naval vessels are destroyed after four weeks of war",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/150-iranske-flaadefartoejer-er-oedelagt-efter-fire-ugers-krig?referrer=RSS",
-        "published_date": "2026-03-28 23:00:48",
-        "category": "Military"
-    },
-    {
         "title": "Iranian media reports attacks on oil industrial area in Iran",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/iranske-medier-melder-om-angreb-paa-olieindustriomraade-i-iran?referrer=RSS",
@@ -357,11 +357,81 @@
         "category": "Economy"
     },
     {
-        "title": "\"Should Zelenskyj form a government, or should I?\" - change of power or status quo in Hungary",
+        "title": "Manchester City's captain will leave the club this summer",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/skal-zelenskyj-danne-regering-eller-skal-jeg--magtskifte-eller-status-quo-i-ungarn?referrer=RSS",
-        "published_date": "2026-03-28 16:42:12",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/sport/manchester-citys-anfoerer-forlader-klubben-til-sommer?referrer=RSS",
+        "published_date": "2026-04-05 23:16:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Main sponsor withdraws from festival after Kanye West criticism",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hovedsponsor-traekker-sig-fra-festival-efter-kanye-west-kritik?referrer=RSS",
+        "published_date": "2026-04-05 22:48:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inter overtakes Roma and holds the championship course",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/inter-koerer-roma-over-og-holder-mesterskabskursen?referrer=RSS",
+        "published_date": "2026-04-05 20:46:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nordjyder must still be careful in the wind despite warnings from the police",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/nordjyder-skal-stadig-passe-paa-i-blaesten-trods-afvarsling-fra-politiet?referrer=RSS",
+        "published_date": "2026-04-05 20:31:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Svensson calls for calm after 7-0: Everything is not just wiped away",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/svensson-maner-til-ro-efter-7-0-alt-er-ikke-bare-visket-vaek?referrer=RSS",
+        "published_date": "2026-04-05 20:11:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "GOG picks up six goals and opens the playoffs with a win in Skjern",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/gog-henter-seks-maal-og-aabner-slutspil-med-sejr-i-skjern?referrer=RSS",
+        "published_date": "2026-04-05 19:46:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Being overweight is also a personal responsibility",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/overvaegt-er-ogsaa-et-personligt-ansvar?referrer=RSS",
+        "published_date": "2026-04-05 19:07:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leeds book first FA Cup semi-final in 39 years after drama",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/leeds-booker-foerste-fa-cup-semifinale-i-39-aar-efter-drama?referrer=RSS",
+        "published_date": "2026-04-05 19:05:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "FC Copenhagen touches the Superliga record with a big win in Bo Svensson's debut",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/fodbold/superliga/fck-traener-faar-debut-midt-i-krise",
+        "published_date": "2026-04-05 17:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "70 migrants missing after boat capsizes in Mediterranean",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/70-migranter-savnet-efter-baad-er-kaentret-i-middelhavet",
+        "published_date": "2026-04-05 16:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pope Leo calls for peace in his first Easter address",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pave-leo-opfordrer-til-fred-i-sin-foerste-paasketale",
+        "published_date": "2026-04-05 13:52:00",
+        "category": "Local Events"
     },
     {
         "title": "Left-wing city council buys Mussolini's summer home",
@@ -424,83 +494,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/ny-faengsling-i-sag-om-overfald-i-sydsjaellandsk-landsby?referrer=RSS",
         "published_date": "2026-04-05 11:11:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Johnny Reimar paved the way for Birthe Kj\u00e6r's first record",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/johnny-reimar-banede-vejen-for-birthe-kjaers-foerste-plade?referrer=RSS",
-        "published_date": "2026-04-05 11:11:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shh!If you are a believer, don't say it out loud",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/sssh-hvis-du-er-troende-maa-du-endelig-ikke-sige-det-hoejt?referrer=RSS",
-        "published_date": "2026-04-05 11:09:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Errors in signals and storms stop many trains in Jutland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/fejl-paa-signaler-og-storm-stopper-mange-tog-i-jylland?referrer=RSS",
-        "published_date": "2026-04-05 11:08:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "New arrest in case of aggravated assault in South Zealand",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-anholdelse-i-sag-om-groft-overfald-paa-sydsjaelland",
-        "published_date": "2026-04-05 08:16:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "No ferry between Sams\u00f8 and Aarhus today",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ingen-faerge-mellem-samsoe-og-aarhus-i-dag",
-        "published_date": "2026-04-05 07:17:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "More carpentry apprentices choose the green apprentice test",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-toemrerlaerlinge-vaelger-den-groenne-svendeproeve",
-        "published_date": "2026-04-05 07:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A family crisis brought Anja and Mette together: They chose 'the most beautiful place on earth' for the special day",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/kerteminde/familiekrise-foerte-anja-og-mette-sammen-valgte-det-flotteste-sted-paa-jorden-til-vielsen?rss",
-        "published_date": "2026-04-05 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Warning of strong winds on several bridges",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/advarsel-om-kraftig-vind-paa-flere-broer",
-        "published_date": "2026-04-05 05:36:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump: The US has rescued a crew member from a downed fighter jet",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-usa-har-reddet-besaetningsmedlem-fra-nedskudt-kampfly",
-        "published_date": "2026-04-05 04:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mussolini's summer house bought by the municipality to keep fascists away",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mussolinis-sommerhus-koebt-af-kommunen-for-at-holde-fascister-vaek?referrer=RSS",
-        "published_date": "2026-04-04 23:18:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iranian general threatens Trump back and calls ultimatum stupid",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iransk-general-truer-trump-tilbage-og-kalder-ultimatum-dumt?referrer=RSS",
-        "published_date": "2026-04-04 22:40:46",
         "category": "Local Events"
     }
 ]
