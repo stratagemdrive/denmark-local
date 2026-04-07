@@ -1,5 +1,12 @@
 [
     {
+        "title": "UN organization suspends evacuation of sick and wounded from Gaza",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fn-organisation-suspenderer-evakuering-af-syge-og-saarede-fra-gaza?referrer=RSS",
+        "published_date": "2026-04-06 22:33:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "17-year-old boy has died after an avalanche accident in Greenland",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/17-aarig-dreng-er-doed-efter-en-lavineulykke-i-groenland?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Business update: Oh no, Trump.Gasoline prices in the US at the highest level since 2022",
+        "title": "Trump: All of Iran can be knocked out overnight - and it could be tomorrow",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/aktier/business-update-aah-nej-trump-benzinprisen-i-usa-paa-det-hoejeste-niveau-siden-2022?referrer=RSS",
-        "published_date": "2026-03-31 14:49:52",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/trump-hele-iran-kan-slaas-ud-paa-en-nat-og-det-kan-vaere-i-morgen?referrer=RSS",
+        "published_date": "2026-04-06 22:49:49",
+        "category": "Military"
     },
     {
         "title": "Syria and Ukraine must cooperate on security, says Zelensky",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "29 are reported dead after a Russian military plane has crashed over the Crimean peninsula",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/russisk-militaerfly-styrtet-ned-over-krim-halvoeen-29-meldes-draebt",
-        "published_date": "2026-03-31 23:06:00",
-        "category": "Military"
-    },
-    {
         "title": "Israel attacks Iranian industrial zone at the world's largest natural gas field",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/israel-angriber-iransk-industrizone-ved-verdens-stoerste-naturgasfelt?referrer=RSS",
@@ -329,13 +329,6 @@
         "category": "Energy"
     },
     {
-        "title": "Media: US gives Russian oil tanker permission to sail to Cuba",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/medie-usa-giver-russisk-olietanker-tilladelse-til-at-sejle-til-cuba?referrer=RSS",
-        "published_date": "2026-03-29 23:34:47",
-        "category": "Energy"
-    },
-    {
         "title": "He moved 22 million between two accounts and faced a tax bill of 127 million.Now he has won over Skat",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/han-flyttede-22-millioner-mellem-to-konti-og-stod-til-skatteregning-paa-127-millioner-nu-har-han-vundet-over-skat?referrer=RSS",
@@ -355,6 +348,97 @@
         "url": "https://www.berlingske.dk/politik/enhedslisten-kaemper-videre-for-formueskat-men-er-ikke-ultimative?referrer=RSS",
         "published_date": "2026-03-31 14:44:48",
         "category": "Economy"
+    },
+    {
+        "title": "The Security Council is expected to vote on protection of the Strait of Hormuz on Tuesday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/sikkerhedsraad-ventes-tirsdag-at-stemme-om-beskyttelse-af-hormuzstraedet?referrer=RSS",
+        "published_date": "2026-04-07 00:02:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Astronauts write space history: Are further away from Earth than any human before",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/astronauter-skriver-rumhistorie-er-laengere-vaek-fra-jorden-end-noget-menneske-foer",
+        "published_date": "2026-04-07 00:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Astronauts on lunar mission set record for distance to Earth",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/astronauter-paa-maanemission-saetter-rekord-for-afstand-til-jorden?referrer=RSS",
+        "published_date": "2026-04-06 23:47:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bayern's star striker is doubtful before the CL clash in Madrid",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/bayerns-stjerneangriber-er-tvivlsom-foer-cl-brag-i-madrid?referrer=RSS",
+        "published_date": "2026-04-06 23:47:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "FACT: Nasa will use Artemis experience for future Mars missions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fakta-nasa-vil-bruge-artemis-erfaringer-til-fremtidige-mars-ture?referrer=RSS",
+        "published_date": "2026-04-06 23:11:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "WHO suspends evacuations of sick and wounded from Gaza",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/who-suspenderer-evakueringer-af-syge-og-saarede-fra-gaza",
+        "published_date": "2026-04-06 22:38:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump's administration rescinds several agreements on transgender students",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trumps-administration-ophaever-flere-aftaler-om-transkoennede-elever?referrer=RSS",
+        "published_date": "2026-04-06 22:16:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "British opposition calls for entry ban on Kanye West",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/britisk-opposition-opfordrer-til-indrejseforbud-for-kanye-west?referrer=RSS",
+        "published_date": "2026-04-06 21:18:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Napoli wins top clash against AC Milan on late scoring",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/napoli-vinder-topopgoer-mod-ac-milan-paa-sen-scoring?referrer=RSS",
+        "published_date": "2026-04-06 20:48:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "It tastes as good as it sounds!Ten brilliant new places in Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/gastronomi/det-smager-lige-saa-godt-som-det-lyder-ti-geniale-nye-steder-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-04-06 20:33:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump repeated wish during press conference: 'We want Greenland'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-gentog-oenske-under-pressemoede-vi-vil-have-groenland",
+        "published_date": "2026-04-06 19:19:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Estate-owning couples live off million-dollar weddings, but their own went against everything: - The family was not satisfied",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/fynskemennesker/godsejerpar-lever-af-millionbryllupper-men-deres-eget-gik-imod-alt-familien-var-ikke-tilfreds?rss",
+        "published_date": "2026-04-06 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Astronauts break records in space",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/astronauter-slaar-rekord-i-rummet",
+        "published_date": "2026-04-06 18:23:00",
+        "category": "Local Events"
     },
     {
         "title": "Vejle punishes Randers with a late penalty",
@@ -403,97 +487,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/aktier/mike-doustdar-i-interview-med-amerikansk-medie-derfor-var-aftale-med-trump-god-for-os?referrer=RSS",
         "published_date": "2026-04-06 13:38:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Startling pictures from Jerusalem: Completely empty streets",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/video-opsigtsvaekkende-billeder-fra-jerusalem-helt-tomme-gader?referrer=RSS",
-        "published_date": "2026-04-06 12:55:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two people died after an avalanche in Norway",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/personer-omkommet-efter-sneskred-i-norge",
-        "published_date": "2026-04-06 11:17:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The insurance company If has registered 150 damages after the storm",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/forsikringsselskabet-if-har-registreret-150-skader-efter-storm",
-        "published_date": "2026-04-06 10:49:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran's Revolutionary Guard intelligence chief killed in airstrike",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/irans-revolutionsgardes-efterretningschef-draebt-i-luftangreb",
-        "published_date": "2026-04-06 10:11:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Emilie Schytte retains her mandate and continues as a freelancer",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/emilie-schytte-beholder-sit-mandat-og-fortsaetter-som-loesgaenger",
-        "published_date": "2026-04-06 09:31:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government negotiations resume this afternoon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/regeringsforhandlinger-genoptages-i-eftermiddag",
-        "published_date": "2026-04-06 09:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The municipality has got more pedagogues and sosu employees up on time",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kommune-har-faaet-flere-paedagoger-og-sosu-medarbejdere-op-i-tid",
-        "published_date": "2026-04-06 08:32:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia: Miners captured after Ukrainian attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-minearbejdere-fanget-efter-ukrainsk-angreb",
-        "published_date": "2026-04-06 07:32:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Track work on the S-train network is extended",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sporarbejde-paa-s-tognettet-forlaenges",
-        "published_date": "2026-04-06 07:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bent has made millions in Russia during the invasion: that is why the company has not been sold after four years",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/toender/bent-har-tjent-millioner-i-rusland-under-invasion-derfor-er-selskabet-ikke-solgt-efter-fire-aar?rss",
-        "published_date": "2026-04-06 07:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wind-sensitive vehicles are advised not to cross the \u00d8resund Bridge for most of the day",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vindfoelsomme-koeretoejer-fraraades-krydse-oeresundsbroen-det-meste-af-dagen",
-        "published_date": "2026-04-06 06:47:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three reported killed in attack on Ukrainian port city",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-meldt-draebt-i-angreb-paa-ukrainsk-havneby",
-        "published_date": "2026-04-06 06:37:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another windy day ahead: But soon the sun and spring warmth will come",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/regionalt/endnu-en-blaesevejrsdag-i-vente-men-snart-kommer-solen-og-foraarsvarmen?rss",
-        "published_date": "2026-04-06 06:32:34",
         "category": "Local Events"
     }
 ]
