@@ -140,6 +140,34 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Renowned American historian: A war fought for fun cannot be won",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentar/anerkendt-amerikansk-historiker-en-krig-der-udkaempes-for-sjov-kan-ikke-vindes?referrer=RSS",
+        "published_date": "2026-04-07 14:04:13",
+        "category": "Military"
+    },
+    {
+        "title": "Train collides with military vehicle in France",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tog-kolliderer-med-militaerkoeretoej-i-frankrig",
+        "published_date": "2026-04-07 08:11:00",
+        "category": "Military"
+    },
+    {
+        "title": "Israel's military warns against taking trains in Iran",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israels-militaer-advarer-mod-tage-tog-i-iran",
+        "published_date": "2026-04-07 06:37:00",
+        "category": "Military"
+    },
+    {
+        "title": "Australian soldier suspected of possible war crimes in Afghanistan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/australsk-soldat-mistaenkes-mulige-krigsforbrydelser-i-afghanistan",
+        "published_date": "2026-04-07 05:49:00",
+        "category": "Military"
+    },
+    {
         "title": "Trump: All of Iran can be knocked out overnight - and it could be tomorrow",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-hele-iran-kan-slaas-ud-paa-en-nat-og-det-kan-vaere-i-morgen?referrer=RSS",
@@ -252,32 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Drone found on Finnish lake came from Ukraine",
+        "title": "The diesel price in Denmark continues to rise",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/drone-fundet-paa-finsk-soe-kom-fra-ukraine",
-        "published_date": "2026-04-01 19:01:00",
-        "category": "Military"
-    },
-    {
-        "title": "Extensive Russian drone attack against Ukraine",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/omfattende-russisk-droneangreb-mod-ukraine",
-        "published_date": "2026-04-01 16:48:00",
-        "category": "Military"
-    },
-    {
-        "title": "Trump: Iran has asked for a ceasefire",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-iran-har-bedt-om-vaabenhvile?referrer=RSS",
-        "published_date": "2026-04-01 14:35:46",
-        "category": "Military"
-    },
-    {
-        "title": "Trump: Iran has just asked the US for a ceasefire",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-iran-har-netop-bedt-usa-om-en-vaabenhvile",
-        "published_date": "2026-04-01 13:10:00",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/dieselprisen-i-danmark-fortsaetter-opad",
+        "published_date": "2026-04-07 12:45:00",
+        "category": "Energy"
     },
     {
         "title": "Israel attacks Iranian industrial zone at the world's largest natural gas field",
@@ -322,13 +329,6 @@
         "category": "Energy"
     },
     {
-        "title": "Copenhagen\u2019s buses are now 100 percent electric",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260330/copenhagens-buses-are-now-100-percent-electric",
-        "published_date": "2026-03-30 14:35:58",
-        "category": "Energy"
-    },
-    {
         "title": "He moved 22 million between two accounts and faced a tax bill of 127 million.Now he has won over Skat",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/han-flyttede-22-millioner-mellem-to-konti-og-stod-til-skatteregning-paa-127-millioner-nu-har-han-vundet-over-skat?referrer=RSS",
@@ -350,143 +350,143 @@
         "category": "Economy"
     },
     {
-        "title": "The Security Council is expected to vote on protection of the Strait of Hormuz on Tuesday",
+        "title": "Macron: Deprived French couple are on their way home",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/sikkerhedsraad-ventes-tirsdag-at-stemme-om-beskyttelse-af-hormuzstraedet?referrer=RSS",
-        "published_date": "2026-04-07 00:02:46",
+        "url": "https://www.berlingske.dk/internationalt/macron-frihedsberoevet-fransk-par-er-paa-vej-hjem?referrer=RSS",
+        "published_date": "2026-04-07 14:44:46",
         "category": "Local Events"
     },
     {
-        "title": "Astronauts write space history: Are further away from Earth than any human before",
+        "title": "\"Bombs can do a lot, but after all, bombs can't do this.\" That's why Trump has a problem",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/bomber-kan-meget-men-det-her-kan-bomber-trods-alt-ikke-derfor-har-trump-et-problem?referrer=RSS",
+        "published_date": "2026-04-07 14:43:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nasa shares images of land subsidence from lunar mission",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/nasa-deler-billeder-af-jordnedgang-fra-maanemission?referrer=RSS",
+        "published_date": "2026-04-07 14:38:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Business update: War in the Middle East sends insurance bills skyrocketing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/business-update-krig-i-mellemoesten-sender-forsikringsregninger-i-vejret?referrer=RSS",
+        "published_date": "2026-04-07 14:32:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "DBU admits erroneous cancellation of S\u00f8nderjyske goal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dbu-indroemmer-fejlagtig-annullering-af-soenderjyske-maal?referrer=RSS",
+        "published_date": "2026-04-07 14:28:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man wanted after shooting at tattoo shop in Aalborg",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/astronauter-skriver-rumhistorie-er-laengere-vaek-fra-jorden-end-noget-menneske-foer",
-        "published_date": "2026-04-07 00:01:00",
+        "url": "https://www.dr.dk/nyheder/seneste/efterlyser-mand-efter-skud-mod-tatovoerforretning-i-aalborg",
+        "published_date": "2026-04-07 14:21:00",
         "category": "Local Events"
     },
     {
-        "title": "Astronauts on lunar mission set record for distance to Earth",
+        "title": "PSG coach: Favorite stamp means nothing against Liverpool",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/astronauter-paa-maanemission-saetter-rekord-for-afstand-til-jorden?referrer=RSS",
-        "published_date": "2026-04-06 23:47:53",
+        "url": "https://www.berlingske.dk/sport/psg-traener-favoritstempel-betyder-intet-mod-liverpool?referrer=RSS",
+        "published_date": "2026-04-07 14:17:45",
         "category": "Local Events"
     },
     {
-        "title": "Bayern's star striker is doubtful before the CL clash in Madrid",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/bayerns-stjerneangriber-er-tvivlsom-foer-cl-brag-i-madrid?referrer=RSS",
-        "published_date": "2026-04-06 23:47:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "FACT: Nasa will use Artemis experience for future Mars missions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fakta-nasa-vil-bruge-artemis-erfaringer-til-fremtidige-mars-ture?referrer=RSS",
-        "published_date": "2026-04-06 23:11:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "WHO suspends evacuations of sick and wounded from Gaza",
+        "title": "Odder R\u00e5dhus has escaped due to cracks in the concrete",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/who-suspenderer-evakueringer-af-syge-og-saarede-fra-gaza",
-        "published_date": "2026-04-06 22:38:00",
+        "url": "https://www.dr.dk/nyheder/seneste/odder-raadhus-er-roemmet-efter-revner-i-betonen",
+        "published_date": "2026-04-07 14:13:00",
         "category": "Local Events"
     },
     {
-        "title": "Trump's administration rescinds several agreements on transgender students",
+        "title": "Israel bombs bridges and railways in Iran",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trumps-administration-ophaever-flere-aftaler-om-transkoennede-elever?referrer=RSS",
-        "published_date": "2026-04-06 22:16:49",
+        "url": "https://www.berlingske.dk/internationalt/israel-bomber-broer-og-jernbaner-i-iran?referrer=RSS",
+        "published_date": "2026-04-07 14:10:47",
         "category": "Local Events"
     },
     {
-        "title": "British opposition calls for entry ban on Kanye West",
+        "title": "Kanye West is refused entry to the UK: Festival is cancelled",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/britisk-opposition-opfordrer-til-indrejseforbud-for-kanye-west?referrer=RSS",
-        "published_date": "2026-04-06 21:18:45",
+        "url": "https://www.berlingske.dk/internationalt/kanye-west-naegtes-indrejse-i-storbritannien-festival-aflyses?referrer=RSS",
+        "published_date": "2026-04-07 14:03:50",
         "category": "Local Events"
     },
     {
-        "title": "Napoli wins top clash against AC Milan on late scoring",
+        "title": "The police are investigating a shooting at a tattoo shop in Aalborg",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/napoli-vinder-topopgoer-mod-ac-milan-paa-sen-scoring?referrer=RSS",
-        "published_date": "2026-04-06 20:48:47",
+        "url": "https://www.berlingske.dk/indland/politiet-efterforsker-skyderi-mod-tatovoerforretning-i-aalborg?referrer=RSS",
+        "published_date": "2026-04-07 14:03:44",
         "category": "Local Events"
     },
     {
-        "title": "It tastes as good as it sounds!Ten brilliant new places in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/gastronomi/det-smager-lige-saa-godt-som-det-lyder-ti-geniale-nye-steder-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-04-06 20:33:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump repeated wish during press conference: 'We want Greenland'",
+        "title": "Masseur sentenced for surreptitiously filming female clients",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-gentog-oenske-under-pressemoede-vi-vil-have-groenland",
-        "published_date": "2026-04-06 19:19:00",
+        "url": "https://www.dr.dk/nyheder/seneste/massoer-doemt-filme-kvindelige-klienter-i-smug",
+        "published_date": "2026-04-07 13:23:00",
         "category": "Local Events"
     },
     {
-        "title": "Estate-owning couples live off million-dollar weddings, but their own went against everything: - The family was not satisfied",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/fynskemennesker/godsejerpar-lever-af-millionbryllupper-men-deres-eget-gik-imod-alt-familien-var-ikke-tilfreds?rss",
-        "published_date": "2026-04-06 19:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Astronauts break records in space",
+        "title": "Shooting at a tattoo shop in Aalborg",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/astronauter-slaar-rekord-i-rummet",
-        "published_date": "2026-04-06 18:23:00",
+        "url": "https://www.dr.dk/nyheder/seneste/skyderi-mod-tatovoerforretning-i-aalborg",
+        "published_date": "2026-04-07 12:58:00",
         "category": "Local Events"
     },
     {
-        "title": "Vejle punishes Randers with a late penalty",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/vejle-straffer-randers-med-sen-straffescoring?referrer=RSS",
-        "published_date": "2026-04-06 14:14:48",
+        "title": "LATEST: Danish PM warns new government may not be possible as talks drag on",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260407/latest-danish-pm-warns-new-government-may-not-be-possible-as-talks-drag-on",
+        "published_date": "2026-04-07 12:10:45",
         "category": "Local Events"
     },
     {
-        "title": "Two people lose their lives in an avalanche in Hemsedal",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/to-personer-mister-livet-i-lavine-i-hemsedal?referrer=RSS",
-        "published_date": "2026-04-06 14:07:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dave delays the Oslo ferry by eight hours towards Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dave-forsinker-oslobaaden-med-otte-timer-mod-koebenhavn?referrer=RSS",
-        "published_date": "2026-04-06 14:03:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Law against junk food advertising to children is an effective measure",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/lov-mod-junkfood-reklamer-til-boern-er-et-effektivt-greb?referrer=RSS",
-        "published_date": "2026-04-06 13:54:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Companies have received more than 400 damage reports after the storm",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/selskaber-har-modtaget-mere-end-400-skadesanmeldelser-efter-storm?referrer=RSS",
-        "published_date": "2026-04-06 13:45:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israel has killed a Christian politician and his wife by mistake",
+        "title": "The Ombudsman has received the highest number of complaints ever",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israel-har-draebt-kristen-politiker-og-hustru-ved-en-fejl",
-        "published_date": "2026-04-06 13:43:00",
+        "url": "https://www.dr.dk/nyheder/seneste/ombudsmanden-har-modtaget-hoejeste-antal-klager-nogensinde",
+        "published_date": "2026-04-07 11:15:00",
         "category": "Local Events"
     },
     {
-        "title": "Mike Doustdar in an interview with American media: That is why the agreement with Trump was good for us",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/aktier/mike-doustdar-i-interview-med-amerikansk-medie-derfor-var-aftale-med-trump-god-for-os?referrer=RSS",
-        "published_date": "2026-04-06 13:38:04",
+        "title": "Defends loved ones remand in baby abduction case",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/forsvarer-kaerer-varetaegtsfaengsling-i-sag-om-bortfoerelse-af-baby",
+        "published_date": "2026-04-07 11:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "What are 'l\u00f8sg\u00e6ngere' and what do they mean for Danish government talks?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260407/what-are-losgaengere-and-what-do-they-mean-for-danish-government-talks",
+        "published_date": "2026-04-07 10:59:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "300,000 women are invited to health mapping",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/300-000-kvinder-inviteres-til-sundheds-kortlaegning",
+        "published_date": "2026-04-07 10:43:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mette Frederiksen gives the status of negotiations: A government is not on the way",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-giver-status-paa-forhandlinger-en-regering-er-ikke-paa-trapperne",
+        "published_date": "2026-04-07 10:07:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kanye West wants to dialogue with the Jewish community in Britain",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kanye-west-vil-i-dialog-med-joedisk-samfund-i-storbritannien",
+        "published_date": "2026-04-07 09:54:00",
         "category": "Local Events"
     }
 ]
