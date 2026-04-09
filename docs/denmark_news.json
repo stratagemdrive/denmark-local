@@ -1,5 +1,19 @@
 [
     {
+        "title": "Nato chief: Some Nato allies have been a bit slow",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/nato-chef-nogle-nato-allierede-har-vaeret-lidt-langsomme?referrer=RSS",
+        "published_date": "2026-04-09 16:05:45",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Eight car seats fail European tests",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/otte-autostole-dumper-europaeisk-test",
+        "published_date": "2026-04-09 12:38:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Trump calls Greenland a poorly managed piece of ice",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-kalder-groenland-et-daarligt-styret-stykke-is?referrer=RSS",
@@ -123,20 +137,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260402/shein-temu-why-european-consumers-will-pay-more-for-cheap-online-orders",
         "published_date": "2026-04-02 13:38:55",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "NATO chief visits Washington next week as Trump threatens to pull out of the alliance",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nato-chef-besoeger-washington-i-naeste-uge-mens-trump-truer-med-traekke-sig-ud-af-alliancen",
-        "published_date": "2026-04-01 22:31:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Finland's president to Trump: A more European NATO is taking shape",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/finlands-praesident-til-trump-et-mere-europaeisk-nato-tager-form",
-        "published_date": "2026-04-01 17:41:00",
         "category": "Diplomacy"
     },
     {
@@ -336,150 +336,143 @@
         "category": "Economy"
     },
     {
-        "title": "Danish shares rise after new Trump announcement",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danske-aktier-stiger-efter-ny-trump-melding",
-        "published_date": "2026-04-01 07:34:00",
-        "category": "Economy"
+        "title": "Now the director of the transport giant talks about his dismissal: - I am very sorry",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/kolding/nu-fortaeller-direktoer-i-transportgigant-om-sin-fyring-jeg-er-meget-aergerlig?rss",
+        "published_date": "2026-04-09 16:08:24",
+        "category": "Local Events"
     },
     {
-        "title": "Drunk driver threatens the police after erratic driving in Odense",
+        "title": "S\u00f8ren Gade becomes temporary chairman of the Danish Parliament",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/beruset-bilist-truer-politiet-efter-slingrekoersel-i-odense?referrer=RSS",
-        "published_date": "2026-04-08 23:44:45",
+        "url": "https://www.berlingske.dk/politik/soeren-gade-bliver-midlertidig-formand-for-folketinget?referrer=RSS",
+        "published_date": "2026-04-09 15:56:51",
         "category": "Local Events"
     },
     {
-        "title": "Lebanon declares national day of mourning after Israeli attacks",
+        "title": "Netanyahu wants to start peace talks with Lebanon",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/libanon-erklaerer-national-soergedag-efter-israelske-angreb?referrer=RSS",
-        "published_date": "2026-04-08 22:42:45",
+        "url": "https://www.berlingske.dk/internationalt/netanyahu-vil-starte-fredsforhandlinger-med-libanon?referrer=RSS",
+        "published_date": "2026-04-09 15:56:48",
         "category": "Local Events"
     },
     {
-        "title": "Atletico take advantage of the red card and defeat Barcelona",
+        "title": "Ask your question to Berlingske's journalists about the war in the Middle East and the consequences for the world",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/atletico-udnytter-roedt-kort-og-nedkaemper-barcelona?referrer=RSS",
-        "published_date": "2026-04-08 21:02:55",
+        "url": "https://www.berlingske.dk/internationalt/stil-dit-spoergsmaal-til-berlingskes-journalister-om-krigen-i-mellemoesten-og-konsekvenserne-for-verden-1?referrer=RSS",
+        "published_date": "2026-04-09 15:55:03",
         "category": "Local Events"
     },
     {
-        "title": "The run down Liverpool team will get off cheaply in Paris",
+        "title": "Man dies in work accident on farm",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-doed-i-arbejdsulykke-paa-gaard",
+        "published_date": "2026-04-09 15:51:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Local hero strikes in dramatic final in the Basque Country",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/nedspillet-liverpool-hold-slipper-billigt-i-paris?referrer=RSS",
-        "published_date": "2026-04-08 21:02:49",
+        "url": "https://www.berlingske.dk/sport/lokal-helt-slaar-til-i-dramatisk-finale-i-baskerlandet?referrer=RSS",
+        "published_date": "2026-04-09 15:49:50",
         "category": "Local Events"
     },
     {
-        "title": "Nantes crush GOG and book ticket to Barcelona clash",
+        "title": "Elderly man died in a work accident on a Midtsj\u00e6lland farm",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/nantes-knuser-gog-og-booker-billet-til-barcelona-brag?referrer=RSS",
-        "published_date": "2026-04-08 20:27:43",
+        "url": "https://www.berlingske.dk/indland/aeldre-mand-doed-i-arbejdsulykke-paa-midtsjaellandsk-gaard?referrer=RSS",
+        "published_date": "2026-04-09 15:45:44",
         "category": "Local Events"
     },
     {
-        "title": "Bank adviser: Strict rules stifle my professional judgment - and this affects the home owners",
+        "title": "The Housemaid author reveals her true identity",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/housemaid-forfatter-afsloerer-sin-sande-identitet",
+        "published_date": "2026-04-09 15:42:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government negotiations continue on Friday",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/bankraadgiver-stramme-regler-kvaeler-mine-faglige-skoen--og-det-gaar-ud-over-boligejerne?referrer=RSS",
-        "published_date": "2026-04-08 20:14:18",
+        "url": "https://www.berlingske.dk/politik/regeringsforhandlinger-fortsaetter-fredag?referrer=RSS",
+        "published_date": "2026-04-09 15:36:49",
         "category": "Local Events"
     },
     {
-        "title": "S-tog's track work extended until and including Friday",
+        "title": "WHO: Hospitals in Lebanon may soon run out of life-saving equipment",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/s-togs-sporarbejde-forlaenget-til-og-med-fredag",
-        "published_date": "2026-04-08 19:37:00",
+        "url": "https://www.dr.dk/nyheder/seneste/who-hospitaler-i-libanon-risikerer-snart-loebe-toer-livsreddende-udstyr",
+        "published_date": "2026-04-09 15:28:00",
         "category": "Local Events"
     },
     {
-        "title": "Woman sentenced to 15 years in prison for role in Matthew Parry's death",
+        "title": "Danish theatre's most powerful position will soon be vacant - and Jakob Steen Olsen has one obvious candidate",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kvinde-doemmes-til-15-aars-faengsel-for-rolle-i-matthew-parrys-doed?referrer=RSS",
-        "published_date": "2026-04-08 19:29:48",
+        "url": "https://www.berlingske.dk/kulturkommentar/dansk-teaters-mest-magtfulde-stilling-bliver-snart-ledig--og-jakob-steen-olsen-har-en-oplagt-kandidat?referrer=RSS",
+        "published_date": "2026-04-09 15:25:16",
         "category": "Local Events"
     },
     {
-        "title": "15 years in prison for selling ketamine to Matthew Perry",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/15-aars-faengsel-have-solgt-ketamin-til-matthew-perry",
-        "published_date": "2026-04-08 18:57:00",
+        "title": "Safeguard inspections find problems in just under one in three",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/eftersyn-af-beskyttelsesrum-finder-problemer-i-knap-hver-tredje?referrer=RSS",
+        "published_date": "2026-04-09 15:23:48",
         "category": "Local Events"
     },
     {
-        "title": "Man arrested for 20-year-old Swedish double murder",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-anholdt-20-aar-gammelt-svensk-dobbeltmord",
-        "published_date": "2026-04-08 18:53:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six remanded in custody in case of violent confrontation in Odense",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/seks-varetaegtsfaengslet-i-sag-om-voldeligt-opgoer-i-odense",
-        "published_date": "2026-04-08 16:57:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man pleads guilty to seven murders in the US",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-erklaerer-sig-skyldig-i-syv-drab-i-usa",
-        "published_date": "2026-04-08 16:32:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two new arrests in case of shooting at apartment in Kastrup",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nye-anholdelser-i-sag-om-skud-mod-lejlighed-i-kastrup",
-        "published_date": "2026-04-08 16:09:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "When could processing of Danish citizenship applications be resumed?",
+        "title": "April snow on the way for much of western Denmark",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260408/when-could-processing-of-danish-citizenship-applications-be-resumed",
-        "published_date": "2026-04-08 15:31:41",
+        "url": "https://www.thelocal.dk/20260409/april-snow-on-the-way-for-much-of-western-denmark",
+        "published_date": "2026-04-09 15:23:16",
         "category": "Local Events"
     },
     {
-        "title": "Pakistan: Delegations from Iran and the US will negotiate peace this week",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/pakistan-delegationer-fra-iran-og-usa-vil-i-denne-uge-forhandle-om-fred?referrer=RSS",
-        "published_date": "2026-04-08 14:58:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chairman of the conservative party becomes the youngest member of the Faroe Islands",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/formand-for-konservativt-parti-bliver-yngste-lagmand-paa-faeroeerne?referrer=RSS",
-        "published_date": "2026-04-08 14:58:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Demonstrations in Dublin over high fuel prices",
+        "title": "Jens-Frederik Nielsen to Trump: We are not a piece of ice",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/demonstrationer-i-dublin-over-hoeje-priser-paa-braendstof",
-        "published_date": "2026-04-08 14:44:00",
+        "url": "https://www.dr.dk/nyheder/seneste/jens-frederik-nielsen-til-trump-vi-er-ikke-et-stykke-is",
+        "published_date": "2026-04-09 15:12:00",
         "category": "Local Events"
     },
     {
-        "title": "Five stars: Lots of \"thinking\" in SMK's small garage by the Limfjorden",
+        "title": "Ukrainian drones attack Russian warship",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kunst/fem-stjerner-masser-afthytaenkning-i-smks-lille-garage-ved-limfjorden?referrer=RSS",
-        "published_date": "2026-04-08 14:42:21",
+        "url": "https://www.berlingske.dk/internationalt/video-ukrainske-droner-angriber-russisk-krigsskib?referrer=RSS",
+        "published_date": "2026-04-09 15:11:53",
         "category": "Local Events"
     },
     {
-        "title": "S member criticizes his own party: Leave the power to others and reinvent yourselves",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/s-medlem-kommer-med-kritik-af-sit-eget-parti-overlad-magten-til-nogle-andre-og-genopfind-jer-selv?referrer=RSS",
-        "published_date": "2026-04-08 14:37:59",
+        "title": "Monetary Fund: The war in the Middle East will be felt for a long time",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/valutafond-krigen-i-mellemoesten-vil-kunne-maerkes-laenge",
+        "published_date": "2026-04-09 15:08:00",
         "category": "Local Events"
     },
     {
-        "title": "Researchers delved into bullying in Danish schools.Now they are ready with startling conclusions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/forskere-dykkede-ned-i-mobning-i-de-danske-skoler-nu-er-de-klar-med-opsigtsvaekkende-konklusioner?referrer=RSS",
-        "published_date": "2026-04-08 14:37:57",
+        "title": "Six ways to save money on shopping in Denmark",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260409/six-ways-to-save-money-on-shopping-in-denmark",
+        "published_date": "2026-04-09 15:02:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "OECD: Development aid fell by 23 percent last year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/oecd-udviklingsbistanden-faldt-med-23-procent-sidste-aar",
+        "published_date": "2026-04-09 14:54:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The regions take over the heart runner scheme",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/regionerne-overtager-hjerteloeberordningen",
+        "published_date": "2026-04-09 14:09:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three remanded in custody in case of 150 kilos of amphetamine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-varetaegtsfaengslet-i-sag-om-150-kilo-amfetamin",
+        "published_date": "2026-04-09 13:42:00",
         "category": "Local Events"
     }
 ]
