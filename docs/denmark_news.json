@@ -1,5 +1,33 @@
 [
     {
+        "title": "Trump calls Greenland a poorly managed piece of ice",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-kalder-groenland-et-daarligt-styret-stykke-is?referrer=RSS",
+        "published_date": "2026-04-08 23:58:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Rutte on meeting with Trump: I pointed out the helpfulness of European countries",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rutte-om-moede-med-trump-jeg-paapegede-europaeiske-landes-hjaelpsomhed?referrer=RSS",
+        "published_date": "2026-04-08 23:30:45",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Yes, Berlingske, better EU rules than 27 sets of rules",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/jo-berlingske-hellere-eu-regler-end-27-saet-regler?referrer=RSS",
+        "published_date": "2026-04-08 20:14:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Football club from the North West is Europe's second best broadside club, Uefa believes",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fodboldklub-fra-nordvest-er-europas-naestbedste-mener-uefa",
+        "published_date": "2026-04-08 15:43:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "He shares top secret information with Putin.Erzs\u00e9bet, 95, loves him",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/han-deler-tophemmelige-informationer-med-putin-erzsebet-paa-95-elsker-ham?referrer=RSS",
@@ -112,32 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Trump will express his disgust with NATO in a pre-announced speech",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-vil-udtrykke-afsky-over-for-nato-i-varslet-tale?referrer=RSS",
-        "published_date": "2026-04-01 14:23:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Trump will express 'disgust' towards Nato in announced speech",
+        "title": "Danish shares close in green on ceasefire agreement",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-vil-udtrykke-afsky-over-nato-i-varslet-tale",
-        "published_date": "2026-04-01 13:43:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "How to save money on food and drink in Denmark",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260401/how-to-save-money-on-food-and-drink-in-denmark",
-        "published_date": "2026-04-01 13:11:21",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Trump threatens to pull the US out of NATO",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-truer-med-traekke-usa-ud-af-nato",
-        "published_date": "2026-04-01 09:58:00",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/danske-aktier-lukker-i-groent-oven-paa-vaabenhvileaftale",
+        "published_date": "2026-04-08 15:18:00",
+        "category": "Military"
     },
     {
         "title": "Israel's military: We continue attacks in Lebanon",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Five people killed in Russian attack in Ukraine",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fem-personer-draebt-i-russisk-angreb-i-ukraine",
-        "published_date": "2026-04-04 09:15:00",
-        "category": "Military"
-    },
-    {
         "title": "The diesel price in Denmark continues to rise",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/dieselprisen-i-danmark-fortsaetter-opad",
@@ -343,6 +343,97 @@
         "category": "Economy"
     },
     {
+        "title": "Drunk driver threatens the police after erratic driving in Odense",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/beruset-bilist-truer-politiet-efter-slingrekoersel-i-odense?referrer=RSS",
+        "published_date": "2026-04-08 23:44:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lebanon declares national day of mourning after Israeli attacks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/libanon-erklaerer-national-soergedag-efter-israelske-angreb?referrer=RSS",
+        "published_date": "2026-04-08 22:42:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atletico take advantage of the red card and defeat Barcelona",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/atletico-udnytter-roedt-kort-og-nedkaemper-barcelona?referrer=RSS",
+        "published_date": "2026-04-08 21:02:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The run down Liverpool team will get off cheaply in Paris",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/nedspillet-liverpool-hold-slipper-billigt-i-paris?referrer=RSS",
+        "published_date": "2026-04-08 21:02:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nantes crush GOG and book ticket to Barcelona clash",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/nantes-knuser-gog-og-booker-billet-til-barcelona-brag?referrer=RSS",
+        "published_date": "2026-04-08 20:27:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bank adviser: Strict rules stifle my professional judgment - and this affects the home owners",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/bankraadgiver-stramme-regler-kvaeler-mine-faglige-skoen--og-det-gaar-ud-over-boligejerne?referrer=RSS",
+        "published_date": "2026-04-08 20:14:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "S-tog's track work extended until and including Friday",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/s-togs-sporarbejde-forlaenget-til-og-med-fredag",
+        "published_date": "2026-04-08 19:37:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman sentenced to 15 years in prison for role in Matthew Parry's death",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kvinde-doemmes-til-15-aars-faengsel-for-rolle-i-matthew-parrys-doed?referrer=RSS",
+        "published_date": "2026-04-08 19:29:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "15 years in prison for selling ketamine to Matthew Perry",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/15-aars-faengsel-have-solgt-ketamin-til-matthew-perry",
+        "published_date": "2026-04-08 18:57:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man arrested for 20-year-old Swedish double murder",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-anholdt-20-aar-gammelt-svensk-dobbeltmord",
+        "published_date": "2026-04-08 18:53:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six remanded in custody in case of violent confrontation in Odense",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/seks-varetaegtsfaengslet-i-sag-om-voldeligt-opgoer-i-odense",
+        "published_date": "2026-04-08 16:57:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man pleads guilty to seven murders in the US",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-erklaerer-sig-skyldig-i-syv-drab-i-usa",
+        "published_date": "2026-04-08 16:32:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two new arrests in case of shooting at apartment in Kastrup",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nye-anholdelser-i-sag-om-skud-mod-lejlighed-i-kastrup",
+        "published_date": "2026-04-08 16:09:00",
+        "category": "Local Events"
+    },
+    {
         "title": "When could processing of Danish citizenship applications be resumed?",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260408/when-could-processing-of-danish-citizenship-applications-be-resumed",
@@ -389,97 +480,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/samfund/forskere-dykkede-ned-i-mobning-i-de-danske-skoler-nu-er-de-klar-med-opsigtsvaekkende-konklusioner?referrer=RSS",
         "published_date": "2026-04-08 14:37:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Maersk is waiting despite the opening of the Strait of Hormuz",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/maersk-forholder-sig-afventende-trods-aabning-af-hormuzstraedet?referrer=RSS",
-        "published_date": "2026-04-08 14:34:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Storm Dave 'ate' salads and onions worth a million kroner",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stormen-dave-aad-salater-og-loeg-en-million-kroner",
-        "published_date": "2026-04-08 14:29:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "North Jutland lawyer used clients' funds for fitness",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/nordjysk-advokat-brugte-klienters-midler-til-fitness?referrer=RSS",
-        "published_date": "2026-04-08 14:28:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "She wanted to stop the distribution of brown envelopes with cash to the members - soon after she was fired as director",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/lyd/hun-ville-stoppe-uddelingen-af-brune-kuverter-med-kontanter-til-medlemmerne--kort-efter-blev-hun-fyret-som-direktoer?referrer=RSS",
-        "published_date": "2026-04-08 14:23:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "The port giant is suing Maersk over the Panama Canal",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/havnekaempe-laegger-sag-an-mod-maersk-om-panamakanalen?referrer=RSS",
-        "published_date": "2026-04-08 14:18:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police temporarily close tattoo shop after shooting",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-lukker-tatovoerforretning-midlertidigt-efter-skyderi",
-        "published_date": "2026-04-08 14:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "TELL US: What AI language tools are you using to learn Danish?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260408/tell-us-what-ai-language-tools-are-you-using-to-learn-danish",
-        "published_date": "2026-04-08 13:04:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gr\u00f8n sets a sales record and is almost sold out",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/groen-saetter-salgsrekord-og-er-naesten-udsolgt",
-        "published_date": "2026-04-08 12:54:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "15-year-old Swede charged with attempted murder after Aalborg shooting",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/15-aarig-svensker-sigtes-drabsforsoeg-efter-aalborg-skyderi",
-        "published_date": "2026-04-08 12:43:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Diamond League start postponed due to the war in the Middle East",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/diamond-league-staevne-udsat",
-        "published_date": "2026-04-08 12:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Greece to ban social media for children",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/graekenland-vil-forbyde-sociale-medier-boern",
-        "published_date": "2026-04-08 12:13:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Army corporals and constables are happy with extra pay rises",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/haerens-korporaler-og-konstabler-er-tilfredse-med-ekstra-loenstigninger",
-        "published_date": "2026-04-08 11:47:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish stocks skyrocket following Iran-US ceasefire",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260408/danish-stocks-skyrocket-following-iran-us-ceasefire",
-        "published_date": "2026-04-08 10:17:00",
         "category": "Local Events"
     }
 ]
