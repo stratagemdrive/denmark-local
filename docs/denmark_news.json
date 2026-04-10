@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Ukraine joins brief ceasefire",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-tilslutter-sig-kort-vaabenhvile",
+        "published_date": "2026-04-09 21:37:00",
+        "category": "Military"
+    },
+    {
         "title": "Danish shares close in green on ceasefire agreement",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/danske-aktier-lukker-i-groent-oven-paa-vaabenhvileaftale",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Gun found near London mayor's home",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vaaben-fundet-naer-borgmesters-hjem-i-london",
-        "published_date": "2026-04-04 13:19:00",
-        "category": "Military"
-    },
-    {
         "title": "The diesel price in Denmark continues to rise",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/dieselprisen-i-danmark-fortsaetter-opad",
@@ -322,11 +322,11 @@
         "category": "Energy"
     },
     {
-        "title": "US lifts sanctions against Venezuela's interim president",
+        "title": "The broadband comet delivers new profits, while giants lose three-digit millions",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-ophaever-sanktioner-mod-venezuelas-midlertidige-praesident?referrer=RSS",
-        "published_date": "2026-04-01 20:41:44",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/virksomheder/bredbaandskomet-leverer-nyt-overskud-mens-giganter-taber-trecifrede-millionbeloeb?referrer=RSS",
+        "published_date": "2026-04-10 06:01:46",
+        "category": "Economy"
     },
     {
         "title": "He moved 22 million between two accounts and faced a tax bill of 127 million.Now he has won over Skat",
@@ -336,143 +336,143 @@
         "category": "Economy"
     },
     {
+        "title": "April snow causes longer journey times on the central Jutland motorway",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/april-snevejr-giver-laengere-rejsetid-paa-midtjysk-motorvej?referrer=RSS",
+        "published_date": "2026-04-10 06:07:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The academics demand higher punishment for employers behind stress",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/akademikerne-kraever-hoejere-straf-til-arbejdsgivere-bag-stress?referrer=RSS",
+        "published_date": "2026-04-10 06:01:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "For the second year in a row, Kim Fupz receives the most library money",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/kim-fupz-faar-for-andet-aar-i-traek-flest-bibliotekspenge?referrer=RSS",
+        "published_date": "2026-04-10 05:44:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spanish star is frustrated by bad start at Masters",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/spansk-stjerne-er-frustreret-over-skidt-start-ved-masters?referrer=RSS",
+        "published_date": "2026-04-10 05:44:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "University will investigate childhood abuse among young people",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/universitet-vil-undersoege-overgreb-i-barndommen-blandt-unge",
+        "published_date": "2026-04-10 05:44:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Friday rock in Tivoli begins: You may be asked to show ID",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fredagsrock-i-tivoli-begynder-du-kan-blive-bedt-om-vise-id",
+        "published_date": "2026-04-10 05:38:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Troels Lund Poulsen has had an acute retinal detachment",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/troels-lund-poulsen-har-faaet-akut-nethindeloesning",
+        "published_date": "2026-04-10 05:36:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Troels Lund has to keep calm but reaches out to L\u00f8kke",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/troels-lund-skal-holde-sig-i-ro-men-raekker-ud-til-loekke?referrer=RSS",
+        "published_date": "2026-04-10 05:33:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tom Jensen has toyed with the idea of \u200b\u200bnew elections: \"The opportunity to clean up the mess\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/video-tom-jensen-har-leget-med-tanken-om-nyvalg-muligheden-for-at-faa-ryddet-op-i-det-morads?referrer=RSS",
+        "published_date": "2026-04-10 05:32:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tom Jensen has toyed with the idea of \u200b\u200bnew elections: \"The opportunity to clean up the mess\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tom-jensen-har-leget-med-tanken-om-nyvalgmuligheden-for-at-faa-ryddet-op-i-det-morads?referrer=RSS",
+        "published_date": "2026-04-10 05:30:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Lego family's money tank buys a real estate company with activities in Aarhus",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/billund/lego-familiens-pengetank-koeber-ejendomsselskab-med-aktiviteter-i-aarhus?rss",
+        "published_date": "2026-04-10 05:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"Lorte-mom, why did you give me that scratch on the brain?\" said my disabled daughter, the last time she was laughed at.Ditte Okman's laughter touched me deeply",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/lorte-mor-hvorfor-gav-du-mig-den-ridse-i-hjernen-sagde-min-datter-med-handicap-sidst-hun-blev-grinet-af-ditte-okmans-latter-ramte-mig-dybt?referrer=RSS",
+        "published_date": "2026-04-10 05:27:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ask Berlingske's correspondents about the war in the Middle East\u00a0\u2014 and the consequences that can be felt around the world",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/samfund/spoerg-berlingskes-korrespondenter-om-krigen-i-mellemoesten-og-de-konsekvenser-der-kan-maerkes-over-hele-verden?referrer=RSS",
+        "published_date": "2026-04-10 05:16:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Snow and slush affect the morning traffic in Jutland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sne-og-sjap-paavirker-den-jyske-morgentrafik",
+        "published_date": "2026-04-10 05:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Melania Trump: I never had a relationship with Epstein",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/melania-trump-jeg-har-aldrig-haft-et-forhold-til-epstein",
+        "published_date": "2026-04-09 19:09:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Enters settlement in case of broken bridge in Baltimore",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/indgaar-forlig-i-sag-om-oedelagt-bro-i-baltimore",
+        "published_date": "2026-04-09 18:21:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Resistance fighters are honored with a new statue in Frederiksberg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/modstandsfolk-hyldes-med-ny-statue-paa-frederiksberg",
+        "published_date": "2026-04-09 17:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Netanyahu will start negotiations with Lebanon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/netanyahu-vil-starte-forhandlinger-med-libanon",
+        "published_date": "2026-04-09 17:11:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medina receives honorary award",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/medina-modtager-aerespris",
+        "published_date": "2026-04-09 17:10:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Now the director of the transport giant talks about his dismissal: - I am very sorry",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/kolding/nu-fortaeller-direktoer-i-transportgigant-om-sin-fyring-jeg-er-meget-aergerlig?rss",
         "published_date": "2026-04-09 16:08:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "S\u00f8ren Gade becomes temporary chairman of the Danish Parliament",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/soeren-gade-bliver-midlertidig-formand-for-folketinget?referrer=RSS",
-        "published_date": "2026-04-09 15:56:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Netanyahu wants to start peace talks with Lebanon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/netanyahu-vil-starte-fredsforhandlinger-med-libanon?referrer=RSS",
-        "published_date": "2026-04-09 15:56:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ask your question to Berlingske's journalists about the war in the Middle East and the consequences for the world",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/stil-dit-spoergsmaal-til-berlingskes-journalister-om-krigen-i-mellemoesten-og-konsekvenserne-for-verden-1?referrer=RSS",
-        "published_date": "2026-04-09 15:55:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man dies in work accident on farm",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-doed-i-arbejdsulykke-paa-gaard",
-        "published_date": "2026-04-09 15:51:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Local hero strikes in dramatic final in the Basque Country",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/lokal-helt-slaar-til-i-dramatisk-finale-i-baskerlandet?referrer=RSS",
-        "published_date": "2026-04-09 15:49:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elderly man died in a work accident on a Midtsj\u00e6lland farm",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/aeldre-mand-doed-i-arbejdsulykke-paa-midtsjaellandsk-gaard?referrer=RSS",
-        "published_date": "2026-04-09 15:45:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Housemaid author reveals her true identity",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/housemaid-forfatter-afsloerer-sin-sande-identitet",
-        "published_date": "2026-04-09 15:42:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government negotiations continue on Friday",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/regeringsforhandlinger-fortsaetter-fredag?referrer=RSS",
-        "published_date": "2026-04-09 15:36:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "WHO: Hospitals in Lebanon may soon run out of life-saving equipment",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/who-hospitaler-i-libanon-risikerer-snart-loebe-toer-livsreddende-udstyr",
-        "published_date": "2026-04-09 15:28:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish theatre's most powerful position will soon be vacant - and Jakob Steen Olsen has one obvious candidate",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kulturkommentar/dansk-teaters-mest-magtfulde-stilling-bliver-snart-ledig--og-jakob-steen-olsen-har-en-oplagt-kandidat?referrer=RSS",
-        "published_date": "2026-04-09 15:25:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Safeguard inspections find problems in just under one in three",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/eftersyn-af-beskyttelsesrum-finder-problemer-i-knap-hver-tredje?referrer=RSS",
-        "published_date": "2026-04-09 15:23:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "April snow on the way for much of western Denmark",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260409/april-snow-on-the-way-for-much-of-western-denmark",
-        "published_date": "2026-04-09 15:23:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jens-Frederik Nielsen to Trump: We are not a piece of ice",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/jens-frederik-nielsen-til-trump-vi-er-ikke-et-stykke-is",
-        "published_date": "2026-04-09 15:12:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ukrainian drones attack Russian warship",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/video-ukrainske-droner-angriber-russisk-krigsskib?referrer=RSS",
-        "published_date": "2026-04-09 15:11:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Monetary Fund: The war in the Middle East will be felt for a long time",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/valutafond-krigen-i-mellemoesten-vil-kunne-maerkes-laenge",
-        "published_date": "2026-04-09 15:08:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six ways to save money on shopping in Denmark",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260409/six-ways-to-save-money-on-shopping-in-denmark",
-        "published_date": "2026-04-09 15:02:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "OECD: Development aid fell by 23 percent last year",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/oecd-udviklingsbistanden-faldt-med-23-procent-sidste-aar",
-        "published_date": "2026-04-09 14:54:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The regions take over the heart runner scheme",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/regionerne-overtager-hjerteloeberordningen",
-        "published_date": "2026-04-09 14:09:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three remanded in custody in case of 150 kilos of amphetamine",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-varetaegtsfaengslet-i-sag-om-150-kilo-amfetamin",
-        "published_date": "2026-04-09 13:42:00",
         "category": "Local Events"
     }
 ]
