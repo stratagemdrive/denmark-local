@@ -1,5 +1,19 @@
 [
     {
+        "title": "'A nightmare': Lives of foreigners across Europe hit by residency card delays",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260411/a-nightmare-lives-of-foreigners-across-europe-hit-by-residency-card-delays",
+        "published_date": "2026-04-11 11:53:39",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Everything on one board \u2013 Putin's and Trump's man in the EU is fighting for survival",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/oekonomi/alt-paa-et-braet--putins-og-trumps-mand-i-eu-kaemper-for-overlevelse?referrer=RSS",
+        "published_date": "2026-04-11 10:38:16",
+        "category": "Diplomacy"
+    },
+    {
         "title": "She is 27 years old and a representative of Denmark's largest export industry in the EU: \"These are the kind of leaders that the EU needs now\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/talent-100/hun-er-27-aar-og-repraesentant-for-danmarks-stoerste-eksporterhverv-i-eu-det-er-den-slags-ledere-som-eu-har-brug-for-nu?referrer=RSS",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Danish lottery player wins a prize of over DKK 63 million",
+        "title": "Latest news about the war in Ukraine - follow the developments here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dansk-lottospiller-vinder-gevinst-paa-over-63-millioner-kroner?referrer=RSS",
-        "published_date": "2026-04-03 20:39:45",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine--foelg-udviklingen-her-66?referrer=RSS",
+        "published_date": "2026-04-11 10:43:27",
+        "category": "Military"
     },
     {
-        "title": "Two men are suspected in the case of the oil spill at Gotland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/to-maend-mistaenkes-i-sag-om-olieudslip-ved-gotland?referrer=RSS",
-        "published_date": "2026-04-03 20:10:44",
-        "category": "Diplomacy"
+        "title": "Two killed in Russian attack in Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/draebt-i-russisk-angreb-paa-odesa",
+        "published_date": "2026-04-11 07:50:00",
+        "category": "Military"
     },
     {
         "title": "Ukraine says it has attacked Russian oil rigs",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Two family members of late Iranian military leader arrested in US",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/to-familiemedlemmer-til-afdoed-iransk-militaerleder-anholdt-i-usa?referrer=RSS",
-        "published_date": "2026-04-04 20:17:44",
-        "category": "Military"
-    },
-    {
-        "title": "Grenade found in the dunes: Defense experts called in",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/varde/granat-fundet-i-klitterne-forsvarets-eksperter-tilkaldt?rss",
-        "published_date": "2026-04-04 17:24:50",
-        "category": "Military"
-    },
-    {
         "title": "The diesel price in Denmark continues to rise",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/dieselprisen-i-danmark-fortsaetter-opad",
@@ -308,20 +308,6 @@
         "category": "Energy"
     },
     {
-        "title": "Easter lunches and windy weather provide free electricity during Easter",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/paaskefrokoster-og-blaesende-vejr-giver-gratis-stroem-i-paasken?referrer=RSS",
-        "published_date": "2026-04-03 09:48:44",
-        "category": "Energy"
-    },
-    {
-        "title": "Swedish Coast Guard boards tanker",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/svensk-kystvagt-gaar-ombord-paa-tankskib",
-        "published_date": "2026-04-03 08:13:00",
-        "category": "Energy"
-    },
-    {
         "title": "Today in Denmark: A roundup of the latest news on Friday",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260410/today-in-denmark-a-roundup-of-the-latest-news-on-friday-40",
@@ -343,143 +329,143 @@
         "category": "Economy"
     },
     {
+        "title": "Vansplagh keeps a low profile about cocaine and cannabis in national assembly speeches",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/vanopslagh-holder-lav-profil-om-kokain-og-cannabis-i-landsmoedetale?referrer=RSS",
+        "published_date": "2026-04-11 11:16:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alex Vanopglagh: Too much \"no-hatterie\" in blue block",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/video-alex-vanopslagh-for-meget-nej-hatteri-i-blaa-blok?referrer=RSS",
+        "published_date": "2026-04-11 11:02:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "After a hectic week on the rails: All S-trains are running again",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efter-hektisk-uge-paa-skinnerne-alle-s-tog-koerer-igen",
+        "published_date": "2026-04-11 10:54:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Possible sentence damage closes the town hall for at least a week",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mulig-saetningsskade-lukker-raadhus-i-mindst-en-uge",
+        "published_date": "2026-04-11 10:53:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Concerned fan section in Br\u00f8ndby is calling for clarity from the owners",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/bekymret-fanafdeling-i-broendby-efterlyser-klarhed-fra-ejere?referrer=RSS",
+        "published_date": "2026-04-11 10:40:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pakistan PM meets with Iran and US ahead of talks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/pakistans-premierminister-moedes-med-iran-og-usa-inden-forhandlinger?referrer=RSS",
+        "published_date": "2026-04-11 10:29:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Czech Prime Minister announces his support for Orb\u00e1n",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tjekkisk-premierminister-melder-sin-stoette-til-orban",
+        "published_date": "2026-04-11 10:21:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inside Denmark: Has anything actually happened since the election last month?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260411/inside-denmark-has-anything-actually-happened-since-the-election-last-month",
+        "published_date": "2026-04-11 10:10:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "South America backs Infantino for four more years",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sydamerika-bakker-op-om-fire-aar-mere-til-infantino?referrer=RSS",
+        "published_date": "2026-04-11 10:06:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "She advises the most important people in power - now she sighs: \"The Iranians see themselves as the rulers of the Gulf.\"As the winners of the war'",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hun-raadgiver-de-vigtigste-magthavere--nu-sukker-hun-iranerne-ser-sig-selv-som-golfens-herskere-som-krigens-vindere?referrer=RSS",
+        "published_date": "2026-04-11 10:02:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vansplagh dreams of flying to Marienborg with L\u00f8kke and Messerschmidt",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/vanopslagh-droemmer-om-at-flyve-til-marienborg-med-loekke-og-messerschmidt?referrer=RSS",
+        "published_date": "2026-04-11 09:57:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran hits with ai-generated LEGO videos: \u00bbIt indicates a generational change\u00ab",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/video-iran-hitter-med-ai-genererede-lego-videoer-det-tyder-paa-et-generationsskifte?referrer=RSS",
+        "published_date": "2026-04-11 09:49:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Now the police confirm: Woman in Middelfart was killed",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/nu-bekraefter-politiet-kvinde-i-middelfart-blev-draebt?rss",
+        "published_date": "2026-04-11 09:45:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Memorial plaques in Copenhagen pay tribute to far more men than women",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mindeplader-i-koebenhavn-hylder-langt-flere-maend-end-kvinder",
+        "published_date": "2026-04-11 09:21:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "West Jutland is a hit as a film backdrop",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/vestjylland-hitter-som-filmkulisse",
+        "published_date": "2026-04-11 09:19:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "An autopsy shows that a 41-year-old woman on Funen was killed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ligsyn-viser-41-aarig-kvinde-paa-fyn-blev-draebt",
+        "published_date": "2026-04-11 07:48:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "No one arrested for the possible murder of a 41-year-old woman",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/ingen-anholdte-efter-muligt-drab-paa-41-aarig-kvinde?rss",
+        "published_date": "2026-04-11 06:23:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pizzeria comes with prayer after big roar on opening day: Transferred money to customers",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/haderslev/nyt-pizzeria-med-opraab-efter-stor-broeler-paa-aabningsdag-overfoerte-penge-til-alle-kunder?rss",
+        "published_date": "2026-04-11 05:32:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Historic space journey ended with splashdown",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/historisk-rumrejse-afsluttet-med-splashdown",
+        "published_date": "2026-04-11 00:31:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Djibouti's president declares victory in sixth presidential election",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/djiboutis-praesident-erklaerer-sejr-ved-sjette-praesidentvalg?referrer=RSS",
         "published_date": "2026-04-10 22:47:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "At 18, he started selling ties online.Today he manages marketing budgets in the millions in New York",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/talent-100/som-18-aarig-startede-han-med-at-saelge-slips-online-i-dag-forvalter-han-marketingbudgetter-i-millionklassen-i-new-york?referrer=RSS",
-        "published_date": "2026-04-10 22:06:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "He has always been socially awkward, and as a leader he received harsh feedback.It was a turning point in his career",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/talent-100/han-har-altid-vaeret-socialt-akavet-og-som-leder-fik-han-haard-feedback-det-blev-et-vendepunkt-i-hans-karriere?referrer=RSS",
-        "published_date": "2026-04-10 22:06:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "She was given a unique opportunity in the London legal profession.Then she made a choice she has not regretted",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/talent-100/hun-fik-en-enestaaende-mulighed-i-londons-advokatbranche-saa-traf-hun-et-valg-hun-ikke-har-fortrudt?referrer=RSS",
-        "published_date": "2026-04-10 22:06:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "There are only 70 of her kind in Denmark.Now she advises on matters that are critical to Denmark's security",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/talent-100/der-findes-kun-70-af-hendes-slags-i-danmark-nu-raadgiver-hun-i-sager-der-er-kritiske-for-danmarks-sikkerhed?referrer=RSS",
-        "published_date": "2026-04-10 22:06:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "She is the Liberal Alliance's \"strategic anchor\" and has turned political momentum into organizational success",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/talent-100/hun-er-liberal-alliances-strategiske-anker-og-har-forvandlet-politisk-momentum-til-organisatorisk-succes?referrer=RSS",
-        "published_date": "2026-04-10 22:06:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "The youngest mayor in Denmark is called \"one of the most significant political profiles of his generation\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/talent-100/den-yngste-borgmester-i-danmark-kaldes-en-af-de-mest-markante-politiske-profiler-i-sin-generation?referrer=RSS",
-        "published_date": "2026-04-10 22:06:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "He is doing research in a field that you are guaranteed not to know about.But his research may play a central role in the future",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/talent-100/han-forsker-i-et-felt-du-med-garanti-ikke-kender-til-men-hans-forskning-kan-spille-en-central-rolle-i-fremtiden?referrer=RSS",
-        "published_date": "2026-04-10 22:06:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "A convincing lightning career has made the award-winning director a \"shining star\" in the Danish theater sky",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/talent-100/en-overbevisende-lynkarriere-har-gjort-prisvindende-instruktoer-til-en-lysende-stjerne-paa-den-danske-teaterhimmel?referrer=RSS",
-        "published_date": "2026-04-10 22:06:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish warplane follows Russian submarine in Kattegat",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/svensk-kampfly-foelger-russisk-ubaad-i-kattegat",
-        "published_date": "2026-04-10 19:49:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Congress will hold hearings for Epstein's victims",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kongressen-vil-holde-hoering-epsteins-ofre",
-        "published_date": "2026-04-10 19:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wolf escaped from South Korean zoo.Now the authorities are using drones and heat-seeking cameras",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ulv-undsluppet-fra-sydkoreansk-zoo-nu-tager-myndighederne-droner-og-varmesoegende-kameraer-i-brug",
-        "published_date": "2026-04-10 19:29:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drawings of triumphal arch that Trump wants to have erected in Washington, published",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tegninger-af-triumfbue-som-trump-vil-have-opfoert-i-washington-offentliggjort",
-        "published_date": "2026-04-10 19:08:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Charity sues Prince Harry",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/velgoerenhedsorganisation-sagsoeger-prins-harry",
-        "published_date": "2026-04-10 17:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man has died after tourist bus accident in the Canary Islands",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-er-doed-efter-turistbus-ulykke-paa-de-kanariske-oeer",
-        "published_date": "2026-04-10 17:17:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "41-year-old found dead on central road - being investigated as possible murder: Read the live blog here",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/mystisk-aktion-politiet-er-til-stede-paa-central-vej?rss",
-        "published_date": "2026-04-10 16:52:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police are investigating the possible murder of a woman in Middelfart",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterforsker-muligt-drab-paa-kvinde-i-middelfart",
-        "published_date": "2026-04-10 15:59:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Discount supermarket opens tavern",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/discountsupermarked-aabner-vaertshus",
-        "published_date": "2026-04-10 15:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A person has been stabbed: The police were present in large numbers at an address in Odense",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/patruljer-er-talstaerkt-til-stede-politiforretning-er-i-gang?rss",
-        "published_date": "2026-04-10 15:21:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police investigate stabbing in Odense",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-efterforsker-knivstik-i-odense",
-        "published_date": "2026-04-10 14:14:00",
         "category": "Local Events"
     }
 ]
