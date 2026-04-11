@@ -1,5 +1,12 @@
 [
     {
+        "title": "Full rollout of new EU border checks hit by delays and disruption",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260411/full-rollout-of-new-eu-border-checks-hit-by-delays-and-disruption",
+        "published_date": "2026-04-11 15:56:38",
+        "category": "Diplomacy"
+    },
+    {
         "title": "'A nightmare': Lives of foreigners across Europe hit by residency card delays",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260411/a-nightmare-lives-of-foreigners-across-europe-hit-by-residency-card-delays",
@@ -133,11 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Temu acknowledged problems during rare EU visit to China",
+        "title": "Danish defense attach\u00e9 in Kyiv wants instructors into Ukraine",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/temu-anerkendte-problemer-under-sjaeldent-eu-besoeg-i-kina?referrer=RSS",
-        "published_date": "2026-04-04 11:36:48",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/danmark/dansk-forsvarsattache-i-kyiv-vil-have-instruktoerer-ind-i-ukraine?referrer=RSS",
+        "published_date": "2026-04-11 23:20:44",
+        "category": "Military"
+    },
+    {
+        "title": "Iran's Revolutionary Guard warns military ships against sailing in Hormuz",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/irans-revolutionsgarde-advarer-militaere-skibe-mod-at-sejle-i-hormuz?referrer=RSS",
+        "published_date": "2026-04-11 22:59:44",
+        "category": "Military"
+    },
+    {
+        "title": "Ukraine and Russia exchange prisoners of war",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-og-rusland-udveksler-krigsfanger-3",
+        "published_date": "2026-04-11 11:39:00",
+        "category": "Military"
     },
     {
         "title": "Latest news about the war in Ukraine - follow the developments here",
@@ -259,27 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Nigerian soldiers free 31 abducted churchgoers",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nigerianske-soldater-befrier-31-bortfoerte-kirkegaengere",
-        "published_date": "2026-04-06 00:04:00",
-        "category": "Military"
-    },
-    {
-        "title": "Nigerian soldiers free 31 abducted churchgoers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nigerianske-soldater-befrier-31-bortfoerte-kirkegaengere?referrer=RSS",
-        "published_date": "2026-04-05 23:16:45",
-        "category": "Military"
-    },
-    {
-        "title": "Israel warns of intensified attacks against Hezbollah",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/israel-varsler-intensiverede-angreb-mod-hizbollah?referrer=RSS",
-        "published_date": "2026-04-05 20:25:44",
-        "category": "Military"
-    },
-    {
         "title": "The diesel price in Denmark continues to rise",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/dieselprisen-i-danmark-fortsaetter-opad",
@@ -301,11 +301,11 @@
         "category": "Energy"
     },
     {
-        "title": "The energy shock requires a strategy for the green industry",
+        "title": "Saudi Arabia's grandiose visions collide with economic reality \u2013 and the Iran war",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentar/energichokket-kraever-en-strategi-for-den-groenne-industri?referrer=RSS",
-        "published_date": "2026-04-03 20:38:48",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/internationalt/saudi-arabiens-storstilede-visioner-stoeder-ind-i-den-oekonomiske-virkelighed--og-iran-krigen?referrer=RSS",
+        "published_date": "2026-04-11 20:43:03",
+        "category": "Economy"
     },
     {
         "title": "Today in Denmark: A roundup of the latest news on Friday",
@@ -329,143 +329,143 @@
         "category": "Economy"
     },
     {
+        "title": "Iran announces continued peace talks despite disagreements",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-melder-om-fortsatte-fredsforhandlinger-trods-uenighed?referrer=RSS",
+        "published_date": "2026-04-11 23:20:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "One person killed in solo accident: Car thrown around",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/en-person-draebt-i-soloulykke-bil-slynget-rundt?rss",
+        "published_date": "2026-04-11 22:59:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "One killed in accident: Motorway closed",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/alvorlig-ulykke-motorvejen-spaerret?rss",
+        "published_date": "2026-04-11 22:14:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump: Agreement with Iran or not makes no difference - we have won",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-aftale-med-iran-eller-ej-goer-ingen-forskel-vi-har-vundet?referrer=RSS",
+        "published_date": "2026-04-11 21:35:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "A motorist has lost his life in a suspected solo accident in a village in Funen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/bilist-har-mistet-livet-i-formodet-soloulykke-i-fynsk-landsby?referrer=RSS",
+        "published_date": "2026-04-11 21:19:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man arrested for driving under the influence after an accident in Odense",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-anholdt-for-paavirket-koersel-efter-uheld-i-odense?referrer=RSS",
+        "published_date": "2026-04-11 21:02:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Person dead after a serious traffic accident on the Funen motorway",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/person-doed-efter-alvorligt-faerdselsuheld-paa-fynsk-motorvej?referrer=RSS",
+        "published_date": "2026-04-11 20:59:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Handball star rages over dismissal: Can't put into words the disappointment",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/haandboldstjerne-raser-over-fyring-kan-ikke-saette-ord-paa-skuffelse?referrer=RSS",
+        "published_date": "2026-04-11 20:49:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "A coherent healthcare system requires clearer responsibility",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/et-sammenhaengende-sundhedsvaesen-kraever-tydeligere-ansvar?referrer=RSS",
+        "published_date": "2026-04-11 20:11:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "French man charged with keeping his son locked in a van for a year and a half",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fransk-mand-siget-holde-sin-soen-indespaerret-i-en-varebil-i-halvandet-aar",
+        "published_date": "2026-04-11 19:27:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wanted 78-year-old man found safe",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-78-aarig-mand-i-roedekro",
+        "published_date": "2026-04-11 19:08:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fatal accident closed Motorring 4 for several hours",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doedsulykke-lukkede-motorring-4-i-flere-timer",
+        "published_date": "2026-04-11 18:36:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police have killed a knife-wielding man at Grand Central Terminal in the United States",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-har-draebt-en-knivsvingende-mand-paa-grand-central-terminal-i-usa",
+        "published_date": "2026-04-11 17:27:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iraq's parliament has elected a new president",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iraks-parlament-har-valgt-ny-praesident",
+        "published_date": "2026-04-11 15:59:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Irish petrol stations have run out of fuel after blockade",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/irske-tankstationer-er-loebet-toer-braendstof-efter-blokade",
+        "published_date": "2026-04-11 13:39:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deaths while on duty must be investigated",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doedsfald-under-politiopgave-skal-undersoeges",
+        "published_date": "2026-04-11 12:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "19-year-old arrested for killing 41-year-old woman in Middelfart",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-anholdt-drab-paa-41-aarig-kvinde-i-middelfart",
+        "published_date": "2026-04-11 11:53:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pakistan has met with Iran and the US ahead of talks",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pakistan-har-moedtes-med-iran-og-usa-forud-forhandlinger",
+        "published_date": "2026-04-11 11:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "K is expected to negotiate government with S on Tuesday",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/k-ventes-forhandle-regering-med-s-paa-tirsdag",
+        "published_date": "2026-04-11 11:22:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Vansplagh keeps a low profile about cocaine and cannabis in national assembly speeches",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/vanopslagh-holder-lav-profil-om-kokain-og-cannabis-i-landsmoedetale?referrer=RSS",
         "published_date": "2026-04-11 11:16:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alex Vanopglagh: Too much \"no-hatterie\" in blue block",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/video-alex-vanopslagh-for-meget-nej-hatteri-i-blaa-blok?referrer=RSS",
-        "published_date": "2026-04-11 11:02:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "After a hectic week on the rails: All S-trains are running again",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-hektisk-uge-paa-skinnerne-alle-s-tog-koerer-igen",
-        "published_date": "2026-04-11 10:54:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Possible sentence damage closes the town hall for at least a week",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mulig-saetningsskade-lukker-raadhus-i-mindst-en-uge",
-        "published_date": "2026-04-11 10:53:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Concerned fan section in Br\u00f8ndby is calling for clarity from the owners",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/bekymret-fanafdeling-i-broendby-efterlyser-klarhed-fra-ejere?referrer=RSS",
-        "published_date": "2026-04-11 10:40:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pakistan PM meets with Iran and US ahead of talks",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/pakistans-premierminister-moedes-med-iran-og-usa-inden-forhandlinger?referrer=RSS",
-        "published_date": "2026-04-11 10:29:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Czech Prime Minister announces his support for Orb\u00e1n",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tjekkisk-premierminister-melder-sin-stoette-til-orban",
-        "published_date": "2026-04-11 10:21:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside Denmark: Has anything actually happened since the election last month?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260411/inside-denmark-has-anything-actually-happened-since-the-election-last-month",
-        "published_date": "2026-04-11 10:10:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "South America backs Infantino for four more years",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/sydamerika-bakker-op-om-fire-aar-mere-til-infantino?referrer=RSS",
-        "published_date": "2026-04-11 10:06:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "She advises the most important people in power - now she sighs: \"The Iranians see themselves as the rulers of the Gulf.\"As the winners of the war'",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hun-raadgiver-de-vigtigste-magthavere--nu-sukker-hun-iranerne-ser-sig-selv-som-golfens-herskere-som-krigens-vindere?referrer=RSS",
-        "published_date": "2026-04-11 10:02:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vansplagh dreams of flying to Marienborg with L\u00f8kke and Messerschmidt",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/vanopslagh-droemmer-om-at-flyve-til-marienborg-med-loekke-og-messerschmidt?referrer=RSS",
-        "published_date": "2026-04-11 09:57:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran hits with ai-generated LEGO videos: \u00bbIt indicates a generational change\u00ab",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/video-iran-hitter-med-ai-genererede-lego-videoer-det-tyder-paa-et-generationsskifte?referrer=RSS",
-        "published_date": "2026-04-11 09:49:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Now the police confirm: Woman in Middelfart was killed",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/nu-bekraefter-politiet-kvinde-i-middelfart-blev-draebt?rss",
-        "published_date": "2026-04-11 09:45:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Memorial plaques in Copenhagen pay tribute to far more men than women",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mindeplader-i-koebenhavn-hylder-langt-flere-maend-end-kvinder",
-        "published_date": "2026-04-11 09:21:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "West Jutland is a hit as a film backdrop",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vestjylland-hitter-som-filmkulisse",
-        "published_date": "2026-04-11 09:19:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "An autopsy shows that a 41-year-old woman on Funen was killed",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ligsyn-viser-41-aarig-kvinde-paa-fyn-blev-draebt",
-        "published_date": "2026-04-11 07:48:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "No one arrested for the possible murder of a 41-year-old woman",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/ingen-anholdte-efter-muligt-drab-paa-41-aarig-kvinde?rss",
-        "published_date": "2026-04-11 06:23:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pizzeria comes with prayer after big roar on opening day: Transferred money to customers",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/nyt-pizzeria-med-opraab-efter-stor-broeler-paa-aabningsdag-overfoerte-penge-til-alle-kunder?rss",
-        "published_date": "2026-04-11 05:32:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Historic space journey ended with splashdown",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/historisk-rumrejse-afsluttet-med-splashdown",
-        "published_date": "2026-04-11 00:31:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Djibouti's president declares victory in sixth presidential election",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/djiboutis-praesident-erklaerer-sejr-ved-sjette-praesidentvalg?referrer=RSS",
-        "published_date": "2026-04-10 22:47:43",
         "category": "Local Events"
     }
 ]
