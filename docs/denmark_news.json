@@ -1,5 +1,19 @@
 [
     {
+        "title": "UN: The world turns a blind eye to the atrocities in Sudan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fn-verden-vender-det-blinde-oeje-til-grusomhederne-i-sudan",
+        "published_date": "2026-04-13 21:43:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "UN: The world turns a blind eye to the atrocities in Sudan",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fn-verden-vender-det-blinde-oeje-til-grusomhederne-i-sudan?referrer=RSS",
+        "published_date": "2026-04-13 21:39:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "'Historic moment': European leaders react to Orban's defeat in Hungary",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260413/historic-moment-european-leaders-react-to-orbans-defeat-in-hungary",
@@ -123,20 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-kalder-groenland-et-daarligt-styret-stykke-is?referrer=RSS",
         "published_date": "2026-04-08 23:58:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Rutte on meeting with Trump: I pointed out the helpfulness of European countries",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rutte-om-moede-med-trump-jeg-paapegede-europaeiske-landes-hjaelpsomhed?referrer=RSS",
-        "published_date": "2026-04-08 23:30:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Yes, Berlingske, better EU rules than 27 sets of rules",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/jo-berlingske-hellere-eu-regler-end-27-saet-regler?referrer=RSS",
-        "published_date": "2026-04-08 20:14:49",
         "category": "Diplomacy"
     },
     {
@@ -280,6 +280,13 @@
         "category": "Military"
     },
     {
+        "title": "The US energy secretary expects even more expensive oil in the coming weeks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usas-energiminister-forventer-endnu-dyrere-olie-de-naeste-uger?referrer=RSS",
+        "published_date": "2026-04-13 22:15:45",
+        "category": "Energy"
+    },
+    {
         "title": "Germany lowers the energy tax on petrol and diesel",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/tyskland-saenker-energiafgiften-paa-benzin-og-diesel",
@@ -336,143 +343,143 @@
         "category": "Economy"
     },
     {
+        "title": "Vance is saddened by Orb\u00e1n's fall in Hungary's general election",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/vance-er-ked-af-orbans-fald-ved-ungarns-parlamentsvalg?referrer=RSS",
+        "published_date": "2026-04-13 23:05:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "US congressman to resign after sexual assault allegations",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/amerikansk-kongresmedlem-vil-traekke-sig-efter-overgrebsanklager?referrer=RSS",
+        "published_date": "2026-04-13 22:54:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swiss strikers secure victory for Leeds at Old Trafford",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/schweiziske-fuldtraeffere-sikrer-leeds-sejr-paa-old-trafford?referrer=RSS",
+        "published_date": "2026-04-13 21:06:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The wife of the Spanish prime minister is charged with corruption",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hustru-til-spansk-premierminister-er-sigtet-for-korruption?referrer=RSS",
+        "published_date": "2026-04-13 20:59:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vejle coach: We can't use a draw for much",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/vejle-traener-vi-kan-ikke-bruge-uafgjort-til-meget?referrer=RSS",
+        "published_date": "2026-04-13 20:53:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fredericia and Vejle share in sympathetic bottom horrors",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fredericia-og-vejle-deler-i-medlevende-bundgyser?referrer=RSS",
+        "published_date": "2026-04-13 20:40:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Stop the fight against private cars and find concrete solutions to the problems with public transport",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/stop-kampen-mod-privatbilismen-og-find-konkrete-loesninger-paa-problemerne-med-den-offentlige-transport?referrer=RSS",
+        "published_date": "2026-04-13 20:11:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Great Belt Bridge is testing a new payment solution after a breakdown",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/storebaeltsbroen-tester-ny-betalingsloesning-efter-nedbrud?referrer=RSS",
+        "published_date": "2026-04-13 20:04:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Original poem by H.C.Andersen was sold for DKK 55,000",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/originalt-digt-af-h-c-andersen-er-solgt-55-000-kroner",
+        "published_date": "2026-04-13 19:36:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Brazilian politician arrested",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-brasiliansk-politiker-anholdt",
+        "published_date": "2026-04-13 18:08:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump confirms blockade",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-bekraefter-blokade",
+        "published_date": "2026-04-13 17:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man in his 20s charged with arson on Funen",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-i-20-erne-sigtet-brandstiftelse-paa-fyn",
+        "published_date": "2026-04-13 15:54:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish word of the day: Ej",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260413/danish-word-of-the-day-ej",
+        "published_date": "2026-04-13 15:26:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Great Belt Bridge will soon be ready with a payment solution for crisis situations",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/storebaeltsbroen-snart-klar-med-betalingsloesning-til-krisesituationer",
+        "published_date": "2026-04-13 14:12:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swimming federation lifts all restrictions against Russians",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/svoemmeforbund-loefter-alle-restriktioner-mod-russere",
+        "published_date": "2026-04-13 14:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heavy rainfall this week could cause 'blood rain' over Denmark",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260413/heavy-rainfall-this-week-could-cause-blood-rain-over-denmark",
+        "published_date": "2026-04-13 13:59:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three convicted for the two-year-old murder of a 29-year-old man in Fjerritslev",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-doemt-aar-gammelt-drab-paa-29-aarig-mand-i-fjerritslev",
+        "published_date": "2026-04-13 12:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deficiencies have been found in almost half of the online food stores",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/der-er-fundet-mangler-hos-knap-halvdelen-af-onlinebutikker-med-foedevarer",
+        "published_date": "2026-04-13 12:07:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark's profits from trade are mainly due to the largest industrial groups",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danmarks-overskud-fra-handel-skyldes-isaer-de-stoerste-industrikoncerner",
+        "published_date": "2026-04-13 12:03:00",
+        "category": "Local Events"
+    },
+    {
         "title": "93-year-old admits to having killed his wife",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/93-aarig-erkender-at-have-slaaet-sin-hustru-ihjel?referrer=RSS",
         "published_date": "2026-04-13 11:56:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Summerbird increases million profit despite high cocoa prices",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/summerbird-oeger-millionoverskud-trods-hoeje-priser-paa-kakao?referrer=RSS",
-        "published_date": "2026-04-13 11:49:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish chef behind well-known sauce series has died - aged 79",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/svensk-kok-bag-kendt-sovseserie-er-doed-79-aar?referrer=RSS",
-        "published_date": "2026-04-13 11:49:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Human bones found on R\u00f8m\u00f8 belonged to a missing German",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fundne-menneskeknogler-paa-roemoe-tilhoerte-savnet-tysker",
-        "published_date": "2026-04-13 11:47:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rust closes bicycle parking at Aarhus railway station",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rust-lukker-cykelparkering-ved-aarhus-banegaard",
-        "published_date": "2026-04-13 11:43:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Quick test drive in Tesla can cost debts of half a million",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/hurtig-proevetur-i-tesla-kan-koste-gaeld-paa-halv-million?referrer=RSS",
-        "published_date": "2026-04-13 11:41:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump shares AI image of himself as Jesus after feud with Pope",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-deler-ai-billede-af-sig-selv-som-jesus-efter-fejde-med-paven",
-        "published_date": "2026-04-13 11:41:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "FACT: High speed and drunk driving are crazy driving",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/fakta-hoej-fart-og-spritkoersel-er-vanvidskoersel?referrer=RSS",
-        "published_date": "2026-04-13 11:20:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nothing criminal behind the discovery of human bones on R\u00f8m\u00f8",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/intet-kriminelt-bag-fund-af-menneskeknogler-paa-roemoe?referrer=RSS",
-        "published_date": "2026-04-13 11:17:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pregnant goalkeeper says goodbye to Ikast after 101 games",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/gravid-maalvogter-siger-farvel-til-ikast-efter-101-kampe?referrer=RSS",
-        "published_date": "2026-04-13 10:58:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Merger between Arla and Them is dropped following authorities' concerns",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/fusion-mellem-arla-og-them-droppes-efter-myndigheders-bekymring?referrer=RSS",
-        "published_date": "2026-04-13 10:58:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia will continue the 'pragmatic connection' with Hungary",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-vil-forsaette-den-pragmatiske-forbindelse-til-ungarn",
-        "published_date": "2026-04-13 10:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Officers cycle around Sk\u00e6rb\u00e6k after the fatal accident of two boys",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/betjente-cykler-rundt-i-skaerbaek-efter-to-drenges-doedsulykke?referrer=RSS",
-        "published_date": "2026-04-13 10:45:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Arla and Them drop merger: Feared price increase for hard cheese",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/arla-og-them-dropper-fusion",
-        "published_date": "2026-04-13 10:33:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "No support from Starmer and Macron for blockade of the Strait of Hormuz",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ingen-opbakning-fra-starmer-og-macron-til-blokade-af-hormuzstraedet",
-        "published_date": "2026-04-13 09:28:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Schools remember those killed in the weekend's moped accident at Sk\u00e6rb\u00e6k",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skoler-mindes-draebte-i-weekendens-knallertulykke-ved-skaerbaek",
-        "published_date": "2026-04-13 09:22:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Merz after the elections in Hungary: 'We are far more resistant to Russian propaganda'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/merz-efter-valget-i-ungarn-vi-er-langt-mere-modstandsdygtige-over-russisk-propaganda",
-        "published_date": "2026-04-13 09:08:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "How the housing market in Aarhus has 'completely turned'",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260413/aarhus-property-market-starting-to-resemble-copenhagens",
-        "published_date": "2026-04-13 09:04:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man arrested for threats against Oslo's new government quarter",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-anholdt-trusler-mod-oslos-nye-regeringskvarter",
-        "published_date": "2026-04-13 08:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish PM opens up government negotiations to centre-right parties",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260413/danish-pm-opens-up-government-negotiations-to-centre-right-parties",
-        "published_date": "2026-04-13 08:17:21",
         "category": "Local Events"
     }
 ]
