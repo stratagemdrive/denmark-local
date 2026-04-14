@@ -1,5 +1,40 @@
 [
     {
+        "title": "Trump rages against Meloni after lack of support in Iran war",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-raser-mod-meloni-efter-manglende-stoette-i-iran-krig?referrer=RSS",
+        "published_date": "2026-04-14 20:56:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Israel and Lebanon are ready to negotiate directly, says the US State Department",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-og-libanon-er-klar-til-forhandle-direkte-lyder-det-fra-usa-s-udenrigsministerium",
+        "published_date": "2026-04-14 19:41:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Europe could face jet fuel supply issues 'in near future'",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260414/europe-could-face-jet-fuel-supply-issues-in-near-future",
+        "published_date": "2026-04-14 14:57:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Denmark's Novo Nordisk signs deal with OpenAI to develop new drugs",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260414/denmarks-novo-nordisk-signs-deal-with-openai-to-develop-new-drugs",
+        "published_date": "2026-04-14 12:59:24",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "How the European job market will change with new pay transparency rules",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260414/how-the-european-job-market-will-change-with-new-pay-transparency-rules",
+        "published_date": "2026-04-14 10:37:53",
+        "category": "Diplomacy"
+    },
+    {
         "title": "UN: The world turns a blind eye to the atrocities in Sudan",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/fn-verden-vender-det-blinde-oeje-til-grusomhederne-i-sudan",
@@ -105,39 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Correspondent: \"The whole of Europe's security is at stake on Sunday\"",
+        "title": "Zelenskyj: The US has no time for Ukraine because of the war in Iran",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/video-korrespondent-sat-paa-spidsen-er-hele-europas-sikkerhed-paa-spil-paa-soendag?referrer=RSS",
-        "published_date": "2026-04-10 11:00:02",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/zelenskyj-usa-har-ikke-tid-til-ukraine-grundet-krig-i-iran?referrer=RSS",
+        "published_date": "2026-04-14 23:02:46",
+        "category": "Military"
     },
     {
-        "title": "UN: Lebanon risks food crisis due to war",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fn-libanon-risikerer-foedevarekrise-paa-grund-af-krig?referrer=RSS",
-        "published_date": "2026-04-10 10:50:48",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Nato chief: Some Nato allies have been a bit slow",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nato-chef-nogle-nato-allierede-har-vaeret-lidt-langsomme?referrer=RSS",
-        "published_date": "2026-04-09 16:05:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Eight car seats fail European tests",
+        "title": "Ukraine and Norway enter into cooperation on drone production",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/otte-autostole-dumper-europaeisk-test",
-        "published_date": "2026-04-09 12:38:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Trump calls Greenland a poorly managed piece of ice",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-kalder-groenland-et-daarligt-styret-stykke-is?referrer=RSS",
-        "published_date": "2026-04-08 23:58:49",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-og-norge-indgaar-samarbejde-om-droneproduktion",
+        "published_date": "2026-04-14 19:08:00",
+        "category": "Military"
     },
     {
         "title": "Donald Trump wants to block Iran's ports \u2013 military analyst points to what could be America's problem",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "OVERVIEW: How world leaders react to ceasefire in Iran",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/overblik-saadan-reagerer-verdensledere-paa-vaabenhvile-i-iran?referrer=RSS",
-        "published_date": "2026-04-08 05:01:52",
-        "category": "Military"
-    },
-    {
-        "title": "Oil prices fall after news of cease-fire between the US and Iran",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/olieprisen-falder-efter-melding-om-vaabenhvile-mellem-usa-og-iran",
-        "published_date": "2026-04-08 04:06:00",
-        "category": "Military"
-    },
-    {
         "title": "Russia's oil earnings rise significantly amid unrest in the Middle East",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/ruslands-olieindtjening-stiger-markant-under-uro-i-mellemoesten?referrer=RSS",
@@ -315,13 +315,6 @@
         "category": "Energy"
     },
     {
-        "title": "Israel attacks Iranian industrial zone at the world's largest natural gas field",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/israel-angriber-iransk-industrizone-ved-verdens-stoerste-naturgasfelt?referrer=RSS",
-        "published_date": "2026-04-06 13:08:48",
-        "category": "Energy"
-    },
-    {
         "title": "Fine reduces Saxo Bank's profits",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/boede-traekker-ned-i-saxo-banks-overskud?referrer=RSS",
@@ -350,150 +343,143 @@
         "category": "Economy"
     },
     {
-        "title": "He moved 22 million between two accounts and faced a tax bill of 127 million.Now he has won over Skat",
+        "title": "Prosecutors call Maradona's accused medical team a bunch of amateurs",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/han-flyttede-22-millioner-mellem-to-konti-og-stod-til-skatteregning-paa-127-millioner-nu-har-han-vundet-over-skat?referrer=RSS",
-        "published_date": "2026-04-06 14:14:39",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/sport/anklager-kalder-maradonas-tiltalte-laegeteam-for-en-flok-amatoerer?referrer=RSS",
+        "published_date": "2026-04-14 23:26:48",
+        "category": "Local Events"
     },
     {
-        "title": "Dansk Industri returns to Copenhagen Pride after sponsorship flight",
+        "title": "J. D.Vance: We are in the process of negotiating with Iran",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dansk-industri-vender-tilbage-til-copenhagen-pride-efter-sponsorflugt?referrer=RSS",
-        "published_date": "2026-04-14 11:43:48",
+        "url": "https://www.berlingske.dk/internationalt/jd-vance-vi-er-i-gang-med-at-forhandle-med-iran?referrer=RSS",
+        "published_date": "2026-04-14 23:23:45",
         "category": "Local Events"
     },
     {
-        "title": "The Folketing postpones the meeting on approval of the Thing after the residence case",
+        "title": "Danish match winner against Sweden: Football at its best",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/folketinget-udsaetter-moede-om-godkendelse-af-tinget-efter-bopaelssag?referrer=RSS",
-        "published_date": "2026-04-14 11:40:49",
+        "url": "https://www.berlingske.dk/sport/dansk-matchvinder-mod-sverige-fodbold-naar-det-er-bedst?referrer=RSS",
+        "published_date": "2026-04-14 22:46:48",
         "category": "Local Events"
     },
     {
-        "title": "The Danish Parliament postpones approval of the election due to housing issues",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/folketinget-udskyder-godkendelse-af-valget-paa-grund-af-boligsag",
-        "published_date": "2026-04-14 11:29:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Director leaves DCU after a year at the helm",
+        "title": "Frenchman wins genuine Picasso painting for DKK 750",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/direktoer-forlader-dcu-efter-et-aar-i-spidsen?referrer=RSS",
-        "published_date": "2026-04-14 11:26:55",
+        "url": "https://www.berlingske.dk/internationalt/franskmand-vinder-aegte-picasso-maleri-for-750-kroner?referrer=RSS",
+        "published_date": "2026-04-14 22:03:49",
         "category": "Local Events"
     },
     {
-        "title": "The man behind the world's most indebted company pleads guilty to fraud",
+        "title": "Train problems in Zealand extend to Wednesday",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/manden-bag-verdens-mest-forgaeldede-virksomhed-erklaerer-sig-skyldig-i-svindel?referrer=RSS",
-        "published_date": "2026-04-14 11:22:39",
+        "url": "https://www.berlingske.dk/danmark/togproblemer-paa-sjaelland-straekker-sig-til-onsdag?referrer=RSS",
+        "published_date": "2026-04-14 21:38:50",
         "category": "Local Events"
     },
     {
-        "title": "The director's daughter opened his eyes to a blind spot in the labor market.\"It has made me think differently\"",
+        "title": "Hvidovre secures the Badminton Championship with a great comeback",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/direktoerens-datter-aabnede-hans-oejne-for-en-blind-vinkel-paa-arbejdsmarkedet-det-har-faaet-mig-til-at-taenke-anderledes?referrer=RSS",
-        "published_date": "2026-04-14 11:21:14",
+        "url": "https://www.berlingske.dk/sport/hvidovre-sikrer-badminton-dm-med-flot-comeback?referrer=RSS",
+        "published_date": "2026-04-14 21:27:46",
         "category": "Local Events"
     },
     {
-        "title": "Danish Industry returns to Copenhagen Pride",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-industri-vender-tilbage-til-copenhagen-pride",
-        "published_date": "2026-04-14 11:17:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "16-year-old boy jailed for bombing in Frederiksberg",
+        "title": "Barcelona's Champions League comeback fails against Atl\u00e9tico",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/16-aarig-dreng-faengslet-for-spraengning-paa-frederiksberg?referrer=RSS",
-        "published_date": "2026-04-14 11:16:55",
+        "url": "https://www.berlingske.dk/sport/barcelonas-champions-league-comeback-udebliver-mod-atletico?referrer=RSS",
+        "published_date": "2026-04-14 21:10:46",
         "category": "Local Events"
     },
     {
-        "title": "Zelenskyj visits Denmark's neighboring countries",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-besoeger-danmarks-nabolande",
-        "published_date": "2026-04-14 10:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Member of Parliament is accused of misappropriating millions on himself",
+        "title": "PSG runs the CL semi-final at home with another victory over Liverpool",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/folketingsmedlem-beskyldes-for-at-misbruge-millioner-paa-sig-selv?referrer=RSS",
-        "published_date": "2026-04-14 10:15:48",
+        "url": "https://www.berlingske.dk/sport/psg-koerer-cl-semifinalen-i-hus-med-ny-sejr-over-liverpool?referrer=RSS",
+        "published_date": "2026-04-14 21:03:45",
         "category": "Local Events"
     },
     {
-        "title": "No trains run between Ringsted and K\u00f8ge Nord for the rest of the day",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/der-koerer-ingen-tog-mellem-ringsted-og-koege-nord-resten-af-dagen?referrer=RSS",
-        "published_date": "2026-04-14 10:12:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish holidaymakers get extra bills because of the war in the Middle East",
+        "title": "Trump shocked by Meloni: 'I thought she was brave'",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danske-feriegaester-faar-ekstraregning-paa-grund-af-krigen-i-mellemoesten",
-        "published_date": "2026-04-14 10:06:00",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-chokeret-over-meloni-jeg-troede-hun-var-modig",
+        "published_date": "2026-04-14 20:28:00",
         "category": "Local Events"
     },
     {
-        "title": "China criticizes US blockade in the Strait of Hormuz",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kina-kritiserer-amerikansk-blokade-i-hormuzstraedet",
-        "published_date": "2026-04-14 09:27:00",
+        "title": "Travel chaos: Almost all trains in eastern Denmark cancelled",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260414/travel-chaos-almost-all-trains-in-eastern-denmark-cancelled",
+        "published_date": "2026-04-14 20:11:41",
         "category": "Local Events"
     },
     {
-        "title": "16 people injured in school shooting in Turkey",
+        "title": "Spain will give 500,000 undocumented migrants one-year residence permits",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/16-personer-saaret-i-skoleskyderi-i-tyrkiet",
-        "published_date": "2026-04-14 09:05:00",
+        "url": "https://www.dr.dk/nyheder/seneste/spanien-vil-give-500-000-papirloese-migranter-etaarig-opholdstilladelse",
+        "published_date": "2026-04-14 19:16:00",
         "category": "Local Events"
     },
     {
-        "title": "J. D.Vance is saddened by Viktor Orb\u00e1n's defeat",
+        "title": "A fire has broken out at a gunpowder factory in the Russian city of Kazan",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/j-d-vance-er-ked-af-viktor-orbans-nederlag",
-        "published_date": "2026-04-14 08:53:00",
+        "url": "https://www.dr.dk/nyheder/seneste/en-brand-er-brudt-ud-paa-en-krudtfabrik-i-den-russiske-kazan",
+        "published_date": "2026-04-14 18:11:00",
         "category": "Local Events"
     },
     {
-        "title": "The Hiller\u00f8d motorway is open again: Two people have been taken to hospital",
+        "title": "The temporary border control with Germany is extended again",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hilleroedmotorvejen-aaben-igen-personer-er-bragt-til-hospitalet",
-        "published_date": "2026-04-14 08:50:00",
+        "url": "https://www.dr.dk/nyheder/seneste/den-midlertidige-graensekontrol-mod-tyskland-forlaenges-igen",
+        "published_date": "2026-04-14 16:26:00",
         "category": "Local Events"
     },
     {
-        "title": "No trains between K\u00f8ge and Ringsted until 2 p.m",
+        "title": "Copenhagen Municipality is successful in the case regarding the purchase of 228 apartments",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ingen-tog-mellem-koege-og-ringsted-indtil-klokken-14",
-        "published_date": "2026-04-14 08:44:00",
+        "url": "https://www.dr.dk/nyheder/seneste/koebenhavns-kommune-faar-medhold-i-sag-om-koeb-af-228-lejligheder",
+        "published_date": "2026-04-14 16:25:00",
         "category": "Local Events"
     },
     {
-        "title": "20,600 Danske Bank customers have had their secret address exposed",
+        "title": "Danish Sailing Union votes no to Russian comeback",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/20-600-kunder-i-danske-bank-har-faaet-eksponeret-deres-hemmelige-adresse",
-        "published_date": "2026-04-14 07:54:00",
+        "url": "https://www.dr.dk/nyheder/seneste/dansk-sejlunion-stemmer-nej-til-russisk-comeback",
+        "published_date": "2026-04-14 15:37:00",
         "category": "Local Events"
     },
     {
-        "title": "16-year-old boy arrested for blowing up in Frederiksberg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/16-aarig-dreng-anholdt-spraengning-paa-frederiksberg",
-        "published_date": "2026-04-14 07:51:00",
+        "title": "Major Copenhagen street to be pedestrianised until December",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260414/major-copenhagen-street-to-be-pedestrianised-until-december",
+        "published_date": "2026-04-14 15:06:28",
         "category": "Local Events"
     },
     {
-        "title": "Man and woman arrested in Br\u00f8ndby for promoting Hamas",
+        "title": "Virtually all trains on Zealand have been cancelled",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/personer-anholdt-fremme-terrororganisationen-hamas",
-        "published_date": "2026-04-14 07:51:00",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-tog-oest-odense-holder-stille",
+        "published_date": "2026-04-14 14:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "First possible case of mpox variant registered in Denmark",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/foerste-mulige-tilfaelde-af-mpoxvariant-registreret-i-danmark",
+        "published_date": "2026-04-14 14:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "According to a study, Snapchat allows words for drugs in profile names",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/snapchat-tillader-ifoelge-undersoegelse-ord-narko-i-profilnavn",
+        "published_date": "2026-04-14 14:31:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Presidium of the Folketing has been elected: S\u00f8ren Gade is chairman until October",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/folketingets-praesidium-er-valgt-soeren-gade-er-formand-til-oktober",
+        "published_date": "2026-04-14 14:16:00",
         "category": "Local Events"
     }
 ]
