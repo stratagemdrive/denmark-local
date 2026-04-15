@@ -1,5 +1,26 @@
 [
     {
+        "title": "The EU is ready with an app to protect children online",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/eu-er-klar-med-app-der-skal-beskytte-boern-online?referrer=RSS",
+        "published_date": "2026-04-15 11:24:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "President of the EU Commission: New app for age verification will be ready soon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-kommissionsformand-snart-er-ny-app-til-aldersverifikation-klar",
+        "published_date": "2026-04-15 09:21:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "UN: North Korea is strengthening its ability to produce nuclear weapons",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fn-nordkorea-styrker-sin-evne-til-producere-atomvaaben",
+        "published_date": "2026-04-15 07:12:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Trump rages against Meloni after lack of support in Iran war",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-raser-mod-meloni-efter-manglende-stoette-i-iran-krig?referrer=RSS",
@@ -119,25 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Everything on one board \u2013 Putin's and Trump's man in the EU is fighting for survival",
+        "title": "He has deep insight into what is happening on the battlefield.Now a Danish diplomat is proposing two drastic steps",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/alt-paa-et-braet--putins-og-trumps-mand-i-eu-kaemper-for-overlevelse?referrer=RSS",
-        "published_date": "2026-04-11 10:38:16",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/indland/han-har-dyb-indsigt-i-hvad-der-sker-paa-slagmarken-nu-foreslaar-dansk-diplomat-to-drastiske-skridt?referrer=RSS",
+        "published_date": "2026-04-15 11:07:10",
+        "category": "Military"
     },
     {
-        "title": "She is 27 years old and a representative of Denmark's largest export industry in the EU: \"These are the kind of leaders that the EU needs now\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/talent-100/hun-er-27-aar-og-repraesentant-for-danmarks-stoerste-eksporterhverv-i-eu-det-er-den-slags-ledere-som-eu-har-brug-for-nu?referrer=RSS",
-        "published_date": "2026-04-10 22:06:22",
-        "category": "Diplomacy"
+        "title": "The armed forces are buying up massively in one area - have spent three-digit millions: See the five biggest deals",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/erhverv/forsvaret-koeber-massivt-op-i-et-omraade-har-brugt-trecifret-millionbeloeb-se-de-fem-stoerste-handler?rss",
+        "published_date": "2026-04-15 08:04:00",
+        "category": "Military"
     },
     {
-        "title": "EES border checks now fully implemented at Copenhagen Airport",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260410/ees-border-checks-now-fully-implemented-at-copenhagen-airport",
-        "published_date": "2026-04-10 15:07:46",
-        "category": "Diplomacy"
+        "title": "Denmark and a number of other countries in a joint statement: Cease fire in Lebanon now",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danmark-og-en-raekke-andre-i-faelles-erklaering-vaabenhvile-i-libanon-nu",
+        "published_date": "2026-04-15 05:49:00",
+        "category": "Military"
     },
     {
         "title": "Zelenskyj: The US has no time for Ukraine because of the war in Iran",
@@ -259,25 +280,18 @@
         "category": "Military"
     },
     {
-        "title": "Business overview: Ceasefire triggers huge plunge in oil prices and big stock rises",
+        "title": "According to the expert, train problems should lead to an investigation of running current suspension",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/business-overblik-vaabenhvile-udloeser-kaempe-dyk-i-oliepris-og-store-aktiestigninger?referrer=RSS",
-        "published_date": "2026-04-08 05:24:49",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/danmark/togproblemer-boer-ifoelge-ekspert-foere-til-undersoegelse-af-koerestroemsophaeng?referrer=RSS",
+        "published_date": "2026-04-15 11:13:50",
+        "category": "Energy"
     },
     {
-        "title": "Iran has sent 10 points that got Trump to stop his attacks - here they are",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iran-har-sendt-10-punkter-der-fik-trump-til-at-stoppe-sine-angreb--her-er-de?referrer=RSS",
-        "published_date": "2026-04-08 05:14:33",
-        "category": "Military"
-    },
-    {
-        "title": "Oil price falls below 100 dollars after announcement of ceasefire",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/oliepris-falder-til-under-100-dollar-efter-annoncering-af-vaabenhvile?referrer=RSS",
-        "published_date": "2026-04-08 05:12:47",
-        "category": "Military"
+        "title": "Orb\u00e1n's replacement will ensure press freedom, academic freedom and oil supply security",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/orbans-afloeser-vil-sikre-pressefrihed-akademisk-frihed-og-olieforsyningssikkerhed",
+        "published_date": "2026-04-15 06:40:00",
+        "category": "Energy"
     },
     {
         "title": "Russia's oil earnings rise significantly amid unrest in the Middle East",
@@ -343,143 +357,143 @@
         "category": "Economy"
     },
     {
-        "title": "Prosecutors call Maradona's accused medical team a bunch of amateurs",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/anklager-kalder-maradonas-tiltalte-laegeteam-for-en-flok-amatoerer?referrer=RSS",
-        "published_date": "2026-04-14 23:26:48",
+        "title": "The Lego family expands historical property - buys for several millions: - It is obvious",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/erhverv/legofamilien-udvider-godset-koeber-for-flere-millioner?rss",
+        "published_date": "2026-04-15 13:00:00",
         "category": "Local Events"
     },
     {
-        "title": "J. D.Vance: We are in the process of negotiating with Iran",
+        "title": "DD will send the controversial chocolate tax to a vote in the Danish Parliament",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/jd-vance-vi-er-i-gang-med-at-forhandle-med-iran?referrer=RSS",
-        "published_date": "2026-04-14 23:23:45",
+        "url": "https://www.berlingske.dk/politik/dd-vil-sende-omstridt-chokoladeafgift-til-afstemning-i-folketinget?referrer=RSS",
+        "published_date": "2026-04-15 11:44:44",
         "category": "Local Events"
     },
     {
-        "title": "Danish match winner against Sweden: Football at its best",
+        "title": "Orb\u00e1n's overlord will make major changes to Hungary's media landscape",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-matchvinder-mod-sverige-fodbold-naar-det-er-bedst?referrer=RSS",
-        "published_date": "2026-04-14 22:46:48",
+        "url": "https://www.berlingske.dk/internationalt/orbans-overmand-vil-lave-store-aendringer-i-ungarns-medielandskab?referrer=RSS",
+        "published_date": "2026-04-15 11:30:45",
         "category": "Local Events"
     },
     {
-        "title": "Frenchman wins genuine Picasso painting for DKK 750",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/franskmand-vinder-aegte-picasso-maleri-for-750-kroner?referrer=RSS",
-        "published_date": "2026-04-14 22:03:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train problems in Zealand extend to Wednesday",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/togproblemer-paa-sjaelland-straekker-sig-til-onsdag?referrer=RSS",
-        "published_date": "2026-04-14 21:38:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hvidovre secures the Badminton Championship with a great comeback",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/hvidovre-sikrer-badminton-dm-med-flot-comeback?referrer=RSS",
-        "published_date": "2026-04-14 21:27:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barcelona's Champions League comeback fails against Atl\u00e9tico",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/barcelonas-champions-league-comeback-udebliver-mod-atletico?referrer=RSS",
-        "published_date": "2026-04-14 21:10:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "PSG runs the CL semi-final at home with another victory over Liverpool",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/psg-koerer-cl-semifinalen-i-hus-med-ny-sejr-over-liverpool?referrer=RSS",
-        "published_date": "2026-04-14 21:03:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump shocked by Meloni: 'I thought she was brave'",
+        "title": "The Diabetes Association warns: Our name is misused in advertising",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-chokeret-over-meloni-jeg-troede-hun-var-modig",
-        "published_date": "2026-04-14 20:28:00",
+        "url": "https://www.dr.dk/nyheder/seneste/diabetesforeningen-advarer-vores-navn-misbruges-i-reklamer",
+        "published_date": "2026-04-15 11:19:00",
         "category": "Local Events"
     },
     {
-        "title": "Travel chaos: Almost all trains in eastern Denmark cancelled",
+        "title": "Alleged ringleader in Danish fraud cell trained in London",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/formodet-hovedmand-i-dansk-svindelcelle-traenet-i-london?referrer=RSS",
+        "published_date": "2026-04-15 11:17:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Accidents blocked the motorway extension at Hiller\u00f8d for the second day in a row",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/uheld-anden-dag-i-traek-spaerrede-motorvejsforlaengelsen-ved-hilleroed",
+        "published_date": "2026-04-15 11:16:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fewer committees must reduce work pressure in the Folketing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/faerre-udvalg-skal-mindske-arbejdspres-i-folketinget?referrer=RSS",
+        "published_date": "2026-04-15 11:13:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norwegian TV celebrity gets community service for skins from illegal bear hunting",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/norsk-tv-kendis-faar-samfundstjeneste-for-skind-fra-ulovlig-bjoernejagt?referrer=RSS",
+        "published_date": "2026-04-15 10:48:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Moderate leader: 'No new Danish government for at least a month'",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260414/travel-chaos-almost-all-trains-in-eastern-denmark-cancelled",
-        "published_date": "2026-04-14 20:11:41",
+        "url": "https://www.thelocal.dk/20260415/moderate-leader-no-new-danish-government-for-at-least-a-month",
+        "published_date": "2026-04-15 10:45:15",
         "category": "Local Events"
     },
     {
-        "title": "Spain will give 500,000 undocumented migrants one-year residence permits",
+        "title": "Delebil Selskab offers DSB your help in line with train buses",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/delebilselskab-tilbyder-dsb-sin-hjaelp-paa-linje-med-togbusser?referrer=RSS",
+        "published_date": "2026-04-15 10:38:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Washington, Trump's mental state has come under scrutiny - but recently the CNN host took the president to his defense",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/i-washington-er-trumps-mentale-tilstand-kommet-under-lup--men-for-nylig-tog-cnn-vaert-praesidenten-i-forsvar?referrer=RSS",
+        "published_date": "2026-04-15 10:38:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spain's Senate: Major blackout due to lack of action",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/spanien-vil-give-500-000-papirloese-migranter-etaarig-opholdstilladelse",
-        "published_date": "2026-04-14 19:16:00",
+        "url": "https://www.dr.dk/nyheder/seneste/spaniens-senat-stort-blackout-skyldtes-manglende-handling",
+        "published_date": "2026-04-15 10:32:00",
         "category": "Local Events"
     },
     {
-        "title": "A fire has broken out at a gunpowder factory in the Russian city of Kazan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/en-brand-er-brudt-ud-paa-en-krudtfabrik-i-den-russiske-kazan",
-        "published_date": "2026-04-14 18:11:00",
+        "title": "28-year-old found guilty of attempted murder: Now the prosecutor and defense have laid the cards on the table",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/28-aarig-kendt-skyldig-i-drabsforsoeg-efter-blodigt-angreb-nu-venter-dommen?rss",
+        "published_date": "2026-04-15 10:13:00",
         "category": "Local Events"
     },
     {
-        "title": "The temporary border control with Germany is extended again",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/den-midlertidige-graensekontrol-mod-tyskland-forlaenges-igen",
-        "published_date": "2026-04-14 16:26:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen Municipality is successful in the case regarding the purchase of 228 apartments",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/koebenhavns-kommune-faar-medhold-i-sag-om-koeb-af-228-lejligheder",
-        "published_date": "2026-04-14 16:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish Sailing Union votes no to Russian comeback",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-sejlunion-stemmer-nej-til-russisk-comeback",
-        "published_date": "2026-04-14 15:37:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Major Copenhagen street to be pedestrianised until December",
+        "title": "How can you get money back in Denmark if your train is delayed?",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260414/major-copenhagen-street-to-be-pedestrianised-until-december",
-        "published_date": "2026-04-14 15:06:28",
+        "url": "https://www.thelocal.dk/20260415/how-can-you-get-money-back-in-denmark-if-your-train-is-delayed",
+        "published_date": "2026-04-15 09:42:10",
         "category": "Local Events"
     },
     {
-        "title": "Virtually all trains on Zealand have been cancelled",
+        "title": "Garbage trucks stand still in Randers in protest",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-tog-oest-odense-holder-stille",
-        "published_date": "2026-04-14 14:45:00",
+        "url": "https://www.dr.dk/nyheder/seneste/skraldebiler-holder-stille-i-randers-i-protest",
+        "published_date": "2026-04-15 09:36:00",
         "category": "Local Events"
     },
     {
-        "title": "First possible case of mpox variant registered in Denmark",
+        "title": "Attack by pro-Russian hacker group in Sweden failed",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/foerste-mulige-tilfaelde-af-mpoxvariant-registreret-i-danmark",
-        "published_date": "2026-04-14 14:40:00",
+        "url": "https://www.dr.dk/nyheder/seneste/angreb-fra-prorussisk-hackergruppe-i-sverige-mislykkedes",
+        "published_date": "2026-04-15 08:55:00",
         "category": "Local Events"
     },
     {
-        "title": "According to a study, Snapchat allows words for drugs in profile names",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/snapchat-tillader-ifoelge-undersoegelse-ord-narko-i-profilnavn",
-        "published_date": "2026-04-14 14:31:00",
+        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260415/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-49",
+        "published_date": "2026-04-15 07:42:29",
         "category": "Local Events"
     },
     {
-        "title": "The Presidium of the Folketing has been elected: S\u00f8ren Gade is chairman until October",
+        "title": "Million animals and delayed Aros extension finally open for ticket purchases",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/folketingets-praesidium-er-valgt-soeren-gade-er-formand-til-oktober",
-        "published_date": "2026-04-14 14:16:00",
+        "url": "https://www.dr.dk/nyheder/seneste/milliondyr-og-forsinket-aros-tilbygning-aabner-endelig-billetkoeb",
+        "published_date": "2026-04-15 07:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor of Br\u00f8ndby: Newly trained professionals should be celebrated",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/borgmester-i-broendby-nyuddannede-faglaerte-boer-fejres",
+        "published_date": "2026-04-15 07:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Viktor Axelsen is ending his career with immediate effect: - It is hard and of course sad",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sport/viktor-axelsen-stopper-karrieren-oejeblikkelig-virkning?rss",
+        "published_date": "2026-04-15 07:04:16",
         "category": "Local Events"
     }
 ]
