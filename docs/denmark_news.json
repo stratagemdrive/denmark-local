@@ -1,5 +1,12 @@
 [
     {
+        "title": "UK signs deal to rejoin EU's Erasmus student exchange scheme",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260416/uk-signs-deal-to-rejoin-eus-erasmus-student-exchange-scheme",
+        "published_date": "2026-04-16 09:52:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Donors give almost ten billion kroner to Sudan after three years of war",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/donorer-giver-naesten-ti-milliarder-kroner-til-sudan-efter-tre-aars-krig?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Ulrik Bie: This is the playbook for the downfall of the United States as an economic superpower",
+        "title": "Russia: Deadly attack targeted Ukraine's missile factories",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/ulrik-bie-dette-er-drejebogen-til-usas-undergang-som-oekonomisk-stormagt?referrer=RSS",
-        "published_date": "2026-04-12 10:21:28",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/rusland-doedeligt-angreb-var-rettet-mod-ukraines-missilfabrikker?referrer=RSS",
+        "published_date": "2026-04-16 11:08:46",
+        "category": "Military"
     },
     {
         "title": "Sources: Ceasefire between Israel and Hezbollah to be presented soon",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Danish shares close in green on ceasefire agreement",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danske-aktier-lukker-i-groent-oven-paa-vaabenhvileaftale",
-        "published_date": "2026-04-08 15:18:00",
-        "category": "Military"
-    },
-    {
         "title": "Norwegian oil exports in March set a record",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/norsk-olieeksport-i-marts-satte-rekord",
@@ -329,6 +329,13 @@
         "category": "Energy"
     },
     {
+        "title": "Rarely black-sighted by the big investors.Therefore, it may be the obvious purchase option",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/aktier/sjaeldent-sortsyn-hos-de-store-investorer-derfor-kan-det-vaere-den-oplagte-koebsmulighed?referrer=RSS",
+        "published_date": "2026-04-16 11:02:36",
+        "category": "Economy"
+    },
+    {
         "title": "Fine reduces Saxo Bank's profits",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/boede-traekker-ned-i-saxo-banks-overskud?referrer=RSS",
@@ -357,143 +364,143 @@
         "category": "Economy"
     },
     {
-        "title": "Convicted coup Brazilian intelligence chief released by ICE in US",
+        "title": "A lack of grass challenges the women's national team's home field options",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kupdoemt-brasiliansk-efterretningschef-loesladt-af-ice-i-usa?referrer=RSS",
-        "published_date": "2026-04-15 23:31:47",
+        "url": "https://www.berlingske.dk/sport/manglende-graes-udfordrer-kvindelandsholdets-hjemmebanemuligheder?referrer=RSS",
+        "published_date": "2026-04-16 11:40:44",
         "category": "Local Events"
     },
     {
-        "title": "Arbeloa accuses the referee of ruining CL match with red card",
+        "title": "Turkey has deported a suspect in a case of murder in a parking garage",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/arbeloa-beskylder-dommeren-for-at-oedelaegge-cl-kamp-med-roedt-kort?referrer=RSS",
-        "published_date": "2026-04-15 23:11:50",
+        "url": "https://www.berlingske.dk/indland/tyrkiet-har-deporteret-mistaenkt-i-sag-om-drab-i-p-kaelder?referrer=RSS",
+        "published_date": "2026-04-16 11:33:46",
         "category": "Local Events"
     },
     {
-        "title": "I would not be the same today if my childhood had been replaced by an iPad",
+        "title": "Aalborg Handball extends coaching duo until 2029",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/jeg-havde-ikke-vaeret-den-samme-i-dag-hvis-min-barndom-var-blevet-erstattet-af-en-ipad?referrer=RSS",
-        "published_date": "2026-04-15 21:58:12",
+        "url": "https://www.berlingske.dk/sport/aalborg-haandbold-forlaenger-traenerduo-til-2029?referrer=RSS",
+        "published_date": "2026-04-16 11:27:47",
         "category": "Local Events"
     },
     {
-        "title": "Bayern Munich fends off Real Madrid's comeback attempt",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/bayern-muenchen-afvaerger-real-madrids-forsoeg-paa-comeback?referrer=RSS",
-        "published_date": "2026-04-15 21:20:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Katy Perry is being investigated for possible assault on an Australian actor",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/katy-perry-efterforskes-for-muligt-overgreb-paa-australsk-skuespiller?referrer=RSS",
-        "published_date": "2026-04-15 20:55:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Team Esbjerg opens the playoffs with a convincing victory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/team-esbjerg-aabner-slutspillet-med-overbevisende-sejr?referrer=RSS",
-        "published_date": "2026-04-15 20:27:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Experts did not know the practice of politicians' residence requirements",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/eksperter-kendte-ikke-praksis-om-politikers-bopaelskrav?referrer=RSS",
-        "published_date": "2026-04-15 20:01:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norwegian ministry warns Norwegians after French snuff ban",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/norsk-ministerium-advarer-nordmaend-efter-fransk-snusforbud?referrer=RSS",
-        "published_date": "2026-04-15 19:57:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "16 died after heavy rain in the Caribbean",
+        "title": "There are now 600,000 electric cars on Danish roads",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/16-doede-efter-kraftig-regn-i-caribien",
-        "published_date": "2026-04-15 19:01:00",
+        "url": "https://www.dr.dk/nyheder/seneste/nu-koerer-der-600-000-elbiler-paa-de-danske-veje",
+        "published_date": "2026-04-16 11:25:00",
         "category": "Local Events"
     },
     {
-        "title": "He played on in pain, now it's over: - It's been shit",
+        "title": "The national coach is keeping his fingers crossed for the talisman Pernille Harder",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/landstraener-krydser-fingre-for-talismanen-pernille-harder?referrer=RSS",
+        "published_date": "2026-04-16 11:24:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "DSB will follow up on the handling of Tuesday's train chaos",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dsb-vil-foelge-op-paa-haandteringen-af-tirsdagens-togkaos?referrer=RSS",
+        "published_date": "2026-04-16 11:24:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "After the K-report, Olsen Dyhr only sees the possibility of a red-purple government",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/efter-k-melding-ser-olsen-dyhr-kun-mulighed-for-roed-lilla-regering?referrer=RSS",
+        "published_date": "2026-04-16 11:20:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first part of the clean-up of the Cheminova grounds will start this autumn",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/foerste-del-af-oprensning-af-cheminova-grund-gaar-i-gang-til-efteraaret?referrer=RSS",
+        "published_date": "2026-04-16 11:20:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"Intense\" flu season has led to significant numbers of hospitalizations and deaths",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/intens-influenzasaeson-har-foert-til-betydeligt-antal-indlaeggelser-og-doedsfald?referrer=RSS",
+        "published_date": "2026-04-16 11:18:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Media: The son of the woman stabbed to death was in the same criminal group as the alleged perpetrator",
         "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/han-spillede-videre-i-smerte-nu-er-det-slut-det-har-vaeret-noget-lort?rss",
-        "published_date": "2026-04-15 19:00:00",
+        "url": "https://fyens.dk/112/medie-knivdraebt-kvindes-soen-var-med-i-samme-kriminelle-gruppe-som-den-formodede-gerningsmand?rss",
+        "published_date": "2026-04-16 10:40:34",
         "category": "Local Events"
     },
     {
-        "title": "Person sentenced to a year in prison after trying to smuggle live ants out of Kenya",
+        "title": "The three tasty treats that make spring in Denmark a forager's dream",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260416/the-three-tasty-treats-that-make-spring-in-denmark-a-foragers-dream",
+        "published_date": "2026-04-16 10:39:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Q8 in Denmark to be sold",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/person-idoemt-et-aars-faengsel-efter-forsoeg-paa-smugle-levende-myrer-ud-af-kenya",
-        "published_date": "2026-04-15 18:39:00",
+        "url": "https://www.dr.dk/nyheder/seneste/q8-i-danmark-skal-saelges",
+        "published_date": "2026-04-16 10:20:00",
         "category": "Local Events"
     },
     {
-        "title": "Parents hid audio recorder on their son after suspicion of violence:\u00a0Now the day care provider has been reported to the police",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/varde/nu-er-dagplejer-politianmeldt-foraeldre-skjulte-lydoptager-paa-deres-soen-efter-mistanke-om-vold?rss",
-        "published_date": "2026-04-15 18:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "35-year-old ultra runner dead during record attempt in Scotland",
+        "title": "14 LTF members imprisoned in just over a month after gang conflict on Funen",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/35-aarig-ultraloeber-doed-under-rekordforsoeg-i-skotland",
-        "published_date": "2026-04-15 17:12:00",
+        "url": "https://www.dr.dk/nyheder/seneste/14-ltf-medlemmer-faengslet-paa-lidt-over-en-maaned-efter-bandekonflikt-paa-fyn",
+        "published_date": "2026-04-16 10:09:00",
         "category": "Local Events"
     },
     {
-        "title": "37-year-old taken: Stored over 300 kilos of hashish in truck trailer",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/indland/37-aarig-taget-gemte-over-300-kilo-hash-i-lastbiltrailer?rss",
-        "published_date": "2026-04-15 16:51:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lithuania jailed for four weeks in case of hashish smuggling",
+        "title": "The number of communications employees in the state has increased",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/litauer-faengslet-i-fire-uger-i-sag-om-hashsmugling",
-        "published_date": "2026-04-15 16:14:00",
+        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-kommunikationsansatte-i-staten-er-steget",
+        "published_date": "2026-04-16 09:40:00",
         "category": "Local Events"
     },
     {
-        "title": "Taastruppigen is not Denmark's oldest skeleton",
+        "title": "Cup noodles from Nordlie Food are recalled",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/taastruppigen-er-ikke-danmarks-aeldste-skelet",
-        "published_date": "2026-04-15 16:11:00",
+        "url": "https://www.dr.dk/nyheder/seneste/kopnudler-kaldes-tilbage",
+        "published_date": "2026-04-16 09:27:00",
         "category": "Local Events"
     },
     {
-        "title": "The Ulykkes section at Hiller\u00f8d will be rescheduled for the summer",
+        "title": "LISTED: The new flights from Denmark this spring and summer",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260416/listed-the-new-flights-from-denmark-this-spring-and-summer-2",
+        "published_date": "2026-04-16 09:00:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "New study may help to explain diseases such as endometriosis",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ulykkes-straekning-ved-hilleroed-omlaegges-til-sommer",
-        "published_date": "2026-04-15 15:04:00",
+        "url": "https://www.dr.dk/nyheder/seneste/nyt-studie-kan-vaere-med-til-forklare-sygdomme-som-endometriose",
+        "published_date": "2026-04-16 08:53:00",
         "category": "Local Events"
     },
     {
-        "title": "Investigating attack on synagogue in London as hate crime",
+        "title": "Today in Denmark: A roundup of the latest news on Thursday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260416/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-37",
+        "published_date": "2026-04-16 08:34:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sophie L\u00f8hde will be the new political rapporteur in Venstre",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efterforsker-angreb-paa-synagoge-i-london-som-hadforbrydelse",
-        "published_date": "2026-04-15 14:24:00",
+        "url": "https://www.dr.dk/nyheder/seneste/sophie-loehde-bliver-ny-politisk-ordfoerer-i-venstre",
+        "published_date": "2026-04-16 08:24:00",
         "category": "Local Events"
     },
     {
-        "title": "Demands a fine for Norwegian Se og H\u00f8r in the Marius case",
+        "title": "The suspect in the murder case from the parking garage is produced in a constitutional hearing",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kraever-boede-til-norsk-se-og-hoer-i-marius-sagen",
-        "published_date": "2026-04-15 13:51:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Lego family expands historical property - buys for several millions: - It is obvious",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/legofamilien-udvider-godset-koeber-for-flere-millioner?rss",
-        "published_date": "2026-04-15 13:00:00",
+        "url": "https://www.dr.dk/nyheder/seneste/mistaenkt-i-drabssag-fra-parkeringskaelder-fremstilles-i-grundlovsforhoer",
+        "published_date": "2026-04-16 07:30:00",
         "category": "Local Events"
     }
 ]
