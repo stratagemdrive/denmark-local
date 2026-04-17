@@ -1,5 +1,12 @@
 [
     {
+        "title": "Trump with more sensational announcements about Iran and NATO: \"Right now it sounds too good to be true\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-med-flere-opsigtsvaekkende-udmeldinger-om-iran-og-natolige-nu-lyder-det-for-godt-til-at-vaere-sandt?referrer=RSS",
+        "published_date": "2026-04-17 20:09:58",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Starmer declares himself furious after Mandelson's failed security checks",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/starmer-erklaerer-sig-rasende-efter-mandelsons-dumpede-sikkerhedstjek?referrer=RSS",
@@ -130,13 +137,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260413/historic-moment-european-leaders-react-to-orbans-defeat-in-hungary",
         "published_date": "2026-04-13 10:48:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Russia's special envoy: EU collapse closer after Hungarian election",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ruslands-saerlige-udsending-eu-s-kollaps-er-taettere-paa-efter-ungarsk-valg",
-        "published_date": "2026-04-13 07:40:00",
         "category": "Diplomacy"
     },
     {
@@ -280,6 +280,13 @@
         "category": "Military"
     },
     {
+        "title": "Oil prices plunge after news of the opening of the Strait of Hormuz",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/oliepriserne-dykker-efter-melding-om-aabning-af-hormuzstraedet",
+        "published_date": "2026-04-17 13:42:00",
+        "category": "Energy"
+    },
+    {
         "title": "Norwegian oil exports in March set a record",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/norsk-olieeksport-i-marts-satte-rekord",
@@ -364,6 +371,132 @@
         "category": "Economy"
     },
     {
+        "title": "Iran threatens to close the Strait of Hormuz if the US blockade continues",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-truer-med-lukning-af-hormuzstraedet-ved-fortsat-amerikansk-blokade?referrer=RSS",
+        "published_date": "2026-04-17 23:24:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man in his 30s taken to hospital after stabbing in the arm",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-i-30erne-koert-til-hospitalet-efter-knivstik-i-armen?referrer=RSS",
+        "published_date": "2026-04-17 23:00:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several people are in hospital after an accident with a police car in Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/flere-er-paa-hospitalet-efter-ulykke-med-politibil-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-04-17 22:42:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Coventry are back in the Premier League after 25 years",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/coventry-er-tilbage-i-premier-league-efter-25-aar?referrer=RSS",
+        "published_date": "2026-04-17 21:31:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jannik Vestergaard quits the national football team",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/jannik-vestergaard-stopper-paa-fodboldlandsholdet?referrer=RSS",
+        "published_date": "2026-04-17 21:00:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Officers with submachine guns and helmets: Bomb threat directed at Roseng\u00e5rdcentret",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/betjente-med-maskingevaer-og-hjelme-politiet-rykker-ud-til-rosengaardcentret?rss",
+        "published_date": "2026-04-17 20:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Herning's ice hockey men win the first DM final with his goals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/hernings-ishockeymaend-vinder-foerste-dm-finale-med-sene-maal?referrer=RSS",
+        "published_date": "2026-04-17 20:14:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shipping companies are reluctant to sail despite the opening of the Strait of Hormuz",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rederier-er-tilbageholdende-med-at-sejle-trods-aabning-af-hormuzstraedet?referrer=RSS",
+        "published_date": "2026-04-17 20:05:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police call in Odense due to fake bomb threat",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiopbud-i-odense-skyldtes-falsk-bombetrussel?referrer=RSS",
+        "published_date": "2026-04-17 19:51:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police lift road closure: Believes to have found all body parts",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politi-ophaever-afspaerring-i-vejen-mener-at-have-fundet-alle-ligdele?referrer=RSS",
+        "published_date": "2026-04-17 19:22:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Birthe Kj\u00e6r republishes the English version of the hit",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/birthe-kjaer-genudgiver-engelsk-version-af-hit",
+        "published_date": "2026-04-17 18:31:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sharing pictures of the royal twins before their confirmation",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/deler-billeder-af-de-kongelige-tvillinger-foer-deres-konfirmation",
+        "published_date": "2026-04-17 17:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another Kanye West concert is cancelled",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/endnu-en-kanye-west-koncert-aflyses",
+        "published_date": "2026-04-17 16:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "No more smoke from electric car fires",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brand-i-elbus-blusset-op-igen-politi-opfordrer-til-soege-indendoere",
+        "published_date": "2026-04-17 15:46:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 38,000 women and girls killed in Gaza",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-end-38-000-kvinder-og-piger-draebt-i-gaza",
+        "published_date": "2026-04-17 15:14:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "DSB does not have an overview of the number of compensation applications after breakdowns",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dsb-har-ikke-overblik-over-antallet-af-kompensationsansoegninger-efter-nedbrud",
+        "published_date": "2026-04-17 14:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "27-year-old charged with possessing 3,000 illegal puff bars",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/27-aarig-sigtet-besidde-3-000-ulovlige-puffbars",
+        "published_date": "2026-04-17 14:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire at Michelin restaurant probably originated in technical installations",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brand-paa-michelin-restaurant-opstod-formentlig-i-tekniske-installationer",
+        "published_date": "2026-04-17 13:23:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Danish travel companies: Fuel shortages 'no threat' to summer holidays",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260417/danish-travel-companies-fuel-shortages-no-threat-to-summer-holidays",
@@ -371,136 +504,10 @@
         "category": "Local Events"
     },
     {
-        "title": "School head comes forward - has received a bomb threat: - Crazy to get such a message",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/efterskole-fik-trussel-om-nedgravede-spraengstoffer-vildt-at-faa-saadan-en-besked?rss",
-        "published_date": "2026-04-17 12:04:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Politicians must stop being useful idiots for Islamists \u2013\u00a0young radical is the latest example",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/politikere-skal-holde-op-med-at-vaere-nyttige-idioter-for-islamister-ung-radikal-er-seneste-eksempel?referrer=RSS",
-        "published_date": "2026-04-17 11:29:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pok\u00e9mon cards become worth their weight in gold - now shops are hit by robberies",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/pokemon-kort-bliver-guld-vaerd--nu-rammes-butikker-af-roeverier?referrer=RSS",
-        "published_date": "2026-04-17 11:20:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Neighbors are bothered by the antenna mast and receive DKK 300,000 in compensation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/naboer-plages-af-antennemast-og-faar-300000-kroner-i-erstatning?referrer=RSS",
-        "published_date": "2026-04-17 11:11:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Verdict in Sara Omar case: Four years of legal drama is over",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/litteratur/dom-i-sara-omar-sag-fire-aars-retsdrama-er-slut?referrer=RSS",
-        "published_date": "2026-04-17 11:04:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mette Frederiksen participates in a conference on opening the Strait of Hormuz",
+        "title": "Woman forgot bird spiders in German regional train",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-deltager-i-konference-om-faa-aabnet-hormuzstraedet",
-        "published_date": "2026-04-17 10:53:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Furious Starmer sacks top official after new information about Mandelson hiring",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rasende-starmer-fyrer-topembedsmand-efter-nye-oplysninger-om-ansaettelsen-af-mandelson?referrer=RSS",
-        "published_date": "2026-04-17 10:52:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "One in five apartments in Denmark sold above asking price in March",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260417/one-in-five-apartments-in-denmark-sold-above-asking-price-in-march",
-        "published_date": "2026-04-17 10:49:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Despite fewer savings, offers for mentally vulnerable young people must close",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trods-faerre-besparelser-maa-tilbud-til-psykisk-saarbare-unge-lukke",
-        "published_date": "2026-04-17 10:48:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mette Frederiksen participates in the summit on the plan for an open Strait of Hormuz",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/mette-frederiksen-deltager-i-topmoede-om-plan-for-aabent-hormuzstraede?referrer=RSS",
-        "published_date": "2026-04-17 10:42:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man sentenced for secretly filming naked or scantily clad women",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-doemt-filme-noegne-eller-letpaaklaedte-kvinder-i-smug",
-        "published_date": "2026-04-17 10:39:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "He is one of Denmark's greatest artists.Now the door to his hurlumhejhus in Hellerup opens",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/metropol/han-er-en-af-danmarks-stoerste-kunstnere-nu-aabner-doeren-til-hans-hurlumhejhus-i-hellerup?referrer=RSS",
-        "published_date": "2026-04-17 10:36:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "SSI confirms: First case of new mpox variant in Denmark",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ssi-bekraefter-foerste-tilfaelde-af-ny-mpox-variant-i-danmark",
-        "published_date": "2026-04-17 10:24:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cool Michelle Pfeiffer does what everyone dreams of in the new hit series about the evil city",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/koelige-michelle-pfeiffer-goer-det-alle-droemmer-om-i-ny-hitserie-om-den-onde-by?referrer=RSS",
-        "published_date": "2026-04-17 10:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Friday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260417/today-in-denmark-a-roundup-of-the-latest-news-on-friday-41",
-        "published_date": "2026-04-17 08:38:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several people arrested in case of extensive shoplifting",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-personer-anholdt-i-sag-om-omfattende-butikstyveri",
-        "published_date": "2026-04-17 07:42:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bosch manufacturer reported to the police for greenwashing",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bosch-producent-politianmeldt-greenwashing",
-        "published_date": "2026-04-17 07:24:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Myanmar reduces Aung San Suu Kyi's prison sentence",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/myanmar-reducerer-aung-san-suu-kyis-faengselsstraf",
-        "published_date": "2026-04-17 06:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bird flu found in wild mammals in Denmark",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fugleinfluenza-fundet-hos-vilde-pattedyr-i-danmark",
-        "published_date": "2026-04-17 06:21:00",
+        "url": "https://www.dr.dk/nyheder/seneste/kvinde-glemte-fugleedderkopper-i-regionaltoget",
+        "published_date": "2026-04-17 12:42:00",
         "category": "Local Events"
     }
 ]
