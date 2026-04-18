@@ -1,9 +1,30 @@
 [
     {
+        "title": "Reuters: Ships report shelling in the Strait of Hormuz",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/reuters-skibe-melder-om-beskydning-i-hormuzstraedet?referrer=RSS",
+        "published_date": "2026-04-18 10:58:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Odense's difficult Final 4 obstacle rests on Danish foundations",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/odenses-svaere-final-4-forhindring-staar-paa-dansk-fundament?referrer=RSS",
+        "published_date": "2026-04-18 09:22:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Trump with more sensational announcements about Iran and NATO: \"Right now it sounds too good to be true\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-med-flere-opsigtsvaekkende-udmeldinger-om-iran-og-natolige-nu-lyder-det-for-godt-til-at-vaere-sandt?referrer=RSS",
         "published_date": "2026-04-17 20:09:58",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "How soon could jet fuel shortages ground flights in Europe?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260417/how-soon-could-jet-fuel-shortages-ground-flights-in-europe",
+        "published_date": "2026-04-17 13:50:53",
         "category": "Diplomacy"
     },
     {
@@ -119,25 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "UN: The world turns a blind eye to the atrocities in Sudan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fn-verden-vender-det-blinde-oeje-til-grusomhederne-i-sudan",
-        "published_date": "2026-04-13 21:43:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "UN: The world turns a blind eye to the atrocities in Sudan",
+        "title": "Man arrested in major police operation jailed for weapons and drugs",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fn-verden-vender-det-blinde-oeje-til-grusomhederne-i-sudan?referrer=RSS",
-        "published_date": "2026-04-13 21:39:46",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/indland/mand-anholdt-i-stor-politiaktion-faengsles-for-vaaben-og-narko?referrer=RSS",
+        "published_date": "2026-04-18 10:44:44",
+        "category": "Military"
     },
     {
-        "title": "'Historic moment': European leaders react to Orban's defeat in Hungary",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260413/historic-moment-european-leaders-react-to-orbans-defeat-in-hungary",
-        "published_date": "2026-04-13 10:48:46",
-        "category": "Diplomacy"
+        "title": "Media: Iran closes Strait of Hormuz again due to US blockade",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/medier-iran-lukker-hormuzstraedet-igen-paa-grund-af-usas-blokade?referrer=RSS",
+        "published_date": "2026-04-18 09:18:44",
+        "category": "Military"
     },
     {
         "title": "Sweden's king visits Ukraine and meets with Zelenskyj",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Iran's Revolutionary Guard warns military ships against sailing in Hormuz",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/irans-revolutionsgarde-advarer-militaere-skibe-mod-at-sejle-i-hormuz?referrer=RSS",
-        "published_date": "2026-04-11 22:59:44",
-        "category": "Military"
-    },
-    {
-        "title": "Ukraine and Russia exchange prisoners of war",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-og-rusland-udveksler-krigsfanger-3",
-        "published_date": "2026-04-11 11:39:00",
-        "category": "Military"
-    },
-    {
         "title": "Oil prices plunge after news of the opening of the Strait of Hormuz",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/oliepriserne-dykker-efter-melding-om-aabning-af-hormuzstraedet",
@@ -357,157 +357,143 @@
         "category": "Economy"
     },
     {
-        "title": "Today in Denmark: A roundup of the latest news on Friday",
+        "title": "The royal pair of twins confirmed in Fredensborg",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/det-kongelige-tvillingepar-konfirmeret-i-fredensborg?referrer=RSS",
+        "published_date": "2026-04-18 11:23:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Madonna surprises with performance at Coachella",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/madonna-overrasker-med-optraeden-paa-coachella",
+        "published_date": "2026-04-18 11:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Princess Josephine starts a new school after the summer holidays",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/prinsesse-josephine-begynder-paa-ny-skole-efter-sommerferien?referrer=RSS",
+        "published_date": "2026-04-18 11:16:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Honored French actress known from Spielberg films has died",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/haedret-fransk-skuespillerinde-kendt-fra-spielberg-film-er-doed?referrer=RSS",
+        "published_date": "2026-04-18 10:51:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "French film star Nathalie Baye has died",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/den-franske-filmstjerne-nathalie-baye-er-doed",
+        "published_date": "2026-04-18 10:43:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tobias Hamann withdraws from social media indefinitely",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/tobias-hamann-traekker-sig-fra-sociale-medier-paa-ubestemt-tid?referrer=RSS",
+        "published_date": "2026-04-18 10:37:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Influencer Tobias Hamann retires from social media",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/influencer-tobias-hamann-traekker-sig-fra-sociale-medier",
+        "published_date": "2026-04-18 10:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three sentenced for insurance fraud with bear costume",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-doemt-forsikringssvindel-med-bjoernekostume",
+        "published_date": "2026-04-18 10:26:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inside Denmark: Why I love Denmark in the spring",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260410/today-in-denmark-a-roundup-of-the-latest-news-on-friday-40",
-        "published_date": "2026-04-10 08:30:07",
-        "category": "Economy"
-    },
-    {
-        "title": "The broadband comet delivers new profits, while giants lose three-digit millions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/bredbaandskomet-leverer-nyt-overskud-mens-giganter-taber-trecifrede-millionbeloeb?referrer=RSS",
-        "published_date": "2026-04-10 06:01:46",
-        "category": "Economy"
-    },
-    {
-        "title": "Iran threatens to close the Strait of Hormuz if the US blockade continues",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iran-truer-med-lukning-af-hormuzstraedet-ved-fortsat-amerikansk-blokade?referrer=RSS",
-        "published_date": "2026-04-17 23:24:46",
+        "url": "https://www.thelocal.dk/20260418/inside-denmark-why-i-love-denmark-in-the-spring",
+        "published_date": "2026-04-18 10:07:29",
         "category": "Local Events"
     },
     {
-        "title": "Man in his 30s taken to hospital after stabbing in the arm",
+        "title": "Danish swimmer breaks second limit and breaks record",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-i-30erne-koert-til-hospitalet-efter-knivstik-i-armen?referrer=RSS",
-        "published_date": "2026-04-17 23:00:49",
+        "url": "https://www.berlingske.dk/sport/dansk-svoemmer-bryder-sekundgraense-og-slaar-rekord?referrer=RSS",
+        "published_date": "2026-04-18 10:05:44",
         "category": "Local Events"
     },
     {
-        "title": "Several people are in hospital after an accident with a police car in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/flere-er-paa-hospitalet-efter-ulykke-med-politibil-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-04-17 22:42:47",
+        "title": "Divers help find traces of the Stone Age under the sea",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dykkere-hjaelper-med-finde-spor-fra-stenalderen-under-havet",
+        "published_date": "2026-04-18 09:44:00",
         "category": "Local Events"
     },
     {
-        "title": "Coventry are back in the Premier League after 25 years",
+        "title": "Everyone dances around him: Danish politics needs to rid itself of Lars L\u00f8kke",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/coventry-er-tilbage-i-premier-league-efter-25-aar?referrer=RSS",
-        "published_date": "2026-04-17 21:31:46",
+        "url": "https://www.berlingske.dk/kommentatorer/alle-danser-om-ham-dansk-politik-traenger-til-at-befri-sig-fra-lars-loekke?referrer=RSS",
+        "published_date": "2026-04-18 09:28:05",
         "category": "Local Events"
     },
     {
-        "title": "Jannik Vestergaard quits the national football team",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/jannik-vestergaard-stopper-paa-fodboldlandsholdet?referrer=RSS",
-        "published_date": "2026-04-17 21:00:48",
+        "title": "Airlines fear jet-fuel rationing due to Mideast war",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260418/airlines-fear-jet-fuel-rationing-due-to-mideast-war",
+        "published_date": "2026-04-18 09:14:22",
         "category": "Local Events"
     },
     {
-        "title": "Officers with submachine guns and helmets: Bomb threat directed at Roseng\u00e5rdcentret",
+        "title": "Before the woman was killed with a knife: Unpleasant man lurked at her door from the sun center over several days",
         "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/betjente-med-maskingevaer-og-hjelme-politiet-rykker-ud-til-rosengaardcentret?rss",
-        "published_date": "2026-04-17 20:35:00",
+        "url": "https://fyens.dk/112/foer-kvinde-blev-knivdraebt-ubehagelig-mand-lurede-paa-hendes-doer-fra-solcenter-over-flere-dage?rss",
+        "published_date": "2026-04-18 08:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Herning's ice hockey men win the first DM final with his goals",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/hernings-ishockeymaend-vinder-foerste-dm-finale-med-sene-maal?referrer=RSS",
-        "published_date": "2026-04-17 20:14:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shipping companies are reluctant to sail despite the opening of the Strait of Hormuz",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rederier-er-tilbageholdende-med-at-sejle-trods-aabning-af-hormuzstraedet?referrer=RSS",
-        "published_date": "2026-04-17 20:05:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police call in Odense due to fake bomb threat",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiopbud-i-odense-skyldtes-falsk-bombetrussel?referrer=RSS",
-        "published_date": "2026-04-17 19:51:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police lift road closure: Believes to have found all body parts",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politi-ophaever-afspaerring-i-vejen-mener-at-have-fundet-alle-ligdele?referrer=RSS",
-        "published_date": "2026-04-17 19:22:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Birthe Kj\u00e6r republishes the English version of the hit",
+        "title": "Police car with emergency vehicle hit at intersection in Copenhagen",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/birthe-kjaer-genudgiver-engelsk-version-af-hit",
-        "published_date": "2026-04-17 18:31:00",
+        "url": "https://www.dr.dk/nyheder/seneste/politibil-med-udrykning-paakoert-i-kryds-i-koebenhavn",
+        "published_date": "2026-04-18 07:54:00",
         "category": "Local Events"
     },
     {
-        "title": "Sharing pictures of the royal twins before their confirmation",
+        "title": "Palestinian Authority hands over suspect in 1982 Paris attacks",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/deler-billeder-af-de-kongelige-tvillinger-foer-deres-konfirmation",
-        "published_date": "2026-04-17 17:01:00",
+        "url": "https://www.dr.dk/nyheder/seneste/palaestinensisk-selvstyre-udleverer-mistaenkt-angreb-i-paris-i-1982",
+        "published_date": "2026-04-18 07:40:00",
         "category": "Local Events"
     },
     {
-        "title": "Another Kanye West concert is cancelled",
+        "title": "Escaped wolf returns to South Korean zoo after nine days of intense search",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/endnu-en-kanye-west-koncert-aflyses",
-        "published_date": "2026-04-17 16:01:00",
+        "url": "https://www.dr.dk/nyheder/seneste/undsluppen-ulv-vender-tilbage-til-sydkoreansk-zoo-efter-ni-dages-intens-eftersoegning",
+        "published_date": "2026-04-18 07:31:00",
         "category": "Local Events"
     },
     {
-        "title": "No more smoke from electric car fires",
+        "title": "Japan unveils new name for days over 40 degrees",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brand-i-elbus-blusset-op-igen-politi-opfordrer-til-soege-indendoere",
-        "published_date": "2026-04-17 15:46:00",
+        "url": "https://www.dr.dk/nyheder/seneste/japan-afsloerer-nyt-navn-dage-over-40-grader",
+        "published_date": "2026-04-18 06:48:00",
         "category": "Local Events"
     },
     {
-        "title": "More than 38,000 women and girls killed in Gaza",
+        "title": "Donald Trump is allowed to continue construction of the ballroom.So far",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-end-38-000-kvinder-og-piger-draebt-i-gaza",
-        "published_date": "2026-04-17 15:14:00",
+        "url": "https://www.dr.dk/nyheder/seneste/donald-trump-faar-lov-til-fortsaette-opfoerelse-af-balsal-indtil-videre",
+        "published_date": "2026-04-18 06:38:00",
         "category": "Local Events"
     },
     {
-        "title": "DSB does not have an overview of the number of compensation applications after breakdowns",
+        "title": "Jannik Vestergaard is retiring from the national team after 13 years in red and white",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dsb-har-ikke-overblik-over-antallet-af-kompensationsansoegninger-efter-nedbrud",
-        "published_date": "2026-04-17 14:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "27-year-old charged with possessing 3,000 illegal puff bars",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/27-aarig-sigtet-besidde-3-000-ulovlige-puffbars",
-        "published_date": "2026-04-17 14:06:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire at Michelin restaurant probably originated in technical installations",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brand-paa-michelin-restaurant-opstod-formentlig-i-tekniske-installationer",
-        "published_date": "2026-04-17 13:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish travel companies: Fuel shortages 'no threat' to summer holidays",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260417/danish-travel-companies-fuel-shortages-no-threat-to-summer-holidays",
-        "published_date": "2026-04-17 13:22:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman forgot bird spiders in German regional train",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kvinde-glemte-fugleedderkopper-i-regionaltoget",
-        "published_date": "2026-04-17 12:42:00",
+        "url": "https://www.dr.dk/nyheder/seneste/jannik-vestergaard-stopper-paa-landsholdet-efter-13-aar-i-roedt-og-hvidt",
+        "published_date": "2026-04-18 00:51:00",
         "category": "Local Events"
     }
 ]
