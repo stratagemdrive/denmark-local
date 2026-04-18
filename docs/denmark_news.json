@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Macron: French soldier killed in southern Lebanon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/macron-fransk-soldat-draebt-i-det-sydlige-libanon",
+        "published_date": "2026-04-18 12:23:00",
+        "category": "Military"
+    },
+    {
         "title": "Man arrested in major police operation jailed for weapons and drugs",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/mand-anholdt-i-stor-politiaktion-faengsles-for-vaaben-og-narko?referrer=RSS",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Danish defense attach\u00e9 in Kyiv wants instructors into Ukraine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dansk-forsvarsattache-i-kyiv-vil-have-instruktoerer-ind-i-ukraine?referrer=RSS",
-        "published_date": "2026-04-11 23:20:44",
-        "category": "Military"
-    },
-    {
         "title": "Oil prices plunge after news of the opening of the Strait of Hormuz",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/oliepriserne-dykker-efter-melding-om-aabning-af-hormuzstraedet",
@@ -357,143 +357,143 @@
         "category": "Economy"
     },
     {
-        "title": "The royal pair of twins confirmed in Fredensborg",
+        "title": "Life jacket from Titanic sold at auction for 5.8 million",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/det-kongelige-tvillingepar-konfirmeret-i-fredensborg?referrer=RSS",
-        "published_date": "2026-04-18 11:23:44",
+        "url": "https://www.berlingske.dk/internationalt/redningsvest-fra-titanic-saelges-paa-auktion-for-58-millioner?referrer=RSS",
+        "published_date": "2026-04-18 23:14:53",
         "category": "Local Events"
     },
     {
-        "title": "Madonna surprises with performance at Coachella",
+        "title": "Real Sociedad win Spanish Cup final after penalty drama",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/real-sociedad-vinder-spansk-pokalfinale-efter-straffedrama?referrer=RSS",
+        "published_date": "2026-04-18 23:14:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "United kicks toothless Chelsea further down the drain",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/united-sparker-tandloese-chelsea-laengere-ned-i-dyndet?referrer=RSS",
+        "published_date": "2026-04-18 20:59:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "DSB responds to accusations of unstable train operation: The trains are on rails - also on time",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/dsb-svarer-paa-anklage-om-ustabil-togdrift-togene-er-paa-skinner--ogsaa-til-tiden?referrer=RSS",
+        "published_date": "2026-04-18 20:14:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Does God agree with Donald Trump?The president's Jesus pictures are rekindling an age-old feud",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/holder-gud-med-donald-trump-praesidentens-jesus-billeder-genopliver-et-aeldgammelt-slagsmaal?referrer=RSS",
+        "published_date": "2026-04-18 19:44:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran's Revolutionary Guard: Any ship approaching Hormuz is a target",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/revolutionsgarden-i-iran-ethvert-skib-der-naermer-sig-hormuz-er-et-maal?referrer=RSS",
+        "published_date": "2026-04-18 19:43:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "How Canada's Carney used his political shrewdness to win a majority",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hvordan-canadas-carney-brugte-sin-politiske-snilde-til-at-faa-et-flertal?referrer=RSS",
+        "published_date": "2026-04-18 19:41:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maritime bottlenecks reveal the vulnerability of world trade, and one of them is Danish",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/videnskab/soefartens-flaskehalse-aabenbarer-verdenshandlens-saarbarhed-og-en-af-dem-er-dansk?referrer=RSS",
+        "published_date": "2026-04-18 19:00:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Caroline jumped off a bridge to die but survived: She doesn't know if she should feel lucky",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/kolding/caroline-sprang-ud-fra-en-bro-for-at-doe-men-overlevede-hun-ved-ikke-om-hun-skal-foele-sig-heldig?rss",
+        "published_date": "2026-04-18 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mass shooting in Kyiv is being investigated as terrorism",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/madonna-overrasker-med-optraeden-paa-coachella",
-        "published_date": "2026-04-18 11:20:00",
+        "url": "https://www.dr.dk/nyheder/seneste/masseskyderi-i-kyiv-efterforskes-som-terror",
+        "published_date": "2026-04-18 18:49:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crisis-stricken Tottenham throws the victory deep into overtime",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kriseramte-tottenham-smider-sejren-dybt-i-overtiden?referrer=RSS",
+        "published_date": "2026-04-18 18:38:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The economists' crystal ball has been shattered",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentar/oekonomernes-krystalkugle-er-slaaet-i-stykker?referrer=RSS",
+        "published_date": "2026-04-18 18:32:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lea-Sofie thought she was going to die from the chemo: - I live every day as if it were the last",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/faaborg-midtfyn/lea-sofie-troede-at-hun-skulle-doe-af-kemoen-jeg-lever-hver-dag-som-var-den-den-sidste?rss",
+        "published_date": "2026-04-18 18:29:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hospitals in Central Jutland affected by IT breakdowns",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sygehuse-i-midtjylland-ramt-af-it-nedbrud",
+        "published_date": "2026-04-18 16:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police investigated conditions with several patrols in S\u00f8nderborg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-undersoeger-forhold-med-flere-patruljer-i-soenderborg",
+        "published_date": "2026-04-18 15:59:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wolfsburg gets a redemptive victory in historic coaching debut",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/fodbold/wolfsburg-faar-forloesende-sejr-i-historisk-traenerdebut",
+        "published_date": "2026-04-18 15:43:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zelenskyj: Five killed in shooting incident in Kyiv",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/borgmester-i-kyiv-flere-personer-draebt-i-skudepisode",
+        "published_date": "2026-04-18 15:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pope Leo: Tyrant comment was not directed at Trump",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pave-tyran-kommentar-var-ikke-rettet-mod-trump",
+        "published_date": "2026-04-18 14:14:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The royal family shares official portraits of the confirmands",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kongehuset-deler-officielle-portraetter-af-konfirmanderne",
+        "published_date": "2026-04-18 12:47:00",
         "category": "Local Events"
     },
     {
         "title": "Princess Josephine starts a new school after the summer holidays",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/prinsesse-josephine-begynder-paa-ny-skole-efter-sommerferien?referrer=RSS",
-        "published_date": "2026-04-18 11:16:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Honored French actress known from Spielberg films has died",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/haedret-fransk-skuespillerinde-kendt-fra-spielberg-film-er-doed?referrer=RSS",
-        "published_date": "2026-04-18 10:51:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "French film star Nathalie Baye has died",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/den-franske-filmstjerne-nathalie-baye-er-doed",
-        "published_date": "2026-04-18 10:43:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tobias Hamann withdraws from social media indefinitely",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/tobias-hamann-traekker-sig-fra-sociale-medier-paa-ubestemt-tid?referrer=RSS",
-        "published_date": "2026-04-18 10:37:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Influencer Tobias Hamann retires from social media",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/influencer-tobias-hamann-traekker-sig-fra-sociale-medier",
-        "published_date": "2026-04-18 10:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three sentenced for insurance fraud with bear costume",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-doemt-forsikringssvindel-med-bjoernekostume",
-        "published_date": "2026-04-18 10:26:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside Denmark: Why I love Denmark in the spring",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260418/inside-denmark-why-i-love-denmark-in-the-spring",
-        "published_date": "2026-04-18 10:07:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish swimmer breaks second limit and breaks record",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-svoemmer-bryder-sekundgraense-og-slaar-rekord?referrer=RSS",
-        "published_date": "2026-04-18 10:05:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Divers help find traces of the Stone Age under the sea",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dykkere-hjaelper-med-finde-spor-fra-stenalderen-under-havet",
-        "published_date": "2026-04-18 09:44:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Everyone dances around him: Danish politics needs to rid itself of Lars L\u00f8kke",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/alle-danser-om-ham-dansk-politik-traenger-til-at-befri-sig-fra-lars-loekke?referrer=RSS",
-        "published_date": "2026-04-18 09:28:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Airlines fear jet-fuel rationing due to Mideast war",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260418/airlines-fear-jet-fuel-rationing-due-to-mideast-war",
-        "published_date": "2026-04-18 09:14:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Before the woman was killed with a knife: Unpleasant man lurked at her door from the sun center over several days",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/foer-kvinde-blev-knivdraebt-ubehagelig-mand-lurede-paa-hendes-doer-fra-solcenter-over-flere-dage?rss",
-        "published_date": "2026-04-18 08:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police car with emergency vehicle hit at intersection in Copenhagen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politibil-med-udrykning-paakoert-i-kryds-i-koebenhavn",
-        "published_date": "2026-04-18 07:54:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Palestinian Authority hands over suspect in 1982 Paris attacks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/palaestinensisk-selvstyre-udleverer-mistaenkt-angreb-i-paris-i-1982",
-        "published_date": "2026-04-18 07:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Escaped wolf returns to South Korean zoo after nine days of intense search",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/undsluppen-ulv-vender-tilbage-til-sydkoreansk-zoo-efter-ni-dages-intens-eftersoegning",
-        "published_date": "2026-04-18 07:31:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Japan unveils new name for days over 40 degrees",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/japan-afsloerer-nyt-navn-dage-over-40-grader",
-        "published_date": "2026-04-18 06:48:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Donald Trump is allowed to continue construction of the ballroom.So far",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/donald-trump-faar-lov-til-fortsaette-opfoerelse-af-balsal-indtil-videre",
-        "published_date": "2026-04-18 06:38:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jannik Vestergaard is retiring from the national team after 13 years in red and white",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/jannik-vestergaard-stopper-paa-landsholdet-efter-13-aar-i-roedt-og-hvidt",
-        "published_date": "2026-04-18 00:51:00",
+        "url": "https://www.dr.dk/nyheder/seneste/prinsesse-josephine-starter-paa-ny-skole-efter-sommerferien",
+        "published_date": "2026-04-18 11:26:00",
         "category": "Local Events"
     }
 ]
