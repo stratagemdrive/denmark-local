@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pro-Russian EU skeptic stands for election victory in Bulgaria",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/pro-russisk-eu-skeptiker-staar-til-valgsejr-i-bulgarien?referrer=RSS",
+        "published_date": "2026-04-19 21:59:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Can you embroider?The museum is looking for volunteers for the four-metre long Valdemar Sejr embroidery",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/bolig-og-livsstil/kan-du-brodere-museum-soeger-frivillige-til-fire-meter-langt-valdemar-sejr-broderi?rss",
+        "published_date": "2026-04-19 16:12:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Reuters: Ships report shelling in the Strait of Hormuz",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/reuters-skibe-melder-om-beskydning-i-hormuzstraedet?referrer=RSS",
@@ -126,18 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Denmark's Novo Nordisk signs deal with OpenAI to develop new drugs",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260414/denmarks-novo-nordisk-signs-deal-with-openai-to-develop-new-drugs",
-        "published_date": "2026-04-14 12:59:24",
-        "category": "Diplomacy"
+        "title": "Iran accuses the US of breaking the ceasefire and warns of retaliation",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-beskylder-usa-for-at-bryde-vaabenhvile-og-varsler-gengaeldelse?referrer=RSS",
+        "published_date": "2026-04-19 22:38:48",
+        "category": "Military"
     },
     {
-        "title": "How the European job market will change with new pay transparency rules",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260414/how-the-european-job-market-will-change-with-new-pay-transparency-rules",
-        "published_date": "2026-04-14 10:37:53",
-        "category": "Diplomacy"
+        "title": "Police chief stops: Officers suspected of fleeing from shooting in Ukraine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/politichef-stopper-betjente-mistaenkes-for-flugt-fra-skyderi-i-ukraine?referrer=RSS",
+        "published_date": "2026-04-19 20:32:47",
+        "category": "Military"
+    },
+    {
+        "title": "Police chief stops: Officers suspected of fleeing from shooting in Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politichef-stopper-betjente-mistaenkes-flugt-fra-skyderi-i-ukraine",
+        "published_date": "2026-04-19 19:58:00",
+        "category": "Military"
     },
     {
         "title": "Macron: French soldier killed in southern Lebanon",
@@ -259,27 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "The US will block ships to and from Iranian ports",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-vil-blokere-skibe-til-og-fra-iranske-havne?referrer=RSS",
-        "published_date": "2026-04-12 21:35:49",
-        "category": "Military"
-    },
-    {
-        "title": "Ukraine and Russia accuse each other of breaking the Easter ceasefire",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-og-rusland-beskylder-hinanden-bryde-paaskevaabenhvile",
-        "published_date": "2026-04-12 09:20:00",
-        "category": "Military"
-    },
-    {
-        "title": "Pakistan calls on Iran and US to observe ceasefire",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pakistan-opfordrer-iran-og-usa-til-overholde-vaabenhvile",
-        "published_date": "2026-04-12 05:12:00",
-        "category": "Military"
-    },
-    {
         "title": "Zelenskyj: Every dollar paid for Russian oil is money for the war",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-hver-en-dollar-betalt-russisk-olie-er-penge-til-krigen",
@@ -364,11 +364,123 @@
         "category": "Economy"
     },
     {
-        "title": "Saudi Arabia's grandiose visions collide with economic reality \u2013 and the Iran war",
+        "title": "Trump: US Navy takes control of Iranian ship near Strait of Hormuz",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/saudi-arabiens-storstilede-visioner-stoeder-ind-i-den-oekonomiske-virkelighed--og-iran-krigen?referrer=RSS",
-        "published_date": "2026-04-11 20:43:03",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/trump-usas-flaade-tager-kontrol-over-iransk-skib-naer-hormuzstraedet?referrer=RSS",
+        "published_date": "2026-04-19 21:13:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Busy Bayern keep the beers cold after securing the championship",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/travle-bayern-holder-oellene-paa-koel-efter-sikret-mesterskab?referrer=RSS",
+        "published_date": "2026-04-19 20:42:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kasper St\u00f8vring: There are three answers in the debate about Danishness \u2013 but only one is tenable",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/kasper-stoevring-der-er-tre-svar-i-debatten-om-danskhed--men-kun-et-er-holdbart?referrer=RSS",
+        "published_date": "2026-04-19 20:04:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump: The US Navy has taken control of an Iranian ship",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-usa-s-flaade-har-taget-kontrol-med-iransk-skib",
+        "published_date": "2026-04-19 20:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Skanderborg AGF strengthens semi-final hopes with victory over TTH",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/skanderborg-agf-styrker-semifinalehaab-med-sejr-over-tth?referrer=RSS",
+        "published_date": "2026-04-19 19:50:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "15,000 collected at the Cancer Society's national fundraiser",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/15000-samlede-ind-ved-kraeftens-bekaempelses-landsindsamling?referrer=RSS",
+        "published_date": "2026-04-19 19:50:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "She \"loves slutty women\" and \"fucking hates ICE\".Zara Larsson says what she thinks, and it costs dearly",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/musik/hun-elsker-slutty-kvinder-og-fucking-hader-ice-zara-larsson-siger-hvad-hun-mener-og-det-koster-dyrt?referrer=RSS",
+        "published_date": "2026-04-19 19:43:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mette Frederiksen calls for new government negotiations on Monday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/mette-frederiksen-indkalder-mandag-til-nye-regeringsforhandlinger?referrer=RSS",
+        "published_date": "2026-04-19 19:31:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Magnus said goodbye to the TV industry to live out his dream - now he has 15 on the payroll",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/mad/magnus-sagde-farvel-til-tv-branchen-for-at-udleve-sin-droem-nu-har-han-15-paa-loenningslisten?rss",
+        "published_date": "2026-04-19 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eight children killed in the US state of Louisiana",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/otte-boern-draebt-i-masseskyderi-i-den-amerikanske-delstat-louisiana",
+        "published_date": "2026-04-19 16:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Herning takes an away win in Herlev and is well on its way to DM gold",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/herning-fordobler-foeringen-i-dm-finale-paa-herlevs-is",
+        "published_date": "2026-04-19 15:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Baltic countries block Slovak plane for victory parade in Moscow",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/baltiske-lande-blokerer-slovakisk-fly-til-sejrsparade-i-moskva",
+        "published_date": "2026-04-19 15:49:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rat poison found in baby food in Austria",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rottegift-fundet-i-babymad-i-oestrig",
+        "published_date": "2026-04-19 13:57:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The remains of 50 infants dumped in cemetery in Trinidad and Tobago",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/resterne-af-50-spaedboern-dumpet-paa-kirkegaard-i-trinidad-og-tobago",
+        "published_date": "2026-04-19 13:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norwegian diplomat quits after Epstein revelations",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/norsk-diplomat-stopper-efter-epstein-afsloeringer",
+        "published_date": "2026-04-19 13:23:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump: American delegation will travel to Islamabad tomorrow to negotiate",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-amerikansk-delegation-rejser-til-islamabad-i-morgen-forhandle",
+        "published_date": "2026-04-19 12:46:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Green light for alcohol around the clock in Oslo during the football World Cup",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/groent-lys-til-alkohol-doegnet-rundt-i-oslo-under-fodbold-vm",
+        "published_date": "2026-04-19 12:15:00",
+        "category": "Local Events"
     },
     {
         "title": "On the table is a long list of disagreements.Here are the political kinks in the negotiations",
@@ -389,125 +501,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/ny-melding-om-forsoeg-paa-brandstiftelse-mod-synagoge-i-london?referrer=RSS",
         "published_date": "2026-04-19 11:10:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Younger man is out of danger after stabbing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/yngre-mand-er-uden-for-livsfare-efter-knivstikkeri?referrer=RSS",
-        "published_date": "2026-04-19 10:47:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Airlines must help if there is a lack of fuel for planes",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/flyselskaber-skal-hjaelpe-hvis-der-mangler-braendstof-til-fly?referrer=RSS",
-        "published_date": "2026-04-19 10:37:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elderly cyclist driven with police escort to hospital",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/aeldre-cyklist-koert-med-politieskorte-til-hospitalet?referrer=RSS",
-        "published_date": "2026-04-19 10:26:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jacob Carl Nelles\u00f8 died a few hours after the election was called and canceled the reform that included his fight",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/jacob-carl-nellesoe-doede-faa-timer-efter-at-valget-blev-udskrevet-og-aflyste-den-reform-der-rummede-hans-kamp?referrer=RSS",
-        "published_date": "2026-04-19 10:20:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Practice, practice and double-practice!Holger Dahl is confused by Copenhagen tradition",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kunst/oev-oev-og-dobbelt-oev-holger-dahl-er-forvirret-over-koebenhavnsk-tradition?referrer=RSS",
-        "published_date": "2026-04-19 09:45:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "S\u00f8ren Pind: We lack potentially decisive knowledge in the Danish debate on immigration and Islam",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/soeren-pind-vi-mangler-en-potentielt-afgoerende-viden-i-den-danske-debat-om-indvandring-og-islam?referrer=RSS",
-        "published_date": "2026-04-19 09:41:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Conductor has a unique ability to concentrate, which is far from generation TikTok.It has given her a meteoric career",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/talent-100/dirigent-har-en-unik-evne-til-at-koncentrere-sig-som-er-langt-fra-generation-tiktok-den-har-skaffet-hende-en-kometkarriere?referrer=RSS",
-        "published_date": "2026-04-19 09:34:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Thousands of seniors to meet about life after the age of 67",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tusindvis-af-seniorer-til-traef-om-livet-efter-de-67",
-        "published_date": "2026-04-19 09:07:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "DBU accepts deficits on women's national matches: A conscious investment",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dbu-accepterer-underskud-paa-kvindelandskampe-en-bevidst-investering",
-        "published_date": "2026-04-19 08:16:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A bankrupt meat company is required to be fined almost ten million",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/vejen/konkursramt-koedvirksomhed-kraeves-idoemt-boede-paa-knap-ti-millioner?rss",
-        "published_date": "2026-04-19 08:08:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police are looking for witnesses to the stabbing",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-soeger-vidner-efter-knivstikkeri",
-        "published_date": "2026-04-19 06:19:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police seized 800,000 smuggled cigarettes and 1.3 million kroner",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-beslaglagde-800-000-smuglercigaretter-og-1-3-millioner-kroner",
-        "published_date": "2026-04-19 05:12:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Royal Family commissions a biography of the late Queen Elizabeth",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kongehus-bestiller-biografi-om-afdoede-dronning-elizabeth",
-        "published_date": "2026-04-19 05:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "33-year-old died after being found badly injured in an industrial area: Here is the status now",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/33-aarig-doede-efter-at-vaere-fundet-haardt-kvaestet-i-industriomraade-her-er-status-68-dage-senere?rss",
-        "published_date": "2026-04-19 05:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "North Korea launches missiles into the Sea of \u200b\u200bJapan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nordkorea-affyrer-missiler-ud-i-det-japanske-hav",
-        "published_date": "2026-04-19 03:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Life jacket from Titanic sold at auction for 5.8 million",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/redningsvest-fra-titanic-saelges-paa-auktion-for-58-millioner?referrer=RSS",
-        "published_date": "2026-04-18 23:14:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Real Sociedad win Spanish Cup final after penalty drama",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/real-sociedad-vinder-spansk-pokalfinale-efter-straffedrama?referrer=RSS",
-        "published_date": "2026-04-18 23:14:47",
         "category": "Local Events"
     }
 ]
