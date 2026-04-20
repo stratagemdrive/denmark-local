@@ -1,5 +1,12 @@
 [
     {
+        "title": "The EU expects the oil pipeline dispute to be resolved this week",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-forventer-strid-om-olieroerledning-loest-i-denne-uge",
+        "published_date": "2026-04-20 18:58:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Meta employees unveil massive round of layoffs in May: Biggest since the \"year of streamlining\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/meta-medarbejdere-loefter-sloeret-for-massiv-fyringsrunde-i-maj-stoerste-siden-aaret-for-effektivisering?referrer=RSS",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Trump rages against Meloni after lack of support in Iran war",
+        "title": "Iran's top negotiator warns: We have new cards in hand on the battlefield",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-raser-mod-meloni-efter-manglende-stoette-i-iran-krig?referrer=RSS",
-        "published_date": "2026-04-14 20:56:47",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/irans-topforhandler-advarer-vi-har-nye-kort-paa-haanden-paa-slagmarken?referrer=RSS",
+        "published_date": "2026-04-20 23:05:48",
+        "category": "Military"
+    },
+    {
+        "title": "Ammunition disposal officers from the Norwegian Armed Forces investigate an apartment in Slagelse",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/ammunitionsryddere-fra-forsvaret-undersoeger-lejlighed-i-slagelse?referrer=RSS",
+        "published_date": "2026-04-20 20:03:44",
+        "category": "Military"
     },
     {
         "title": "Ukraine again attacks Russian port city",
@@ -266,18 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Ukraine and Norway enter into cooperation on drone production",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-og-norge-indgaar-samarbejde-om-droneproduktion",
-        "published_date": "2026-04-14 19:08:00",
-        "category": "Military"
-    },
-    {
-        "title": "Donald Trump wants to block Iran's ports \u2013 military analyst points to what could be America's problem",
+        "title": "Two new Danish hotels on the international list",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/donald-trump-vil-blokere-irans-havne--militaeranalytiker-peger-paa-hvad-der-kan-blive-usas-problem?referrer=RSS",
-        "published_date": "2026-04-13 11:13:28",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/gastronomi/to-nye-danske-hoteller-med-paa-international-liste?referrer=RSS",
+        "published_date": "2026-04-20 20:06:18",
+        "category": "Energy"
     },
     {
         "title": "Elmer M\u00f8ller takes the French scalp and approaches a big tournament",
@@ -350,13 +357,6 @@
         "category": "Energy"
     },
     {
-        "title": "Condolences pour in after tragic fatal accident: 'We cry a lot'",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/toender/kondolencerne-vaelter-ind-efter-tragisk-doedsulykke-vi-graeder-rigtig-meget?rss",
-        "published_date": "2026-04-12 14:35:23",
-        "category": "Energy"
-    },
-    {
         "title": "Capital city mayors in joint call:\u00a0We contribute with such large sums that it affects our own well-being",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/synspunkter/hovedstadsborgmestre-i-faelles-opraabvi-bidrager-med-saa-store-beloeb-at-det-rammer-vores-egen-velfaerd?referrer=RSS",
@@ -385,143 +385,143 @@
         "category": "Economy"
     },
     {
-        "title": "Warning bells have again been stolen from Jutland railway crossings",
+        "title": "37-year-old dead after a collision with a lorry on a main road in central Jutland",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/advarselsklokker-er-igen-stjaalet-fra-jyske-jernbaneoverkoersler?referrer=RSS",
-        "published_date": "2026-04-20 11:53:46",
+        "url": "https://www.berlingske.dk/indland/37-aarig-doed-efter-sammenstoed-med-lastbil-paa-midtjysk-hovedvej?referrer=RSS",
+        "published_date": "2026-04-20 22:37:45",
         "category": "Local Events"
     },
     {
-        "title": "Pia Olsen Dyhr wants L\u00f8kke back at the negotiating table",
+        "title": "The US Secretary of Labor is resigning from his post",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-s-arbejdsminister-fratraeder-sin-stilling",
+        "published_date": "2026-04-20 22:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another minister is leaving the Trump administration",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/pia-olsen-dyhr-vil-have-loekke-tilbage-ved-forhandlingsbordet?referrer=RSS",
-        "published_date": "2026-04-20 11:39:47",
+        "url": "https://www.berlingske.dk/internationalt/endnu-en-minister-forlader-trump-administrationen?referrer=RSS",
+        "published_date": "2026-04-20 21:58:45",
         "category": "Local Events"
     },
     {
-        "title": "Russia calls statements by Bulgarian election winner encouraging",
+        "title": "Deputy CEO replaces Tim Cook and becomes the new CEO of Apple",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rusland-kalder-udtalelser-fra-bulgarsk-valgvinder-opmuntrende?referrer=RSS",
-        "published_date": "2026-04-20 11:35:45",
+        "url": "https://www.berlingske.dk/business/vicedirektoer-afloeser-tim-cook-og-bliver-ny-direktoer-for-apple?referrer=RSS",
+        "published_date": "2026-04-20 21:44:46",
         "category": "Local Events"
     },
     {
-        "title": "Trump is stuck in his own strategy, says analyst: He is seen through",
+        "title": "Canadian woman killed in shooting at pyramids in Mexico",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-er-strandet-i-sin-egen-strategi-siger-analytiker-han-er-gennemskuet?referrer=RSS",
-        "published_date": "2026-04-20 11:31:36",
+        "url": "https://www.berlingske.dk/internationalt/canadisk-kvinde-draebt-ved-skyderi-ved-pyramider-i-mexico?referrer=RSS",
+        "published_date": "2026-04-20 21:41:48",
         "category": "Local Events"
     },
     {
-        "title": "93-year-old defendant died before verdict in case of wife murder",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/93-aarig-tiltalt-afgaaet-ved-doeden-inden-dom-i-sag-om-hustrudrab",
-        "published_date": "2026-04-20 11:17:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "She has secured large salary increases several times.Now she shares her simple formula",
+        "title": "Manufacturer of baby food blackmailed: Found rat poison in five jars",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/vores-liv/hun-har-flere-gange-sikret-sig-store-loenforhoejelser-nu-deler-hun-sin-enkle-formel?referrer=RSS",
-        "published_date": "2026-04-20 11:15:14",
+        "url": "https://www.berlingske.dk/internationalt/producent-af-babymad-afpresset-fandt-rottegift-i-fem-glas?referrer=RSS",
+        "published_date": "2026-04-20 21:27:47",
         "category": "Local Events"
     },
     {
-        "title": "Tesla confiscated after crazy driving during test drive",
+        "title": "West Ham points send Wolverhampton out of the Premier League",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/tesla-konfiskeret-efter-vanvidskoersel-under-proevetur?referrer=RSS",
-        "published_date": "2026-04-20 11:11:53",
+        "url": "https://www.berlingske.dk/sport/west-ham-point-sender-wolverhampton-ud-af-premier-league?referrer=RSS",
+        "published_date": "2026-04-20 21:13:48",
         "category": "Local Events"
     },
     {
-        "title": "The 93-year-old defendant died before the verdict in the case of wife murder",
+        "title": "AGF keeper failed miserably in top burst: It hurts",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/93-aarig-tiltalt-er-afgaaet-ved-doeden-inden-dom-i-sag-om-hustrudrab?referrer=RSS",
-        "published_date": "2026-04-20 11:08:46",
+        "url": "https://www.berlingske.dk/sport/agf-keeper-fejlede-faelt-i-topbrag-det-goer-ondt?referrer=RSS",
+        "published_date": "2026-04-20 20:06:44",
         "category": "Local Events"
     },
     {
-        "title": "More than three billion Danish kroner will be worthless in six weeks",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260420/more-than-three-billion-danish-kroner-will-be-worthless-in-six-weeks",
-        "published_date": "2026-04-20 10:41:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman sentenced to indefinite detention for accidental manslaughter",
+        "title": "One killed and several injured at tourist attraction in Mexico",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kvinde-doemt-til-anbringelse-paa-ubestemt-tid-drab-paa-tilfaeldig",
-        "published_date": "2026-04-20 10:36:00",
+        "url": "https://www.dr.dk/nyheder/seneste/en-draebt-og-flere-saaret-ved-turistattraktion-i-mexico",
+        "published_date": "2026-04-20 19:41:00",
         "category": "Local Events"
     },
     {
-        "title": "Two teenagers arrested for attack on synagogue in London",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/teenagere-anholdt-angreb-paa-synagoge-i-london",
-        "published_date": "2026-04-20 09:37:00",
+        "title": "Hugs, ball slapping and sex talk: Commanding officer convicted of violations",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/haderslev/kram-balleklask-og-sexsnak-befalingsmand-doemt-for-kraenkelser?rss",
+        "published_date": "2026-04-20 19:01:00",
         "category": "Local Events"
     },
     {
-        "title": "Iran has no plans for talks: US demands 'frivolous' and 'unrealistic'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-har-ingen-planer-om-samtaler-usa-s-krav-er-userioese-og-urealistiske",
-        "published_date": "2026-04-20 08:43:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Monday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260420/today-in-denmark-a-roundup-of-the-latest-news-on-monday-40",
-        "published_date": "2026-04-20 08:25:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tsunami warning after earthquake off the coast of Japan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tsunamivarsel-efter-jordskaelv-ud-japans-kyst",
-        "published_date": "2026-04-20 08:17:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Learning suitcase to get children to talk more about death",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/laeringskuffert-skal-faa-boern-til-tale-mere-om-doeden",
-        "published_date": "2026-04-20 08:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four people sentenced to prison in a case of fraud with corona relief packages",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-personer-idoemt-faengsel-i-sag-om-svindel-med-coronahjaelpepakker",
-        "published_date": "2026-04-20 08:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of young people with tinnitus is growing: Schools are testing a five-minute ear break",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-unge-med-tinnitus-vokser-skole-tester-fem-minutters-oerepause",
-        "published_date": "2026-04-20 07:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Months with a train bus are over - now it's finally running on rails for the commuters again",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maaneder-med-togbus-er-slut-nu-koerer-det-endelig-paa-skinner-pendlerne-igen",
-        "published_date": "2026-04-20 07:17:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Thai masseuse clearly says no to \"happy ending\": - A customer ran naked up to the window and showed himself",
+        "title": "- I'll probably make it: Andi promised more than he could keep.Now his 16-year-old daughter is alone",
         "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/der-tilbydes-ikke-happy-ending-kunder-efterspoerger-seksuelle-ydelser-hos-massageklinik?rss",
-        "published_date": "2026-04-20 07:00:00",
+        "url": "https://fyens.dk/kerteminde/jeg-skal-nok-klare-det-andi-lovede-mere-end-han-kunne-holde-nu-er-hans-16-aarige-datter-alene?rss",
+        "published_date": "2026-04-20 19:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Only six weeks to hand in the 1,000 kroner notes",
+        "title": "Airline withdraws from Billund and closes route to Millionby: - \u200b\u200bIt is of course very annoying",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/billund/flyselskab-traekker-sig-fra-billund-og-lukker-rute-til-millionby-det-er-selvfoelgelig-droenaergerligt?rss",
+        "published_date": "2026-04-20 18:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "American r'n'b singer indicted for murder of 14-year-old girl",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kun-seks-uger-til-indlevere-1-000-kronesedlerne",
-        "published_date": "2026-04-20 06:57:00",
+        "url": "https://www.dr.dk/nyheder/seneste/amerikansk-r-n-b-sanger-tiltalt-drab-paa-14-aarig-pige",
+        "published_date": "2026-04-20 17:46:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish companies in the US can get back illegally collected customs duties",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danske-virksomheder-i-usa-kan-faa-ulovligt-opkraevet-told-tilbage",
+        "published_date": "2026-04-20 17:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Greek ex-royals must retain their surname and citizenship",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/graeske-eksroyale-maa-beholde-deres-efternavn-og-statsborgerskab",
+        "published_date": "2026-04-20 16:42:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "FBI director sues media and journalist for alcohol article",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fbi-s-direktoer-sagsoeger-medie-og-journalist-alkoholartikel",
+        "published_date": "2026-04-20 15:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Temperatures expected to hit 17C in Denmark this week",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260420/temperatures-expected-to-hit-17c-in-denmark-this-week",
+        "published_date": "2026-04-20 14:47:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peter Magyar repeats call to Hungary's president: Step down",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/peter-magyar-gentager-opfordring-til-ungarns-praesident-gaa-af",
+        "published_date": "2026-04-20 14:12:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police have seized 300 moving boxes with copies of luxury goods",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-har-beslaglagt-300-flyttekasser-med-kopier-af-luksusvarer",
+        "published_date": "2026-04-20 13:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men convicted of attempted murder of 16-year-old",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maend-doemt-drabsforsoeg-paa-16-aarig",
+        "published_date": "2026-04-20 13:13:00",
         "category": "Local Events"
     }
 ]
