@@ -1,5 +1,40 @@
 [
     {
+        "title": "'Stone age' ticket system preventing travellers in Europe from taking trains",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260421/stone-age-ticket-system-preventing-travellers-in-europe-from-taking-trains",
+        "published_date": "2026-04-21 12:50:54",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Over 1,100 musicians call for a boycott of Eurovision in an open letter",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/over-1-100-musikere-opfordrer-til-boykot-af-eurovision-i-aabent-brev",
+        "published_date": "2026-04-21 11:19:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Mads Fuglede will look beyond Denmark's borders with a new mayorship",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/mads-fuglede-skal-kigge-ud-over-danmarks-graenser-med-nyt-ordfoererskab?referrer=RSS",
+        "published_date": "2026-04-21 11:02:58",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Kallas expects a decision on EU loans to Ukraine tomorrow",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kallas-forventer-beslutning-om-eu-laan-til-ukraine-i-morgen",
+        "published_date": "2026-04-21 08:39:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU court states: Hungary has adopted a law that stigmatizes LGBT+ people",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-domstol-fastslaar-ungarn-har-vedtaget-lov-der-stigmatiserer-lgbt-personer",
+        "published_date": "2026-04-21 08:24:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The EU expects the oil pipeline dispute to be resolved this week",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/eu-forventer-strid-om-olieroerledning-loest-i-denne-uge",
@@ -105,39 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "KEY POINTS: What changes in Denmark in May 2026",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260415/key-points-what-changes-in-denmark-in-may-2026",
-        "published_date": "2026-04-15 14:24:37",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The EU sends new requirements to Meta",
+        "title": "Japan eases restrictions on arms exports",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-sender-nye-krav-til-meta",
-        "published_date": "2026-04-15 13:27:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The EU is ready with an app to protect children online",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eu-er-klar-med-app-der-skal-beskytte-boern-online?referrer=RSS",
-        "published_date": "2026-04-15 11:24:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "President of the EU Commission: New app for age verification will be ready soon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-kommissionsformand-snart-er-ny-app-til-aldersverifikation-klar",
-        "published_date": "2026-04-15 09:21:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "UN: North Korea is strengthening its ability to produce nuclear weapons",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fn-nordkorea-styrker-sin-evne-til-producere-atomvaaben",
-        "published_date": "2026-04-15 07:12:00",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/japan-lemper-restriktioner-paa-vaabeneksport",
+        "published_date": "2026-04-21 10:44:00",
+        "category": "Military"
     },
     {
         "title": "Iran's top negotiator warns: We have new cards in hand on the battlefield",
@@ -273,11 +280,18 @@
         "category": "Military"
     },
     {
-        "title": "Zelenskyj: The US has no time for Ukraine because of the war in Iran",
+        "title": "Thousands of Copenhageners without power after major breakdown",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/zelenskyj-usa-har-ikke-tid-til-ukraine-grundet-krig-i-iran?referrer=RSS",
-        "published_date": "2026-04-14 23:02:46",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/indland/tusindvis-af-koebenhavnere-uden-stroem-efter-stort-nedbrud?referrer=RSS",
+        "published_date": "2026-04-21 11:05:47",
+        "category": "Energy"
+    },
+    {
+        "title": "Over 1,700 households were without power in Copenhagen",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/over-1-700-husstande-uden-stroem-i-koebenhavn",
+        "published_date": "2026-04-21 10:58:00",
+        "category": "Energy"
     },
     {
         "title": "Two new Danish hotels on the international list",
@@ -350,11 +364,18 @@
         "category": "Energy"
     },
     {
-        "title": "Germany lowers the energy tax on petrol and diesel",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tyskland-saenker-energiafgiften-paa-benzin-og-diesel",
-        "published_date": "2026-04-13 07:55:00",
-        "category": "Energy"
+        "title": "179-year-old country property falls into disrepair, while a million-dollar tax case is ongoing: Now a decision has been made",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/haderslev/179-aarige-landejendom-forfalder-mens-millionstor-skattesag-koerer-nu-er-der-faldet-afgoerelse?rss",
+        "published_date": "2026-04-21 05:02:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Businessman spends millions on acquisitions: the building must be used for that",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/erhverv/erhvervsmand-bruger-millioner-paa-opkoeb-det-skal-bygningen-bruges-til?rss",
+        "published_date": "2026-04-21 05:00:00",
+        "category": "Economy"
     },
     {
         "title": "Capital city mayors in joint call:\u00a0We contribute with such large sums that it affects our own well-being",
@@ -385,143 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "37-year-old dead after a collision with a lorry on a main road in central Jutland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/37-aarig-doed-efter-sammenstoed-med-lastbil-paa-midtjysk-hovedvej?referrer=RSS",
-        "published_date": "2026-04-20 22:37:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US Secretary of Labor is resigning from his post",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-s-arbejdsminister-fratraeder-sin-stilling",
-        "published_date": "2026-04-20 22:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another minister is leaving the Trump administration",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/endnu-en-minister-forlader-trump-administrationen?referrer=RSS",
-        "published_date": "2026-04-20 21:58:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deputy CEO replaces Tim Cook and becomes the new CEO of Apple",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/vicedirektoer-afloeser-tim-cook-og-bliver-ny-direktoer-for-apple?referrer=RSS",
-        "published_date": "2026-04-20 21:44:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Canadian woman killed in shooting at pyramids in Mexico",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/canadisk-kvinde-draebt-ved-skyderi-ved-pyramider-i-mexico?referrer=RSS",
-        "published_date": "2026-04-20 21:41:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Manufacturer of baby food blackmailed: Found rat poison in five jars",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/producent-af-babymad-afpresset-fandt-rottegift-i-fem-glas?referrer=RSS",
-        "published_date": "2026-04-20 21:27:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "West Ham points send Wolverhampton out of the Premier League",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/west-ham-point-sender-wolverhampton-ud-af-premier-league?referrer=RSS",
-        "published_date": "2026-04-20 21:13:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "AGF keeper failed miserably in top burst: It hurts",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/agf-keeper-fejlede-faelt-i-topbrag-det-goer-ondt?referrer=RSS",
-        "published_date": "2026-04-20 20:06:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "One killed and several injured at tourist attraction in Mexico",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/en-draebt-og-flere-saaret-ved-turistattraktion-i-mexico",
-        "published_date": "2026-04-20 19:41:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hugs, ball slapping and sex talk: Commanding officer convicted of violations",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/kram-balleklask-og-sexsnak-befalingsmand-doemt-for-kraenkelser?rss",
-        "published_date": "2026-04-20 19:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "- I'll probably make it: Andi promised more than he could keep.Now his 16-year-old daughter is alone",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/kerteminde/jeg-skal-nok-klare-det-andi-lovede-mere-end-han-kunne-holde-nu-er-hans-16-aarige-datter-alene?rss",
-        "published_date": "2026-04-20 19:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Airline withdraws from Billund and closes route to Millionby: - \u200b\u200bIt is of course very annoying",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/flyselskab-traekker-sig-fra-billund-og-lukker-rute-til-millionby-det-er-selvfoelgelig-droenaergerligt?rss",
-        "published_date": "2026-04-20 18:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "American r'n'b singer indicted for murder of 14-year-old girl",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/amerikansk-r-n-b-sanger-tiltalt-drab-paa-14-aarig-pige",
-        "published_date": "2026-04-20 17:46:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish companies in the US can get back illegally collected customs duties",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danske-virksomheder-i-usa-kan-faa-ulovligt-opkraevet-told-tilbage",
-        "published_date": "2026-04-20 17:24:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Greek ex-royals must retain their surname and citizenship",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/graeske-eksroyale-maa-beholde-deres-efternavn-og-statsborgerskab",
-        "published_date": "2026-04-20 16:42:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "FBI director sues media and journalist for alcohol article",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fbi-s-direktoer-sagsoeger-medie-og-journalist-alkoholartikel",
-        "published_date": "2026-04-20 15:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Temperatures expected to hit 17C in Denmark this week",
+        "title": "Moderate leader: Danish PM 'must make a choice' in government negotiations",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260420/temperatures-expected-to-hit-17c-in-denmark-this-week",
-        "published_date": "2026-04-20 14:47:24",
+        "url": "https://www.thelocal.dk/20260421/moderate-leader-danish-pm-must-make-a-choice-in-government-negotiations",
+        "published_date": "2026-04-21 12:08:53",
         "category": "Local Events"
     },
     {
-        "title": "Peter Magyar repeats call to Hungary's president: Step down",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/peter-magyar-gentager-opfordring-til-ungarns-praesident-gaa-af",
-        "published_date": "2026-04-20 14:12:00",
+        "title": "Prices are skyrocketing: Old wooden Lego toys were again sold\u00a0for wild sums",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/billund/priserne-stikker-helt-af-gammelt-lego-legetoej-blev-igen-solgt-for-vildt-beloeb?rss",
+        "published_date": "2026-04-21 12:02:00",
         "category": "Local Events"
     },
     {
-        "title": "The police have seized 300 moving boxes with copies of luxury goods",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-har-beslaglagt-300-flyttekasser-med-kopier-af-luksusvarer",
-        "published_date": "2026-04-20 13:34:00",
+        "title": "Prosecuting authority drops case against 84-year-old accused of murder",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/anklagemyndighed-dropper-sag-mod-84-aarig-sigtet-for-drab?referrer=RSS",
+        "published_date": "2026-04-21 11:41:49",
         "category": "Local Events"
     },
     {
-        "title": "Two men convicted of attempted murder of 16-year-old",
+        "title": "Nurses vote yes to OK26",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maend-doemt-drabsforsoeg-paa-16-aarig",
-        "published_date": "2026-04-20 13:13:00",
+        "url": "https://www.dr.dk/nyheder/seneste/sygeplejersker-stemmer-ja-til-ok26",
+        "published_date": "2026-04-21 11:32:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Elmer M\u00f8ller beats the Spaniard and is ready for the Madrid Open",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/elmer-moeller-slaar-spanier-og-er-klar-til-madrid-open?referrer=RSS",
+        "published_date": "2026-04-21 11:31:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Poll shows lowest support for President Trump since inauguration",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/maaling-viser-mindste-opbakning-til-praesident-trump-siden-indsaettelse?referrer=RSS",
+        "published_date": "2026-04-21 11:28:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Board warns against illegal rat poison",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/styrelse-advarer-mod-ulovlig-rottegift",
+        "published_date": "2026-04-21 11:23:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Public prosecutor appeals - wants brothers convicted of ordered murder",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/statsadvokat-anker-vil-have-broedre-doemt-for-bestilt-drab?referrer=RSS",
+        "published_date": "2026-04-21 11:20:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "There must be an end to jokes and pranks in Nye Borgerlige",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/det-skal-vaere-slut-med-gak-og-loejer-i-nye-borgerlige?referrer=RSS",
+        "published_date": "2026-04-21 11:20:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The board warns against illegal rat poison sold to Danish consumers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/styrelse-advarer-mod-ulovlig-rottegift-solgt-til-danske-forbrugere?referrer=RSS",
+        "published_date": "2026-04-21 11:17:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Political commentator: L\u00f8kke puts maximum pressure on Mette Frederiksen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/politisk-kommentator-loekke-laegger-maksimalt-pres-paa-mette-frederiksen?referrer=RSS",
+        "published_date": "2026-04-21 11:07:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Journalist sentenced in the Supreme Court for breaking the name ban",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/journalist-doemt-i-hoejesteret-for-at-bryde-navneforbud?referrer=RSS",
+        "published_date": "2026-04-21 10:59:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark jails man and revokes citizenship for promoting terror on social media",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260421/denmark-jails-man-and-revokes-citizenship-for-promoting-terror-on-social-media",
+        "published_date": "2026-04-21 10:52:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Journalist sentenced in the Supreme Court for breaking the name ban",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/journalist-doemt-i-hoejesteret-bryde-navneforbud",
+        "published_date": "2026-04-21 10:52:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sacked civil servant felt pressure to endorse Peter Mandelson",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fyret-embedsmand-foelte-pres-godkende-peter-mandelson",
+        "published_date": "2026-04-21 09:54:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Copenhagen region launches mobile labs to tackle groundwater pollution",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260421/copenhagen-region-launches-mobile-labs-to-tackle-groundwater-pollution",
+        "published_date": "2026-04-21 09:52:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Large South Jutland festival has been cancelled",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/aabenraa/stor-soenderjysk-festival-er-aflyst?rss",
+        "published_date": "2026-04-21 09:00:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "The fire service has got the fire in H\u00f8jbjerg under control",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-opfordrer-borgere-i-hoejberg-til-holde-sig-indenfor",
+        "published_date": "2026-04-21 08:52:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rental properties are let more quickly in larger Danish cities",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lejeboliger-udlejes-hurtigere-i-stoerre-danske-byer",
+        "published_date": "2026-04-21 08:41:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260421/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-43",
+        "published_date": "2026-04-21 08:27:39",
         "category": "Local Events"
     }
 ]
