@@ -1,5 +1,12 @@
 [
     {
+        "title": "Several in the Epstein committee are speaking in favor of pardoning Ghislaine Maxwell",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/flere-i-epstein-udvalg-taler-for-benaadning-af-ghislaine-maxwell?referrer=RSS",
+        "published_date": "2026-04-22 23:18:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The EU gives provisional approval for loans to Ukraine",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/eu-giver-foreloebig-godkendelse-til-laan-til-ukraine?referrer=RSS",
@@ -133,11 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Airlines in Europe fear jet-fuel rationing due to Mideast war",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260418/airlines-fear-jet-fuel-rationing-due-to-mideast-war",
-        "published_date": "2026-04-18 09:14:22",
-        "category": "Diplomacy"
+        "title": "Journalist reportedly killed during Israeli attack in Lebanon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/journalist-meldes-draebt-under-israelsk-angreb-i-libanon?referrer=RSS",
+        "published_date": "2026-04-22 21:54:46",
+        "category": "Military"
+    },
+    {
+        "title": "The White House rejects firm backing on a cease-fire with Iran",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/det-hvide-hus-afviser-fast-bagkant-paa-vaabenhvile-med-iran?referrer=RSS",
+        "published_date": "2026-04-22 19:46:44",
+        "category": "Military"
+    },
+    {
+        "title": "Councilor in Aalborg Municipality wants to go on leave and do humanitarian work in Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/raadmand-i-aalborg-kommune-vil-paa-orlov-og-lave-humanitaert-arbejde-i-ukraine",
+        "published_date": "2026-04-22 13:30:00",
+        "category": "Military"
     },
     {
         "title": "Ukraine again calls for a meeting between Zelenskyi and Putin",
@@ -256,27 +277,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/sveriges-konge-besoeger-ukraine-og-moedes-med-zelenskyj?referrer=RSS",
         "published_date": "2026-04-17 11:04:45",
-        "category": "Military"
-    },
-    {
-        "title": "Sweden's King Carl Gustaf is in Ukraine and meets with Zelenskyj",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sveriges-kong-carl-gustaf-er-i-ukraine-og-moedes-med-zelenskyj",
-        "published_date": "2026-04-17 10:19:00",
-        "category": "Military"
-    },
-    {
-        "title": "Lebanon's army accuses Israel of breaking the ceasefire",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/libanons-haer-beskylder-israel-bryde-vaabenhvile",
-        "published_date": "2026-04-17 02:34:00",
-        "category": "Military"
-    },
-    {
-        "title": "A ten-day ceasefire between Lebanon and Israel has entered into force",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ti-dages-vaabenhvile-mellem-libanon-og-israel-er-traadt-i-kraft?referrer=RSS",
-        "published_date": "2026-04-16 22:16:55",
         "category": "Military"
     },
     {
@@ -399,143 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "Why is a welfare agreement from 2006 affecting Danish government negotiations?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260422/why-is-a-welfare-agreement-from-2006-affecting-danish-government-negotiations",
-        "published_date": "2026-04-22 12:17:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ryanair shortens the check-in period by 20 minutes",
+        "title": "The US Secretary of the Navy is leaving his post immediately",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/ryanair-forkorter-periode-for-check-in-med-20-minutter?referrer=RSS",
-        "published_date": "2026-04-22 11:44:46",
+        "url": "https://www.berlingske.dk/internationalt/usas-flaademinister-forlader-oejeblikkeligt-sin-post?referrer=RSS",
+        "published_date": "2026-04-22 22:31:47",
         "category": "Local Events"
     },
     {
-        "title": "- Whether it is a double standard?Bettina herself changed parties - now she wants to remove Cecilie Liv Hansen",
+        "title": "Pentagon: US Secretary of the Navy is currently leaving his post",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pentagon-usa-s-flaademinister-forlader-oejeblikket-sin-post",
+        "published_date": "2026-04-22 22:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "City grab first place and send Burnley down to the Championship",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/city-snupper-foersteplads-og-sender-burnley-ned-i-championship?referrer=RSS",
+        "published_date": "2026-04-22 20:58:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Effective Kane crushes Hjulmand's dream of cup triumph",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/effektive-kane-knuser-hjulmands-droem-om-pokaltriumf?referrer=RSS",
+        "published_date": "2026-04-22 20:48:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish-Norwegian film director garners praise from critics for family drama",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dansk-norsk-filminstruktoer-hoester-anmelderros-for-familiedrama?referrer=RSS",
+        "published_date": "2026-04-22 20:48:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tesla's billion revenue is growing and the stock is rising",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/teslas-milliardomsaetning-vokser-og-aktien-stiger?referrer=RSS",
+        "published_date": "2026-04-22 20:48:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tesla's billion revenue is growing and the stock is rising",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/teslas-milliardomsaetning-vokser-og-aktien-stiger",
+        "published_date": "2026-04-22 20:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A strong second half keeps Odense Handball in the DM track",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/staerk-anden-halvleg-holder-odense-haandbold-i-dm-sporet?referrer=RSS",
+        "published_date": "2026-04-22 20:19:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "A late winning goal boosts Br\u00f8ndby's hunt for bronze",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sent-sejrsmaal-booster-broendbys-bronzejagt?referrer=RSS",
+        "published_date": "2026-04-22 20:03:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Greenland's parliament: Contributions from Danish parties must be banned",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/groenlands-parlament-bidrag-fra-danske-partier-skal-forbydes",
+        "published_date": "2026-04-22 19:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mother and father write memorial words for 16-year-old son: '\u00c6 skur' was a big part of Silas' life",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/om-det-er-dobbeltmoralsk-bettina-skiftede-selv-parti-nu-vil-hun-fjerne-cecilie-liv-hansen?rss",
-        "published_date": "2026-04-22 11:29:07",
+        "url": "https://jv.dk/toender/mor-og-far-skriver-mindeord-over-16-aarig-soen-ae-skur-var-en-stor-del-af-silas-liv?rss",
+        "published_date": "2026-04-22 16:48:00",
         "category": "Local Events"
     },
     {
-        "title": "- Whether it is a double standard?Bettina herself changed parties - now she wants to remove Cecilie Liv Hansen",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/kerteminde/om-det-er-dobbeltmoralsk-bettina-skiftede-selv-parti-nu-vil-hun-fjerne-cecilie-liv-hansen?rss",
-        "published_date": "2026-04-22 11:29:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Roskilde Festival donates double-digit million profits to children and young people",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/roskilde-festival-donerer-tocifret-millionoverskud-til-boern-og-unge?referrer=RSS",
-        "published_date": "2026-04-22 11:22:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Changed abortion limit can be seen in the statistics",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/aendret-abortgraense-kan-ses-i-statistikkerne?referrer=RSS",
-        "published_date": "2026-04-22 11:19:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another man confesses to money laundering in Syrian family network",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/endnu-en-mand-tilstaar-hvidvask-i-syrisk-familienetvaerk?referrer=RSS",
-        "published_date": "2026-04-22 11:15:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Korean fighter jets collided because pilots were taking pictures",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/koreanske-kampfly-kolliderede-fordi-piloter-tog-billeder",
-        "published_date": "2026-04-22 11:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bjarne was stopped with a tiger in the trunk: Suddenly he was an animal smuggler",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/fynskemennesker/bjarne-blev-registreret-som-smugler-med-en-tiger-i-bagagerummet?rss",
-        "published_date": "2026-04-22 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Condoms become more expensive because of the Iran war",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/kondomer-bliver-dyrere-paa-grund-af-iran-krigen?referrer=RSS",
-        "published_date": "2026-04-22 10:54:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pharmacy employee confesses to cheating with medicine but refuses resale",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/apoteksansat-tilstaar-fusk-med-medicin-men-naegter-videresalg?referrer=RSS",
-        "published_date": "2026-04-22 10:51:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "SpaceX stands for largest stock market listing ever \u2013 application reveals two major risk factors",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/spacex-staar-til-stoerste-boersnotering-nogensinde--ansoegning-afsloerer-to-store-risikofaktorer?referrer=RSS",
-        "published_date": "2026-04-22 10:48:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "HK employees in municipalities and regions nod yes to the new collective agreement",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hk-ere-i-kommuner-og-regioner-nikker-ja-til-ny-overenskomst",
-        "published_date": "2026-04-22 10:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fugitive arrested after almost four months",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flugtfange-anholdt-efter-naesten-fire-maaneder",
-        "published_date": "2026-04-22 09:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "After a murder and two violent police actions in a short time: Now the police are reporting to the citizens",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/efter-drab-og-to-voldsomme-politiaktioner-paa-kort-tid-nu-kommer-politiet-med-melding-til-borgerne?rss",
-        "published_date": "2026-04-22 09:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "title": "Danish Moderates attending government talks for first time in 12 days",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260422/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-50",
-        "published_date": "2026-04-22 08:29:28",
+        "url": "https://www.thelocal.dk/20260422/danish-moderates-attending-government-talks-for-first-time-in-12-days",
+        "published_date": "2026-04-22 15:23:32",
         "category": "Local Events"
     },
     {
-        "title": "Audi recalls cars due to suspected brake failure",
+        "title": "13 Greek MEPs have had their immunity waived",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/audi-tilbagekalder-biler-efter-mistanke-om-bremsefejl",
-        "published_date": "2026-04-22 08:23:33",
+        "url": "https://www.dr.dk/nyheder/seneste/13-graeske-parlamentsmedlemmer-har-faaet-ophaevet-deres-immunitet",
+        "published_date": "2026-04-22 15:23:00",
         "category": "Local Events"
     },
     {
-        "title": "At least 20 Swedish schools closed after threats",
+        "title": "Meteor shower over Denmark tonight could bring 20 shooting stars an hour",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260422/meteor-shower-over-denmark-tonight-could-bring-20-shooting-stars-an-hour",
+        "published_date": "2026-04-22 15:08:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 16-year-old Swedish boy has now been extradited to Denmark after a shooting incident in Aalborg",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/16-svenske-skoler-lukket-efter-trusler",
-        "published_date": "2026-04-22 08:15:00",
+        "url": "https://www.dr.dk/nyheder/seneste/16-aarig-svensk-dreng-er-nu-udleveret-til-danmark-efter-skudepisode-i-aalborg",
+        "published_date": "2026-04-22 15:01:00",
         "category": "Local Events"
     },
     {
-        "title": "TUI drops sales expectations due to the war in Iran",
+        "title": "Nine Danish holidays you won't find on official calendars",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260422/nine-danish-holidays-you-wont-find-on-official-calendars",
+        "published_date": "2026-04-22 14:38:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three baby rabbits found as 'blind passengers' on a drilling platform in the North Sea",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tui-dropper-salgsforventningerne-paa-grund-af-krigen-i-iran",
-        "published_date": "2026-04-22 08:06:00",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-kaninunger-fundet-som-blinde-passagerer-paa-boreplatform-i-nordsoeen",
+        "published_date": "2026-04-22 14:34:00",
         "category": "Local Events"
     },
     {
-        "title": "Historic property at Slotsby lies in ruins: Owned by a nationally known multi-billionaire - see the pictures",
+        "title": "New law protects millions of domestic workers in Indonesia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-lov-beskytter-millioner-af-hushjaelpere-i-indonesien",
+        "published_date": "2026-04-22 14:16:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men sentenced to six years in prison in a case of attempted murder of a 16-year-old",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maend-idoemt-seks-aars-faengsel-i-sag-om-drabsforsoeg-paa-16-aarig",
+        "published_date": "2026-04-22 14:13:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The missing woman and two-year-old child have still not been found - but the police are no longer worried",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/historisk-ejendom-i-slotsby-ligger-i-ruiner-ejes-af-landskendt-multimilliardaer?rss",
-        "published_date": "2026-04-22 07:36:00",
+        "url": "https://jv.dk/haderslev/politiet-frygter-for-forsvundet-kvinde-og-toaarigt-barn-har-vaeret-nedtrykt-i-et-par-dage?rss",
+        "published_date": "2026-04-22 14:05:35",
         "category": "Local Events"
     }
 ]
