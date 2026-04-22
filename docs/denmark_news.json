@@ -1,5 +1,40 @@
 [
     {
+        "title": "The EU gives provisional approval for loans to Ukraine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/eu-giver-foreloebig-godkendelse-til-laan-til-ukraine?referrer=RSS",
+        "published_date": "2026-04-22 11:33:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "FACTS: The EU is expanding its green toolbox in light of the oil crisis",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fakta-eu-udvider-groen-vaerktoejskasse-i-lyset-af-oliekrise?referrer=RSS",
+        "published_date": "2026-04-22 10:55:57",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Artificial intelligence may be the key to much lower interest rates.But it can be a dangerous road",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/oekonomi/kunstig-intelligens-er-maaske-noeglen-til-meget-lavere-renter-men-det-kan-vaere-en-farlig-vej?referrer=RSS",
+        "published_date": "2026-04-22 10:55:17",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Dan J\u00f8rgensen: Energy crisis is a wakeup call for Europe",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dan-joergensen-energikrise-er-et-wake-up-call-til-europa",
+        "published_date": "2026-04-22 10:34:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU tightens rules for Brits travelling to Europe with pets",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260422/eu-tightens-rules-for-brits-travelling-to-europe-with-pets",
+        "published_date": "2026-04-22 09:29:35",
+        "category": "Diplomacy"
+    },
+    {
         "title": "14-year-old Danish boy found dead after swimming accident in Italy",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/14-aarig-dansk-dreng-fundet-doed-efter-badeulykke-i-italien?referrer=RSS",
@@ -105,39 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Trump with more sensational announcements about Iran and NATO: \"Right now it sounds too good to be true\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-med-flere-opsigtsvaekkende-udmeldinger-om-iran-og-natolige-nu-lyder-det-for-godt-til-at-vaere-sandt?referrer=RSS",
-        "published_date": "2026-04-17 20:09:58",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "How soon could jet fuel shortages ground flights in Europe?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260417/how-soon-could-jet-fuel-shortages-ground-flights-in-europe",
-        "published_date": "2026-04-17 13:50:53",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Starmer declares himself furious after Mandelson's failed security checks",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/starmer-erklaerer-sig-rasende-efter-mandelsons-dumpede-sikkerhedstjek?referrer=RSS",
-        "published_date": "2026-04-17 11:32:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Nato is replacing the Danish commander of the force in Latvia with a new Dane",
+        "title": "Ukraine again calls for a meeting between Zelenskyi and Putin",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nato-udskifter-dansk-chef-styrken-i-letland-med-ny-dansker",
-        "published_date": "2026-04-17 08:48:00",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-opfordrer-igen-til-moede-mellem-zelenskyj-og-putin",
+        "published_date": "2026-04-22 07:41:00",
+        "category": "Military"
     },
     {
-        "title": "English FCM executioner sends FC Porto out of the Europa League",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/engelsk-fcm-boeddel-sender-fc-porto-ud-af-europa-league?referrer=RSS",
-        "published_date": "2026-04-16 21:03:46",
-        "category": "Diplomacy"
+        "title": "Great Britain and France are inviting military advisors from over 30 countries to discussions on the Strait of Hormuz",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-og-frankrig-inviterer-militaerfaglige-raadgivere-fra-over-30-lande-til-droeftelser",
+        "published_date": "2026-04-22 02:43:00",
+        "category": "Military"
     },
     {
         "title": "Oil price falls after US extends ceasefire with Iran",
@@ -266,18 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Russia: Deadly attack targeted Ukraine's missile factories",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rusland-doedeligt-angreb-var-rettet-mod-ukraines-missilfabrikker?referrer=RSS",
-        "published_date": "2026-04-16 11:08:46",
-        "category": "Military"
-    },
-    {
-        "title": "Sources: Ceasefire between Israel and Hezbollah to be presented soon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kilder-vaabenhvile-mellem-israel-og-hizbollah-praesenteres-snart?referrer=RSS",
-        "published_date": "2026-04-15 22:26:49",
-        "category": "Military"
+        "title": "Slovakia expects oil through repaired pipeline tomorrow",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/slovakiet-forventer-olie-gennem-repareret-roerledning-i-morgen",
+        "published_date": "2026-04-22 08:33:00",
+        "category": "Energy"
     },
     {
         "title": "FACTS: The Strait of Hormuz is crucial for the export of oil and natural gas",
@@ -357,13 +364,6 @@
         "category": "Energy"
     },
     {
-        "title": "Russia's oil earnings rise significantly amid unrest in the Middle East",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ruslands-olieindtjening-stiger-markant-under-uro-i-mellemoesten?referrer=RSS",
-        "published_date": "2026-04-14 11:30:46",
-        "category": "Energy"
-    },
-    {
         "title": "179-year-old country property falls into disrepair, while a million-dollar tax case is ongoing: Now a decision has been made",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/haderslev/179-aarige-landejendom-forfalder-mens-millionstor-skattesag-koerer-nu-er-der-faldet-afgoerelse?rss",
@@ -399,150 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "Fine reduces Saxo Bank's profits",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/boede-traekker-ned-i-saxo-banks-overskud?referrer=RSS",
-        "published_date": "2026-04-14 11:26:50",
-        "category": "Economy"
-    },
-    {
-        "title": "Gates Foundation orders review of own Epstein connections",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/gates-foundation-bestiller-gennemgang-af-egne-epstein-forbindelser?referrer=RSS",
-        "published_date": "2026-04-21 23:14:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dangerous caterpillar has spread on Funen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/farlig-larve-har-spredt-sig-paa-fyn?referrer=RSS",
-        "published_date": "2026-04-21 21:35:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chelsea's Champions League hopes are in shambles after relegation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/chelseas-champions-league-haab-ligger-i-ruiner-efter-afklapsning?referrer=RSS",
-        "published_date": "2026-04-21 21:10:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump says he's certainly not in a hurry.It doesn't fit, says the correspondent",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-siger-at-han-bestemt-ikke-har-travlt-det-passer-ikke-siger-korrespondent?referrer=RSS",
-        "published_date": "2026-04-21 20:46:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ten years after the golden triumph: Leicester is relegated to the third division",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ti-aar-efter-guldtriumf-leicester-rykker-ned-paa-tredje-klasse?referrer=RSS",
-        "published_date": "2026-04-21 20:45:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Herning places heavy emphasis on the DM final with another victory",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/herning-saetter-sig-tungt-paa-dm-finalen-med-fantastisk-minut",
-        "published_date": "2026-04-21 19:12:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lufthansa cancels 20,000 flights until October",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lufthansa-aflyser-20-000-afgange-frem-til-oktober",
-        "published_date": "2026-04-21 19:00:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish wrestler wins EC gold",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-bryder-vinder-guld-ved-em",
-        "published_date": "2026-04-21 18:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman detained for bomb threat against the airport in Nuuk",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bombetrussel-mod-lufthavnen-i-nuuk",
-        "published_date": "2026-04-21 17:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Good opportunities to see the Lyrid meteor shower",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/gode-muligheder-se-meteorsvaermen-lyriderne",
-        "published_date": "2026-04-21 16:49:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Royal Unibrew's stock plummets: Biggest drop ever",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/royal-unibrews-aktie-styrtdykker-stoerste-fald-nogensinde",
-        "published_date": "2026-04-21 15:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The war in the Middle East has consequences for the price of condoms",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/krigen-i-mellemoesten-faar-konsekvenser-prisen-paa-kondomer",
-        "published_date": "2026-04-21 15:08:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six wolves followed man in yard - had to fire shots",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/varde/seks-ulve-fulgte-efter-mand-paa-gaardsplads-i-oksboel?rss",
-        "published_date": "2026-04-21 15:03:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zelenskyy declares controversial pipeline ready for operation",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-melder-omstridt-roerledning-klar-til-drift",
-        "published_date": "2026-04-21 14:52:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wanted demented man in nursing home: Then he put a noose around her neck",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/ville-have-dement-mand-paa-plejehjem-saa-lagde-han-en-loekke-om-hendes-hals?rss",
-        "published_date": "2026-04-21 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The hottest day of the year so far measured in North Jutland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/aarets-varmeste-dag-indtil-nu-maalt-i-nordjylland",
-        "published_date": "2026-04-21 13:37:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities are 'attention' to incident where six wolves followed man into yard",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/myndigheder-er-opmaerksomme-paa-haendelse-hvor-seks-ulve-fulgte-efter-mand-ind-paa-gaardsplads",
-        "published_date": "2026-04-21 13:19:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Eight arrested for attacks on Jewish targets in London",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/otte-anholdt-angreb-mod-joediske-maal-i-london",
-        "published_date": "2026-04-21 13:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Moderate leader: Danish PM 'must make a choice' in government negotiations",
+        "title": "Why is a welfare agreement from 2006 affecting Danish government negotiations?",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260421/moderate-leader-danish-pm-must-make-a-choice-in-government-negotiations",
-        "published_date": "2026-04-21 12:08:53",
+        "url": "https://www.thelocal.dk/20260422/why-is-a-welfare-agreement-from-2006-affecting-danish-government-negotiations",
+        "published_date": "2026-04-22 12:17:25",
         "category": "Local Events"
     },
     {
-        "title": "Prices are skyrocketing: Old wooden Lego toys were again sold\u00a0for wild sums",
+        "title": "Ryanair shortens the check-in period by 20 minutes",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/ryanair-forkorter-periode-for-check-in-med-20-minutter?referrer=RSS",
+        "published_date": "2026-04-22 11:44:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "- Whether it is a double standard?Bettina herself changed parties - now she wants to remove Cecilie Liv Hansen",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/priserne-stikker-helt-af-gammelt-lego-legetoej-blev-igen-solgt-for-vildt-beloeb?rss",
-        "published_date": "2026-04-21 12:02:00",
+        "url": "https://jv.dk/kolding/om-det-er-dobbeltmoralsk-bettina-skiftede-selv-parti-nu-vil-hun-fjerne-cecilie-liv-hansen?rss",
+        "published_date": "2026-04-22 11:29:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "- Whether it is a double standard?Bettina herself changed parties - now she wants to remove Cecilie Liv Hansen",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/kerteminde/om-det-er-dobbeltmoralsk-bettina-skiftede-selv-parti-nu-vil-hun-fjerne-cecilie-liv-hansen?rss",
+        "published_date": "2026-04-22 11:29:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Roskilde Festival donates double-digit million profits to children and young people",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/roskilde-festival-donerer-tocifret-millionoverskud-til-boern-og-unge?referrer=RSS",
+        "published_date": "2026-04-22 11:22:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Changed abortion limit can be seen in the statistics",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/aendret-abortgraense-kan-ses-i-statistikkerne?referrer=RSS",
+        "published_date": "2026-04-22 11:19:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another man confesses to money laundering in Syrian family network",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/endnu-en-mand-tilstaar-hvidvask-i-syrisk-familienetvaerk?referrer=RSS",
+        "published_date": "2026-04-22 11:15:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Korean fighter jets collided because pilots were taking pictures",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/koreanske-kampfly-kolliderede-fordi-piloter-tog-billeder",
+        "published_date": "2026-04-22 11:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bjarne was stopped with a tiger in the trunk: Suddenly he was an animal smuggler",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/fynskemennesker/bjarne-blev-registreret-som-smugler-med-en-tiger-i-bagagerummet?rss",
+        "published_date": "2026-04-22 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Condoms become more expensive because of the Iran war",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/kondomer-bliver-dyrere-paa-grund-af-iran-krigen?referrer=RSS",
+        "published_date": "2026-04-22 10:54:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pharmacy employee confesses to cheating with medicine but refuses resale",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/apoteksansat-tilstaar-fusk-med-medicin-men-naegter-videresalg?referrer=RSS",
+        "published_date": "2026-04-22 10:51:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "SpaceX stands for largest stock market listing ever \u2013 application reveals two major risk factors",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/spacex-staar-til-stoerste-boersnotering-nogensinde--ansoegning-afsloerer-to-store-risikofaktorer?referrer=RSS",
+        "published_date": "2026-04-22 10:48:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "HK employees in municipalities and regions nod yes to the new collective agreement",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hk-ere-i-kommuner-og-regioner-nikker-ja-til-ny-overenskomst",
+        "published_date": "2026-04-22 10:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fugitive arrested after almost four months",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flugtfange-anholdt-efter-naesten-fire-maaneder",
+        "published_date": "2026-04-22 09:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "After a murder and two violent police actions in a short time: Now the police are reporting to the citizens",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/efter-drab-og-to-voldsomme-politiaktioner-paa-kort-tid-nu-kommer-politiet-med-melding-til-borgerne?rss",
+        "published_date": "2026-04-22 09:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260422/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-50",
+        "published_date": "2026-04-22 08:29:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Audi recalls cars due to suspected brake failure",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/audi-tilbagekalder-biler-efter-mistanke-om-bremsefejl",
+        "published_date": "2026-04-22 08:23:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least 20 Swedish schools closed after threats",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/16-svenske-skoler-lukket-efter-trusler",
+        "published_date": "2026-04-22 08:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "TUI drops sales expectations due to the war in Iran",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tui-dropper-salgsforventningerne-paa-grund-af-krigen-i-iran",
+        "published_date": "2026-04-22 08:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Historic property at Slotsby lies in ruins: Owned by a nationally known multi-billionaire - see the pictures",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/haderslev/historisk-ejendom-i-slotsby-ligger-i-ruiner-ejes-af-landskendt-multimilliardaer?rss",
+        "published_date": "2026-04-22 07:36:00",
         "category": "Local Events"
     }
 ]
