@@ -1,5 +1,19 @@
 [
     {
+        "title": "They got \"a regular lifeline at the last minute\".Ukraine \"plays high stakes\" in order to achieve the biggest gain",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/de-fik-en-regulaer-livline-i-sidste-oejeblik-ukraine-spiller-hoejt-spil-for-at-opnaa-den-helt-store-gevinst?referrer=RSS",
+        "published_date": "2026-04-23 20:43:40",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "'More and more' Americans in Europe look to renounce passports after fee cut",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260423/more-and-more-americans-in-europe-look-to-renounce-passports-after-fee-cut",
+        "published_date": "2026-04-23 16:27:42",
+        "category": "Diplomacy"
+    },
+    {
         "title": "'Resigned to it': Long waits at Copenhagen Airport six months after EES start",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260423/resigned-to-it-long-waits-at-copenhagen-airport-six-months-after-ees-start",
@@ -126,18 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "EU court states: Hungary has adopted a law that stigmatizes LGBT+ people",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-domstol-fastslaar-ungarn-har-vedtaget-lov-der-stigmatiserer-lgbt-personer",
-        "published_date": "2026-04-21 08:24:00",
-        "category": "Diplomacy"
+        "title": "Sources: Soldier arrested for making millions from Maduro operation",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kilder-soldat-anholdt-for-at-tjene-millioner-paa-maduro-operation?referrer=RSS",
+        "published_date": "2026-04-23 22:30:51",
+        "category": "Military"
     },
     {
-        "title": "The EU expects the oil pipeline dispute to be resolved this week",
+        "title": "Trump refuses to use nuclear weapons in Iran despite threats",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-afviser-at-bruge-atomvaaben-i-iran-trods-trusler?referrer=RSS",
+        "published_date": "2026-04-23 22:26:46",
+        "category": "Military"
+    },
+    {
+        "title": "Israel and Lebanon extend ceasefire by three weeks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/israel-og-libanon-forlaenger-vaabenhvile-med-tre-uger?referrer=RSS",
+        "published_date": "2026-04-23 22:00:48",
+        "category": "Military"
+    },
+    {
+        "title": "Police action with a military helicopter closed Storstr\u00f8msbro",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-forventer-strid-om-olieroerledning-loest-i-denne-uge",
-        "published_date": "2026-04-20 18:58:00",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/politiindsats-med-militaerhelikopter-lukkede-storstroemsbro",
+        "published_date": "2026-04-23 18:57:00",
+        "category": "Military"
     },
     {
         "title": "Journalist reportedly killed during Israeli attack in Lebanon",
@@ -252,34 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Macron: French soldier killed in southern Lebanon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/macron-fransk-soldat-draebt-i-det-sydlige-libanon",
-        "published_date": "2026-04-18 12:23:00",
-        "category": "Military"
-    },
-    {
-        "title": "Man arrested in major police operation jailed for weapons and drugs",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-anholdt-i-stor-politiaktion-faengsles-for-vaaben-og-narko?referrer=RSS",
-        "published_date": "2026-04-18 10:44:44",
-        "category": "Military"
-    },
-    {
-        "title": "Media: Iran closes Strait of Hormuz again due to US blockade",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/medier-iran-lukker-hormuzstraedet-igen-paa-grund-af-usas-blokade?referrer=RSS",
-        "published_date": "2026-04-18 09:18:44",
-        "category": "Military"
-    },
-    {
-        "title": "Sweden's king visits Ukraine and meets with Zelenskyj",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/sveriges-konge-besoeger-ukraine-og-moedes-med-zelenskyj?referrer=RSS",
-        "published_date": "2026-04-17 11:04:45",
-        "category": "Military"
-    },
-    {
         "title": "Magasin increased both profit and revenue last year",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/magasin-oegede-baade-overskud-og-omsaetning-sidste-aar?referrer=RSS",
@@ -357,13 +357,6 @@
         "category": "Energy"
     },
     {
-        "title": "Norwegian oil exports in March set a record",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norsk-olieeksport-i-marts-satte-rekord",
-        "published_date": "2026-04-15 16:55:00",
-        "category": "Energy"
-    },
-    {
         "title": "179-year-old country property falls into disrepair, while a million-dollar tax case is ongoing: Now a decision has been made",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/haderslev/179-aarige-landejendom-forfalder-mens-millionstor-skattesag-koerer-nu-er-der-faldet-afgoerelse?rss",
@@ -399,10 +392,115 @@
         "category": "Economy"
     },
     {
+        "title": "NFL head coach takes a break after photo scandal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/cheftraener-i-nfl-tager-pause-efter-fotoskandale?referrer=RSS",
+        "published_date": "2026-04-23 23:32:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump: Helpful if Putin comes to the G20 summit in the USA",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-behjaelpeligt-hvis-putin-kommer-til-g20-topmoede-i-usa?referrer=RSS",
+        "published_date": "2026-04-23 23:24:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "34-year-old man was cut in the face with a knife",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/34-aarig-mand-blev-skaaret-i-ansigtet-med-kniv?referrer=RSS",
+        "published_date": "2026-04-23 22:59:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meta will lay off ten percent of its employees",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/meta-vil-afskedige-ti-procent-af-sine-medarbejdere?referrer=RSS",
+        "published_date": "2026-04-23 21:36:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Intel's stock rises sharply on new accounts",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/intels-aktie-stiger-kraftigt-oven-paa-nyt-regnskab?referrer=RSS",
+        "published_date": "2026-04-23 21:11:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mors-Thy and Skanderborg burst into the semi-finals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/mors-thy-og-skanderborg-gaar-i-udbrud-mod-semifinalen?referrer=RSS",
+        "published_date": "2026-04-23 20:37:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "24-year-old was hit by gunfire in a village near Herning",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/24-aarig-blev-ramt-af-skud-i-landsby-naer-herning",
+        "published_date": "2026-04-23 20:14:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Board puts internship applications from three African countries on hold",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/styrelse-saetter-praktikansoegninger-fra-tre-afrikanske-lande-i-bero",
+        "published_date": "2026-04-23 17:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Absolutely wild', says archaeologist about new find of gold earrings in North Jutland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fuldstaendig-vildt-siger-arkaeolog-om-nyt-fund-af-guldarmringe-i-nordjylland",
+        "published_date": "2026-04-23 15:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Passengers on the Gribskovbanen must take train buses for the rest of the day and tomorrow",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/passagerer-paa-gribskovbanen-skal-med-togbusser-resten-af-dagen-og-i-morgen",
+        "published_date": "2026-04-23 15:19:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "18 wolves found dead in Italian national park: Poisoning suspected",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/18-ulve-fundet-doede-i-italiensk-nationalpark-mistanke-om-forgiftning",
+        "published_date": "2026-04-23 15:14:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lorry drives through traffic barrier at Skanderborg - massive queue on E45",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lastbil-koerer-gennem-autovaern-ved-skanderborg-massiv-koe-paa-e45",
+        "published_date": "2026-04-23 14:54:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "16-year-old Swede remanded in custody after shooting in Aalborg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/16-aarig-svensker-varetaegtsfaengslet-efter-skyderi-i-aalborg",
+        "published_date": "2026-04-23 13:42:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Minor breakthrough as Moderates rejoin Danish government negotiations",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260423/minor-breakthrough-as-moderates-rejoin-danish-government-negotiations",
         "published_date": "2026-04-23 12:44:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police officer charged with rape and abuse of position",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiansat-sigtet-voldtaegt-og-stillingsmisbrug",
+        "published_date": "2026-04-23 12:26:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Central and West Jutland Police present in large numbers: Person shot in village near Herning",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/midt-og-vestjyllands-politi-talstaerkt-til-stede-person-skudt-i-landsby-ved-herning",
+        "published_date": "2026-04-23 12:13:00",
         "category": "Local Events"
     },
     {
@@ -431,111 +529,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/lazio-traener-trygler-fans-om-at-droppe-boykot-i-finale?referrer=RSS",
         "published_date": "2026-04-23 11:35:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 4-year-old girl in a swimsuit with a g-string got Mai to the keys: - It's turning inside me",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/4-aarig-pige-i-badedragt-med-g-streng-fik-mai-til-tasterne-det-vender-sig-i-mig?rss",
-        "published_date": "2026-04-23 11:33:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The crisis center for those affected by the train accident in North Zealand is closing again",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/krisecenter-for-beroerte-af-togulykke-i-nordsjaelland-lukker-igen?referrer=RSS",
-        "published_date": "2026-04-23 11:32:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "More complaints about the police",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-klager-over-politiet",
-        "published_date": "2026-04-23 11:24:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "He is an expert in recruitment and knows what headhunters are looking for.Now he points to one type of leader in high demand",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/talent-100/han-er-ekspert-i-rekruttering-og-ved-hvad-headhuntere-efterspoerger-nu-peger-han-paa-en-type-af-leder-i-hoej-kurs?referrer=RSS",
-        "published_date": "2026-04-23 10:56:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police: Deliberate action behind explosion in Glostrup",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-bevidst-handling-bag-eksplosion-i-glostrup",
-        "published_date": "2026-04-23 09:47:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Find other routes': Drivers in Denmark warned of delays after train crash",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260423/find-other-routes-drivers-in-denmark-warned-of-delays-after-train-crash",
-        "published_date": "2026-04-23 09:44:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The next names are in place: Viper winds his way back to Gr\u00f8n - and Mumble makes his debut",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/nu-er-plakaten-fuldendt-hugorm-snor-sig-tilbage-til-groen-og-mumle-debuterer?rss",
-        "published_date": "2026-04-23 08:52:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Thursday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260423/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-38",
-        "published_date": "2026-04-23 08:30:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "New case of football assault: 21-year-old man to go to court",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-sag-om-fodbold-overfald-21-aarig-mand-skal-retten",
-        "published_date": "2026-04-23 08:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "LATEST: 17 injured including 5 critically after train crash in Denmark",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260423/multiple-injuries-after-two-trains-collide-near-hillerod",
-        "published_date": "2026-04-23 08:14:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "After the discovery of dismembered body parts at a residential area: Now the police have new information on the case",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/vejen/efter-fund-af-parterede-kropsdele-ved-skovomraade-nu-har-politiet-nyt-i-sagen?rss",
-        "published_date": "2026-04-23 06:47:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "After an hour with a speedometer on Funen: Three conditional driving license suspensions",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-en-time-med-fartmaaler-paa-fyn-tre-betingede-frakendelser-af-koerekortet",
-        "published_date": "2026-04-23 05:51:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police are looking for witnesses to the explosion in Glostrup",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-soeger-vidner-til-eksplosion-i-glostrup",
-        "published_date": "2026-04-23 05:06:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reacts sharply after wolf decision - see what the locals say in the video: - The wolves must go",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/vejen/reagerer-skarpt-efter-ulvebeslutning-se-hvad-de-lokale-siger-i-videoen-de-ulve-skal-vaek?rss",
-        "published_date": "2026-04-23 05:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police: Body parts in the Road originate from a Polish man",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-legemsdele-i-vejen-stammer-fra-polsk-mand",
-        "published_date": "2026-04-23 04:57:55",
         "category": "Local Events"
     }
 ]
