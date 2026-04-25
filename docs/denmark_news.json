@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Ukrainians tell about sabotage against Nord Stream in new book",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/ukrainere-fortaeller-om-sabotage-mod-nord-stream-i-ny-bog?referrer=RSS",
+        "published_date": "2026-04-25 21:15:56",
+        "category": "Military"
+    },
+    {
+        "title": "Netanyahu orders heavy strikes against Hezbollah in Lebanon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/netanyahu-beordrer-kraftige-angreb-mod-hizbollah-i-libanon?referrer=RSS",
+        "published_date": "2026-04-25 18:52:47",
+        "category": "Military"
+    },
+    {
         "title": "Ukraine attacked with missiles and 619 drones - four dead",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/ukraine-angrebet-med-missiler-og-619-droner",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Iran's top negotiator warns: We have new cards in hand on the battlefield",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/irans-topforhandler-advarer-vi-har-nye-kort-paa-haanden-paa-slagmarken?referrer=RSS",
-        "published_date": "2026-04-20 23:05:48",
-        "category": "Military"
-    },
-    {
-        "title": "Ammunition disposal officers from the Norwegian Armed Forces investigate an apartment in Slagelse",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/ammunitionsryddere-fra-forsvaret-undersoeger-lejlighed-i-slagelse?referrer=RSS",
-        "published_date": "2026-04-20 20:03:44",
-        "category": "Military"
-    },
-    {
         "title": "The wind knocks electricity prices to the bottom at the weekend",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/blaesten-banker-elpriserne-i-bund-i-weekenden",
@@ -364,13 +364,6 @@
         "category": "Energy"
     },
     {
-        "title": "Oil prices plunge after news of the opening of the Strait of Hormuz",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/oliepriserne-dykker-efter-melding-om-aabning-af-hormuzstraedet",
-        "published_date": "2026-04-17 13:42:00",
-        "category": "Energy"
-    },
-    {
         "title": "Lawyer took DKK 32,600 for a day's work - the citizens\npays",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/varde/hver-times-arbejde-koster-2-400-kroner-pris-for-undersoegelse-af-byroedder-stiger-fortsat?rss",
@@ -420,6 +413,104 @@
         "category": "Economy"
     },
     {
+        "title": "Roads near the train accident on the Gribskovbanen are open again",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/veje-naer-togulykke-paa-gribskovbanen-er-aabne-igen?referrer=RSS",
+        "published_date": "2026-04-25 22:34:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish badminton women have no chance against China at the team WC",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/danske-badmintonkvinder-er-chanceloese-mod-kina-ved-hold-vm?referrer=RSS",
+        "published_date": "2026-04-25 21:11:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seven people are reported killed in bomb attacks before elections in Colombia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/syv-personer-meldes-draebt-i-bombeangreb-foer-valg-i-colombia?referrer=RSS",
+        "published_date": "2026-04-25 20:18:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Consumer Ombudsman is investigating the Wish Cloud for possible hidden advertising",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/forbrugerombudsmanden-undersoeger-oenskeskyen-for-mulig-skjult-reklame?referrer=RSS",
+        "published_date": "2026-04-25 19:36:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Apostate Association: S\u00f8ren Pind raises an important point about ex-Muslims",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/foreningen-frafalden-soeren-pind-rejser-en-vigtig-pointe-om-eksmuslimer?referrer=RSS",
+        "published_date": "2026-04-25 19:34:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wanted woman with Alzheimer's found safe",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/koebenhavns-politi-efterlyser-kvinde-med-alzheimers",
+        "published_date": "2026-04-25 19:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The sporty, childless women are everywhere in the city.For the young, right-wing poet, it symbolizes the decline of the West",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/samfund/de-sportslige-barnloese-kvinder-er-overalt-i-bybilledet-for-den-unge-hoejreorienterede-digter-symboliserer-det-vestens-forfald?referrer=RSS",
+        "published_date": "2026-04-25 19:13:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sheila marveled at the detail: Then Palle fell to his knees at the icy water's edge",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/fynskemennesker/sheila-undrede-sig-over-lille-detalje-saa-faldt-palle-paa-knae-i-den-iskolde-vandkant?rss",
+        "published_date": "2026-04-25 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Arsenal get back on track and put pressure on City",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/arsenal-kommer-tilbage-paa-sporet-og-laegger-pres-paa-city?referrer=RSS",
+        "published_date": "2026-04-25 18:33:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "A violent gang is the driving force behind the cocaine trade Trump promised to end",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/en-voldelig-bande-er-drivkraften-bag-den-kokainhandel-trump-lovede-at-stoppe?referrer=RSS",
+        "published_date": "2026-04-25 18:31:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "After defeat, Orb\u00e1n will not sit in Hungary's parliament",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efter-nederlag-vil-orban-ikke-sidde-i-ungarns-parlament",
+        "published_date": "2026-04-25 16:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "1,000 firefighters are fighting a wildfire in Japan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/1-000-brandfolk-kaemper-mod-naturbrand-i-japan",
+        "published_date": "2026-04-25 15:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Problems in passport control at Copenhagen Airport resolved",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lange-ventetider-i-paskontrollen-i-koebenhavns-lufthavn",
+        "published_date": "2026-04-25 13:07:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two wanted in a case of knife murder in Holstebro have turned themselves in",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-personer-i-sag-om-knivdrab-i-holstebro",
+        "published_date": "2026-04-25 12:55:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Denmark therefore needs a new prime minister",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kommentatorer/danmark-traenger-altsaa-til-en-ny-statsminister?referrer=RSS",
@@ -459,104 +550,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/odense-haandbold-har-brug-for-mirakel-i-champions-league?referrer=RSS",
         "published_date": "2026-04-25 10:36:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside Denmark: Does Copenhagen need to combat overtourism?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260425/inside-denmark-does-copenhagen-need-to-combat-overtourism",
-        "published_date": "2026-04-25 10:09:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two months of war in the Middle East without a victor",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/to-maaneders-krig-i-mellemoesten-uden-en-sejrherre?referrer=RSS",
-        "published_date": "2026-04-25 09:44:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Small increase in the proportion of Danes who are screened for bowel cancer",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lille-stigning-i-andel-af-danskere-der-bliver-screenet-tarmkraeft",
-        "published_date": "2026-04-25 09:42:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "He was brought up with refugee collections and red solidarity.Now he is the Danish People's Party's new comet",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/han-er-opdraget-med-flygtningeindsamlinger-og-roed-solidaritet-nu-er-han-dansk-folkepartis-nye-komet?referrer=RSS",
-        "published_date": "2026-04-25 09:19:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Comedian resumes tour after kneecap accident on stage",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/komiker-genoptager-turne-efter-knaeskals-ulykke-paa-scenen?referrer=RSS",
-        "published_date": "2026-04-25 09:14:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cancer patients: We deserve equal access to innovative medicine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/kraeftpatienter-vi-fortjener-lige-adgang-til-innovativ-medicin?referrer=RSS",
-        "published_date": "2026-04-25 09:09:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crisis centers get weighted duvets: 'They help the women find peace'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/krisecentre-faar-tyngdedyner-de-hjaelper-kvinderne-med-finde-ro",
-        "published_date": "2026-04-25 09:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Actor finished in 'The White Lotus', shortly after filming began",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skuespiller-faerdig-i-white-lotus-kort-efter-optagelser-er-begyndt",
-        "published_date": "2026-04-25 08:31:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chicken livers from the canteen gave employees an upset stomach - now Meyers has been fined",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kyllingelever-fra-kantine-gav-ansatte-daarlig-mave-nu-har-meyers-faaet-boede",
-        "published_date": "2026-04-25 07:07:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drone debris from Russian attack crashed in Romania",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dronerester-fra-russisk-angreb-faldet-ned-i-rumaenien",
-        "published_date": "2026-04-25 04:52:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man stabbed to death in Holstebro last night",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-knivdraebt-i-holstebro-i-nat",
-        "published_date": "2026-04-25 04:41:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Antonsen and co.gives South Koreans an itch in Horsens",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/antonsen-og-co-giver-sydkoreanere-kloe-i-horsens?referrer=RSS",
-        "published_date": "2026-04-24 23:25:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "13 people are reported killed in Israeli attacks in Gaza",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/13-personer-meldes-draebt-i-israelske-angreb-i-gaza?referrer=RSS",
-        "published_date": "2026-04-24 22:55:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Argentina proposes new talks on the Falkland Islands",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/argentina-foreslaar-nye-forhandlinger-om-falklandsoeerne?referrer=RSS",
-        "published_date": "2026-04-24 21:33:53",
         "category": "Local Events"
     }
 ]
