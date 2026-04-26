@@ -1,5 +1,12 @@
 [
     {
+        "title": "Geopolitics threatens 70th anniversary of Eurovision",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260426/geopolitics-threatens-70th-anniversary-of-eurovision",
+        "published_date": "2026-04-26 13:03:11",
+        "category": "Diplomacy"
+    },
+    {
         "title": "REVEALED: The countries in Europe that will buck the trend and grow in population",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260425/revealed-the-countries-in-europe-that-will-buck-the-trend-and-grow-in-population",
@@ -130,13 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/14-aarig-dansk-dreng-fundet-doed-efter-badeulykke-i-italien?referrer=RSS",
         "published_date": "2026-04-21 20:24:48",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Museum will create better well-being among young people through needlework",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/museum-vil-skabe-bedre-trivsel-blandt-unge-gennem-haandarbejde",
-        "published_date": "2026-04-21 15:11:00",
         "category": "Diplomacy"
     },
     {
@@ -413,6 +413,125 @@
         "category": "Economy"
     },
     {
+        "title": "West Jutland sheep were killed behind a wolf-proof fence - it happens so often: Pia is no longer safe at the fence",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/vestjyske-faar-blev-draebt-bag-ulvesikret-hegn-saa-ofte-sker-det-pia-er-ikke-laengere-tryg-ved-hegnet?rss",
+        "published_date": "2026-04-26 13:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Well-known jazz musician died after a long illness",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kendt-jazzmusiker-doed-efter-laengere-tids-sygdom",
+        "published_date": "2026-04-26 11:26:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Then you are Danish",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/poesi/da-er-du-dansk?referrer=RSS",
+        "published_date": "2026-04-26 11:22:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Journalist attended press dinner: No one checked my ID",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/journalist-deltog-i-pressemiddag-ingen-tjekkede-mit-id?referrer=RSS",
+        "published_date": "2026-04-26 11:21:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kenyan breaks magic limit and sets marathon record",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kenyaner-bryder-magisk-graense-og-saetter-maratonrekord?referrer=RSS",
+        "published_date": "2026-04-26 11:21:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish jazz saxophonist has died after a long illness",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dansk-jazzsaxofonist-er-doed-efter-laengere-tids-sygdom?referrer=RSS",
+        "published_date": "2026-04-26 11:14:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Guardiola gives players mini-vacation before close finish",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/guardiola-giver-spillere-miniferie-foer-taet-afslutning?referrer=RSS",
+        "published_date": "2026-04-26 10:35:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "More younger adults should prevent widespread disease, experts say.Two scenarios show if you are one of them",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/vores-liv/flere-yngre-voksne-boer-forebygge-udbredt-sygdom-siger-eksperter-to-scenarier-viser-om-du-er-en-af-dem?referrer=RSS",
+        "published_date": "2026-04-26 10:02:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "2,600 guests were still sitting with the burrata in front of them when everyone suddenly took cover: This is how the shooting episode unfolded in Washington, D.C.",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/2600-gaester-sad-stadig-med-burrataen-foran-sig-da-alle-pludselig-soegte-daekning-saadan-udfoldede-skudepisoden-sig-i-washington-dc?referrer=RSS",
+        "published_date": "2026-04-26 09:48:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police present at deaths in B\u00e6kke",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-til-stede-ved-doedsfald-i-baekke",
+        "published_date": "2026-04-26 09:48:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are investigating deaths in a small town in southern Jutland",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-undersoeger-doedsfald-i-lille-sydjysk-by?referrer=RSS",
+        "published_date": "2026-04-26 09:42:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "FACTS: 31-year-old man is suspected of being behind the shooting at Trump",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fakta-31-aarig-mand-mistaenkes-at-staa-bag-skud-mod-trump?referrer=RSS",
+        "published_date": "2026-04-26 09:42:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "After shooting: The British cooperate with the US ahead of the royal visit",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/efter-skyderi-briterne-samarbejder-med-usa-forud-for-kongebesoeg?referrer=RSS",
+        "published_date": "2026-04-26 09:38:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are investigating suspicious circumstances: 49-year-old man dead",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/vejen/politi-til-stede-undersoeger-mistaenkeligt-forhold?rss",
+        "published_date": "2026-04-26 09:16:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The broken bridge has cost the farmer 38,000 liters of extra fuel and a huge bill",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/esbjerg/oedelagt-bro-har-kostet-landmand-38-000-liter-ekstra-braendstof-og-en-kaemperegning?rss",
+        "published_date": "2026-04-26 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mini digger crashed over a man: Now the company risks being reported to the police",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/trekantomraadet/minigraver-styrtede-ned-over-mand-nu-risikerer-firma-at-blive-meldt-til-politiet?rss",
+        "published_date": "2026-04-26 05:04:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Donald Trump evacuated after shooting at press dinner",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/donald-trump-evakueret-af-agenter-under-pressemiddag-efter-hoeje-lyde",
+        "published_date": "2026-04-26 00:51:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Roads near the train accident on the Gribskovbanen are open again",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/veje-naer-togulykke-paa-gribskovbanen-er-aabne-igen?referrer=RSS",
@@ -431,125 +550,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/syv-personer-meldes-draebt-i-bombeangreb-foer-valg-i-colombia?referrer=RSS",
         "published_date": "2026-04-25 20:18:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Consumer Ombudsman is investigating the Wish Cloud for possible hidden advertising",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/forbrugerombudsmanden-undersoeger-oenskeskyen-for-mulig-skjult-reklame?referrer=RSS",
-        "published_date": "2026-04-25 19:36:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Apostate Association: S\u00f8ren Pind raises an important point about ex-Muslims",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/foreningen-frafalden-soeren-pind-rejser-en-vigtig-pointe-om-eksmuslimer?referrer=RSS",
-        "published_date": "2026-04-25 19:34:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wanted woman with Alzheimer's found safe",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/koebenhavns-politi-efterlyser-kvinde-med-alzheimers",
-        "published_date": "2026-04-25 19:24:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The sporty, childless women are everywhere in the city.For the young, right-wing poet, it symbolizes the decline of the West",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/de-sportslige-barnloese-kvinder-er-overalt-i-bybilledet-for-den-unge-hoejreorienterede-digter-symboliserer-det-vestens-forfald?referrer=RSS",
-        "published_date": "2026-04-25 19:13:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sheila marveled at the detail: Then Palle fell to his knees at the icy water's edge",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/fynskemennesker/sheila-undrede-sig-over-lille-detalje-saa-faldt-palle-paa-knae-i-den-iskolde-vandkant?rss",
-        "published_date": "2026-04-25 19:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Arsenal get back on track and put pressure on City",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/arsenal-kommer-tilbage-paa-sporet-og-laegger-pres-paa-city?referrer=RSS",
-        "published_date": "2026-04-25 18:33:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "A violent gang is the driving force behind the cocaine trade Trump promised to end",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-voldelig-bande-er-drivkraften-bag-den-kokainhandel-trump-lovede-at-stoppe?referrer=RSS",
-        "published_date": "2026-04-25 18:31:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "After defeat, Orb\u00e1n will not sit in Hungary's parliament",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-nederlag-vil-orban-ikke-sidde-i-ungarns-parlament",
-        "published_date": "2026-04-25 16:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "1,000 firefighters are fighting a wildfire in Japan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/1-000-brandfolk-kaemper-mod-naturbrand-i-japan",
-        "published_date": "2026-04-25 15:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Problems in passport control at Copenhagen Airport resolved",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lange-ventetider-i-paskontrollen-i-koebenhavns-lufthavn",
-        "published_date": "2026-04-25 13:07:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two wanted in a case of knife murder in Holstebro have turned themselves in",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-personer-i-sag-om-knivdrab-i-holstebro",
-        "published_date": "2026-04-25 12:55:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark therefore needs a new prime minister",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/danmark-traenger-altsaa-til-en-ny-statsminister?referrer=RSS",
-        "published_date": "2026-04-25 11:03:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "King Frederik has been on a sleigh ride in Greenland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/kong-frederik-har-vaeret-paa-slaedetur-i-groenland?referrer=RSS",
-        "published_date": "2026-04-25 10:57:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "King Frederik has been in Greenland with the Sirius Patrol",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kong-frederik-har-vaeret-i-groenland-med-siriuspatruljen",
-        "published_date": "2026-04-25 10:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "21-year-old charged with possession of 202 kilos of amphetamine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/21-aarig-sigtet-for-besiddelse-af-202-kilo-amfetamin?referrer=RSS",
-        "published_date": "2026-04-25 10:36:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inequality in bowel cancer screening is significant",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/ulighed-i-screening-for-tarmkraeft-er-betydelig?referrer=RSS",
-        "published_date": "2026-04-25 10:36:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Odense Handball needs a miracle in the Champions League",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/odense-haandbold-har-brug-for-mirakel-i-champions-league?referrer=RSS",
-        "published_date": "2026-04-25 10:36:49",
         "category": "Local Events"
     }
 ]
