@@ -1,5 +1,19 @@
 [
     {
+        "title": "EU anti-waste law: New laptops sold in Europe must now use USB-C chargers",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260428/eu-anti-waste-law-new-laptops-sold-in-europe-must-now-use-usb-c-chargers",
+        "published_date": "2026-04-28 12:16:33",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Europe's budget airlines first to cut flights as jet fuel prices soar",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260428/budget-airlines-first-to-cut-flights-as-jet-fuel-prices-soar",
+        "published_date": "2026-04-28 08:39:16",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Eurovision organizer calls for recordings of the Melodi Grand Prix final in Denmark in 1964",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/eurovision-arrangoer-efterlyser-optagelser-af-melodigrandprix-finalen-i-danmark-i-1964",
@@ -123,20 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/flere-i-epstein-udvalg-taler-for-benaadning-af-ghislaine-maxwell?referrer=RSS",
         "published_date": "2026-04-22 23:18:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The EU gives provisional approval for loans to Ukraine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eu-giver-foreloebig-godkendelse-til-laan-til-ukraine?referrer=RSS",
-        "published_date": "2026-04-22 11:33:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "FACTS: The EU is expanding its green toolbox in light of the oil crisis",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fakta-eu-udvider-groen-vaerktoejskasse-i-lyset-af-oliekrise?referrer=RSS",
-        "published_date": "2026-04-22 10:55:57",
         "category": "Diplomacy"
     },
     {
@@ -280,6 +280,13 @@
         "category": "Military"
     },
     {
+        "title": "The spring sun provides the lowest electricity prices of the year",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/foraarssolen-giver-aarets-laveste-elpriser?referrer=RSS",
+        "published_date": "2026-04-28 11:54:55",
+        "category": "Energy"
+    },
+    {
         "title": "Customers with a fixed price agreement pay more for electricity",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/kunder-med-fastprisaftale-betaler-mere-stroem",
@@ -350,11 +357,18 @@
         "category": "Energy"
     },
     {
-        "title": "Elmer M\u00f8ller takes the French scalp and approaches a big tournament",
+        "title": "ChatGPT was synonymous with artificial intelligence \u2013 now they are losing ground",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/elmer-moeller-tager-fransk-skalp-og-naermer-sig-stor-turnering?referrer=RSS",
-        "published_date": "2026-04-20 11:14:47",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/business/chatgpt-var-synonym-med-kunstig-intelligens--nu-mister-de-terraen?referrer=RSS",
+        "published_date": "2026-04-28 12:10:01",
+        "category": "Economy"
+    },
+    {
+        "title": "Insurance shares fall after Supreme Court ruling on lost business ability",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/forsikringsaktier-falder-efter-hoejesteretsdom-om-tabt-erhvervsevne?referrer=RSS",
+        "published_date": "2026-04-28 11:54:59",
+        "category": "Economy"
     },
     {
         "title": "Now L\u00f8kke and Mette Frederiksen must see if they can agree",
@@ -399,157 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "Capital city mayors in joint call:\u00a0We contribute with such large sums that it affects our own well-being",
+        "title": "After several years of running, it should be certain: This year, Roskilde Festival will have a new main stage",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/hovedstadsborgmestre-i-faelles-opraabvi-bidrager-med-saa-store-beloeb-at-det-rammer-vores-egen-velfaerd?referrer=RSS",
-        "published_date": "2026-04-20 11:34:42",
-        "category": "Economy"
-    },
-    {
-        "title": "Fund with some of the country's richest behind it buys into entrepreneurial business for millions",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/fond-med-nogle-af-landets-rigeste-bag-sig-koeber-sig-ind-i-lokal-ivaerksaettervirksomhed-for-millioner?rss",
-        "published_date": "2026-04-20 05:39:00",
-        "category": "Economy"
-    },
-    {
-        "title": "American woman gives birth to daughter on board a plane in the USA",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amerikansk-kvinde-foeder-datter-om-bord-paa-et-fly-i-usa?referrer=RSS",
-        "published_date": "2026-04-27 23:28:48",
+        "url": "https://www.berlingske.dk/oplevelser/efter-flere-aars-tilloeb-skulle-det-vaere-ganske-vist-i-aar-faar-roskilde-festival-ny-hovedscene?referrer=RSS",
+        "published_date": "2026-04-28 12:16:14",
         "category": "Local Events"
     },
     {
-        "title": "Elon Musk accuses OpenAI of profiting from artificial intelligence",
+        "title": "Four men escape punishment in delayed case of embassy vandalism",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/elon-musk-anklager-openai-for-at-profitere-paa-kunstig-intelligens?referrer=RSS",
-        "published_date": "2026-04-27 23:18:47",
+        "url": "https://www.berlingske.dk/indland/fire-maend-slipper-for-straf-i-forsinket-sag-om-ambassadehaervaerk?referrer=RSS",
+        "published_date": "2026-04-28 12:11:47",
         "category": "Local Events"
     },
     {
-        "title": "The police are investigating suspicious circumstances in Odense",
+        "title": "The British darts comet is proud of historic achievement",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-undersoeger-mistaenkeligt-forhold-i-odense?referrer=RSS",
-        "published_date": "2026-04-27 22:55:46",
+        "url": "https://www.berlingske.dk/sport/britisk-dartkomet-er-stolt-over-historisk-bedrift?referrer=RSS",
+        "published_date": "2026-04-28 12:04:50",
         "category": "Local Events"
     },
     {
-        "title": "Kenyan volunteered to be tested for doping before historic performance",
+        "title": "When will there be a new government?Five analysts come up with their best guess",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kenyaner-lod-sig-frivilligt-teste-for-doping-foer-historisk-praestation?referrer=RSS",
-        "published_date": "2026-04-27 22:21:46",
+        "url": "https://www.berlingske.dk/politik/hvornaar-kommer-der-en-ny-regering-fem-analytikere-kommer-med-deres-bedste-bud?referrer=RSS",
+        "published_date": "2026-04-28 11:57:12",
         "category": "Local Events"
     },
     {
-        "title": "Trump receives British royal couple at the White House",
+        "title": "A locomotive driver has been discharged after a train accident on the Gribskov line",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-tager-imod-britisk-kongepar-i-det-hvide-hus?referrer=RSS",
-        "published_date": "2026-04-27 21:41:09",
+        "url": "https://www.berlingske.dk/indland/en-lokomotivfoerer-er-udskrevet-efter-togulykke-paa-gribskovbanen?referrer=RSS",
+        "published_date": "2026-04-28 11:50:46",
         "category": "Local Events"
     },
     {
-        "title": "Possible successor to slain cartel leader arrested in Mexico",
+        "title": "More Danes pull the training clothes in the sports associations",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mulig-efterfoelger-til-draebt-kartelleder-er-anholdt-i-mexico?referrer=RSS",
-        "published_date": "2026-04-27 21:40:49",
+        "url": "https://www.berlingske.dk/danmark/flere-danskere-traekker-i-traeningstoejet-i-idraetsforeningerne?referrer=RSS",
+        "published_date": "2026-04-28 11:46:50",
         "category": "Local Events"
     },
     {
-        "title": "United take a narrow victory over Brentford after Jensen's drone",
+        "title": "From now on, cats must be ID tagged and registered just like dogs",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/united-tager-snaever-sejr-over-brentford-efter-jensens-droen?referrer=RSS",
-        "published_date": "2026-04-27 21:03:48",
+        "url": "https://www.berlingske.dk/danmark/fremover-skal-katte-id-maerkes-og-registreres-ligesom-hunde?referrer=RSS",
+        "published_date": "2026-04-28 11:20:55",
         "category": "Local Events"
     },
     {
-        "title": "Multimillionaire to form government in Iraq after Trump threat",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/multimillionaer-skal-danne-regering-i-irak-efter-trump-trussel?referrer=RSS",
-        "published_date": "2026-04-27 21:00:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman arrested for stabbing in Amager: Man in hospital",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/kvinde-anholdt-for-knivstik-paa-amager-mand-paa-hospitalet?referrer=RSS",
-        "published_date": "2026-04-27 20:15:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "22-year-old becomes the first woman to win a professional darts tournament",
+        "title": "The one locomotive driver from last week's accident has been discharged from hospital",
         "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/22-aarig-bliver-den-foerste-kvinde-til-vinde-en-professionel-dartturnering",
-        "published_date": "2026-04-27 20:14:00",
+        "url": "https://www.dr.dk/nyheder/seneste/den-ene-lokomotivfoerer-fra-sidste-uges-ulykke-er-udskrevet-fra-hospitalet",
+        "published_date": "2026-04-28 11:18:00",
         "category": "Local Events"
     },
     {
-        "title": "King Charles and Queen Camilla have arrived in the United States",
+        "title": "Conservatives get a new political rapporteur",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kong-charles-og-dronning-camilla-er-ankommet-til-usa",
-        "published_date": "2026-04-27 18:50:00",
+        "url": "https://www.dr.dk/nyheder/seneste/konservative-faar-ny-politisk-ordfoerer",
+        "published_date": "2026-04-28 11:12:00",
         "category": "Local Events"
     },
     {
-        "title": "Trump demands talk show host fired after widow joke",
+        "title": "Shot fired in residential area: 31-year-old arrested in massive police operation",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/31-aarig-mand-anholdt-efter-afgivelse-af-skud?rss",
+        "published_date": "2026-04-28 11:04:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shooting in Greve is being investigated as attempted murder",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-kraever-talkshow-vaert-fyret-efter-enke-joke",
-        "published_date": "2026-04-27 18:43:00",
+        "url": "https://www.dr.dk/nyheder/seneste/skyderi-i-greve-efterforskes-som-drabsforsoeg",
+        "published_date": "2026-04-28 11:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Birgitte's daughter has received custodial sentences and mistreatment: - I call it torture",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/varde/birgittes-datter-har-faaet-forvaringsdomme-og-fejlbehandling-jeg-kalder-det-tortur?rss",
-        "published_date": "2026-04-27 18:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "German tourist has died after snake bite at hotel in Hurghada",
+        "title": "Yet another organization breaks off cooperation with Crown Princess Mette-Marit",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tysk-turist-er-doed-efter-slangebid-paa-hotel-i-hurghada",
-        "published_date": "2026-04-27 17:42:00",
+        "url": "https://www.dr.dk/nyheder/seneste/endnu-en-organisation-afbryder-samarbejdet-med-kronprinsesse-mette-marit",
+        "published_date": "2026-04-28 10:40:00",
         "category": "Local Events"
     },
     {
-        "title": "Anthony Joshua is making a comeback after the car accident that claimed the lives of friends",
+        "title": "Rubio on Iran: 'The fundamental problem still needs to be dealt with'",
         "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/anthony-joshua-goer-comeback-efter-bilulykke-som-kostede-venner-livet",
-        "published_date": "2026-04-27 15:41:00",
+        "url": "https://www.dr.dk/nyheder/seneste/rubio-om-iran-det-grundlaeggende-problem-skal-stadig-haandteres",
+        "published_date": "2026-04-28 10:25:00",
         "category": "Local Events"
     },
     {
-        "title": "New platforms at Copenhagen Airport mean ten more trains an hour",
+        "title": "Almost 200 complained about NRK's \u200b\u200binterview with Mette-Marit - now the matter must be dealt with in court",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/naesten-200-klagede-over-nrk-s-interview-med-mette-marit-nu-skal-sagen-behandles-i-naevn",
+        "published_date": "2026-04-28 10:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sweden warns of shortage of aviation fuel",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sverige-advarer-om-mangel-paa-flybraendstof",
+        "published_date": "2026-04-28 10:17:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man arrested after shooting incident in Odense last night",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-anholdt-efter-skudepisode-i-odense-i-aftes",
+        "published_date": "2026-04-28 09:42:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "German authorities gave up on rescuing stranded whales - now private individuals step in",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tyske-myndigheder-opgav-redning-af-strandet-hval-nu-traeder-private-til",
+        "published_date": "2026-04-28 09:37:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Roskilde Festival will have two new stages",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/roskilde-festival-faar-nye-scener",
+        "published_date": "2026-04-28 09:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several injured by shooting at social office in Athens",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-saaret-af-skyderi-paa-socialkontor-i-athen",
+        "published_date": "2026-04-28 09:18:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260427/new-platforms-at-copenhagen-airport-mean-ten-more-trains-an-hour",
-        "published_date": "2026-04-27 15:34:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cecilie Liv Hansen loses a central post in the region - but retains another",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/nu-skal-cecilie-liv-hansens-fremtid-i-regionen-afgoeres-foelg-moedet-her?rss",
-        "published_date": "2026-04-27 15:26:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former handball director dead in wet shooting accident",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-haandbold-direktoer-doed-i-vaadeskudsulykke",
-        "published_date": "2026-04-27 15:13:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dry spring weather puts parts of Denmark at risk of drought",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260427/dry-spring-weather-puts-parts-of-denmark-at-risk-of-drought",
-        "published_date": "2026-04-27 14:43:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Starmer criticizes demand for vote on misrepresentation",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/starmer-kritiserer-krav-om-afstemning-om-vildledning",
-        "published_date": "2026-04-27 14:39:00",
+        "url": "https://www.thelocal.dk/20260428/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-44",
+        "published_date": "2026-04-28 08:31:05",
         "category": "Local Events"
     }
 ]
