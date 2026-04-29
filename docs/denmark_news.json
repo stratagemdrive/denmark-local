@@ -1,5 +1,26 @@
 [
     {
+        "title": "English coins to ward off Danish raids found as Viking jewellery",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260429/english-coins-to-ward-off-danish-raids-found-as-viking-jewellery",
+        "published_date": "2026-04-29 10:42:10",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The EU criticizes Meta for not preventing minors from using Facebook and Instagram",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-kritiserer-meta-ikke-forhindre-mindreaarige-i-bruge-facebook-og-instagram",
+        "published_date": "2026-04-29 07:00:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Europe is particularly hard hit by climate change",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/europa-er-saerligt-haardt-ramt-af-klimaforandringer",
+        "published_date": "2026-04-29 03:56:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Trump's popularity drops to an all-time low during this period",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trumps-popularitet-falder-til-laveste-niveau-i-denne-periode?referrer=RSS",
@@ -119,25 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "'Resigned to it': Long waits at Copenhagen Airport six months after EES start",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260423/resigned-to-it-long-waits-at-copenhagen-airport-six-months-after-ees-start",
-        "published_date": "2026-04-23 12:44:23",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU countries agree on billions in loans to Ukraine",
+        "title": "A Lebanese soldier and his brother are reported killed in an Israeli attack",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eu-lande-er-enige-om-milliardlaan-til-ukraine?referrer=RSS",
-        "published_date": "2026-04-23 11:48:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The Venice Biennale has 30 days to respond to the EU about the Russian pavilion",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/venedig-biennalen-har-30-dage-til-at-svare-eu-om-russisk-pavillon?referrer=RSS",
-        "published_date": "2026-04-23 11:29:49",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/en-libanesisk-soldat-og-hans-bror-meldes-draebt-i-israelsk-angreb?referrer=RSS",
+        "published_date": "2026-04-29 11:29:53",
+        "category": "Military"
     },
     {
         "title": "Senate votes no to limit Trump's military options in Cuba",
@@ -273,11 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Ukraine again calls for a meeting between Zelenskyi and Putin",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-opfordrer-igen-til-moede-mellem-zelenskyj-og-putin",
-        "published_date": "2026-04-22 07:41:00",
-        "category": "Military"
+        "title": "Sensational oil drama can create \"completely new geopolitical dynamics\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/oekonomi/opsigtsvaekkende-oliedrama-kan-skabe-helt-ny-geopolitisk-dynamik?referrer=RSS",
+        "published_date": "2026-04-29 11:53:11",
+        "category": "Energy"
     },
     {
         "title": "The United Arab Emirates is leaving the Organization of Petroleum Exporting Countries",
@@ -343,20 +350,6 @@
         "category": "Energy"
     },
     {
-        "title": "Thousands of Copenhageners without power after major breakdown",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/tusindvis-af-koebenhavnere-uden-stroem-efter-stort-nedbrud?referrer=RSS",
-        "published_date": "2026-04-21 11:05:47",
-        "category": "Energy"
-    },
-    {
-        "title": "Over 1,700 households were without power in Copenhagen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/over-1-700-husstande-uden-stroem-i-koebenhavn",
-        "published_date": "2026-04-21 10:58:00",
-        "category": "Energy"
-    },
-    {
         "title": "Greenlandic municipality receives a million fine for not paying tax on time",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/groenlandsk-kommune-faar-millionboede-ikke-betale-skat-til-tiden",
@@ -413,157 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "179-year-old country property falls into disrepair, while a million-dollar tax case is ongoing: Now a decision has been made",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/179-aarige-landejendom-forfalder-mens-millionstor-skattesag-koerer-nu-er-der-faldet-afgoerelse?rss",
-        "published_date": "2026-04-21 05:02:00",
-        "category": "Economy"
+        "title": "Danish tax agency looking for the unidentified owners of 55 million kroner",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260429/danish-tax-agency-looking-for-the-unidentified-owners-of-55-million-kroner",
+        "published_date": "2026-04-29 13:33:19",
+        "category": "Local Events"
     },
     {
-        "title": "Businessman spends millions on acquisitions: the building must be used for that",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/erhvervsmand-bruger-millioner-paa-opkoeb-det-skal-bygningen-bruges-til?rss",
-        "published_date": "2026-04-21 05:00:00",
-        "category": "Economy"
-    },
-    {
-        "title": "New election awaits in Kosovo after split over presidency",
+        "title": "FCM gives spectator long quarantine for shouting in AGF match",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nyt-valg-venter-i-kosovo-efter-splittelse-om-praesidentpost?referrer=RSS",
-        "published_date": "2026-04-28 23:07:50",
+        "url": "https://www.berlingske.dk/sport/fcm-giver-tilskuer-lang-karantaene-for-tilraab-i-agf-kamp?referrer=RSS",
+        "published_date": "2026-04-29 12:07:46",
         "category": "Local Events"
     },
     {
-        "title": "Regulator investigates ABC after controversial joke about Melania Trump",
+        "title": "Two Jewish men are reported to be seriously injured in a stabbing in London",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tilsynsmyndighed-undersoeger-abc-efter-omstridt-joke-om-melania-trump?referrer=RSS",
-        "published_date": "2026-04-28 22:55:48",
+        "url": "https://www.berlingske.dk/internationalt/to-joediske-maend-meldes-alvorligt-saarede-af-knivstik-i-london?referrer=RSS",
+        "published_date": "2026-04-29 12:03:51",
         "category": "Local Events"
     },
     {
-        "title": "Ex-FBI director after indictment: I'm still innocent",
+        "title": "He was at the forefront as panic about drones spread:\u00a0\"If I was standing there and living it all over again, I might put in additional caveats\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eks-fbi-direktoer-efter-tiltale-jeg-er-stadig-uskyldig?referrer=RSS",
-        "published_date": "2026-04-28 22:17:50",
+        "url": "https://www.berlingske.dk/indland/han-stod-forrest-da-panik-om-droner-spredte-sighvis-jeg-stod-der-og-gennemlevede-det-igen-ville-jeg-muligvis-laegge-yderligere-forbehold-ind?referrer=RSS",
+        "published_date": "2026-04-29 12:00:13",
         "category": "Local Events"
     },
     {
-        "title": "Man sentenced to detention for killing man in Nuuk",
+        "title": "New report shows how often parking spaces for shared electric cars are empty in Copenhagen - it's \"crazy\", says mayor",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-idoemt-anbringelse-for-at-draebe-mand-i-nuuk?referrer=RSS",
-        "published_date": "2026-04-28 21:43:48",
+        "url": "https://www.berlingske.dk/indland/ny-rapport-viser-hvor-ofte-p-pladser-til-el-delebiler-staar-tomme-i-koebenhavn--det-er-vanvittigt-siger-borgmester?referrer=RSS",
+        "published_date": "2026-04-29 11:50:49",
         "category": "Local Events"
     },
     {
-        "title": "Aid workers were trapped under rubble and killed in Lebanon",
+        "title": "In exactly one year, France could find itself in the middle of a political horror scenario \u2013 the consequences could reach far beyond the country's borders",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hjaelpearbejdere-blev-fanget-under-murbrokker-og-draebt-i-libanon?referrer=RSS",
-        "published_date": "2026-04-28 21:39:48",
+        "url": "https://www.berlingske.dk/kronikker/om-praecis-et-aar-kan-frankrig-staa-midt-i-et-politisk-skraekscenarie--konsekvenserne-kan-raekke-langt-ud-over-landets-graenser?referrer=RSS",
+        "published_date": "2026-04-29 11:49:39",
         "category": "Local Events"
     },
     {
-        "title": "The US will issue passports with Trump's photo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-vil-udstede-pas-med-trumps-billede",
-        "published_date": "2026-04-28 21:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "PSG takes the first semi-final tie against Bayern after fireworks",
+        "title": "Andreas Christensen is back on the pitch in Barcelona",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/psg-tager-foerste-semifinalestik-mod-bayern-efter-festfyrvaerkeri?referrer=RSS",
-        "published_date": "2026-04-28 21:12:46",
+        "url": "https://www.berlingske.dk/sport/andreas-christensen-er-tilbage-paa-banen-i-barcelona?referrer=RSS",
+        "published_date": "2026-04-29 11:29:48",
         "category": "Local Events"
     },
     {
-        "title": "\"The Americans clearly have no strategy.\" Therefore, real friends must tell the truth",
+        "title": "Jesper Koch and Jakob Mielcke stop as judges on Masterchef",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amerikanerne-har-tydeligvis-ingen-strategi-derfor-skal-rigtige-venner-sige-sandheden?referrer=RSS",
-        "published_date": "2026-04-28 21:11:04",
+        "url": "https://www.berlingske.dk/danmark/jesper-koch-og-jakob-mielcke-stopper-som-dommere-paa-masterchef?referrer=RSS",
+        "published_date": "2026-04-29 11:26:46",
         "category": "Local Events"
     },
     {
-        "title": "Laura Dern joins The White Lotus after Bonham Carter's lightning exit",
+        "title": "Two people have been stabbed in the Jewish quarter of London",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/laura-dern-med-i-white-lotus-efter-bonham-carters-lyn-exit",
-        "published_date": "2026-04-28 19:04:00",
+        "url": "https://www.dr.dk/nyheder/seneste/personer-er-stukket-med-kniv-i-joedisk-kvarter-i-london",
+        "published_date": "2026-04-29 11:24:00",
         "category": "Local Events"
     },
     {
-        "title": "Starmer avoids misleading inquiry in Mandelson case",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/starmer-undgaar-vildledningsundersoegelse-i-mandelson-sagen",
-        "published_date": "2026-04-28 18:09:00",
+        "title": "Minister after train accident: Responsibility for possible measures lies with the region",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/minister-efter-togulykke-ansvar-for-mulige-tiltag-ligger-hos-regionen?referrer=RSS",
+        "published_date": "2026-04-29 11:22:47",
         "category": "Local Events"
     },
     {
-        "title": "Hungary's new leader will open a new chapter with Zelenskyj",
+        "title": "Now it costs to park for the Folkem\u00f8det on Bornholm",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ungarns-nye-leder-vil-aabne-et-nyt-kapitel-med-zelenskyj",
-        "published_date": "2026-04-28 17:15:00",
+        "url": "https://www.dr.dk/nyheder/seneste/nu-koster-det-parkere-til-folkemoedet-paa-bornholm",
+        "published_date": "2026-04-29 11:11:00",
         "category": "Local Events"
     },
     {
-        "title": "Residence ban after shooting episode extended again",
+        "title": "Russia is scaling back the traditional marking of Victory Day",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/opholdsforbud-efter-skudepisode-forlaenget-igen",
-        "published_date": "2026-04-28 16:34:00",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-nedskalerer-traditionsrig-markering-af-sejrsdag",
+        "published_date": "2026-04-29 11:06:00",
         "category": "Local Events"
     },
     {
-        "title": "Trump during British state visit: The Americans have no close friends but the British",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-under-britisk-statsbesoeg-amerikanerne-har-ingen-taettere-venner-end-briterne",
-        "published_date": "2026-04-28 15:40:00",
+        "title": "Do you need to open a Danish bank account when you move to Denmark?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260429/do-you-need-to-open-a-danish-bank-account-when-you-move-to-denmark",
+        "published_date": "2026-04-29 11:05:25",
         "category": "Local Events"
     },
     {
-        "title": "89-year-old man arrested for two shootings in Athens",
+        "title": "Unlike Denmark, Norway retains the 1,000 krone note",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/89-aarig-mand-anholdt-skyderier-i-athen",
-        "published_date": "2026-04-28 15:15:00",
+        "url": "https://www.dr.dk/nyheder/seneste/modsat-danmark-beholder-norge-1-000-kronesedlen",
+        "published_date": "2026-04-29 09:45:00",
         "category": "Local Events"
     },
     {
-        "title": "Experimentarium affected by data breach",
+        "title": "NRK defends interview with crown princess after storm of complaints",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/experimentarium-ramt-af-databrud",
-        "published_date": "2026-04-28 14:31:00",
+        "url": "https://www.dr.dk/nyheder/seneste/nrk-forsvarer-interview-med-kronprinsesse-efter-klagestorm",
+        "published_date": "2026-04-29 08:59:00",
         "category": "Local Events"
     },
     {
-        "title": "Belarusian man sentenced for violence resulting in death",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/belarusisk-mand-doemt-vold-med-doeden-til-foelge",
-        "published_date": "2026-04-28 14:29:00",
+        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260429/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-51",
+        "published_date": "2026-04-29 08:37:36",
         "category": "Local Events"
     },
     {
-        "title": "Recalls biscuits sold in bazaars and specialty shops",
+        "title": "South Korea's former president gets a new sentence",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tilbagekalder-kiks-solgt-i-bazarer-og-specialbutikker",
-        "published_date": "2026-04-28 13:00:00",
+        "url": "https://www.dr.dk/nyheder/seneste/sydkoreas-tidligere-praesident-faar-ny-dom",
+        "published_date": "2026-04-29 08:31:00",
         "category": "Local Events"
     },
     {
-        "title": "21-year-old pleads partially guilty to plans to attack Taylor Swift concert",
+        "title": "Troels Lund Poulsen has been given the green light to return",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/21-aarig-erkender-sig-delvist-skyldig-i-planer-om-angreb-paa-taylor-swift-koncert",
-        "published_date": "2026-04-28 12:49:00",
+        "url": "https://www.dr.dk/nyheder/seneste/troels-lund-poulsen-har-faaet-groent-lys-til-vende-tilbage",
+        "published_date": "2026-04-29 08:08:00",
         "category": "Local Events"
     },
     {
-        "title": "The closure of the letter business has caused turnover in PostNord Denmark to fall sharply",
+        "title": "Carlsberg has had a good start to the year",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lukning-af-brevforretning-har-faaet-omsaetningen-i-postnord-danmark-til-falde-kraftigt",
-        "published_date": "2026-04-28 12:32:00",
+        "url": "https://www.dr.dk/nyheder/seneste/carlsberg-har-faaet-en-god-start-paa-aaret",
+        "published_date": "2026-04-29 07:29:00",
         "category": "Local Events"
     },
     {
-        "title": "Green travel team must help hospitals become sustainable",
+        "title": "New line added to the payslip should give a better overview",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/groent-rejsehold-skal-hjaelpe-sygehusene-med-blive-baeredygtige",
-        "published_date": "2026-04-28 12:20:00",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-linje-foejet-til-loensedlen-skal-give-et-bedre-overblik",
+        "published_date": "2026-04-29 06:13:00",
         "category": "Local Events"
     }
 ]
