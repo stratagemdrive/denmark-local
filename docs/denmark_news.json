@@ -1,5 +1,12 @@
 [
     {
+        "title": "He overthrew Orb\u00e1n \u2013 now Hungary's new star faces a deadline that could cost him billions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/han-vaeltede-orban--nu-staar-ungarns-nye-stjerne-over-for-en-deadline-der-kan-koste-ham-milliarder?referrer=RSS",
+        "published_date": "2026-04-30 11:41:43",
+        "category": "Diplomacy"
+    },
+    {
         "title": "English coins to ward off Danish raids found as Viking jewellery",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260429/english-coins-to-ward-off-danish-raids-found-as-viking-jewellery",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "'More and more' Americans in Europe look to renounce passports after fee cut",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260423/more-and-more-americans-in-europe-look-to-renounce-passports-after-fee-cut",
-        "published_date": "2026-04-23 16:27:42",
-        "category": "Diplomacy"
+        "title": "Trump is considering reducing the number of US troops in Germany after criticism from Merz",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-overvejer-reducere-antallet-af-amerikanske-soldater-i-tyskland-efter-kritik-fra-mertz",
+        "published_date": "2026-04-30 04:23:00",
+        "category": "Military"
     },
     {
         "title": "Trump considers pulling troops home from Germany after Merz criticism",
@@ -273,11 +280,25 @@
         "category": "Military"
     },
     {
-        "title": "Journalist reportedly killed during Israeli attack in Lebanon",
+        "title": "Mother avoids prison after traffic accident - must look after disabled daughter",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/journalist-meldes-draebt-under-israelsk-angreb-i-libanon?referrer=RSS",
-        "published_date": "2026-04-22 21:54:46",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/indland/mor-undgaar-faengsel-efter-trafikulykke-skal-passe-invalideret-datter?referrer=RSS",
+        "published_date": "2026-04-30 11:28:46",
+        "category": "Energy"
+    },
+    {
+        "title": "Man sentenced for turning off electricity at hospital",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-doemt-slukke-stroem-paa-hospital",
+        "published_date": "2026-04-30 10:07:00",
+        "category": "Energy"
+    },
+    {
+        "title": "Oil price at highest level since 2022",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/olieprisen-taet-paa-hoejeste-niveau-siden-2022",
+        "published_date": "2026-04-30 06:13:00",
+        "category": "Energy"
     },
     {
         "title": "The US central bank maintains interest rates after the rise in oil prices",
@@ -357,13 +378,6 @@
         "category": "Energy"
     },
     {
-        "title": "Slovakia expects oil through repaired pipeline tomorrow",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/slovakiet-forventer-olie-gennem-repareret-roerledning-i-morgen",
-        "published_date": "2026-04-22 08:33:00",
-        "category": "Energy"
-    },
-    {
         "title": "Meta shares fall despite better-than-expected revenue",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/meta-aktier-falder-trods-bedre-omsaetning-end-ventet?referrer=RSS",
@@ -427,143 +441,143 @@
         "category": "Economy"
     },
     {
-        "title": "Google's parent company beats analysts' expectations",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/googles-moderselskab-slaar-analytikernes-forventninger?referrer=RSS",
-        "published_date": "2026-04-29 23:33:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Microsoft shares fluctuate despite strong revenue figures",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/microsoft-aktie-svinger-trods-staerke-omsaetningstal?referrer=RSS",
-        "published_date": "2026-04-29 23:33:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Despite higher revenue, Amazon is penalized for increased investment",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/trods-hoejere-omsaetning-straffes-amazon-for-oegede-investeringer?referrer=RSS",
-        "published_date": "2026-04-29 23:30:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Person found dead near Carlsberg Byen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/person-fundet-doed-ved-carlsberg-byen?referrer=RSS",
-        "published_date": "2026-04-29 23:01:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Antonsen secures the Danish quarter-finals at the Thomas Cup",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/antonsen-sikrer-dansk-kvartfinale-ved-thomas-cup?referrer=RSS",
-        "published_date": "2026-04-29 21:55:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Experimental Danish comedy bristles and runs away",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/eksperimentel-dansk-komedie-stritter-og-stikker-af?referrer=RSS",
-        "published_date": "2026-04-29 21:37:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atl\u00e9tico and Arsenal share the first semi-final meeting in Madrid",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/atletico-og-arsenal-deler-i-foerste-semifinalemoede-i-madrid?referrer=RSS",
-        "published_date": "2026-04-29 21:02:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "For the future, 1st division and super league matches can be played in Roskilde",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fremtiden-kan-der-spilles-1-divisions-og-superligakampe-i-roskilde",
-        "published_date": "2026-04-29 19:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump and Putin have had a long phone conversation",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-trump-og-putin-har-haft-lang-telefonsamtale",
-        "published_date": "2026-04-29 17:47:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pentagon: The US war in Iran has cost DKK 160 billion",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pentagon-usa-s-krig-i-iran-har-kostet-160-milliarder-kroner",
-        "published_date": "2026-04-29 17:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Warning against weed burners after fourth fire today",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/advarer-mod-ukrudtsbraendere-efter-fjerde-brand-i-dag",
-        "published_date": "2026-04-29 17:21:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Families sue OpenAI chief after mass shooting",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/familier-sagsoeger-openai-chef-efter-masseskyderi",
-        "published_date": "2026-04-29 16:59:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Majority of Danish voters think it's time for a new government",
+        "title": "How does Denmark's new basiskort travel card system work?",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260429/majority-of-danish-voters-think-its-time-for-a-new-government",
-        "published_date": "2026-04-29 15:28:36",
+        "url": "https://www.thelocal.dk/20260430/how-does-denmarks-new-basiskort-travel-card-system-work",
+        "published_date": "2026-04-30 13:50:53",
         "category": "Local Events"
     },
     {
-        "title": "Knife attack in London declared a terrorist attack",
+        "title": "Nine people are reported killed in Israeli attacks after a warning to evacuate",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ni-personer-meldes-draebt-i-israelske-angreb-efter-varsel-om-evakuering?referrer=RSS",
+        "published_date": "2026-04-30 11:47:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"Drop the fucking knife,\" the officers yelled over and over.The sudden attack on two Jewish men has shaken Britain",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/smid-den-fucking-kniv-raabte-betjentene-igen-og-igen-det-pludselige-overfald-paa-to-joediske-maend-har-rystet-storbritannien?referrer=RSS",
+        "published_date": "2026-04-30 11:47:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Dutch man has been arrested in connection with 202 kilos of amphetamine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/hollandsk-mand-er-paagrebet-i-sag-om-202-kilo-amfetamin?referrer=RSS",
+        "published_date": "2026-04-30 11:44:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran's supreme leader: Americans belong 'at the bottom of the sea'",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/knivangreb-i-london-erklaeret-et-terrorangreb",
-        "published_date": "2026-04-29 14:35:37",
+        "url": "https://www.dr.dk/nyheder/seneste/irans-oeverste-leder-amerikanere-hoerer-til-paa-bunden-af-havet",
+        "published_date": "2026-04-30 11:43:00",
         "category": "Local Events"
     },
     {
-        "title": "The best places to buy books in English in Denmark",
+        "title": "1 May in F\u00e6lledparken will be without Peter Hummelgaard",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/1-maj-i-faelledparken-bliver-uden-peter-hummelgaard?referrer=RSS",
+        "published_date": "2026-04-30 11:41:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fifa president has broad support for re-election",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fifa-praesident-har-bred-opbakning-til-genvalg?referrer=RSS",
+        "published_date": "2026-04-30 11:41:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Novo competitor exceeds expectations in the first quarter",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/novo-konkurrent-overgaar-forventningerne-i-foerste-kvartal?referrer=RSS",
+        "published_date": "2026-04-30 11:38:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lise Roulund from The Black Swan is disappointed with the decision",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/lise-roulund-fra-den-sorte-svane-er-skuffet-over-afgoerelse?referrer=RSS",
+        "published_date": "2026-04-30 11:34:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several municipalities' telephone lines were down on Thursday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/flere-kommuners-telefonlinjer-har-vaeret-nede-torsdag?referrer=RSS",
+        "published_date": "2026-04-30 11:31:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "First train in a decade between Copenhagen, Berlin and Prague to depart on Friday",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260429/the-best-places-to-buy-books-in-english-in-denmark",
-        "published_date": "2026-04-29 14:32:36",
+        "url": "https://www.thelocal.dk/20260430/first-train-in-a-decade-between-copenhagen-berlin-and-prague-to-depart-on-friday",
+        "published_date": "2026-04-30 11:19:42",
         "category": "Local Events"
     },
     {
-        "title": "The US envoy is expected to visit Greenland in May",
+        "title": "Six people are charged after the ax drama at Lidl",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-udsending-ventes-besoege-groenland-i-maj",
-        "published_date": "2026-04-29 13:49:00",
+        "url": "https://www.dr.dk/nyheder/seneste/seks-personer-sigtes-efter-oekse-drama-ved-lidl",
+        "published_date": "2026-04-30 10:35:00",
         "category": "Local Events"
     },
     {
-        "title": "Danish tax agency looking for the unidentified owners of 55 million kroner",
+        "title": "Bishop election is decided: 55-year-old provost is to be the new bishop in Aarhus",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bispevalg-er-afgjort-55-aarig-provst-skal-vaere-ny-biskop-i-aarhus",
+        "published_date": "2026-04-30 10:32:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "INTERVIEW: 'Danish rhetoric on migration is switching off people like me'",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260429/danish-tax-agency-looking-for-the-unidentified-owners-of-55-million-kroner",
-        "published_date": "2026-04-29 13:33:19",
+        "url": "https://www.thelocal.dk/20260430/interview-danish-rhetoric-on-migration-is-switching-off-people-like-me",
+        "published_date": "2026-04-30 10:07:59",
         "category": "Local Events"
     },
     {
-        "title": "The heating company moves to Aarhus",
+        "title": "Throwing stones got her arrested: 33-year-old mentally ill woman remanded in custody and charged with several things",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hedeselskabet-flytter-til-aarhus",
-        "published_date": "2026-04-29 13:25:00",
+        "url": "https://www.dr.dk/nyheder/seneste/stenkast-fik-hende-anholdt-33-aarig-psykisk-syg-kvinde-varetaegtsfaengslet-og-sigtet-flere-ting",
+        "published_date": "2026-04-30 09:35:00",
         "category": "Local Events"
     },
     {
-        "title": "Jotam Confino sentenced for defamation of debater",
+        "title": "Several municipalities' telephone lines are down",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/jotam-confino-doemt-aerekraenkelse-af-debattoer",
-        "published_date": "2026-04-29 13:05:00",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-kommuners-telefonlinjer-er-nede",
+        "published_date": "2026-04-30 09:35:00",
         "category": "Local Events"
     },
     {
-        "title": "Six years in prison for attempted murder of Aarhus H",
+        "title": "Art festival in Venice partially excludes Russia",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/indland/seks-aars-faengsel-drabsforsoeg-paa-aarhus-h",
-        "published_date": "2026-04-29 12:52:00",
+        "url": "https://www.dr.dk/nyheder/seneste/kunstfestival-i-venedig-udelukker-delvist-rusland",
+        "published_date": "2026-04-30 09:33:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "She was in 'The Black Swan': Now she is denied the right to be a lawyer",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hun-var-med-i-den-sorte-svane-nu-frakendes-hun-retten-til-vaere-advokat",
+        "published_date": "2026-04-30 08:44:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Thursday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260430/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-39",
+        "published_date": "2026-04-30 08:32:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Faster response to X-rays: AI cuts waiting times at emergency departments",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hurtigere-svar-paa-roentgen-ai-skaerer-ventetiden-ned-paa-akutmodtagelser",
+        "published_date": "2026-04-30 07:54:00",
         "category": "Local Events"
     }
 ]
