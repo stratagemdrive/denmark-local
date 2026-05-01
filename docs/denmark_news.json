@@ -1,5 +1,26 @@
 [
     {
+        "title": "Pentagon: The US will withdraw 5,000 troops from Germany",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-traekker-5000-tropper-ud-af-tyskland",
+        "published_date": "2026-05-01 21:57:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The German car industry is calling on the EU and the US to negotiate",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/den-tyske-bilindustri-opfordrer-eu-og-usa-til-forhandle",
+        "published_date": "2026-05-01 19:08:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Trump will raise tariffs on cars from the EU",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-vil-haeve-toldsatser-paa-koeretoejer-fra-eu",
+        "published_date": "2026-05-01 16:08:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Citizens can once again move freely after a chemical spill",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/borgere-kan-igen-faerdes-frit-efter-kemikalieudslip?referrer=RSS",
@@ -119,25 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Geopolitics threatens 70th anniversary of Eurovision",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260426/geopolitics-threatens-70th-anniversary-of-eurovision",
-        "published_date": "2026-04-26 13:03:11",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "REVEALED: The countries in Europe that will buck the trend and grow in population",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260425/revealed-the-countries-in-europe-that-will-buck-the-trend-and-grow-in-population",
-        "published_date": "2026-04-25 11:32:03",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Population crisis and corruption pave the way for Bulgarian system change",
+        "title": "Trump pulls 5000 soldiers home from Germany",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/befolkningskrise-og-korruption-baner-vej-for-bulgarsk-systemskifte?referrer=RSS",
-        "published_date": "2026-04-25 10:50:04",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/trump-traekker-5000-soldater-hjem-fra-tyskland?referrer=RSS",
+        "published_date": "2026-05-01 22:29:46",
+        "category": "Military"
+    },
+    {
+        "title": "R\u00f8dovre Municipality buys old business land for Ukrainians",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/roedovre-kommune-koeber-gammel-erhvervsgrund-til-ukrainere",
+        "published_date": "2026-05-01 15:14:00",
+        "category": "Military"
     },
     {
         "title": "Analysis counts a record number of Russian drones against Ukraine in April",
@@ -256,27 +270,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/trump-taler-mere-storbritannien-end-prins-harry-goer-siger-han-efter-ukraine-tale",
         "published_date": "2026-04-24 04:16:00",
-        "category": "Military"
-    },
-    {
-        "title": "Sources: Soldier arrested for making millions from Maduro operation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kilder-soldat-anholdt-for-at-tjene-millioner-paa-maduro-operation?referrer=RSS",
-        "published_date": "2026-04-23 22:30:51",
-        "category": "Military"
-    },
-    {
-        "title": "Trump refuses to use nuclear weapons in Iran despite threats",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-afviser-at-bruge-atomvaaben-i-iran-trods-trusler?referrer=RSS",
-        "published_date": "2026-04-23 22:26:46",
-        "category": "Military"
-    },
-    {
-        "title": "Israel and Lebanon extend ceasefire by three weeks",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/israel-og-libanon-forlaenger-vaabenhvile-med-tre-uger?referrer=RSS",
-        "published_date": "2026-04-23 22:00:48",
         "category": "Military"
     },
     {
@@ -434,143 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "Bone's opens a new restaurant chain in the old Jensens B\u00f8fhus premises",
+        "title": "US court blocks postal delivery of abortion pills",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/domstol-i-usa-blokerer-for-postlevering-af-abortpiller?referrer=RSS",
+        "published_date": "2026-05-01 23:34:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man taken to Rigshospitalet after several stab wounds",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/ung-mand-koert-til-rigshospitalet-efter-flere-knivstik?referrer=RSS",
+        "published_date": "2026-05-01 23:08:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump wants to give seniors cheaper weight loss drugs",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-vil-give-aeldre-billigere-vaegttabsmedicin?referrer=RSS",
+        "published_date": "2026-05-01 22:29:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "It is difficult to see what the US has won, while Iran has got its very own \"nuclear bomb\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/det-er-svaert-at-se-hvad-usa-har-vundet-mens-iran-har-faaet-sin-helt-egen-atombombe?referrer=RSS",
+        "published_date": "2026-05-01 21:27:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Artificial actors are denied the opportunity to receive Oscars",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kunstige-skuespillere-naegtes-mulighed-for-at-modtage-oscars?referrer=RSS",
+        "published_date": "2026-05-01 21:00:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Next victim of the US-Iran war: The global food supply",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/naeste-offer-for-krigen-mellem-usa-og-iran-den-globale-foedevareforsyning?referrer=RSS",
+        "published_date": "2026-05-01 20:58:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Badminton men play their way past Thailand and are certain of a medal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/badmintonherrer-spiller-sig-forbi-thailand-og-er-sikre-paa-medalje?referrer=RSS",
+        "published_date": "2026-05-01 20:29:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "L\u00f8kke leaves the government negotiations with a wave",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/loekke-forlader-regeringsforhandlingerne-med-et-vink?referrer=RSS",
+        "published_date": "2026-05-01 19:55:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "TTH team semi-final hope alive with victory over Mors-Thy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tth-holder-semifinalehaab-i-live-med-sejr-over-mors-thy?referrer=RSS",
+        "published_date": "2026-05-01 19:51:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lawyers for war criminal Mladic want him released",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/advokater-krigsforbryderen-mladic-vil-have-ham-loesladt",
+        "published_date": "2026-05-01 19:43:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Imprisoned Iranian Peace Prize Winner Hospitalized",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/faengslet-iransk-fredsprisvinder-indlagt",
+        "published_date": "2026-05-01 17:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dangerous bicycle prank among the youngest students at school: - I think it's boring and unfortunate",
         "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/bone-s-aabner-ny-restaurantkaede-i-gamle-jensens-boefhus-lokaler?rss",
-        "published_date": "2026-05-01 12:19:00",
+        "url": "https://fyens.dk/middelfart/farlig-cykel-prank-blandt-de-yngste-elever-paa-skole-jeg-synes-det-er-traels-og-aergerligt?rss",
+        "published_date": "2026-05-01 17:00:00",
         "category": "Local Events"
     },
     {
-        "title": "45-year-old man sentenced for raping friend's daughter",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/45-aarig-mand-doemt-for-at-voldtage-venindes-datter?referrer=RSS",
-        "published_date": "2026-05-01 11:45:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Researchers see no evidence of higher mortality in cows given Bova",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/forskere-ser-ingen-tegn-paa-hoejere-doedelighed-hos-koeer-der-faar-bovaer?referrer=RSS",
-        "published_date": "2026-05-01 11:42:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "84-year-old man from Rwanda has been released by the high court",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/84-aarig-mand-fra-rwanda-er-loesladt-af-landsretten?referrer=RSS",
-        "published_date": "2026-05-01 11:42:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The High Court releases 84-year-old man from Rwanda",
+        "title": "3,500 evacuated in Italy due to wildfire",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/landsretten-loeslader-84-aarig-mand-fra-rwanda",
-        "published_date": "2026-05-01 11:32:00",
+        "url": "https://www.dr.dk/nyheder/seneste/3-500-evakueret-i-italien-paa-grund-af-naturbrand",
+        "published_date": "2026-05-01 15:12:00",
         "category": "Local Events"
     },
     {
-        "title": "In April, old banknotes worth DKK 22 million were handed in",
+        "title": "Hand grenade found on the street in central Malm\u00f6",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/i-april-blev-der-indleveret-gamle-pengesedler-22-millioner-kroner",
-        "published_date": "2026-05-01 11:29:00",
+        "url": "https://www.dr.dk/nyheder/seneste/haandgranat-fundet-paa-gaden-i-det-centrale-malmoe",
+        "published_date": "2026-05-01 14:44:00",
         "category": "Local Events"
     },
     {
-        "title": "Awkward session raises eyebrows: FIFA president tried to force handshake between Israel and Palestine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/akavet-seance-vaekker-opsigt-fifa-praesident-forsoegte-at-fremtvinge-haandtryk-mellem-israel-og-palaestina?referrer=RSS",
-        "published_date": "2026-05-01 11:22:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Newcastle coach: Saudi support is firm",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/newcastle-traener-saudiarabisk-stoette-staar-fast?referrer=RSS",
-        "published_date": "2026-05-01 11:17:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Stock market drought will soon come to an end.Milliardselskab is ready for a Danish listing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/boerstoerke-faar-snart-en-ende-milliardselskab-er-klar-til-dansk-notering?referrer=RSS",
-        "published_date": "2026-05-01 11:15:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Over DKK 22 million in notes handed in in April",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/over-22-millioner-kroner-i-sedler-indleveret-i-april?referrer=RSS",
-        "published_date": "2026-05-01 10:53:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Organizer: Almost all Gaza activists released in Crete",
+        "title": "Former director gets five years in prison for subscription traps",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/arrangoer-naesten-alle-gaza-aktivister-loesladt-paa-kreta",
-        "published_date": "2026-05-01 10:51:00",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-direktoer-faar-fem-aars-faengsel-abonnementsfaelder",
+        "published_date": "2026-05-01 14:22:00",
         "category": "Local Events"
     },
     {
-        "title": "The High Court toughens the punishment for stabbing at a mosque",
+        "title": "State media: Iran has sent a new proposal to the United States",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/landsretten-skaerper-straf-knivstik-ved-moske",
-        "published_date": "2026-05-01 10:39:00",
+        "url": "https://www.dr.dk/nyheder/seneste/statsmedie-iran-har-sendt-nyt-forslag-til-usa",
+        "published_date": "2026-05-01 14:01:00",
         "category": "Local Events"
     },
     {
-        "title": "Residents of cogeneration plants can once again travel in the area after an ammonia leak",
+        "title": "Zelenskyy announces reform of the Ukrainian army",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/beboere-ved-kraftvarmevaerk-kan-igen-faerdes-i-omraade-efter-ammoniakudslip",
-        "published_date": "2026-05-01 10:24:00",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-bebuder-reform-af-den-ukrainske-haer",
+        "published_date": "2026-05-01 13:08:00",
         "category": "Local Events"
     },
     {
-        "title": "The jury at the world's biggest art event withdraws in protest",
+        "title": "Discount chains lower the price of goods such as butter and meat",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/juryen-ved-verdens-stoerste-kunstbegivenhed-traekker-sig-i-protest",
-        "published_date": "2026-05-01 09:29:00",
+        "url": "https://www.dr.dk/nyheder/seneste/discountkaeder-saenker-prisen-paa-varer-som-smoer-og-koed",
+        "published_date": "2026-05-01 13:06:00",
         "category": "Local Events"
     },
     {
-        "title": "Company behind housing portals reported to the police for misleading",
+        "title": "Politician: There must be more politicians from sparsely populated areas in the Folketing",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/virksomhed-bag-boligportaler-politianmeldt-vildledning",
-        "published_date": "2026-05-01 08:42:00",
+        "url": "https://www.dr.dk/nyheder/seneste/der-skal-flere-politikere-fra-tyndtbefolkede-omraader-i-folketinget",
+        "published_date": "2026-05-01 12:46:00",
         "category": "Local Events"
     },
     {
-        "title": "Councillor: Carnival in Aalborg must pay for fences themselves",
+        "title": "The missing Oscar statuette has reappeared",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/raadmand-karneval-i-aalborg-maa-selv-betale-hegn",
-        "published_date": "2026-05-01 08:32:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Residents must close doors and windows after an ammonia leak in St\u00f8vring",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/beboere-i-stoevring-skal-lukke-doere-og-vinduer-politiet-undersoeger-formodet-ammoniakudslip",
-        "published_date": "2026-05-01 07:51:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spring heat prompts organization to warn dog owners",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/foraarsvarme-faar-organisation-til-advare-hundeejere",
-        "published_date": "2026-05-01 06:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kvickly tormented by serial thief: - Last time he wanted to kill us, now I got an elbow in the lung",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/kvickly-plaget-af-serietyv-sidste-gang-ville-han-slaa-os-ihjel-nu-fik-jeg-en-albue-i-lungen?rss",
-        "published_date": "2026-05-01 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Travel company still sells cruises: Risks that the trip will end up with the police",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/rejseselskab-saelger-stadig-krydstogter-risikerer-at-rejsen-ender-hos-politiet?rss",
-        "published_date": "2026-05-01 05:02:00",
+        "url": "https://www.dr.dk/nyheder/seneste/forsvunden-oscar-statuette-er-dukket-op-igen",
+        "published_date": "2026-05-01 12:46:00",
         "category": "Local Events"
     }
 ]
