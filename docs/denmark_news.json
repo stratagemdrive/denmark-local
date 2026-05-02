@@ -1,5 +1,19 @@
 [
     {
+        "title": "Defense leadership tried to limit researchers' media statements",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/forsvarsledelse-forsoegte-at-begraense-forskeres-medieudtalelser?referrer=RSS",
+        "published_date": "2026-05-02 22:07:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Zelenskyj: Slovakia supports Ukrainian EU membership",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-slovakiet-stoetter-ukrainsk-eu-medlemskab",
+        "published_date": "2026-05-02 12:48:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Pentagon: The US will withdraw 5,000 troops from Germany",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/usa-traekker-5000-tropper-ud-af-tyskland",
@@ -126,18 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Iran's foreign minister blames the US for stalled negotiations",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/irans-udenrigsminister-giver-usa-skylden-kuldsejlede-forhandlinger",
-        "published_date": "2026-04-27 10:01:00",
-        "category": "Diplomacy"
+        "title": "Trump will withdraw more soldiers from Germany",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-vil-traekke-flere-soldater-hjem-fra-tyskland?referrer=RSS",
+        "published_date": "2026-05-02 23:24:49",
+        "category": "Military"
     },
     {
-        "title": "European parliament presidents are to meet in Copenhagen",
+        "title": "Trump says he will pull more troops home from Germany",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/europaeiske-parlamentsformaend-skal-moedes-i-koebenhavn",
-        "published_date": "2026-04-27 08:39:00",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/trump-siger-han-vil-traekke-flere-soldater-hjem-fra-tyskland",
+        "published_date": "2026-05-02 23:12:00",
+        "category": "Military"
+    },
+    {
+        "title": "Republicans: US withdrawal sends wrong signal to Putin",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/republikanere-usas-tilbagetraekning-sender-forkert-signal-til-putin?referrer=RSS",
+        "published_date": "2026-05-02 20:40:45",
+        "category": "Military"
     },
     {
         "title": "The US approves arms sales to allies in the Middle East",
@@ -249,20 +270,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/ukraine-angrebet-med-missiler-og-619-droner",
         "published_date": "2026-04-25 06:29:00",
-        "category": "Military"
-    },
-    {
-        "title": "Prince Harry will always feel like part of the royal family",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/prins-harry-vil-altid-foele-sig-som-en-del-af-kongefamilien?referrer=RSS",
-        "published_date": "2026-04-24 21:04:49",
-        "category": "Military"
-    },
-    {
-        "title": "Russia and Ukraine exchange 386 prisoners of war",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-og-ukraine-udveksler-386-krigsfanger",
-        "published_date": "2026-04-24 13:19:00",
         "category": "Military"
     },
     {
@@ -420,143 +427,143 @@
         "category": "Economy"
     },
     {
+        "title": "Trump: Iran has not yet paid a high enough price",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-iran-har-endnu-ikke-betalt-en-hoej-nok-pris?referrer=RSS",
+        "published_date": "2026-05-02 23:20:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Schalke 04 is back in the Bundesliga after a three-year absence",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/schalke-04-er-tilbage-i-bundesligaen-efter-tre-aars-fravaer?referrer=RSS",
+        "published_date": "2026-05-02 22:43:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Smoke development after fire in Ringsted: Citizens must stay inside",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/roegudvikling-efter-brand-i-ringsted-borgere-skal-blive-indenfor?referrer=RSS",
+        "published_date": "2026-05-02 22:32:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Roadworks cause traffic jams on Zealand's motorway",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/vejarbejde-foraarsager-bilkoe-paa-sjaellandsk-motorvej?referrer=RSS",
+        "published_date": "2026-05-02 22:19:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Porto and Victor Froholdt win the Portuguese championship",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/porto-og-victor-froholdt-vinder-portugisisk-mesterskab?referrer=RSS",
+        "published_date": "2026-05-02 21:37:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "McLaren takes revenge with double victory in Miami",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/mclaren-tager-revanche-med-dobbeltsejr-i-miami?referrer=RSS",
+        "published_date": "2026-05-02 21:18:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lewandowski and Torres ensure late Barcelona win",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/lewandowski-og-torres-soerger-for-sen-barcelona-sejr?referrer=RSS",
+        "published_date": "2026-05-02 21:06:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Austrian man arrested for putting rat poison in baby food",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/oestrigsk-mand-anholdt-putte-rottegift-i-babymad",
+        "published_date": "2026-05-02 19:09:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "South Koreans were given shared naps to focus on sleep deprivation",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sydkoreanere-fik-faelles-lur-saette-fokus-paa-soevnmangel",
+        "published_date": "2026-05-02 18:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Countess Athena has been confirmed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/komtesse-athena-er-blevet-konfirmeret",
+        "published_date": "2026-05-02 18:04:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "47-year-old arrested after police action in Skive",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/47-aarig-anholdt-efter-politiaktion-i-skive",
+        "published_date": "2026-05-02 16:47:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Warehouse on fire in Hasselager",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lagerbygning-i-brand-i-hasselager",
+        "published_date": "2026-05-02 16:28:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chairman of the Nobel committee demands the release of the imprisoned Iranian laureate",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/formand-nobelkomite-kraever-faengslet-iransk-prisvinder-loesladt",
+        "published_date": "2026-05-02 15:36:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police fire warning shots in Skive",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-affyrer-varselsskud-i-skive",
+        "published_date": "2026-05-02 15:21:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "11 people killed in bus accident in Mexico",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/11-personer-omkommet-i-busulykke-i-mexico",
+        "published_date": "2026-05-02 14:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Starmer opens to ban some pro-Palestinian demonstrations",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/starmer-aabner-forbyde-nogle-pro-palaestinensiske-demonstrationer",
+        "published_date": "2026-05-02 14:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Queue on motorway after wildfire",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/koe-paa-motorvej-efter-markbrand",
+        "published_date": "2026-05-02 13:22:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorist charged with attempted murder of cyclist released",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bilist-der-er-sigtet-drabsforsoeg-mod-cyklist-loeslades",
+        "published_date": "2026-05-02 12:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Steen wants to work, but has ended up retired: - When you stand outside the door long enough, you get sick",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/billund/steen-vil-arbejde-men-er-endt-paa-pension-naar-du-staar-laenge-nok-uden-for-doeren-saa-bliver-du-syg?rss",
+        "published_date": "2026-05-02 12:05:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Young man operated on at Rigshospitalet after several stab wounds",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/ung-mand-opereret-paa-rigshospitalet-efter-flere-knivstik?referrer=RSS",
         "published_date": "2026-05-02 11:34:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "After three decades, the fashion icon says goodbye to \"his identity\" and Copenhagen.The city has changed - and this has had major consequences",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kultur/efter-tre-aartier-siger-modeikon-farvel-til-sin-identitet-og-koebenhavn-byen-har-forandret-sig--og-det-har-haft-store-konsekvenser?referrer=RSS",
-        "published_date": "2026-05-02 11:25:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish Riksdag members must show up after voting chaos",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/svenske-riksdags-medlemmer-skal-moede-op-efter-afstemningskaos?referrer=RSS",
-        "published_date": "2026-05-02 11:23:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three injured after explosion in Swedish car crash",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tre-saarede-efter-eksplosion-ved-svensk-biltraef?referrer=RSS",
-        "published_date": "2026-05-02 11:23:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Optimistic speedway Dane challenges the king and the comet",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/optimistisk-speedwaydansker-udfordrer-kongen-og-kometen?referrer=RSS",
-        "published_date": "2026-05-02 11:01:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Selected info about the WC series",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/udvalgt-info-om-vm-serien?referrer=RSS",
-        "published_date": "2026-05-02 11:01:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Driver and hit-and-run victim are in a family relationship",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/bilist-og-offer-for-paakoersel-er-i-en-familierelation?referrer=RSS",
-        "published_date": "2026-05-02 10:58:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Br\u00f8ndby is punished with a closed grandstand against AGF",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/broendby-straffes-med-lukket-stemningstribune-mod-agf?referrer=RSS",
-        "published_date": "2026-05-02 10:36:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "He was arrested at two in the morning in Copenhagen - on Putin's orders.Now the Chechen leader is back",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/han-blev-anholdt-klokken-to-om-natten-i-koebenhavn--paa-putins-ordre-nu-er-den-tjetjenske-leder-tilbage?referrer=RSS",
-        "published_date": "2026-05-02 09:52:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Defense Minister expected the US to withdraw troops from Germany",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/forsvarsminister-forventede-usa-ville-traekke-tropper-ud-af-tyskland",
-        "published_date": "2026-05-02 08:57:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump on Cuba: Maybe we'll take it on the way home from Iran",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-om-cuba-maaske-tager-vi-det-paa-vej-hjem-fra-iran",
-        "published_date": "2026-05-02 06:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two explosions in half an hour last night in western Sweden",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eksplosioner-paa-en-halv-time-i-nat-i-det-vestlige-sverige",
-        "published_date": "2026-05-02 06:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police are investigating a stabbing in Emdrup",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterforsker-knivstikkeri-i-emdrup",
-        "published_date": "2026-05-02 05:38:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kamilla's 20-year-old son died in a work accident: - It's crazy how life can suddenly change",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/nyborg/kamillas-20-aarige-soen-doede-i-arbejdsulykke-det-er-vildt-hvordan-livet-pludselig-kan-aendre-sig?rss",
-        "published_date": "2026-05-02 05:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Archdiocese of New York enters into a billion-dollar settlement with victims of sexual abuse",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/aerkebispedoemmet-i-new-york-indgaar-milliardforlig-med-ofre-seksuelle-overgreb",
-        "published_date": "2026-05-02 04:46:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump calls hostilities against Iran over after 60-day deadline expires",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-kalder-fjendtligheder-mod-iran-afsluttet-efter-60-dages-deadline-er-udloebet",
-        "published_date": "2026-05-02 02:31:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "US court blocks postal delivery of abortion pills",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/domstol-i-usa-blokerer-for-postlevering-af-abortpiller?referrer=RSS",
-        "published_date": "2026-05-01 23:34:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young man taken to Rigshospitalet after several stab wounds",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/ung-mand-koert-til-rigshospitalet-efter-flere-knivstik?referrer=RSS",
-        "published_date": "2026-05-01 23:08:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump wants to give seniors cheaper weight loss drugs",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-vil-give-aeldre-billigere-vaegttabsmedicin?referrer=RSS",
-        "published_date": "2026-05-01 22:29:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "It is difficult to see what the US has won, while Iran has got its very own \"nuclear bomb\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/det-er-svaert-at-se-hvad-usa-har-vundet-mens-iran-har-faaet-sin-helt-egen-atombombe?referrer=RSS",
-        "published_date": "2026-05-01 21:27:02",
         "category": "Local Events"
     }
 ]
