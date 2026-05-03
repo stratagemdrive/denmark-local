@@ -1,5 +1,12 @@
 [
     {
+        "title": "Britain is ready for negotiations on EU loans to Ukraine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/storbritannien-er-klar-til-forhandlinger-om-eu-laan-til-ukraine?referrer=RSS",
+        "published_date": "2026-05-03 22:34:48",
+        "category": "Diplomacy"
+    },
+    {
         "title": "S\u00f8ren Pind sees a spirit awakening throughout the West - and this makes him believe in a United States after Trump",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kommentatorer/soeren-pind-ser-en-aand-vaagne-i-hele-vesten--og-det-faar-ham-til-at-tro-paa-et-usa-efter-trump?referrer=RSS",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Charles: Partnership between the US and Europe more important than ever",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/charles-partnerskab-mellem-usa-og-europa-vigtigere-end-nogensinde?referrer=RSS",
-        "published_date": "2026-04-28 20:47:48",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Zelensky: Ukraine has attacked two Russian shadow fleet ships",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-ukraine-har-angrebet-russiske-skyggeflaadeskibe",
@@ -259,18 +259,11 @@
         "category": "Military"
     },
     {
-        "title": "Ukrainians tell about sabotage against Nord Stream in new book",
+        "title": "Energy policy made waves in the Swedish party leadership debate",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/ukrainere-fortaeller-om-sabotage-mod-nord-stream-i-ny-bog?referrer=RSS",
-        "published_date": "2026-04-25 21:15:56",
-        "category": "Military"
-    },
-    {
-        "title": "Netanyahu orders heavy strikes against Hezbollah in Lebanon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/netanyahu-beordrer-kraftige-angreb-mod-hizbollah-i-libanon?referrer=RSS",
-        "published_date": "2026-04-25 18:52:47",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/internationalt/energipolitik-fik-boelgerne-til-at-gaa-hoejt-i-svensk-partilederdebat?referrer=RSS",
+        "published_date": "2026-05-03 22:48:49",
+        "category": "Energy"
     },
     {
         "title": "Spirit Airlines bankruptcy exposes Trump's Iran fiasco",
@@ -406,11 +399,123 @@
         "category": "Economy"
     },
     {
-        "title": "Lawyer took DKK 32,600 for a day's work - the citizens\npays",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/varde/hver-times-arbejde-koster-2-400-kroner-pris-for-undersoegelse-af-byroedder-stiger-fortsat?rss",
-        "published_date": "2026-04-25 13:03:00",
-        "category": "Economy"
+        "title": "Iranian politician warns the US about interference in the Strait of Hormuz",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iransk-politiker-advarer-usa-om-indblanding-i-hormuzstraedet?referrer=RSS",
+        "published_date": "2026-05-03 23:23:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Celebrating Inter players recall last season's nightmare",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/festende-inter-spillere-genkalder-sig-sidste-saesons-mareridt?referrer=RSS",
+        "published_date": "2026-05-03 23:20:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Analysis: Fewer sick days in the public sector can free up thousands of employees",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/analyse-faerre-sygedage-i-det-offentlige-kan-frigive-tusindvis-af-ansatte?referrer=RSS",
+        "published_date": "2026-05-03 21:59:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US will help stranded ships out of the Strait of Hormuz on Monday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-vil-mandag-hjaelpe-strandede-skibe-ud-af-hormuzstraedet?referrer=RSS",
+        "published_date": "2026-05-03 21:34:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "China's favorites reject French bid for World Cup sensation",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kinas-favoritter-afviser-fransk-bud-paa-vm-sensation?referrer=RSS",
+        "published_date": "2026-05-03 21:20:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two Vinicius pearls postpone Barcelona's championship celebration",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/to-vinicius-perler-udskyder-barcelonas-mesterskabsfest?referrer=RSS",
+        "published_date": "2026-05-03 21:00:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nadja Natalie Isaksen is leaving the Citizens' Party",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/nadja-natalie-isaksen-forlader-borgernes-parti?referrer=RSS",
+        "published_date": "2026-05-03 20:49:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Home victory secures the Inter Serie A title in good time",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/hjemmesejr-sikrer-inter-serie-a-titlen-i-god-tid?referrer=RSS",
+        "published_date": "2026-05-03 20:46:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police are investigating suspicious death",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-efterforsker-mistaenkeligt-doedsfald",
+        "published_date": "2026-05-03 18:33:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran reports US response to peace proposal",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-melder-om-amerikansk-svar-paa-fredsforslag",
+        "published_date": "2026-05-03 17:46:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Merz: The US remains an important ally",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/merz-usa-forbliver-vigtig-allieret",
+        "published_date": "2026-05-03 17:28:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two activists from the Gaza flotilla in court in Israel",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/aktivister-fra-gaza-flotille-i-retten-i-israel",
+        "published_date": "2026-05-03 17:17:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Politikreds encourages you to think twice when putting a house up for sale",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politikreds-opfordrer-til-taenke-sig-om-naar-man-saetter-hus-til-salg",
+        "published_date": "2026-05-03 15:28:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four people in hospital after shooting in London",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-personer-paa-hospitalet-efter-skyderi-i-london",
+        "published_date": "2026-05-03 15:17:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swedish coast guard borders another tanker",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/svensk-kystvagt-border-endnu-et-tankskib",
+        "published_date": "2026-05-03 14:29:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drone forces SAS plane to divert",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/drone-tvinger-sas-fly-til-omdirigering",
+        "published_date": "2026-05-03 14:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jutland municipalities get millions for wolf fences",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/jyske-kommuner-faar-millioner-til-ulvehegn",
+        "published_date": "2026-05-03 12:02:00",
+        "category": "Local Events"
     },
     {
         "title": "South and West Jutland municipalities receive a million grant for fences against wolves",
@@ -431,125 +536,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/politikere-faar-boeder-204-000-kroner-ikke-fjernede-valgplakater",
         "published_date": "2026-05-03 10:48:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aarhus issues fines of 200,000 for non-removed election posters",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/aarhus-uddeler-boeder-for-200000-for-ikke-fjernede-valgplakater?referrer=RSS",
-        "published_date": "2026-05-03 10:33:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: Rubio to travel to Vatican next week",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/medier-rubio-rejser-til-vatikanet-i-naeste-uge?referrer=RSS",
-        "published_date": "2026-05-03 10:00:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Younger man subjected to serious violence at a private address in Esbjerg",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/yngre-mand-udsat-for-grov-vold-paa-privatadresse-i-esbjerg?referrer=RSS",
-        "published_date": "2026-05-03 09:40:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israel warns citizens of 11 Lebanese cities about attacks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israel-advarer-borgere-i-11-libanesiske-byer-om-angreb",
-        "published_date": "2026-05-03 06:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Now the weather is turning: DMI issues a warning",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/nu-vender-vejret-dmi-udsender-varsel?rss",
-        "published_date": "2026-05-03 06:01:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Now the weather is turning: DMI issues a warning",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/nu-vender-vejret-dmi-udsender-varsel?rss",
-        "published_date": "2026-05-03 06:01:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Claus Sloth after dramatic getaway driver: - Our children dare not sleep",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/odense/claus-sloth-efter-dramatisk-flugtbilist-vores-boern-toer-ikke-sove?rss",
-        "published_date": "2026-05-03 05:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "22-year-old flown to Rigshospitalet after stabbing at hawker market",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/22-aarig-floejet-til-rigshospitalet-efter-knivstikkeri-paa-kraemmermarked",
-        "published_date": "2026-05-03 03:53:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire in Ringsted sent three to hospital with smoke poisoning",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brand-i-ringsted-sendte-tre-paa-hospitalet-med-roegforgiftning",
-        "published_date": "2026-05-03 00:58:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Iranian plan on the table: Trump is skeptical",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nyt-iransk-udspil-paa-bordet-trump-forholder-sig-skeptisk",
-        "published_date": "2026-05-03 00:26:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump: Iran has not yet paid a high enough price",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-iran-har-endnu-ikke-betalt-en-hoej-nok-pris?referrer=RSS",
-        "published_date": "2026-05-02 23:20:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Schalke 04 is back in the Bundesliga after a three-year absence",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/schalke-04-er-tilbage-i-bundesligaen-efter-tre-aars-fravaer?referrer=RSS",
-        "published_date": "2026-05-02 22:43:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Smoke development after fire in Ringsted: Citizens must stay inside",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/roegudvikling-efter-brand-i-ringsted-borgere-skal-blive-indenfor?referrer=RSS",
-        "published_date": "2026-05-02 22:32:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Roadworks cause traffic jams on Zealand's motorway",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/vejarbejde-foraarsager-bilkoe-paa-sjaellandsk-motorvej?referrer=RSS",
-        "published_date": "2026-05-02 22:19:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Porto and Victor Froholdt win the Portuguese championship",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/porto-og-victor-froholdt-vinder-portugisisk-mesterskab?referrer=RSS",
-        "published_date": "2026-05-02 21:37:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "McLaren takes revenge with double victory in Miami",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mclaren-tager-revanche-med-dobbeltsejr-i-miami?referrer=RSS",
-        "published_date": "2026-05-02 21:18:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lewandowski and Torres ensure late Barcelona win",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/lewandowski-og-torres-soerger-for-sen-barcelona-sejr?referrer=RSS",
-        "published_date": "2026-05-02 21:06:45",
         "category": "Local Events"
     }
 ]
