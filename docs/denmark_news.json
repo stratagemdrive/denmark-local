@@ -1,5 +1,12 @@
 [
     {
+        "title": "US warship reportedly hit by missiles: US denies",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/amerikansk-krigsskib-meldes-ramt-af-missiler-usa-afviser?referrer=RSS",
+        "published_date": "2026-05-04 11:51:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Britain is ready for negotiations on EU loans to Ukraine",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/storbritannien-er-klar-til-forhandlinger-om-eu-laan-til-ukraine?referrer=RSS",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Trump's popularity drops to an all-time low during this period",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trumps-popularitet-falder-til-laveste-niveau-i-denne-periode?referrer=RSS",
-        "published_date": "2026-04-28 21:16:48",
-        "category": "Diplomacy"
+        "title": "Three killed in Russian attack in Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-draebt-i-russisk-angreb-i-ukraine",
+        "published_date": "2026-05-04 08:02:00",
+        "category": "Military"
+    },
+    {
+        "title": "Two American soldiers missing in Morocco",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/amerikanske-soldater-savnet-i-marokko",
+        "published_date": "2026-05-04 05:25:00",
+        "category": "Military"
     },
     {
         "title": "Zelensky: Ukraine has attacked two Russian shadow fleet ships",
@@ -350,6 +364,13 @@
         "category": "Energy"
     },
     {
+        "title": "It has been called \"the biggest crisis in history\" - but it doesn't feel that way",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/oekonomi/det-er-kaldt-historiens-stoerste-krise--men-foeles-ikke-saadan?referrer=RSS",
+        "published_date": "2026-05-04 12:05:29",
+        "category": "Economy"
+    },
+    {
         "title": "Fine reduces Saxo Bank's profits",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/boede-traekker-ned-i-saxo-banks-overskud?referrer=RSS",
@@ -399,143 +420,143 @@
         "category": "Economy"
     },
     {
-        "title": "Iranian politician warns the US about interference in the Strait of Hormuz",
+        "title": "Eight South Korean adoptees sue Denmark over human rights",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260504/eight-south-korean-adoptees-sue-denmark-over-human-rights",
+        "published_date": "2026-05-04 14:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Report: Most foreigners come to Denmark as labour migrants",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260504/report-most-foreigners-come-to-denmark-as-labour-migrants",
+        "published_date": "2026-05-04 12:43:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Male acquaintance arrested after woman found dead",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iransk-politiker-advarer-usa-om-indblanding-i-hormuzstraedet?referrer=RSS",
-        "published_date": "2026-05-03 23:23:45",
+        "url": "https://www.berlingske.dk/indland/mandlig-bekendt-er-anholdt-efter-at-kvinde-blev-fundet-doed?referrer=RSS",
+        "published_date": "2026-05-04 12:12:52",
         "category": "Local Events"
     },
     {
-        "title": "Celebrating Inter players recall last season's nightmare",
+        "title": "Marius Borg H\u00f8iby will serve time with an anklet with the crown prince couple",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-vil-afsone-med-fodlaenke-hos-kronprinsparret",
+        "published_date": "2026-05-04 12:11:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pope Leo and Rubio to meet after dispute with Trump",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/festende-inter-spillere-genkalder-sig-sidste-saesons-mareridt?referrer=RSS",
-        "published_date": "2026-05-03 23:20:48",
+        "url": "https://www.berlingske.dk/internationalt/pave-leo-og-rubio-skal-moedes-efter-strid-med-trump?referrer=RSS",
+        "published_date": "2026-05-04 11:51:50",
         "category": "Local Events"
     },
     {
-        "title": "Analysis: Fewer sick days in the public sector can free up thousands of employees",
+        "title": "Correction",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/analyse-faerre-sygedage-i-det-offentlige-kan-frigive-tusindvis-af-ansatte?referrer=RSS",
-        "published_date": "2026-05-03 21:59:46",
+        "url": "https://www.berlingske.dk/kommentatorer/rettelse-1?referrer=RSS",
+        "published_date": "2026-05-04 11:50:34",
         "category": "Local Events"
     },
     {
-        "title": "The US will help stranded ships out of the Strait of Hormuz on Monday",
+        "title": "Deadly outbreak of rodent virus is not cause for panic according to the WHO",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-vil-mandag-hjaelpe-strandede-skibe-ud-af-hormuzstraedet?referrer=RSS",
-        "published_date": "2026-05-03 21:34:49",
+        "url": "https://www.berlingske.dk/internationalt/doedeligt-udbrud-af-gnaver-virus-er-ikke-grund-til-panik-ifoelge-who?referrer=RSS",
+        "published_date": "2026-05-04 11:36:49",
         "category": "Local Events"
     },
     {
-        "title": "China's favorites reject French bid for World Cup sensation",
+        "title": "New Tottenham coach: Wins have solved mental problem",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kinas-favoritter-afviser-fransk-bud-paa-vm-sensation?referrer=RSS",
-        "published_date": "2026-05-03 21:20:45",
+        "url": "https://www.berlingske.dk/sport/ny-tottenham-traener-sejre-har-loest-mentalt-problem?referrer=RSS",
+        "published_date": "2026-05-04 11:32:45",
         "category": "Local Events"
     },
     {
-        "title": "Two Vinicius pearls postpone Barcelona's championship celebration",
+        "title": "Viagra sales reach new heights in Norway",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/viagra-salget-naar-nye-hoejder-i-norge",
+        "published_date": "2026-05-04 11:26:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The monarchy plays an important role in a time of upheaval \u2013 King Charles showed this with his speech",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/to-vinicius-perler-udskyder-barcelonas-mesterskabsfest?referrer=RSS",
-        "published_date": "2026-05-03 21:00:46",
+        "url": "https://www.berlingske.dk/kommentatorer/monarkiet-spiller-en-vigtig-rolle-i-en-opbrudstid--det-viste-kong-charles-med-sin-tale?referrer=RSS",
+        "published_date": "2026-05-04 11:20:03",
         "category": "Local Events"
     },
     {
-        "title": "Nadja Natalie Isaksen is leaving the Citizens' Party",
+        "title": "The private hospitals have available capacity.But the debate about lack of referrals is misleading",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/nadja-natalie-isaksen-forlader-borgernes-parti?referrer=RSS",
-        "published_date": "2026-05-03 20:49:47",
+        "url": "https://www.berlingske.dk/synspunkter/privathospitalerne-staar-med-ledig-kapacitet-men-debatten-om-manglende-henvisninger-er-misvisende?referrer=RSS",
+        "published_date": "2026-05-04 11:19:28",
         "category": "Local Events"
     },
     {
-        "title": "Home victory secures the Inter Serie A title in good time",
+        "title": "Three Russian diplomats expelled by Austria - accused of espionage",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-russiske-diplomater-udvist-af-oestrig-anklages-spionage",
+        "published_date": "2026-05-04 10:52:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young and very drunk man drove a car with melted tires",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/hjemmesejr-sikrer-inter-serie-a-titlen-i-god-tid?referrer=RSS",
-        "published_date": "2026-05-03 20:46:45",
+        "url": "https://www.berlingske.dk/indland/ung-og-meget-fuld-mand-koerte-i-bil-med-smeltede-daek?referrer=RSS",
+        "published_date": "2026-05-04 10:47:50",
         "category": "Local Events"
     },
     {
-        "title": "Police are investigating suspicious death",
+        "title": "New advice on the way for international adoptees",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-efterforsker-mistaenkeligt-doedsfald",
-        "published_date": "2026-05-03 18:33:00",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-raadgivning-paa-vej-til-internationalt-adopterede",
+        "published_date": "2026-05-04 09:48:00",
         "category": "Local Events"
     },
     {
-        "title": "Iran reports US response to peace proposal",
+        "title": "Peter A. G.donates settlement money to young homeless people",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-melder-om-amerikansk-svar-paa-fredsforslag",
-        "published_date": "2026-05-03 17:46:00",
+        "url": "https://www.dr.dk/nyheder/seneste/peter-g-donerer-forligspenge-til-unge-hjemloese",
+        "published_date": "2026-05-04 09:29:00",
         "category": "Local Events"
     },
     {
-        "title": "Merz: The US remains an important ally",
+        "title": "Former news anchor buys summer house for millions",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/varde/tidligere-nyhedsvaert-koeber-sommerhus-for-millioner?rss",
+        "published_date": "2026-05-04 08:45:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Monday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260504/today-in-denmark-a-roundup-of-the-latest-news-on-monday-42",
+        "published_date": "2026-05-04 08:24:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "23 innocents killed in Swedish gang shootings in three years",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/merz-usa-forbliver-vigtig-allieret",
-        "published_date": "2026-05-03 17:28:00",
+        "url": "https://www.dr.dk/nyheder/seneste/23-udenforstaaende-draebt-i-svenske-bandeskyderier-paa-tre-aar",
+        "published_date": "2026-05-04 08:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Two activists from the Gaza flotilla in court in Israel",
+        "title": "First food checks on the way today",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/aktivister-fra-gaza-flotille-i-retten-i-israel",
-        "published_date": "2026-05-03 17:17:00",
+        "url": "https://www.dr.dk/nyheder/seneste/foerste-foedevarechecks-paa-vej-i-dag",
+        "published_date": "2026-05-04 07:23:00",
         "category": "Local Events"
     },
     {
-        "title": "Politikreds encourages you to think twice when putting a house up for sale",
+        "title": "Police warn of burglary trend",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politikreds-opfordrer-til-taenke-sig-om-naar-man-saetter-hus-til-salg",
-        "published_date": "2026-05-03 15:28:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four people in hospital after shooting in London",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-personer-paa-hospitalet-efter-skyderi-i-london",
-        "published_date": "2026-05-03 15:17:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish coast guard borders another tanker",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/svensk-kystvagt-border-endnu-et-tankskib",
-        "published_date": "2026-05-03 14:29:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drone forces SAS plane to divert",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/drone-tvinger-sas-fly-til-omdirigering",
-        "published_date": "2026-05-03 14:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jutland municipalities get millions for wolf fences",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/jyske-kommuner-faar-millioner-til-ulvehegn",
-        "published_date": "2026-05-03 12:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "South and West Jutland municipalities receive a million grant for fences against wolves",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/syd-og-vestjyske-kommuner-faar-milliontilskud-til-hegn-mod-ulve?referrer=RSS",
-        "published_date": "2026-05-03 11:27:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Good final round sends Danish golfer towards the top in Antalya",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/god-finalerunde-sender-dansk-golfspiller-mod-toppen-i-antalya?referrer=RSS",
-        "published_date": "2026-05-03 11:12:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Politicians are fined 204,000 kroner for non-removed election posters",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politikere-faar-boeder-204-000-kroner-ikke-fjernede-valgplakater",
-        "published_date": "2026-05-03 10:48:00",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-advarer-om-indbrudstendens",
+        "published_date": "2026-05-04 05:42:00",
         "category": "Local Events"
     }
 ]
