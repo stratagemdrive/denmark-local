@@ -1,5 +1,26 @@
 [
     {
+        "title": "Norway will export gas from closed gas fields to Europe",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/norge-vil-eksportere-gas-fra-lukkede-gasfelter-til-europa?referrer=RSS",
+        "published_date": "2026-05-05 22:48:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "OVERVIEW: This is what we know about a suspected outbreak of infection on a cruise ship",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/overblik-det-ved-vi-om-formodet-smitteudbrud-paa-krydstogtskib?referrer=RSS",
+        "published_date": "2026-05-05 22:42:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Rubio has spoken with Russia's foreign minister about Ukraine and Iran",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rubio-har-talt-med-rusland-udenrigsminister-om-ukraine-og-iran",
+        "published_date": "2026-05-05 21:54:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Sweden and Denmark sign joint declaration against 'illegal migration'",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260505/sweden-and-denmark-sign-joint-declaration-against-illegal-migration",
@@ -119,25 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Citizens can once again move freely after a chemical spill",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/borgere-kan-igen-faerdes-frit-efter-kemikalieudslip?referrer=RSS",
-        "published_date": "2026-05-01 11:13:49",
-        "category": "Diplomacy"
+        "title": "More than 20 killed in Russian attacks against Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mere-end-20-draebte-i-russiske-angreb-mod-ukraine",
+        "published_date": "2026-05-05 23:14:00",
+        "category": "Military"
     },
     {
-        "title": "Blockbuster EU-Mercosur trade deal enters into force",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260501/blockbuster-eu-mercosur-trade-deal-enters-into-force",
-        "published_date": "2026-05-01 09:52:06",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Oscar winner from Danish-produced documentary loses his statuette",
+        "title": "Ukraine reports 25 dead in attacks on several cities",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/oscarvinder-fra-danskproduceret-dokumentar-mister-sin-statuette?referrer=RSS",
-        "published_date": "2026-04-30 21:42:49",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/ukraine-melder-om-25-draebte-i-angreb-paa-flere-byer?referrer=RSS",
+        "published_date": "2026-05-05 21:08:47",
+        "category": "Military"
     },
     {
         "title": "Shooting near the White House: Man shot after shootout with Secret Service",
@@ -263,20 +277,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/senatet-stemmer-nej-til-at-begraense-trumps-militaere-muligheder-i-cuba?referrer=RSS",
         "published_date": "2026-04-28 23:26:50",
-        "category": "Military"
-    },
-    {
-        "title": "Badminton Women beat Ukrainians and are ready for the World Cup quarter-finals",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/badmintonkvinder-slaar-ukrainere-og-er-klar-til-vm-kvartfinale?referrer=RSS",
-        "published_date": "2026-04-27 20:47:45",
-        "category": "Military"
-    },
-    {
-        "title": "Despite the ceasefire, Israel is expanding its attacks in Lebanon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trods-vaabenhvile-udvider-israel-sine-angreb-i-libanon",
-        "published_date": "2026-04-27 14:57:00",
         "category": "Military"
     },
     {
@@ -420,150 +420,143 @@
         "category": "Economy"
     },
     {
-        "title": "Now L\u00f8kke and Mette Frederiksen must see if they can agree",
+        "title": "Trump pauses US escorting of ships in the Strait of Hormuz",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/nu-skal-loekke-og-mette-frederiksen-se-om-de-kan-blive-enige?referrer=RSS",
-        "published_date": "2026-04-27 12:02:49",
-        "category": "Economy"
-    },
-    {
-        "title": "Danish sports stars sue company for use of images",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/danske-sportsstjerner-sagsoeger-firma-for-brug-af-billeder?referrer=RSS",
-        "published_date": "2026-05-05 11:49:51",
+        "url": "https://www.berlingske.dk/internationalt/trump-saetter-usas-eskortering-af-skibe-i-hormuzstraedet-paa-pause?referrer=RSS",
+        "published_date": "2026-05-05 23:16:48",
         "category": "Local Events"
     },
     {
-        "title": "The Attorney General will appeal the verdict for the murder of a 13-year-old to the Supreme Court",
+        "title": "Charges against suspect for assassination of Trump during dinner expanded",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/rigsadvokaten-vil-anke-dom-for-drab-paa-13-aarig-til-hoejesteret?referrer=RSS",
-        "published_date": "2026-05-05 11:45:53",
+        "url": "https://www.berlingske.dk/internationalt/tiltale-mod-mistaenkt-for-attentat-mod-trump-under-middag-udvides?referrer=RSS",
+        "published_date": "2026-05-05 23:13:47",
         "category": "Local Events"
     },
     {
-        "title": "Sj\u00e6llanders have higher sickness absence rates than Judys: \"The further west you go, the less sick you are\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/sjaellaendere-har-hoejere-sygefravaer-end-jyder-jo-laengere-vestpaa-du-kommer-jo-mindre-syg-er-du?referrer=RSS",
-        "published_date": "2026-05-05 11:37:58",
+        "title": "Train operation suspended at Hedensted after collision",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/togdrift-indstillet-ved-hedensted-efter-paakoersel",
+        "published_date": "2026-05-05 22:28:00",
         "category": "Local Events"
     },
     {
-        "title": "Researchers see signs of deliberate feeding of wolves at Oksb\u00f8l",
+        "title": "Spain will accept ships with hantavirus-infected tourists",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/forskere-ser-tegn-paa-bevidst-fodring-af-ulve-ved-oksboel?referrer=RSS",
-        "published_date": "2026-05-05 11:31:52",
+        "url": "https://www.berlingske.dk/internationalt/spanien-vil-tage-imod-skib-med-hantavirus-smittede-turister?referrer=RSS",
+        "published_date": "2026-05-05 21:45:48",
         "category": "Local Events"
     },
     {
-        "title": "Spain: We have not decided to accept ships with virus-infected people",
+        "title": "Train operation suspended at Hedensted after collision",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/spanien-vi-har-ikke-besluttet-at-tage-imod-skib-med-virussmittede?referrer=RSS",
-        "published_date": "2026-05-05 11:18:50",
+        "url": "https://www.berlingske.dk/indland/togdrift-indstillet-ved-hedensted-efter-paakoersel?referrer=RSS",
+        "published_date": "2026-05-05 21:26:54",
         "category": "Local Events"
     },
     {
-        "title": "It is perhaps the most anticipated film of the year: Now the trailer for the new Nolan film has landed",
+        "title": "Vigilant Saka kicks Arsenal into the second CL final in history",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/det-er-maaske-aarets-mest-ventede-film-nu-er-traileren-til-ny-nolan-film-landet?referrer=RSS",
-        "published_date": "2026-05-05 11:07:50",
+        "url": "https://www.berlingske.dk/sport/aarvaagen-saka-sparker-arsenal-i-anden-cl-finale-i-historien?referrer=RSS",
+        "published_date": "2026-05-05 20:58:46",
         "category": "Local Events"
     },
     {
-        "title": "Man denies driving particularly recklessly in fatal accident in Drag\u00f8r",
+        "title": "The WHO is tracking over 80 passengers from flights with the virus on board",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-naegter-at-have-koert-saerligt-hensynsloest-ved-doedsulykke-i-dragoer?referrer=RSS",
-        "published_date": "2026-05-05 11:05:52",
+        "url": "https://www.berlingske.dk/internationalt/who-opsporer-over-80-passagerer-fra-fly-med-virussmittet-om-bord?referrer=RSS",
+        "published_date": "2026-05-05 20:32:46",
         "category": "Local Events"
     },
     {
-        "title": "SAS cancels 1,200 flights in May due to fuel shortages",
+        "title": "Anders Matthesen has been named Honorary Craftsman of the Year",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/anders-matthesen-er-udnaevnt-til-aarets-aereshaandvaerker?referrer=RSS",
+        "published_date": "2026-05-05 20:06:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marco Rubio: At least ten civilian sailors have died during Iran's blockade of the Strait of Hormuz",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/marco-rubio-mindst-ti-civile-soefolk-er-doede-under-irans-blokade-af-hormuzstraedet",
+        "published_date": "2026-05-05 19:56:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Comedian Anders Matthesenen named 'Honorary Craftsman of the Year'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/komiker-anders-matthesenen-udnaevnt-til-aarets-aereshaandvaerker",
+        "published_date": "2026-05-05 19:44:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "WHO is looking for passengers who flew with a man-disease woman",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/who-leder-efter-passagerer-der-floej-med-hantasyg-kvinde",
+        "published_date": "2026-05-05 18:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "15 police officers arrested in Portugal in torture case",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/15-politifolk-anholdt-i-portugal-i-tortursag",
+        "published_date": "2026-05-05 17:57:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hare plague detected in a dead hare in Copenhagen",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/harepest-konstateret-hos-doed-hare-i-koebenhavn",
+        "published_date": "2026-05-05 17:52:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "More parking spaces should make everyday life easier for commuters at K\u00f8ge Nord Station",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-p-pladser-skal-goere-hverdagen-lettere-pendlere-ved-koege-nord-station",
+        "published_date": "2026-05-05 15:22:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alarm system down: Employees must use plastic whistles instead",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/alarmsystem-nede-ansatte-maa-bruge-plastikfloejter-i-stedet",
+        "published_date": "2026-05-05 14:52:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "REPORT: Wolves approaching humans in Jutland may have been 'actively fed'",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260505/sas-cancels-1200-flights-in-may-due-to-fuel-shortages",
-        "published_date": "2026-05-05 10:53:50",
+        "url": "https://www.thelocal.dk/20260505/report-wolves-in-jutland-may-have-been-actively-fed",
+        "published_date": "2026-05-05 14:39:43",
         "category": "Local Events"
     },
     {
-        "title": "NHL keeper must solve the ice hockey national team's goalie problem",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/nhl-keeper-skal-loese-ishockeylandsholdets-maalmandsproblem?referrer=RSS",
-        "published_date": "2026-05-05 10:50:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Accused of fraud: - I was chained to a bathtub",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/svindeltiltalt-jeg-blev-laenket-til-et-badekar?referrer=RSS",
-        "published_date": "2026-05-05 10:38:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Puk Damsg\u00e5rd stops in DR",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/puk-damsgaard-stopper-i-dr",
-        "published_date": "2026-05-05 10:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "9th class final exams affected by IT problems",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/9-klassernes-afgangseksamen-ramt-af-it-problemer",
-        "published_date": "2026-05-05 09:26:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Danish People's Party says no to vagrants",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-folkeparti-takker-nej-til-loesgaenger",
-        "published_date": "2026-05-05 08:56:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A record number of people have approached about deer collisions",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rekordmange-har-henvendt-sig-om-hjortepaakoersler",
-        "published_date": "2026-05-05 08:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dolly Parton cancels several concerts due to ill health",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dolly-parton-aflyser-flere-koncerter-paa-grund-af-daarligt-helbred",
-        "published_date": "2026-05-05 07:24:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The heirs give the city's most expensive villa for free to the university: that is what the house will now be used for",
+        "title": "The father of the abducted baby was on fire: - He gave my daughter cocaine",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/arvingerne-giver-byens-dyreste-villa-gratis-til-universitet-det-skal-huset-nu-bruges-til?rss",
-        "published_date": "2026-05-05 07:02:00",
+        "url": "https://jv.dk/haderslev/far-til-bortfoert-baby-var-ved-at-braende-sammen-han-gav-min-datter-kokain?rss",
+        "published_date": "2026-05-05 14:33:15",
         "category": "Local Events"
     },
     {
-        "title": "IT systems are running again in Region Southern Denmark - but with waiting times for patients",
+        "title": "15-year-old remanded in custody for 300 grams of cocaine",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/it-systemer-koerer-igen-i-region-syddanmark-men-med-ventetid-patienter",
-        "published_date": "2026-05-05 05:57:00",
+        "url": "https://www.dr.dk/nyheder/seneste/15-aarige-varetaegtsfaengslet-300-gram-kokain",
+        "published_date": "2026-05-05 13:51:00",
         "category": "Local Events"
     },
     {
-        "title": "Nine miners have died after an explosion in a coal mine",
+        "title": "Mette Grith Stage on Hjallerupsag: There is nothing principled in it",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ni-minearbejdere-er-doede-efter-eksplosion-i-kulmine",
-        "published_date": "2026-05-05 05:55:00",
+        "url": "https://www.dr.dk/nyheder/seneste/mette-grith-stage-om-hjallerupsag-der-er-intet-principielt-i-den",
+        "published_date": "2026-05-05 13:40:00",
         "category": "Local Events"
     },
     {
-        "title": "Explosion at Chinese fireworks factory kills 26",
+        "title": "IT breakdowns mean canceled exams at almost all of Silkeborg's schools",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eksplosion-paa-kinesisk-fyrvaerkerifabrik-draeber-21-personer",
-        "published_date": "2026-05-05 05:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The physical Rejsekort gets one more month in Zealand",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/det-fysiske-rejsekort-faar-en-maaned-mere-paa-sjaelland",
-        "published_date": "2026-05-05 05:07:00",
+        "url": "https://www.dr.dk/nyheder/seneste/it-nedbrud-betyder-aflyste-eksamener-paa-naesten-alle-silkeborgs-skoler",
+        "published_date": "2026-05-05 13:03:00",
         "category": "Local Events"
     }
 ]
