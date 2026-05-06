@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Israel has attacked Beirut for the first time since the ceasefire",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-har-angrebet-beirut-foerste-gang-siden-vaabenhvile",
+        "published_date": "2026-05-06 18:51:00",
+        "category": "Military"
+    },
+    {
         "title": "FACT: Mice and rats can infect humans with hantavirus",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/fakta-mus-og-rotter-kan-smitte-mennesker-med-hantavirus-1?referrer=RSS",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "After the telephone conversation between Trump and Putin came a startling message: Two wars can end at the same time",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/efter-telefonsamtale-mellem-trump-og-putin-kom-opsigtsvaekkende-melding-to-krige-kan-slutte-paa-samme-tid?referrer=RSS",
-        "published_date": "2026-04-29 20:33:46",
-        "category": "Military"
-    },
-    {
         "title": "Solar and wind can compete with fossil energy, report shows",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/sol-og-vind-kan-konkurrere-med-fossil-energi-viser-rapport",
@@ -364,13 +364,6 @@
         "category": "Energy"
     },
     {
-        "title": "The United Arab Emirates is leaving the Organization of Petroleum Exporting Countries",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/de-forenede-arabiske-emirater-forlader-organisation-oliestater",
-        "published_date": "2026-04-28 13:39:00",
-        "category": "Energy"
-    },
-    {
         "title": "Mom got too little for years - and it's just a shame",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/varde/mor-fik-for-lidt-i-aarevis-og-det-er-bare-aergerligt?rss",
@@ -399,18 +392,130 @@
         "category": "Economy"
     },
     {
-        "title": "Greenlandic municipality receives a million fine for not paying tax on time",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/groenlandsk-kommune-faar-millionboede-ikke-betale-skat-til-tiden",
-        "published_date": "2026-04-28 14:59:00",
-        "category": "Economy"
+        "title": "Judge releases Epstein's alleged resignation letter",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/dommer-frigiver-epsteins-formodede-afskedsbrev?referrer=RSS",
+        "published_date": "2026-05-06 23:23:52",
+        "category": "Local Events"
     },
     {
-        "title": "A record high proportion of Americans view their economic situation negatively",
+        "title": "PSG coach praises the team for a new final place: A pleasure to watch",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/psg-traener-roser-holdet-efter-ny-finaleplads-en-fornoejelse-at-se?referrer=RSS",
+        "published_date": "2026-05-06 23:23:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "GN lowers expectations after divestment of hearing aids",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/gn-nedjusterer-forventninger-efter-frasalg-af-hoereapparater?referrer=RSS",
+        "published_date": "2026-05-06 23:06:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "French aircraft carrier prepares for mission in the Strait of Hormuz",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fransk-hangarskib-forbereder-sig-paa-mission-i-hormuzstraedet?referrer=RSS",
+        "published_date": "2026-05-06 23:06:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lars Boje reaches out to the media after the MP's exit",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/lars-boje-langer-ud-efter-medier-efter-folketingsmedlems-exit?referrer=RSS",
+        "published_date": "2026-05-06 23:06:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "British princess will go on first trip abroad after cancer treatment",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/britisk-prinsesse-skal-paa-foerste-udlandstur-efter-kraeftbehandling?referrer=RSS",
+        "published_date": "2026-05-06 23:06:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Veteran keeper breathes new life into Kolding's promotion dream",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/veterankeeper-puster-nyt-liv-i-koldings-oprykningsdroem?referrer=RSS",
+        "published_date": "2026-05-06 23:06:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Religious communities report continuing high levels of anti-Semitism",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/trossamfund-melder-om-et-fortsat-hoejt-niveau-af-antisemitisme?referrer=RSS",
+        "published_date": "2026-05-06 23:06:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Media: Senior Hezbollah member killed in Israeli strike",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/medie-hoejtstaaende-hizbollah-medlem-draebt-i-israelsk-angreb?referrer=RSS",
+        "published_date": "2026-05-06 23:06:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tauson has been suffering from back problems for half a year",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tauson-har-doejet-med-rygproblemer-i-et-halvt-aar?referrer=RSS",
+        "published_date": "2026-05-06 23:06:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Great Belt Bridge has reopened after a fire in a truck closed the bridge",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rekordhoej-andel-af-amerikanere-ser-negativt-paa-deres-oekonomiske-situation",
-        "published_date": "2026-04-28 12:45:00",
-        "category": "Economy"
+        "url": "https://www.dr.dk/nyheder/seneste/storebaeltsbroen-lukket-al-trafik-2",
+        "published_date": "2026-05-06 20:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marius Borg H\u00f8iby calls rejection of custody with anklets 'absurd'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-kalder-afvisning-af-varetaegtsfaengsling-med-fodlaenke-absurd",
+        "published_date": "2026-05-06 20:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Care association gives red card after placement case: Boycott S\u00f8nderjysk municipality",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/plejeforening-giver-roedt-kort-efter-anbringelsessag-boykotter-soenderjysk-kommune?rss",
+        "published_date": "2026-05-06 16:32:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "New tests for 9th grades in the calendar after IT problems",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nye-proever-9-klasser-i-kalenderen-efter-it-problemer",
+        "published_date": "2026-05-06 16:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Novo share bounced - but closes with a smaller increase",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/novo-aktien-bankede-op-men-lukker-med-mindre-stigning",
+        "published_date": "2026-05-06 15:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four people from suspected Serbian drug network in custody",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-personer-fra-formodet-serbisk-narkonetvaerk-varetaegtsfaengslet",
+        "published_date": "2026-05-06 14:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "CNN's founder has died - he was 87 years old",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/cnn-s-grundlaegger-er-doed-han-blev-87-aar",
+        "published_date": "2026-05-06 14:18:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The construction of 'Krudten' is progressing according to plan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/byggeriet-af-krudten-skrider-frem-efter-planen",
+        "published_date": "2026-05-06 12:45:00",
+        "category": "Local Events"
     },
     {
         "title": "Trump: The war can end if Iran agrees to proposals",
@@ -424,132 +529,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/studie-fjeldskred-udloeste-481-meter-hoej-tsunami-i-alaska?referrer=RSS",
         "published_date": "2026-05-06 12:02:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The royal couple begins this year's sailing season with a trip to Helsing\u00f8r",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/kongeparret-indleder-aarets-sejlsaeson-med-tur-til-helsingoer?referrer=RSS",
-        "published_date": "2026-05-06 11:55:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Streaming drags up Disney accounts",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/streaming-traekker-disney-regnskab-op?referrer=RSS",
-        "published_date": "2026-05-06 11:52:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "The tickets for AGF's last match torn away",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/billetterne-til-agf-s-sidste-kamp-revet-vaek",
-        "published_date": "2026-05-06 11:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "It sounds beautiful when the state steps in and helps the Danes.But it has an unfortunate downside",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/det-lyder-smukt-naar-staten-gaar-ind-og-hjaelper-danskerne-men-det-har-en-ulykkelig-slagside?referrer=RSS",
-        "published_date": "2026-05-06 11:36:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Markets rejoice over possible peace agreement, but chief analyst warns of \"big risk\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/aktier/markederne-jubler-over-mulig-fredsaftale-men-chefanalytiker-advarer-om-stor-risiko?referrer=RSS",
-        "published_date": "2026-05-06 11:31:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "While the elderly are offered lentils and greens at the nursing home, the politicians stick to the tradition of warm roast pork at the town hall",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/metropol/mens-de-gamle-bliver-budt-paa-linser-og-groent-paa-plejehjemmet-holder-politikerne-fast-i-traditionen-med-lun-flaeskesteg-paa-raadhuset?referrer=RSS",
-        "published_date": "2026-05-06 11:27:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "The round tower's dome is hoisted into place after restoration",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rundetaarns-kuppel-hejses-paa-plads-efter-restaurering",
-        "published_date": "2026-05-06 11:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Number of apartments on sale in Copenhagen rises for fourth consecutive month",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260506/number-of-apartments-on-sale-in-copenhagen-rises-for-fourth-consecutive-month",
-        "published_date": "2026-05-06 10:45:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police ask for help in incident with cyclist",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-beder-om-hjaelp-til-episode-med-cyklist",
-        "published_date": "2026-05-06 10:38:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "22,400 illegal puff bars taken at the border",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/22-400-ulovlige-puffbars-taget-ved-graensen",
-        "published_date": "2026-05-06 10:37:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marius Borg H\u00f8iby is refused custody with anklets",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-faar-afvist-varetaegtsfaengsling-med-fodlaenke",
-        "published_date": "2026-05-06 10:33:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish government negotiations now longest in country's history",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260506/danish-government-negotiations-now-longest-in-countrys-history",
-        "published_date": "2026-05-06 09:16:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "German police search right-wing extremists in major operation",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tysk-politi-ransager-hoejreekstremister-i-stor-operation",
-        "published_date": "2026-05-06 09:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Special unit arrests four people from drug network",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/specialenhed-anholder-fire-personer-fra-narkotikanetvaerk",
-        "published_date": "2026-05-06 09:14:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The third largest gold find from the Viking Age has been found in North Jutland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tredjestoerste-guldfund-fra-vikingetiden-er-fundet-i-nordjylland",
-        "published_date": "2026-05-06 08:14:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260506/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-52",
-        "published_date": "2026-05-06 08:12:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "SF's chairman does not expect a new government this week",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sf-s-formand-venter-ingen-ny-regering-i-denne-uge",
-        "published_date": "2026-05-06 08:07:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Container ship from a French shipping company attacked in the Strait of Hormuz",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/containerskib-fra-fransk-rederi-angrebet-i-hormuzstraedet",
-        "published_date": "2026-05-06 07:29:00",
         "category": "Local Events"
     }
 ]
