@@ -1,5 +1,40 @@
 [
     {
+        "title": "Trump threatens the EU with higher tariffs after talks with von der Leyen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-truer-eu-med-hoejere-told-efter-samtale-med-von-der-leyen?referrer=RSS",
+        "published_date": "2026-05-07 21:33:55",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Aston Villa beats English rival and reaches European final",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/aston-villa-slaar-engelsk-rival-og-naar-europaeisk-finale?referrer=RSS",
+        "published_date": "2026-05-07 21:17:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Trump gives the EU until July 4 to get the trade agreement in place",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-giver-eu-frist-til-4-juli-til-faa-handelsaftale-paa-plads",
+        "published_date": "2026-05-07 19:40:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU billions for five hydrogen projects in Denmark",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-milliarder-til-fem-brintprojekter-i-danmark",
+        "published_date": "2026-05-07 15:27:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The US Secretary of State and Pope Leo met today",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-s-udenrigsminister-og-pave-leo-moedtes-i-dag",
+        "published_date": "2026-05-07 13:15:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Report: Denmark's water most expensive in Europe and price set to rise",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260507/report-denmarks-water-most-expensive-in-europe-and-price-set-to-rise",
@@ -105,39 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "NATO holds meetings with filmmakers from the US and Europe - some fear being used for propaganda",
+        "title": "Trump: Ceasefire still applies despite attacks on Iran",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kultur/nato-holder-moeder-med-filmfolk-fra-usa-og-europa--nogle-frygter-at-blive-udnyttet-til-propaganda?referrer=RSS",
-        "published_date": "2026-05-03 11:04:48",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/trump-vaabenhvile-gaelder-stadig-trods-angreb-mod-iran?referrer=RSS",
+        "published_date": "2026-05-07 23:17:50",
+        "category": "Military"
     },
     {
-        "title": "Six stars: Jakob Steen Olsen completely lost his breath - and now we know what the Queen's handbag hid",
+        "title": "Iran: The US has broken the ceasefire with attacks on Iranian oil tankers",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/scene/seks-stjerner-jakob-steen-olsen-tabte-fuldstaendig-pusten--og-nu-ved-vi-hvaddronningens-haandtaske-gemte?referrer=RSS",
-        "published_date": "2026-05-03 10:39:18",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/iran-usa-har-brudt-vaabenhvile-med-angreb-paa-iransk-olietanker?referrer=RSS",
+        "published_date": "2026-05-07 21:54:46",
+        "category": "Military"
     },
     {
-        "title": "They have said no twice.Now Putin and Trump are at stake, and this opens up a difficult discussion in Norway",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/de-har-sagt-nej-to-gange-nu-er-putin-og-trump-paa-spil-og-det-aabner-en-svaer-diskussion-i-norge?referrer=RSS",
-        "published_date": "2026-05-03 09:27:55",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Defense leadership tried to limit researchers' media statements",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/forsvarsledelse-forsoegte-at-begraense-forskeres-medieudtalelser?referrer=RSS",
-        "published_date": "2026-05-02 22:07:50",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Zelenskyj: Slovakia supports Ukrainian EU membership",
+        "title": "Zelenskyj reacts to Russian-announced ceasefire",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-slovakiet-stoetter-ukrainsk-eu-medlemskab",
-        "published_date": "2026-05-02 12:48:00",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-reagerer-paa-russisk-annonceret-vaabenhvile",
+        "published_date": "2026-05-07 17:24:00",
+        "category": "Military"
     },
     {
         "title": "Israel has attacked Beirut for the first time since the ceasefire",
@@ -259,27 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Analysis counts a record number of Russian drones against Ukraine in April",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/analyse-taeller-rekordmange-russiske-droner-mod-ukraine-i-april?referrer=RSS",
-        "published_date": "2026-05-01 11:39:46",
-        "category": "Military"
-    },
-    {
-        "title": "Trump is considering reducing the number of US troops in Germany after criticism from Merz",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-overvejer-reducere-antallet-af-amerikanske-soldater-i-tyskland-efter-kritik-fra-mertz",
-        "published_date": "2026-04-30 04:23:00",
-        "category": "Military"
-    },
-    {
-        "title": "Trump considers pulling troops home from Germany after Merz criticism",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-overvejer-at-traekke-soldater-hjem-fra-tyskland-efter-merz-kritik?referrer=RSS",
-        "published_date": "2026-04-29 23:20:47",
-        "category": "Military"
-    },
-    {
         "title": "Citizens want a general ban on new solar cells and wind turbines",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/borgere-vil-have-et-generelt-stop-nye-solceller-og-vindmoeller",
@@ -343,27 +343,6 @@
         "category": "Energy"
     },
     {
-        "title": "The US central bank maintains interest rates after the rise in oil prices",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-s-centralbank-fastholder-renten-efter-stigning-i-olieprisen",
-        "published_date": "2026-04-29 18:53:00",
-        "category": "Energy"
-    },
-    {
-        "title": "The oil price continues to rise significantly - highest since June 2022",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/olieprisen-fortsaetter-markant-stigning-hoejeste-siden-juni-2022",
-        "published_date": "2026-04-29 18:28:00",
-        "category": "Energy"
-    },
-    {
-        "title": "The gas leak in Skagen has been stopped",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/luk-vinduer-og-doere-gaslaekage-i-skagen",
-        "published_date": "2026-04-29 13:22:00",
-        "category": "Energy"
-    },
-    {
         "title": "Mom got too little for years - and it's just a shame",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/varde/mor-fik-for-lidt-i-aarevis-og-det-er-bare-aergerligt?rss",
@@ -385,150 +364,143 @@
         "category": "Economy"
     },
     {
-        "title": "Meta shares fall despite better-than-expected revenue",
+        "title": "The police are investigating a possible shooting in Ish\u00f8j - no one was hit",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterforsker-muligt-skyderi-i-ishoej-ingen-er-ramt",
+        "published_date": "2026-05-07 23:39:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil's Lula does not expect Trump to interfere in elections against Bolsonaro",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/meta-aktier-falder-trods-bedre-omsaetning-end-ventet?referrer=RSS",
-        "published_date": "2026-04-29 22:02:49",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/brasiliens-lula-forventer-ikke-trump-indblanding-i-valg-mod-bolsonaro?referrer=RSS",
+        "published_date": "2026-05-07 23:38:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are investigating a possible shooting in Ish\u00f8j - no one was hit",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-efterforsker-muligt-skyderi-i-ishoej-ingen-er-ramt?referrer=RSS",
+        "published_date": "2026-05-07 23:35:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maersk has six stranded ships in the Persian Gulf",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/maersk-har-seks-strandede-skibe-i-den-persiske-golf?referrer=RSS",
+        "published_date": "2026-05-07 23:17:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trade court rejects Trump's ten percent import tariff",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/handelsdomstol-underkender-trumps-importtold-paa-ti-procent?referrer=RSS",
+        "published_date": "2026-05-07 22:54:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Valverde rejects fight: I hit my head on a table",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/valverde-afviser-slaaskamp-jeg-slog-hovedet-mod-et-bord?referrer=RSS",
+        "published_date": "2026-05-07 22:02:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Great support for Greenland and Denmark in global measurement",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/stor-opbakning-til-groenland-og-danmark-i-global-maaling?referrer=RSS",
+        "published_date": "2026-05-07 21:21:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Von der Leyen after conversation with Trump: Good progress towards tariff reductions",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/von-der-leyen-efter-samtale-med-trump-gode-fremskridt-mod-toldreduktioner",
+        "published_date": "2026-05-07 21:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "66 Maersk ships stranded in the Persian Gulf",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/66-maersk-skibe-strandet-i-den-persiske-golf",
+        "published_date": "2026-05-07 19:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meeting between Trump and Brazil's president went 'really well', Trump says",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/moede-mellem-trump-og-brasiliens-praesident-gik-rigtig-godt-siger-trump",
+        "published_date": "2026-05-07 18:49:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The board has received six applications for private shooting of wolves",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/styrelse-har-faaet-seks-ansoegninger-om-privates-skydning-af-ulve",
+        "published_date": "2026-05-07 16:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish passenger in isolation after voyage on virus-hit ship",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260507/danish-passenger-in-isolation-after-voyage-on-virus-hit-ship",
+        "published_date": "2026-05-07 15:59:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Big stock market decline for Maersk after quarterly accounts",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/store-boersfald-til-maersk-efter-kvartalsregnskab",
+        "published_date": "2026-05-07 15:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Case on planning murder to be overturned after judge's error",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sag-om-planlaegning-af-drab-skal-gaa-om-efter-dommerfejl",
+        "published_date": "2026-05-07 15:28:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spanish police seize record amount of cocaine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/spansk-politi-beslaglaegger-rekordstor-maengde-kokain",
+        "published_date": "2026-05-07 15:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "General housing associations will train residents in crises",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/almene-boligforeninger-vil-traene-beboere-i-kriser",
+        "published_date": "2026-05-07 15:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Greenland's head of government reacts after collecting signatures",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/groenlands-regeringsleder-reagerer-efter-underskriftindsamling",
+        "published_date": "2026-05-07 14:49:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zelenskyj: Chief negotiator to meet with US envoys",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-chefforhandler-skal-moedes-med-usa-udsendinge",
+        "published_date": "2026-05-07 14:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chinese citizen arrested in Norway on suspicion of espionage",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kinesisk-statsborger-anholdt-i-norge-mistaenkt-spionage",
+        "published_date": "2026-05-07 13:53:00",
+        "category": "Local Events"
     },
     {
         "title": "Danish Moderates in talks with right-wing parties despite negotiations with left",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260507/danish-moderates-in-talks-with-right-wing-parties-despite-negotiations-with-left",
         "published_date": "2026-05-07 13:51:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Up to 100,000 people in Denmark may have type 2 diabetes: What are the signs?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260507/up-to-100000-people-in-denmark-may-have-type-2-diabetes-what-are-the-signs",
-        "published_date": "2026-05-07 12:44:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pole vaulting king balances sport and party: more people should do it",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/stangspringskonge-balancerer-sport-og-fest-flere-boer-goere-det?referrer=RSS",
-        "published_date": "2026-05-07 12:19:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The risk of bird flu among Danish poultry has decreased",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/risikoen-for-fugleinfluenza-blandt-danske-fjerkrae-er-faldet?referrer=RSS",
-        "published_date": "2026-05-07 12:19:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "King Frederik marks the 80th anniversary of Bornholm's liberation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/kong-frederik-markerer-80-aaret-for-bornholms-befrielse?referrer=RSS",
-        "published_date": "2026-05-07 12:16:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Major political crisis in Sweden: 100-year-old system 'sabotaged'",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/stor-politisk-krise-i-sverige-100-aar-gammelt-systemsaboteret?referrer=RSS",
-        "published_date": "2026-05-07 12:16:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "19-year-old man arrested in connection with attack on synagogue in London",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-mand-anholdt-i-forbindelse-med-angreb-paa-synagoge-i-london",
-        "published_date": "2026-05-07 12:14:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Passenger tells media about first cruise ship death",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/passager-fortaeller-medie-om-foerste-doedsfald-paa-krydstogtskib?referrer=RSS",
-        "published_date": "2026-05-07 12:13:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "A far greater proportion of DSB's customers have arrived late in 2026",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/langt-stoerre-andel-af-dsbs-kunder-er-kommet-for-sent-i-2026?referrer=RSS",
-        "published_date": "2026-05-07 12:09:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Disagreement over settlement after accusations against author of royal house book",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/uenighed-om-forlig-efter-beskyldninger-mod-forfatter-til-kongehus-bog?referrer=RSS",
-        "published_date": "2026-05-07 12:03:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "With Ryanair, 100,000 passengers disappeared in one month: that's how many Billund Airport has won back",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/med-ryanair-forsvandt-100-000-passagerer-paa-en-maaned-saa-mange-har-billund-lufthavn-vundet-tilbage?rss",
-        "published_date": "2026-05-07 12:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Case on planning murder to be overturned after judge's error",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/sag-om-planlaegning-af-drab-skal-gaa-om-efter-dommerfejl?referrer=RSS",
-        "published_date": "2026-05-07 11:59:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Dane has been on board a cruise ship with hantavirus",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/en-dansker-har-vaeret-om-bord-paa-krydstogtskib-med-hantavirus?referrer=RSS",
-        "published_date": "2026-05-07 11:53:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police have shot a 37-year-old man with a knife in Thybor\u00f8n",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-har-skudt-37-aarig-mand-med-kniv-i-thyboroen?referrer=RSS",
-        "published_date": "2026-05-07 11:46:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Realignment of road lanes ends tonight on the Hiller\u00f8d motorway",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/omlaegning-af-vejbaner-slutter-i-nat-paa-hilleroedmotorvejen",
-        "published_date": "2026-05-07 10:58:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police have shot a man with a knife in Thybor\u00f8n",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-ramt-af-skud-fra-politiet-i-thyboroen",
-        "published_date": "2026-05-07 10:51:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The first tunnel element on Fehmarn is in place",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/foerste-tunnelelement-paa-femern-er-paa-plads",
-        "published_date": "2026-05-07 08:58:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Animal welfare was fine when checking transport - but something else was wrong",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dyrevelfaerd-var-fin-ved-tjek-af-transporter-men-noget-andet-var-galt",
-        "published_date": "2026-05-07 08:13:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Thursday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260507/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-40",
-        "published_date": "2026-05-07 08:03:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tivoli announces 12 extra concerts for Fredagsrock",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tivoli-melder-om-12-ekstra-koncerter-til-fredagsrock",
-        "published_date": "2026-05-07 07:32:00",
         "category": "Local Events"
     }
 ]
