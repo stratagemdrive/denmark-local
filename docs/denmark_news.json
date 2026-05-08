@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sweden halts construction of power cable to Denmark after EU row",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260508/sweden-halts-construction-of-power-cable-to-denmark-in-eu-row",
+        "published_date": "2026-05-08 12:46:05",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The US Secretary of State meets with Giorgia Meloni",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-s-udenrigsminister-moedes-med-giorgia-meloni",
+        "published_date": "2026-05-08 11:56:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "US minister meets Meloni after Trump criticism",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/amerikansk-minister-moeder-meloni-efter-trump-kritik?referrer=RSS",
+        "published_date": "2026-05-08 11:24:51",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Trump threatens the EU with higher tariffs after talks with von der Leyen",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-truer-eu-med-hoejere-told-efter-samtale-med-von-der-leyen?referrer=RSS",
@@ -119,25 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Britain is ready for negotiations on EU loans to Ukraine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/storbritannien-er-klar-til-forhandlinger-om-eu-laan-til-ukraine?referrer=RSS",
-        "published_date": "2026-05-03 22:34:48",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "S\u00f8ren Pind sees a spirit awakening throughout the West - and this makes him believe in a United States after Trump",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/soeren-pind-ser-en-aand-vaagne-i-hele-vesten--og-det-faar-ham-til-at-tro-paa-et-usa-efter-trump?referrer=RSS",
-        "published_date": "2026-05-03 11:29:50",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "An under-exposed Chinese billion-dollar industry has come to Europe \u2013 and it says everything about our times",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/litteratur/en-underbelyst-kinesisk-milliardindustri-er-kommet-til-europa--og-den-siger-alt-om-vores-tid?referrer=RSS",
-        "published_date": "2026-05-03 11:08:53",
-        "category": "Diplomacy"
+        "title": "Zelenskyy reports attack despite Russian-announced ceasefire",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-melder-om-angreb-trods-russisk-annonceret-vaabenhvile",
+        "published_date": "2026-05-08 05:23:00",
+        "category": "Military"
     },
     {
         "title": "Trump: Ceasefire still applies despite attacks on Iran",
@@ -273,11 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "R\u00f8dovre Municipality buys old business land for Ukrainians",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/roedovre-kommune-koeber-gammel-erhvervsgrund-til-ukrainere",
-        "published_date": "2026-05-01 15:14:00",
-        "category": "Military"
+        "title": "In the middle of a deficit of billions - this is how much the director of the reviled energy giant gets paid",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/athena-erhverv/midt-i-milliardunderskud-saa-meget-faar-direktoeren-for-udskaeldt-energimastodont-i-loen?rss",
+        "published_date": "2026-05-08 08:05:00",
+        "category": "Energy"
     },
     {
         "title": "Citizens want a general ban on new solar cells and wind turbines",
@@ -322,25 +329,11 @@
         "category": "Energy"
     },
     {
-        "title": "Mother avoids prison after traffic accident - must look after disabled daughter",
+        "title": "In the middle of the debate about bank loans and mortgages, we are overlooking something absolutely crucial",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mor-undgaar-faengsel-efter-trafikulykke-skal-passe-invalideret-datter?referrer=RSS",
-        "published_date": "2026-04-30 11:28:46",
-        "category": "Energy"
-    },
-    {
-        "title": "Man sentenced for turning off electricity at hospital",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-doemt-slukke-stroem-paa-hospital",
-        "published_date": "2026-04-30 10:07:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Oil price at highest level since 2022",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/olieprisen-taet-paa-hoejeste-niveau-siden-2022",
-        "published_date": "2026-04-30 06:13:00",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/kronikker/midt-i-debatten-om-banklaan-og-realkredit-overser-vi-noget-helt-afgoerende?referrer=RSS",
+        "published_date": "2026-05-08 12:02:42",
+        "category": "Economy"
     },
     {
         "title": "Mom got too little for years - and it's just a shame",
@@ -364,143 +357,143 @@
         "category": "Economy"
     },
     {
-        "title": "The police are investigating a possible shooting in Ish\u00f8j - no one was hit",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterforsker-muligt-skyderi-i-ishoej-ingen-er-ramt",
-        "published_date": "2026-05-07 23:39:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazil's Lula does not expect Trump to interfere in elections against Bolsonaro",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/brasiliens-lula-forventer-ikke-trump-indblanding-i-valg-mod-bolsonaro?referrer=RSS",
-        "published_date": "2026-05-07 23:38:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police are investigating a possible shooting in Ish\u00f8j - no one was hit",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-efterforsker-muligt-skyderi-i-ishoej-ingen-er-ramt?referrer=RSS",
-        "published_date": "2026-05-07 23:35:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Maersk has six stranded ships in the Persian Gulf",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/maersk-har-seks-strandede-skibe-i-den-persiske-golf?referrer=RSS",
-        "published_date": "2026-05-07 23:17:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trade court rejects Trump's ten percent import tariff",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/handelsdomstol-underkender-trumps-importtold-paa-ti-procent?referrer=RSS",
-        "published_date": "2026-05-07 22:54:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Valverde rejects fight: I hit my head on a table",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/valverde-afviser-slaaskamp-jeg-slog-hovedet-mod-et-bord?referrer=RSS",
-        "published_date": "2026-05-07 22:02:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Great support for Greenland and Denmark in global measurement",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/stor-opbakning-til-groenland-og-danmark-i-global-maaling?referrer=RSS",
-        "published_date": "2026-05-07 21:21:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Von der Leyen after conversation with Trump: Good progress towards tariff reductions",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/von-der-leyen-efter-samtale-med-trump-gode-fremskridt-mod-toldreduktioner",
-        "published_date": "2026-05-07 21:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "66 Maersk ships stranded in the Persian Gulf",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/66-maersk-skibe-strandet-i-den-persiske-golf",
-        "published_date": "2026-05-07 19:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Meeting between Trump and Brazil's president went 'really well', Trump says",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/moede-mellem-trump-og-brasiliens-praesident-gik-rigtig-godt-siger-trump",
-        "published_date": "2026-05-07 18:49:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The board has received six applications for private shooting of wolves",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/styrelse-har-faaet-seks-ansoegninger-om-privates-skydning-af-ulve",
-        "published_date": "2026-05-07 16:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish passenger in isolation after voyage on virus-hit ship",
+        "title": "A hundred evacuated after major fire breaks out in Copenhagen",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260507/danish-passenger-in-isolation-after-voyage-on-virus-hit-ship",
-        "published_date": "2026-05-07 15:59:13",
+        "url": "https://www.thelocal.dk/20260508/a-hundred-evacuated-after-fire-breaks-out-in-copenhagen",
+        "published_date": "2026-05-08 13:32:56",
         "category": "Local Events"
     },
     {
-        "title": "Big stock market decline for Maersk after quarterly accounts",
+        "title": "Norway is awaiting Fifa notification about Bod\u00f8/Glimt profile before the World Cup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/norge-afventer-fifa-melding-om-bodoeglimt-profil-inden-vm?referrer=RSS",
+        "published_date": "2026-05-08 11:59:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Voters punish Boje's collapse: New poll sends him completely out of the Folketing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/vaelgerne-straffer-bojes-kollaps-ny-maaling-sender-ham-helt-ud-af-folketinget?referrer=RSS",
+        "published_date": "2026-05-08 11:59:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "He threatened a girl's life because she violated Islam: \"The principal almost feared the conversation more than I did\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/han-truede-en-pige-paa-livet-fordi-hun-kraenkede-islam-rektoren-frygtede-naermest-samtalen-mere-end-jeg?referrer=RSS",
+        "published_date": "2026-05-08 11:57:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Professors criticize the Danish parliament's closed nature regarding efforts in Afghanistan",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/professorer-kritiserer-folketingets-lukkethed-om-indsats-i-afghanistan?referrer=RSS",
+        "published_date": "2026-05-08 11:46:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Knifeman shot by police - jailed for attacking two officers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/knivmand-blev-skudt-af-politiet-faengsles-for-at-angribe-to-betjente?referrer=RSS",
+        "published_date": "2026-05-08 11:36:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The owners of the 118-year-old seaside hotel do not want to tear it down after all",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/arkitektur/ejere-af-118-aar-gammelt-badehotel-vil-alligevel-ikke-rive-det-ned?referrer=RSS",
+        "published_date": "2026-05-08 11:32:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police charge three spectators with racism after the top match",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/politiet-sigter-tre-tilskuere-for-racisme-efter-topkamp?referrer=RSS",
+        "published_date": "2026-05-08 11:28:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The meat is red, and the politicians like to eat it.But they won't let the kids do the same",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/metropol/koedet-er-roedt-og-politikerne-spiser-det-gerne-men-de-vil-ikke-lade-boernene-goere-det-samme?referrer=RSS",
+        "published_date": "2026-05-08 11:18:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fake website cheats with tickets to beautiful party",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/store-boersfald-til-maersk-efter-kvartalsregnskab",
-        "published_date": "2026-05-07 15:34:00",
+        "url": "https://www.dr.dk/nyheder/seneste/falsk-hjemmeside-snyder-med-billetter-til-smukfest",
+        "published_date": "2026-05-08 11:11:00",
         "category": "Local Events"
     },
     {
-        "title": "Case on planning murder to be overturned after judge's error",
+        "title": "Man convicted of forgery with 20 kroner",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sag-om-planlaegning-af-drab-skal-gaa-om-efter-dommerfejl",
-        "published_date": "2026-05-07 15:28:00",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-doemt-pengefalsk-med-20-kroner",
+        "published_date": "2026-05-08 10:36:00",
         "category": "Local Events"
     },
     {
-        "title": "Spanish police seize record amount of cocaine",
+        "title": "A roof fire broke out in Copenhagen",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/spansk-politi-beslaglaegger-rekordstor-maengde-kokain",
-        "published_date": "2026-05-07 15:25:00",
+        "url": "https://www.dr.dk/nyheder/seneste/tagbrand-brudt-ud-i-koebenhavn",
+        "published_date": "2026-05-08 10:30:00",
         "category": "Local Events"
     },
     {
-        "title": "General housing associations will train residents in crises",
+        "title": "On top of the closure of post-secondary schools: - More are going to close",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/vejen/efterskoleforening-om-lukning-af-efterskole-flere-kommer-til-at-lukke?rss",
+        "published_date": "2026-05-08 10:12:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two boys lost their lives: the police's investigations are now complete",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/toender/to-drenge-mistede-livet-nu-er-politiets-undersoegelser-faerdige?rss",
+        "published_date": "2026-05-08 10:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sweden puts the expansion of the electricity cable to Denmark on hold",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/almene-boligforeninger-vil-traene-beboere-i-kriser",
-        "published_date": "2026-05-07 15:24:00",
+        "url": "https://www.dr.dk/nyheder/seneste/sverige-saetter-udbygning-af-elkabel-til-danmark-paa-pause",
+        "published_date": "2026-05-08 09:27:00",
         "category": "Local Events"
     },
     {
-        "title": "Greenland's head of government reacts after collecting signatures",
+        "title": "State attorney drops case against police officer charged with rape",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/groenlands-regeringsleder-reagerer-efter-underskriftindsamling",
-        "published_date": "2026-05-07 14:49:00",
+        "url": "https://www.dr.dk/nyheder/seneste/statsadvokat-dropper-sag-mod-voldtaegtssigtet-politiansat",
+        "published_date": "2026-05-08 09:02:00",
         "category": "Local Events"
     },
     {
-        "title": "Zelenskyj: Chief negotiator to meet with US envoys",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-chefforhandler-skal-moedes-med-usa-udsendinge",
-        "published_date": "2026-05-07 14:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chinese citizen arrested in Norway on suspicion of espionage",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kinesisk-statsborger-anholdt-i-norge-mistaenkt-spionage",
-        "published_date": "2026-05-07 13:53:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish Moderates in talks with right-wing parties despite negotiations with left",
+        "title": "Greenland slams bid to buy signatures for petition to join US",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260507/danish-moderates-in-talks-with-right-wing-parties-despite-negotiations-with-left",
-        "published_date": "2026-05-07 13:51:10",
+        "url": "https://www.thelocal.dk/20260508/greenland-slams-bid-to-buy-signatures-for-petition-to-join-us",
+        "published_date": "2026-05-08 08:54:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "End of plastic whistles at AUH",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/slut-med-plasticfloejter-paa-auh",
+        "published_date": "2026-05-08 08:54:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Friday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260508/today-in-denmark-a-roundup-of-the-latest-news-on-friday-43",
+        "published_date": "2026-05-08 08:43:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man who was shot by police charged with assaulting officers",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-der-blev-skudt-af-politiet-sigtes-angreb-mod-betjente",
+        "published_date": "2026-05-08 08:41:00",
         "category": "Local Events"
     }
 ]
