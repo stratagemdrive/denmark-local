@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Trump announces three-day ceasefire in conjunction with Russia's May 9 celebration",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-annoncerer-tre-dages-vaabenhvile-i-forbindelse-med-ruslands-fejring-af-9-maj",
+        "published_date": "2026-05-08 18:26:00",
+        "category": "Military"
+    },
+    {
         "title": "Zelenskyy reports attack despite Russian-announced ceasefire",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-melder-om-angreb-trods-russisk-annonceret-vaabenhvile",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Trump pulls 5000 soldiers home from Germany",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-traekker-5000-soldater-hjem-fra-tyskland?referrer=RSS",
-        "published_date": "2026-05-01 22:29:46",
-        "category": "Military"
-    },
-    {
         "title": "In the middle of a deficit of billions - this is how much the director of the reviled energy giant gets paid",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/athena-erhverv/midt-i-milliardunderskud-saa-meget-faar-direktoeren-for-udskaeldt-energimastodont-i-loen?rss",
@@ -357,143 +357,143 @@
         "category": "Economy"
     },
     {
-        "title": "A hundred evacuated after major fire breaks out in Copenhagen",
+        "title": "Police suspect road rage in traffic accidents in Odense",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-mistaenker-vejvrede-ved-trafikuheld-i-odense",
+        "published_date": "2026-05-08 23:22:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police suspect road rage in traffic accidents in Odense",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politi-mistaenker-vejvrede-ved-trafikuheld-i-odense?referrer=RSS",
+        "published_date": "2026-05-08 23:15:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six have been confirmed infected with hantavirus on a cruise ship",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seks-er-bekraeftet-smittet-med-hantavirus-paa-krydstogtsskib?referrer=RSS",
+        "published_date": "2026-05-08 22:46:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "FACTS: Here are the parties' demands for the royal investigator",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/fakta-her-er-partiernes-krav-til-den-kongelige-undersoeger?referrer=RSS",
+        "published_date": "2026-05-08 21:22:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young Croatian knocks out rusty Djokovic: He is my idol",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/ung-kroat-slaar-rusten-djokovic-ud-han-er-mit-idol?referrer=RSS",
+        "published_date": "2026-05-08 21:03:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Troels Lund Poulsen must seek a new government without S and M",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/troels-lund-poulsen-skal-afsoege-ny-regering-uden-s-og-m?referrer=RSS",
+        "published_date": "2026-05-08 20:48:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "There is no reason to worry about the Danes' relationship with Christianity",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/der-er-ingen-grund-til-bekymring-for-danskernes-forhold-til-kristendommen?referrer=RSS",
+        "published_date": "2026-05-08 20:41:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "The world is in chaos - but white asparagus, fjord prawns and a good butcher still last",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/verden-er-i-udu--men-hvide-asparges-fjordrejer-og-en-god-slagter-holder-stadig?referrer=RSS",
+        "published_date": "2026-05-08 20:39:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Troels Lund Poulsen has been appointed as negotiator",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/troels-lund-poulsen-er-udnaevnt-som-forhandlingsleder",
+        "published_date": "2026-05-08 20:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dane tested negative for hantavirus after flight",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dansker-testet-negativ-for-hantavirus-efter-flyrejse?referrer=RSS",
+        "published_date": "2026-05-08 20:34:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Labor loses power in Wales for the first time since 1999",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/labour-mister-magten-i-wales-for-foerste-gang-siden-1999?referrer=RSS",
+        "published_date": "2026-05-08 20:05:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark men's ice hockey wins another WC test",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/danmark-ishockeyherrer-vinder-endnu-en-vm-test",
+        "published_date": "2026-05-08 19:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish ice hockey men win penultimate WC test",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/danske-ishockeyherrer-vinder-naestsidste-vm-test?referrer=RSS",
+        "published_date": "2026-05-08 19:21:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish vaccine researcher extradited from Germany to the USA",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansk-vaccineforsker-udleveret-fra-tyskland-til-usa",
+        "published_date": "2026-05-08 19:13:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "11-year-old detained in Aarhus for violence against 12-year-old in Br\u00f8ndbytr\u00f8je",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/11-aarig-tilbageholdt-i-aarhus-vold-mod-12-aarig-i-broendbytroeje",
+        "published_date": "2026-05-08 17:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four sentenced in the US in connection with the assassination of Haiti's president in 2021",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-doemt-i-usa-i-forbindelse-med-drab-paa-haitis-praesident-i-2021",
+        "published_date": "2026-05-08 17:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US has published the first files on UFOs",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-har-offentliggjort-de-foerste-filer-om-ufo-er",
+        "published_date": "2026-05-08 16:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bear kills woman in Japan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bjoern-draeber-kvinde-i-japan",
+        "published_date": "2026-05-08 16:39:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish PM loses bid to form government as Moderates leave talks",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260508/a-hundred-evacuated-after-fire-breaks-out-in-copenhagen",
-        "published_date": "2026-05-08 13:32:56",
+        "url": "https://www.thelocal.dk/20260508/danish-pm-loses-bid-to-form-government-as-moderates-back-new-talks",
+        "published_date": "2026-05-08 16:37:48",
         "category": "Local Events"
     },
     {
-        "title": "Norway is awaiting Fifa notification about Bod\u00f8/Glimt profile before the World Cup",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/norge-afventer-fifa-melding-om-bodoeglimt-profil-inden-vm?referrer=RSS",
-        "published_date": "2026-05-08 11:59:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Voters punish Boje's collapse: New poll sends him completely out of the Folketing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/vaelgerne-straffer-bojes-kollaps-ny-maaling-sender-ham-helt-ud-af-folketinget?referrer=RSS",
-        "published_date": "2026-05-08 11:59:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "He threatened a girl's life because she violated Islam: \"The principal almost feared the conversation more than I did\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/han-truede-en-pige-paa-livet-fordi-hun-kraenkede-islam-rektoren-frygtede-naermest-samtalen-mere-end-jeg?referrer=RSS",
-        "published_date": "2026-05-08 11:57:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Professors criticize the Danish parliament's closed nature regarding efforts in Afghanistan",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/professorer-kritiserer-folketingets-lukkethed-om-indsats-i-afghanistan?referrer=RSS",
-        "published_date": "2026-05-08 11:46:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Knifeman shot by police - jailed for attacking two officers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/knivmand-blev-skudt-af-politiet-faengsles-for-at-angribe-to-betjente?referrer=RSS",
-        "published_date": "2026-05-08 11:36:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The owners of the 118-year-old seaside hotel do not want to tear it down after all",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/arkitektur/ejere-af-118-aar-gammelt-badehotel-vil-alligevel-ikke-rive-det-ned?referrer=RSS",
-        "published_date": "2026-05-08 11:32:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police charge three spectators with racism after the top match",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/politiet-sigter-tre-tilskuere-for-racisme-efter-topkamp?referrer=RSS",
-        "published_date": "2026-05-08 11:28:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The meat is red, and the politicians like to eat it.But they won't let the kids do the same",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/metropol/koedet-er-roedt-og-politikerne-spiser-det-gerne-men-de-vil-ikke-lade-boernene-goere-det-samme?referrer=RSS",
-        "published_date": "2026-05-08 11:18:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fake website cheats with tickets to beautiful party",
+        "title": "Motzfeldt joins the new Greenlandic party",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/falsk-hjemmeside-snyder-med-billetter-til-smukfest",
-        "published_date": "2026-05-08 11:11:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man convicted of forgery with 20 kroner",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-doemt-pengefalsk-med-20-kroner",
-        "published_date": "2026-05-08 10:36:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A roof fire broke out in Copenhagen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tagbrand-brudt-ud-i-koebenhavn",
-        "published_date": "2026-05-08 10:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "On top of the closure of post-secondary schools: - More are going to close",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/vejen/efterskoleforening-om-lukning-af-efterskole-flere-kommer-til-at-lukke?rss",
-        "published_date": "2026-05-08 10:12:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two boys lost their lives: the police's investigations are now complete",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/toender/to-drenge-mistede-livet-nu-er-politiets-undersoegelser-faerdige?rss",
-        "published_date": "2026-05-08 10:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sweden puts the expansion of the electricity cable to Denmark on hold",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sverige-saetter-udbygning-af-elkabel-til-danmark-paa-pause",
-        "published_date": "2026-05-08 09:27:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "State attorney drops case against police officer charged with rape",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/statsadvokat-dropper-sag-mod-voldtaegtssigtet-politiansat",
-        "published_date": "2026-05-08 09:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Greenland slams bid to buy signatures for petition to join US",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260508/greenland-slams-bid-to-buy-signatures-for-petition-to-join-us",
-        "published_date": "2026-05-08 08:54:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "End of plastic whistles at AUH",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/slut-med-plasticfloejter-paa-auh",
-        "published_date": "2026-05-08 08:54:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Friday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260508/today-in-denmark-a-roundup-of-the-latest-news-on-friday-43",
-        "published_date": "2026-05-08 08:43:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man who was shot by police charged with assaulting officers",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-der-blev-skudt-af-politiet-sigtes-angreb-mod-betjente",
-        "published_date": "2026-05-08 08:41:00",
+        "url": "https://www.dr.dk/nyheder/seneste/motzfeldt-melder-sig-ind-i-nyt-groenlandsk-parti",
+        "published_date": "2026-05-08 15:13:00",
         "category": "Local Events"
     }
 ]
