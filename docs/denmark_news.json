@@ -1,5 +1,12 @@
 [
     {
+        "title": "EU Commission clarifies flight compensation rights amid travel disruption",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260509/eu-commission-clarifies-flight-compensation-rights-amid-travel-disruption",
+        "published_date": "2026-05-09 09:32:59",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Sweden halts construction of power cable to Denmark after EU row",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260508/sweden-halts-construction-of-power-cable-to-denmark-in-eu-row",
@@ -133,11 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "US warship reportedly hit by missiles: US denies",
+        "title": "Bornholmers can hear shots and see drones during defense exercises",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amerikansk-krigsskib-meldes-ramt-af-missiler-usa-afviser?referrer=RSS",
-        "published_date": "2026-05-04 11:51:46",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/danmark/bornholmere-kan-hoere-skud-og-se-droner-under-forsvarsoevelse?referrer=RSS",
+        "published_date": "2026-05-09 10:41:46",
+        "category": "Military"
+    },
+    {
+        "title": "US punishes companies for supplying Iran's arms industry",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-straffer-selskaber-levere-til-irans-vaabenindustri",
+        "published_date": "2026-05-09 04:40:00",
+        "category": "Military"
+    },
+    {
+        "title": "Trump hopes temporary ceasefire between Ukraine and Russia can last longer",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-haaber-midlertidig-vaabenhvile-mellem-ukraine-og-rusland-kan-vare-laengere",
+        "published_date": "2026-05-09 00:54:00",
+        "category": "Military"
+    },
+    {
+        "title": "The US is punishing individuals and companies for allegedly supporting Iran's weapons sector",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-sanktionerer-ti-personer-og-virksomheder-angivelig-stoette-til-irans-vaabensektor",
+        "published_date": "2026-05-08 23:46:00",
+        "category": "Military"
     },
     {
         "title": "Trump announces three-day ceasefire in conjunction with Russia's May 9 celebration",
@@ -252,34 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Trump will withdraw more soldiers from Germany",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-vil-traekke-flere-soldater-hjem-fra-tyskland?referrer=RSS",
-        "published_date": "2026-05-02 23:24:49",
-        "category": "Military"
-    },
-    {
-        "title": "Trump says he will pull more troops home from Germany",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-siger-han-vil-traekke-flere-soldater-hjem-fra-tyskland",
-        "published_date": "2026-05-02 23:12:00",
-        "category": "Military"
-    },
-    {
-        "title": "Republicans: US withdrawal sends wrong signal to Putin",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/republikanere-usas-tilbagetraekning-sender-forkert-signal-til-putin?referrer=RSS",
-        "published_date": "2026-05-02 20:40:45",
-        "category": "Military"
-    },
-    {
-        "title": "The US approves arms sales to allies in the Middle East",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-godkender-vaabensalg-til-allierede-mellemoesten",
-        "published_date": "2026-05-02 05:10:00",
-        "category": "Military"
-    },
-    {
         "title": "In the middle of a deficit of billions - this is how much the director of the reviled energy giant gets paid",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/athena-erhverv/midt-i-milliardunderskud-saa-meget-faar-direktoeren-for-udskaeldt-energimastodont-i-loen?rss",
@@ -350,11 +350,130 @@
         "category": "Economy"
     },
     {
-        "title": "Fine reduces Saxo Bank's profits",
+        "title": "The alternative calls blue criticism of green food in nursing homes \"populist\": There is meat on the menu again and again",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/boede-traekker-ned-i-saxo-banks-overskud?referrer=RSS",
-        "published_date": "2026-05-01 11:39:49",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/indland/alternativet-kalder-blaa-kritik-af-groen-mad-paa-plejehjem-for-populistisk-der-er-koed-paa-menuen-igen-og-igen?referrer=RSS",
+        "published_date": "2026-05-09 11:37:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "It was supposed to be an adventure trip, but on board was a deadly \"blind passenger\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/det-skulle-vaere-en-eventyrrejse-men-med-ombord-var-en-livsfarligblind-passager?referrer=RSS",
+        "published_date": "2026-05-09 11:36:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jarl Cordua: L\u00f8kke is more experienced, cunning and probably also more patient than everyone else - we saw that on Friday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/jarl-cordua-loekke-er-mere-erfaren-snu-og-nok-ogsaa-mere-taalmodig-end-alle-andre--det-saa-vi-fredag?referrer=RSS",
+        "published_date": "2026-05-09 11:35:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "The hyped hot dog in New York triggers discussion: Is it Swedish or Danish?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/gastronomi/hypet-hotdog-i-new-york-udloeser-diskussion-er-den-svensk-eller-dansk?referrer=RSS",
+        "published_date": "2026-05-09 11:21:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Real coach after apology from battle cocks: Enough for me",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/real-traener-efter-undskyldning-fra-kamphaner-nok-for-mig?referrer=RSS",
+        "published_date": "2026-05-09 11:21:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marathon means blocked roads and parking bans in Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/maraton-betyder-spaerrede-veje-og-parkeringsforbud-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-05-09 11:11:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ship with hantavirus outbreak arrives in Tenerife on Sunday morning",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/skib-med-hantavirusudbrud-ankommer-til-tenerife-soendag-morgen?referrer=RSS",
+        "published_date": "2026-05-09 11:07:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The war over your home loan explodes \u2013 Denmark's most powerful financial boss takes his good clothes and leaves",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentar/krigen-om-dit-boliglaan-eksploderer--danmarks-mest-magtfulde-finansboss-tager-sit-gode-toej-og-gaar?referrer=RSS",
+        "published_date": "2026-05-09 10:55:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "An elderly man has been found dead in a well near Kolding",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/aeldre-mand-er-fundet-doed-i-broend-naer-kolding?referrer=RSS",
+        "published_date": "2026-05-09 10:53:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Road work ahead: Damaged joints on the Vejlefjord Bridge must be replaced",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/vejarbejde-forude-oedelagte-fuger-paa-vejlefjordbroen-skal-skiftes",
+        "published_date": "2026-05-09 09:49:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several injured after car hits pedestrians in British city",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-skadet-efter-bil-rammer-fodgaengere-i-britisk",
+        "published_date": "2026-05-09 09:19:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Passenger plane hits person on runway in Denver",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/passagerfly-rammer-person-paa-landingsbane-i-denver",
+        "published_date": "2026-05-09 08:54:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Love for mother has set the fine block in motion",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kaerlighed-til-mor-har-sat-gang-i-boedeblokken",
+        "published_date": "2026-05-09 08:53:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Talks to form new government in Denmark after hung polls fail",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260509/talks-to-form-new-government-in-denmark-after-hung-polls-fail",
+        "published_date": "2026-05-09 08:52:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Elderly man found dead in well",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/kolding/politi-og-beredskab-til-stede-paa-ejendom-en-samlet-indsats-siger-vagtchefen?rss",
+        "published_date": "2026-05-09 08:20:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "In 2028, there will be direct trains between Denmark and Norway",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/i-2028-kommer-der-direkte-tog-mellem-danmark-og-norge",
+        "published_date": "2026-05-09 07:26:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three presumed dead after volcanic eruption in Indonesia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-formodes-omkommet-efter-vulkanudbrud-i-indonesien",
+        "published_date": "2026-05-09 07:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Company behind Trump's Truth Social loses 2.5 billion",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/selskab-bag-trumps-truth-social-taber-2-5-milliarder",
+        "published_date": "2026-05-09 05:08:00",
+        "category": "Local Events"
     },
     {
         "title": "Police suspect road rage in traffic accidents in Odense",
@@ -368,132 +487,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/politi-mistaenker-vejvrede-ved-trafikuheld-i-odense?referrer=RSS",
         "published_date": "2026-05-08 23:15:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six have been confirmed infected with hantavirus on a cruise ship",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seks-er-bekraeftet-smittet-med-hantavirus-paa-krydstogtsskib?referrer=RSS",
-        "published_date": "2026-05-08 22:46:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "FACTS: Here are the parties' demands for the royal investigator",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/fakta-her-er-partiernes-krav-til-den-kongelige-undersoeger?referrer=RSS",
-        "published_date": "2026-05-08 21:22:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young Croatian knocks out rusty Djokovic: He is my idol",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ung-kroat-slaar-rusten-djokovic-ud-han-er-mit-idol?referrer=RSS",
-        "published_date": "2026-05-08 21:03:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Troels Lund Poulsen must seek a new government without S and M",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/troels-lund-poulsen-skal-afsoege-ny-regering-uden-s-og-m?referrer=RSS",
-        "published_date": "2026-05-08 20:48:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "There is no reason to worry about the Danes' relationship with Christianity",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/der-er-ingen-grund-til-bekymring-for-danskernes-forhold-til-kristendommen?referrer=RSS",
-        "published_date": "2026-05-08 20:41:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The world is in chaos - but white asparagus, fjord prawns and a good butcher still last",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/verden-er-i-udu--men-hvide-asparges-fjordrejer-og-en-god-slagter-holder-stadig?referrer=RSS",
-        "published_date": "2026-05-08 20:39:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Troels Lund Poulsen has been appointed as negotiator",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/troels-lund-poulsen-er-udnaevnt-som-forhandlingsleder",
-        "published_date": "2026-05-08 20:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dane tested negative for hantavirus after flight",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dansker-testet-negativ-for-hantavirus-efter-flyrejse?referrer=RSS",
-        "published_date": "2026-05-08 20:34:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Labor loses power in Wales for the first time since 1999",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/labour-mister-magten-i-wales-for-foerste-gang-siden-1999?referrer=RSS",
-        "published_date": "2026-05-08 20:05:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark men's ice hockey wins another WC test",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/danmark-ishockeyherrer-vinder-endnu-en-vm-test",
-        "published_date": "2026-05-08 19:24:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish ice hockey men win penultimate WC test",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/danske-ishockeyherrer-vinder-naestsidste-vm-test?referrer=RSS",
-        "published_date": "2026-05-08 19:21:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish vaccine researcher extradited from Germany to the USA",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-vaccineforsker-udleveret-fra-tyskland-til-usa",
-        "published_date": "2026-05-08 19:13:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "11-year-old detained in Aarhus for violence against 12-year-old in Br\u00f8ndbytr\u00f8je",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/11-aarig-tilbageholdt-i-aarhus-vold-mod-12-aarig-i-broendbytroeje",
-        "published_date": "2026-05-08 17:55:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four sentenced in the US in connection with the assassination of Haiti's president in 2021",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-doemt-i-usa-i-forbindelse-med-drab-paa-haitis-praesident-i-2021",
-        "published_date": "2026-05-08 17:24:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US has published the first files on UFOs",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-har-offentliggjort-de-foerste-filer-om-ufo-er",
-        "published_date": "2026-05-08 16:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bear kills woman in Japan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bjoern-draeber-kvinde-i-japan",
-        "published_date": "2026-05-08 16:39:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish PM loses bid to form government as Moderates leave talks",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260508/danish-pm-loses-bid-to-form-government-as-moderates-back-new-talks",
-        "published_date": "2026-05-08 16:37:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motzfeldt joins the new Greenlandic party",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/motzfeldt-melder-sig-ind-i-nyt-groenlandsk-parti",
-        "published_date": "2026-05-08 15:13:00",
         "category": "Local Events"
     }
 ]
