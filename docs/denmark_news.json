@@ -1,5 +1,12 @@
 [
     {
+        "title": "Israel receives Eurovision warning for breaking rules",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/israel-faar-eurovision-advarsel-for-brud-paa-regler?referrer=RSS",
+        "published_date": "2026-05-10 21:14:53",
+        "category": "Diplomacy"
+    },
+    {
         "title": "North Zealand's principal talks about students who divide \"good and bad Muslims\".\"We can't solve it alone\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/nordsjaellandsk-rektor-fortaeller-om-elever-der-opdeler-gode-og-daarlige-muslimer-vi-kan-ikke-loese-det-alene?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Sweden and Denmark sign joint declaration against 'illegal migration'",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260505/sweden-and-denmark-sign-joint-declaration-against-illegal-migration",
-        "published_date": "2026-05-05 11:53:27",
-        "category": "Diplomacy"
+        "title": "Missing US soldier found dead in Morocco",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/forsvundet-amerikansk-soldat-fundet-doed-i-marokko?referrer=RSS",
+        "published_date": "2026-05-10 22:18:52",
+        "category": "Military"
     },
     {
         "title": "First flight with evacuees from virus-affected ship takes off from Tenerife",
@@ -273,11 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Maersk states that a ship from its American subsidiary has sailed safely through the Strait of Hormuz",
+        "title": "Imprisoned Iranian Nobel laureate transferred to hospital in Tehran",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maersk-oplyser-et-skib-fra-dets-amerikanske-datterselskab-er-sejlet-sikkert-gennem-hormuzstraedet",
-        "published_date": "2026-05-04 20:37:00",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/faengslet-iransk-nobelprismodtager-overfoert-til-hospital-i-teheran",
+        "published_date": "2026-05-10 18:28:00",
+        "category": "Energy"
     },
     {
         "title": "In the middle of a deficit of billions - this is how much the director of the reviled energy giant gets paid",
@@ -336,6 +343,118 @@
         "category": "Economy"
     },
     {
+        "title": "Barca's head coach lost his father shortly before the La Liga triumph",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/barcas-cheftraener-mistede-sin-far-kort-foer-la-liga-triumf?referrer=RSS",
+        "published_date": "2026-05-10 23:31:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Arbeloa understands angry Real fans after trophyless season",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/arbeloa-forstaar-vrede-real-fans-efter-trofaeloes-saeson?referrer=RSS",
+        "published_date": "2026-05-10 23:00:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flight with 20 Britons from hantavirus-affected ship has landed in Manchester",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fly-med-20-briter-fra-hantavirus-ramt-skib-er-landet-i-manchester?referrer=RSS",
+        "published_date": "2026-05-10 22:44:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The final sprint sends the Dane up to second place on the PGA Tour",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/slutspurt-sender-dansker-op-paa-andenplads-ved-pga-tour?referrer=RSS",
+        "published_date": "2026-05-10 22:40:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jubilant AGF director: We have lived a zombie existence",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/jublende-agf-direktoer-vi-har-levet-i-en-zombietilvaerelse?referrer=RSS",
+        "published_date": "2026-05-10 21:43:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump calls Iran's conditions for peace unacceptable",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-kalder-irans-betingelser-for-fred-for-uacceptable?referrer=RSS",
+        "published_date": "2026-05-10 21:29:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barcelona beat Real Madrid and run away with the championship",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/barcelona-slaar-real-madrid-og-loeber-med-mesterskabet?referrer=RSS",
+        "published_date": "2026-05-10 21:00:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump calls Iran's response to US proposal to end the war 'totally unacceptable'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-kalder-irans-svar-paa-amerikansk-forslag-til-afslutning-af-krigen-totalt-uacceptabelt",
+        "published_date": "2026-05-10 20:39:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "AGF keeper got up after drop: It was blown up",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/agf-keeper-rejste-sig-efter-drop-det-blev-blaest-op?referrer=RSS",
+        "published_date": "2026-05-10 20:38:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Emergency timetable on the Gribskov Line - cancels half of the departures",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/noedkoereplan-paa-gribskovbanen-aflyser-halvdelen-af-afgangene",
+        "published_date": "2026-05-10 17:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Evacuee Frenchman shows symptoms of hantavirus",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/evakueret-franskmand-viser-symptomer-paa-hantavirus",
+        "published_date": "2026-05-10 16:43:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thousands on the streets of London in protest against antisemitism",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tusinder-paa-gaden-i-london-i-protest-mod-antisemitisme",
+        "published_date": "2026-05-10 16:39:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A married couple has placed a beautiful puzzle in an old yard",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/aegtepar-har-lagt-et-smukt-puslespil-paa-gammel-vaerftgaard?rss",
+        "published_date": "2026-05-10 16:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two arrested after new fire at synagogue in London",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/anholdt-efter-ny-brand-ved-synagoge-i-london",
+        "published_date": "2026-05-10 15:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man jumped overboard from ferry in \u00d8resund",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-sprang-over-bord-fra-faerge-i-oeresund",
+        "published_date": "2026-05-10 13:47:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran has sent a response to the peace plan to the United States",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-har-sendt-svar-paa-fredsplan-til-usa",
+        "published_date": "2026-05-10 13:04:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Hotel Romantik participants do not recognize criticism of hosts' tone",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/hotel-romantik-deltagere-genkender-ikke-kritik-af-vaerters-tone?referrer=RSS",
@@ -361,118 +480,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/slavia-prag-lukker-tribune-paa-ubestemt-tid-efter-baneinvasion?referrer=RSS",
         "published_date": "2026-05-10 11:17:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man in the substance abuse environment found with life-threatening injuries",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-i-misbrugsmiljoeet-fundet-med-livstruende-skader?referrer=RSS",
-        "published_date": "2026-05-10 11:17:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "American consumers have never been more depressed",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/amerikanske-forbrugere-har-aldrig-vaeret-mere-deprimerede?referrer=RSS",
-        "published_date": "2026-05-10 10:58:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "He introduced a four-day working week and dealt with \"indifferent\" meetings.When he was fired, it was a blow to his pride",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/arbejdsliv/han-indfoerte-fire-dages-arbejdsuge-og-tog-et-opgoer-med-ligegyldige-moeder-da-han-blev-fyret-var-det-et-hak-i-stoltheden?referrer=RSS",
-        "published_date": "2026-05-10 10:19:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ethiopian a few seconds off the record at the Copenhagen Marathon",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/etiopier-faa-sekunder-fra-rekord-ved-copenhagen-marathon",
-        "published_date": "2026-05-10 09:53:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hantavirus suspected on remote island",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mistanke-om-hantavirus-paa-afsidesliggende-oe",
-        "published_date": "2026-05-10 09:51:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Iran war prompts Portugal to turbocharge targets to halve the use of fossil fuels",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-krigen-faar-portugal-til-saette-turbo-paa-maal-om-halvere-brug-af-fossile-braendstoffer",
-        "published_date": "2026-05-10 09:08:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Foreign labor contributes a record high amount to Denmark's GDP",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/udenlandsk-arbejdskraft-bidrager-med-rekordhoejt-beloeb-til-danmarks-bnp",
-        "published_date": "2026-05-10 08:54:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Extra police on the streets in Aarhus ahead of a possible championship",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ekstra-politi-paa-gaden-i-aarhus-forud-muligt-mesterskab",
-        "published_date": "2026-05-10 08:27:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Visitation zone around Br\u00f8ndby Stadium today",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/visitationszone-omkring-broendby-stadion-i-dag",
-        "published_date": "2026-05-10 08:08:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three hikers confirmed dead after volcanic eruption",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-vandrere-bekraeftet-doede-efter-vulkanudbrud",
-        "published_date": "2026-05-10 07:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Malene survived the car accident, but felt disgusting: She couldn't recognize herself afterwards",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/odense/malene-overlevede-bilulykke-men-har-haft-svaert-ved-at-genkende-sig-selv-bagefter?rss",
-        "published_date": "2026-05-10 07:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The metro deploys extra trains in connection with the marathon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/metroen-indsaetter-ekstra-tog-i-forbindelse-med-maraton",
-        "published_date": "2026-05-10 06:42:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elf\u00e6rge's stay at the dock will be extended by just over a week",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/elfaerges-dokophold-bliver-forlaenget-med-lidt-over-en-uge",
-        "published_date": "2026-05-10 05:52:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran threatens US with retaliation if Iranian ships are subjected to 'aggression'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-truer-usa-med-gengaeld-hvis-iranske-skibe-udsaettes-aggression",
-        "published_date": "2026-05-10 03:41:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lebanon reports nine dead in Israeli attacks on Saturday",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/libanon-melder-om-ni-doede-i-israelske-angreb-loerdag?referrer=RSS",
-        "published_date": "2026-05-09 23:34:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "WHO chief must supervise hantavirus infected people in Tenerife",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/who-chef-skal-foere-tilsyn-med-hantavirus-smittede-paa-tenerife?referrer=RSS",
-        "published_date": "2026-05-09 23:20:47",
         "category": "Local Events"
     }
 ]
