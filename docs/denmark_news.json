@@ -1,5 +1,33 @@
 [
     {
+        "title": "No Eurovision for TV viewers in Spain, Ireland and Slovenia this year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ingen-eurovision-til-tv-seerne-i-spanien-irland-og-slovenien-i-aar",
+        "published_date": "2026-05-11 13:09:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Spain, Ireland and Slovenia are not showing Eurovision this year",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/spanien-irland-og-slovenien-viser-ikke-eurovision-i-aar?referrer=RSS",
+        "published_date": "2026-05-11 12:51:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Ministry of Foreign Affairs warns: Lack of fuel can have an impact on Danes' travel plans",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/udenrigsministeriet-advarer-mangel-paa-braendstof-kan-faa-betydning-danskernes-rejseplaner",
+        "published_date": "2026-05-11 11:59:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU resumes cooperation agreement with Syria",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-genoptager-samarbejdsaftale-med-syrien",
+        "published_date": "2026-05-11 10:15:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Israel receives Eurovision warning for breaking rules",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/israel-faar-eurovision-advarsel-for-brud-paa-regler?referrer=RSS",
@@ -112,32 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Nottingham Forest have gone all in despite the danger of relegation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/nottingham-forest-er-gaaet-all-in-trods-nedrykningsfare?referrer=RSS",
-        "published_date": "2026-05-06 12:20:50",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Norway will export gas from closed gas fields to Europe",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/norge-vil-eksportere-gas-fra-lukkede-gasfelter-til-europa?referrer=RSS",
-        "published_date": "2026-05-05 22:48:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "OVERVIEW: This is what we know about a suspected outbreak of infection on a cruise ship",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/overblik-det-ved-vi-om-formodet-smitteudbrud-paa-krydstogtskib?referrer=RSS",
-        "published_date": "2026-05-05 22:42:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Rubio has spoken with Russia's foreign minister about Ukraine and Iran",
+        "title": "Missing US soldier found dead in Morocco",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rubio-har-talt-med-rusland-udenrigsminister-om-ukraine-og-iran",
-        "published_date": "2026-05-05 21:54:00",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/savnet-amerikansk-soldat-fundet-doed-i-marokko",
+        "published_date": "2026-05-11 04:52:00",
+        "category": "Military"
     },
     {
         "title": "Missing US soldier found dead in Morocco",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Shooting near the White House: Man shot after shootout with Secret Service",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skyderi-naer-det-hvide-hus-mand-skudt-efter-ildkamp-med-secret-service",
-        "published_date": "2026-05-05 00:00:00",
-        "category": "Military"
-    },
-    {
         "title": "Imprisoned Iranian Nobel laureate transferred to hospital in Tehran",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/faengslet-iransk-nobelprismodtager-overfoert-til-hospital-i-teheran",
@@ -343,143 +343,143 @@
         "category": "Economy"
     },
     {
-        "title": "Barca's head coach lost his father shortly before the La Liga triumph",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/barcas-cheftraener-mistede-sin-far-kort-foer-la-liga-triumf?referrer=RSS",
-        "published_date": "2026-05-10 23:31:51",
+        "title": "22-year-old hid machine gun and cocaine in allotment garden:\u00a0-\u00a0I don't know myself",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/gemte-maskinpistol-og-kokain-i-kolonihave-jeg-kan-ikke-kende-mig-selv?rss",
+        "published_date": "2026-05-11 14:34:46",
         "category": "Local Events"
     },
     {
-        "title": "Arbeloa understands angry Real fans after trophyless season",
+        "title": "Trump assassination suspect pleads not guilty",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/arbeloa-forstaar-vrede-real-fans-efter-trofaeloes-saeson?referrer=RSS",
-        "published_date": "2026-05-10 23:00:47",
+        "url": "https://www.berlingske.dk/internationalt/mistaenkt-for-trump-attentat-erklaerer-sig-ikke-skyldig?referrer=RSS",
+        "published_date": "2026-05-11 13:28:51",
         "category": "Local Events"
     },
     {
-        "title": "Flight with 20 Britons from hantavirus-affected ship has landed in Manchester",
+        "title": "St\u00f8jberg and the Danish Democrats will not be in government",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fly-med-20-briter-fra-hantavirus-ramt-skib-er-landet-i-manchester?referrer=RSS",
-        "published_date": "2026-05-10 22:44:57",
+        "url": "https://www.berlingske.dk/politik/stoejberg-og-danmarksdemokraterne-skal-ikke-i-regering?referrer=RSS",
+        "published_date": "2026-05-11 13:24:48",
         "category": "Local Events"
     },
     {
-        "title": "The final sprint sends the Dane up to second place on the PGA Tour",
+        "title": "Business update: Vestas CEO throws pressure ball in the middle of the government negotiations: \"The alternative is that there must be a relocation plan\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/slutspurt-sender-dansker-op-paa-andenplads-ved-pga-tour?referrer=RSS",
-        "published_date": "2026-05-10 22:40:51",
+        "url": "https://www.berlingske.dk/virksomheder/business-update-vestas-topchef-smider-presbold-midt-i-regeringsforhandlingerne-alternativet-er-at-der-maa-findes-en-udflyttelsesplan?referrer=RSS",
+        "published_date": "2026-05-11 13:20:19",
         "category": "Local Events"
     },
     {
-        "title": "Jubilant AGF director: We have lived a zombie existence",
+        "title": "National police chief after sharp criticism: Citizens are not left in the lurch",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/jublende-agf-direktoer-vi-har-levet-i-en-zombietilvaerelse?referrer=RSS",
-        "published_date": "2026-05-10 21:43:46",
+        "url": "https://www.berlingske.dk/politik/rigspolitichef-efter-skarp-kritik-borgerne-er-ikke-ladt-i-stikken?referrer=RSS",
+        "published_date": "2026-05-11 13:14:52",
         "category": "Local Events"
     },
     {
-        "title": "Trump calls Iran's conditions for peace unacceptable",
+        "title": "Quarantine costs FCM coach Mike Tullberg the cup final",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-kalder-irans-betingelser-for-fred-for-uacceptable?referrer=RSS",
-        "published_date": "2026-05-10 21:29:46",
+        "url": "https://www.berlingske.dk/sport/karantaene-koster-fcm-traener-mike-tullberg-pokalfinalen?referrer=RSS",
+        "published_date": "2026-05-11 13:10:46",
         "category": "Local Events"
     },
     {
-        "title": "Barcelona beat Real Madrid and run away with the championship",
+        "title": "Depressed Americans and a mysterious smell on Amager \u2013 today's stories are selected by Peter Burh\u00f8i",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/barcelona-slaar-real-madrid-og-loeber-med-mesterskabet?referrer=RSS",
-        "published_date": "2026-05-10 21:00:52",
+        "url": "https://www.berlingske.dk/indland/deprimerede-amerikanere-og-en-mystisk-lugt-paa-amager--dagens-historier-er-udvalgt-af-peter-burhoei?referrer=RSS",
+        "published_date": "2026-05-11 13:03:49",
         "category": "Local Events"
     },
     {
-        "title": "Trump calls Iran's response to US proposal to end the war 'totally unacceptable'",
+        "title": "War in the Middle East - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krig-i-mellemoesten--foelg-med-her-455?referrer=RSS",
+        "published_date": "2026-05-11 12:58:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "OVERVIEW: This must be done with evacuees from a ship affected by the virus",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/overblik-det-skal-der-ske-med-evakuerede-fra-virusramt-skib?referrer=RSS",
+        "published_date": "2026-05-11 12:48:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "KMD lays off workers in Denmark and Poland",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-kalder-irans-svar-paa-amerikansk-forslag-til-afslutning-af-krigen-totalt-uacceptabelt",
-        "published_date": "2026-05-10 20:39:00",
+        "url": "https://www.dr.dk/nyheder/seneste/kmd-fyrer-i-danmark-og-polen",
+        "published_date": "2026-05-11 12:47:00",
         "category": "Local Events"
     },
     {
-        "title": "AGF keeper got up after drop: It was blown up",
+        "title": "American politics - follow here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/agf-keeper-rejste-sig-efter-drop-det-blev-blaest-op?referrer=RSS",
-        "published_date": "2026-05-10 20:38:46",
+        "url": "https://www.berlingske.dk/internationalt/amerikansk-politik--foelg-med-her?referrer=RSS",
+        "published_date": "2026-05-11 12:45:25",
         "category": "Local Events"
     },
     {
-        "title": "Emergency timetable on the Gribskov Line - cancels half of the departures",
+        "title": "DKK 3.8 billion racing track to bring Formula 1 to Padborg",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/noedkoereplan-paa-gribskovbanen-aflyser-halvdelen-af-afgangene",
-        "published_date": "2026-05-10 17:35:00",
+        "url": "https://www.dr.dk/sporten/seneste-sport/racerbane-til-3-8-milliarder-kroner-skal-faa-formel-1-til-padborg",
+        "published_date": "2026-05-11 12:17:00",
         "category": "Local Events"
     },
     {
-        "title": "Evacuee Frenchman shows symptoms of hantavirus",
+        "title": "Marius Borg H\u00f8iby will be sentenced on 15 June",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/evakueret-franskmand-viser-symptomer-paa-hantavirus",
-        "published_date": "2026-05-10 16:43:00",
+        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-faar-dom-15-juni",
+        "published_date": "2026-05-11 11:15:00",
         "category": "Local Events"
     },
     {
-        "title": "Thousands on the streets of London in protest against antisemitism",
+        "title": "Jakob Ellemann-Jensen publishes a book about his years in politics",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tusinder-paa-gaden-i-london-i-protest-mod-antisemitisme",
-        "published_date": "2026-05-10 16:39:00",
+        "url": "https://www.dr.dk/nyheder/seneste/jakob-ellemann-jensen-udkommer-med-bog-om-sine-aar-i-politik",
+        "published_date": "2026-05-11 11:14:00",
         "category": "Local Events"
     },
     {
-        "title": "A married couple has placed a beautiful puzzle in an old yard",
+        "title": "New leader of Danish government talks confirms two week deadline",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260511/new-leader-of-danish-government-talks-confirms-two-week-deadline",
+        "published_date": "2026-05-11 11:00:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tips about assault material led police to drugs and cash",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tip-om-overgrebsmateriale-foerte-politiet-til-stoffer-og-kontanter",
+        "published_date": "2026-05-11 10:52:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Giant arena for billions: Novo heirs will build a Formula 1 track at the border",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/aegtepar-har-lagt-et-smukt-puslespil-paa-gammel-vaerftgaard?rss",
-        "published_date": "2026-05-10 16:30:00",
+        "url": "https://jv.dk/aabenraa/kaempearena-til-milliarder-novo-arvinger-vil-bygge-formel-1-bane-ved-graensen?rss",
+        "published_date": "2026-05-11 10:19:46",
         "category": "Local Events"
     },
     {
-        "title": "Two arrested after new fire at synagogue in London",
+        "title": "Busy traffic in Christ's ascension",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/anholdt-efter-ny-brand-ved-synagoge-i-london",
-        "published_date": "2026-05-10 15:25:00",
+        "url": "https://www.dr.dk/nyheder/seneste/travl-trafik-i-kristi-himmelfart",
+        "published_date": "2026-05-11 09:54:00",
         "category": "Local Events"
     },
     {
-        "title": "Man jumped overboard from ferry in \u00d8resund",
+        "title": "The king and the family appear on the balcony on 26 May",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-sprang-over-bord-fra-faerge-i-oeresund",
-        "published_date": "2026-05-10 13:47:00",
+        "url": "https://www.dr.dk/nyheder/seneste/kongen-og-familien-viser-sig-paa-balkonen-26-maj",
+        "published_date": "2026-05-11 08:54:00",
         "category": "Local Events"
     },
     {
-        "title": "Iran has sent a response to the peace plan to the United States",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-har-sendt-svar-paa-fredsplan-til-usa",
-        "published_date": "2026-05-10 13:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hotel Romantik participants do not recognize criticism of hosts' tone",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/hotel-romantik-deltagere-genkender-ikke-kritik-af-vaerters-tone?referrer=RSS",
-        "published_date": "2026-05-10 11:31:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "S\u00f8ren Pind: Yes, there are things worth dying for",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/soeren-pind-ja-der-er-ting-der-er-vaerd-at-doe-for?referrer=RSS",
-        "published_date": "2026-05-10 11:24:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Families with good sibling relationships often have one thing in common, says the psychologist.Now she shares her advice on how to strengthen the bond between your children",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/vores-liv/familier-med-gode-soeskenderelationer-har-oftest-en-ting-til-faelles-siger-psykolog-nu-deler-hun-sine-raad-til-hvordan-du-styrker-baandet-mellem-dine-boern?referrer=RSS",
-        "published_date": "2026-05-10 11:19:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Slavia Prague closes grandstand indefinitely after pitch invasion",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/slavia-prag-lukker-tribune-paa-ubestemt-tid-efter-baneinvasion?referrer=RSS",
-        "published_date": "2026-05-10 11:17:59",
+        "title": "Today in Denmark: A roundup of the latest news on Monday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260511/today-in-denmark-a-roundup-of-the-latest-news-on-monday-43",
+        "published_date": "2026-05-11 08:18:39",
         "category": "Local Events"
     }
 ]
