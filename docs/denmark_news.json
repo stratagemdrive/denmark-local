@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Last missing US soldier found dead in Morocco",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/den-sidste-forsvundne-amerikanske-soldat-fundet-doed-i-marokko?referrer=RSS",
+        "published_date": "2026-05-13 23:04:47",
+        "category": "Military"
+    },
+    {
+        "title": "Zelenskyy: Russia has attacked Ukraine with at least 800 drones",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-rusland-har-angrebet-ukraine-med-mindst-800-droner",
+        "published_date": "2026-05-13 15:19:00",
+        "category": "Military"
+    },
+    {
         "title": "Three defy drone ban during military exercise on Bornholm",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/tre-trodser-droneforbud-under-militaeroevelse-paa-bornholm?referrer=RSS",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Zelenskyy reports attack despite Russian-announced ceasefire",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-melder-om-angreb-trods-russisk-annonceret-vaabenhvile",
-        "published_date": "2026-05-08 05:23:00",
-        "category": "Military"
-    },
-    {
-        "title": "Trump: Ceasefire still applies despite attacks on Iran",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-vaabenhvile-gaelder-stadig-trods-angreb-mod-iran?referrer=RSS",
-        "published_date": "2026-05-07 23:17:50",
-        "category": "Military"
-    },
-    {
         "title": "Bad news for Trump - again big price jump in the USA",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/oekonomi/daarlig-nyt-for-trump--igen-stort-prishop-i-usa?referrer=RSS",
@@ -343,143 +343,143 @@
         "category": "Economy"
     },
     {
+        "title": "Trump administration removes controversial cash requirement for World Cup fans",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/trump-administrationen-fjerner-omstridt-pengekrav-for-vm-fans?referrer=RSS",
+        "published_date": "2026-05-13 23:11:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Netanyahu's party proposes to dissolve parliament",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/netanyahus-parti-fremsaetter-forslag-om-at-oploese-parlamentet?referrer=RSS",
+        "published_date": "2026-05-13 22:47:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "According to Rubio, the US hopes that China will play 'a more active role' in putting pressure on Iran",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-haaber-ifoelge-rubio-kina-vil-spille-en-mere-aktiv-rolle-i-laegge-pres-paa-iran",
+        "published_date": "2026-05-13 22:47:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inter punishes Lazio's poor defensive play and triumphs in the cup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/inter-straffer-lazios-raerlige-forsvarsspil-og-triumferer-i-pokalen?referrer=RSS",
+        "published_date": "2026-05-13 21:11:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "PSG are French champions for the fifth season in a row",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/psg-er-fransk-mester-for-femte-saeson-i-traek?referrer=RSS",
+        "published_date": "2026-05-13 21:08:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "City thrash Palace and stay alive in Championship race",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/city-nedsabler-palace-og-holder-liv-i-mesterskabskamp?referrer=RSS",
+        "published_date": "2026-05-13 21:01:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Emirates denies Netanyahu's alleged visit during Iran war",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/emiraterne-benaegter-netanyahus-paastaaede-besoeg-under-iran-krig?referrer=RSS",
+        "published_date": "2026-05-13 21:01:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "It was discrimination when a Muslim woman was asked to shake her hand - now politicians want to change the law",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/det-var-forskelsbehandling-da-muslimsk-kvinde-blev-afkraevet-haandtryk--nu-vil-politikere-lave-loven-om?referrer=RSS",
+        "published_date": "2026-05-13 20:29:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "School student slightly injured by needle in caramel",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skoleelev-let-skadet-af-naal-i-karamel",
+        "published_date": "2026-05-13 19:41:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "13,000 extra tickets for AGF's golden celebration",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/13-000-ekstra-billetter-til-agf-s-guldfejring",
+        "published_date": "2026-05-13 18:22:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "1,700 must stay on board cruise ship in French port due to gastrointestinal virus",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/1-700-maa-blive-ombord-paa-krydstogtskib-i-fransk-havn-paa-grund-af-mave-tarm-virus",
+        "published_date": "2026-05-13 17:56:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pediatrician in Germany accused of 130 sexual assaults",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/boernelaege-i-tyskland-anklaget-130-seksuelle-overgreb",
+        "published_date": "2026-05-13 17:16:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Murder case against prominent American lawyer to be retrialed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/drabssag-mod-prominent-amerikansk-advokat-skal-gaa-om",
+        "published_date": "2026-05-13 17:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Now more planes can land and take off in Nuuk",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nu-kan-flere-fly-lande-og-lette-i-nuuk",
+        "published_date": "2026-05-13 15:52:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Well-known chocolate brand loses case over 'shrinkflation'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kendt-chokolademaerke-taber-sag-om-shrinkflation",
+        "published_date": "2026-05-13 14:23:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Needles in the caramels at school in Valby",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/naale-i-karamellerne-paa-skole-i-valby",
+        "published_date": "2026-05-13 14:17:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shots fired in the Parliament of the Philippines",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skud-affyret-i-filippinernes-parlament",
+        "published_date": "2026-05-13 13:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Again, pencils were found in caramels on the last day of school",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/igen-er-der-fundet-tegnestifter-i-karameller-paa-sidste-skoledag",
+        "published_date": "2026-05-13 13:22:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Ciao Kate': Princess Katherine resumes traveling abroad",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ciao-kate-prinsesse-katherine-genoptager-udlandsrejser",
+        "published_date": "2026-05-13 13:11:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Witnesses report gunfire and chaos in the Philippines' Senate",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/vidner-melder-om-skud-og-kaos-i-filippinernes-senat?referrer=RSS",
         "published_date": "2026-05-13 12:56:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marius Borg H\u00f8iby has his appeal against the anklet decision rejected",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-faar-afvist-anke-af-fodlaenkeafgoerelse",
-        "published_date": "2026-05-13 12:51:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Donald Trump has landed in Beijing for a summit with Xi Jinping",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/donald-trump-er-landet-i-beijing-til-topmoede-med-xi-jinping?referrer=RSS",
-        "published_date": "2026-05-13 12:29:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Noomi Rapace is excellent as the cold-hearted Mother Teresa",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/noomi-rapace-er-fremragende-som-foelelseskold-moder-teresa?referrer=RSS",
-        "published_date": "2026-05-13 12:24:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marius H\u00f8iby's request for an anklet is again rejected",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/marius-hoeiby-faar-igen-afvist-oenske-om-fodlaenke?referrer=RSS",
-        "published_date": "2026-05-13 12:22:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former Member of Parliament becomes party secretary for DF",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/tidligere-folketingsmedlem-bliver-partisekretaer-for-df?referrer=RSS",
-        "published_date": "2026-05-13 12:19:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trade unions go to authorities with criticism of super hospital",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/fagforeninger-gaar-til-myndigheder-med-kritik-af-supersygehus?referrer=RSS",
-        "published_date": "2026-05-13 12:12:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Night Watch 2 actor will play H.C.Andersen in a new blockbuster",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/nattevagten-2-skuespiller-skal-spille-hc-andersen-i-ny-storfilm?referrer=RSS",
-        "published_date": "2026-05-13 12:02:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "They are each other's \"favourite\" arch-enemies - now they can block a blue government, says former adviser",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/de-er-hinandensyndlings-aerkefjender--nu-kan-de-blokere-en-blaa-regering-siger-tidligere-raadgiver?referrer=RSS",
-        "published_date": "2026-05-13 12:01:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Everyone criticizes the police after revelations of closed cases - but the problem does not only apply to law enforcement",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/alle-kritiserer-politiet-efter-afsloeringer-af-henlagte-sager--men-problemet-gaelder-ikke-kun-ordensmagten?referrer=RSS",
-        "published_date": "2026-05-13 11:59:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paul Cunningham stops at Henne Kirkeby Kro",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/paul-cunningham-stopper-paa-henne-kirkeby-kro",
-        "published_date": "2026-05-13 11:07:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "43-year-old man charged with drone flight close to airport",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/43-aarig-mand-sigtet-droneflyvning-taet-paa-lufthavn",
-        "published_date": "2026-05-13 11:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "- Get together: Politicians punish Funen pig farmers who break the law",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/tag-jer-sammen-politiker-med-opsang-til-griseavlere-der-bryder-loven?rss",
-        "published_date": "2026-05-13 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "School discriminated against Muslim with handshake requirement",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skole-forskelsbehandlede-muslim-med-haandtrykskrav",
-        "published_date": "2026-05-13 10:57:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sweden again lowers taxes on petrol and diesel",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sverige-saenker-igen-afgifter-paa-benzin-og-diesel",
-        "published_date": "2026-05-13 10:56:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prices of standard Copenhagen apartments rise by '1.2 million kroner in just one year'",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260513/the-price-of-a-standard-copenhagen-apartment-has-risen-by-1-2-million-in-a-year",
-        "published_date": "2026-05-13 10:54:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Novo announces layoffs in Odense: - There is a curse on Funen",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/novo-skruer-kraftigt-ned-i-odense-produktion-er-droppet?rss",
-        "published_date": "2026-05-13 10:40:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "AGF holds a golden party for everyone with the city at heart",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/indland/agf-holder-guldfest-alle-med-byen-i-hjertet",
-        "published_date": "2026-05-13 09:48:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Novo Nordisk puts production plans in Odense on hold",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/novo-nordisk-saetter-produktionsplaner-i-odense-paa-pause",
-        "published_date": "2026-05-13 09:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mess in the budget creates unrest in the municipality",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rod-i-budgettet-skaber-uro-i-kommune",
-        "published_date": "2026-05-13 09:09:00",
         "category": "Local Events"
     }
 ]
