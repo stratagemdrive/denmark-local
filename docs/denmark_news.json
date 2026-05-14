@@ -1,5 +1,40 @@
 [
     {
+        "title": "Danes smashed glasses in Eurovision ecstasy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/danskere-smadrede-glas-i-eurovision-ekstase?referrer=RSS",
+        "published_date": "2026-05-14 22:46:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "A Danish-language song is in the Eurovision final for the first time in 29 years",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dansksproget-sang-er-i-eurovision-finalen-for-foerste-gang-i-29-aar?referrer=RSS",
+        "published_date": "2026-05-14 22:16:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "FACT: These countries are also finalists in Eurovision",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/fakta-disse-lande-er-ogsaa-finaleklar-i-eurovision?referrer=RSS",
+        "published_date": "2026-05-14 21:19:45",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "DR commentator surprises on stage in this year's Eurovision show",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dr-kommentator-overrasker-paa-scenen-i-aarets-eurovision-show?referrer=RSS",
+        "published_date": "2026-05-14 21:05:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Euphoric Danish Eurovision hope: It has never gone better",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/euforisk-dansk-eurovision-haab-det-er-aldrig-gaaet-bedre?referrer=RSS",
+        "published_date": "2026-05-14 20:55:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Half of Denmark's Eurovision fate has already been decided",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/halvdelen-af-danmarks-eurovision-skaebne-er-allerede-afgjort?referrer=RSS",
@@ -105,39 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "EU Commission clarifies flight compensation rights amid travel disruption",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260509/eu-commission-clarifies-flight-compensation-rights-amid-travel-disruption",
-        "published_date": "2026-05-09 09:32:59",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Sweden halts construction of power cable to Denmark after EU row",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260508/sweden-halts-construction-of-power-cable-to-denmark-in-eu-row",
-        "published_date": "2026-05-08 12:46:05",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The US Secretary of State meets with Giorgia Meloni",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-s-udenrigsminister-moedes-med-giorgia-meloni",
-        "published_date": "2026-05-08 11:56:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "US minister meets Meloni after Trump criticism",
+        "title": "16 are reported killed in scattered Russian drone attacks in Kyiv",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amerikansk-minister-moeder-meloni-efter-trump-kritik?referrer=RSS",
-        "published_date": "2026-05-08 11:24:51",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/16-meldes-draebt-i-spredte-russiske-droneangreb-i-kyiv?referrer=RSS",
+        "published_date": "2026-05-14 23:10:55",
+        "category": "Military"
     },
     {
-        "title": "Trump threatens the EU with higher tariffs after talks with von der Leyen",
+        "title": "Israel and Lebanon are trying to reach a new ceasefire",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-truer-eu-med-hoejere-told-efter-samtale-med-von-der-leyen?referrer=RSS",
-        "published_date": "2026-05-07 21:33:55",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/israel-og-libanon-forsoeger-at-naa-frem-til-ny-vaabenhvile?referrer=RSS",
+        "published_date": "2026-05-14 22:43:50",
+        "category": "Military"
     },
     {
         "title": "Ukraine revises up death toll after Russian airstrikes",
@@ -266,18 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "The police warn of noise and noise from military exercises on Bornholm",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-advarer-om-stoej-og-larm-fra-militaeroevelse-paa-bornholm",
-        "published_date": "2026-05-09 12:17:00",
-        "category": "Military"
-    },
-    {
-        "title": "Bornholmers can hear shots and see drones during defense exercises",
+        "title": "Trump's Iran war is about oil prices - not security",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/bornholmere-kan-hoere-skud-og-se-droner-under-forsvarsoevelse?referrer=RSS",
-        "published_date": "2026-05-09 10:41:46",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/kommentar/trumps-iran-krig-handler-om-oliepriser--ikke-sikkerhed?referrer=RSS",
+        "published_date": "2026-05-14 21:36:20",
+        "category": "Energy"
     },
     {
         "title": "Cuba reports dried-up oil depots under US blockade",
@@ -341,6 +348,76 @@
         "url": "https://www.berlingske.dk/kronikker/midt-i-debatten-om-banklaan-og-realkredit-overser-vi-noget-helt-afgoerende?referrer=RSS",
         "published_date": "2026-05-08 12:02:42",
         "category": "Economy"
+    },
+    {
+        "title": "We talk about integration - but no longer dare to enforce ordinary social norms",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/vi-taler-om-integration--men-toer-ikke-laengere-haandhaeve-helt-almindelige-sociale-normer?referrer=RSS",
+        "published_date": "2026-05-14 21:38:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Whale stranded on the coast of Anholt",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hval-strandet-ved-anholts-kyst",
+        "published_date": "2026-05-14 19:52:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Men have a significantly greater risk of cancers that affect both sexes",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maend-har-markant-stoerre-risiko-ved-kraeftformer-der-rammer-begge-koen",
+        "published_date": "2026-05-14 19:31:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Going to war against pile worms: Some use railway tracks, others old drill pipes",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/soenderborg/gaar-til-kamp-mod-paeleorm-nogen-bruger-jernbaneskinner-andre-gamle-boreroer?rss",
+        "published_date": "2026-05-14 19:19:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "British politician resigns to make way for Starmer challenger",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/britisk-politiker-traekker-sig-goere-plads-til-starmer-udfordrer",
+        "published_date": "2026-05-14 17:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five Italians died in diving accident",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fem-italienere-doede-i-dykkerulykke",
+        "published_date": "2026-05-14 16:38:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark's Queen Margrethe hospitalised over chest pain",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260514/denmarks-queen-margrethe-hospitalised-over-chest-pain",
+        "published_date": "2026-05-14 15:27:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "King Charles visits Jewish community under attack",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kong-charles-besoeger-angrebsramt-joedisk-samfund",
+        "published_date": "2026-05-14 15:07:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Prime Minister wishes the Queen a speedy recovery",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/statsministeren-oensker-dronningen-god-bedring",
+        "published_date": "2026-05-14 14:11:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aros evacuated after smoke development",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/aros-evakueret-efter-roegudvikling",
+        "published_date": "2026-05-14 13:20:00",
+        "category": "Local Events"
     },
     {
         "title": "British health minister resigns",
@@ -410,76 +487,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/55000-samles-i-aarhus-til-agfs-sidste-kamp?referrer=RSS",
         "published_date": "2026-05-14 10:13:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latvia's Prime Minister resigns",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/letlands-premierminister-traekker-sig",
-        "published_date": "2026-05-14 08:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court orders arrest of Zelenskyi's former chief of staff",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/domstol-beordrer-anholdelse-af-zelenskyjs-tidligere-stabschef",
-        "published_date": "2026-05-14 08:49:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor will strengthen efforts against negative social control",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/borgmester-vil-styrke-indsats-mod-negativ-social-kontrol",
-        "published_date": "2026-05-14 08:19:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Third person arrested after fire at synagogue in London",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tredje-person-anholdt-efter-brand-ved-synagoge-i-london",
-        "published_date": "2026-05-14 08:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Xi Jinping calls Taiwan the most important issue between the US and China",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/xi-jinping-kalder-taiwan-det-vigtigste-problem-mellem-usa-og-kina",
-        "published_date": "2026-05-14 05:11:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Emirates denies Netanyahu's alleged visit during Iran war",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/emiraterne-benaegter-netanyahus-paastaaede-besoeg-under-iran-krig",
-        "published_date": "2026-05-14 01:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump administration removes controversial cash requirement for World Cup fans",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/trump-administrationen-fjerner-omstridt-pengekrav-for-vm-fans?referrer=RSS",
-        "published_date": "2026-05-13 23:11:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Netanyahu's party proposes to dissolve parliament",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/netanyahus-parti-fremsaetter-forslag-om-at-oploese-parlamentet?referrer=RSS",
-        "published_date": "2026-05-13 22:47:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "According to Rubio, the US hopes that China will play 'a more active role' in putting pressure on Iran",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-haaber-ifoelge-rubio-kina-vil-spille-en-mere-aktiv-rolle-i-laegge-pres-paa-iran",
-        "published_date": "2026-05-13 22:47:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inter punishes Lazio's poor defensive play and triumphs in the cup",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/inter-straffer-lazios-raerlige-forsvarsspil-og-triumferer-i-pokalen?referrer=RSS",
-        "published_date": "2026-05-13 21:11:44",
         "category": "Local Events"
     }
 ]
