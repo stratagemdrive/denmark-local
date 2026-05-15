@@ -1,5 +1,26 @@
 [
     {
+        "title": "Eurovision boss wants boycotting countries back in the grand prix",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/eurovision-chef-vil-have-boykottende-lande-tilbage-i-grandprixet?referrer=RSS",
+        "published_date": "2026-05-15 22:04:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "US State Department: Lebanon and Israel extend ceasefire",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usas-udenrigsministerium-libanon-og-israel-forlaenger-vaabenhvile?referrer=RSS",
+        "published_date": "2026-05-15 19:42:43",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Danish ode to clubbing makes it to Eurovision final",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260515/danish-ode-to-clubbing-makes-it-to-eurovision-final",
+        "published_date": "2026-05-15 14:47:54",
+        "category": "Diplomacy"
+    },
+    {
         "title": "L\u00f8kke expects the effect of the declaration to deport more criminals",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/loekke-forventer-effekt-af-erklaering-om-at-udvise-flere-kriminelle?referrer=RSS",
@@ -119,25 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The Ministry of Foreign Affairs warns: Lack of fuel can have an impact on Danes' travel plans",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/udenrigsministeriet-advarer-mangel-paa-braendstof-kan-faa-betydning-danskernes-rejseplaner",
-        "published_date": "2026-05-11 11:59:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU resumes cooperation agreement with Syria",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-genoptager-samarbejdsaftale-med-syrien",
-        "published_date": "2026-05-11 10:15:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Israel receives Eurovision warning for breaking rules",
+        "title": "Reports of several killed in Israeli attack on Hamas leader in Gaza",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/israel-faar-eurovision-advarsel-for-brud-paa-regler?referrer=RSS",
-        "published_date": "2026-05-10 21:14:53",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/meldinger-om-flere-draebte-i-israelsk-angreb-mod-hamas-leder-i-gaza?referrer=RSS",
+        "published_date": "2026-05-15 21:04:49",
+        "category": "Military"
+    },
+    {
+        "title": "USA: Israel and Lebanon extend ceasefire",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-israel-og-libanon-forlaenger-vaabenhvile",
+        "published_date": "2026-05-15 18:43:00",
+        "category": "Military"
     },
     {
         "title": "Russia and Ukraine exchange 410 prisoners of war",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Missing US soldier found dead in Morocco",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/savnet-amerikansk-soldat-fundet-doed-i-marokko",
-        "published_date": "2026-05-11 04:52:00",
-        "category": "Military"
-    },
-    {
-        "title": "Missing US soldier found dead in Morocco",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/forsvundet-amerikansk-soldat-fundet-doed-i-marokko?referrer=RSS",
-        "published_date": "2026-05-10 22:18:52",
-        "category": "Military"
-    },
-    {
         "title": "Hungary will release 575 million liters of oil from reserves",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/ungarn-vil-frigive-575-millioner-liter-olie-fra-reserve",
@@ -364,143 +364,143 @@
         "category": "Economy"
     },
     {
-        "title": "Heavy cancellations give the Danish ice hockey captain extra work at the WC",
+        "title": "Supreme Court rejects redistricting in Virginia",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tunge-afbud-giver-dansk-ishockeykaptajn-ekstraarbejde-ved-vm?referrer=RSS",
-        "published_date": "2026-05-15 12:17:46",
+        "url": "https://www.berlingske.dk/internationalt/hoejesteret-afviser-omtegning-af-valgkredse-i-virginia?referrer=RSS",
+        "published_date": "2026-05-15 23:19:48",
         "category": "Local Events"
     },
     {
-        "title": "0 stars: When icy ideology steals the joy of food",
+        "title": "Media: The US will file charges against Cuba's Castro",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/gastronomi/0-stjerner-naar-iskold-ideologi-stjaeler-madglaeden?referrer=RSS",
-        "published_date": "2026-05-15 12:10:04",
+        "url": "https://www.berlingske.dk/internationalt/medier-usa-vil-rejse-tiltale-mod-cubas-castro?referrer=RSS",
+        "published_date": "2026-05-15 22:34:46",
         "category": "Local Events"
     },
     {
-        "title": "Swedish company returns to Copenhagen with 4,500 parts electric bikes",
+        "title": "Ice hockey men see good World Cup rhythms despite the opening dip",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/svensk-firma-vender-retur-til-koebenhavn-med-4500-dele-elcykler?referrer=RSS",
-        "published_date": "2026-05-15 11:39:50",
+        "url": "https://www.berlingske.dk/sport/ishockeymaend-ser-gode-vm-takter-trods-aabningsdukkert?referrer=RSS",
+        "published_date": "2026-05-15 21:46:50",
         "category": "Local Events"
     },
     {
-        "title": "Swedish company returns to Copenhagen - this time with electric bikes",
+        "title": "Several are reported killed in Israeli attack on Hamas leader in Gaza",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/svensk-selskab-vender-tilbage-til-koebenhavn-denne-gang-med-elcykler",
-        "published_date": "2026-05-15 11:39:00",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-meldes-draebt-i-israelsk-angreb-mod-hamas-leder-i-gaza",
+        "published_date": "2026-05-15 21:16:00",
         "category": "Local Events"
     },
     {
-        "title": "The injured Frederik Dichow is out of the ice hockey WC",
+        "title": "Aston Villa punishes Liverpool hard and takes CL place",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/skadet-frederik-dichow-er-ude-af-ishockey-vm?referrer=RSS",
-        "published_date": "2026-05-15 11:32:55",
+        "url": "https://www.berlingske.dk/sport/aston-villa-straffer-liverpool-haardt-og-tager-cl-plads?referrer=RSS",
+        "published_date": "2026-05-15 21:07:46",
         "category": "Local Events"
     },
     {
-        "title": "Norway's Princess Astrid hospitalized with heart failure",
+        "title": "A difficult start costs the national ice hockey team dearly in the World Cup premiere",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tung-start-koster-ishockeylandsholdet-dyrt-i-vm-premiere?referrer=RSS",
+        "published_date": "2026-05-15 20:47:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Perhaps the world's oldest dog has died at the age of 30",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/verdens-maaske-aeldste-hund-er-doed-i-en-alder-af-30-aar?referrer=RSS",
+        "published_date": "2026-05-15 20:08:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish Bandidos is coming to HBO Max",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norsk-prinsesse-indlagt-med-hjertesvigt",
-        "published_date": "2026-05-15 10:49:00",
+        "url": "https://www.dr.dk/nyheder/seneste/danske-bandidos-kommer-paa-hbo-max",
+        "published_date": "2026-05-15 20:01:00",
         "category": "Local Events"
     },
     {
-        "title": "Now people who have been refused workers' compensation can have their cases reopened",
+        "title": "The final laying on of arms awaits around the corner - a new election is closer",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/den-endelige-armlaegning-venter-om-hjoernet--et-nyvalg-er-taettere-paa?referrer=RSS",
+        "published_date": "2026-05-15 19:50:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flights from Copenhagen had to spontaneously land in Paris - birds were in the way",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nu-kan-personer-der-har-faaet-nej-til-arbejdsskadeerstatning-faa-sager-genoptaget",
-        "published_date": "2026-05-15 10:46:00",
+        "url": "https://www.dr.dk/nyheder/seneste/fly-fra-koebenhavn-maatte-spontant-lande-i-paris-fugle-var-i-vejen",
+        "published_date": "2026-05-15 19:47:00",
         "category": "Local Events"
     },
     {
-        "title": "Media: Mother of dead man criticizes Amanda Heitmann for tasteless campaign",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sydfyn/medie-mor-til-doed-mand-kritiserer-amanda-heitmann-for-smagloes-kampagne?rss",
-        "published_date": "2026-05-15 10:45:15",
+        "title": "Elderly forced to buy controversial robot vacuum cleaners themselves - sparked wild criticism: This is what it looks like now",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/vejen/aeldre-tvunget-til-selv-at-koebe-omstridte-robotstoevsugere-udloeste-vild-kritik-saadan-ser-det-ud-nu?rss",
+        "published_date": "2026-05-15 19:40:52",
         "category": "Local Events"
     },
     {
-        "title": "Trump sets a date for the opening of the ballroom at the White House",
+        "title": "Perhaps the world's oldest dog has died - shortly after its original owner",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-saetter-dato-paa-aabning-af-balsal-ved-det-hvide-hus",
-        "published_date": "2026-05-15 10:30:00",
+        "url": "https://www.dr.dk/nyheder/seneste/verdens-maaske-aeldste-hund-er-doed-kort-efter-sin-oprindelige-ejer",
+        "published_date": "2026-05-15 19:20:00",
         "category": "Local Events"
     },
     {
-        "title": "Today in Denmark: A roundup of the latest news on Friday",
+        "title": "Merz will not encourage her children to work or study in the United States at this time",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mertz-vil-ikke-opfordre-sine-boern-til-arbejde-eller-studere-i-usa-i-oejeblikket",
+        "published_date": "2026-05-15 19:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Harvey Weinstein rape trial declared void",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/harvey-weinstein-retssag-om-voldtaegt-erklaeret-ugyldig",
+        "published_date": "2026-05-15 18:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel: We have attacked senior Hamas leader",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-vi-har-angrebet-hoejtstaaende-hamas-leder",
+        "published_date": "2026-05-15 17:48:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ebola outbreak confirmed in Uganda",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ebola-udbrud-bekraeftet-i-uganda",
+        "published_date": "2026-05-15 17:26:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Xi Jinping is visiting the United States this fall",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/xi-jinping-besoeger-usa-til-efteraaret",
+        "published_date": "2026-05-15 15:44:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marius Borg H\u00f8iby is appealing the anklet case to the Supreme Court",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-anker-sag-om-fodlaenke-til-hoejesteret",
+        "published_date": "2026-05-15 15:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark's Queen Margrethe has angioplasty in hospital",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260515/today-in-denmark-a-roundup-of-the-latest-news-on-friday-44",
-        "published_date": "2026-05-15 10:12:09",
+        "url": "https://www.thelocal.dk/20260515/denmarks-queen-margrethe-has-angioplasty-in-hospital",
+        "published_date": "2026-05-15 14:52:10",
         "category": "Local Events"
     },
     {
-        "title": "Hawker's markets affected by long government negotiations",
+        "title": "DM in Denmark's largest sauna at Amager",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kraemmermarkeder-ramt-af-lange-regeringsforhandlinger",
-        "published_date": "2026-05-15 10:08:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police introduce temporary surveillance for carnival",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-indfoerer-midlertidig-overvaagning-til-karneval",
-        "published_date": "2026-05-15 10:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police went to the funeral: violently drunk man did not want to go home",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/politiet-rykkede-ud-til-begravelse-i-kirke-voldsomt-fuld-mand-naegtede-at-gaa?rss",
-        "published_date": "2026-05-15 10:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Putin hopes to discuss Trump visit with Xi Jinping",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/putin-haaber-diskutere-trump-visit-med-xi-jinping",
-        "published_date": "2026-05-15 09:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump saw Chinese government headquarters before ending visit",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-saa-kinesisk-regerings-hovedkvarter-foer-han-afsluttede-besoeg",
-        "published_date": "2026-05-15 08:44:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish goalkeeper already finished at the WC",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/dansk-maalmand-allerede-faerdig-ved-vm",
-        "published_date": "2026-05-15 08:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ebola outbreak in DR Congo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ebolaudbrud-i-dr-congo",
-        "published_date": "2026-05-15 07:19:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "British minister calls for calm after 'turbulent' week",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/britisk-minister-maner-til-ro-efter-turbulent-uge",
-        "published_date": "2026-05-15 07:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "India is trying to curb imports of gold",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/indien-forsoeger-bremse-import-af-guld",
-        "published_date": "2026-05-15 06:22:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three people have lost their lives in a Ukrainian drone attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-personer-har-mistet-livet-i-ukrainsk-droneangreb",
-        "published_date": "2026-05-15 06:07:00",
+        "url": "https://www.dr.dk/nyheder/seneste/dm-i-danmarks-stoerste-sauna-paa-amager",
+        "published_date": "2026-05-15 14:44:00",
         "category": "Local Events"
     }
 ]
