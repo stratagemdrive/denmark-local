@@ -1,5 +1,33 @@
 [
     {
+        "title": "L\u00f8kke expects the effect of the declaration to deport more criminals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/loekke-forventer-effekt-af-erklaering-om-at-udvise-flere-kriminelle?referrer=RSS",
+        "published_date": "2026-05-15 12:17:52",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Allan Schmidt: The UN's equality policy has become gendered activism",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/allan-schmidt-fns-ligestillingspolitik-er-blevet-koennet-aktivisme?referrer=RSS",
+        "published_date": "2026-05-15 12:12:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Iran welcomes any help from China",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-byder-enhver-hjaelp-fra-kina-velkommen?referrer=RSS",
+        "published_date": "2026-05-15 12:09:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Two Italians on one roof tell a truth about Europe and the Danish left wing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/to-italienere-paa-et-tag-fortaeller-en-sandhed-om-europa-og-den-danske-venstrefloej?referrer=RSS",
+        "published_date": "2026-05-15 11:53:31",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Danes smashed glasses in Eurovision ecstasy",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/danskere-smadrede-glas-i-eurovision-ekstase?referrer=RSS",
@@ -112,32 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "North Zealand's principal talks about students who divide \"good and bad Muslims\".\"We can't solve it alone\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/nordsjaellandsk-rektor-fortaeller-om-elever-der-opdeler-gode-og-daarlige-muslimer-vi-kan-ikke-loese-det-alene?referrer=RSS",
-        "published_date": "2026-05-10 11:32:09",
-        "category": "Diplomacy"
+        "title": "Russia and Ukraine exchange 410 prisoners of war",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-og-ukraine-udveksler-410-krigsfanger",
+        "published_date": "2026-05-15 08:24:00",
+        "category": "Military"
     },
     {
-        "title": "Slovakia's prime minister participated as the only EU leader in Russia's victory day - now he faces criticism",
+        "title": "President after closed airspace: Finland does not face 'direct military threat'",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/slovakiets-premierminister-deltog-som-eneste-eu-leder-i-ruslands-sejrsdag-nu-moeder-han-kritik",
-        "published_date": "2026-05-10 07:46:00",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/praesident-efter-lukket-luftrum-finland-staar-ikke-over-direkte-militaer-trussel",
+        "published_date": "2026-05-15 08:23:00",
+        "category": "Military"
     },
     {
-        "title": "Rubio has met with Qatar's prime minister and foreign minister",
+        "title": "Ukraine updates death toll: At least 16 killed in Russian airstrikes on Thursday night",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rubio-har-moedtes-med-qatars-premierminister-og-udenrigsminister",
-        "published_date": "2026-05-09 23:18:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The Russian ambassador has laid a wreath on Bornholm",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/russisk-ambassadoer-har-lagt-krans-paa-bornholm",
-        "published_date": "2026-05-09 17:36:00",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-opjusterer-doedstal-mindst-16-draebt-i-russiske-luftangreb-natten-til-torsdag",
+        "published_date": "2026-05-15 01:01:00",
+        "category": "Military"
     },
     {
         "title": "16 are reported killed in scattered Russian drone attacks in Kyiv",
@@ -259,25 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "First flight with evacuees from virus-affected ship takes off from Tenerife",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/foerste-fly-med-evakuerede-fra-virusramt-skib-letter-fra-tenerife?referrer=RSS",
-        "published_date": "2026-05-10 11:31:50",
-        "category": "Military"
-    },
-    {
-        "title": "Russia and Ukraine accuse each other of violating a brief ceasefire",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rusland-og-ukraine-anklager-hinanden-for-brud-paa-kort-vaabenhvile?referrer=RSS",
-        "published_date": "2026-05-10 10:30:58",
-        "category": "Military"
-    },
-    {
-        "title": "Russia and Ukraine accuse each other of breaking the ceasefire",
+        "title": "Hungary will release 575 million liters of oil from reserves",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-og-ukraine-anklager-hinanden-bryde-vaabenhvile",
-        "published_date": "2026-05-10 09:58:00",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/ungarn-vil-frigive-575-millioner-liter-olie-fra-reserve",
+        "published_date": "2026-05-15 06:35:00",
+        "category": "Energy"
     },
     {
         "title": "Trump's Iran war is about oil prices - not security",
@@ -322,11 +329,18 @@
         "category": "Energy"
     },
     {
-        "title": "Citizens want a general ban on new solar cells and wind turbines",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/borgere-vil-have-et-generelt-stop-nye-solceller-og-vindmoeller",
-        "published_date": "2026-05-07 07:24:00",
-        "category": "Energy"
+        "title": "Known fraudster convicted of leasing stolen cars",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/kendt-svindler-doemt-for-leasing-af-stjaalne-biler?referrer=RSS",
+        "published_date": "2026-05-15 12:13:46",
+        "category": "Economy"
+    },
+    {
+        "title": "The state finances startups, but sends billions to competitors \u2013 it's inefficient and contradictory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/staten-finansierer-startups-men-sender-milliarder-til-konkurrenterne--det-er-ineffektivt-og-selvmodsigende?referrer=RSS",
+        "published_date": "2026-05-15 12:03:03",
+        "category": "Economy"
     },
     {
         "title": "While the market has risen, the stock has plunged.But the analyst is holding on to the belief",
@@ -350,143 +364,143 @@
         "category": "Economy"
     },
     {
-        "title": "We talk about integration - but no longer dare to enforce ordinary social norms",
+        "title": "Heavy cancellations give the Danish ice hockey captain extra work at the WC",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/vi-taler-om-integration--men-toer-ikke-laengere-haandhaeve-helt-almindelige-sociale-normer?referrer=RSS",
-        "published_date": "2026-05-14 21:38:43",
+        "url": "https://www.berlingske.dk/sport/tunge-afbud-giver-dansk-ishockeykaptajn-ekstraarbejde-ved-vm?referrer=RSS",
+        "published_date": "2026-05-15 12:17:46",
         "category": "Local Events"
     },
     {
-        "title": "Whale stranded on the coast of Anholt",
+        "title": "0 stars: When icy ideology steals the joy of food",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/gastronomi/0-stjerner-naar-iskold-ideologi-stjaeler-madglaeden?referrer=RSS",
+        "published_date": "2026-05-15 12:10:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swedish company returns to Copenhagen with 4,500 parts electric bikes",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/svensk-firma-vender-retur-til-koebenhavn-med-4500-dele-elcykler?referrer=RSS",
+        "published_date": "2026-05-15 11:39:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swedish company returns to Copenhagen - this time with electric bikes",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hval-strandet-ved-anholts-kyst",
-        "published_date": "2026-05-14 19:52:00",
+        "url": "https://www.dr.dk/nyheder/seneste/svensk-selskab-vender-tilbage-til-koebenhavn-denne-gang-med-elcykler",
+        "published_date": "2026-05-15 11:39:00",
         "category": "Local Events"
     },
     {
-        "title": "Men have a significantly greater risk of cancers that affect both sexes",
+        "title": "The injured Frederik Dichow is out of the ice hockey WC",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/skadet-frederik-dichow-er-ude-af-ishockey-vm?referrer=RSS",
+        "published_date": "2026-05-15 11:32:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norway's Princess Astrid hospitalized with heart failure",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maend-har-markant-stoerre-risiko-ved-kraeftformer-der-rammer-begge-koen",
-        "published_date": "2026-05-14 19:31:00",
+        "url": "https://www.dr.dk/nyheder/seneste/norsk-prinsesse-indlagt-med-hjertesvigt",
+        "published_date": "2026-05-15 10:49:00",
         "category": "Local Events"
     },
     {
-        "title": "Going to war against pile worms: Some use railway tracks, others old drill pipes",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/gaar-til-kamp-mod-paeleorm-nogen-bruger-jernbaneskinner-andre-gamle-boreroer?rss",
-        "published_date": "2026-05-14 19:19:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "British politician resigns to make way for Starmer challenger",
+        "title": "Now people who have been refused workers' compensation can have their cases reopened",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/britisk-politiker-traekker-sig-goere-plads-til-starmer-udfordrer",
-        "published_date": "2026-05-14 17:15:00",
+        "url": "https://www.dr.dk/nyheder/seneste/nu-kan-personer-der-har-faaet-nej-til-arbejdsskadeerstatning-faa-sager-genoptaget",
+        "published_date": "2026-05-15 10:46:00",
         "category": "Local Events"
     },
     {
-        "title": "Five Italians died in diving accident",
+        "title": "Media: Mother of dead man criticizes Amanda Heitmann for tasteless campaign",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sydfyn/medie-mor-til-doed-mand-kritiserer-amanda-heitmann-for-smagloes-kampagne?rss",
+        "published_date": "2026-05-15 10:45:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump sets a date for the opening of the ballroom at the White House",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fem-italienere-doede-i-dykkerulykke",
-        "published_date": "2026-05-14 16:38:00",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-saetter-dato-paa-aabning-af-balsal-ved-det-hvide-hus",
+        "published_date": "2026-05-15 10:30:00",
         "category": "Local Events"
     },
     {
-        "title": "Denmark's Queen Margrethe hospitalised over chest pain",
+        "title": "Today in Denmark: A roundup of the latest news on Friday",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260514/denmarks-queen-margrethe-hospitalised-over-chest-pain",
-        "published_date": "2026-05-14 15:27:20",
+        "url": "https://www.thelocal.dk/20260515/today-in-denmark-a-roundup-of-the-latest-news-on-friday-44",
+        "published_date": "2026-05-15 10:12:09",
         "category": "Local Events"
     },
     {
-        "title": "King Charles visits Jewish community under attack",
+        "title": "Hawker's markets affected by long government negotiations",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kong-charles-besoeger-angrebsramt-joedisk-samfund",
-        "published_date": "2026-05-14 15:07:00",
+        "url": "https://www.dr.dk/nyheder/seneste/kraemmermarkeder-ramt-af-lange-regeringsforhandlinger",
+        "published_date": "2026-05-15 10:08:00",
         "category": "Local Events"
     },
     {
-        "title": "The Prime Minister wishes the Queen a speedy recovery",
+        "title": "Police introduce temporary surveillance for carnival",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/statsministeren-oensker-dronningen-god-bedring",
-        "published_date": "2026-05-14 14:11:00",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-indfoerer-midlertidig-overvaagning-til-karneval",
+        "published_date": "2026-05-15 10:04:00",
         "category": "Local Events"
     },
     {
-        "title": "Aros evacuated after smoke development",
+        "title": "The police went to the funeral: violently drunk man did not want to go home",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/politiet-rykkede-ud-til-begravelse-i-kirke-voldsomt-fuld-mand-naegtede-at-gaa?rss",
+        "published_date": "2026-05-15 10:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Putin hopes to discuss Trump visit with Xi Jinping",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/aros-evakueret-efter-roegudvikling",
-        "published_date": "2026-05-14 13:20:00",
+        "url": "https://www.dr.dk/nyheder/seneste/putin-haaber-diskutere-trump-visit-med-xi-jinping",
+        "published_date": "2026-05-15 09:35:00",
         "category": "Local Events"
     },
     {
-        "title": "British health minister resigns",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/britisk-sundhedsminister-traekker-sig?referrer=RSS",
-        "published_date": "2026-05-14 12:16:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sailor has been flown to hospital after accident",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/sejler-er-blevet-floejet-til-hospitalet-efter-ulykke?referrer=RSS",
-        "published_date": "2026-05-14 12:13:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sofie Danneskiold-Sams\u00f8e forgets something important in her victim narrative about Sara Omar",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/sofie-danneskiold-samsoee-glemmer-noget-vaesentligt-i-sin-offerfortaelling-om-sara-omar?referrer=RSS",
-        "published_date": "2026-05-14 12:11:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "An adult and three children in hospital after a traffic accident",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/en-voksen-og-tre-boern-paa-hospitalet-efter-trafikulykke?referrer=RSS",
-        "published_date": "2026-05-14 12:03:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cruise passengers in a French port must now leave the ship",
+        "title": "Trump saw Chinese government headquarters before ending visit",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/krydstogtpassagerer-i-fransk-havn-maa-nu-forlade-skib",
-        "published_date": "2026-05-14 11:58:00",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-saa-kinesisk-regerings-hovedkvarter-foer-han-afsluttede-besoeg",
+        "published_date": "2026-05-15 08:44:00",
         "category": "Local Events"
     },
     {
-        "title": "At least five people have been killed in overnight attacks in Kyiv",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mindst-fem-personer-er-blevet-draebt-i-natlige-angreb-i-kyiv?referrer=RSS",
-        "published_date": "2026-05-14 11:39:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Antonsen works his way through to the quarter-finals in Thailand",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/antonsen-slider-sig-videre-til-kvartfinale-i-thailand?referrer=RSS",
-        "published_date": "2026-05-14 11:23:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fireworks set off in front of the FCM hotel the night before the cup final",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fyrvaerkeri-affyret-foran-fcm-hotel-natten-foer-pokalfinale?referrer=RSS",
-        "published_date": "2026-05-14 11:09:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Last tickets snatched away for AGF's golden celebration",
+        "title": "Danish goalkeeper already finished at the WC",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sidste-billetter-revet-vaek-til-agf-s-guldfejring",
-        "published_date": "2026-05-14 10:37:00",
+        "url": "https://www.dr.dk/sporten/seneste-sport/dansk-maalmand-allerede-faerdig-ved-vm",
+        "published_date": "2026-05-15 08:40:00",
         "category": "Local Events"
     },
     {
-        "title": "55,000 gather in Aarhus for AGF's last match",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/55000-samles-i-aarhus-til-agfs-sidste-kamp?referrer=RSS",
-        "published_date": "2026-05-14 10:13:53",
+        "title": "Ebola outbreak in DR Congo",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ebolaudbrud-i-dr-congo",
+        "published_date": "2026-05-15 07:19:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "British minister calls for calm after 'turbulent' week",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/britisk-minister-maner-til-ro-efter-turbulent-uge",
+        "published_date": "2026-05-15 07:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "India is trying to curb imports of gold",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/indien-forsoeger-bremse-import-af-guld",
+        "published_date": "2026-05-15 06:22:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three people have lost their lives in a Ukrainian drone attack",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-personer-har-mistet-livet-i-ukrainsk-droneangreb",
+        "published_date": "2026-05-15 06:07:00",
         "category": "Local Events"
     }
 ]
