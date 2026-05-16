@@ -1,5 +1,40 @@
 [
     {
+        "title": "FACT: Bulgaria wins Eurovision for the first time",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/fakta-bulgarien-vinder-eurovision-for-foerste-gang?referrer=RSS",
+        "published_date": "2026-05-16 23:36:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Israel finishes as Eurovision runner-up for the second year in a row despite protests",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/israel-ender-som-eurovision-toer-for-andet-aar-i-traek-trods-protester?referrer=RSS",
+        "published_date": "2026-05-16 23:36:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Bulgaria makes a comeback and wins Eurovision for the first time ever",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/bulgarien-goer-comeback-og-vinder-eurovision-for-foerste-gang-nogensinde?referrer=RSS",
+        "published_date": "2026-05-16 23:18:56",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "FACTS: Denmark's positions in Eurovision over ten years",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/fakta-danmarks-placeringer-i-eurovision-gennem-ti-aar-2?referrer=RSS",
+        "published_date": "2026-05-16 23:18:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Denmark's Eurovision hope after final song: I have cried and cried",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/danmarks-eurovision-haab-efter-finalesang-jeg-har-graedt-og-graedt?referrer=RSS",
+        "published_date": "2026-05-16 20:52:53",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Swedish Eurovision contestant fainted after performance",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/svensk-eurovision-deltager-besvimede-efter-optraeden?referrer=RSS",
@@ -102,41 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/halvdelen-af-danmarks-eurovision-skaebne-er-allerede-afgjort?referrer=RSS",
         "published_date": "2026-05-14 12:09:53",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Novo Nordisk scraps new Danish factory plans",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260514/novo-nordisk-scraps-new-danish-factory-plans",
-        "published_date": "2026-05-14 09:47:54",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "One trip, one ticket: New EU rules aim to ease train travel",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260513/one-trip-one-ticket-new-eu-rules-aim-to-ease-train-travel",
-        "published_date": "2026-05-13 12:59:22",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "FACT: The first team of Eurovision finalists has been found",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/fakta-det-foerste-hold-eurovision-finalister-er-fundet-1?referrer=RSS",
-        "published_date": "2026-05-12 22:05:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Controversial Israel and Finnish favorite advance to the Eurovision final",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/omdiskuterede-israel-og-finsk-favorit-er-videre-til-eurovision-finalen?referrer=RSS",
-        "published_date": "2026-05-12 21:50:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Deutsche Bahn announces direct Berlin-Oslo train for 2028",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260511/deutsche-bahn-announces-direct-berlin-oslo-train-for-2028",
-        "published_date": "2026-05-11 15:47:29",
         "category": "Diplomacy"
     },
     {
@@ -280,6 +280,13 @@
         "category": "Military"
     },
     {
+        "title": "All power is back on Sejer\u00f8",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/al-stroem-er-tilbage-paa-sejeroe",
+        "published_date": "2026-05-16 13:21:00",
+        "category": "Energy"
+    },
+    {
         "title": "'Most' on Sejer\u00f8 have power again - it is not known when the whole island will get it",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/de-fleste-paa-sejeroe-har-stroem-igen-uvist-hvornaar-hele-oeen-faar-det",
@@ -364,11 +371,95 @@
         "category": "Economy"
     },
     {
-        "title": "In the middle of the debate about bank loans and mortgages, we are overlooking something absolutely crucial",
+        "title": "The royal house has never been more important",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/midt-i-debatten-om-banklaan-og-realkredit-overser-vi-noget-helt-afgoerende?referrer=RSS",
-        "published_date": "2026-05-08 12:02:42",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/laesere/kongehuset-har-aldrig-vaeret-vigtigere?referrer=RSS",
+        "published_date": "2026-05-16 23:18:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "42 children abducted by suspected jihadists in Nigeria",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/42-boern-bortfoert-af-formodede-jihadister-i-nigeria?referrer=RSS",
+        "published_date": "2026-05-16 22:39:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Slovenian ice hockey men shock victory over the Czech Republic at the World Cup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/slovenske-ishockeymaend-choksejrer-over-tjekkiet-ved-vm?referrer=RSS",
+        "published_date": "2026-05-16 21:11:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "43 people have been arrested during demonstrations in London",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/43-personer-er-anholdt-under-demonstrationer-i-london?referrer=RSS",
+        "published_date": "2026-05-16 20:55:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorist arrested after hitting pedestrians in northern Italian town",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/bilist-er-anholdt-efter-paakoersel-af-fodgaengere-i-norditaliensk-by?referrer=RSS",
+        "published_date": "2026-05-16 20:52:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two remanded in custody for knife murder in Tilst",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/varetaegtsfaengslet-knivdrab-i-tilst",
+        "published_date": "2026-05-16 20:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Main suspect in the genocide in Rwanda dead",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hovedmistaenkt-folkedrabet-i-rwanda-doed",
+        "published_date": "2026-05-16 19:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Anni has seen her brother and close friend die at a young age:\u00a0Therefore, she will not postpone her dreams",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/kolding/anni-har-oplevet-bror-og-naer-ven-doe-i-en-ung-alder-derfor-vil-hun-ikke-udsaette-sine-droemme?rss",
+        "published_date": "2026-05-16 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Canadian in quarantine tests positive for hantavirus",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/canadier-i-karantaene-tester-positiv-hantavirus",
+        "published_date": "2026-05-16 18:51:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "27 arrested in Oslo in action against rock club",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/27-anholdt-i-oslo-i-aktion-mod-rockerklub",
+        "published_date": "2026-05-16 17:04:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seven injured in collision in Modena, Italy",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/syv-kvaestet-ved-paakoersel-i-modena-i-italien",
+        "published_date": "2026-05-16 16:44:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police will require two people to be imprisoned for knife murder in Tilst",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-vil-kraeve-faengslet-knivdrab-i-tilst",
+        "published_date": "2026-05-16 14:52:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Imprisoned for attempting to abduct grandchildren abroad",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/faengslet-forsoeg-paa-et-bortfoere-boerneboern-til-udlandet",
+        "published_date": "2026-05-16 13:03:00",
+        "category": "Local Events"
     },
     {
         "title": "Lewandowski leaves FC Barcelona after four seasons",
@@ -417,97 +508,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/venstre-vil-goere-diabetes-sensor-gratis-alle",
         "published_date": "2026-05-16 10:27:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The right wing does not grow by itself.It is nurtured by an extreme left wing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/hoejrefloejen-vokser-ikke-af-sig-selv-den-naeres-af-en-ekstrem-venstrefloej?referrer=RSS",
-        "published_date": "2026-05-16 10:13:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "25-year-old has died after stabbing - three people have been arrested",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/25-aarig-draebt-efter-knivstikkeri-tre-personer-er-anholdt",
-        "published_date": "2026-05-16 07:12:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Putin to visit China",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/putin-skal-besoege-kina",
-        "published_date": "2026-05-16 06:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ukrainian couple arrested after abduction",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukrainsk-par-anholdt-efter-bortfoersel",
-        "published_date": "2026-05-16 05:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Taiwan is grateful for Trump's support",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/taiwan-er-taknemmelig-trumps-stoette",
-        "published_date": "2026-05-16 05:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lebanon reports several dead in Israeli attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/libanon-melder-om-flere-draebte-i-israelsk-angreb",
-        "published_date": "2026-05-16 03:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police are investigating suspicious circumstances in the Aarhus district",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-undersoeger-mistaenkeligt-forhold-i-aarhus-bydel",
-        "published_date": "2026-05-16 01:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supreme Court rejects redistricting in Virginia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hoejesteret-afviser-omtegning-af-valgkredse-i-virginia?referrer=RSS",
-        "published_date": "2026-05-15 23:19:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: The US will file charges against Cuba's Castro",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/medier-usa-vil-rejse-tiltale-mod-cubas-castro?referrer=RSS",
-        "published_date": "2026-05-15 22:34:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ice hockey men see good World Cup rhythms despite the opening dip",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ishockeymaend-ser-gode-vm-takter-trods-aabningsdukkert?referrer=RSS",
-        "published_date": "2026-05-15 21:46:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several are reported killed in Israeli attack on Hamas leader in Gaza",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-meldes-draebt-i-israelsk-angreb-mod-hamas-leder-i-gaza",
-        "published_date": "2026-05-15 21:16:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aston Villa punishes Liverpool hard and takes CL place",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/aston-villa-straffer-liverpool-haardt-og-tager-cl-plads?referrer=RSS",
-        "published_date": "2026-05-15 21:07:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "A difficult start costs the national ice hockey team dearly in the World Cup premiere",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tung-start-koster-ishockeylandsholdet-dyrt-i-vm-premiere?referrer=RSS",
-        "published_date": "2026-05-15 20:47:49",
         "category": "Local Events"
     }
 ]
