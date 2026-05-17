@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Politico: Overlooked email sparks Polish confusion over US military exercise",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/politico-overset-e-mail-skabte-polsk-forvirring-om-amerikansk-militaeroevelse?referrer=RSS",
+        "published_date": "2026-05-17 19:28:11",
+        "category": "Military"
+    },
+    {
         "title": "Israel confirms killing of leader of Hamas' armed branch",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/israel-bekraefter-drab-paa-leder-af-hamas-vaebnede-gren?referrer=RSS",
@@ -273,11 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Amnesty accuses Nigeria's military of attacks on markets that killed more than 100 civilians",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/amnesty-anklager-nigerias-militaer-angreb-paa-marked-med-over-100-draebte-civile",
-        "published_date": "2026-05-11 22:36:00",
-        "category": "Military"
+        "title": "Politicians want to send data centers to the back of the line for the power grid",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/politikere-vil-sende-datacentre-bag-i-koeen-til-elnettet?referrer=RSS",
+        "published_date": "2026-05-17 21:44:47",
+        "category": "Energy"
     },
     {
         "title": "US lets Russia's exemption from oil sanctions expire",
@@ -378,6 +385,111 @@
         "category": "Economy"
     },
     {
+        "title": "Islamic Jihad leader reportedly killed in Israeli attack",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/islamisk-jihad-leder-meldes-draebt-i-israelsk-angreb?referrer=RSS",
+        "published_date": "2026-05-17 23:01:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are looking for a 17-year-old girl from Frederikshavn",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-leder-efter-17-aarig-pige-fra-frederikshavn",
+        "published_date": "2026-05-17 23:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Law on the death penalty for Palestinians convicted of attacks enters into force",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/lov-om-doedsstraf-for-palaestinensere-doemt-for-angreb-traeder-i-kraft?referrer=RSS",
+        "published_date": "2026-05-17 22:54:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "My wife and I would like to say a big thank you to the two guardian angels on Roskildevej",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/fra-mig-og-min-kone-skal-lyde-et-stort-tak-til-de-to-skytsengle-paa-roskildevej?referrer=RSS",
+        "published_date": "2026-05-17 22:01:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Griezmann calls moving to Barcelona a mistake in farewell match",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/griezmann-kalder-skifte-til-barcelona-for-en-fejl-i-afskedskamp?referrer=RSS",
+        "published_date": "2026-05-17 21:48:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barcelona gives a touched Lewandowski victory in Camp Nou farewell",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/barcelona-giver-roert-lewandowski-sejr-i-camp-nou-afsked?referrer=RSS",
+        "published_date": "2026-05-17 21:25:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "French league game is called off after pitch invasion",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fransk-ligakamp-bliver-afblaest-efter-baneinvasion?referrer=RSS",
+        "published_date": "2026-05-17 20:52:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US envoy is to meet with Greenland's head of government",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/usas-udsending-skal-moedes-med-groenlands-regeringschef?referrer=RSS",
+        "published_date": "2026-05-17 20:29:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "India and Sweden will increase cooperation",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/indien-og-sverige-vil-oege-samarbejdet",
+        "published_date": "2026-05-17 19:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump: The clock is ticking for Iran",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-uret-tikker-iran",
+        "published_date": "2026-05-17 17:29:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ur launch led to chaos in several big cities",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ur-lancering-foerte-til-kaos-i-flere-storbyer",
+        "published_date": "2026-05-17 14:59:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "German police shoot escaped tiger",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tysk-politi-skyder-undsluppen-tiger",
+        "published_date": "2026-05-17 13:48:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drone hits near nuclear power plant in the Emirates",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/drone-rammer-naer-atomkraftvaerk-i-emiraterne",
+        "published_date": "2026-05-17 13:36:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chinese man detained in Norway for espionage",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kinesisk-mand-varetaegtsfaengslet-i-norge-spionage",
+        "published_date": "2026-05-17 13:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two 17-year-olds remanded in custody in connection with knife murder in Tilst",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/17-aarige-varetaegtsfaengslet-i-forbindelse-med-knivdrab-i-tilst",
+        "published_date": "2026-05-17 12:11:00",
+        "category": "Local Events"
+    },
+    {
         "title": "A man has locked himself in a library in North Jutland",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/mand-har-laast-sig-inde-paa-bibliotek-i-nordjylland",
@@ -410,111 +522,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/politiet-har-skudt-37-aarig-i-benet-paa-frederiksberg?referrer=RSS",
         "published_date": "2026-05-17 11:15:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chinese citizen charged with attempted espionage against Norway",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kinesisk-statsborger-sigtet-forsoeg-paa-spionage-mod-norge",
-        "published_date": "2026-05-17 11:11:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man has locked himself in the library",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-har-laast-sig-inde-paa-bibliotek?referrer=RSS",
-        "published_date": "2026-05-17 11:08:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drone attack blamed for fire at nuclear power plant in Abu Dhabi",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/droneangreb-skyld-i-brand-ved-atomkraftvaerk-i-abu-dhabi?referrer=RSS",
-        "published_date": "2026-05-17 10:59:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Stranded whale rescued in Germany found dead in Denmark",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260517/stranded-whale-rescued-in-germany-found-dead-in-denmark",
-        "published_date": "2026-05-17 10:58:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "14-year-old Norwegian boy stole a bus and drove away in it - for the third time in six months",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/14-aarig-norsk-dreng-stjal-bus-og-koerte-vaek-i-den-tredje-gang-paa-et-halvt-aar",
-        "published_date": "2026-05-17 08:06:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two 17-year-olds arrested in connection with knife murder in Tilst",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/17-aarige-anholdt-i-forbindelse-med-knivdrab-i-tilst",
-        "published_date": "2026-05-17 08:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sherpa again breaks his own Everest record: Has now climbed the mountain 32 times",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sherpa-slaar-igen-sin-egen-everest-rekord-har-nu-besteget-bjerget-32-gange",
-        "published_date": "2026-05-17 07:41:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mette-Marit wears oxygen goggles during Norway's National Day",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mette-marit-baerer-iltbriller-under-norges-nationaldag",
-        "published_date": "2026-05-17 07:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nicolai H\u00f8jgaard hangs on in the major after a strong third round",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/nicolai-hoejgaard-haenger-paa-i-major-efter-staerk-tredje-runde",
-        "published_date": "2026-05-17 06:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "French judge to investigate the murder of Saudi journalist and system critic",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fransk-dommer-skal-undersoege-drabet-paa-saudisk-journalist-og-systemkritiker",
-        "published_date": "2026-05-17 06:37:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least three dead in Ukrainian attack near Moscow",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mindst-tre-doede-i-ukrainsk-angreb-naer-moskva",
-        "published_date": "2026-05-17 05:52:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "She was called a butcher and made women leave crying - reviled specialist is closed",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/hun-blev-kaldt-slagter-og-fik-kvinder-til-at-gaa-graedende-derfra-udskaeldt-speciallaege-er-lukket?rss",
-        "published_date": "2026-05-17 05:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Men on motorcycles shoot Colombian presidential candidate staff",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maend-paa-motorcykler-skyder-colombiansk-praesidentkandidats-medarbejdere",
-        "published_date": "2026-05-17 03:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The royal house has never been more important",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/kongehuset-har-aldrig-vaeret-vigtigere?referrer=RSS",
-        "published_date": "2026-05-16 23:18:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "42 children abducted by suspected jihadists in Nigeria",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/42-boern-bortfoert-af-formodede-jihadister-i-nigeria?referrer=RSS",
-        "published_date": "2026-05-16 22:39:49",
         "category": "Local Events"
     }
 ]
