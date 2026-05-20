@@ -1,5 +1,54 @@
 [
     {
+        "title": "EES: 7,000 overstayers snared since launch of EU's new Schengen border checks",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260520/ees-7000-overstayers-snared-since-launch-of-eus-new-schengen-border-checks",
+        "published_date": "2026-05-20 14:37:30",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Chief negotiator: Customs deal is safety net due to unpredictable US",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/chefforhandler-toldaftale-er-sikkerhedsnet-paa-grund-af-uforudsigeligt-usa?referrer=RSS",
+        "published_date": "2026-05-20 13:26:53",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Gitte \u00d8rskou resigns as museum director of Moderna Museet",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/gitte-oerskou-fratraeder-som-museumsdirektoer-for-moderna-museet?referrer=RSS",
+        "published_date": "2026-05-20 13:05:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Europa League finalists",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/europa-league-finalisterne?referrer=RSS",
+        "published_date": "2026-05-20 13:02:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU agrees to implement US trade pact after Trump threats",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260520/eu-agrees-to-implement-us-trade-pact-after-trump-threats",
+        "published_date": "2026-05-20 09:15:17",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU paves way to implement trade deal as Trump deadline looms",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-baner-vejen-faerdiggoere-handelsaftale-mens-trumps-deadline-lurer",
+        "published_date": "2026-05-20 03:14:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The US is cutting back on the number of combat-ready brigades in Europe",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-skaerer-ned-paa-antallet-af-kampklare-brigader-i-europa",
+        "published_date": "2026-05-20 00:48:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Rubio on Ebola outbreak: UN organization was too late on it",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/rubio-om-ebola-udbrud-fn-organisation-var-for-sent-paa-den?referrer=RSS",
@@ -91,53 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "FACT: Bulgaria wins Eurovision for the first time",
+        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/fakta-bulgarien-vinder-eurovision-for-foerste-gang?referrer=RSS",
-        "published_date": "2026-05-16 23:36:48",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Israel finishes as Eurovision runner-up for the second year in a row despite protests",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/israel-ender-som-eurovision-toer-for-andet-aar-i-traek-trods-protester?referrer=RSS",
-        "published_date": "2026-05-16 23:36:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Bulgaria makes a comeback and wins Eurovision for the first time ever",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/bulgarien-goer-comeback-og-vinder-eurovision-for-foerste-gang-nogensinde?referrer=RSS",
-        "published_date": "2026-05-16 23:18:56",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "FACTS: Denmark's positions in Eurovision over ten years",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/fakta-danmarks-placeringer-i-eurovision-gennem-ti-aar-2?referrer=RSS",
-        "published_date": "2026-05-16 23:18:51",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Denmark's Eurovision hope after final song: I have cried and cried",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/danmarks-eurovision-haab-efter-finalesang-jeg-har-graedt-og-graedt?referrer=RSS",
-        "published_date": "2026-05-16 20:52:53",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Swedish Eurovision contestant fainted after performance",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/svensk-eurovision-deltager-besvimede-efter-optraeden?referrer=RSS",
-        "published_date": "2026-05-16 11:07:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Finnish Eurovision favorite gets dispensation from ban",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/finsk-eurovision-favorit-faar-dispensation-fra-forbud?referrer=RSS",
-        "published_date": "2026-05-16 10:45:43",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1702?referrer=RSS",
+        "published_date": "2026-05-20 13:21:21",
+        "category": "Military"
     },
     {
         "title": "FBI: Teenagers behind mosque attack were united by hate",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Lebanon reports 13 dead in Israeli attacks",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/libanon-melder-om-13-doede-i-israelske-angreb?referrer=RSS",
-        "published_date": "2026-05-12 22:20:52",
-        "category": "Military"
-    },
-    {
         "title": "Applications for M\u00f8drehj\u00e6lpen's holiday assistance are pouring in",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/ansoegninger-til-moedrehjaelpens-feriehjaelp-stroemmer-ind",
@@ -357,13 +357,6 @@
         "category": "Energy"
     },
     {
-        "title": "Bad news for Trump - again big price jump in the USA",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/daarlig-nyt-for-trump--igen-stort-prishop-i-usa?referrer=RSS",
-        "published_date": "2026-05-12 12:38:42",
-        "category": "Energy"
-    },
-    {
         "title": "The US permanently exempts Trump from scrutiny of past tax affairs",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usa-fritager-trump-for-granskning-af-tidligere-skatteforhold-for-altid?referrer=RSS",
@@ -399,150 +392,143 @@
         "category": "Economy"
     },
     {
-        "title": "Inflation in the US rises to the highest level in almost three years",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/inflationen-i-usa-stiger-til-hoejeste-niveau-i-naesten-tre-aar",
-        "published_date": "2026-05-12 13:05:00",
-        "category": "Economy"
-    },
-    {
-        "title": "Guardiola will talk about his future with City management",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/guardiola-vil-tale-om-sin-fremtid-med-city-ledelse?referrer=RSS",
-        "published_date": "2026-05-19 23:49:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Taiwanese author wins prestigious book award",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/taiwansk-forfatter-vinder-prestigefyldt-bogpris",
-        "published_date": "2026-05-19 23:27:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Taiwanese author wins prestigious book award for the first time",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/taiwansk-forfatter-vinder-prestigefyldt-bogpris-for-foerste-gang?referrer=RSS",
-        "published_date": "2026-05-19 22:50:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Troels Lund: Still undecided whether a VLAK government can be formed",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/troels-lund-endnu-uafklaret-om-en-vlak-regering-kan-dannes?referrer=RSS",
-        "published_date": "2026-05-19 22:34:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Haaland pays tribute to compatriot in Arsenal after English championship",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/haaland-hylder-landsmand-i-arsenal-efter-engelsk-mesterskab?referrer=RSS",
-        "published_date": "2026-05-19 22:16:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spy case costs Southampton a place in the promotion final",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/spionsag-koster-southampton-plads-i-oprykningsfinale?referrer=RSS",
-        "published_date": "2026-05-19 21:22:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "L\u00f8kke: Troels Lund still has time to form a central government",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/loekke-troels-lund-har-stadig-tid-til-at-danne-midterregering?referrer=RSS",
-        "published_date": "2026-05-19 21:19:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tottenham misses first opportunity for survival",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tottenham-misser-foerste-mulighed-for-overlevelse?referrer=RSS",
-        "published_date": "2026-05-19 21:15:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Google's search engine will soon be able to book restaurant visits for you",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/googles-soegemaskine-kan-snart-booke-restaurantbesoeg-dig",
-        "published_date": "2026-05-19 20:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "18 infected with tuberculosis in Vejle",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/18-smittet-med-tuberkulose-i-vejle",
-        "published_date": "2026-05-19 19:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Construction of the rocket factory is secretive: Now a rumor is spreading",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/rygter-om-stoppet-raketfabrik-spreder-sig-ministeriet-afviser?rss",
-        "published_date": "2026-05-19 18:59:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rubio and L\u00f8kke will meet in Helsingborg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rubio-skal-til-udenrigsministermoede-i-helsingborg",
-        "published_date": "2026-05-19 18:12:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "One of the world's largest planes is coming to Billund: A big task awaits the airport",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/et-af-verdens-stoerste-fly-kommer-til-billund-stor-opgave-venter-for-lufthavnen?rss",
-        "published_date": "2026-05-19 16:55:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Putin is welcomed with a red carpet and song in China",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/putin-modtages-med-roed-loeber-og-sang-i-kina",
-        "published_date": "2026-05-19 15:47:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump warns of new attacks against Iran",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-varsler-nye-angreb-mod-iran",
-        "published_date": "2026-05-19 15:33:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "One million passengers have stood on the capital's light rail",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/en-million-passagerer-er-staaet-paa-hovedstadens-letbane",
-        "published_date": "2026-05-19 15:32:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "After the Epstein files: Police in the UK investigate cases of child abuse",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-epstein-filerne-politi-i-storbritannien-efterforsker-sager-om-misbrug-af-boern",
-        "published_date": "2026-05-19 15:09:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark's Queen Margrethe out of hospital after heart procedure",
+        "title": "What to expect if you\u2019re driving in Denmark during the 'Pinse' holiday weekend",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260519/denmarks-queen-margrethe-out-of-hospital-after-heart-procedure",
-        "published_date": "2026-05-19 14:52:41",
+        "url": "https://www.thelocal.dk/20260520/what-to-expect-if-youre-driving-in-denmark-during-the-whitsun-holiday-weekend",
+        "published_date": "2026-05-20 14:47:24",
         "category": "Local Events"
     },
     {
-        "title": "The stranded humpback whale 'Timmy' must be removed from Anholt's coast",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/den-strandede-pukkelhval-timmy-skal-fjernes-fra-anholts-kyst",
-        "published_date": "2026-05-19 14:48:00",
+        "title": "Live music: The international artists performing in Denmark in 2026",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260520/live-music-the-international-artists-performing-in-denmark-in-2026",
+        "published_date": "2026-05-20 14:06:02",
         "category": "Local Events"
     },
     {
-        "title": "Assens Municipality warns of bacteria in the water",
+        "title": "Norwegian actor withdraws from role in the series The White Lotus",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/norsk-skuespiller-traekker-sig-fra-rolle-i-serien-the-white-lotus?referrer=RSS",
+        "published_date": "2026-05-20 13:26:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "War in the Middle East - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krig-i-mellemoesten--foelg-med-her-469?referrer=RSS",
+        "published_date": "2026-05-20 13:26:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man remanded in custody in case of criminal showdown in Midtjylland",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-varetaegtsfaengsles-i-sag-om-kriminelt-opgoer-i-midtjylland?referrer=RSS",
+        "published_date": "2026-05-20 13:22:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump's husband in Greenland had a special nickname in Washington - and that says something about his role today",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trumps-mand-i-groenland-havde-et-saerligt-oegenavn-i-washington--og-det-siger-noget-om-hans-rolle-i-dag?referrer=RSS",
+        "published_date": "2026-05-20 13:15:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Scandinavian Star verdict must be appealed",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/assens-kommune-advarer-om-bakterier-i-vandet",
-        "published_date": "2026-05-19 14:32:00",
+        "url": "https://www.dr.dk/nyheder/seneste/scandinavian-star-dom-skal-ankes",
+        "published_date": "2026-05-20 13:14:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about Danish politics - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-med-her-42?referrer=RSS",
+        "published_date": "2026-05-20 13:08:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "German antithesis chasing surprise against Aston Villa in EL final",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tysk-antitese-jagter-overraskelse-mod-aston-villa-i-el-finale?referrer=RSS",
+        "published_date": "2026-05-20 13:02:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Danish director of the Moderna Museet in Stockholm is stepping down",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansk-direktoer-moderna-museet-i-stockholm-stopper",
+        "published_date": "2026-05-20 12:44:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leading employee in a financial company charged with million-dollar fraud",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ledende-medarbejder-i-finansiel-virksomhed-sigtet-millionsvindel",
+        "published_date": "2026-05-20 11:58:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "IN DATA: One in ten people in Denmark does not have Danish citizenship",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260520/in-data-one-in-ten-people-in-denmark-does-not-have-danish-citizenship",
+        "published_date": "2026-05-20 11:50:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel's parliament votes to dissolve itself",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israels-parlament-stemmer-oploese-sig-selv",
+        "published_date": "2026-05-20 11:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 22-year-old has been arrested for arson in Ikast",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/22-aarig-er-anholdt-brandstiftelse-i-ikast",
+        "published_date": "2026-05-20 09:57:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The LA comedian became a loner when the girlfriend's drug case became public: Now charges have been brought against the boyfriend",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/kolding/la-komet-blev-loesgaenger-da-kaerestens-narkosag-blev-offentlig-nu-er-der-rejst-tiltale-mod-ham?rss",
+        "published_date": "2026-05-20 09:55:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two bodies of Italian divers have been recovered",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lig-af-italienske-dykkere-er-blevet-bjaerget",
+        "published_date": "2026-05-20 09:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Negotiations on a new collective agreement for Norwegian SAS employees have broken down",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/forhandlinger-om-ny-overenskomst-norske-sas-ansatte-er-brudt-sammen",
+        "published_date": "2026-05-20 09:16:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drone warning lifted in Lithuania",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/litauen-udsteder-dronevarsel-og-opfordrer-folk-til-soege-i-sikkerhed",
+        "published_date": "2026-05-20 08:41:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gasoline prices are rising to their highest level in several years",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/benzinpriserne-stiger-til-hoejeste-niveau-i-flere-aar",
+        "published_date": "2026-05-20 08:31:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260520/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-54",
+        "published_date": "2026-05-20 08:30:46",
         "category": "Local Events"
     }
 ]
