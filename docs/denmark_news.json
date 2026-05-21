@@ -1,5 +1,26 @@
 [
     {
+        "title": "Humanitarian organizations report a catastrophic situation in Gaza",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/humanitaere-organisationer-melder-om-katastrofal-situation-i-gaza?referrer=RSS",
+        "published_date": "2026-05-21 23:30:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Lettet FCK coach: Europe is part of the club's identity",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/lettet-fck-traener-europa-er-en-del-af-klubbens-identitet?referrer=RSS",
+        "published_date": "2026-05-21 21:53:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Danes among the over 430 captured flotilla participants, confirms the Ministry of Foreign Affairs",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansker-blandt-de-over-430-tilfangetagne-flotille-deltagere-bekraefter-udenrigsministeriet",
+        "published_date": "2026-05-21 15:57:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The effect of the Eli Lilly drug is compared to bariatric surgery",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/eli-lilly-middels-effekt-sammenlignes-med-fedmeoperation?referrer=RSS",
@@ -119,25 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "'Trend will continue': Number of people refused entry to Europe sees sharp rise",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260518/trend-will-continue-number-of-people-refused-entry-to-europe-on-the-rise",
-        "published_date": "2026-05-18 15:58:26",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "They want to dominate the world - but both Trump and Xi are drowning in debt",
+        "title": "Trump wants to send 5000 soldiers to Poland",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/de-vil-dominere-verden--men-baade-trump-og-xi-er-ved-at-drukne-i-gaeld?referrer=RSS",
-        "published_date": "2026-05-18 13:57:48",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/trump-vil-sende-5000-soldater-til-polen?referrer=RSS",
+        "published_date": "2026-05-21 21:04:50",
+        "category": "Military"
     },
     {
-        "title": "Norway joins Denmark in EU cooperation on the Baltic Sea region",
+        "title": "Trump: The US will send another 5,000 troops to Poland",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norge-slutter-sig-til-danmark-i-eu-samarbejde-om-oestersoeregionen",
-        "published_date": "2026-05-18 09:43:00",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/trump-usa-vil-sende-yderligere-5-000-soldater-til-polen",
+        "published_date": "2026-05-21 20:44:00",
+        "category": "Military"
     },
     {
         "title": "Divers search for murder weapons in Vejle Harbour",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Ukraine's capital hit by Russian airstrikes",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraines-hovedstad-ramt-af-russiske-luftangreb",
-        "published_date": "2026-05-14 04:21:00",
-        "category": "Military"
-    },
-    {
-        "title": "Last missing US soldier found dead in Morocco",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/den-sidste-forsvundne-amerikanske-soldat-fundet-doed-i-marokko?referrer=RSS",
-        "published_date": "2026-05-13 23:04:47",
-        "category": "Military"
-    },
-    {
         "title": "Tiredness about \"Circus L\u00f8kke\" is increasing - today's stories are selected by Pierre Collignon",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/traetheden-over-cirkus-loekke-stiger--dagens-historier-er-udvalgt-af-pierre-collignon?referrer=RSS",
@@ -399,10 +399,108 @@
         "category": "Economy"
     },
     {
+        "title": "Airstrikes hit hospital in southern Lebanon, wounding nine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/luftangreb-rammer-hospital-i-det-sydlige-libanon-og-saarer-ni?referrer=RSS",
+        "published_date": "2026-05-21 22:59:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hungary's new leader will change the constitution after the Orb\u00e1n era",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ungarns-nye-leder-vil-aendre-forfatningen-efter-orban-aera?referrer=RSS",
+        "published_date": "2026-05-21 22:38:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police report four arrests and a tense atmosphere after the derby",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-melder-om-fire-anholdelser-og-anspaendt-stemning-efter-derby?referrer=RSS",
+        "published_date": "2026-05-21 22:01:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "WC-back calls for pride after pat down: It was miserable",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/vm-back-efterlyser-stolthed-efter-afklapsning-det-var-elendigt?referrer=RSS",
+        "published_date": "2026-05-21 21:44:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Record numbers report sextortion: Most victims are boys and young men",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/rekordmange-anmelder-sextortion-flest-ofre-er-drenge-og-unge-maend?referrer=RSS",
+        "published_date": "2026-05-21 21:32:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Angry Br\u00f8ndby player sabers the referees after an offside ruling",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/vred-broendby-spiller-sabler-dommerne-efter-offside-kendelse?referrer=RSS",
+        "published_date": "2026-05-21 21:25:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police report four arrests and a tense atmosphere after the derby",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-melder-om-anholdelser-og-anspaendt-stemning-efter-derby",
+        "published_date": "2026-05-21 21:18:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Saugstrup and Magdeburg are German champions after victory in the top flight",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/saugstrup-og-magdeburg-er-tysk-mester-efter-sejr-i-topbrag?referrer=RSS",
+        "published_date": "2026-05-21 21:04:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "New payment system on trial today: Customers across the country did not notice Nets crashes",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nyt-betalingssystem-paa-generalproeve-i-dag-kunder-landet-over-maerkede-ikke-nets-nedbrud",
+        "published_date": "2026-05-21 19:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pig producers must have their case against TV 2 tried at the Supreme Court",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/svineproducenter-maa-faa-sag-mod-tv-2-proevet-ved-hoejesteret",
+        "published_date": "2026-05-21 19:08:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two people seriously injured in Odense - one arrested",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/personer-kommet-alvorligt-til-skade-i-odense-en-anholdt",
+        "published_date": "2026-05-21 17:44:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "French woman arrested in Portugal on suspicion of abandoning her two young children",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fransk-kvinde-anholdt-i-portugal-mistaenkt-efterlade-sine-smaa-boern",
+        "published_date": "2026-05-21 17:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Air France and Airbus are appealing the verdict for negligent manslaughter in connection with the 17-year-old plane crash",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/air-france-og-airbus-anker-dom-uagtsomt-manddrab-i-forbindelse-med-17-aar-gammelt-flystyrt",
+        "published_date": "2026-05-21 16:45:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Denmark to autopsy 'Timmy' the whale",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260521/denmark-to-autopsy-timmy-the-whale",
         "published_date": "2026-05-21 15:13:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Food, opinions and lots of people: the Food People's Meeting fills Nyk\u00f8bing Falster",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mad-meninger-og-masser-af-mennesker-madens-folkemoede-fylder-nykoebing-falster",
+        "published_date": "2026-05-21 14:01:00",
         "category": "Local Events"
     },
     {
@@ -438,104 +536,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260521/can-you-still-buy-things-in-denmark-if-payment-service-nets-is-down",
         "published_date": "2026-05-21 13:26:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Airbus and Air France guilty of negligent manslaughter for crash in 2009",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/airbus-og-air-france-skyldige-i-uagtsomt-manddrab-for-styrt-i-2009?referrer=RSS",
-        "published_date": "2026-05-21 13:23:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miracle coach replaces female boss at Union Berlin",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mirakeltraener-afloeser-kvindelig-chef-i-union-berlin?referrer=RSS",
-        "published_date": "2026-05-21 13:11:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The case to ban the Bandidos will come before the High Court in 2028",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sagen-om-forbyde-bandidos-kommer-landsretten-i-2028",
-        "published_date": "2026-05-21 13:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Record: In one day, 274 people have climbed Mount Everest",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rekord-paa-en-dag-har-274-personer-besteget-mount-everest",
-        "published_date": "2026-05-21 12:28:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mads Br\u00fcgger must pay a fine for breaking the name ban",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mads-brugger-skal-betale-boede-bryde-navneforbud",
-        "published_date": "2026-05-21 12:27:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The climate movement drops part of the lawsuit about Lynetteholmen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/klimabevaegelsen-dropper-del-af-retssag-om-lynetteholmen",
-        "published_date": "2026-05-21 11:43:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish employment rate hits record-high despite Novo Nordisk layoffs",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260521/danish-employment-rate-hits-record-high-despite-novo-nordisk-layoffs",
-        "published_date": "2026-05-21 11:24:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen hit by Denmark's biggest earthquake in 14 years",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260521/copenhagen-hit-by-denmarks-biggest-earthquake-in-14-years",
-        "published_date": "2026-05-21 09:58:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "46-year-old man charged with murder of 31-year-old woman",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/46-aarig-mand-tiltalt-drab-paa-31-aarig-kvinde",
-        "published_date": "2026-05-21 09:42:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "For the third day in a row, there are reports of drones over the Baltics",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tredje-dag-i-traek-er-der-melding-om-droner-over-baltikum",
-        "published_date": "2026-05-21 09:33:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "British singer cancels performance at Northside",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/britisk-sanger-aflyser-optraeden-paa-northside",
-        "published_date": "2026-05-21 09:27:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Schools on Funen have received emails with bomb threats - but the school day continues",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skoler-paa-fyn-har-faaet-mails-med-bombetrusler-men-skoledagen-fortsaetter",
-        "published_date": "2026-05-21 08:57:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sweden will finance security checks at airports for six months",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sverige-vil-finansiere-sikkerhedskontrol-i-lufthavne-i-et-halvt-aar",
-        "published_date": "2026-05-21 08:54:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The dead whale Timmy is moved to Grenaa",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/den-doede-hval-timmy-flyttes-til-grenaa",
-        "published_date": "2026-05-21 08:32:00",
         "category": "Local Events"
     }
 ]
