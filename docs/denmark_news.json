@@ -1,5 +1,40 @@
 [
     {
+        "title": "Clashes between police and demonstrators at the NATO meeting in Helsingborg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sammenstoed-mellem-politi-og-demonstranter-ved-nato-moede-i-helsingborg",
+        "published_date": "2026-05-22 13:03:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Rubio: Trump's 'disappointment' with NATO will be discussed at the upcoming summit",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rubio-trumps-skuffelse-over-nato-vil-blive-diskuteret-paa-kommende-topmoede",
+        "published_date": "2026-05-22 12:16:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The European Medicines Agency recommends approval of Wegovy in pill form",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/det-europaeiske-laegemiddelagentur-anbefaler-godkendelse-af-wegovy-paa-pilleform",
+        "published_date": "2026-05-22 11:30:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Danish national bank expects long queues as note exchange deadline approaches",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260522/danish-national-bank-expects-long-queues-as-note-exchange-deadline-approaches",
+        "published_date": "2026-05-22 10:24:58",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Statens Museum for Kunst receives a donation of three Hammersh\u00f8i paintings",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/statens-museum-kunst-faar-doneret-tre-hammershoei-malerier",
+        "published_date": "2026-05-22 06:19:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Humanitarian organizations report a catastrophic situation in Gaza",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/humanitaere-organisationer-melder-om-katastrofal-situation-i-gaza?referrer=RSS",
@@ -105,39 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The US is cutting back on the number of combat-ready brigades in Europe",
+        "title": "Zelenskyi: Ukraine has attacked an oil refinery in Russia",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-skaerer-ned-paa-antallet-af-kampklare-brigader-i-europa",
-        "published_date": "2026-05-20 00:48:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Rubio on Ebola outbreak: UN organization was too late on it",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rubio-om-ebola-udbrud-fn-organisation-var-for-sent-paa-den?referrer=RSS",
-        "published_date": "2026-05-19 23:49:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Jens-Frederik Nielsen will not participate in the opening of the American consulate",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/jens-frederik-nielsen-deltager-ikke-i-aabningen-af-amerikansk-konsulat?referrer=RSS",
-        "published_date": "2026-05-19 12:45:57",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Nato planes shoot down possible Ukrainian drone over Estonia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nato-fly-skyder-mulig-ukrainsk-drone-ned-over-estland?referrer=RSS",
-        "published_date": "2026-05-19 12:45:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "NATO aircraft shoot down Ukrainian drone over Estonia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nato-fly-nedskyder-ukrainsk-drone-over-estland",
-        "published_date": "2026-05-19 11:08:00",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-ukraine-har-angrebet-olieraffinaderi-i-rusland",
+        "published_date": "2026-05-22 08:32:00",
+        "category": "Military"
     },
     {
         "title": "Trump wants to send 5000 soldiers to Poland",
@@ -259,25 +266,11 @@
         "category": "Military"
     },
     {
-        "title": "Ukraine revises up death toll after Russian airstrikes",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-opjusterer-doedstal-efter-russiske-luftangreb",
-        "published_date": "2026-05-14 11:03:00",
-        "category": "Military"
-    },
-    {
-        "title": "Girls experienced several violations in the Armed Forces: - I feared he would use his position against me",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/varde/piger-oplevede-flere-kraenkelser-i-forsvaret-jeg-frygtede-han-ville-bruge-sin-position-mod-mig?rss",
-        "published_date": "2026-05-14 07:23:00",
-        "category": "Military"
-    },
-    {
-        "title": "Zelenskyj: Russia has sent more than 1,560 drones against Ukraine since Wednesday",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-rusland-har-sendt-mere-end-1-560-droner-mod-ukraine-siden-onsdag",
-        "published_date": "2026-05-14 06:02:00",
-        "category": "Military"
+        "title": "One killed and several injured in explosion at oil and gas plant in Hungary",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/en-draebt-og-flere-saaret-i-eksplosion-paa-olie-og-gasanlaeg-i-ungarn?referrer=RSS",
+        "published_date": "2026-05-22 13:11:51",
+        "category": "Energy"
     },
     {
         "title": "Tiredness about \"Circus L\u00f8kke\" is increasing - today's stories are selected by Pierre Collignon",
@@ -357,13 +350,6 @@
         "category": "Energy"
     },
     {
-        "title": "Cuba reports dried-up oil depots under US blockade",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/cuba-melder-om-udtoerrede-oliedepoter-under-amerikansk-blokade",
-        "published_date": "2026-05-14 01:20:00",
-        "category": "Energy"
-    },
-    {
         "title": "The US permanently exempts Trump from scrutiny of past tax affairs",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usa-fritager-trump-for-granskning-af-tidligere-skatteforhold-for-altid?referrer=RSS",
@@ -392,150 +378,143 @@
         "category": "Economy"
     },
     {
-        "title": "While the market has risen, the stock has plunged.But the analyst is holding on to the belief",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/aktier/mens-markedet-er-steget-er-aktien-dykket-men-analytiker-holder-fast-i-troen?referrer=RSS",
-        "published_date": "2026-05-14 12:01:55",
-        "category": "Economy"
-    },
-    {
-        "title": "Airstrikes hit hospital in southern Lebanon, wounding nine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/luftangreb-rammer-hospital-i-det-sydlige-libanon-og-saarer-ni?referrer=RSS",
-        "published_date": "2026-05-21 22:59:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hungary's new leader will change the constitution after the Orb\u00e1n era",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ungarns-nye-leder-vil-aendre-forfatningen-efter-orban-aera?referrer=RSS",
-        "published_date": "2026-05-21 22:38:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police report four arrests and a tense atmosphere after the derby",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-melder-om-fire-anholdelser-og-anspaendt-stemning-efter-derby?referrer=RSS",
-        "published_date": "2026-05-21 22:01:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "WC-back calls for pride after pat down: It was miserable",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/vm-back-efterlyser-stolthed-efter-afklapsning-det-var-elendigt?referrer=RSS",
-        "published_date": "2026-05-21 21:44:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Record numbers report sextortion: Most victims are boys and young men",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/rekordmange-anmelder-sextortion-flest-ofre-er-drenge-og-unge-maend?referrer=RSS",
-        "published_date": "2026-05-21 21:32:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Angry Br\u00f8ndby player sabers the referees after an offside ruling",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/vred-broendby-spiller-sabler-dommerne-efter-offside-kendelse?referrer=RSS",
-        "published_date": "2026-05-21 21:25:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police report four arrests and a tense atmosphere after the derby",
+        "title": "33-year-old remanded in custody after striking with an axe",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-melder-om-anholdelser-og-anspaendt-stemning-efter-derby",
-        "published_date": "2026-05-21 21:18:00",
+        "url": "https://www.dr.dk/nyheder/seneste/33-aarig-varetaegtsfaengslet-efter-have-slaaet-med-en-oekse",
+        "published_date": "2026-05-22 13:12:00",
         "category": "Local Events"
     },
     {
-        "title": "Saugstrup and Magdeburg are German champions after victory in the top flight",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/saugstrup-og-magdeburg-er-tysk-mester-efter-sejr-i-topbrag?referrer=RSS",
-        "published_date": "2026-05-21 21:04:56",
+        "title": "Former meat king sentenced to bankruptcy quarantine",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/tidligere-koedkonge-idoemt-konkurskarantaene?rss",
+        "published_date": "2026-05-22 13:11:55",
         "category": "Local Events"
     },
     {
-        "title": "New payment system on trial today: Customers across the country did not notice Nets crashes",
+        "title": "The risk assessment for Ebola in the DR Congo has been adjusted upwards",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nyt-betalingssystem-paa-generalproeve-i-dag-kunder-landet-over-maerkede-ikke-nets-nedbrud",
-        "published_date": "2026-05-21 19:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pig producers must have their case against TV 2 tried at the Supreme Court",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/svineproducenter-maa-faa-sag-mod-tv-2-proevet-ved-hoejesteret",
-        "published_date": "2026-05-21 19:08:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two people seriously injured in Odense - one arrested",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/personer-kommet-alvorligt-til-skade-i-odense-en-anholdt",
-        "published_date": "2026-05-21 17:44:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "French woman arrested in Portugal on suspicion of abandoning her two young children",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fransk-kvinde-anholdt-i-portugal-mistaenkt-efterlade-sine-smaa-boern",
-        "published_date": "2026-05-21 17:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Air France and Airbus are appealing the verdict for negligent manslaughter in connection with the 17-year-old plane crash",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/air-france-og-airbus-anker-dom-uagtsomt-manddrab-i-forbindelse-med-17-aar-gammelt-flystyrt",
-        "published_date": "2026-05-21 16:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark to autopsy 'Timmy' the whale",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260521/denmark-to-autopsy-timmy-the-whale",
-        "published_date": "2026-05-21 15:13:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Food, opinions and lots of people: the Food People's Meeting fills Nyk\u00f8bing Falster",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mad-meninger-og-masser-af-mennesker-madens-folkemoede-fylder-nykoebing-falster",
-        "published_date": "2026-05-21 14:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A motorcyclist has died after an accident on the motorway near Vejle",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/motorcyklist-er-doed-efter-ulykke-paa-motorvejen-ved-vejle?referrer=RSS",
-        "published_date": "2026-05-21 13:47:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news about Danish politics - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-med-her-44?referrer=RSS",
-        "published_date": "2026-05-21 13:45:18",
+        "url": "https://www.dr.dk/nyheder/seneste/risikovurderingen-ebola-i-dr-congo-opjusteret",
+        "published_date": "2026-05-22 13:09:00",
         "category": "Local Events"
     },
     {
         "title": "The fight for Greenland - follow here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/kampen-om-groenland--foelg-med-her-54?referrer=RSS",
-        "published_date": "2026-05-21 13:39:13",
+        "url": "https://www.berlingske.dk/indland/kampen-om-groenland--foelg-med-her-55?referrer=RSS",
+        "published_date": "2026-05-22 13:02:29",
         "category": "Local Events"
     },
     {
-        "title": "Danish man is charged with planning murder in Germany",
+        "title": "Former rocker confesses to laundering 70 million kroner",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-rocker-tilstaar-hvidvask-70-millioner-kroner",
+        "published_date": "2026-05-22 12:58:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "WHO upgrades risk assessment for Ebola in DR Congo",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/dansk-mand-er-tiltalt-for-planlaegning-af-drab-i-tyskland?referrer=RSS",
-        "published_date": "2026-05-21 13:26:50",
+        "url": "https://www.berlingske.dk/internationalt/who-opjusterer-risikovurdering-for-ebola-i-dr-congo?referrer=RSS",
+        "published_date": "2026-05-22 12:47:52",
         "category": "Local Events"
     },
     {
-        "title": "Can you still buy things in Denmark if payment service Nets is down?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260521/can-you-still-buy-things-in-denmark-if-payment-service-nets-is-down",
-        "published_date": "2026-05-21 13:26:13",
+        "title": "Former French prime minister is running for president",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-fransk-premierminister-melder-sig-som-praesidentkandidat",
+        "published_date": "2026-05-22 12:33:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Bandidos rocker confesses to laundering 70 million kroner",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tidligere-bandidos-rocker-tilstaar-hvidvask-for-70-millioner-kroner?referrer=RSS",
+        "published_date": "2026-05-22 12:30:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The missed World Cup final round will haunt Riemer forever",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/misset-vm-slutrunde-vil-forfoelge-riemer-for-altid?referrer=RSS",
+        "published_date": "2026-05-22 12:23:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former French prime minister is running for president",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tidligere-fransk-premierminister-stiller-op-til-praesidentvalg?referrer=RSS",
+        "published_date": "2026-05-22 12:20:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "35-year-old acquitted of murder but convicted of serious violence",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/35-aarig-frifindes-for-drab-men-doemmes-for-grov-vold?referrer=RSS",
+        "published_date": "2026-05-22 12:17:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "City name stand after Guardiola and erect statue",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/city-opkalder-tribune-efter-guardiola-og-opfoerer-statue?referrer=RSS",
+        "published_date": "2026-05-22 12:14:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The asphalt industry warns against cheap work from asphalt pirates",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/asfaltindustrien-advarer-mod-billigt-arbejde-fra-asfaltpirater?referrer=RSS",
+        "published_date": "2026-05-22 12:11:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman was assaulted and attempted rape at station",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/kvinde-blev-overfaldet-og-forsoegt-voldtaget-ved-station?referrer=RSS",
+        "published_date": "2026-05-22 12:08:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man sentenced to life after killing rapper in Sweden",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-idoemmes-livstid-efter-drab-paa-rapper-i-sverige",
+        "published_date": "2026-05-22 11:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Laila woke up with a huge bang: - I was so scared",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/billund/laila-vaagnede-ved-et-kaempe-brag-jeg-blev-saa-skide-bange?rss",
+        "published_date": "2026-05-22 10:16:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "There has been 'a little bit of movement' in the agreement between the US and Iran, says Rubio",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/der-har-vaeret-en-smule-bevaegelse-i-aftale-mellem-usa-og-iran-siger-rubio",
+        "published_date": "2026-05-22 09:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The board does not appeal the verdict in the case about the use of vilified parentage tests",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/styrelse-anker-ikke-dom-i-sag-om-brug-af-udskaeldte-foraeldretest",
+        "published_date": "2026-05-22 09:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Knud Brix becomes DR's new Africa correspondent and stops as editor-in-chief at Ekstra Bladet",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/knud-brix-bliver-ny-afrika-korrespondent-i-dr-og-stopper-som-chefredaktoer-paa-ekstra-bladet",
+        "published_date": "2026-05-22 09:14:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 31-year-old man is produced in a constitutional hearing - charged with shooting death",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/31-aarig-mand-fremstilles-i-grundlovsforhoer-sigtet-skuddrab",
+        "published_date": "2026-05-22 09:00:00",
         "category": "Local Events"
     }
 ]
