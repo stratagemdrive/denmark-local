@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Ukraine hit by massive Russian attacks",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-ramt-af-massive-russiske-angreb",
+        "published_date": "2026-05-23 23:36:00",
+        "category": "Military"
+    },
+    {
+        "title": "Residents of Kyiv are warned amid reports of massive attack",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/indbyggere-i-kyiv-advares-under-meldinger-om-massivt-angreb?referrer=RSS",
+        "published_date": "2026-05-23 23:29:47",
+        "category": "Military"
+    },
+    {
         "title": "Russian drone hits funeral in Ukraine, killing one",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/russisk-drone-ramte-begravelse-i-ukraine-og-draebte-en",
@@ -245,20 +259,6 @@
         "category": "Military"
     },
     {
-        "title": "Reports of several killed in Israeli attack on Hamas leader in Gaza",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/meldinger-om-flere-draebte-i-israelsk-angreb-mod-hamas-leder-i-gaza?referrer=RSS",
-        "published_date": "2026-05-15 21:04:49",
-        "category": "Military"
-    },
-    {
-        "title": "USA: Israel and Lebanon extend ceasefire",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-israel-og-libanon-forlaenger-vaabenhvile",
-        "published_date": "2026-05-15 18:43:00",
-        "category": "Military"
-    },
-    {
         "title": "One killed and several injured in explosion at oil and gas plant in Hungary",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/en-draebt-og-flere-saaret-i-eksplosion-paa-olie-og-gasanlaeg-i-ungarn?referrer=RSS",
@@ -350,157 +350,143 @@
         "category": "Economy"
     },
     {
-        "title": "Known fraudster convicted of leasing stolen cars",
+        "title": "The FBI is investigating a shooting incident near the White House",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/kendt-svindler-doemt-for-leasing-af-stjaalne-biler?referrer=RSS",
-        "published_date": "2026-05-15 12:13:46",
-        "category": "Economy"
-    },
-    {
-        "title": "The state finances startups, but sends billions to competitors \u2013 it's inefficient and contradictory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/staten-finansierer-startups-men-sender-milliarder-til-konkurrenterne--det-er-ineffektivt-og-selvmodsigende?referrer=RSS",
-        "published_date": "2026-05-15 12:03:03",
-        "category": "Economy"
-    },
-    {
-        "title": "Teenage girls arrested at railway station in case of hand grenade",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/teenagepiger-anholdt-paa-banegaard-i-sag-om-haandgranat?referrer=RSS",
-        "published_date": "2026-05-23 11:52:50",
+        "url": "https://www.berlingske.dk/internationalt/fbi-efterforsker-skudepisode-naer-det-hvide-hus?referrer=RSS",
+        "published_date": "2026-05-23 23:32:49",
         "category": "Local Events"
     },
     {
-        "title": "Suspected drone crashed in Latvia",
+        "title": "The FBI is present at the White House after the shooting",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/formodet-drone-styrtet-ned-i-letland",
-        "published_date": "2026-05-23 11:45:00",
+        "url": "https://www.dr.dk/nyheder/seneste/fbi-er-til-stede-ved-det-hvide-hus-efter-skud",
+        "published_date": "2026-05-23 22:56:00",
         "category": "Local Events"
     },
     {
-        "title": "A 21-year-old is imprisoned after an ax attack on a young man",
+        "title": "Trump: Iran deal is largely negotiated in place",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/21-aarig-er-faengslet-efter-oekseoverfald-paa-ung-mand?referrer=RSS",
-        "published_date": "2026-05-23 11:42:57",
+        "url": "https://www.berlingske.dk/internationalt/trump-iran-aftale-er-stort-set-forhandlet-paa-plads?referrer=RSS",
+        "published_date": "2026-05-23 22:14:47",
         "category": "Local Events"
     },
     {
-        "title": "Experienced Thai peels Kj\u00e6rsfeldt's decorations",
+        "title": "Previous success story moves out of La Liga",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/rutineret-thailaender-piller-pynten-af-kjaersfeldt?referrer=RSS",
-        "published_date": "2026-05-23 11:31:53",
+        "url": "https://www.berlingske.dk/sport/tidligere-succeshistorie-rykker-ud-af-la-liga?referrer=RSS",
+        "published_date": "2026-05-23 21:24:46",
         "category": "Local Events"
     },
     {
-        "title": "21-year-old imprisoned for attempted murder against 19-year-old",
+        "title": "Russell wins the sprint race and starts at the front in Canada",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/russell-sejrer-i-sprintloeb-og-starter-forrest-i-canada?referrer=RSS",
+        "published_date": "2026-05-23 21:17:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cartoon series about Danish historical triangle drama receives main prize",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/tegneserie-om-danmarkshistorisk-trekantsdrama-modtager-hovedpris?referrer=RSS",
+        "published_date": "2026-05-23 21:14:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump: Agreement with Iran is almost in place",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/21-aarig-faengslet-drabsforsoeg-mod-19-aarig",
-        "published_date": "2026-05-23 11:26:00",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-fredsaftale-med-iran-er-naesten-paa-plads",
+        "published_date": "2026-05-23 21:04:00",
         "category": "Local Events"
     },
     {
-        "title": "Local train acknowledges mistakes after train accident: A \"failure assessment\"",
+        "title": "Sweden unexpectedly loses to Norway and is under pressure before the last game",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/lokaltog-erkender-fejl-efter-togulykke-en-fejlvurdering?referrer=RSS",
-        "published_date": "2026-05-23 11:25:47",
+        "url": "https://www.berlingske.dk/sport/sverige-taber-uventet-til-norge-og-er-presset-foer-sidste-kamp?referrer=RSS",
+        "published_date": "2026-05-23 20:59:49",
         "category": "Local Events"
     },
     {
-        "title": "The moderates point to \"the second best\" - Troels Lund accuses Lars L\u00f8kke of \"going pure red\"",
+        "title": "Police and protesters clash in Belgrade",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/moderaterne-peger-paa-det-naestbedste--troels-lund-beskylder-lars-loekke-for-at-gaa-rent-roedt?referrer=RSS",
-        "published_date": "2026-05-23 11:08:35",
+        "url": "https://www.berlingske.dk/internationalt/politi-og-demonstranter-stoeder-sammen-i-beograd?referrer=RSS",
+        "published_date": "2026-05-23 20:51:46",
         "category": "Local Events"
     },
     {
-        "title": "Danish lead singer Peter Clement Lund died after cancer",
+        "title": "FACTS: The past ten years' recipients of the Palme d'Or",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fakta-de-seneste-ti-aars-modtagere-af-guldpalmen-1?referrer=RSS",
+        "published_date": "2026-05-23 20:36:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "With a hat-trick, Kane secures Bayern's first cup title in six years",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kane-skaffer-med-hattrick-bayern-foerste-pokaltitel-i-seks-aar?referrer=RSS",
+        "published_date": "2026-05-23 20:03:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norwegian-Romanian film won the Palme d'Or at Cannes",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-forsanger-peter-clement-lund-doed-efter-kraeftsygdom",
-        "published_date": "2026-05-23 11:00:00",
+        "url": "https://www.dr.dk/nyheder/seneste/norsk-rumaensk-film-vandt-guldpalmen-i-cannes",
+        "published_date": "2026-05-23 19:59:49",
         "category": "Local Events"
     },
     {
-        "title": "Taskforce must get the Odense light rail going again",
+        "title": "Woman dead after five swimmers ran aground in Horsens Fjord",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/taskforce-skal-faa-gang-i-odense-letbane-igen",
-        "published_date": "2026-05-23 10:44:00",
+        "url": "https://www.dr.dk/nyheder/seneste/kvinde-doed-efter-fem-svoemmere-kom-i-havsnoed-i-horsens-fjord",
+        "published_date": "2026-05-23 18:32:00",
         "category": "Local Events"
     },
     {
-        "title": "The Asian workers keeping Greenland in business",
+        "title": "Zelenskyy warns of Russian attack with hypersonic missile",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-advarer-om-russisk-angreb-med-hypersonisk-missil",
+        "published_date": "2026-05-23 18:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Over 50 injured in tram accident in D\u00fcsseldorf, Germany",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/over-50-kvaestet-ved-sporvognsulykke-i-dusseldorf-i-tyskland",
+        "published_date": "2026-05-23 17:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least 500 children died from measles in Bangladesh",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mindst-500-boern-doede-af-maeslinger-i-bangladesh",
+        "published_date": "2026-05-23 16:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish king reappoints caretaker PM to form a government",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260523/the-asian-workers-keeping-greenland-in-business",
-        "published_date": "2026-05-23 10:41:35",
+        "url": "https://www.thelocal.dk/20260523/danish-king-re-appoints-caretaker-pm-to-form-a-government",
+        "published_date": "2026-05-23 15:33:56",
         "category": "Local Events"
     },
     {
-        "title": "Black smoke billowed out: The police suspect that the large fire in Vejle was arson",
+        "title": "Then it was the first summer day of the year",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sort-roeg-vaeltede-frem-politiet-formoder-storbrand-i-vejle-var-paasat",
-        "published_date": "2026-05-23 10:24:00",
+        "url": "https://www.dr.dk/nyheder/seneste/saa-blev-det-aarets-foerste-sommerdag",
+        "published_date": "2026-05-23 15:22:29",
         "category": "Local Events"
     },
     {
-        "title": "Troels Lund accuses Lars L\u00f8kke of going completely red",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/troels-lund-beskylder-lars-loekke-for-at-gaa-rent-roedt?referrer=RSS",
-        "published_date": "2026-05-23 10:21:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lasse Andersson switches to H\u00d8J despite relegation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/lasse-andersson-skifter-til-hoej-trods-nedrykning?referrer=RSS",
-        "published_date": "2026-05-23 10:17:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The light rail in Odense runs with reduced operations - also after Pentecost",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/letbanen-i-odense-koerer-med-reduceret-drift-ogsaa-efter-pinse?referrer=RSS",
-        "published_date": "2026-05-23 10:10:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "S will complete the work and go into government with L\u00f8kke",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/s-vil-goere-arbejdet-faerdigt-og-gaa-i-regering-med-loekke?referrer=RSS",
-        "published_date": "2026-05-23 10:06:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Odense must adjust to several days without light rail",
+        "title": "Teenage girls remanded in custody in hand grenade case from Herning",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/odense-skal-indstille-sig-paa-flere-dage-uden-letbane",
-        "published_date": "2026-05-23 09:06:00",
+        "url": "https://www.dr.dk/nyheder/seneste/teenagepiger-varetaegtsfaengslet-i-haandgranat-sag-fra-herning",
+        "published_date": "2026-05-23 15:11:00",
         "category": "Local Events"
     },
     {
-        "title": "Inside Denmark: Why I\u2019m sad to be missing the Royal Run this year",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260523/inside-denmark-why-im-sad-to-be-missing-the-royal-run-this-year",
-        "published_date": "2026-05-23 09:04:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What\u2019s happening in Denmark this week",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260523/on-the-agenda-whats-happening-in-denmark-this-week",
-        "published_date": "2026-05-23 08:40:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three people arrested on detained train in Herning",
+        "title": "The Kolding brewery \u00c5ben regains the Danish championship in alcohol-free beer",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-personer-anholdt-paa-tilbageholdt-tog-i-herning",
-        "published_date": "2026-05-23 06:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rapper Rob Base has died at the age of 59",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rapper-rob-base-er-doed-i-en-alder-af-59-aar",
-        "published_date": "2026-05-23 06:07:00",
+        "url": "https://www.dr.dk/nyheder/seneste/kolding-bryggeriet-aaben-genvinder-danmarksmesterskabet-i-alkoholfri-oel",
+        "published_date": "2026-05-23 14:44:00",
         "category": "Local Events"
     }
 ]
