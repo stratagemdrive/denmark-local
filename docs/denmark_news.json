@@ -1,5 +1,19 @@
 [
     {
+        "title": "Are government language tests in Europe integration policy or just political posturing?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260523/are-government-language-tests-in-europe-integration-policy-or-just-political-posturing",
+        "published_date": "2026-05-23 10:24:29",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The EU and Mexico have signed an extended trade agreement",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-og-mexico-har-underskrevet-en-udvidet-handelsaftale",
+        "published_date": "2026-05-23 00:44:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The beautiful Helena hardly looked like either a snow-white Northern European or a sub-Saharan African woman",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/laesere/den-skoenne-helena-lignede-naeppe-hverken-en-snehvid-nordeuropaeer-eller-subsaharisk-afrikansk-kvinde?referrer=RSS",
@@ -126,18 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Gitte \u00d8rskou resigns as museum director of Moderna Museet",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/gitte-oerskou-fratraeder-som-museumsdirektoer-for-moderna-museet?referrer=RSS",
-        "published_date": "2026-05-20 13:05:48",
-        "category": "Diplomacy"
+        "title": "Russian drone hits funeral in Ukraine, killing one",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/russisk-drone-ramte-begravelse-i-ukraine-og-draebte-en",
+        "published_date": "2026-05-23 10:50:00",
+        "category": "Military"
     },
     {
-        "title": "The Europa League finalists",
+        "title": "New report is a catalog of evil \u2013 how Hamas used mass rape and abuse as a weapon of terror",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/europa-league-finalisterne?referrer=RSS",
-        "published_date": "2026-05-20 13:02:48",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/ny-rapport-er-et-katalog-af-ondskab--saadan-brugte-hamas-massevoldtaegter-og-overgreb-som-terrorvaaben?referrer=RSS",
+        "published_date": "2026-05-23 10:35:12",
+        "category": "Military"
+    },
+    {
+        "title": "Ukraine hits chemical plant 1,700 kilometers inside Russia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-rammer-kemisk-anlaeg-1-700-kilometer-inde-i-rusland",
+        "published_date": "2026-05-23 10:27:00",
+        "category": "Military"
     },
     {
         "title": "Putin accuses Ukraine of deliberate attack on college",
@@ -238,27 +259,6 @@
         "category": "Military"
     },
     {
-        "title": "Russia and Ukraine exchange 410 prisoners of war",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-og-ukraine-udveksler-410-krigsfanger",
-        "published_date": "2026-05-15 08:24:00",
-        "category": "Military"
-    },
-    {
-        "title": "President after closed airspace: Finland does not face 'direct military threat'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/praesident-efter-lukket-luftrum-finland-staar-ikke-over-direkte-militaer-trussel",
-        "published_date": "2026-05-15 08:23:00",
-        "category": "Military"
-    },
-    {
-        "title": "Ukraine updates death toll: At least 16 killed in Russian airstrikes on Thursday night",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-opjusterer-doedstal-mindst-16-draebt-i-russiske-luftangreb-natten-til-torsdag",
-        "published_date": "2026-05-15 01:01:00",
-        "category": "Military"
-    },
-    {
         "title": "One killed and several injured in explosion at oil and gas plant in Hungary",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/en-draebt-og-flere-saaret-i-eksplosion-paa-olie-og-gasanlaeg-i-ungarn?referrer=RSS",
@@ -329,11 +329,11 @@
         "category": "Energy"
     },
     {
-        "title": "Hungary will release 575 million liters of oil from reserves",
+        "title": "The Ministry of Economy expects a slowdown in growth over the next two years",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ungarn-vil-frigive-575-millioner-liter-olie-fra-reserve",
-        "published_date": "2026-05-15 06:35:00",
-        "category": "Energy"
+        "url": "https://www.dr.dk/nyheder/seneste/oekonomiministeriet-forventer-afdaempning-i-vaekst-de-naeste-aar",
+        "published_date": "2026-05-23 08:26:00",
+        "category": "Economy"
     },
     {
         "title": "The US permanently exempts Trump from scrutiny of past tax affairs",
@@ -364,143 +364,143 @@
         "category": "Economy"
     },
     {
-        "title": "Haaland shares his farewell to Guardiola: Will miss pep talks",
+        "title": "Teenage girls arrested at railway station in case of hand grenade",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/haaland-deler-afskedshilsen-til-guardiola-vil-savne-peptalks?referrer=RSS",
-        "published_date": "2026-05-22 23:50:57",
+        "url": "https://www.berlingske.dk/indland/teenagepiger-anholdt-paa-banegaard-i-sag-om-haandgranat?referrer=RSS",
+        "published_date": "2026-05-23 11:52:50",
         "category": "Local Events"
     },
     {
-        "title": "SpaceX rocket falls into ocean as planned after test flight",
+        "title": "Suspected drone crashed in Latvia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/formodet-drone-styrtet-ned-i-letland",
+        "published_date": "2026-05-23 11:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 21-year-old is imprisoned after an ax attack on a young man",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/spacex-raket-falder-ned-i-havet-som-planlagt-efter-testflyvning?referrer=RSS",
-        "published_date": "2026-05-22 23:50:54",
+        "url": "https://www.berlingske.dk/indland/21-aarig-er-faengslet-efter-oekseoverfald-paa-ung-mand?referrer=RSS",
+        "published_date": "2026-05-23 11:42:57",
         "category": "Local Events"
     },
     {
-        "title": "Senegal's president fires prime minister and dissolves government",
+        "title": "Experienced Thai peels Kj\u00e6rsfeldt's decorations",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/senegals-praesident-fyrer-premierminister-og-oploeser-regering?referrer=RSS",
-        "published_date": "2026-05-22 23:19:55",
+        "url": "https://www.berlingske.dk/sport/rutineret-thailaender-piller-pynten-af-kjaersfeldt?referrer=RSS",
+        "published_date": "2026-05-23 11:31:53",
         "category": "Local Events"
     },
     {
-        "title": "Judge in the US drops charges against wrongfully deported man",
+        "title": "21-year-old imprisoned for attempted murder against 19-year-old",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/21-aarig-faengslet-drabsforsoeg-mod-19-aarig",
+        "published_date": "2026-05-23 11:26:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Local train acknowledges mistakes after train accident: A \"failure assessment\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/dommer-i-usa-dropper-tiltale-mod-fejlagtigt-udvist-mand?referrer=RSS",
-        "published_date": "2026-05-22 22:34:48",
+        "url": "https://www.berlingske.dk/indland/lokaltog-erkender-fejl-efter-togulykke-en-fejlvurdering?referrer=RSS",
+        "published_date": "2026-05-23 11:25:47",
         "category": "Local Events"
     },
     {
-        "title": "That's how Zyn became the big hit in Trump's world.Also at RFK Jr.",
+        "title": "The moderates point to \"the second best\" - Troels Lund accuses Lars L\u00f8kke of \"going pure red\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/saadan-blev-zyn-det-helt-store-hit-i-trumps-verden-ogsaa-hos-rfk-jr?referrer=RSS",
-        "published_date": "2026-05-22 21:56:02",
+        "url": "https://www.berlingske.dk/politik/moderaterne-peger-paa-det-naestbedste--troels-lund-beskylder-lars-loekke-for-at-gaa-rent-roedt?referrer=RSS",
+        "published_date": "2026-05-23 11:08:35",
         "category": "Local Events"
     },
     {
-        "title": "Lens writes history with French cup title",
+        "title": "Danish lead singer Peter Clement Lund died after cancer",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansk-forsanger-peter-clement-lund-doed-efter-kraeftsygdom",
+        "published_date": "2026-05-23 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Taskforce must get the Odense light rail going again",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/taskforce-skal-faa-gang-i-odense-letbane-igen",
+        "published_date": "2026-05-23 10:44:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Asian workers keeping Greenland in business",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260523/the-asian-workers-keeping-greenland-in-business",
+        "published_date": "2026-05-23 10:41:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Black smoke billowed out: The police suspect that the large fire in Vejle was arson",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sort-roeg-vaeltede-frem-politiet-formoder-storbrand-i-vejle-var-paasat",
+        "published_date": "2026-05-23 10:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Troels Lund accuses Lars L\u00f8kke of going completely red",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/lens-skriver-historie-med-fransk-pokaltitel?referrer=RSS",
-        "published_date": "2026-05-22 21:40:53",
+        "url": "https://www.berlingske.dk/politik/troels-lund-beskylder-lars-loekke-for-at-gaa-rent-roedt?referrer=RSS",
+        "published_date": "2026-05-23 10:21:50",
         "category": "Local Events"
     },
     {
-        "title": "Officers with machine guns cordoned off the railway station in Herning",
+        "title": "Lasse Andersson switches to H\u00d8J despite relegation",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/betjente-med-maskinpistoler-afspaerrede-banegaard-i-herning?referrer=RSS",
-        "published_date": "2026-05-22 21:33:53",
+        "url": "https://www.berlingske.dk/sport/lasse-andersson-skifter-til-hoej-trods-nedrykning?referrer=RSS",
+        "published_date": "2026-05-23 10:17:45",
         "category": "Local Events"
     },
     {
-        "title": "Trump supporter makes comeback as Slovenian head of government",
+        "title": "The light rail in Odense runs with reduced operations - also after Pentecost",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-tilhaenger-goer-comeback-som-slovensk-regeringsleder?referrer=RSS",
-        "published_date": "2026-05-22 20:06:51",
+        "url": "https://www.berlingske.dk/danmark/letbanen-i-odense-koerer-med-reduceret-drift-ogsaa-efter-pinse?referrer=RSS",
+        "published_date": "2026-05-23 10:10:53",
         "category": "Local Events"
     },
     {
-        "title": "Slovenia gets a new prime minister",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/slovenien-faar-ny-premierminister",
-        "published_date": "2026-05-22 19:48:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spanish Supreme Court refuses to overturn new immigration law",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/spansk-hoejesteret-afviser-omgoere-ny-immigrationslov",
-        "published_date": "2026-05-22 19:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "It may take several days before Odense Light Rail runs again",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/der-kan-gaa-flere-dage-foer-odense-letbane-koerer-igen",
-        "published_date": "2026-05-22 18:06:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kevin Warsh sworn in as new US central bank chief",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kevin-warsh-taget-i-ed-som-ny-centralbankchef-i-usa",
-        "published_date": "2026-05-22 16:49:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rubio: Shouldn't surprise anyone that we're moving troops around",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rubio-boer-ikke-overraske-nogen-vi-flytter-rundt-paa-tropper",
-        "published_date": "2026-05-22 15:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "24-year-old climbs Mount Everest as the youngest Dane ever",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/24-aarig-bestiger-mount-everest-som-yngste-dansker-nogensinde",
-        "published_date": "2026-05-22 14:56:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Odense Light Rail is completely at a standstill",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/odense-letbane-staar-fuldstaendig-stille",
-        "published_date": "2026-05-22 13:37:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "33-year-old remanded in custody after striking with an axe",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/33-aarig-varetaegtsfaengslet-efter-have-slaaet-med-en-oekse",
-        "published_date": "2026-05-22 13:12:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former meat king sentenced to bankruptcy quarantine",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/tidligere-koedkonge-idoemt-konkurskarantaene?rss",
-        "published_date": "2026-05-22 13:11:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The risk assessment for Ebola in the DR Congo has been adjusted upwards",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/risikovurderingen-ebola-i-dr-congo-opjusteret",
-        "published_date": "2026-05-22 13:09:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The fight for Greenland - follow here",
+        "title": "S will complete the work and go into government with L\u00f8kke",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/kampen-om-groenland--foelg-med-her-55?referrer=RSS",
-        "published_date": "2026-05-22 13:02:29",
+        "url": "https://www.berlingske.dk/politik/s-vil-goere-arbejdet-faerdigt-og-gaa-i-regering-med-loekke?referrer=RSS",
+        "published_date": "2026-05-23 10:06:55",
         "category": "Local Events"
     },
     {
-        "title": "Former rocker confesses to laundering 70 million kroner",
+        "title": "Odense must adjust to several days without light rail",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-rocker-tilstaar-hvidvask-70-millioner-kroner",
-        "published_date": "2026-05-22 12:58:00",
+        "url": "https://www.dr.dk/nyheder/seneste/odense-skal-indstille-sig-paa-flere-dage-uden-letbane",
+        "published_date": "2026-05-23 09:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inside Denmark: Why I\u2019m sad to be missing the Royal Run this year",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260523/inside-denmark-why-im-sad-to-be-missing-the-royal-run-this-year",
+        "published_date": "2026-05-23 09:04:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the Agenda: What\u2019s happening in Denmark this week",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260523/on-the-agenda-whats-happening-in-denmark-this-week",
+        "published_date": "2026-05-23 08:40:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three people arrested on detained train in Herning",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-personer-anholdt-paa-tilbageholdt-tog-i-herning",
+        "published_date": "2026-05-23 06:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rapper Rob Base has died at the age of 59",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rapper-rob-base-er-doed-i-en-alder-af-59-aar",
+        "published_date": "2026-05-23 06:07:00",
         "category": "Local Events"
     }
 ]
