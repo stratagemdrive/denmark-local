@@ -140,6 +140,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1712?referrer=RSS",
+        "published_date": "2026-05-25 13:07:57",
+        "category": "Military"
+    },
+    {
+        "title": "War in the Middle East - follow live here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krig-i-mellemoesten--foelg-med-direkte-her-5?referrer=RSS",
+        "published_date": "2026-05-25 13:04:57",
+        "category": "Military"
+    },
+    {
+        "title": "Pope Leo warns against AI weapons",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pave-leo-advarer-mod-ai-vaaben",
+        "published_date": "2026-05-25 11:10:00",
+        "category": "Military"
+    },
+    {
         "title": "The military joins the large search for the two-year-old in Sweden",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/militaeret-slutter-sig-til-stor-eftersoegning-af-toaarig-i-sverige?referrer=RSS",
@@ -259,18 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Sweden will buy four new frigates - one of the largest defense investments, says the prime minister",
+        "title": "The prospect of an agreement between Iran and the US is causing oil prices to fall",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sverige-vil-koebe-fire-nye-fregatter-en-af-de-stoerste-forsvarsinvesteringer-siger-statsministeren",
-        "published_date": "2026-05-19 07:37:00",
-        "category": "Military"
-    },
-    {
-        "title": "Politico: Overlooked email sparks Polish confusion over US military exercise",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/politico-overset-e-mail-skabte-polsk-forvirring-om-amerikansk-militaeroevelse?referrer=RSS",
-        "published_date": "2026-05-17 19:28:11",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/udsigt-til-aftale-mellem-iran-og-usa-faar-oliepriserne-til-falde",
+        "published_date": "2026-05-25 02:38:00",
+        "category": "Energy"
     },
     {
         "title": "One killed and several injured in explosion at oil and gas plant in Hungary",
@@ -315,13 +329,6 @@
         "category": "Energy"
     },
     {
-        "title": "US lets Russia's exemption from oil sanctions expire",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-lader-ruslands-undtagelse-fra-oliesanktioner-udloebe?referrer=RSS",
-        "published_date": "2026-05-17 10:21:45",
-        "category": "Energy"
-    },
-    {
         "title": "The Ministry of Economy expects a slowdown in growth over the next two years",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/oekonomiministeriet-forventer-afdaempning-i-vaekst-de-naeste-aar",
@@ -343,143 +350,143 @@
         "category": "Economy"
     },
     {
-        "title": "Report: Global tensions threaten peacekeeping missions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rapport-globale-spaendinger-truer-fredsbevarende-missioner?referrer=RSS",
-        "published_date": "2026-05-24 23:27:48",
+        "title": "Summer heat for Denmark this week \u2012 but it's not set to last",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260525/summer-heat-for-denmark-this-week-but-its-not-set-to-last",
+        "published_date": "2026-05-25 14:20:43",
         "category": "Local Events"
     },
     {
-        "title": "A 37-year-old man has died in a parachute accident on L\u00e6s\u00f8",
+        "title": "Iran's top negotiator arrives in Qatar to negotiate peace",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/37-aarig-mand-er-doed-i-faldskaermsulykke-paa-laesoe?referrer=RSS",
-        "published_date": "2026-05-24 23:02:48",
+        "url": "https://www.berlingske.dk/internationalt/irans-topforhandler-ankommer-til-qatar-for-at-forhandle-om-fred?referrer=RSS",
+        "published_date": "2026-05-25 13:42:47",
         "category": "Local Events"
     },
     {
-        "title": "37-year-old man died in parachute accident on L\u00e6s\u00f8",
+        "title": "\"No, I'm getting seriously ocd from that,\" said a young girl on the subway.We have to stop that",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/ej-jeg-faar-serioest-ocd-af-det-der-sagde-en-ung-pige-i-metroen-det-skal-vi-stoppe-med?referrer=RSS",
+        "published_date": "2026-05-25 13:24:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "The king was given a tour of Middelfart before the second run at the Royal Run",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/kongen-fik-rundtur-i-middelfart-foer-anden-loebetur-ved-royal-run?referrer=RSS",
+        "published_date": "2026-05-25 13:20:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The World Cup farewell is Denmark's big chance to embarrass the arch-rival",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/vm-afsked-er-danmarks-store-chance-for-at-genere-aerkerivalen?referrer=RSS",
+        "published_date": "2026-05-25 13:12:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The latest news on American politics - stay tuned",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-direkte-13?referrer=RSS",
+        "published_date": "2026-05-25 13:12:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about Danish politics - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-dansk-politik--foelg-med-her-3--2?referrer=RSS",
+        "published_date": "2026-05-25 13:09:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kolding helps Horsens by defeating the tame Hiller\u00f8d team",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kolding-hjaelper-horsens-ved-at-dukke-tamt-hilleroed-hold?referrer=RSS",
+        "published_date": "2026-05-25 12:55:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rare owl can make Danish bird enthusiasts cry",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/sjaelden-ugle-kan-faa-danske-fugleentusiaster-til-at-graede?referrer=RSS",
+        "published_date": "2026-05-25 12:55:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rare owl spotted on Zealand - not seen since 2003",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/37-aarig-mand-doed-i-faldskaermsulykke-paa-laesoe",
-        "published_date": "2026-05-24 22:56:00",
+        "url": "https://www.dr.dk/nyheder/seneste/sjaelden-ugle-spottet-paa-sjaelland-ikke-set-siden-2003",
+        "published_date": "2026-05-25 12:55:00",
         "category": "Local Events"
     },
     {
-        "title": "Como book sensational Champions League spot",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/como-booker-sensationel-champions-league-plads?referrer=RSS",
-        "published_date": "2026-05-24 21:55:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "19-year-old Comet wins his fourth Formula 1 Grand Prix in a row",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/19-aarig-komet-vinder-sit-fjerde-formel-1-grandprix-i-traek?referrer=RSS",
-        "published_date": "2026-05-24 21:51:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "A person is in a critical condition after a serious motorway accident",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/en-person-er-i-kritisk-tilstand-efter-alvorlig-motorvejsulykke?referrer=RSS",
-        "published_date": "2026-05-24 21:37:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Djokovic overcomes French opposition in French Open opener",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/djokovic-overvinder-fransk-modstand-i-french-open-aabner?referrer=RSS",
-        "published_date": "2026-05-24 21:34:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Head coach Antonio Conte says goodbye to Napoli and H\u00f8jlund",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/cheftraener-antonio-conte-siger-farvel-til-napoli-og-hoejlund?referrer=RSS",
-        "published_date": "2026-05-24 20:11:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The first four-leaf clover meeting on a new government has ended",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/foerste-firkloevermoede-om-en-ny-regering-er-afsluttet?referrer=RSS",
-        "published_date": "2026-05-24 19:34:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The right wing advances in parliamentary elections in Cyprus",
+        "title": "Police are looking for an 85-year-old from Roskilde",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hoejrefloejen-gaar-frem-ved-parlamentsvalg-i-cypern",
-        "published_date": "2026-05-24 18:42:00",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-efterlyser-85-aarig-fra-roskilde",
+        "published_date": "2026-05-25 12:45:00",
         "category": "Local Events"
     },
     {
-        "title": "Rape during carnival reported to the police",
+        "title": "Danish word of the day: Pinse",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260525/danish-word-of-the-day-pinse",
+        "published_date": "2026-05-25 12:26:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Harry Potter book sold for DKK 147,000",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/voldtaegt-under-karneval-meldt-til-politiet",
-        "published_date": "2026-05-24 16:35:00",
+        "url": "https://www.dr.dk/nyheder/seneste/harry-potter-bog-solgt-147-000-kroner",
+        "published_date": "2026-05-25 11:57:00",
         "category": "Local Events"
     },
     {
-        "title": "Norway's Queen Sonja on sick leave for a week",
+        "title": "How to learn to swim as an adult in Denmark",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260525/how-to-learn-to-swim-as-an-adult-in-denmark",
+        "published_date": "2026-05-25 11:49:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark launches new swimming guidelines to prevent drowning accidents",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260525/denmark-launches-new-swimming-guidelines-to-prevent-drowning-accidents",
+        "published_date": "2026-05-25 11:48:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "England breaks heat record for May days",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norges-dronning-sonja-sygemeldt-en-uge",
-        "published_date": "2026-05-24 15:31:00",
+        "url": "https://www.dr.dk/nyheder/seneste/england-slaar-varmerekord-majdage",
+        "published_date": "2026-05-25 10:16:00",
         "category": "Local Events"
     },
     {
-        "title": "For the Danes, this means a judgment on a lien in cross-border trade",
+        "title": "Man wreaks havoc in Japanese mall after spraying mysterious contents on patrons",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-skaber-kaos-i-japansk-indkoebscenter-efter-have-sprayet-mystisk-indhold-paa-gaesterne",
+        "published_date": "2026-05-25 09:14:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sviptur from Kolding to Prague turned into trouble on German tracks: DSB acknowledges challenges",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/aabenraa/det-betyder-dom-om-pant-i-graensehandlen-for-danskerne?rss",
-        "published_date": "2026-05-24 15:30:00",
+        "url": "https://jv.dk/kolding/sviptur-fra-kolding-til-prag-blev-til-boevl-paa-tyske-baner-dsb-erkender-udfordringer?rss",
+        "published_date": "2026-05-25 08:31:00",
         "category": "Local Events"
     },
     {
-        "title": "Trump does not want \"rushed deal\" with Iran",
+        "title": "Today in Denmark: A roundup of the latest news on Monday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260525/today-in-denmark-a-roundup-of-the-latest-news-on-monday-45",
+        "published_date": "2026-05-25 08:05:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least three dead after building collapse in the Philippines",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-vil-ikke-have-forhastet-aftale-med-iran",
-        "published_date": "2026-05-24 15:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israeli attacks cost 11 lives in southern Lebanon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israelske-angreb-koster-11-livet-i-det-sydlige-libanon",
-        "published_date": "2026-05-24 15:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three men in custody after collision between cars on Funen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-maend-varetaegtsfaengslet-efter-sammenstoed-mellem-biler-paa-fyn",
-        "published_date": "2026-05-24 12:33:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fish thieves stole 18 tons of salmon in Norway",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fisketyve-stjal-18-ton-laks-i-norge",
-        "published_date": "2026-05-24 12:13:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Turkish police enter opposition party headquarters to evict ousted leader",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tyrkisk-politi-gaar-ind-paa-oppositionspartis-hovedkvarter-smide-afsat-leder-ud",
-        "published_date": "2026-05-24 12:09:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They appear \"unscrupulous\" and \"double standards\".And the war between the tech princes is far from over",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/de-fremstaar-skruppelloese-og-dobbeltmoralske-og-krigen-mellem-techfyrsterne-er-langtfra-slut?referrer=RSS",
-        "published_date": "2026-05-24 11:35:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "The money crumbled away: 67-year-old Mogens ended up on the street",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/pengene-smuldrede-vaek-67-aarige-mogens-endte-paa-gaden?rss",
-        "published_date": "2026-05-24 11:30:00",
+        "url": "https://www.dr.dk/nyheder/seneste/mindst-tre-doede-efter-bygningskollaps-i-fillippinerne",
+        "published_date": "2026-05-25 07:19:00",
         "category": "Local Events"
     }
 ]
