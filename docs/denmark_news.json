@@ -1,5 +1,26 @@
 [
     {
+        "title": "Britain and Poland agree on new defense agreement",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/storbritannien-og-polen-er-enige-om-ny-forsvarsaftale?referrer=RSS",
+        "published_date": "2026-05-26 22:32:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EXPLAINED: Why Europe is the world's fastest warming continent",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260526/explained-why-europe-is-the-worlds-fastest-warming-continent",
+        "published_date": "2026-05-26 21:00:20",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "'Absolutely amazing': Heat records in a row broken in Europe",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/vejr/fuldstaendig-forbloeffende-varmerekorder-paa-stribe-slaaet-i-europa?referrer=RSS",
+        "published_date": "2026-05-26 20:02:15",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Several European countries are boiling in record high temperatures",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/flere-europaeiske-lande-koger-i-rekordhoeje-temperaturer?referrer=RSS",
@@ -119,25 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Villa coach will chase golden era after European triumph",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/villa-traener-vil-jagte-gylden-aera-efter-europaeisk-triumf?referrer=RSS",
-        "published_date": "2026-05-20 23:52:45",
-        "category": "Diplomacy"
+        "title": "Elon Musk's SpaceX gets billion dollar contract from the US military",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/elon-musks-spacex-faar-milliardkontrakt-af-usa-s-militaer",
+        "published_date": "2026-05-26 23:49:23",
+        "category": "Military"
     },
     {
-        "title": "UN countries tighten the countries' climate obligations",
+        "title": "Elon Musk's SpaceX gets billion dollar contract from the US military",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fn-lande-skaerper-landenes-klimaforpligtelser?referrer=RSS",
-        "published_date": "2026-05-20 23:03:48",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/elon-musks-spacex-faar-milliardkontrakt-af-usas-militaer?referrer=RSS",
+        "published_date": "2026-05-26 22:53:46",
+        "category": "Military"
     },
     {
-        "title": "US lifts sanctions against Israel-critical UN rapporteur",
+        "title": "Netanyahu: Israel's military has carried out a new attack in Gaza",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-fjerner-sanktioner-mod-israel-kritisk-fn-rapportoer?referrer=RSS",
-        "published_date": "2026-05-20 22:39:44",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/netanyahu-israels-militaer-har-udfoert-nyt-angreb-i-gaza?referrer=RSS",
+        "published_date": "2026-05-26 19:17:44",
+        "category": "Military"
     },
     {
         "title": "Iran accuses the US of breaking the ceasefire",
@@ -259,27 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Trump wants to send 5000 soldiers to Poland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-vil-sende-5000-soldater-til-polen?referrer=RSS",
-        "published_date": "2026-05-21 21:04:50",
-        "category": "Military"
-    },
-    {
-        "title": "Trump: The US will send another 5,000 troops to Poland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-usa-vil-sende-yderligere-5-000-soldater-til-polen",
-        "published_date": "2026-05-21 20:44:00",
-        "category": "Military"
-    },
-    {
-        "title": "Divers search for murder weapons in Vejle Harbour",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dykkere-leder-efter-drabsvaaben-i-vejle-havn",
-        "published_date": "2026-05-21 07:21:00",
-        "category": "Military"
-    },
-    {
         "title": "S-trains are expected to run with greatly reduced operations on Tuesday",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/s-tog-ventes-at-koere-med-staerkt-reduceret-drift-tirsdag?referrer=RSS",
@@ -322,20 +322,6 @@
         "category": "Energy"
     },
     {
-        "title": "The US breaks sanctions and provides easier access to Russian oil",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-pauser-sanktioner-og-giver-lettere-adgang-til-russisk-olie",
-        "published_date": "2026-05-18 17:46:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Austria and Croatia select Super League players for the World Cup",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/oestrig-og-kroatien-udtager-superligaspillere-til-vm?referrer=RSS",
-        "published_date": "2026-05-18 14:19:47",
-        "category": "Energy"
-    },
-    {
         "title": "The Ministry of Economy expects a slowdown in growth over the next two years",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/oekonomiministeriet-forventer-afdaempning-i-vaekst-de-naeste-aar",
@@ -350,6 +336,111 @@
         "category": "Economy"
     },
     {
+        "title": "Blair urges Labor to focus on policy, not people",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/blair-opfordrer-labour-til-at-fokusere-paa-politik-og-ikke-personer?referrer=RSS",
+        "published_date": "2026-05-26 23:29:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Britain and Poland agree on new defense agreement",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-og-polen-enige-om-ny-forsvarsaftale",
+        "published_date": "2026-05-26 22:35:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Women and children are reported killed in Israeli attacks in Lebanon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kvinder-og-boern-meldes-draebt-i-israelske-angreb-i-libanon?referrer=RSS",
+        "published_date": "2026-05-26 22:05:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bolsonaro's son visits Trump ahead of presidential election",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/bolsonaros-soen-besoeger-trump-forud-for-praesidentvalg?referrer=RSS",
+        "published_date": "2026-05-26 21:56:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Canada and the USA play together in the quarter-finals at the Ice Hockey World Cup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/canada-og-usa-toerner-sammen-i-kvartfinalen-ved-ishockey-vm?referrer=RSS",
+        "published_date": "2026-05-26 21:22:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish-produced James Bond game garners international praise",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/danskproduceret-james-bond-spil-hoester-international-ros?referrer=RSS",
+        "published_date": "2026-05-26 21:12:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sinner cruises on from the first round of the French Open",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sinner-cruiser-videre-fra-foerste-runde-i-french-open?referrer=RSS",
+        "published_date": "2026-05-26 20:47:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are investigating an attempted arson attack at a mosque",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/poltiet-efterforsker-forsoeg-paa-brandstiftelse-ved-moske",
+        "published_date": "2026-05-26 19:26:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel has carried out new airstrikes in Gaza",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-har-udfoert-nyt-luftangreb-i-gaza",
+        "published_date": "2026-05-26 19:10:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel expands hostilities in southern Lebanon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-udvider-kamphandlinger-i-det-sydlige-libanon",
+        "published_date": "2026-05-26 19:09:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Region gives the cancer area a salt water injection worth millions",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/region-giver-kraeftomraadet-en-saltvandsindsproejtning-med-millionbeloeb",
+        "published_date": "2026-05-26 18:04:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The jewel heist at the Louvre is being turned into a movie",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/juvel-roeveriet-paa-louvre-bliver-til-en-film",
+        "published_date": "2026-05-26 17:59:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump after his six-month health check: 'Everything looks perfect'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-efter-sit-halvaarlige-sundhedstjek-alt-ser-perfekt-ud",
+        "published_date": "2026-05-26 17:11:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "130 charges during the car event 'Denmark's Fastest Car'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/130-sigtelser-under-biltraeffet-danmarks-hurtigste-bil",
+        "published_date": "2026-05-26 16:58:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two young men are in custody for attempted murder with a hand grenade in Amager",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/unge-maend-varetaegtsfaengsles-drabsforsoeg-med-haandgranat-paa-amager",
+        "published_date": "2026-05-26 15:54:05",
+        "category": "Local Events"
+    },
+    {
         "title": "Copenhagen incomes have risen twice as fast as rest of Denmark",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260526/copenhagen-incomes-up-by-21-5-percent-in-a-decade",
@@ -357,136 +448,31 @@
         "category": "Local Events"
     },
     {
+        "title": "King Frederik has visited Queen Margrethe at the Rigshospitalet",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kong-frederik-har-besoegt-dronning-margrethe-paa-rigshospitalet",
+        "published_date": "2026-05-26 15:26:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "One picture caused the comment trail to explode: - Stop yourself.And get a life",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/soenderborg/et-billede-fik-kommentarsporet-til-at-eksplodere-stop-dig-selv-og-faa-et-liv?rss",
+        "published_date": "2026-05-26 15:04:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Charged with attempted murder after throwing a hand grenade: Pleads not guilty",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sigtet-drabsforsoeg-efter-kast-med-eksplosion-naegter-sig-skyldige",
+        "published_date": "2026-05-26 13:46:27",
+        "category": "Local Events"
+    },
+    {
         "title": "Crown Prince Haakon: Mette-Marit is seriously ill",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/kronprins-haakon-mette-marit-er-alvorligt-syg?referrer=RSS",
         "published_date": "2026-05-26 13:36:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Internet Observer reports that the internet connection in Iran has been partially restored",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/internetobservatoer-melder-netforbindelsen-i-iran-delvist-genoprettet?referrer=RSS",
-        "published_date": "2026-05-26 13:33:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jacob Haugaard is stopping as conference manager at Gr\u00f8n after almost 40 years",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/jacob-haugaard-stopper-som-konferencier-paa-groen-efter-naesten-40-aar?referrer=RSS",
-        "published_date": "2026-05-26 13:33:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norway's Crown Prince on Crown Princess Mette-Marit: 'She has gotten a lot worse lately'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norges-kronprins-om-kronprinsesse-mette-marit-hun-er-blevet-en-del-daarligere-paa-det-sidste",
-        "published_date": "2026-05-26 13:32:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "The bourgeoisie has become petty bourgeois",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/borgerligheden-er-blevet-smaaborgerlig?referrer=RSS",
-        "published_date": "2026-05-26 13:25:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "High Court acquits Swedes of cocaine smuggling",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/landsret-frifinder-svensker-kokainsmugling",
-        "published_date": "2026-05-26 13:17:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The doped participants had to break world record after world record - the controversial event was a failure",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/de-dopede-deltagere-skulle-slaa-verdensrekord-efter-verdensrekord--det-kontroversielle-arrangement-blev-en-fiasko?referrer=RSS",
-        "published_date": "2026-05-26 13:17:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sandwich ice cream recalled due to risk of metal pieces",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/sandwich-is-tilbagekaldes-paa-grund-af-risiko-for-metalstykker?referrer=RSS",
-        "published_date": "2026-05-26 13:15:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "71-year-old sheep farmer sentenced to prison for animal cruelty",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/71-aarig-faareavler-idoemt-faengselsdom-dyremishandling",
-        "published_date": "2026-05-26 13:12:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Track change errors cause train trouble for the rest of the day in Zealand",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sporskiftefejl-giver-togboevl-resten-af-dagen-paa-sjaelland",
-        "published_date": "2026-05-26 13:12:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cocaine Accused father had daughter with him in court and was acquitted",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/kokaintiltalt-far-havde-datter-med-i-retten-og-blev-frikendt?referrer=RSS",
-        "published_date": "2026-05-26 13:11:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wildcard player prolongs Medvedev's problems in Paris",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/wildcardspiller-forlaenger-medvedevs-problemer-i-paris?referrer=RSS",
-        "published_date": "2026-05-26 13:11:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sheep breeder sentenced to prison and fined for mistreatment of sheep",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/faareavler-idoemt-faengsel-og-boede-for-mishandling-af-faar?referrer=RSS",
-        "published_date": "2026-05-26 13:07:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "A case of arson at an NGO is linked to hand grenades in the bush",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/sag-om-brandstiftelse-hos-ngo-kobles-til-haandgranater-i-buskads?referrer=RSS",
-        "published_date": "2026-05-26 13:03:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "DMI creates new website to monitor drought",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dmi-laver-ny-hjemmeside-til-overvaage-toerke",
-        "published_date": "2026-05-26 12:30:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sweden is temporarily halving the price of public transport for commuters",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sverige-halverer-prisen-til-offentlig-transport-midlertidigt-pendlere",
-        "published_date": "2026-05-26 12:21:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 22-year-old shaves a fair bit off the Danish record",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/22-aarig-barberer-paen-sjat-af-dansk-rekord",
-        "published_date": "2026-05-26 12:11:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman charged with attempted murder of family member",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kvinde-sigtet-drabsforsoeg-paa-familiemedlem",
-        "published_date": "2026-05-26 11:25:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Broken drains and flooded fields can contribute to a better marine environment",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/oedelagte-draen-og-oversvoemmede-marker-kan-bidrage-til-et-bedre-havmiljoe",
-        "published_date": "2026-05-26 11:24:55",
         "category": "Local Events"
     }
 ]
