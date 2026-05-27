@@ -1,5 +1,19 @@
 [
     {
+        "title": "Europe heatwave a 'brutal reminder' of climate change",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260527/europe-heatwave-a-brutal-reminder-of-climate-change",
+        "published_date": "2026-05-27 15:22:09",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Former CIA director predicts Putin's retreat in Ukraine - today's stories are selected by Birgitte Borup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tidligere-cia-direktoer-forudser-putins-retraete-i-ukraine--dagens-historier-er-udvalgt-af-birgitte-borup?referrer=RSS",
+        "published_date": "2026-05-27 14:02:29",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Britain and Poland agree on new defense agreement",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/storbritannien-og-polen-er-enige-om-ny-forsvarsaftale?referrer=RSS",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Danes among the over 430 captured flotilla participants, confirms the Ministry of Foreign Affairs",
+        "title": "Israel's military issues evacuation orders in southern Lebanon",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansker-blandt-de-over-430-tilfangetagne-flotille-deltagere-bekraefter-udenrigsministeriet",
-        "published_date": "2026-05-21 15:57:00",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/israels-militaer-udsender-evakueringsordre-i-det-sydlige-libanon",
+        "published_date": "2026-05-27 14:02:36",
+        "category": "Military"
     },
     {
-        "title": "The effect of the Eli Lilly drug is compared to bariatric surgery",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/eli-lilly-middels-effekt-sammenlignes-med-fedmeoperation?referrer=RSS",
-        "published_date": "2026-05-21 13:38:49",
-        "category": "Diplomacy"
+        "title": "Hamas confirms killing of military chief",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hamas-bekraefter-drab-paa-militaerchef",
+        "published_date": "2026-05-27 13:27:02",
+        "category": "Military"
     },
     {
         "title": "Elon Musk's SpaceX gets billion dollar contract from the US military",
@@ -266,18 +280,18 @@
         "category": "Military"
     },
     {
-        "title": "Putin accuses Ukraine of deliberate attack on college",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/putin-beskylder-ukraine-bevidst-angreb-paa-kollegium",
-        "published_date": "2026-05-22 15:31:00",
-        "category": "Military"
+        "title": "Large projects can wait up to ten years for connection to the electricity grid",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/store-projekter-kan-vente-op-til-ti-aar-paa-tilslutning-til-elnettet?referrer=RSS",
+        "published_date": "2026-05-27 13:58:46",
+        "category": "Energy"
     },
     {
-        "title": "Zelenskyi: Ukraine has attacked an oil refinery in Russia",
+        "title": "Rising energy prices pressure Germany's economy: Expect limited growth",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-ukraine-har-angrebet-olieraffinaderi-i-rusland",
-        "published_date": "2026-05-22 08:32:00",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/stigende-energipriser-presser-tysklands-oekonomi-forventer-begraenset-vaekst",
+        "published_date": "2026-05-27 09:08:54",
+        "category": "Energy"
     },
     {
         "title": "S-trains are expected to run with greatly reduced operations on Tuesday",
@@ -315,11 +329,11 @@
         "category": "Energy"
     },
     {
-        "title": "Applications for M\u00f8drehj\u00e6lpen's holiday assistance are pouring in",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ansoegninger-til-moedrehjaelpens-feriehjaelp-stroemmer-ind",
-        "published_date": "2026-05-19 06:51:00",
-        "category": "Energy"
+        "title": "Danish Airbnb landlords owe the Swedish Tax Agency millions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/danske-airbnb-udlejere-skylder-skattestyrelsen-millioner?referrer=RSS",
+        "published_date": "2026-05-27 13:08:54",
+        "category": "Economy"
     },
     {
         "title": "The Ministry of Economy expects a slowdown in growth over the next two years",
@@ -336,143 +350,143 @@
         "category": "Economy"
     },
     {
-        "title": "Blair urges Labor to focus on policy, not people",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/blair-opfordrer-labour-til-at-fokusere-paa-politik-og-ikke-personer?referrer=RSS",
-        "published_date": "2026-05-26 23:29:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Britain and Poland agree on new defense agreement",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-og-polen-enige-om-ny-forsvarsaftale",
-        "published_date": "2026-05-26 22:35:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Women and children are reported killed in Israeli attacks in Lebanon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kvinder-og-boern-meldes-draebt-i-israelske-angreb-i-libanon?referrer=RSS",
-        "published_date": "2026-05-26 22:05:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bolsonaro's son visits Trump ahead of presidential election",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/bolsonaros-soen-besoeger-trump-forud-for-praesidentvalg?referrer=RSS",
-        "published_date": "2026-05-26 21:56:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Canada and the USA play together in the quarter-finals at the Ice Hockey World Cup",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/canada-og-usa-toerner-sammen-i-kvartfinalen-ved-ishockey-vm?referrer=RSS",
-        "published_date": "2026-05-26 21:22:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish-produced James Bond game garners international praise",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/danskproduceret-james-bond-spil-hoester-international-ros?referrer=RSS",
-        "published_date": "2026-05-26 21:12:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sinner cruises on from the first round of the French Open",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/sinner-cruiser-videre-fra-foerste-runde-i-french-open?referrer=RSS",
-        "published_date": "2026-05-26 20:47:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police are investigating an attempted arson attack at a mosque",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/poltiet-efterforsker-forsoeg-paa-brandstiftelse-ved-moske",
-        "published_date": "2026-05-26 19:26:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israel has carried out new airstrikes in Gaza",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israel-har-udfoert-nyt-luftangreb-i-gaza",
-        "published_date": "2026-05-26 19:10:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israel expands hostilities in southern Lebanon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israel-udvider-kamphandlinger-i-det-sydlige-libanon",
-        "published_date": "2026-05-26 19:09:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Region gives the cancer area a salt water injection worth millions",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/region-giver-kraeftomraadet-en-saltvandsindsproejtning-med-millionbeloeb",
-        "published_date": "2026-05-26 18:04:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The jewel heist at the Louvre is being turned into a movie",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/juvel-roeveriet-paa-louvre-bliver-til-en-film",
-        "published_date": "2026-05-26 17:59:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump after his six-month health check: 'Everything looks perfect'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-efter-sit-halvaarlige-sundhedstjek-alt-ser-perfekt-ud",
-        "published_date": "2026-05-26 17:11:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "130 charges during the car event 'Denmark's Fastest Car'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/130-sigtelser-under-biltraeffet-danmarks-hurtigste-bil",
-        "published_date": "2026-05-26 16:58:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two young men are in custody for attempted murder with a hand grenade in Amager",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/unge-maend-varetaegtsfaengsles-drabsforsoeg-med-haandgranat-paa-amager",
-        "published_date": "2026-05-26 15:54:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen incomes have risen twice as fast as rest of Denmark",
+        "title": "Danish Tax Agency collects millions in unpaid tax from Airbnb hosts",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260526/copenhagen-incomes-up-by-21-5-percent-in-a-decade",
-        "published_date": "2026-05-26 15:37:15",
+        "url": "https://www.thelocal.dk/20260527/danish-tax-agency-cracking-down-on-airbnb-hosts",
+        "published_date": "2026-05-27 14:39:49",
         "category": "Local Events"
     },
     {
-        "title": "King Frederik has visited Queen Margrethe at the Rigshospitalet",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kong-frederik-har-besoegt-dronning-margrethe-paa-rigshospitalet",
-        "published_date": "2026-05-26 15:26:42",
+        "title": "Danish footballer Schmeichel hangs up gloves due to injury",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260527/danish-football-legend-schmeichel-hangs-up-gloves-due-to-injury",
+        "published_date": "2026-05-27 14:16:07",
         "category": "Local Events"
     },
     {
-        "title": "One picture caused the comment trail to explode: - Stop yourself.And get a life",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/et-billede-fik-kommentarsporet-til-at-eksplodere-stop-dig-selv-og-faa-et-liv?rss",
-        "published_date": "2026-05-26 15:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Charged with attempted murder after throwing a hand grenade: Pleads not guilty",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sigtet-drabsforsoeg-efter-kast-med-eksplosion-naegter-sig-skyldige",
-        "published_date": "2026-05-26 13:46:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crown Prince Haakon: Mette-Marit is seriously ill",
+        "title": "Uganda closes borders with DR Congo during Ebola outbreak",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kronprins-haakon-mette-marit-er-alvorligt-syg?referrer=RSS",
-        "published_date": "2026-05-26 13:36:46",
+        "url": "https://www.berlingske.dk/internationalt/uganda-lukker-graenser-til-dr-congo-under-ebola-udbrud?referrer=RSS",
+        "published_date": "2026-05-27 14:10:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Women imprisoned in case of attempted murder with hand grenade",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/kvinder-faengslet-i-sag-om-drabsforsoeg-med-haandgranat?referrer=RSS",
+        "published_date": "2026-05-27 13:58:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man acquitted of promoting terror with Facebook comment",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-frifundet-for-at-fremme-terror-med-facebookkommentar?referrer=RSS",
+        "published_date": "2026-05-27 13:52:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Clara Tauson and mate smoke out of the French Open",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/clara-tauson-og-makker-ryger-ud-af-french-open?referrer=RSS",
+        "published_date": "2026-05-27 13:46:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leading doctor explains: This is how blood accumulations occur",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/ledende-overlaege-forklarer-saadan-opstaar-blodansamlinger?referrer=RSS",
+        "published_date": "2026-05-27 13:40:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Record high spring heat takes focus at the French Open",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/rekordhoej-foraarsvarme-tager-fokus-ved-french-open?referrer=RSS",
+        "published_date": "2026-05-27 13:37:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man acquitted of promoting terror with Facebook comment",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-frifundet-fremme-terror-med-facebookkommentar",
+        "published_date": "2026-05-27 13:36:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ahmed Samsam sentenced for possession of knives",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/ahmed-samsam-doemt-for-besiddelse-af-knive?referrer=RSS",
+        "published_date": "2026-05-27 13:34:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five people who were trapped in a cave in Laos have been found alive",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fem-personer-der-har-vaeret-fanget-i-grotte-i-laos-er-fundet-i-live",
+        "published_date": "2026-05-27 12:58:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman convicted in money laundering case for billions through Danske Bank",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kvinde-doemt-i-hvidvakssag-milliarder-gennem-danske-bank",
+        "published_date": "2026-05-27 11:49:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Flying Tiger retail chain will soon be out of Danish hands",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/butikskaeden-flying-tiger-er-snart-ude-af-danske-haender",
+        "published_date": "2026-05-27 11:18:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two women charged with handing over a hand grenade - 31-year-old still badly injured",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kvinder-sigtet-overdrage-haandgranat-31-aarig-stadig-haardt-saaret",
+        "published_date": "2026-05-27 11:04:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "New government, pay rules and festivals: What changes in Denmark in June 2026",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260527/what-changes-in-denmark-in-june-2026",
+        "published_date": "2026-05-27 10:43:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Berlingske journalist sent home: AI tool made up people and quotes in article",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/berlingske-journalist-sendt-hjem-ai-vaerktoej-opdigtede-personer-og-citater-i-artikel",
+        "published_date": "2026-05-27 10:37:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spanish police search ruling party headquarters",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/spansk-politi-ransager-regeringspartis-hovedkontor",
+        "published_date": "2026-05-27 10:13:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hungary's parliament will stop Orb\u00e1n's plan to leave the International Criminal Court",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ungarns-parlament-vil-stoppe-orbans-plan-om-forlade-den-internationale-straffedomstol",
+        "published_date": "2026-05-27 10:01:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The High Court upholds the verdict for killing at a slaughterhouse",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/landsretten-stadfaester-dom-drab-paa-slagteri",
+        "published_date": "2026-05-27 09:40:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Large fire broke out at Jewish supermarket in London",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/stor-brand-brudt-ud-ved-joedisk-supermarked-i-london",
+        "published_date": "2026-05-27 09:40:04",
         "category": "Local Events"
     }
 ]
