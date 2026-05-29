@@ -1,5 +1,12 @@
 [
     {
+        "title": "Arla gets approval from the EU for a major merger",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/arla-faar-ja-fra-eu-til-storfusion",
+        "published_date": "2026-05-28 17:29:14",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Tech ambassador will stop in two weeks - it is unknown if the post will be filled again",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/tech-ambassadoer-stopper-om-to-uger-uvist-om-posten-genbesaettes?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The EU and Mexico enter into an expanded trade agreement and reduce tariffs",
+        "title": "Norway uses sauna as a weapon against heat at the World Cup",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eu-og-mexico-indgaar-udvidet-handelsaftale-og-reducerer-toldsatser?referrer=RSS",
-        "published_date": "2026-05-22 21:14:49",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/sport/norge-bruger-sauna-som-vaaben-mod-varme-ved-vm?referrer=RSS",
+        "published_date": "2026-05-28 19:32:44",
+        "category": "Military"
     },
     {
         "title": "Swedish fighter jets on their way to Ukraine",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Russia confirms use of ballistic missile in Ukraine",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-bekraefter-brug-af-ballistisk-missil-i-ukraine",
-        "published_date": "2026-05-24 09:32:00",
-        "category": "Military"
-    },
-    {
         "title": "Large projects can wait up to ten years for connection to the electricity grid",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/store-projekter-kan-vente-op-til-ti-aar-paa-tilslutning-til-elnettet?referrer=RSS",
@@ -350,10 +350,115 @@
         "category": "Economy"
     },
     {
+        "title": "Three technicians are reported killed during attacks on Russian-controlled territory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tre-teknikere-meldes-draebt-under-angreb-paa-russisk-kontrolleret-omraade?referrer=RSS",
+        "published_date": "2026-05-28 23:39:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Radicals expect a continuation of government negotiations on Friday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/de-radikale-venter-fortsaettelse-af-regeringsforhandlinger-fredag?referrer=RSS",
+        "published_date": "2026-05-28 23:09:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vance: Agreement between the US and Iran is not there yet",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/vance-aftale-mellem-usa-og-iran-er-der-ikke-endnu?referrer=RSS",
+        "published_date": "2026-05-28 22:43:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "WHO chief: We can stop the Ebola outbreak in the DR Congo",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/who-chef-vi-kan-godt-stoppe-ebolaudbrud-i-dr-congo?referrer=RSS",
+        "published_date": "2026-05-28 21:54:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norway beats Latvia and continues wild World Cup adventure",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/norge-slaar-letland-og-fortsaetter-vildt-vm-eventyr?referrer=RSS",
+        "published_date": "2026-05-28 21:22:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several staircases are evacuated after a major roof fire in Nyk\u00f8bing Mors",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/flere-opgange-evakueres-efter-stoerre-tagbrand-i-nykoebing-mors?referrer=RSS",
+        "published_date": "2026-05-28 20:26:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man gets 15 years in prison for planning attack on Taylor Swift concert",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-faar-15-aars-faengsel-angrebsplaner-mod-taylor-swift-koncert",
+        "published_date": "2026-05-28 20:23:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "21-year-old Austrian jailed for plans to attack Taylor Swift fans",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/21-aarig-oestriger-faengsles-for-planer-om-angreb-mod-taylor-swift-fans?referrer=RSS",
+        "published_date": "2026-05-28 20:11:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Julius Johansen begins the stage race with a triumph in the prologue",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/julius-johansen-indleder-etapeloeb-med-triumf-i-prolog?referrer=RSS",
+        "published_date": "2026-05-28 20:11:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Extensive fire in block of flats under control - fireworks may be the cause",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-opgange-evakueres-efter-stoerre-tagbrand-i-nykoebing-mors",
+        "published_date": "2026-05-28 19:57:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Singer and musician Lotte R\u00f8mer has died after cancer",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kultur/sanger-og-musiker-lotte-roemer-er-doed-efter-kraeftsygdom?referrer=RSS",
+        "published_date": "2026-05-28 19:36:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least 52 died in clashes between armed groups in Colombia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mindst-52-doede-i-sammenstoed-mellem-bevaebnede-grupper-i-colombia",
+        "published_date": "2026-05-28 18:24:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wolf pups risk starving to death: Now hunters must shoot the parents",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/varde/ulvehvalpe-risikerer-at-sulte-ihjel-nu-maa-jaegere-skyde-foraeldrene?rss",
+        "published_date": "2026-05-28 17:48:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Investigates stabbing in Switzerland as terrorist attack",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efterforsker-knivstikkeri-i-schweiz-som-terrorangreb",
+        "published_date": "2026-05-28 16:35:11",
+        "category": "Local Events"
+    },
+    {
         "title": "Greenland and Faroe Islands MPs hold government talks",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260528/greenland-and-faroe-islands-mps-hold-government-talks",
         "published_date": "2026-05-28 15:53:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Parliament approves new government in Latvia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/parlamentet-godkender-ny-regering-i-letland",
+        "published_date": "2026-05-28 15:34:53",
         "category": "Local Events"
     },
     {
@@ -364,129 +469,24 @@
         "category": "Local Events"
     },
     {
+        "title": "The United States is supporting the fight against Ebola with a large amount of money",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-stoetter-bekaempelsen-af-ebola-med-stort-beloeb",
+        "published_date": "2026-05-28 15:03:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Visible crack pipes attracted the police - a search revealed meat theft worth several thousand kroner",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/synlige-crackpiber-tiltrak-politiet-ransagning-afsloerede-koedtyveri-flere-tusinde-kroner",
+        "published_date": "2026-05-28 15:02:39",
+        "category": "Local Events"
+    },
+    {
         "title": "Indonesian top pair tear down the arms of the Danish duo in Singapore",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/indonesisk-toppar-flaar-armene-ned-paa-dansk-duo-i-singapore?referrer=RSS",
         "published_date": "2026-05-28 14:14:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norway may be hit by a general strike on Friday",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/norge-kan-blive-ramt-af-storstrejke-fredag?referrer=RSS",
-        "published_date": "2026-05-28 14:11:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Business update: Bank lobby chairman also warns against new home loans",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/business-update-banklobby-formand-advarer-ogsaa-mod-nye-boliglaan?referrer=RSS",
-        "published_date": "2026-05-28 14:01:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "He was the silver lining of the left wing.Now his shit case can bring down S\u00e1nchez - with a nudge from the US",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/han-var-venstrefloejens-arvesoelv-nu-kan-hans-moegsag-faelde-sanchez-med-et-puf-fra-usa?referrer=RSS",
-        "published_date": "2026-05-28 13:58:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Physically suffering Jannik Sinner is finished in the French Open",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fysisk-lidende-jannik-sinner-er-faerdig-i-french-open?referrer=RSS",
-        "published_date": "2026-05-28 13:53:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Many are worried about \"generation ai\" in high school.But then the teacher tried a new form of exam that gives him hope",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/mange-er-bekymret-for-generation-ai-i-gymnasiet-men-saa-proevede-laerer-en-ny-eksamensform-der-giver-ham-haab?referrer=RSS",
-        "published_date": "2026-05-28 13:32:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "After a rain of fines and road work, the police come with a call",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-boederegn-og-vejarbejde-kommer-politiet-med-opfordring",
-        "published_date": "2026-05-28 13:27:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Acquittal of officer and married couple stands",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/frifindelse-af-betjent-og-aegtepar-staar-ved-magt?referrer=RSS",
-        "published_date": "2026-05-28 13:11:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "There is no indication that the deceased man after the explosion in Amager was the target of an attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/intet-tyder-paa-afdoed-mand-efter-eksplosion-paa-amager-var-maal-angreb",
-        "published_date": "2026-05-28 13:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police seize a large batch of puff bars",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-beslaglaegger-et-stoerre-parti-puff-bars",
-        "published_date": "2026-05-28 12:24:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "King Harald on Mette-Marit's relationship with Epstein: She has done nothing illegal",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kong-harald-om-mette-marits-forhold-til-epstein-hun-har-ikke-gjort-noget-ulovligt",
-        "published_date": "2026-05-28 12:20:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norway's Queen Sonja has been discharged from hospital",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norges-dronning-sonja-er-udskrevet-fra-hospitalet",
-        "published_date": "2026-05-28 11:47:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two people charged with fatal violence against a two-year-old have been released",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/personer-sigtet-doedsvold-mod-toaarig-er-loesladt",
-        "published_date": "2026-05-28 11:40:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The High Court toughens the punishment for shooting on an open street in Kolding",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/landsret-skaerper-straf-skud-paa-aaben-gade-i-kolding",
-        "published_date": "2026-05-28 11:29:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danske Bank in new round of savings: Cuts 199 positions in Denmark",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danske-bank-i-ny-sparerunde-nedlaegger-199-stillinger-i-danmark",
-        "published_date": "2026-05-28 11:01:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Large public meeting opens today - but the politicians are missing",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stort-folkemoede-aabner-i-dag-men-politikerne-mangler",
-        "published_date": "2026-05-28 10:07:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "The humpback whale Timmy will be rescued and autopsied at Anholt",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pukkelhvalen-timmy-vil-blive-bjaerget-og-obduceret-paa-anholt",
-        "published_date": "2026-05-28 08:53:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Queen Margrethe is hospitalized on the fourth day",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dronning-margrethe-er-indlagt-paa-fjerde-doegn",
-        "published_date": "2026-05-28 08:52:55",
         "category": "Local Events"
     }
 ]
