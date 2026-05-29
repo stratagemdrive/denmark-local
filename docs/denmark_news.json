@@ -1,5 +1,33 @@
 [
     {
+        "title": "Russia: Not a single proof that there are Russian drones in the EU",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-ikke-et-eneste-bevis-der-er-russiske-droner-i-eu",
+        "published_date": "2026-05-29 13:33:12",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Hungary's new leader demands guarantees before EU yes to Ukraine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ungarns-nye-leder-kraever-garantier-foer-eu-ja-til-ukraine?referrer=RSS",
+        "published_date": "2026-05-29 13:17:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The EU and Hungary enter into an agreement on reforms and EU funds after the Orb\u00e1n exit",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/eu-og-ungarn-indgaar-aftale-om-reformer-og-eu-midler-efter-orban-exit?referrer=RSS",
+        "published_date": "2026-05-29 12:53:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Denmark's top foreign official in US for secret Greenland talks",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260529/denmarks-top-foreign-official-in-us-for-secret-greenland-talks",
+        "published_date": "2026-05-29 09:41:30",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Arla gets approval from the EU for a major merger",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/arla-faar-ja-fra-eu-til-storfusion",
@@ -109,34 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/ledere/berlingske-mener-mette-frederiksen-fortjener-ros-for-sit-pres-mod-dommerne-i-strasbourg?referrer=RSS",
         "published_date": "2026-05-25 20:32:04",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU medal for Merkel triggers harsh criticism: \"She has been a very dangerous European\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/eu-medalje-til-merkel-udloeser-haard-kritik-hun-har-vaeret-en-meget-farlig-europaeer?referrer=RSS",
-        "published_date": "2026-05-24 10:29:23",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Are government language tests in Europe integration policy or just political posturing?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260523/are-government-language-tests-in-europe-integration-policy-or-just-political-posturing",
-        "published_date": "2026-05-23 10:24:29",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The EU and Mexico have signed an extended trade agreement",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-og-mexico-har-underskrevet-en-udvidet-handelsaftale",
-        "published_date": "2026-05-23 00:44:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The beautiful Helena hardly looked like either a snow-white Northern European or a sub-Saharan African woman",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/den-skoenne-helena-lignede-naeppe-hverken-en-snehvid-nordeuropaeer-eller-subsaharisk-afrikansk-kvinde?referrer=RSS",
-        "published_date": "2026-05-22 21:55:48",
         "category": "Diplomacy"
     },
     {
@@ -322,11 +322,11 @@
         "category": "Energy"
     },
     {
-        "title": "Tiredness about \"Circus L\u00f8kke\" is increasing - today's stories are selected by Pierre Collignon",
+        "title": "Food checks for families with children are paid out in two weeks",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/traetheden-over-cirkus-loekke-stiger--dagens-historier-er-udvalgt-af-pierre-collignon?referrer=RSS",
-        "published_date": "2026-05-21 13:28:16",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/politik/foedevarecheck-til-boernefamilier-udbetales-om-to-uger?referrer=RSS",
+        "published_date": "2026-05-29 13:17:54",
+        "category": "Economy"
     },
     {
         "title": "Dansk Erhverv and Dansk Industri criticize Temu after billion fine",
@@ -350,143 +350,143 @@
         "category": "Economy"
     },
     {
-        "title": "Three technicians are reported killed during attacks on Russian-controlled territory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tre-teknikere-meldes-draebt-under-angreb-paa-russisk-kontrolleret-omraade?referrer=RSS",
-        "published_date": "2026-05-28 23:39:45",
+        "title": "Iran posing a growing terror threat in Denmark according to spy agency",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260529/iran-posing-a-growing-terror-threat-in-denmark-according-to-spy-agency",
+        "published_date": "2026-05-29 15:26:46",
         "category": "Local Events"
     },
     {
-        "title": "The Radicals expect a continuation of government negotiations on Friday",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/de-radikale-venter-fortsaettelse-af-regeringsforhandlinger-fredag?referrer=RSS",
-        "published_date": "2026-05-28 23:09:44",
+        "title": "Denmark's Queen Margrethe leaves hospital after fall injury",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260529/denmarks-queen-margrethe-leaves-hospital-after-fall-injury",
+        "published_date": "2026-05-29 15:23:06",
         "category": "Local Events"
     },
     {
-        "title": "Vance: Agreement between the US and Iran is not there yet",
+        "title": "Crown Prince Haakon shortens official trip due to Mette-Marit's health",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vance-aftale-mellem-usa-og-iran-er-der-ikke-endnu?referrer=RSS",
-        "published_date": "2026-05-28 22:43:44",
+        "url": "https://www.berlingske.dk/internationalt/kronprins-haakon-forkorter-officiel-rejse-grundet-mette-marits-helbred?referrer=RSS",
+        "published_date": "2026-05-29 13:46:46",
         "category": "Local Events"
     },
     {
-        "title": "WHO chief: We can stop the Ebola outbreak in the DR Congo",
+        "title": "Former Member of Parliament for the Liberal Party and well-known lawyer has died",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/who-chef-vi-kan-godt-stoppe-ebolaudbrud-i-dr-congo?referrer=RSS",
-        "published_date": "2026-05-28 21:54:48",
+        "url": "https://www.berlingske.dk/politik/tidligere-folketingsmedlem-for-venstre-og-kendt-advokat-er-doed?referrer=RSS",
+        "published_date": "2026-05-29 13:39:48",
         "category": "Local Events"
     },
     {
-        "title": "Norway beats Latvia and continues wild World Cup adventure",
+        "title": "Danish poet and writer has died",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/norge-slaar-letland-og-fortsaetter-vildt-vm-eventyr?referrer=RSS",
-        "published_date": "2026-05-28 21:22:46",
+        "url": "https://www.berlingske.dk/danmark/dansk-digter-og-forfatter-er-doed?referrer=RSS",
+        "published_date": "2026-05-29 13:39:44",
         "category": "Local Events"
     },
     {
-        "title": "Several staircases are evacuated after a major roof fire in Nyk\u00f8bing Mors",
+        "title": "Research project to protect endangered porpoises in the Baltic Sea",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/flere-opgange-evakueres-efter-stoerre-tagbrand-i-nykoebing-mors?referrer=RSS",
-        "published_date": "2026-05-28 20:26:48",
+        "url": "https://www.berlingske.dk/danmark/forskningsprojekt-skal-beskytte-truede-marsvin-i-oestersoeen?referrer=RSS",
+        "published_date": "2026-05-29 13:31:43",
         "category": "Local Events"
     },
     {
-        "title": "Man gets 15 years in prison for planning attack on Taylor Swift concert",
+        "title": "Bad news for first-time buyers: New figures show wild development on the housing market in Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/daarligt-nyt-til-foerstegangskoeberne-nye-tal-viser-vild-udvikling-paa-boligmarkedet-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-05-29 13:20:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Will try to speed up road work on Artillerivej in Amager",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-faar-15-aars-faengsel-angrebsplaner-mod-taylor-swift-koncert",
-        "published_date": "2026-05-28 20:23:27",
+        "url": "https://www.dr.dk/nyheder/seneste/vil-forsoege-speede-vejarbejde-op-paa-artillerivej-paa-amager",
+        "published_date": "2026-05-29 12:45:42",
         "category": "Local Events"
     },
     {
-        "title": "21-year-old Austrian jailed for plans to attack Taylor Swift fans",
+        "title": "Reviewers rave: A \"reminder of McCartney's melodic genius\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/21-aarig-oestriger-faengsles-for-planer-om-angreb-mod-taylor-swift-fans?referrer=RSS",
-        "published_date": "2026-05-28 20:11:48",
+        "url": "https://www.berlingske.dk/musik/anmelderne-er-ellevilde-en-paamindelse-om-mccartneys-melodiske-geni?referrer=RSS",
+        "published_date": "2026-05-29 12:35:57",
         "category": "Local Events"
     },
     {
-        "title": "Julius Johansen begins the stage race with a triumph in the prologue",
+        "title": "Americans indicted for billion-dollar fraud are in Denmark for a long trial",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/julius-johansen-indleder-etapeloeb-med-triumf-i-prolog?referrer=RSS",
-        "published_date": "2026-05-28 20:11:45",
+        "url": "https://www.berlingske.dk/indland/amerikanere-tiltalt-for-milliardsvindel-er-i-danmark-til-lang-retssag?referrer=RSS",
+        "published_date": "2026-05-29 12:28:46",
         "category": "Local Events"
     },
     {
-        "title": "Extensive fire in block of flats under control - fireworks may be the cause",
+        "title": "Gr\u00f8n removes the Danish rapper from the poster after the verdict",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-opgange-evakueres-efter-stoerre-tagbrand-i-nykoebing-mors",
-        "published_date": "2026-05-28 19:57:17",
+        "url": "https://www.dr.dk/nyheder/seneste/groen-fjerner-dansk-rapper-fra-plakaten-efter-dom",
+        "published_date": "2026-05-29 12:17:41",
         "category": "Local Events"
     },
     {
-        "title": "Singer and musician Lotte R\u00f8mer has died after cancer",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kultur/sanger-og-musiker-lotte-roemer-er-doed-efter-kraeftsygdom?referrer=RSS",
-        "published_date": "2026-05-28 19:36:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least 52 died in clashes between armed groups in Colombia",
+        "title": "Romania expels Russian consul and closes consulate after drone incident",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mindst-52-doede-i-sammenstoed-mellem-bevaebnede-grupper-i-colombia",
-        "published_date": "2026-05-28 18:24:51",
+        "url": "https://www.dr.dk/nyheder/seneste/rumaenien-udviser-russisk-konsul-og-lukker-konsulat-efter-dronehaendelse",
+        "published_date": "2026-05-29 12:10:27",
         "category": "Local Events"
     },
     {
-        "title": "Wolf pups risk starving to death: Now hunters must shoot the parents",
+        "title": "Animal Protection says goodbye to the animal welfare label",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dyrenes-beskyttelse-siger-farvel-til-dyrevelfaerdsmaerke",
+        "published_date": "2026-05-29 12:05:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "68-year-old Kurt played up his rent and slept at a gas station for two nights",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/varde/ulvehvalpe-risikerer-at-sulte-ihjel-nu-maa-jaegere-skyde-foraeldrene?rss",
-        "published_date": "2026-05-28 17:48:00",
+        "url": "https://jv.dk/haderslev/68-aarige-kurt-blev-smidt-ud-af-sin-lejlighed-og-sov-paa-en-tankstation-i-tre-dage?rss",
+        "published_date": "2026-05-29 11:30:00",
         "category": "Local Events"
     },
     {
-        "title": "Investigates stabbing in Switzerland as terrorist attack",
+        "title": "Are you going to the Great Belt Bridge next week?Traffic affected several times",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efterforsker-knivstikkeri-i-schweiz-som-terrorangreb",
-        "published_date": "2026-05-28 16:35:11",
+        "url": "https://www.dr.dk/nyheder/seneste/skal-du-paa-storebaeltsbroen-i-naeste-uge-trafikken-paavirket-flere-gange",
+        "published_date": "2026-05-29 11:23:38",
         "category": "Local Events"
     },
     {
-        "title": "Greenland and Faroe Islands MPs hold government talks",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260528/greenland-and-faroe-islands-mps-hold-government-talks",
-        "published_date": "2026-05-28 15:53:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parliament approves new government in Latvia",
+        "title": "Zelenskyj: Drone on Romanian soil originates from Russian attack",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/parlamentet-godkender-ny-regering-i-letland",
-        "published_date": "2026-05-28 15:34:53",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-drone-paa-rumaensk-jord-stammer-fra-russisk-angreb",
+        "published_date": "2026-05-29 10:55:18",
         "category": "Local Events"
     },
     {
-        "title": "EXPLAINED: Why Denmark actually does need a new government",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260528/explained-why-denmark-does-actually-need-a-new-government",
-        "published_date": "2026-05-28 15:12:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States is supporting the fight against Ebola with a large amount of money",
+        "title": "Food checks on their way to thousands of families with children",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-stoetter-bekaempelsen-af-ebola-med-stort-beloeb",
-        "published_date": "2026-05-28 15:03:56",
+        "url": "https://www.dr.dk/nyheder/seneste/foedevarecheck-paa-vej-til-tusindvis-af-boernefamilier",
+        "published_date": "2026-05-29 10:39:03",
         "category": "Local Events"
     },
     {
-        "title": "Visible crack pipes attracted the police - a search revealed meat theft worth several thousand kroner",
+        "title": "Dina Thorslund is boxing for four belts in a WC bang",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/synlige-crackpiber-tiltrak-politiet-ransagning-afsloerede-koedtyveri-flere-tusinde-kroner",
-        "published_date": "2026-05-28 15:02:39",
+        "url": "https://www.dr.dk/nyheder/seneste/dina-thorslund-bokser-om-fire-baelter-i-vm-brag",
+        "published_date": "2026-05-29 09:48:02",
         "category": "Local Events"
     },
     {
-        "title": "Indonesian top pair tear down the arms of the Danish duo in Singapore",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/indonesisk-toppar-flaar-armene-ned-paa-dansk-duo-i-singapore?referrer=RSS",
-        "published_date": "2026-05-28 14:14:53",
+        "title": "Danish James Bond game has sold 1.5 million copies in one day",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansk-james-bond-spil-har-solgt-1-5-millioner-eksemplarer-paa-et-doegn",
+        "published_date": "2026-05-29 09:22:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "2.5 years in prison for money laundering for former rocker",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/2-5-aars-faengsel-hvidvask-til-tidligere-rocker",
+        "published_date": "2026-05-29 09:17:04",
         "category": "Local Events"
     }
 ]
