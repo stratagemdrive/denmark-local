@@ -1,5 +1,19 @@
 [
     {
+        "title": "Protest closes major European highway in the Alps",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/protest-lukker-stor-europaeisk-motorvej-i-alperne?referrer=RSS",
+        "published_date": "2026-05-30 10:58:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Russia calls ambassador home for discussions ahead of elections in Armenia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-kalder-ambassadoer-hjem-til-droeftelser-forud-valg-i-armenien",
+        "published_date": "2026-05-30 09:51:31",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Russia: Not a single proof that there are Russian drones in the EU",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/rusland-ikke-et-eneste-bevis-der-er-russiske-droner-i-eu",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Carney warns province against secession and compares to Brexit",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/carney-advarer-provins-mod-loesrivelse-og-sammenligner-med-brexit?referrer=RSS",
-        "published_date": "2026-05-25 21:53:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Berlingske believes: Mette Frederiksen deserves praise for her pressure against the judges in Strasbourg",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/berlingske-mener-mette-frederiksen-fortjener-ros-for-sit-pres-mod-dommerne-i-strasbourg?referrer=RSS",
-        "published_date": "2026-05-25 20:32:04",
-        "category": "Diplomacy"
+        "title": "Ukraine has hit a Russian oil depot",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-har-ramt-russisk-oliedepot",
+        "published_date": "2026-05-30 08:43:13",
+        "category": "Military"
     },
     {
         "title": "America's top general rarely meets with Cuba's military",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Wanted Ukrainian bank manager arrested in Norway",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/efterlyst-ukrainsk-bankchef-er-anholdt-i-norge?referrer=RSS",
-        "published_date": "2026-05-24 20:26:46",
-        "category": "Military"
-    },
-    {
         "title": "Large projects can wait up to ten years for connection to the electricity grid",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/store-projekter-kan-vente-op-til-ti-aar-paa-tilslutning-til-elnettet?referrer=RSS",
@@ -322,6 +322,20 @@
         "category": "Energy"
     },
     {
+        "title": "Holiday home owners risk a tax slap for overlooked rules when selling",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/dine-penge/sommerhusejere-risikerer-skattesmaek-for-overset-regel-ved-salg?referrer=RSS",
+        "published_date": "2026-05-30 11:33:37",
+        "category": "Economy"
+    },
+    {
+        "title": "Private economy letterbox: Do you inherit your half-sister if she dies childless?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/dine-penge/privatoekonomisk-brevkasse-arver-man-sin-halvsoester-hvis-hun-doer-barnloes?referrer=RSS",
+        "published_date": "2026-05-30 10:54:46",
+        "category": "Economy"
+    },
+    {
         "title": "Food checks for families with children are paid out in two weeks",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/foedevarecheck-til-boernefamilier-udbetales-om-to-uger?referrer=RSS",
@@ -350,143 +364,143 @@
         "category": "Economy"
     },
     {
-        "title": "The number of suspected Ebola infected rounds 1000",
+        "title": "Liverpool fires Arne Slot after bad season",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/antallet-af-mistaenkte-ebola-smittede-runder-1000?referrer=RSS",
-        "published_date": "2026-05-29 23:58:49",
+        "url": "https://www.berlingske.dk/sport/liverpool-fyrer-arne-slot-efter-skidt-saeson?referrer=RSS",
+        "published_date": "2026-05-30 11:52:44",
         "category": "Local Events"
     },
     {
-        "title": "Three climbers have died after falling from North America's highest mountain",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tre-bjergbestigere-er-doede-efter-fald-fra-nordamerikas-hoejeste-bjerg?referrer=RSS",
-        "published_date": "2026-05-29 23:55:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: Trump failed to make a decision on Iran at top-security meeting",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/medier-trump-undlod-at-tage-beslutning-om-iran-paa-topsikret-moede?referrer=RSS",
-        "published_date": "2026-05-29 23:11:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of suspected Ebola cases is approaching 1,000",
+        "title": "Power director calls guard with gun after 14 thefts in one and the same store",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-mistaenkte-ebola-tilfaelde-runder-1000",
-        "published_date": "2026-05-29 21:45:16",
+        "url": "https://www.dr.dk/nyheder/seneste/power-direktoer-raaber-vagt-i-gevaer-efter-14-tyverier-i-en-og-samme-butik",
+        "published_date": "2026-05-30 11:40:36",
         "category": "Local Events"
     },
     {
-        "title": "Judge orders Trump's name removed from Kennedy Center",
+        "title": "Danish mixed doubles excels in the final in Singapore",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/dommer-beordrer-trumps-navn-fjernet-fra-kennedy-center?referrer=RSS",
-        "published_date": "2026-05-29 21:37:48",
+        "url": "https://www.berlingske.dk/sport/dansk-mixeddouble-storspiller-sig-i-finale-i-singapore?referrer=RSS",
+        "published_date": "2026-05-30 11:36:44",
         "category": "Local Events"
     },
     {
-        "title": "The Radicals after ten hours of negotiations: We came a long way",
+        "title": "71-year-old Lars bet everything in Egypt: Then he became homeless",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/haderslev/71-aarige-lars-satsede-alt-i-egypten-saa-blev-han-hjemloes?rss",
+        "published_date": "2026-05-30 11:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aarhus Pride fills the city with rainbow flags and diversity",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/de-radikale-efter-ti-timers-forhandlinger-vi-kom-et-godt-stykke?referrer=RSS",
-        "published_date": "2026-05-29 21:00:44",
+        "url": "https://www.berlingske.dk/danmark/aarhus-pride-fylder-byen-med-regnbueflag-og-mangfoldighed?referrer=RSS",
+        "published_date": "2026-05-30 11:19:46",
         "category": "Local Events"
     },
     {
-        "title": "Former director of Danske Bank Peter Straarup has died",
+        "title": "We are facing perhaps the greatest discovery in world history.We just have to grease the packed lunch first",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/tidligere-direktoer-i-danske-bank-peter-straarup-er-doed?referrer=RSS",
-        "published_date": "2026-05-29 20:22:47",
+        "url": "https://www.berlingske.dk/indland/vi-staar-overfor-verdenshistoriens-maaske-stoerste-opdagelse-vi-skal-bare-lige-smoere-madpakke-foerst?referrer=RSS",
+        "published_date": "2026-05-30 11:07:24",
         "category": "Local Events"
     },
     {
-        "title": "Barcelona sign strong dribbling Englishman in Newcastle",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/barcelona-henter-driblestaerk-englaender-i-newcastle?referrer=RSS",
-        "published_date": "2026-05-29 20:06:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Corydon has called them \"enemies.\"Nevertheless, DR has paid for over 100 advertisements on Facebook and Instagram",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/corydon-har-kaldt-dem-fjender-alligevel-har-dr-betalt-for-over-100-reklamer-paa-facebook-og-instagram?referrer=RSS",
-        "published_date": "2026-05-29 19:51:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge orders Trump's name removed from cultural institution",
+        "title": "Parts of the mountain pass between Austria and Italy are closed due to protest",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dommer-beordrer-trumps-navn-fjernet-fra-kulturinstitution",
-        "published_date": "2026-05-29 19:31:35",
+        "url": "https://www.dr.dk/nyheder/seneste/dele-af-bjergpas-mellem-oestrig-og-italien-er-spaerret-grundet-protest",
+        "published_date": "2026-05-30 10:59:42",
         "category": "Local Events"
     },
     {
-        "title": "DR got to play AI song instead of McCartney",
+        "title": "Aarhus Pride starts today",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/aarhus-pride-loeber-af-stablen-i-dag",
+        "published_date": "2026-05-30 10:42:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "At one crucial point in the government negotiations, Mette Frederiksen is about to lose control",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dr-kom-til-at-spille-ai-sang-i-stedet-for-mccartney?referrer=RSS",
-        "published_date": "2026-05-29 19:30:45",
+        "url": "https://www.berlingske.dk/politik/paa-et-afgoerende-punkt-i-regeringsforhandlingerne-kommer-mette-frederiksen-lige-om-lidt-til-at-miste-kontrollen?referrer=RSS",
+        "published_date": "2026-05-30 10:38:02",
         "category": "Local Events"
     },
     {
-        "title": "Putin: I have no idea about that drone",
+        "title": "Martin Thorborg broke out of the prison he had built himself.You can do that too",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/martin-thorborg-broed-ud-af-det-faengsel-han-selv-havde-bygget-det-kan-du-ogsaa?referrer=RSS",
+        "published_date": "2026-05-30 10:26:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "The humpback whale Timmy has been rescued at Anholt",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/pukkelhvalen-timmy-er-blevet-bjaerget-paa-anholt?referrer=RSS",
+        "published_date": "2026-05-30 10:21:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran rejects PET's threat assessment",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/putin-jeg-aner-intet-om-den-drone",
-        "published_date": "2026-05-29 16:27:41",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-afviser-pet-s-trusselsvurdering",
+        "published_date": "2026-05-30 09:59:02",
         "category": "Local Events"
     },
     {
-        "title": "Famous Italian bull gets his testicles regenerated",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/beroemt-italiensk-tyr-faar-genskabt-sine-testikler",
-        "published_date": "2026-05-29 15:42:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran posing a growing terror threat in Denmark according to spy agency",
+        "title": "On the Agenda: What\u2019s happening in Denmark this week",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260529/iran-posing-a-growing-terror-threat-in-denmark-according-to-spy-agency",
-        "published_date": "2026-05-29 15:26:46",
+        "url": "https://www.thelocal.dk/20260530/on-the-agenda-whats-happening-in-denmark-this-week-2",
+        "published_date": "2026-05-30 09:37:16",
         "category": "Local Events"
     },
     {
-        "title": "Denmark's Queen Margrethe leaves hospital after fall injury",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260529/denmarks-queen-margrethe-leaves-hospital-after-fall-injury",
-        "published_date": "2026-05-29 15:23:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expert Investigations into the spiral case are delayed again",
+        "title": "Four more people rescued from cave in Laos",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ekspertundersoegelser-om-spiralsagen-bliver-forsinket-igen",
-        "published_date": "2026-05-29 14:41:06",
+        "url": "https://www.dr.dk/nyheder/seneste/yderligere-fire-personer-reddet-ud-af-grotte-i-laos",
+        "published_date": "2026-05-30 09:04:49",
         "category": "Local Events"
     },
     {
-        "title": "Judge temporarily bans Trump's billion-dollar fund",
+        "title": "Munich airport closed after 'suspicious sighting'",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dommer-nedlaegger-foreloebigt-forbud-mod-trumps-milliardfond",
-        "published_date": "2026-05-29 14:15:11",
+        "url": "https://www.dr.dk/nyheder/seneste/lufthavn-i-munchen-lukket-efter-mistaenkelig-observation",
+        "published_date": "2026-05-30 08:08:19",
         "category": "Local Events"
     },
     {
-        "title": "Crown Prince Haakon shortens official trip due to Mette-Marit's health",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kronprins-haakon-forkorter-officiel-rejse-grundet-mette-marits-helbred?referrer=RSS",
-        "published_date": "2026-05-29 13:46:46",
+        "title": "18 people have lost their lives in a truck accident in Afghanistan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/18-personer-har-mistet-livet-i-lastbilulykke-i-afghanistan",
+        "published_date": "2026-05-30 07:32:26",
         "category": "Local Events"
     },
     {
-        "title": "Former Member of Parliament for the Liberal Party and well-known lawyer has died",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/tidligere-folketingsmedlem-for-venstre-og-kendt-advokat-er-doed?referrer=RSS",
-        "published_date": "2026-05-29 13:39:48",
+        "title": "Humpback whales are rescued at Anholt",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pukkelhval-bjaerges-paa-anholt",
+        "published_date": "2026-05-30 07:04:22",
         "category": "Local Events"
     },
     {
-        "title": "Danish poet and writer has died",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dansk-digter-og-forfatter-er-doed?referrer=RSS",
-        "published_date": "2026-05-29 13:39:44",
+        "title": "Increased security for a street party in Aarhus after a car hit eight people",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/styrket-sikkerhed-til-gadefest-i-aarhus-efter-bil-ramte-otte-personer",
+        "published_date": "2026-05-30 06:15:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three men killed in US attack on boat",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-maend-draebt-i-amerikansk-angreb-paa-baad",
+        "published_date": "2026-05-30 05:58:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Loved ones fell out: Man stabbed with a knife",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/112/mand-stukket-med-kniv-i-esbjerg-kvinde-anholdt?rss",
+        "published_date": "2026-05-30 05:35:40",
         "category": "Local Events"
     }
 ]
