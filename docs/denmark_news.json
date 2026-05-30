@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "America's top general rarely meets with Cuba's military",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/amerikansk-topgeneral-holder-sjaeldent-moede-med-cubas-militaer?referrer=RSS",
+        "published_date": "2026-05-29 23:30:49",
+        "category": "Military"
+    },
+    {
         "title": "Norway uses sauna as a weapon against heat at the World Cup",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/norge-bruger-sauna-som-vaaben-mod-varme-ved-vm?referrer=RSS",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "State leaders call Russian attack on Ukraine an escalation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/statsledere-kalder-russisk-angreb-mod-ukraine-for-en-eskalering?referrer=RSS",
-        "published_date": "2026-05-24 11:32:47",
-        "category": "Military"
-    },
-    {
         "title": "Large projects can wait up to ten years for connection to the electricity grid",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/store-projekter-kan-vente-op-til-ti-aar-paa-tilslutning-til-elnettet?referrer=RSS",
@@ -350,6 +350,97 @@
         "category": "Economy"
     },
     {
+        "title": "The number of suspected Ebola infected rounds 1000",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/antallet-af-mistaenkte-ebola-smittede-runder-1000?referrer=RSS",
+        "published_date": "2026-05-29 23:58:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three climbers have died after falling from North America's highest mountain",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tre-bjergbestigere-er-doede-efter-fald-fra-nordamerikas-hoejeste-bjerg?referrer=RSS",
+        "published_date": "2026-05-29 23:55:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Media: Trump failed to make a decision on Iran at top-security meeting",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/medier-trump-undlod-at-tage-beslutning-om-iran-paa-topsikret-moede?referrer=RSS",
+        "published_date": "2026-05-29 23:11:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of suspected Ebola cases is approaching 1,000",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-mistaenkte-ebola-tilfaelde-runder-1000",
+        "published_date": "2026-05-29 21:45:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Judge orders Trump's name removed from Kennedy Center",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/dommer-beordrer-trumps-navn-fjernet-fra-kennedy-center?referrer=RSS",
+        "published_date": "2026-05-29 21:37:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Radicals after ten hours of negotiations: We came a long way",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/de-radikale-efter-ti-timers-forhandlinger-vi-kom-et-godt-stykke?referrer=RSS",
+        "published_date": "2026-05-29 21:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former director of Danske Bank Peter Straarup has died",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/tidligere-direktoer-i-danske-bank-peter-straarup-er-doed?referrer=RSS",
+        "published_date": "2026-05-29 20:22:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barcelona sign strong dribbling Englishman in Newcastle",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/barcelona-henter-driblestaerk-englaender-i-newcastle?referrer=RSS",
+        "published_date": "2026-05-29 20:06:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Corydon has called them \"enemies.\"Nevertheless, DR has paid for over 100 advertisements on Facebook and Instagram",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/corydon-har-kaldt-dem-fjender-alligevel-har-dr-betalt-for-over-100-reklamer-paa-facebook-og-instagram?referrer=RSS",
+        "published_date": "2026-05-29 19:51:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Judge orders Trump's name removed from cultural institution",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dommer-beordrer-trumps-navn-fjernet-fra-kulturinstitution",
+        "published_date": "2026-05-29 19:31:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "DR got to play AI song instead of McCartney",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dr-kom-til-at-spille-ai-sang-i-stedet-for-mccartney?referrer=RSS",
+        "published_date": "2026-05-29 19:30:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Putin: I have no idea about that drone",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/putin-jeg-aner-intet-om-den-drone",
+        "published_date": "2026-05-29 16:27:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Famous Italian bull gets his testicles regenerated",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/beroemt-italiensk-tyr-faar-genskabt-sine-testikler",
+        "published_date": "2026-05-29 15:42:04",
+        "category": "Local Events"
+    },
+    {
         "title": "Iran posing a growing terror threat in Denmark according to spy agency",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260529/iran-posing-a-growing-terror-threat-in-denmark-according-to-spy-agency",
@@ -361,6 +452,20 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260529/denmarks-queen-margrethe-leaves-hospital-after-fall-injury",
         "published_date": "2026-05-29 15:23:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Expert Investigations into the spiral case are delayed again",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ekspertundersoegelser-om-spiralsagen-bliver-forsinket-igen",
+        "published_date": "2026-05-29 14:41:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Judge temporarily bans Trump's billion-dollar fund",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dommer-nedlaegger-foreloebigt-forbud-mod-trumps-milliardfond",
+        "published_date": "2026-05-29 14:15:11",
         "category": "Local Events"
     },
     {
@@ -382,111 +487,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/dansk-digter-og-forfatter-er-doed?referrer=RSS",
         "published_date": "2026-05-29 13:39:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Research project to protect endangered porpoises in the Baltic Sea",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/forskningsprojekt-skal-beskytte-truede-marsvin-i-oestersoeen?referrer=RSS",
-        "published_date": "2026-05-29 13:31:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bad news for first-time buyers: New figures show wild development on the housing market in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/daarligt-nyt-til-foerstegangskoeberne-nye-tal-viser-vild-udvikling-paa-boligmarkedet-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-05-29 13:20:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Will try to speed up road work on Artillerivej in Amager",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vil-forsoege-speede-vejarbejde-op-paa-artillerivej-paa-amager",
-        "published_date": "2026-05-29 12:45:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reviewers rave: A \"reminder of McCartney's melodic genius\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/musik/anmelderne-er-ellevilde-en-paamindelse-om-mccartneys-melodiske-geni?referrer=RSS",
-        "published_date": "2026-05-29 12:35:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Americans indicted for billion-dollar fraud are in Denmark for a long trial",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/amerikanere-tiltalt-for-milliardsvindel-er-i-danmark-til-lang-retssag?referrer=RSS",
-        "published_date": "2026-05-29 12:28:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gr\u00f8n removes the Danish rapper from the poster after the verdict",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/groen-fjerner-dansk-rapper-fra-plakaten-efter-dom",
-        "published_date": "2026-05-29 12:17:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Romania expels Russian consul and closes consulate after drone incident",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rumaenien-udviser-russisk-konsul-og-lukker-konsulat-efter-dronehaendelse",
-        "published_date": "2026-05-29 12:10:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Animal Protection says goodbye to the animal welfare label",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dyrenes-beskyttelse-siger-farvel-til-dyrevelfaerdsmaerke",
-        "published_date": "2026-05-29 12:05:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "68-year-old Kurt played up his rent and slept at a gas station for two nights",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/68-aarige-kurt-blev-smidt-ud-af-sin-lejlighed-og-sov-paa-en-tankstation-i-tre-dage?rss",
-        "published_date": "2026-05-29 11:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Are you going to the Great Belt Bridge next week?Traffic affected several times",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skal-du-paa-storebaeltsbroen-i-naeste-uge-trafikken-paavirket-flere-gange",
-        "published_date": "2026-05-29 11:23:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zelenskyj: Drone on Romanian soil originates from Russian attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-drone-paa-rumaensk-jord-stammer-fra-russisk-angreb",
-        "published_date": "2026-05-29 10:55:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Food checks on their way to thousands of families with children",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/foedevarecheck-paa-vej-til-tusindvis-af-boernefamilier",
-        "published_date": "2026-05-29 10:39:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dina Thorslund is boxing for four belts in a WC bang",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dina-thorslund-bokser-om-fire-baelter-i-vm-brag",
-        "published_date": "2026-05-29 09:48:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish James Bond game has sold 1.5 million copies in one day",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-james-bond-spil-har-solgt-1-5-millioner-eksemplarer-paa-et-doegn",
-        "published_date": "2026-05-29 09:22:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "2.5 years in prison for money laundering for former rocker",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/2-5-aars-faengsel-hvidvask-til-tidligere-rocker",
-        "published_date": "2026-05-29 09:17:04",
         "category": "Local Events"
     }
 ]
