@@ -1,5 +1,12 @@
 [
     {
+        "title": "Russia reports drone explosion at Europe's largest nuclear power plant",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rusland-melder-om-droneeksplosion-paa-europas-stoerste-atomkraftvaerk?referrer=RSS",
+        "published_date": "2026-05-30 23:18:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Protest closes major European highway in the Alps",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/protest-lukker-stor-europaeisk-motorvej-i-alperne?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Several European countries are boiling in record high temperatures",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/flere-europaeiske-lande-koger-i-rekordhoeje-temperaturer?referrer=RSS",
-        "published_date": "2026-05-25 23:22:54",
-        "category": "Diplomacy"
+        "title": "Russia accuses Ukraine of drone attack on nuclear power plant",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-beskylder-ukraine-droneangreb-paa-atomkraftvaerk",
+        "published_date": "2026-05-30 20:00:00",
+        "category": "Military"
     },
     {
         "title": "Ukraine has hit a Russian oil depot",
@@ -273,11 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "The military joins the large search for the two-year-old in Sweden",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/militaeret-slutter-sig-til-stor-eftersoegning-af-toaarig-i-sverige?referrer=RSS",
-        "published_date": "2026-05-24 21:27:49",
-        "category": "Military"
+        "title": "Zelenskyy reports attacks on oil facilities 500 kilometers from the border",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-melder-om-angreb-paa-olieanlaeg-500-kilometer-fra-graensen",
+        "published_date": "2026-05-30 12:26:44",
+        "category": "Energy"
     },
     {
         "title": "Large projects can wait up to ten years for connection to the electricity grid",
@@ -312,13 +319,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/udsigt-til-aftale-mellem-iran-og-usa-faar-oliepriserne-til-falde",
         "published_date": "2026-05-25 02:38:00",
-        "category": "Energy"
-    },
-    {
-        "title": "One killed and several injured in explosion at oil and gas plant in Hungary",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-draebt-og-flere-saaret-i-eksplosion-paa-olie-og-gasanlaeg-i-ungarn?referrer=RSS",
-        "published_date": "2026-05-22 13:11:51",
         "category": "Energy"
     },
     {
@@ -364,143 +364,143 @@
         "category": "Economy"
     },
     {
+        "title": "Arsenal captain wants to lift players after brutal final finish",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/arsenal-anfoerer-vil-loefte-spillerne-efter-brutal-finaleafslutning?referrer=RSS",
+        "published_date": "2026-05-30 23:26:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lidegaard after three days of negotiations: Good moves have been made",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/lidegaard-efter-tre-dages-forhandlinger-der-er-blevet-taget-gode-ryk?referrer=RSS",
+        "published_date": "2026-05-30 22:40:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thousands of officers deal with riots in Paris after football triumph",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tusindvis-af-betjente-haandterer-optoejer-i-paris-efter-fodboldtriumf?referrer=RSS",
+        "published_date": "2026-05-30 22:32:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump again shares a picture of himself over Greenland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-deler-igen-billede-af-sig-selv-over-groenland",
+        "published_date": "2026-05-30 21:45:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump once again shares a picture with greetings to Greenland",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-deler-endnu-engang-billede-med-hilsen-til-groenland?referrer=RSS",
+        "published_date": "2026-05-30 21:38:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cruise ship allowed to sail again after hantavirus outbreak",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krydstogtskib-faar-lov-til-at-sejle-igen-efter-udbrud-af-hantavirus?referrer=RSS",
+        "published_date": "2026-05-30 21:04:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Excellent Finnish period secures semi-final win over Canada",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fremragende-finsk-periode-sikrer-semifinalesejr-over-canada?referrer=RSS",
+        "published_date": "2026-05-30 20:36:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "PSG coach: Title defense is bigger than first CL",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/psg-traener-titelforsvar-er-stoerre-end-foerste-cl?referrer=RSS",
+        "published_date": "2026-05-30 20:33:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Apartment building is on fire in Hobro - citizens should close doors and windows",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/etageejendom-braender-i-hobro-borgere-boer-lukke-doere-og-vinduer?referrer=RSS",
+        "published_date": "2026-05-30 20:08:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Agriculture calls the national spray ban \"in clear violation of the agreement\" - but rejects the exit from the green tripartite",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/landbruget-kalder-nationalt-sproejteforbud-i-aabenlys-strid-med-aftalen--men-afviser-exit-fra-groen-trepart?referrer=RSS",
+        "published_date": "2026-05-30 19:30:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "US fires missile and damages ship headed for Iranian port",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-affyrer-missil-og-beskadiger-skib-med-kurs-mod-iransk-havn",
+        "published_date": "2026-05-30 18:52:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "WHO head visits Ebola-affected province in DR Congo",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/who-chef-besoeger-ebolaramt-provins-i-dr-congo",
+        "published_date": "2026-05-30 18:05:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man dies of cardiac arrest during a police operation",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-doed-af-hjertestop-under-en-politiaktion",
+        "published_date": "2026-05-30 17:23:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Italy cancels Kanye West concert over security concerns",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/italien-aflyser-kanye-west-koncert-af-sikkerhedshensyn",
+        "published_date": "2026-05-30 17:09:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish orienteer grabs World Cup silver",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansk-orienteringsloeber-napper-world-cup-soelv",
+        "published_date": "2026-05-30 16:55:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norway's hockey men smoke through the ice and are out of the World Cup",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/norges-hockeyherrer-ryger-gennem-isen-og-er-ude-af-vm",
+        "published_date": "2026-05-30 16:09:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Apartment building on fire in Hobro - police call for doors and windows to be closed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/etageejendom-braender-i-hobro-politi-opfordrer-til-lukke-doere-og-vinduer",
+        "published_date": "2026-05-30 15:09:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist released after fatal accident in which passenger died",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/motorcyklist-loesladt-efter-doedsulykke-hvor-passager-omkom",
+        "published_date": "2026-05-30 14:16:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Medical Association has found its new chairman",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/laegeforeningen-har-fundet-sin-nye-formand",
+        "published_date": "2026-05-30 13:43:12",
+        "category": "Local Events"
+    },
+    {
         "title": "Liverpool fires Arne Slot after bad season",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/liverpool-fyrer-arne-slot-efter-skidt-saeson?referrer=RSS",
         "published_date": "2026-05-30 11:52:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Power director calls guard with gun after 14 thefts in one and the same store",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/power-direktoer-raaber-vagt-i-gevaer-efter-14-tyverier-i-en-og-samme-butik",
-        "published_date": "2026-05-30 11:40:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish mixed doubles excels in the final in Singapore",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-mixeddouble-storspiller-sig-i-finale-i-singapore?referrer=RSS",
-        "published_date": "2026-05-30 11:36:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "71-year-old Lars bet everything in Egypt: Then he became homeless",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/71-aarige-lars-satsede-alt-i-egypten-saa-blev-han-hjemloes?rss",
-        "published_date": "2026-05-30 11:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aarhus Pride fills the city with rainbow flags and diversity",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/aarhus-pride-fylder-byen-med-regnbueflag-og-mangfoldighed?referrer=RSS",
-        "published_date": "2026-05-30 11:19:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "We are facing perhaps the greatest discovery in world history.We just have to grease the packed lunch first",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/vi-staar-overfor-verdenshistoriens-maaske-stoerste-opdagelse-vi-skal-bare-lige-smoere-madpakke-foerst?referrer=RSS",
-        "published_date": "2026-05-30 11:07:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parts of the mountain pass between Austria and Italy are closed due to protest",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dele-af-bjergpas-mellem-oestrig-og-italien-er-spaerret-grundet-protest",
-        "published_date": "2026-05-30 10:59:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aarhus Pride starts today",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/aarhus-pride-loeber-af-stablen-i-dag",
-        "published_date": "2026-05-30 10:42:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "At one crucial point in the government negotiations, Mette Frederiksen is about to lose control",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/paa-et-afgoerende-punkt-i-regeringsforhandlingerne-kommer-mette-frederiksen-lige-om-lidt-til-at-miste-kontrollen?referrer=RSS",
-        "published_date": "2026-05-30 10:38:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Martin Thorborg broke out of the prison he had built himself.You can do that too",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/martin-thorborg-broed-ud-af-det-faengsel-han-selv-havde-bygget-det-kan-du-ogsaa?referrer=RSS",
-        "published_date": "2026-05-30 10:26:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "The humpback whale Timmy has been rescued at Anholt",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/pukkelhvalen-timmy-er-blevet-bjaerget-paa-anholt?referrer=RSS",
-        "published_date": "2026-05-30 10:21:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran rejects PET's threat assessment",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-afviser-pet-s-trusselsvurdering",
-        "published_date": "2026-05-30 09:59:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What\u2019s happening in Denmark this week",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260530/on-the-agenda-whats-happening-in-denmark-this-week-2",
-        "published_date": "2026-05-30 09:37:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four more people rescued from cave in Laos",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/yderligere-fire-personer-reddet-ud-af-grotte-i-laos",
-        "published_date": "2026-05-30 09:04:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Munich airport closed after 'suspicious sighting'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lufthavn-i-munchen-lukket-efter-mistaenkelig-observation",
-        "published_date": "2026-05-30 08:08:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "18 people have lost their lives in a truck accident in Afghanistan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/18-personer-har-mistet-livet-i-lastbilulykke-i-afghanistan",
-        "published_date": "2026-05-30 07:32:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Humpback whales are rescued at Anholt",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pukkelhval-bjaerges-paa-anholt",
-        "published_date": "2026-05-30 07:04:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Increased security for a street party in Aarhus after a car hit eight people",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/styrket-sikkerhed-til-gadefest-i-aarhus-efter-bil-ramte-otte-personer",
-        "published_date": "2026-05-30 06:15:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three men killed in US attack on boat",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-maend-draebt-i-amerikansk-angreb-paa-baad",
-        "published_date": "2026-05-30 05:58:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Loved ones fell out: Man stabbed with a knife",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/112/mand-stukket-med-kniv-i-esbjerg-kvinde-anholdt?rss",
-        "published_date": "2026-05-30 05:35:40",
         "category": "Local Events"
     }
 ]
