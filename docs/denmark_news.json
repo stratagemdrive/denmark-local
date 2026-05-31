@@ -1,5 +1,12 @@
 [
     {
+        "title": "First concert in Europe since 2014: Kanye West gathered over 100,000",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/foerste-koncert-i-europa-siden-2014-kanye-west-samlede-over-100-000",
+        "published_date": "2026-05-31 10:51:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Russia reports drone explosion at Europe's largest nuclear power plant",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/rusland-melder-om-droneeksplosion-paa-europas-stoerste-atomkraftvaerk?referrer=RSS",
@@ -133,11 +140,39 @@
         "category": "Diplomacy"
     },
     {
-        "title": "'Absolutely amazing': Heat records in a row broken in Europe",
+        "title": "War in the Middle East - follow live here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/vejr/fuldstaendig-forbloeffende-varmerekorder-paa-stribe-slaaet-i-europa?referrer=RSS",
-        "published_date": "2026-05-26 20:02:15",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/krig-i-mellemoesten--foelg-med-direkte-her-15?referrer=RSS",
+        "published_date": "2026-05-31 11:13:09",
+        "category": "Military"
+    },
+    {
+        "title": "Russia reports attack on nuclear power plant in Zaporizhzhya - Ukraine denies",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-melder-om-angreb-paa-atomkraftvaerk-i-zaporizjzja-ukraine-afviser",
+        "published_date": "2026-05-31 10:11:46",
+        "category": "Military"
+    },
+    {
+        "title": "Germany has sent a new air defense system to Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tyskland-har-sendt-nyt-luftvaernssystem-til-ukraine",
+        "published_date": "2026-05-31 08:44:44",
+        "category": "Military"
+    },
+    {
+        "title": "Israel's defense minister: The Israeli military has taken control of strategic fortress",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israels-forsvarsminister-det-israelske-militaer-har-taget-kontrol-over-strategisk-borg",
+        "published_date": "2026-05-31 08:30:36",
+        "category": "Military"
+    },
+    {
+        "title": "Ukraine has hit targets in several places in Russia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-har-ramt-maal-flere-steder-i-rusland",
+        "published_date": "2026-05-31 08:03:23",
+        "category": "Military"
     },
     {
         "title": "Russia accuses Ukraine of drone attack on nuclear power plant",
@@ -245,39 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "US military conducts attacks in southern Iran",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usas-militaer-udfoerer-angreb-i-det-sydlige-iran?referrer=RSS",
-        "published_date": "2026-05-25 23:47:01",
-        "category": "Military"
-    },
-    {
-        "title": "Rubio has had a conversation with Lavrov about the war in Ukraine",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rubio-har-haft-samtale-med-lavrov-om-krigen-i-ukraine",
-        "published_date": "2026-05-25 23:02:00",
-        "category": "Military"
-    },
-    {
-        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1712?referrer=RSS",
-        "published_date": "2026-05-25 13:07:57",
-        "category": "Military"
-    },
-    {
-        "title": "War in the Middle East - follow live here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/krig-i-mellemoesten--foelg-med-direkte-her-5?referrer=RSS",
-        "published_date": "2026-05-25 13:04:57",
-        "category": "Military"
-    },
-    {
-        "title": "Pope Leo warns against AI weapons",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pave-leo-advarer-mod-ai-vaaben",
-        "published_date": "2026-05-25 11:10:00",
-        "category": "Military"
+        "title": "Jonas traveled 18,000 kilometers away:\u00a0Now guests flock to his cafes",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/aabenraa/jonas-rejste-18-000-kilometer-vaek-nu-stroemmer-gaesterne-til-hans-cafeer?rss",
+        "published_date": "2026-05-31 12:00:00",
+        "category": "Energy"
     },
     {
         "title": "Zelenskyy reports attacks on oil facilities 500 kilometers from the border",
@@ -357,11 +364,123 @@
         "category": "Economy"
     },
     {
-        "title": "The Ministry of Economy expects a slowdown in growth over the next two years",
+        "title": "The moose have good living conditions in North Zealand",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/elgen-har-gode-levevilkaar-i-nordsjaelland?referrer=RSS",
+        "published_date": "2026-05-31 12:00:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nadia Nadim kicks HB K\u00f8ge stumbling close to The Double",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/nadia-nadim-sparker-hb-koege-snublende-taet-paa-the-double?referrer=RSS",
+        "published_date": "2026-05-31 11:54:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The scale of the riots in France after the PSG victory increases",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/oekonomiministeriet-forventer-afdaempning-i-vaekst-de-naeste-aar",
-        "published_date": "2026-05-23 08:26:00",
-        "category": "Economy"
+        "url": "https://www.dr.dk/nyheder/seneste/omfanget-af-optoejerne-i-frankrig-efter-psg-sejr-stiger",
+        "published_date": "2026-05-31 11:38:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pia Olsen Dyhr on negotiations: It's getting brighter, but we're not there yet",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/pia-olsen-dyhr-om-forhandlinger-det-lysner-men-vi-er-ikke-i-maal?referrer=RSS",
+        "published_date": "2026-05-31 11:35:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 36-year-old man is imprisoned in an assault case from South Zealand",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/36-aarig-mand-er-faengslet-i-overfaldssag-fra-sydsjaelland?referrer=RSS",
+        "published_date": "2026-05-31 11:35:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swiatek celebrates his birthday with a surprise exit in the French Open",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/swiatek-fejrer-foedselsdag-med-overraskende-exit-i-french-open?referrer=RSS",
+        "published_date": "2026-05-31 11:27:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"Only here in France does it always end in violence\": Rage and shrugs after wild football night",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kun-her-i-frankrig-ender-det-altid-i-vold-raseri-og-skuldertraek-efter-vild-fodboldnat?referrer=RSS",
+        "published_date": "2026-05-31 11:26:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The latest news on American politics - stay tuned",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-direkte-23?referrer=RSS",
+        "published_date": "2026-05-31 11:16:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about Danish politics - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-med-her-59?referrer=RSS",
+        "published_date": "2026-05-31 11:15:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel raises the flag on a strategic fortress in South Lebanon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/israel-hejser-flaget-paa-strategisk-borg-i-sydlibanon?referrer=RSS",
+        "published_date": "2026-05-31 11:11:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five people are reported dead in the collapsed mine in China",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fem-personer-meldes-doede-i-kollapset-mine-i-kina",
+        "published_date": "2026-05-31 09:56:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heavy rain hampers rescue operation in cave in Laos",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kraftig-regn-haemmer-redningsaktion-i-grotte-i-laos",
+        "published_date": "2026-05-31 07:48:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first episcopal consecration in over ten years takes place in Aarhus today",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/foerste-bispevielse-i-over-ti-aar-finder-sted-i-aarhus-i-dag",
+        "published_date": "2026-05-31 07:30:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "All 11 people confirmed dead after spill at paper mill in USA",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/alle-11-personer-bekraeftet-doede-efter-udslip-paa-papirfabrik",
+        "published_date": "2026-05-31 05:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "US attacks another suspected drug boat - three killed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-angriber-endnu-en-formodet-narkobaad-tre-draebt",
+        "published_date": "2026-05-31 05:24:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "92-year-old was held during a home robbery in Virum",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/92-aarig-blev-holdt-fast-under-hjemmeroeveri-i-virum",
+        "published_date": "2026-05-31 03:51:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Doctors Without Borders is sounding the alarm over the rapid spread of Ebola",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/laeger-uden-graenser-slaar-alarm-over-hurtig-spredning-af-ebola",
+        "published_date": "2026-05-31 02:31:02",
+        "category": "Local Events"
     },
     {
         "title": "Arsenal captain wants to lift players after brutal final finish",
@@ -382,125 +501,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/tusindvis-af-betjente-haandterer-optoejer-i-paris-efter-fodboldtriumf?referrer=RSS",
         "published_date": "2026-05-30 22:32:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump again shares a picture of himself over Greenland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-deler-igen-billede-af-sig-selv-over-groenland",
-        "published_date": "2026-05-30 21:45:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump once again shares a picture with greetings to Greenland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-deler-endnu-engang-billede-med-hilsen-til-groenland?referrer=RSS",
-        "published_date": "2026-05-30 21:38:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cruise ship allowed to sail again after hantavirus outbreak",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/krydstogtskib-faar-lov-til-at-sejle-igen-efter-udbrud-af-hantavirus?referrer=RSS",
-        "published_date": "2026-05-30 21:04:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Excellent Finnish period secures semi-final win over Canada",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fremragende-finsk-periode-sikrer-semifinalesejr-over-canada?referrer=RSS",
-        "published_date": "2026-05-30 20:36:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "PSG coach: Title defense is bigger than first CL",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/psg-traener-titelforsvar-er-stoerre-end-foerste-cl?referrer=RSS",
-        "published_date": "2026-05-30 20:33:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Apartment building is on fire in Hobro - citizens should close doors and windows",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/etageejendom-braender-i-hobro-borgere-boer-lukke-doere-og-vinduer?referrer=RSS",
-        "published_date": "2026-05-30 20:08:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Agriculture calls the national spray ban \"in clear violation of the agreement\" - but rejects the exit from the green tripartite",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/landbruget-kalder-nationalt-sproejteforbud-i-aabenlys-strid-med-aftalen--men-afviser-exit-fra-groen-trepart?referrer=RSS",
-        "published_date": "2026-05-30 19:30:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "US fires missile and damages ship headed for Iranian port",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-affyrer-missil-og-beskadiger-skib-med-kurs-mod-iransk-havn",
-        "published_date": "2026-05-30 18:52:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "WHO head visits Ebola-affected province in DR Congo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/who-chef-besoeger-ebolaramt-provins-i-dr-congo",
-        "published_date": "2026-05-30 18:05:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man dies of cardiac arrest during a police operation",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-doed-af-hjertestop-under-en-politiaktion",
-        "published_date": "2026-05-30 17:23:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Italy cancels Kanye West concert over security concerns",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/italien-aflyser-kanye-west-koncert-af-sikkerhedshensyn",
-        "published_date": "2026-05-30 17:09:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish orienteer grabs World Cup silver",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-orienteringsloeber-napper-world-cup-soelv",
-        "published_date": "2026-05-30 16:55:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norway's hockey men smoke through the ice and are out of the World Cup",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norges-hockeyherrer-ryger-gennem-isen-og-er-ude-af-vm",
-        "published_date": "2026-05-30 16:09:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Apartment building on fire in Hobro - police call for doors and windows to be closed",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/etageejendom-braender-i-hobro-politi-opfordrer-til-lukke-doere-og-vinduer",
-        "published_date": "2026-05-30 15:09:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorcyclist released after fatal accident in which passenger died",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/motorcyklist-loesladt-efter-doedsulykke-hvor-passager-omkom",
-        "published_date": "2026-05-30 14:16:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Medical Association has found its new chairman",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/laegeforeningen-har-fundet-sin-nye-formand",
-        "published_date": "2026-05-30 13:43:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Liverpool fires Arne Slot after bad season",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/liverpool-fyrer-arne-slot-efter-skidt-saeson?referrer=RSS",
-        "published_date": "2026-05-30 11:52:44",
         "category": "Local Events"
     }
 ]
