@@ -1,5 +1,12 @@
 [
     {
+        "title": "The EU is close to an agreement on the return of rejected asylum seekers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/eu-er-taet-paa-aftale-om-tilbagesendelse-af-afviste-asylsoegere?referrer=RSS",
+        "published_date": "2026-06-01 15:43:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "European leaders urge Israel to step down in Lebanon",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/europaeiske-ledere-opfordrer-israel-til-nedtrapning-i-libanon",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Europe heatwave a 'brutal reminder' of climate change",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260527/europe-heatwave-a-brutal-reminder-of-climate-change",
-        "published_date": "2026-05-27 15:22:09",
-        "category": "Diplomacy"
+        "title": "US military repels missile attack in Kuwait",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-s-militaer-afvaerger-missilangreb-i-kuwait",
+        "published_date": "2026-06-01 12:17:33",
+        "category": "Military"
     },
     {
         "title": "War in the Middle East - follow live here",
@@ -273,11 +280,18 @@
         "category": "Military"
     },
     {
-        "title": "Iran accuses the US of breaking the ceasefire",
+        "title": "The power is back in Roskilde",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-beskylder-usa-bryde-vaabenhvile",
-        "published_date": "2026-05-26 12:20:16",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/8-000-kunder-mangler-stroem-i-roskilde",
+        "published_date": "2026-06-01 14:10:47",
+        "category": "Energy"
+    },
+    {
+        "title": "The price of a barrel of oil is rising",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/prisen-paa-en-toende-olie-stiger",
+        "published_date": "2026-06-01 08:46:22",
+        "category": "Energy"
     },
     {
         "title": "Energy policy security here and now, rather than fossil air castles",
@@ -371,143 +385,143 @@
         "category": "Economy"
     },
     {
-        "title": "DSB is considering fewer and slower trains to get more trains on time",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dsb-overvejer-faerre-og-langsommere-tog-for-at-faa-flere-tog-til-tiden?referrer=RSS",
-        "published_date": "2026-05-31 23:49:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Right-wing outsider narrowly wins the first round of elections in Colombia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hoejrefloejs-outsider-faar-kneben-sejr-i-foerste-valgrunde-i-colombia?referrer=RSS",
-        "published_date": "2026-05-31 23:26:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Staircase evacuated after fire in apartment in Copenhagen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/opgang-evakueret-efter-brand-i-lejlighed-i-koebenhavn",
-        "published_date": "2026-05-31 23:03:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Staircase evacuated after fire in apartment in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/opgang-evakueret-efter-brand-i-lejlighed-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-05-31 22:50:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several women are reported killed in an Israeli attack in Lebanon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/flere-kvinder-meldes-draebt-i-israelsk-angreb-i-libanon?referrer=RSS",
-        "published_date": "2026-05-31 22:28:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: Iran reopens several underground missile facilities despite attacks",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/medie-iran-genaabner-flere-underjordiske-missilanlaeg-trods-angreb?referrer=RSS",
-        "published_date": "2026-05-31 21:36:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Enhedslisten sees the finish line approaching in government negotiations",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/enhedslisten-ser-maalstregen-naerme-sig-i-regeringsforhandlinger?referrer=RSS",
-        "published_date": "2026-05-31 21:36:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Finland takes World Cup gold after overtime drama against Switzerland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/finland-tager-vm-guld-efter-overtidsdrama-mod-schweiz?referrer=RSS",
-        "published_date": "2026-05-31 21:19:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alarm failed: Patient assaulted and injured several employees at hospital in Aalborg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/alarm-svigtede-patient-overfaldt-og-skadede-flere-ansatte-paa-hospital-i-aarhus",
-        "published_date": "2026-05-31 20:24:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two men in Brazil are suspected of being infected with Ebola",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maend-i-brasilien-mistaenkes-ebola-smitte",
-        "published_date": "2026-05-31 19:39:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flight from Oslo had to turn around after passenger behaved 'inappropriately'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fly-fra-oslo-maatte-vende-om-efter-passager-opfoerte-sig-upassende",
-        "published_date": "2026-05-31 17:47:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least 46 have been killed in an explosion in Myanmar",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mindst-46-er-draebt-ved-eksplosion-i-myanmar",
-        "published_date": "2026-05-31 17:05:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Odense City Half: See the huge photo gallery from the sold-out half marathon",
+        "title": "Are there new stars on the way?Follow the Michelin award here",
         "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/odense/odense-city-half-se-det-kaempestore-fotogalleri-fra-udsolgt-halvmaraton?rss",
-        "published_date": "2026-05-31 16:01:44",
+        "url": "https://fyens.dk/kultur/er-der-nye-stjerner-paa-vej-foelg-michelin-uddelingen-her?rss",
+        "published_date": "2026-06-01 17:50:00",
         "category": "Local Events"
     },
     {
-        "title": "The police are focusing on security during the Jewish festival",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-har-fokus-paa-sikkerheden-under-joedisk-festival",
-        "published_date": "2026-05-31 14:46:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hurdler breaks Danish record and qualifies for EC",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/haekkeloeber-slaar-dansk-rekord-og-kvalificerer-sig-til-em",
-        "published_date": "2026-05-31 14:33:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Normal radiation levels measured at Zaporizjzja power plant after drone strike",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/normale-straalingsniveauer-maalt-paa-zaporizjzja-kraftvaerk-efter-dronenedslag",
-        "published_date": "2026-05-31 13:51:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The moose have good living conditions in North Zealand",
+        "title": "DSB has paid out 40 million in compensation to travelers in 2026",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/elgen-har-gode-levevilkaar-i-nordsjaelland?referrer=RSS",
-        "published_date": "2026-05-31 12:00:47",
+        "url": "https://www.berlingske.dk/danmark/dsb-har-i-2026-udbetalt-40-millioner-i-kompensation-til-rejsende?referrer=RSS",
+        "published_date": "2026-06-01 16:28:47",
         "category": "Local Events"
     },
     {
-        "title": "Nadia Nadim kicks HB K\u00f8ge stumbling close to The Double",
+        "title": "Controversial extremist may be extradited to Germany",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/nadia-nadim-sparker-hb-koege-snublende-taet-paa-the-double?referrer=RSS",
-        "published_date": "2026-05-31 11:54:46",
+        "url": "https://www.berlingske.dk/internationalt/kontroversiel-ekstremist-kan-udleveres-til-tyskland?referrer=RSS",
+        "published_date": "2026-06-01 16:25:49",
         "category": "Local Events"
     },
     {
-        "title": "The scale of the riots in France after the PSG victory increases",
+        "title": "Parties leave negotiations at Marienborg after five hours",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/partier-forlader-forhandlinger-paa-marienborg-efter-fem-timer?referrer=RSS",
+        "published_date": "2026-06-01 16:22:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "This year's Michelin stars are now being awarded - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/gastronomi/nu-uddeles-aarets-michelin-stjerner--foelg-med-her?referrer=RSS",
+        "published_date": "2026-06-01 15:51:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Princess Ingrid Alexandra is returning home from Australia due to the \"family situation\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kongehus/prinsesse-ingrid-alexandra-tager-hjem-fra-australien-af-hensyn-tilfamiliesituationen?referrer=RSS",
+        "published_date": "2026-06-01 15:47:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vingegaard wins Giro d'Italia to complete Grand Tour set",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260601/vingegaard-wins-giro-ditalia-to-complete-grand-tour-set",
+        "published_date": "2026-06-01 15:45:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 6,500 people register for Danish citizenship test",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260601/more-than-6500-people-register-for-danish-citizenship-test",
+        "published_date": "2026-06-01 15:41:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Well-known names come up with new summer ideas in Copenhagen.It's an \"outdoor kinder egg\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/oplevelser/kendte-navne-disker-op-med-ny-sommeride-i-koebenhavn-det-er-et-udendoers-kinderaeg?referrer=RSS",
+        "published_date": "2026-06-01 15:35:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Road work is completed more quickly after an emergency meeting",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/omfanget-af-optoejerne-i-frankrig-efter-psg-sejr-stiger",
-        "published_date": "2026-05-31 11:38:36",
+        "url": "https://www.dr.dk/nyheder/seneste/vejarbejde-afsluttes-hurtigere-efter-hastemoede",
+        "published_date": "2026-06-01 15:24:07",
         "category": "Local Events"
     },
     {
-        "title": "Pia Olsen Dyhr on negotiations: It's getting brighter, but we're not there yet",
+        "title": "DI chief executive fears that a large government circle will become a patchwork",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/pia-olsen-dyhr-om-forhandlinger-det-lysner-men-vi-er-ikke-i-maal?referrer=RSS",
-        "published_date": "2026-05-31 11:35:49",
+        "url": "https://www.berlingske.dk/politik/di-topchef-frygter-at-stor-regeringskreds-bliver-et-kludetaeppe?referrer=RSS",
+        "published_date": "2026-06-01 15:22:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police have responded to a serious traffic accident in East Jutland",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-er-rykket-ud-til-alvorlig-trafikulykke-i-oestjylland?referrer=RSS",
+        "published_date": "2026-06-01 15:18:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hated \"immediate benches\" are removed in Copenhagen: \"People feel that they are being laughed at\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/forhadte-straksbaenke-fjernes-i-koebenhavn-folk-foeler-jo-at-der-bliver-gjort-grin-med-dem?referrer=RSS",
+        "published_date": "2026-06-01 15:15:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rare and old ant colony found in Oksb\u00f8l",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sjaelden-og-gammel-myrekoloni-fundet-i-oksboel",
+        "published_date": "2026-06-01 15:04:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Queen Margrethe cancels the opening of Queen Margrethe II's Bridge",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dronning-margrethe-melder-afbud-til-aabningen-af-dronning-margrethe-ii-s-bro",
+        "published_date": "2026-06-01 14:53:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Don't move on the berries: Strawberry producer hires store detective",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flyt-ikke-paa-baerrene-jordbaerproducent-hyrer-butiksdetektiv",
+        "published_date": "2026-06-01 14:18:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rwanda will not receive compensation for canceled British asylum agreement",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rwanda-faar-ikke-erstatning-aflyst-britisk-asylaftale",
+        "published_date": "2026-06-01 13:53:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "18-year-old woman stabbed at Bispehaven in Aarhus",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/18-aarig-kvinde-stukket-med-kniv-ved-bispehaven-i-aarhus",
+        "published_date": "2026-06-01 13:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ship from the 18th century filled with porcelain found off the coast of Norway",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skib-fra-1700-tallet-fyldt-med-porcelaen-fundet-ud-norges-kyst",
+        "published_date": "2026-06-01 13:44:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "45-year-old woman arrested after stabbing: Police suspect murder",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/45-aarig-kvinde-anholdt-efter-knivstikkeri-politi-mistaenker-drab",
+        "published_date": "2026-06-01 13:39:27",
         "category": "Local Events"
     }
 ]
