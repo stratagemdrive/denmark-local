@@ -1,5 +1,26 @@
 [
     {
+        "title": "How companies in Europe are struggling to recruit workers from outside the EU",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260603/how-companies-in-europe-are-struggling-to-recruit-workers-from-outside-the-eu",
+        "published_date": "2026-06-03 14:49:22",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Pia Olsen Dyhr and the new environment minister had talked about ministerial posts before",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/pia-olsen-dyhr-og-ny-miljoeminister-havde-talt-om-ministerpost-foer?referrer=RSS",
+        "published_date": "2026-06-03 14:24:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Woman declared dead after drowning near Bornholm",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kvinde-erklaeret-doed-efter-drukneulykke-ved-bornholm",
+        "published_date": "2026-06-03 10:05:10",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Record-warm spring in several places in Europe",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/rekordvarmt-foraar-flere-steder-i-europa",
@@ -116,27 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/eu-og-ungarn-indgaar-aftale-om-reformer-og-eu-midler-efter-orban-exit?referrer=RSS",
         "published_date": "2026-05-29 12:53:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Denmark's top foreign official in US for secret Greenland talks",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260529/denmarks-top-foreign-official-in-us-for-secret-greenland-talks",
-        "published_date": "2026-05-29 09:41:30",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Arla gets approval from the EU for a major merger",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/arla-faar-ja-fra-eu-til-storfusion",
-        "published_date": "2026-05-28 17:29:14",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Tech ambassador will stop in two weeks - it is unknown if the post will be filled again",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/tech-ambassadoer-stopper-om-to-uger-uvist-om-posten-genbesaettes?referrer=RSS",
-        "published_date": "2026-05-28 14:23:46",
         "category": "Diplomacy"
     },
     {
@@ -280,6 +280,27 @@
         "category": "Military"
     },
     {
+        "title": "\u00d8stjyske Motorvej is closed in both directions after a gas leak",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/oestjyske-motorvej-er-spaerret-i-begge-retninger-efter-gasudslip?referrer=RSS",
+        "published_date": "2026-06-03 15:16:47",
+        "category": "Energy"
+    },
+    {
+        "title": "Business update:\u00a0Respected think tank warns of risk of skyrocketing oil price",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/dine-penge/business-updaterespekteret-taenketank-varsler-risiko-for-taarnhoej-oliepris?referrer=RSS",
+        "published_date": "2026-06-03 14:18:42",
+        "category": "Energy"
+    },
+    {
+        "title": "The last car has now passed the old Storstr\u00f8msbro",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sidste-bil-har-nu-passeret-den-gamle-storstroemsbro",
+        "published_date": "2026-06-03 09:06:23",
+        "category": "Energy"
+    },
+    {
         "title": "US attacks oil tankers headed for Iranian port",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/usa-angriber-tankskib-med-kurs-mod-iransk-havn",
@@ -334,6 +355,20 @@
         "url": "https://www.dr.dk/nyheder/seneste/stigende-energipriser-presser-tysklands-oekonomi-forventer-begraenset-vaekst",
         "published_date": "2026-05-27 09:08:54",
         "category": "Energy"
+    },
+    {
+        "title": "Financial sector rejoices over new minister:\u00a0We can have a key role in new growth",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/finanssektor-jubler-over-ny-ministervi-kan-faa-noeglerolle-i-ny-vaekst?referrer=RSS",
+        "published_date": "2026-06-03 14:48:09",
+        "category": "Economy"
+    },
+    {
+        "title": "The government has become the Danes' wealthy curling parents - when the children meet opposition, they are ready with the Dankort",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/regeringen-er-blevet-danskernes-velhavende-curlingforaeldre--naar-boernene-moeder-modstand-staar-de-klar-med-dankortet?referrer=RSS",
+        "published_date": "2026-06-03 14:44:46",
+        "category": "Economy"
     },
     {
         "title": "The red clover government will set up 18 commissions and committees - Denmark will be rich in jam jars",
@@ -392,143 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "US resumes cooperation with vaccine alliance amid Ebola outbreak",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-genoptager-samarbejde-med-vaccinealliance-midt-i-ebola-udbrud?referrer=RSS",
-        "published_date": "2026-06-02 23:58:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States confirms isolated attacks against Iran: the air alarm sounds in several countries in the Middle East",
+        "title": "Australia is flooded with illegal cigarettes - nicotine consumption rises 40 percent",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-bekraefter-angreb-mod-iran-luftalarmen-lyder-i-flere-lande-i-mellemoesten",
-        "published_date": "2026-06-02 23:54:27",
+        "url": "https://www.dr.dk/nyheder/seneste/australien-oversvoemmes-af-ulovlige-cigaretter-nikotinforbruget-stiger-40-procent",
+        "published_date": "2026-06-03 15:19:36",
         "category": "Local Events"
     },
     {
-        "title": "Police are investigating a shooting in a residential area in Copenhagen",
+        "title": "German director removes film with scene with topless 13-year-old",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politi-efterforsker-skyderi-i-beboelsesomraade-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-06-02 23:04:51",
+        "url": "https://www.berlingske.dk/internationalt/tysk-instruktoer-fjerner-film-med-scene-med-toploes-13-aarig?referrer=RSS",
+        "published_date": "2026-06-03 15:16:50",
         "category": "Local Events"
     },
     {
-        "title": "Angry protesters attack British police after controversial arrest",
+        "title": "She has made fights a part of her career.Now De Radikale's \"flamboyant\" value warriors must rule the culture",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vrede-demonstranter-angriber-britisk-politi-efter-omstridt-anholdelse?referrer=RSS",
-        "published_date": "2026-06-02 22:45:48",
+        "url": "https://www.berlingske.dk/kultur/hun-har-gjort-slagsmaal-til-en-del-af-sin-karriere-nu-skal-de-radikales-flamboyante-vaerdikriger-styre-kulturen?referrer=RSS",
+        "published_date": "2026-06-03 15:08:34",
         "category": "Local Events"
     },
     {
-        "title": "Trump administration scraps plans for controversial multi-billion dollar fund",
+        "title": "Outgoing M minister criticizes merger of ministries",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-administrationen-skrotter-planer-om-omstridt-milliardfond?referrer=RSS",
-        "published_date": "2026-06-02 21:37:49",
+        "url": "https://www.berlingske.dk/politik/afgaaende-m-minister-kritiserer-sammenlaegning-af-ministerier?referrer=RSS",
+        "published_date": "2026-06-03 15:06:48",
         "category": "Local Events"
     },
     {
-        "title": "The US government drops controversial multibillion-dollar fund for Trump allies",
+        "title": "18-year-old imprisoned in case of fatal grenade throwing in Amager",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/18-aarig-faengslet-i-sag-om-doedeligt-granatkast-paa-amager?referrer=RSS",
+        "published_date": "2026-06-03 14:54:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "18-year-old remanded in custody in case of explosion at Amager",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/den-amerikanske-regering-dropper-omstridt-milliardfond-til-trump-allierede",
-        "published_date": "2026-06-02 21:02:30",
+        "url": "https://www.dr.dk/nyheder/seneste/18-aarig-varetaegtsfaengslet-i-sag-om-eksplosion-paa-amager",
+        "published_date": "2026-06-03 14:51:45",
         "category": "Local Events"
     },
     {
-        "title": "Kessler film adaptation replaces central actor",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/kessler-filmatisering-skifter-central-skuespiller-ud?referrer=RSS",
-        "published_date": "2026-06-02 20:18:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Esbjerg beats Odense and is back on the handball throne",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/esbjerg-tryner-odense-og-er-tilbage-paa-haandboldtronen?referrer=RSS",
-        "published_date": "2026-06-02 20:08:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Could we pensioners, who have to help both our old and infirm parents and our grandchildren, please be allowed to own a car, Lotte Kofoed?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/kunne-vi-pensionister-der-skal-hjaelpe-baade-vores-gamle-og-svage-foraeldre-og-vores-boerneboern-allernaadigst-faa-lov-til-at-eje-en-bil-lotte-kofoed?referrer=RSS",
-        "published_date": "2026-06-02 19:44:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new government will be presented to the king at 10 o'clock",
+        "title": "Three men in custody for attempted murder in gang conflict",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-regering-praesenteres-kongen-klokken-10",
-        "published_date": "2026-06-02 18:08:36",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-maend-varetaegtsfaengslet-drabsforsoeg-i-bandekonflikt",
+        "published_date": "2026-06-03 14:41:55",
         "category": "Local Events"
     },
     {
-        "title": "VAT cuts, more deportations: Denmark's new government unveils key plans",
+        "title": "How the new Danish government's planned reforms will affect foreigners",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260602/denmarks-new-four-leaf-clover-government-unveils-policy-programme",
-        "published_date": "2026-06-02 18:06:07",
+        "url": "https://www.thelocal.dk/20260603/how-will-denmarks-new-government-program-affect-foreigners",
+        "published_date": "2026-06-03 14:21:02",
         "category": "Local Events"
     },
     {
-        "title": "The number of people infected with Ebola has increased to 344, says DR Congo",
+        "title": "Three men charged with attempted murder in relation to the Mid-Jutland conflict",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tre-maend-sigtet-for-drabsforsoeg-i-relation-til-midtjysk-konflikt?referrer=RSS",
+        "published_date": "2026-06-03 14:15:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four men in custody after stabbing",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-ebolasmittede-er-steget-til-344-siger-dr-congo",
-        "published_date": "2026-06-02 16:51:22",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-maend-varetaegtsfaengslet-efter-knivstikkeri",
+        "published_date": "2026-06-03 13:54:54",
         "category": "Local Events"
     },
     {
-        "title": "New correspondents dinner planned in Washington D.C.",
+        "title": "Stop with up to the navel!Updated bathing advice should save more lives",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-korrespondentmiddag-planlaegges-i-washington-d-c",
-        "published_date": "2026-06-02 16:28:27",
+        "url": "https://www.dr.dk/nyheder/seneste/slut-med-ud-til-navlen-opdaterede-baderaad-skal-redde-flere-liv",
+        "published_date": "2026-06-03 13:30:00",
         "category": "Local Events"
     },
     {
-        "title": "Rubio: Iran's new leader is active",
+        "title": "Several officers injured in demonstrations in the UK",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rubio-irans-nye-leder-er-aktiv",
-        "published_date": "2026-06-02 16:27:44",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-betjente-skadet-i-demonstrationer-i-storbritannien",
+        "published_date": "2026-06-03 13:18:05",
         "category": "Local Events"
     },
     {
-        "title": "Two remanded in custody for attempted murder in a case from Nyk\u00f8bing Zealand",
+        "title": "Woman escapes punishment in case of misuse of ministerial car",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/varetaegtsfaengslet-drabsforsoeg-i-sag-fra-nykoebing-sjaelland",
-        "published_date": "2026-06-02 14:56:46",
+        "url": "https://www.dr.dk/nyheder/seneste/kvinde-slipper-straf-i-sag-om-misbrug-af-ministerbil",
+        "published_date": "2026-06-03 11:59:12",
         "category": "Local Events"
     },
     {
-        "title": "Five people arrested after stabbing in Helsing\u00f8r",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/fem-personer-anholdt-efter-knivstikkeri-i-helsingoer?referrer=RSS",
-        "published_date": "2026-06-02 14:30:57",
+        "title": "21 killed in hotel fire in Delhi",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/21-omkommet-i-hotelbrand-i-delhi",
+        "published_date": "2026-06-03 11:33:47",
         "category": "Local Events"
     },
     {
-        "title": "New four-leaf clover government plans to reintroduce major days of prayer",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/ny-firkloeverregering-planlaegger-at-genindfoere-store-bededag?referrer=RSS",
-        "published_date": "2026-06-02 14:26:45",
+        "title": "LISTED: Denmark announces its first ever majority female government",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260603/listed-denmark-announces-its-first-ever-majority-female-government",
+        "published_date": "2026-06-03 10:52:48",
         "category": "Local Events"
     },
     {
-        "title": "The new government will stay the course on immigration policy",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/ny-regering-vil-holde-kursen-paa-udlaendingepolitikken?referrer=RSS",
-        "published_date": "2026-06-02 14:23:52",
+        "title": "The OECD expects lower growth in Denmark this year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/oecd-forventer-lavere-vaekst-i-danmark-i-aar",
+        "published_date": "2026-06-03 09:41:00",
         "category": "Local Events"
     },
     {
-        "title": "Police action against demonstrators has triggered over 120 inquiries",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiaktion-mod-demonstranter-har-udloest-over-120-henvendelser?referrer=RSS",
-        "published_date": "2026-06-02 14:23:49",
+        "title": "New arrest in case of explosion at Amager",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-anholdelse-i-sag-om-eksplosion-paa-amager",
+        "published_date": "2026-06-03 09:20:09",
         "category": "Local Events"
     },
     {
-        "title": "The new government will carry out a \"comprehensive restructuring\" of Danish agriculture: Fewer pigs and more ecology",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/ny-regering-vil-lave-omfattende-omlaegning-af-dansk-landbrug-faerre-grise-og-mere-oekologi?referrer=RSS",
-        "published_date": "2026-06-02 14:15:37",
+        "title": "Three men arrested as part of gang conflict in the Herning area",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-maend-anholdt-som-del-af-bandekonflikt-i-herning-omraadet",
+        "published_date": "2026-06-03 08:57:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260603/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-56",
+        "published_date": "2026-06-03 08:27:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police investigate shooting incident in Aarhus",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-efterforsker-skudepisode-i-aarhus",
+        "published_date": "2026-06-03 08:26:56",
         "category": "Local Events"
     }
 ]
