@@ -1,5 +1,33 @@
 [
     {
+        "title": "Rubio: Greenland is part of Denmark \"for now\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rubio-groenland-er-en-del-af-danmark-for-nu?referrer=RSS",
+        "published_date": "2026-06-03 23:46:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The EU gives the green light to open negotiations on the accession of Ukraine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/eu-giver-groent-lys-til-at-aabne-forhandlinger-om-optagelse-af-ukraine?referrer=RSS",
+        "published_date": "2026-06-03 23:29:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "US Secretary of State: Greenland is part of Denmark - for now",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-s-udenrigsminister-groenland-er-en-del-af-danmark-indtil-videre",
+        "published_date": "2026-06-03 17:58:01",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Five new members of the UN Security Council elected",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fem-nye-medlemmer-af-fn-s-sikkerhedsraad-valgt",
+        "published_date": "2026-06-03 17:26:52",
+        "category": "Diplomacy"
+    },
+    {
         "title": "How companies in Europe are struggling to recruit workers from outside the EU",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260603/how-companies-in-europe-are-struggling-to-recruit-workers-from-outside-the-eu",
@@ -112,32 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Russia calls ambassador home for discussions ahead of elections in Armenia",
+        "title": "The US announces a new ceasefire between Israel and Lebanon",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-kalder-ambassadoer-hjem-til-droeftelser-forud-valg-i-armenien",
-        "published_date": "2026-05-30 09:51:31",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Russia: Not a single proof that there are Russian drones in the EU",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-ikke-et-eneste-bevis-der-er-russiske-droner-i-eu",
-        "published_date": "2026-05-29 13:33:12",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Hungary's new leader demands guarantees before EU yes to Ukraine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ungarns-nye-leder-kraever-garantier-foer-eu-ja-til-ukraine?referrer=RSS",
-        "published_date": "2026-05-29 13:17:48",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The EU and Hungary enter into an agreement on reforms and EU funds after the Orb\u00e1n exit",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eu-og-ungarn-indgaar-aftale-om-reformer-og-eu-midler-efter-orban-exit?referrer=RSS",
-        "published_date": "2026-05-29 12:53:49",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/usa-melder-om-ny-vaabenhvile-mellem-israel-og-libanon",
+        "published_date": "2026-06-03 23:32:16",
+        "category": "Military"
     },
     {
         "title": "USA: Iran has fired missiles at several of the Gulf countries",
@@ -273,11 +280,18 @@
         "category": "Military"
     },
     {
-        "title": "American source: The United States has carried out attacks on Iranian military territory",
+        "title": "The US central bank blames the Iran war for inflation",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amerikansk-kilde-usa-har-udfoert-angreb-paa-iransk-militaeromraade?referrer=RSS",
-        "published_date": "2026-05-27 23:29:49",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/business/usas-centralbank-giver-iran-krigen-skylden-for-inflation?referrer=RSS",
+        "published_date": "2026-06-03 21:21:47",
+        "category": "Energy"
+    },
+    {
+        "title": "France arrests Russian captain of seized oil tanker",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/frankrig-anholder-russisk-kaptajn-paa-beslaglagt-olietankskib",
+        "published_date": "2026-06-03 16:41:45",
+        "category": "Energy"
     },
     {
         "title": "\u00d8stjyske Motorvej is closed in both directions after a gas leak",
@@ -427,6 +441,83 @@
         "category": "Economy"
     },
     {
+        "title": "House of Representatives votes to end war in Iran",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/repraesentanternes-hus-stemmer-for-at-stoppe-krigen-i-iran?referrer=RSS",
+        "published_date": "2026-06-03 22:43:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish debutant wants to leave Austria and play in the top-5 league",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dansk-debutant-vil-vaek-fra-oestrig-og-spille-i-top-5-liga?referrer=RSS",
+        "published_date": "2026-06-03 21:38:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Filip J\u00f8rgensen gives the national coach a luxury problem in the cage",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/filip-joergensen-giver-landstraener-luksusproblem-i-buret?referrer=RSS",
+        "published_date": "2026-06-03 21:18:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The reopened Storeb\u00e6ltsbro attracts long queues",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/genaabnet-storebaeltsbro-traekker-lang-koe-efter-sig?referrer=RSS",
+        "published_date": "2026-06-03 21:09:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Great Belt Bridge is now open in both directions again",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/storebaeltsbroen-er-nu-aaben-i-begge-retninger-igen",
+        "published_date": "2026-06-03 21:06:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "French Open final gets Italian participation despite Sinner exit",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/french-open-finale-faar-italiensk-deltagelse-trods-sinner-exit?referrer=RSS",
+        "published_date": "2026-06-03 21:06:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump believes in progress in talks with Iran over the weekend",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-tror-paa-fremskridt-i-forhandlinger-med-iran-i-weekenden?referrer=RSS",
+        "published_date": "2026-06-03 20:59:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Arrested for burning migrants to death in van in Italy",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/anholdt-braende-migranter-ihjel-i-varevogn-i-italien",
+        "published_date": "2026-06-03 20:03:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scientists make sourdough from yeast from the waterfall mummy",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/forskere-laver-surdej-af-gaer-fra-fossen-mumie",
+        "published_date": "2026-06-03 19:24:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swedish election promise: Will let 18-year-olds buy wine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/svensk-valgloefte-vil-lade-18-aarige-koebe-vin",
+        "published_date": "2026-06-03 16:13:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chairman of Agriculture on lack of Minister of Agriculture: 'Completely strange'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/landbrugsformand-om-manglende-landbrugsminister-helt-maerkvaerdigt",
+        "published_date": "2026-06-03 16:12:17",
+        "category": "Local Events"
+    },
+    {
         "title": "Australia is flooded with illegal cigarettes - nicotine consumption rises 40 percent",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/australien-oversvoemmes-af-ulovlige-cigaretter-nikotinforbruget-stiger-40-procent",
@@ -487,83 +578,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/tre-maend-sigtet-for-drabsforsoeg-i-relation-til-midtjysk-konflikt?referrer=RSS",
         "published_date": "2026-06-03 14:15:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four men in custody after stabbing",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-maend-varetaegtsfaengslet-efter-knivstikkeri",
-        "published_date": "2026-06-03 13:54:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Stop with up to the navel!Updated bathing advice should save more lives",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/slut-med-ud-til-navlen-opdaterede-baderaad-skal-redde-flere-liv",
-        "published_date": "2026-06-03 13:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several officers injured in demonstrations in the UK",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-betjente-skadet-i-demonstrationer-i-storbritannien",
-        "published_date": "2026-06-03 13:18:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman escapes punishment in case of misuse of ministerial car",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kvinde-slipper-straf-i-sag-om-misbrug-af-ministerbil",
-        "published_date": "2026-06-03 11:59:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "21 killed in hotel fire in Delhi",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/21-omkommet-i-hotelbrand-i-delhi",
-        "published_date": "2026-06-03 11:33:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "LISTED: Denmark announces its first ever majority female government",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260603/listed-denmark-announces-its-first-ever-majority-female-government",
-        "published_date": "2026-06-03 10:52:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The OECD expects lower growth in Denmark this year",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/oecd-forventer-lavere-vaekst-i-danmark-i-aar",
-        "published_date": "2026-06-03 09:41:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "New arrest in case of explosion at Amager",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-anholdelse-i-sag-om-eksplosion-paa-amager",
-        "published_date": "2026-06-03 09:20:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three men arrested as part of gang conflict in the Herning area",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-maend-anholdt-som-del-af-bandekonflikt-i-herning-omraadet",
-        "published_date": "2026-06-03 08:57:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260603/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-56",
-        "published_date": "2026-06-03 08:27:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police investigate shooting incident in Aarhus",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-efterforsker-skudepisode-i-aarhus",
-        "published_date": "2026-06-03 08:26:56",
         "category": "Local Events"
     }
 ]
