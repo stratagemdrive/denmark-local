@@ -357,13 +357,6 @@
         "category": "Energy"
     },
     {
-        "title": "Large projects can wait up to ten years for connection to the electricity grid",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/store-projekter-kan-vente-op-til-ti-aar-paa-tilslutning-til-elnettet?referrer=RSS",
-        "published_date": "2026-05-27 13:58:46",
-        "category": "Energy"
-    },
-    {
         "title": "Financial sector rejoices over new minister:\u00a0We can have a key role in new growth",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/finanssektor-jubler-over-ny-ministervi-kan-faa-noeglerolle-i-ny-vaekst?referrer=RSS",
@@ -427,10 +420,129 @@
         "category": "Economy"
     },
     {
+        "title": "The US imposes sanctions on Cuba's president and several others",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-indfoerer-sanktioner-mod-cubas-praesident-og-flere-andre?referrer=RSS",
+        "published_date": "2026-06-04 23:25:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump ditches anniversary concerts and puts himself on the poster",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-dropper-jubilaeumskoncerter-og-saetter-sig-selv-paa-plakaten?referrer=RSS",
+        "published_date": "2026-06-04 23:13:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iranian-French Persepolis author dead at age 56",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iransk-fransk-persepolis-forfatter-doed-i-en-alder-af-56-aar?referrer=RSS",
+        "published_date": "2026-06-04 23:06:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump ditches anniversary concerts and puts himself on the poster",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-dropper-jubilaeumskoncerter-og-saetter-sig-selv-paa-plakaten",
+        "published_date": "2026-06-04 22:50:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "FACTS: Ten years of Danish champions in men's handball",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fakta-ti-aars-danmarksmestre-i-herrehaandbold-1?referrer=RSS",
+        "published_date": "2026-06-04 20:51:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aalborg Handball takes third DM gold in a row",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/aalborg-haandbold-tager-tredje-dm-guld-paa-stribe?referrer=RSS",
+        "published_date": "2026-06-04 20:39:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "There is a reason for Mette Frederiksen's bombshell in S:\u00a0She loves Peter Hummelgaard",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/der-er-en-grund-til-mette-frederiksens-bombe-i-shun-er-vild-med-peter-hummelgaard?referrer=RSS",
+        "published_date": "2026-06-04 19:37:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zelenskyj in an open letter to Putin: Let's meet",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/zelenskyj-i-aabent-brev-til-putin-lad-os-moedes?referrer=RSS",
+        "published_date": "2026-06-04 19:35:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Charge: 19-year-old paid accomplice for grenade murder",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/sigtelse-19-aarig-betalte-medgerningsmand-for-granatdrab?referrer=RSS",
+        "published_date": "2026-06-04 19:15:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Liverpool bring in successful coach after sacking Slot",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/liverpool-henter-succestraener-efter-fyringen-af-slot?referrer=RSS",
+        "published_date": "2026-06-04 18:42:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mysterious Trump banner has appeared in Copenhagen, but the embassy refuses to be behind it",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kunst/mystisk-trump-banner-er-dukket-op-i-koebenhavn-men-ambassaden-naegter-at-staa-bag?referrer=RSS",
+        "published_date": "2026-06-04 18:41:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "The autopsy reveals that Timmy the whale was a female",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/obduktionen-afsloerer-hvalen-timmy-var-en-hun",
+        "published_date": "2026-06-04 17:21:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israeli ban on prisoner visits rejected",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israelsk-forbud-mod-fangebesoeg-underkendt",
+        "published_date": "2026-06-04 16:31:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two 17-year-olds arrested for stabbing a 16-year-old at school in R\u00f8dovre",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/anholdt-knivstikkeri-ved-skole-i-roedovre",
+        "published_date": "2026-06-04 15:39:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several injured when nose wheel collapsed on plane in Frankfurt",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-kvaestet-da-naesehjul-paa-fly-i-frankfurt-kollapsede",
+        "published_date": "2026-06-04 15:15:40",
+        "category": "Local Events"
+    },
+    {
         "title": "Can you pass this year's Danish citizenship test?",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260604/can-you-pass-this-years-danish-citizenship-test",
         "published_date": "2026-06-04 14:04:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first cloudburst of the year has been recorded north of Randers",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/aarets-foerste-skybrud-er-registreret-nord-randers",
+        "published_date": "2026-06-04 14:01:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crown Prince Christian is appointed second lieutenant",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kronprins-christian-bliver-udnaevnt-til-sekondloejtnant",
+        "published_date": "2026-06-04 13:51:58",
         "category": "Local Events"
     },
     {
@@ -445,125 +557,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/kvindelig-dansk-musiker-faar-betinget-faengsel-for-vold-mod-partner?referrer=RSS",
         "published_date": "2026-06-04 13:44:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why a new Danish government does not mean a restart to citizenship processing",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260604/why-a-new-danish-government-does-not-mean-a-restart-to-citizenship-awards",
-        "published_date": "2026-06-04 13:42:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crown Prince Christian is appointed second lieutenant",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/kronprins-christian-udnaevnes-til-sekondloejtnant?referrer=RSS",
-        "published_date": "2026-06-04 13:41:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mette Frederiksen has ignited a toxic showdown in her own party \u2013 today's stories are selected by Pierre Collignon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mette-frederiksen-har-antaendt-et-giftigt-opgoer-i-sit-eget-parti--dagens-historier-er-udvalgt-af-pierre-collignon?referrer=RSS",
-        "published_date": "2026-06-04 13:34:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norway's Crown Princess is seen arriving at a hospital in Oslo",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/norsk-kronprinsesse-er-set-ankomme-til-hospital-i-oslo?referrer=RSS",
-        "published_date": "2026-06-04 13:28:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The government managed to be in the minority for 25 hours.Then it found cover against an aggressive Messerschmidt",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/regeringen-naaede-at-vaere-i-mindretal-i-25-timer-saa-fandt-den-et-vaern-mod-en-aggressiv-messerschmidt?referrer=RSS",
-        "published_date": "2026-06-04 13:26:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "S\u00f8ren Gade is considering whether he wants to take part in the Afghanistan investigation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/soeren-gade-overvejer-om-han-vil-medvirke-i-afghanistan-udredning?referrer=RSS",
-        "published_date": "2026-06-04 13:24:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Women who sell sex are particularly exposed to violence and abuse",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/kvinder-der-saelger-sex-er-saerligt-udsat-for-vold-og-overgreb?referrer=RSS",
-        "published_date": "2026-06-04 13:17:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "FACTS: Pulmonary fibrosis is an incurable disease",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fakta-lungefibrose-er-en-uhelbredelig-sygdom?referrer=RSS",
-        "published_date": "2026-06-04 13:17:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark performs autopsy on 'Timmy' the whale",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260604/denmark-performs-autopsy-on-timmy-the-whale",
-        "published_date": "2026-06-04 12:41:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman arrested and charged with murder in North Jutland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kvinde-anholdt-og-sigtet-drab-i-nordjylland",
-        "published_date": "2026-06-04 12:29:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another person arrested in case of explosion in Amager",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/endnu-en-anholdt-i-sag-om-eksplosion-paa-amager",
-        "published_date": "2026-06-04 11:59:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six years in prison for driver in fatal accident",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/seks-aars-faengsel-til-foerer-i-doedsulykke",
-        "published_date": "2026-06-04 11:39:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man and his five children retain citizenship after judgment in the Supreme Court",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-og-hans-fem-boern-beholder-statsborgerskab-efter-dom-i-hoejesteret",
-        "published_date": "2026-06-04 10:47:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "South Korean adoptees sue Denmark over right to know birth families",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260604/south-korean-adoptees-sue-denmark-over-right-to-know-birth-families",
-        "published_date": "2026-06-04 10:14:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Thursday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260604/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-43",
-        "published_date": "2026-06-04 08:58:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Underage suspect for attempted arson at mosque",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mindreaarig-mistaenkt-forsoeg-paa-brandstiftelse-ved-moske",
-        "published_date": "2026-06-04 07:52:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorhomes block the view for restaurant guests: Now it's over - here's the solution",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/trafik/autocampere-blokerer-udsigten-for-restaurantgaester-nu-er-det-slut-her-er-loesningen?rss",
-        "published_date": "2026-06-04 07:00:00",
         "category": "Local Events"
     }
 ]
