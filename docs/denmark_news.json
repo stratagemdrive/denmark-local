@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pride for neurodivergents will be held for the first time in Viborg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pride-neurodivergente-afholdes-foerste-gang-i-viborg",
+        "published_date": "2026-06-06 11:25:41",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The US approves the possible sale of billions of missiles to Denmark",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usa-godkender-muligt-milliardsalg-af-missiler-til-danmark?referrer=RSS",
@@ -130,13 +137,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260602/eu-calls-on-nine-european-countries-to-scrap-internal-schengen-border-checks",
         "published_date": "2026-06-02 15:10:21",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "New government will make large loans more expensive: Here the bill will be the biggest",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/dine-penge/ny-regering-vil-goere-store-laan-dyrere-her-bliver-regningen-stoerst?referrer=RSS",
-        "published_date": "2026-06-02 14:26:31",
         "category": "Diplomacy"
     },
     {
@@ -357,6 +357,13 @@
         "category": "Energy"
     },
     {
+        "title": "Amsterdam will increase tourist tax to 20 percent",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/amsterdam-vil-forhoeje-turistskat-til-20-procent?referrer=RSS",
+        "published_date": "2026-06-06 11:59:46",
+        "category": "Economy"
+    },
+    {
         "title": "Biggest price drop for US tech stocks in more than a year",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/stoerste-kursfald-for-amerikanske-tech-aktier-i-mere-end-et-aar?referrer=RSS",
@@ -427,143 +434,143 @@
         "category": "Economy"
     },
     {
-        "title": "The vice president of the United States intervenes in the highly charged debate about the killing of a young Briton",
+        "title": "Iran criticizes the US for visa processing before the World Cup",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usas-vicepraesident-blander-sig-i-hoejspaendt-debat-om-drab-paa-ung-brite?referrer=RSS",
-        "published_date": "2026-06-05 22:56:46",
+        "url": "https://www.berlingske.dk/sport/iran-kritiserer-usa-for-visumbehandling-foer-vm?referrer=RSS",
+        "published_date": "2026-06-06 11:52:44",
         "category": "Local Events"
     },
     {
-        "title": "Trump: Iran has about 20 percent of the country's missiles left",
+        "title": "Swedish king unveils giant moose on national day",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-iran-har-omkring-20-procent-af-landets-missiler-tilbage?referrer=RSS",
-        "published_date": "2026-06-05 22:18:46",
+        "url": "https://www.berlingske.dk/internationalt/svensk-konge-afsloerer-kaempe-elg-paa-nationaldag?referrer=RSS",
+        "published_date": "2026-06-06 11:48:45",
         "category": "Local Events"
     },
     {
-        "title": "Collective and deserved victory shows a great boost to the team",
+        "title": "Man has lost his life in shark attack in Australia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-har-mistet-livet-i-hajangreb-i-australien",
+        "published_date": "2026-06-06 11:26:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "13-year-old climate activist: Yes, we are annoying - but when we can't vote, we have to find other methods",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kollektiv-og-fortjent-sejr-viser-stort-loeft-paa-holdet?referrer=RSS",
-        "published_date": "2026-06-05 20:58:46",
+        "url": "https://www.berlingske.dk/kronikker/13-aarig-klimaaktivist-ja-vi-er-irriterende--men-naar-vi-ikke-kan-stemme-maa-vi-finde-andre-metoder?referrer=RSS",
+        "published_date": "2026-06-06 11:03:42",
         "category": "Local Events"
     },
     {
-        "title": "Goalscorer Fl\u00f8e's indomitability is a dream for his teammates",
+        "title": "The new Ferrari looks like a smart taxi for billionaires \u2013 and that's no accident.Now many fear for the future",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/maalscorer-floees-ukuelighed-er-en-droem-for-holdkammeraterne?referrer=RSS",
-        "published_date": "2026-06-05 20:35:45",
+        "url": "https://www.berlingske.dk/synspunkter/den-nye-ferrari-ligner-en-smart-taxa-for-milliardaerer--og-det-er-ikke-tilfaeldigt-nu-frygter-mange-for-fremtiden?referrer=RSS",
+        "published_date": "2026-06-06 11:03:23",
         "category": "Local Events"
     },
     {
-        "title": "Danish speedway trio stumbles before the final in Manchester",
+        "title": "You are more than what you have lost.DR should remember that for the next round of \"Hotel Romantik\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-speedway-trio-snubler-foer-finalen-i-manchester?referrer=RSS",
-        "published_date": "2026-06-05 20:10:47",
+        "url": "https://www.berlingske.dk/skaerm/du-er-mere-end-det-du-har-mistet-det-boer-dr-huske-til-naeste-omgang-af-hotel-romantik?referrer=RSS",
+        "published_date": "2026-06-06 11:03:16",
         "category": "Local Events"
     },
     {
-        "title": "Atomic Agency reports 'serious incident' at Zaporizjzja plant",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/atomagentur-melder-om-alvorlig-haendelse-ved-zaporizjzja-vaerket",
-        "published_date": "2026-06-05 20:05:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spanish church will be Lego's biggest building set to date",
+        "title": "National coach: Sensation has gone from a dream to a reality",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/spansk-kirke-bliver-legos-stoerste-byggesaet-hidtil?referrer=RSS",
-        "published_date": "2026-06-05 19:11:48",
+        "url": "https://www.berlingske.dk/sport/landstraener-sensation-er-gaaet-fra-droem-til-realistisk?referrer=RSS",
+        "published_date": "2026-06-06 10:47:44",
         "category": "Local Events"
     },
     {
-        "title": "16-year-old Chanel is a 1.g and influencer: She earns a fortune and can buy her own car",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/16-aarige-chanel-er-1-g-er-og-influencer-tjener-styrtende-og-kan-koebe-sin-egen-bil?rss",
-        "published_date": "2026-06-05 19:00:00",
+        "title": "Pope Leo: Sexual abuse is an open wound in the Catholic Church",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/pave-leo-seksuelle-overgreb-er-et-aabent-saar-i-den-katolske-kirke?referrer=RSS",
+        "published_date": "2026-06-06 10:34:44",
         "category": "Local Events"
     },
     {
-        "title": "Almost four years in prison for stealing Romanian gold helmet",
+        "title": "Reports of several killed in Israeli attacks",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/naesten-fire-aars-faengsel-stjaele-rumaensk-guldhjelm",
-        "published_date": "2026-06-05 18:29:25",
+        "url": "https://www.dr.dk/nyheder/seneste/meldinger-om-flere-draebte-i-israelske-angreb",
+        "published_date": "2026-06-06 10:22:03",
         "category": "Local Events"
     },
     {
-        "title": "The number of people infected with Ebola rises to 452 in DR Congo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-ebolasmittede-stiger-til-452-i-dr-congo",
-        "published_date": "2026-06-05 18:23:49",
+        "title": "Her view of children has led to cheers and harsh criticism, but she feels misunderstood: \"I am a supporter of natural consequences\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/hendes-boernesyn-har-foert-til-jubel-og-haard-kritik-men-hun-foeler-sig-misforstaaet-jeg-er-tilhaenger-af-naturlige-konsekvenser?referrer=RSS",
+        "published_date": "2026-06-06 10:18:14",
         "category": "Local Events"
     },
     {
-        "title": "Adviser: Putin has spoken with Gerhard Schr\u00f6der",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/raadgiver-putin-har-talt-med-gerhard-schroder",
-        "published_date": "2026-06-05 17:56:25",
+        "title": "The left wing is hypocritical, while the CIA and Mossad are inept: \"They haven't thought it through completely\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/venstrefloejen-er-hyklerisk-mens-cia-og-mossad-er-uduelige-de-har-ikke-taenkt-det-helt-igennem?referrer=RSS",
+        "published_date": "2026-06-06 10:17:59",
         "category": "Local Events"
     },
     {
-        "title": "Four years after fatal assault: Dutch man remanded in custody",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-aar-efter-doedeligt-overfald-hollandsk-mand-varetaegtsfaengslet",
-        "published_date": "2026-06-05 17:00:18",
+        "title": "Inside Denmark: Why I'm surprised Mette Frederiksen is back as PM",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260606/inside-denmark-why-im-surprised-mette-frederiksen-is-back-as-pm",
+        "published_date": "2026-06-06 10:16:30",
         "category": "Local Events"
     },
     {
-        "title": "No signs of crime after suspicious death in G\u00f8rlev",
+        "title": "The Pope: Sexual abuse is still an open wound",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ingen-tegn-paa-forbrydelse-efter-mistaenkeligt-doedsfald-i-goerlev",
-        "published_date": "2026-06-05 16:07:51",
+        "url": "https://www.dr.dk/nyheder/seneste/paven-seksuelle-overgreb-er-stadig-et-aabent-saar",
+        "published_date": "2026-06-06 09:54:39",
         "category": "Local Events"
     },
     {
-        "title": "Actor Anthony Head has died",
+        "title": "After a 15-year hiatus, Duffy announces a concert",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skuespiller-anthony-head-er-doed",
-        "published_date": "2026-06-05 16:06:28",
+        "url": "https://www.dr.dk/nyheder/seneste/efter-15-aars-pause-annoncerer-duffy-koncert",
+        "published_date": "2026-06-06 09:31:07",
         "category": "Local Events"
     },
     {
-        "title": "Putin rejects Zelensky's proposal for a meeting",
+        "title": "The poison line receives several inquiries about caffeine pills",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/putin-afviser-zelenskyjs-forslag-om-et-moede",
-        "published_date": "2026-06-05 15:36:12",
+        "url": "https://www.dr.dk/nyheder/seneste/giftlinjen-faar-flere-henvendelser-om-koffeinpiller",
+        "published_date": "2026-06-06 08:23:31",
         "category": "Local Events"
     },
     {
-        "title": "The drone report will be published in a few weeks, says the newly appointed minister",
+        "title": "Police circle reports success with new tool against drug trafficking",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/droneredegoerelse-offentliggoeres-i-loebet-af-et-par-uger-siger-nyudnaevnt-minister",
-        "published_date": "2026-06-05 15:17:27",
+        "url": "https://www.dr.dk/nyheder/seneste/politikreds-melder-om-succes-med-nyt-vaerktoej-mod-narkohandel",
+        "published_date": "2026-06-06 07:28:40",
         "category": "Local Events"
     },
     {
-        "title": "Finnish police suspect four people of cable breakage last year",
+        "title": "Russia reports new attack on Saint Petersburg",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/finsk-politi-mistaenker-fire-personer-kabelbrud-sidste-aar",
-        "published_date": "2026-06-05 14:49:11",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-melder-om-nyt-angreb-paa-sankt-petersborg",
+        "published_date": "2026-06-06 07:06:09",
         "category": "Local Events"
     },
     {
-        "title": "Astronauts had to seek shelter due to leaks on space station",
+        "title": "Climate scientists expect up to 70 percent more cloudbursts",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/astronauter-soeger-ly-i-rumfartoej-grundet-laekager-paa-rumstation",
-        "published_date": "2026-06-05 14:34:17",
+        "url": "https://www.dr.dk/nyheder/seneste/klimaforskere-forventer-op-mod-70-procent-flere-skybrud",
+        "published_date": "2026-06-06 07:04:22",
         "category": "Local Events"
     },
     {
-        "title": "Marius Borg H\u00f8iby is refused release to see his mother",
+        "title": "The National Museum rarely receives silver fittings",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-faar-afslag-paa-loesladelse-se-sin-mor",
-        "published_date": "2026-06-05 14:17:16",
+        "url": "https://www.dr.dk/nyheder/seneste/nationalmuseet-faar-sjaeldent-soelvbeslag",
+        "published_date": "2026-06-06 05:01:37",
         "category": "Local Events"
     },
     {
-        "title": "At least 49 died of thirst after truck broke down in the Sahara",
+        "title": "Kuwait's air defense is fending off drone and missile attacks - in Bahrain air alarms are activated",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mindst-49-doede-af-toerst-efter-lastbil-broed-sammen-i-sahara",
-        "published_date": "2026-06-05 14:11:43",
+        "url": "https://www.dr.dk/nyheder/seneste/kuwaits-luftforsvar-er-ved-afvaerge-drone-og-missilangreb",
+        "published_date": "2026-06-06 01:41:21",
         "category": "Local Events"
     }
 ]
