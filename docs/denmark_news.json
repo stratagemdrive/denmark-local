@@ -1,5 +1,40 @@
 [
     {
+        "title": "Leader of pro-EU party declares election victory in Armenia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/leder-af-eu-positivt-parti-erklaerer-valgsejr-i-armenien?referrer=RSS",
+        "published_date": "2026-06-07 23:09:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Major European countries directly support Russia-Ukraine talks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/store-europaeiske-lande-stoetter-direkte-rusland-ukraine-samtaler?referrer=RSS",
+        "published_date": "2026-06-07 22:17:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "New interpretation of Henrik Ibsen's drama is celebrated at \u00c5rets Reumert",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-fortolkning-af-henrik-ibsen-drama-hyldes-ved-aarets-reumert",
+        "published_date": "2026-06-07 21:21:33",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "New interpretation of Henrik Ibsen's drama is celebrated at \u00c5rets Reumert",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/ny-fortolkning-af-henrik-ibsen-drama-hyldes-ved-aarets-reumert?referrer=RSS",
+        "published_date": "2026-06-07 20:38:55",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "FACTS: Here are all recipients of the Reumert of the Year",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/fakta-her-er-alle-modtagere-af-aarets-reumert?referrer=RSS",
+        "published_date": "2026-06-07 20:38:50",
+        "category": "Diplomacy"
+    },
+    {
         "title": "New GPS transmitter on stork chicks will tell why chicks die",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/ny-gps-sender-paa-storkeunger-skal-fortaelle-hvorfor-unger-doer?referrer=RSS",
@@ -105,39 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "US Secretary of State: Greenland is part of Denmark - for now",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-s-udenrigsminister-groenland-er-en-del-af-danmark-indtil-videre",
-        "published_date": "2026-06-03 17:58:01",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Five new members of the UN Security Council elected",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fem-nye-medlemmer-af-fn-s-sikkerhedsraad-valgt",
-        "published_date": "2026-06-03 17:26:52",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "How companies in Europe are struggling to recruit workers from outside the EU",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260603/how-companies-in-europe-are-struggling-to-recruit-workers-from-outside-the-eu",
-        "published_date": "2026-06-03 14:49:22",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Pia Olsen Dyhr and the new environment minister had talked about ministerial posts before",
+        "title": "Iran launches wave of missiles at Israel",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/pia-olsen-dyhr-og-ny-miljoeminister-havde-talt-om-ministerpost-foer?referrer=RSS",
-        "published_date": "2026-06-03 14:24:46",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/iran-affyrer-boelge-af-missiler-mod-israel?referrer=RSS",
+        "published_date": "2026-06-07 21:34:49",
+        "category": "Military"
     },
     {
-        "title": "Woman declared dead after drowning near Bornholm",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kvinde-erklaeret-doed-efter-drukneulykke-ved-bornholm",
-        "published_date": "2026-06-03 10:05:10",
-        "category": "Diplomacy"
+        "title": "See all the reactions: Eriksen's collapse goes around the world - he is fine",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sport/kampen-er-aflyst-eriksen-er-ved-bevidsthed-efter-episode-mod-ukraine?rss",
+        "published_date": "2026-06-07 20:00:39",
+        "category": "Military"
     },
     {
         "title": "Two Iranian drones shot down on Saturday, the US military says",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Trump's ban on transgender people in the military is declared illegal",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trumps-forbud-mod-transpersoner-i-militaeret-erklaeres-ulovligt?referrer=RSS",
-        "published_date": "2026-06-01 22:18:48",
-        "category": "Military"
-    },
-    {
-        "title": "US military repels missile attack in Kuwait",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-s-militaer-afvaerger-missilangreb-i-kuwait",
-        "published_date": "2026-06-01 12:17:33",
-        "category": "Military"
-    },
-    {
         "title": "The US central bank blames the Iran war for inflation",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/usas-centralbank-giver-iran-krigen-skylden-for-inflation?referrer=RSS",
@@ -350,13 +350,6 @@
         "category": "Energy"
     },
     {
-        "title": "Zelenskyy reports attacks on oil facilities 500 kilometers from the border",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-melder-om-angreb-paa-olieanlaeg-500-kilometer-fra-graensen",
-        "published_date": "2026-05-30 12:26:44",
-        "category": "Energy"
-    },
-    {
         "title": "Amsterdam will raise the tourist tax",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/amsterdam-vil-haeve-turistskatten",
@@ -420,6 +413,97 @@
         "category": "Economy"
     },
     {
+        "title": "Trump: Israel has no choice but to accept Iran deal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-israel-har-ikke-andet-valg-end-at-acceptere-iran-aftale?referrer=RSS",
+        "published_date": "2026-06-07 23:18:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "DR Congo registers 515 confirmed cases of Ebola",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/dr-congo-registrerer-515-bekraeftede-tilfaelde-af-ebola?referrer=RSS",
+        "published_date": "2026-06-07 22:54:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of confirmed cases of Ebola in DR Congo rises to 515",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-bekraeftede-tilfaelde-af-ebola-i-dr-congo-stiger-til-515",
+        "published_date": "2026-06-07 22:46:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump: Will call Netanyahu and ask him not to retaliate",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-vil-ringe-til-netanyahu-og-bede-ham-ikke-gengaelde-angreb?referrer=RSS",
+        "published_date": "2026-06-07 21:08:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "There are several possible reasons for Eriksen's collapse according to the chief physician",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/der-er-flere-mulige-aarsager-til-eriksens-kollaps-ifoelge-overlaege?referrer=RSS",
+        "published_date": "2026-06-07 20:19:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cash is not a relic of the past \u2013 it is a safeguard against a digitally fragile society",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/kontanter-er-ikke-et-levn-fra-fortiden--de-er-et-vaern-mod-et-digitalt-skroebeligt-samfund?referrer=RSS",
+        "published_date": "2026-06-07 20:13:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Christian Eriksen fell over during the match - is doing well under the circumstances",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/christian-eriksen-faldt-om-under-kamp-har-det-godt-efter-omstaendighederne",
+        "published_date": "2026-06-07 19:06:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran will give a 'painful' response after Israeli airstrike in Beirut",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-vil-give-et-smertefuldt-modsvar-efter-israelsk-luftangreb-i-beirut",
+        "published_date": "2026-06-07 18:50:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police charge 15-year-old with throwing cannonballs at horses",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/toender/politiet-sigter-15-aarig-for-at-kaste-kanonslag-mod-heste?rss",
+        "published_date": "2026-06-07 18:47:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zelenskyy has arrived in the UK",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-er-ankommet-til-storbritannien",
+        "published_date": "2026-06-07 17:42:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three million prescriptions for Wegovy pills in the US in five months",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-millioner-recepter-paa-wegovy-piller-i-usa-paa-fem-maaneder",
+        "published_date": "2026-06-07 17:35:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norwegian crown prince couple have visited Marius H\u00f8iby in prison",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/norske-kronprinspar-har-besoegt-marius-hoeiby-i-faengslet",
+        "published_date": "2026-06-07 16:28:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Israeli attacks hit Lebanon's capital",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nye-israelske-angreb-rammer-libanons-hovedstad",
+        "published_date": "2026-06-07 13:15:33",
+        "category": "Local Events"
+    },
+    {
         "title": "New minister rejects agriculture: The third party lives in the best of health",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/ny-minister-afviser-landbruget-treparten-lever-i-bedste-velgaaende?referrer=RSS",
@@ -466,97 +550,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/traethed-vaekker-foelelser-hos-triumferende-badmintonpar?referrer=RSS",
         "published_date": "2026-06-07 10:01:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The wait for crucial foot treatment for diabetics is growing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/ventetiden-paa-afgoerende-fodbehandling-for-diabetikere-vokser?referrer=RSS",
-        "published_date": "2026-06-07 09:57:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia is accused of attacking the fuel depot at the Chernobyl plant",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rusland-beskyldes-for-at-angribe-braendstofdepot-paa-tjernobyl-vaerket?referrer=RSS",
-        "published_date": "2026-06-07 09:57:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Accident at home costs 33-year-old man his life",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/ulykke-i-hjemmet-koster-33-aarig-mand-livet?referrer=RSS",
-        "published_date": "2026-06-07 09:49:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Northside increases music budget towards next year's festival",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/northside-oeger-musikbudget-frem-mod-naeste-aars-festival",
-        "published_date": "2026-06-07 09:45:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zelenskyj: Russian drone has hit a depot with nuclear fuel",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-russisk-drone-har-ramt-depot-med-nukleart-braendstof",
-        "published_date": "2026-06-07 09:43:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reports of shooting in Israeli town close to West Bank",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/meldinger-om-skyderi-i-israelsk-taet-ved-vestbredden",
-        "published_date": "2026-06-07 09:37:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "On Bornholm, old toilets will be turned into mortar",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/paa-bornholm-skal-gamle-toiletter-blive-til-moertel",
-        "published_date": "2026-06-07 08:46:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The royal family shares a new photo of Prince Joachim",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kongehuset-deler-nyt-billede-af-prins-joachim",
-        "published_date": "2026-06-07 08:26:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "29 darkened traffic lights in Odense are working again",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/29-moerklagte-lyskryds-i-odense-virker-igen",
-        "published_date": "2026-06-07 07:03:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Package boxes for medicine save Bornholmers on travel",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pakkebokse-til-medicin-sparer-bornholmere-rejser",
-        "published_date": "2026-06-07 05:35:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "South Koreans demand re-election due to too few ballots",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sydkoreanere-kraever-omvalg-paa-grund-af-faa-stemmesedler",
-        "published_date": "2026-06-07 05:19:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several people are injured by gunfire near a festival in the United States",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/flere-personer-er-saaret-af-skud-naer-festival-i-usa?referrer=RSS",
-        "published_date": "2026-06-06 23:38:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several people hit by gunfire at American festival",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/adskillige-personer-ramt-af-skud-ved-amerikansk-festival",
-        "published_date": "2026-06-06 23:36:36",
         "category": "Local Events"
     }
 ]
