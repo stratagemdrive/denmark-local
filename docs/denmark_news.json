@@ -1,5 +1,12 @@
 [
     {
+        "title": "New GPS transmitter on stork chicks will tell why chicks die",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/ny-gps-sender-paa-storkeunger-skal-fortaelle-hvorfor-unger-doer?referrer=RSS",
+        "published_date": "2026-06-07 09:42:48",
+        "category": "Diplomacy"
+    },
+    {
         "title": "One of Denmark's biggest economists sees opportunities for Europe: \"We must not become too pessimistic\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/samfund/en-af-danmarks-stoerste-oekonomer-ser-muligheder-for-europavi-skal-ikke-blive-for-pessimistiske?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Record-warm spring in several places in Europe",
+        "title": "Two Iranian drones shot down on Saturday, the US military says",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rekordvarmt-foraar-flere-steder-i-europa",
-        "published_date": "2026-06-02 20:04:07",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/iranske-droner-skudt-ned-loerdag-oplyser-det-amerikanske-militaer",
+        "published_date": "2026-06-07 01:16:05",
+        "category": "Military"
     },
     {
         "title": "North Korea ahead of summit: Our nuclear weapons are non-negotiable",
@@ -270,13 +277,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/usa-s-militaer-afvaerger-missilangreb-i-kuwait",
         "published_date": "2026-06-01 12:17:33",
-        "category": "Military"
-    },
-    {
-        "title": "War in the Middle East - follow live here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/krig-i-mellemoesten--foelg-med-direkte-her-15?referrer=RSS",
-        "published_date": "2026-05-31 11:13:09",
         "category": "Military"
     },
     {
@@ -420,18 +420,130 @@
         "category": "Economy"
     },
     {
-        "title": "Holiday home owners risk a tax slap for overlooked rules when selling",
+        "title": "New minister rejects agriculture: The third party lives in the best of health",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/dine-penge/sommerhusejere-risikerer-skattesmaek-for-overset-regel-ved-salg?referrer=RSS",
-        "published_date": "2026-05-30 11:33:37",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/politik/ny-minister-afviser-landbruget-treparten-lever-i-bedste-velgaaende?referrer=RSS",
+        "published_date": "2026-06-07 12:00:55",
+        "category": "Local Events"
     },
     {
-        "title": "Private economy letterbox: Do you inherit your half-sister if she dies childless?",
+        "title": "Nigeria's security forces free 360 \u200b\u200bkidnap victims",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/dine-penge/privatoekonomisk-brevkasse-arver-man-sin-halvsoester-hvis-hun-doer-barnloes?referrer=RSS",
-        "published_date": "2026-05-30 10:54:46",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/nigerias-sikkerhedsstyrker-befrier-360-kidnapningsofre?referrer=RSS",
+        "published_date": "2026-06-07 12:00:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Downed catenary slows down trains between the regions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/nedreven-koereledning-bremser-tog-mellem-landsdelene?referrer=RSS",
+        "published_date": "2026-06-07 12:00:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Train traffic between parts of the country affected by downed catenary",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tog-holder-stille-mellem-ringsted-og-slagelse",
+        "published_date": "2026-06-07 11:10:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Citizens warn against \"blood red\" proposal from the government: Will make Copenhageners tenants instead of owners",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/metropol/borgerlige-advarer-mod-blodroedt-forslag-fra-regeringen-vil-goere-koebenhavnerne-til-lejere-i-stedet-for-ejere?referrer=RSS",
+        "published_date": "2026-06-07 10:34:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shortage of ballots prompts South Koreans to demand re-election",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mangel-paa-stemmesedler-faar-sydkoreanere-til-at-kraeve-omvalg?referrer=RSS",
+        "published_date": "2026-06-07 10:08:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fatigue stirs emotions in triumphant badminton pairs",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/traethed-vaekker-foelelser-hos-triumferende-badmintonpar?referrer=RSS",
+        "published_date": "2026-06-07 10:01:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The wait for crucial foot treatment for diabetics is growing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/ventetiden-paa-afgoerende-fodbehandling-for-diabetikere-vokser?referrer=RSS",
+        "published_date": "2026-06-07 09:57:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia is accused of attacking the fuel depot at the Chernobyl plant",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rusland-beskyldes-for-at-angribe-braendstofdepot-paa-tjernobyl-vaerket?referrer=RSS",
+        "published_date": "2026-06-07 09:57:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Accident at home costs 33-year-old man his life",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/ulykke-i-hjemmet-koster-33-aarig-mand-livet?referrer=RSS",
+        "published_date": "2026-06-07 09:49:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Northside increases music budget towards next year's festival",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/northside-oeger-musikbudget-frem-mod-naeste-aars-festival",
+        "published_date": "2026-06-07 09:45:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zelenskyj: Russian drone has hit a depot with nuclear fuel",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-russisk-drone-har-ramt-depot-med-nukleart-braendstof",
+        "published_date": "2026-06-07 09:43:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reports of shooting in Israeli town close to West Bank",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/meldinger-om-skyderi-i-israelsk-taet-ved-vestbredden",
+        "published_date": "2026-06-07 09:37:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "On Bornholm, old toilets will be turned into mortar",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/paa-bornholm-skal-gamle-toiletter-blive-til-moertel",
+        "published_date": "2026-06-07 08:46:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The royal family shares a new photo of Prince Joachim",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kongehuset-deler-nyt-billede-af-prins-joachim",
+        "published_date": "2026-06-07 08:26:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "29 darkened traffic lights in Odense are working again",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/29-moerklagte-lyskryds-i-odense-virker-igen",
+        "published_date": "2026-06-07 07:03:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Package boxes for medicine save Bornholmers on travel",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pakkebokse-til-medicin-sparer-bornholmere-rejser",
+        "published_date": "2026-06-07 05:35:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "South Koreans demand re-election due to too few ballots",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sydkoreanere-kraever-omvalg-paa-grund-af-faa-stemmesedler",
+        "published_date": "2026-06-07 05:19:45",
+        "category": "Local Events"
     },
     {
         "title": "Several people are injured by gunfire near a festival in the United States",
@@ -445,132 +557,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/adskillige-personer-ramt-af-skud-ved-amerikansk-festival",
         "published_date": "2026-06-06 23:36:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "New career journeys await today's university graduates",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentar/nye-karriererejser-venter-vore-dages-universitetsdimittender?referrer=RSS",
-        "published_date": "2026-06-06 20:58:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Politician in Aarhus wants to exclude British band for royal comment",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/politiker-i-aarhus-vil-udelukke-britisk-band-for-kongehus-kommentar?referrer=RSS",
-        "published_date": "2026-06-06 20:25:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "7th-grade student: A class ceiling of 14 students may be able to promote academics, but will go beyond the social",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/7-klasses-elev-et-klasseloft-paa-14-elever-vil-maaske-kunne-fremme-fagligheden-men-vil-gaa-ud-over-det-sociale?referrer=RSS",
-        "published_date": "2026-06-06 20:23:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jepsen Jensen comes second in the final after a great performance",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/jepsen-jensen-bliver-toer-i-finalen-efter-stor-praestation?referrer=RSS",
-        "published_date": "2026-06-06 20:15:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Agriculture & Food: The tripartite agreement no longer exists",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/landbrug-foedevarer-trepartsaftalen-eksisterer-ikke-laengere?referrer=RSS",
-        "published_date": "2026-06-06 19:51:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Ebola outbreak is now the third largest in history.Here's what you need to know",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ebolaudbrud-er-nu-historiens-tredjestoerste-her-er-hvad-du-skal-vide?referrer=RSS",
-        "published_date": "2026-06-06 19:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of organ donors in Norway explodes after the news about Mette-Marit",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antal-organdonorer-i-norge-eksploderer-efter-nyhed-om-mette-marit",
-        "published_date": "2026-06-06 19:26:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "26 arrested after basketball celebration in New York",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/26-anholdt-efter-basketballfejring-i-new-york",
-        "published_date": "2026-06-06 17:36:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "King Charles' nephew has married a nurse",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kong-charles-nevoe-er-blevet-gift-med-sygeplejerske",
-        "published_date": "2026-06-06 16:48:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several arrested in England after demonstrations sparked by stabbings",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-anholdte-i-england-efter-demonstrationer-udloest-af-knivdrab",
-        "published_date": "2026-06-06 14:23:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marius Borg H\u00f8iby gets permission to attend a meeting about his mother's illness",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-faar-tilladelse-til-moede-om-sin-mors-sygdom",
-        "published_date": "2026-06-06 14:16:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Canada bans livestock from Texas after discovery of carnivorous caterpillar",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/canada-forbyder-husdyr-fra-texas-efter-fund-af-koedaedende-larve",
-        "published_date": "2026-06-06 13:50:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sweden's king unveils giant bronze moose",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sveriges-konge-afsloerer-kaempe-bronze-elg",
-        "published_date": "2026-06-06 13:15:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Taylor Swift is now the richest female musician in history",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/taylor-swift-er-nu-den-rigeste-kvindelige-musiker-i-historien",
-        "published_date": "2026-06-06 12:07:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran criticizes the US for visa processing before the World Cup",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/iran-kritiserer-usa-for-visumbehandling-foer-vm?referrer=RSS",
-        "published_date": "2026-06-06 11:52:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish king unveils giant moose on national day",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/svensk-konge-afsloerer-kaempe-elg-paa-nationaldag?referrer=RSS",
-        "published_date": "2026-06-06 11:48:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man has lost his life in shark attack in Australia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-har-mistet-livet-i-hajangreb-i-australien",
-        "published_date": "2026-06-06 11:26:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "13-year-old climate activist: Yes, we are annoying - but when we can't vote, we have to find other methods",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/13-aarig-klimaaktivist-ja-vi-er-irriterende--men-naar-vi-ikke-kan-stemme-maa-vi-finde-andre-metoder?referrer=RSS",
-        "published_date": "2026-06-06 11:03:42",
         "category": "Local Events"
     }
 ]
