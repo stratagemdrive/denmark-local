@@ -1,5 +1,12 @@
 [
     {
+        "title": "He has met Putin 20 times and points to one thing we must remember if we negotiate with Moscow",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/han-har-moedt-putin-20-gange-og-peger-paa-en-ting-vi-skal-huske-hvis-vi-forhandler-med-moskva?referrer=RSS",
+        "published_date": "2026-06-08 19:53:43",
+        "category": "Diplomacy"
+    },
+    {
         "title": "L\u00f8kke maintains his refusal to be interviewed about the Afghanistan investigation",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/loekke-fastholder-sit-nej-til-interview-om-afghanistan-udredning?referrer=RSS",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Still no shortage of jet fuel, EU says",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stadig-ingen-mangel-paa-flybraendstof-siger-eu",
-        "published_date": "2026-06-05 07:37:30",
-        "category": "Diplomacy"
+        "title": "Report: Spending on nuclear weapons reaches record high",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rapport-udgifter-til-atomvaaben-naar-rekordhoejt-niveau?referrer=RSS",
+        "published_date": "2026-06-08 23:30:51",
+        "category": "Military"
+    },
+    {
+        "title": "Zelenskyy counts on American help soon to end the war",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/zelenskyj-regner-med-snarlig-amerikansk-hjaelp-for-at-afslutte-krig?referrer=RSS",
+        "published_date": "2026-06-08 21:34:47",
+        "category": "Military"
     },
     {
         "title": "Ukraine: We have reclaimed 600 square kilometers of land",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "The overnight attack hit military factories in Kyiv, Russia says",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nattens-angreb-ramte-militaerfabrikker-i-kyiv-siger-rusland",
-        "published_date": "2026-06-02 12:15:26",
-        "category": "Military"
-    },
-    {
-        "title": "Kremlin: The war in Ukraine has entered a 'new paradigm'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kreml-krigen-i-ukraine-er-traadt-ind-i-et-nyt-paradigme",
-        "published_date": "2026-06-02 10:20:32",
-        "category": "Military"
-    },
-    {
         "title": "The US central bank blames the Iran war for inflation",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/usas-centralbank-giver-iran-krigen-skylden-for-inflation?referrer=RSS",
@@ -333,13 +333,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/prisen-paa-en-toende-olie-stiger",
         "published_date": "2026-06-01 08:46:22",
-        "category": "Energy"
-    },
-    {
-        "title": "Energy policy security here and now, rather than fossil air castles",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/energipolitisk-sikkerhed-her-og-nu-frem-for-fossile-luftkasteller?referrer=RSS",
-        "published_date": "2026-05-31 21:14:57",
         "category": "Energy"
     },
     {
@@ -406,10 +399,115 @@
         "category": "Economy"
     },
     {
+        "title": "Neymar makes progress after injury and continues World Cup preparation",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/neymar-goer-fremskridt-efter-skade-og-fortsaetter-vm-forberedelse?referrer=RSS",
+        "published_date": "2026-06-08 23:12:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICC chief prosecutor suspended in sexual harassment case",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/icc-chefanklager-suspenderet-i-sag-om-seksuel-chikane",
+        "published_date": "2026-06-08 22:40:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "DR Congo registers 101 Ebola-related deaths",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/dr-congo-registrerer-101-ebolarelaterede-doedsfald?referrer=RSS",
+        "published_date": "2026-06-08 21:34:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bayern star shows World Cup great form in French dress rehearsal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/bayern-stjerne-viser-vm-storform-i-fransk-generalproeve?referrer=RSS",
+        "published_date": "2026-06-08 21:09:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump nominates his former lawyer for attorney general",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-nominerer-sin-tidligere-advokat-til-justitsminister",
+        "published_date": "2026-06-08 21:04:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump: I have warned Netanyahu about resuming Iran war",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-jeg-har-advaret-netanyahu-om-at-genoptage-iran-krig?referrer=RSS",
+        "published_date": "2026-06-08 20:50:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong earthquake near Cuba",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kraftigt-jordskaelv-ved-cuba",
+        "published_date": "2026-06-08 20:25:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police received a report of shots fired at the apartment door",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-har-faaet-anmeldelse-om-skud-mod-lejlighedsdoer?referrer=RSS",
+        "published_date": "2026-06-08 19:53:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Germany and France drop fighter jet project",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tyskland-og-frankrig-dropper-kampflyprojekt?referrer=RSS",
+        "published_date": "2026-06-08 19:30:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Karsten M\u00f8ller Hansen: When the son stole the mother's wedding ring, the father threw him out for the last time",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/karsten-moeller-hansen-da-soennen-stjal-morens-vielsesring-smed-faren-ham-ud-for-sidste-gang?referrer=RSS",
+        "published_date": "2026-06-08 19:28:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Germany and France abandon joint fighter plane project",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tyskland-og-frankrig-opgiver-faelles-kampflyprojekt",
+        "published_date": "2026-06-08 19:13:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "90 Norwegian municipalities say no to the WC bowl",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/90-norske-kommuner-siger-nej-til-vm-skaal",
+        "published_date": "2026-06-08 18:12:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Has your boxwood also been eaten by caterpillars?Remember to sort it correctly at the recycling station",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/er-din-buksbom-ogsaa-blevet-spist-af-larver-husk-sorter-den-korrekt-paa-genbrugsstationen",
+        "published_date": "2026-06-08 15:30:10",
+        "category": "Local Events"
+    },
+    {
         "title": "Denmark to decide on citizenship values check 'by end of year'",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260608/denmark-to-decide-on-citizenship-values-check-by-end-of-year",
         "published_date": "2026-06-08 15:02:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Social Democrats in Copenhagen want Distortion to rotate between several districts",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/socialdemokratiet-i-koebenhavn-vil-have-distortion-til-rotere-mellem-flere-bydele",
+        "published_date": "2026-06-08 15:00:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel's new border closure to Gaza creates fears of a lack of emergency aid",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israels-nye-graenselukning-til-gaza-skaber-frygt-manglende-noedhjaelp",
+        "published_date": "2026-06-08 14:59:02",
         "category": "Local Events"
     },
     {
@@ -438,111 +536,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/hoeiby-tilbage-i-retten-vil-loeslades-for-at-vaere-sammen-med-sin-mor?referrer=RSS",
         "published_date": "2026-06-08 14:22:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crown witness accuses Pandora in court settlement against Kasi-Jesper: \"They didn't want to pay him money\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/kronvidne-belaster-pandora-i-retsopgoer-mod-kasi-jesper-man-oenskede-ikke-at-betale-ham-penge?referrer=RSS",
-        "published_date": "2026-06-08 14:22:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Now 13 people have been given permission to shoot problem wolves",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nu-har-13-personer-faaet-tilladelse-til-skyde-problemulve",
-        "published_date": "2026-06-08 14:13:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jakob Steen Olsen: Hats off to Tivoli - but experienced theater man can't save their revue",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/scene/jakob-steen-olsen-hatten-af-for-tivoli--men-erfaren-teatermand-kan-ikke-redde-deres-revy?referrer=RSS",
-        "published_date": "2026-06-08 13:59:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "'I feel like a hostage': Denmark's foreign residents angered over citizenship freeze",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260608/i-feel-like-a-hostage-foreigners-react-to-denmarks-citizenship-freeze",
-        "published_date": "2026-06-08 13:51:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The telephone connection is back on L\u00e6s\u00f8 after a breakdown",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/telefonforbindelsen-er-tilbage-paa-laesoe-efter-nedbrud?referrer=RSS",
-        "published_date": "2026-06-08 13:46:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sosu helper convicted of assaulting elderly women",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/sosu-hjaelper-doemt-for-overgreb-paa-aeldre-kvinder?referrer=RSS",
-        "published_date": "2026-06-08 13:46:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake in the Philippines claims more lives",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/jordskaelv-i-filippinerne-kraever-flere-doedsofre",
-        "published_date": "2026-06-08 13:43:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Excluded politician's girlfriend is convicted of possession of drugs",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/ekskluderet-politikers-kaereste-doemmes-for-besiddelse-af-stoffer?referrer=RSS",
-        "published_date": "2026-06-08 13:43:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Citizens on L\u00e6s\u00f8 can again call 112",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/borgere-paa-laesoe-kan-igen-ringe-112",
-        "published_date": "2026-06-08 13:42:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "We owe it to the younger generation to see the South Africa that exists \u2013 not the one that once was",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/vi-skylder-den-yngre-generation-at-se-det-sydafrika-der-findes--ikke-det-der-engang-var?referrer=RSS",
-        "published_date": "2026-06-08 13:41:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heavy smoke from fire in S\u00f8borg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kraftig-roeg-fra-brand-i-soeborg",
-        "published_date": "2026-06-08 13:29:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two 17-year-olds remanded in custody for stabbing at Islev School",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/17-aarige-varetaegtsfaengslet-knivstikkeri-ved-islev-skole",
-        "published_date": "2026-06-08 12:54:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "83-year-old in critical condition after collision with man on electric scooter",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/83-aarig-i-kritisk-tilstand-efter-sammenstoed-med-mand-paa-el-loebehjul",
-        "published_date": "2026-06-08 11:27:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "No phone connection on L\u00e6s\u00f8: Can't call 112",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ingen-telefonforbindelse-paa-laesoe-kan-ikke-ringe-112",
-        "published_date": "2026-06-08 10:59:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "19-year-old accused of driving 123 kilometers per hour with drugs in his blood",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-sigtet-koere-123-kilometer-i-timen-med-narko-i-blodet",
-        "published_date": "2026-06-08 10:37:52",
         "category": "Local Events"
     }
 ]
