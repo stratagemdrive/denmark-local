@@ -1,5 +1,26 @@
 [
     {
+        "title": "The EU Commission will ban Russian soldiers from entering the EU",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/eu-kommissionen-vil-forbyde-russiske-soldater-indrejse-i-eu?referrer=RSS",
+        "published_date": "2026-06-09 12:52:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "New EU sanctions package to hit Russian soldiers and crypto",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-eu-sanktionspakke-skal-ramme-russiske-soldater-og-krypto",
+        "published_date": "2026-06-09 12:31:15",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The EU's drug agency warns of new deadly drugs",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-s-narkotikaagentur-advarer-mod-nye-doedbringende-stoffer",
+        "published_date": "2026-06-09 08:47:23",
+        "category": "Diplomacy"
+    },
+    {
         "title": "He has met Putin 20 times and points to one thing we must remember if we negotiate with Moscow",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/han-har-moedt-putin-20-gange-og-peger-paa-en-ting-vi-skal-huske-hvis-vi-forhandler-med-moskva?referrer=RSS",
@@ -119,25 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Concerns raised over air passenger rights in Europe as crunch talks continue",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260605/concerns-raised-over-air-passenger-rights-in-europe-as-crunch-talks-continue",
-        "published_date": "2026-06-05 12:20:57",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Zelenskyy confirms prisoner exchange",
+        "title": "Israeli military urges people to evacuate city in Lebanon",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-bekraefter-fangeudveksling",
-        "published_date": "2026-06-05 12:09:34",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Mette Frederiksen at meeting on new EU countries: 'Important to keep negotiations going'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-til-moede-om-nye-eu-lande-vigtigt-holde-gang-i-forhandlinger",
-        "published_date": "2026-06-05 10:55:49",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/israelsk-militaer-beordrer-folk-til-evakuere-i-i-libanon",
+        "published_date": "2026-06-09 10:28:40",
+        "category": "Military"
     },
     {
         "title": "Report: Spending on nuclear weapons reaches record high",
@@ -273,11 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "At least 18 are reported killed in extensive Russian attacks against Ukraine",
+        "title": "Frederiksberg Municipality sets up a bust of Jytte Abildstr\u00f8m",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mindst-18-meldes-draebt-i-omfattende-russiske-angreb-mod-ukraine?referrer=RSS",
-        "published_date": "2026-06-02 14:26:49",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/danmark/frederiksberg-kommune-opsaetter-buste-af-jytte-abildstroem?referrer=RSS",
+        "published_date": "2026-06-09 12:56:47",
+        "category": "Energy"
     },
     {
         "title": "The US central bank blames the Iran war for inflation",
@@ -329,11 +336,11 @@
         "category": "Energy"
     },
     {
-        "title": "The price of a barrel of oil is rising",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/prisen-paa-en-toende-olie-stiger",
-        "published_date": "2026-06-01 08:46:22",
-        "category": "Energy"
+        "title": "The V-Vice-Chairman must be at the forefront of financial negotiations",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/v-naestformand-skal-staa-i-spidsen-for-oekonomiske-forhandlinger?referrer=RSS",
+        "published_date": "2026-06-09 12:56:51",
+        "category": "Economy"
     },
     {
         "title": "Amsterdam will raise the tourist tax",
@@ -399,143 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "Neymar makes progress after injury and continues World Cup preparation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/neymar-goer-fremskridt-efter-skade-og-fortsaetter-vm-forberedelse?referrer=RSS",
-        "published_date": "2026-06-08 23:12:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICC chief prosecutor suspended in sexual harassment case",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/icc-chefanklager-suspenderet-i-sag-om-seksuel-chikane",
-        "published_date": "2026-06-08 22:40:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "DR Congo registers 101 Ebola-related deaths",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/dr-congo-registrerer-101-ebolarelaterede-doedsfald?referrer=RSS",
-        "published_date": "2026-06-08 21:34:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bayern star shows World Cup great form in French dress rehearsal",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/bayern-stjerne-viser-vm-storform-i-fransk-generalproeve?referrer=RSS",
-        "published_date": "2026-06-08 21:09:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump nominates his former lawyer for attorney general",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-nominerer-sin-tidligere-advokat-til-justitsminister",
-        "published_date": "2026-06-08 21:04:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump: I have warned Netanyahu about resuming Iran war",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-jeg-har-advaret-netanyahu-om-at-genoptage-iran-krig?referrer=RSS",
-        "published_date": "2026-06-08 20:50:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Strong earthquake near Cuba",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kraftigt-jordskaelv-ved-cuba",
-        "published_date": "2026-06-08 20:25:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police received a report of shots fired at the apartment door",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-har-faaet-anmeldelse-om-skud-mod-lejlighedsdoer?referrer=RSS",
-        "published_date": "2026-06-08 19:53:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Germany and France drop fighter jet project",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tyskland-og-frankrig-dropper-kampflyprojekt?referrer=RSS",
-        "published_date": "2026-06-08 19:30:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Karsten M\u00f8ller Hansen: When the son stole the mother's wedding ring, the father threw him out for the last time",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/karsten-moeller-hansen-da-soennen-stjal-morens-vielsesring-smed-faren-ham-ud-for-sidste-gang?referrer=RSS",
-        "published_date": "2026-06-08 19:28:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Germany and France abandon joint fighter plane project",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tyskland-og-frankrig-opgiver-faelles-kampflyprojekt",
-        "published_date": "2026-06-08 19:13:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "90 Norwegian municipalities say no to the WC bowl",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/90-norske-kommuner-siger-nej-til-vm-skaal",
-        "published_date": "2026-06-08 18:12:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Has your boxwood also been eaten by caterpillars?Remember to sort it correctly at the recycling station",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/er-din-buksbom-ogsaa-blevet-spist-af-larver-husk-sorter-den-korrekt-paa-genbrugsstationen",
-        "published_date": "2026-06-08 15:30:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark to decide on citizenship values check 'by end of year'",
+        "title": "How to save on rail travel in Denmark in the summer of 2026",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260608/denmark-to-decide-on-citizenship-values-check-by-end-of-year",
-        "published_date": "2026-06-08 15:02:34",
+        "url": "https://www.thelocal.dk/20260609/how-to-save-on-rail-travel-in-denmark-in-the-summer-of-2026",
+        "published_date": "2026-06-09 15:30:33",
         "category": "Local Events"
     },
     {
-        "title": "The Social Democrats in Copenhagen want Distortion to rotate between several districts",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/socialdemokratiet-i-koebenhavn-vil-have-distortion-til-rotere-mellem-flere-bydele",
-        "published_date": "2026-06-08 15:00:04",
+        "title": "Danish climate council warns climate goal at risk",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260609/danish-climate-council-warns-climate-goal-at-risk",
+        "published_date": "2026-06-09 13:36:34",
         "category": "Local Events"
     },
     {
-        "title": "Israel's new border closure to Gaza creates fears of a lack of emergency aid",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israels-nye-graenselukning-til-gaza-skaber-frygt-manglende-noedhjaelp",
-        "published_date": "2026-06-08 14:59:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Queen Margrethe attends the award ceremony after admission",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dronning-margrethe-deltager-ved-prisuddeling-efter-indlaeggelse",
-        "published_date": "2026-06-08 14:39:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Queen Margrethe attends the award ceremony after admission",
+        "title": "Bus driver charged with carelessly killing two passengers",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dronning-margrethe-deltager-ved-prisuddeling-efter-indlaeggelse?referrer=RSS",
-        "published_date": "2026-06-08 14:36:48",
+        "url": "https://www.berlingske.dk/indland/buschauffoer-sigtet-for-uagtsomt-at-koste-to-passagerer-livet?referrer=RSS",
+        "published_date": "2026-06-09 13:32:47",
         "category": "Local Events"
     },
     {
-        "title": "The Northside festival is moving to get international names on the bill",
+        "title": "Smukfest takes Benny Jamz off the program after judgment",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/northside-festivalen-flytter-for-at-faa-internationale-navne-paa-plakaten?referrer=RSS",
-        "published_date": "2026-06-08 14:26:51",
+        "url": "https://www.berlingske.dk/danmark/smukfest-tager-benny-jamz-af-programmet-efter-dom?referrer=RSS",
+        "published_date": "2026-06-09 13:16:47",
         "category": "Local Events"
     },
     {
-        "title": "H\u00f8iby back in court: Will be released to be with his mother",
+        "title": "How to watch the 2026 World Cup on Danish TV",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260609/how-to-watch-the-2026-world-cup-on-danish-tv",
+        "published_date": "2026-06-09 13:03:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "17-year-old remanded in custody after shooting in Copenhagen",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/17-aarig-varetaegtsfaengslet-efter-skyderi-i-koebenhavn",
+        "published_date": "2026-06-09 12:59:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"The New York Times just dropped a bombshell,\" declared the Fox News host with obvious satisfaction: For the Democrats' high hopes, it didn't look good",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hoeiby-tilbage-i-retten-vil-loeslades-for-at-vaere-sammen-med-sin-mor?referrer=RSS",
-        "published_date": "2026-06-08 14:22:52",
+        "url": "https://www.berlingske.dk/internationalt/the-new-york-times-har-lige-smidt-en-bombe-erklaerede-fox-news-vaerten-med-tydelig-tilfredshed-for-demokraternes-store-haab-saa-det-ikke-godt-ud?referrer=RSS",
+        "published_date": "2026-06-09 12:58:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "The municipality has found a new building for employees after the mold case",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kommune-har-fundet-ny-bygning-til-medarbejdere-efter-skimmelsvamps-sag",
+        "published_date": "2026-06-09 12:51:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "PORTRAIT: A fish bone came close to taking the life of L\u00f8kke's lieutenant",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/portraet-et-fiskeben-var-taet-paa-at-tage-livet-af-loekkes-loejtnant?referrer=RSS",
+        "published_date": "2026-06-09 12:45:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least eight have been killed in an Israeli attack on a historic city in Lebanon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mindst-otte-er-draebt-i-israelsk-angreb-paa-historisk-by-i-libanon?referrer=RSS",
+        "published_date": "2026-06-09 12:45:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nine arrested in operation against suspected West Zealand drug network",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/ni-anholdt-i-aktion-mod-formodet-vestsjaellandsk-narkonetvaerk?referrer=RSS",
+        "published_date": "2026-06-09 12:39:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The latest news on American politics - stay tuned",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-direkte-33?referrer=RSS",
+        "published_date": "2026-06-09 12:37:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police warn of new trick theft",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-advarer-om-nyt-tricktyveri",
+        "published_date": "2026-06-09 12:29:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This year's Roskilde Festival is now completely sold out",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nu-er-der-komplet-udsolgt-til-aarets-roskilde-festival",
+        "published_date": "2026-06-09 12:04:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another festival removes Benny Jamz from the program",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/endnu-en-festival-fjerner-benny-jamz-fra-programmet",
+        "published_date": "2026-06-09 10:58:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman found dead in Thy must be buried - searched in 196 countries without success",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kvinde-fundet-doed-i-thy-skal-bisaettes-blev-efterlyst-i-196-lande-uden-held",
+        "published_date": "2026-06-09 10:24:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mandefestival lures men into new communities and focuses on mental health",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mandefestival-lokker-maend-ind-i-nye-faellesskaber-og-saetter-fokus-paa-mental-sundhed",
+        "published_date": "2026-06-09 10:21:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mette Frederiksen participates in the Nordic-Baltic summit in Tallinn",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-deltager-i-nordisk-baltisk-topmoede-i-tallinn",
+        "published_date": "2026-06-09 09:27:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Problem larvae registered in at least 80 municipalities",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/problemlarve-registreret-i-mindst-80-kommuner",
+        "published_date": "2026-06-09 09:15:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260609/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-50",
+        "published_date": "2026-06-09 08:32:41",
         "category": "Local Events"
     }
 ]
