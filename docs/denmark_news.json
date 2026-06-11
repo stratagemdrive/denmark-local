@@ -329,11 +329,18 @@
         "category": "Energy"
     },
     {
-        "title": "US attacks oil tankers headed for Iranian port",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-angriber-tankskib-med-kurs-mod-iransk-havn",
-        "published_date": "2026-06-02 21:14:51",
-        "category": "Energy"
+        "title": "Trump: I love inflation - and it will fall again",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-jeg-elsker-inflation-og-den-vil-falde-igen?referrer=RSS",
+        "published_date": "2026-06-10 23:30:49",
+        "category": "Economy"
+    },
+    {
+        "title": "Bolivians set garbage on fire and demand the resignation of the president",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/bolivianere-saetter-ild-til-affald-og-kraever-praesidents-afgang?referrer=RSS",
+        "published_date": "2026-06-10 23:23:47",
+        "category": "Economy"
     },
     {
         "title": "Inflation is rising again",
@@ -392,18 +399,130 @@
         "category": "Economy"
     },
     {
-        "title": "The red clover government will set up 18 commissions and committees - Denmark will be rich in jam jars",
+        "title": "Iran claims to have hit two ships in the Strait of Hormuz",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentar/roedkloeverregeringen-vil-nedsaette-18-kommissioner-og-udvalg--danmark-bliver-rigt-paa-syltekrukker?referrer=RSS",
-        "published_date": "2026-06-02 19:46:14",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/iran-haevder-at-have-ramt-to-skibe-i-hormuzstraedet?referrer=RSS",
+        "published_date": "2026-06-10 23:57:49",
+        "category": "Local Events"
     },
     {
-        "title": "New government removes intermediate tax and lowers corporation tax",
+        "title": "The US targets Iran for the second night in a row",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/ny-regering-fjerner-mellemskat-og-saenker-selskabsskatten?referrer=RSS",
-        "published_date": "2026-06-02 14:30:54",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/usa-retter-angreb-mod-iran-for-anden-aften-i-traek?referrer=RSS",
+        "published_date": "2026-06-10 22:19:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "SFs thunder against Pia Olsen Dyhr: You have made my life hell",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/sfer-tordner-mod-pia-olsen-dyhr-du-har-gjort-mit-liv-til-et-helvede?referrer=RSS",
+        "published_date": "2026-06-10 21:56:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "US Defense Secretary: We will strike hard against Iran tonight",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usas-forsvarsminister-vi-vil-slaa-haardt-til-mod-iran-i-nat?referrer=RSS",
+        "published_date": "2026-06-10 21:35:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pia Olsen Dyhr's new adviser left SF in 2020 after the MeToo case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/pia-olsen-dyhrs-nye-raadgiver-forlod-sf-i-2020-efter-metoo-sag?referrer=RSS",
+        "published_date": "2026-06-10 20:56:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police have visited the suicide doctor's address",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-har-vaeret-forbi-selvmordslaeges-adresse?referrer=RSS",
+        "published_date": "2026-06-10 20:33:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Infantino on ticket prices: 47 out of 48 months are in the red",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/infantino-om-billetpriser-47-af-48-maaneder-giver-underskud?referrer=RSS",
+        "published_date": "2026-06-10 20:30:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pope Leo: You cannot believe in Jesus and promote war",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pave-leo-man-kan-ikke-tro-paa-jesus-og-promovere-krig",
+        "published_date": "2026-06-10 20:03:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Stop making competition a scapegoat for youth dissatisfaction",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/stop-med-at-goere-konkurrence-til-syndebuk-for-unges-mistrivsel?referrer=RSS",
+        "published_date": "2026-06-10 20:02:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Queen Mary met with Gis\u00e8le Pelicot in Fredensborg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dronning-mary-moedtes-med-gisele-pelicot-i-fredensborg",
+        "published_date": "2026-06-10 20:00:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of Ebola infections is rising again in the DR Congo",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ebola-smittetallet-stiger-igen-i-dr-congo",
+        "published_date": "2026-06-10 18:46:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bill Gates says Epstein tried to blackmail him over infidelity",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bill-gates-siger-epstein-proevede-afpresse-ham-over-utroskab",
+        "published_date": "2026-06-10 18:00:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four remanded in custody for production of illegal cigarettes",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-varetaegtsfaengslet-produktion-af-ulovlige-cigaretter",
+        "published_date": "2026-06-10 16:51:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eight children and young people have been given a new temporary home after the fire",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/otte-boern-og-unge-har-faaet-nyt-midlertidigt-hjem-efter-brand",
+        "published_date": "2026-06-10 16:12:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meteorologists increasingly agree on strong El Ni\u00f1o this year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/meteorologer-i-stigende-grad-enige-om-kraftig-el-nino-i-aar",
+        "published_date": "2026-06-10 16:11:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man must be behind bars for serious violence and reckless driving",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-skal-bag-tremmer-efter-grov-vold-og-vanvidskoersel",
+        "published_date": "2026-06-10 14:52:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men sentenced to summary judgment for running a skunk house",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maend-idoemt-straksdomme-drive-skunkhus",
+        "published_date": "2026-06-10 14:50:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two young women remanded in custody in shooting case from Bispeparken",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/unge-kvinder-varetaegtsfaengslet-i-skudsag-fra-bispeparken",
+        "published_date": "2026-06-10 14:45:08",
+        "category": "Local Events"
     },
     {
         "title": "Tell us something nice that happened to you in Denmark in the past year",
@@ -417,132 +536,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/uddannelsesvalget-har-stor-betydning-for-pengepungen--dagens-historier-er-udvalgt-af-thomas-bernt-henriksen?referrer=RSS",
         "published_date": "2026-06-10 14:07:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "N\u00f8rgaard found his own way to Br\u00f8ndby's dressing room",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/noergaard-fandt-sin-egen-vej-til-broendbys-omklaedningsrum?referrer=RSS",
-        "published_date": "2026-06-10 14:06:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Naser Khader starts work as priest at N\u00e6stved in July",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/naser-khader-begynder-job-som-praest-ved-naestved-i-juli?referrer=RSS",
-        "published_date": "2026-06-10 14:03:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Charge: Women gave automatic rifle to 17-year-old before shooting at apartment",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/sigtelse-kvinder-gav-automatriffel-til-17-aarig-foer-skudsalve-mod-lejlighed?referrer=RSS",
-        "published_date": "2026-06-10 14:03:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish woman sentenced for defrauding elderly woman in Norway",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/dansk-kvinde-doemt-for-at-svindle-aeldre-kvinde-i-norge?referrer=RSS",
-        "published_date": "2026-06-10 13:56:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Knivoffer's family appeals for calm in Belfast",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/knivoffers-familie-maner-til-ro-i-belfast",
-        "published_date": "2026-06-10 13:55:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two identical apartments in Hellerup can cost four million and nine million.Why?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/to-identiske-lejligheder-i-hellerup-kan-koste-fire-millioner-og-ni-millioner-hvorfor?referrer=RSS",
-        "published_date": "2026-06-10 13:50:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "New development in the scandal case about Odsherred Forsyning",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-udvikling-i-skandalesag-om-odsherred-forsyning",
-        "published_date": "2026-06-10 13:49:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government parties drop plan to ease Danish citizenship rules for under-18s",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260610/government-parties-drop-plan-to-ease-danish-citizenship-rules-for-under-18s",
-        "published_date": "2026-06-10 13:38:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The latest news on American politics - stay tuned",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-direkte-34?referrer=RSS",
-        "published_date": "2026-06-10 13:32:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "World Cup in football - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vm-i-fodbold--foelg-med-her-1?referrer=RSS",
-        "published_date": "2026-06-10 13:29:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news about Danish politics - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-med-her-77?referrer=RSS",
-        "published_date": "2026-06-10 13:23:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Violent protests after knife attack in Belfast - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/voldsomme-protester-efter-knivangreb-i-belfast--foelg-med-her-2?referrer=RSS",
-        "published_date": "2026-06-10 13:19:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The city is expanding': How foreigners think Copenhagen has changed",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260610/the-city-is-expanding-how-foreigners-think-copenhagen-has-changed",
-        "published_date": "2026-06-10 12:27:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two men plead not guilty in anti-tank missile case",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maend-naegter-sig-skyldige-i-sag-om-panservaernsraket",
-        "published_date": "2026-06-10 11:54:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump after attack: Iran is too slow to negotiate, now they have to pay the price",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-efter-angreb-iran-er-langsomme-til-forhandle-nu-skal-de-betale-prisen",
-        "published_date": "2026-06-10 11:40:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "The government is open to sanctioning the Israeli security minister",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/regeringen-er-aaben-sanktionere-israelsk-sikkerhedsminister",
-        "published_date": "2026-06-10 11:19:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Netanyahu will run again for the Knesset",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/netanyahu-vil-genopstille-til-knesset",
-        "published_date": "2026-06-10 11:03:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "DSB has received 7,000 applications for compensation after train chaos",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dsb-har-faaet-7-000-ansoegninger-om-kompensation-efter-togkaos",
-        "published_date": "2026-06-10 10:44:39",
         "category": "Local Events"
     }
 ]
