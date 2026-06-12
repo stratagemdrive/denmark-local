@@ -1,5 +1,26 @@
 [
     {
+        "title": "Iran has not yet made a decision on an agreement with the United States",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-har-endnu-ikke-truffet-beslutning-om-aftale-med-usa?referrer=RSS",
+        "published_date": "2026-06-11 21:27:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "'Silent killer': Extreme heat claims 'more than 200,000 lives' in Europe",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260611/silent-killer-extreme-heat-claims-more-than-200000-lives-in-europe",
+        "published_date": "2026-06-11 17:08:53",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "First European country approves Wegovy pill",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/foerste-europaeiske-land-godkender-wegovy-pille",
+        "published_date": "2026-06-11 15:57:19",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The UN Food Program appoints a chef at a Danish Michelin-starred restaurant as an ambassador",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/fn-s-foedevareprogram-udnaevner-koekkenchef-paa-dansk-michelinrestaurant-som-ambassadoer",
@@ -116,27 +137,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/ny-fortolkning-af-henrik-ibsen-drama-hyldes-ved-aarets-reumert",
         "published_date": "2026-06-07 21:21:33",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "New interpretation of Henrik Ibsen's drama is celebrated at \u00c5rets Reumert",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/ny-fortolkning-af-henrik-ibsen-drama-hyldes-ved-aarets-reumert?referrer=RSS",
-        "published_date": "2026-06-07 20:38:55",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "FACTS: Here are all recipients of the Reumert of the Year",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/fakta-her-er-alle-modtagere-af-aarets-reumert?referrer=RSS",
-        "published_date": "2026-06-07 20:38:50",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "New GPS transmitter on stork chicks will tell why chicks die",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/ny-gps-sender-paa-storkeunger-skal-fortaelle-hvorfor-unger-doer?referrer=RSS",
-        "published_date": "2026-06-07 09:42:48",
         "category": "Diplomacy"
     },
     {
@@ -301,25 +301,11 @@
         "category": "Energy"
     },
     {
-        "title": "The US central bank blames the Iran war for inflation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/usas-centralbank-giver-iran-krigen-skylden-for-inflation?referrer=RSS",
-        "published_date": "2026-06-03 21:21:47",
-        "category": "Energy"
-    },
-    {
-        "title": "France arrests Russian captain of seized oil tanker",
+        "title": "Danmarks Nationalbank follows the ECB and raises interest rates",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/frankrig-anholder-russisk-kaptajn-paa-beslaglagt-olietankskib",
-        "published_date": "2026-06-03 16:41:45",
-        "category": "Energy"
-    },
-    {
-        "title": "\u00d8stjyske Motorvej is closed in both directions after a gas leak",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/oestjyske-motorvej-er-spaerret-i-begge-retninger-efter-gasudslip?referrer=RSS",
-        "published_date": "2026-06-03 15:16:47",
-        "category": "Energy"
+        "url": "https://www.dr.dk/nyheder/seneste/nationalbanken-foelger-ecb-og-haever-renten-2",
+        "published_date": "2026-06-11 15:13:55",
+        "category": "Economy"
     },
     {
         "title": "Trump: I love inflation - and it will fall again",
@@ -378,18 +364,95 @@
         "category": "Economy"
     },
     {
-        "title": "Financial sector rejoices over new minister:\u00a0We can have a key role in new growth",
+        "title": "Think tank: Prospects of reaching climate targets are less than one percent",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/finanssektor-jubler-over-ny-ministervi-kan-faa-noeglerolle-i-ny-vaekst?referrer=RSS",
-        "published_date": "2026-06-03 14:48:09",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/politik/taenketank-udsigt-til-at-naa-klimamaal-er-mindre-end-en-procent?referrer=RSS",
+        "published_date": "2026-06-11 23:42:45",
+        "category": "Local Events"
     },
     {
-        "title": "The government has become the Danes' wealthy curling parents - when the children meet opposition, they are ready with the Dankort",
+        "title": "SpaceX prices stock for largest IPO ever",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/regeringen-er-blevet-danskernes-velhavende-curlingforaeldre--naar-boernene-moeder-modstand-staar-de-klar-med-dankortet?referrer=RSS",
-        "published_date": "2026-06-03 14:44:46",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/spacex-prissaetter-aktie-til-stoerste-boersnotering-nogensinde?referrer=RSS",
+        "published_date": "2026-06-11 23:20:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "False alarm shut down parts of the Pentagon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/falsk-alarm-lukkede-dele-af-pentagon-ned?referrer=RSS",
+        "published_date": "2026-06-11 21:27:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexican host punishes South Africa's nine men in World Cup opener",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/mexicansk-vaert-straffer-sydafrikas-ni-mand-i-vm-aabner?referrer=RSS",
+        "published_date": "2026-06-11 21:06:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "British defense minister went in protest - now Starmer has found the replacement",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/britisk-forsvarsminister-gik-i-protest-nu-har-starmer-fundet-afloeseren",
+        "published_date": "2026-06-11 20:53:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump calls off new attacks on Iran",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-afblaeser-nye-angreb-mod-iran?referrer=RSS",
+        "published_date": "2026-06-11 20:12:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another politician resigns over defense budget in UK",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/endnu-en-politiker-traekker-sig-paa-grund-af-forsvarsbudget-i-storbritannien?referrer=RSS",
+        "published_date": "2026-06-11 20:02:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "I hate public holidays - let's get rid of them",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/jeg-hader-helligdagene--lad-os-afskaffe-dem?referrer=RSS",
+        "published_date": "2026-06-11 19:50:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "60-year-old man in critical condition after being hit by a car",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/60-aarig-mand-i-kritisk-tilstand-efter-paakoersel-af-bil?referrer=RSS",
+        "published_date": "2026-06-11 19:49:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mourinho gets three-year deal as new Real Madrid coach",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/mourinho-faar-treaarig-aftale-som-ny-real-madrid-traener?referrer=RSS",
+        "published_date": "2026-06-11 19:34:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Investigates number combination on lawn in Washington",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efterforsker-talkombination-paa-graesplaene-i-washington",
+        "published_date": "2026-06-11 19:09:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Harm Mammen died in a tragic work accident: -\u00a0We are left with an indescribable sadness",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/aabenraa/harm-mammen-doed-i-tragisk-arbejdsulykke-vi-staar-tilbage-med-en-ubeskrivelig-sorg?rss",
+        "published_date": "2026-06-11 18:09:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "After signal failure: Expect normal train operation in Jutland on Friday",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efter-signalfejl-venter-normal-togdrift-i-jylland-fredag",
+        "published_date": "2026-06-11 17:39:02",
+        "category": "Local Events"
     },
     {
         "title": "Famed restaurant Noma to re-open with new leadership",
@@ -406,129 +469,38 @@
         "category": "Local Events"
     },
     {
+        "title": "Novo exposed to hacker attacks - had to shut down IT systems",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/novo-udsat-hackerangreb-maatte-lukke-it-systemer-ned",
+        "published_date": "2026-06-11 15:56:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Firefighters are investigating potentially hazardous material at the Pentagon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brandvaesen-undersoeger-potentielt-farligt-materiale-ved-pentagon",
+        "published_date": "2026-06-11 15:35:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Copenhagen gets its first cultural free zone",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/koebenhavn-faar-sin-foerste-kulturelle-frizone",
+        "published_date": "2026-06-11 15:00:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "73-year-old dies in accident at work with cardboard presses",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/73-aarig-mister-livet-i-arbejdsulykke-med-pappresser",
+        "published_date": "2026-06-11 14:51:19",
+        "category": "Local Events"
+    },
+    {
         "title": "Signal failure affects train operations in Jutland until tonight",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/signalfejl-paavirker-togdriften-i-jylland-frem-til-i-aften?referrer=RSS",
         "published_date": "2026-06-11 14:20:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Violence against a pregnant girlfriend and four others costs three years in prison",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/vold-mod-gravid-kaereste-og-fire-andre-koster-tre-aars-faengsel?referrer=RSS",
-        "published_date": "2026-06-11 14:13:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "L\u00f8kke confirms: The Danish People's Party braced itself for the centre-right",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/loekke-slaar-fast-dansk-folkeparti-spaendte-ben-for-centrum-hoejre?referrer=RSS",
-        "published_date": "2026-06-11 14:09:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen Municipality initiates analysis: Metro extension can be linked to a possible S-train tunnel to Hellerup",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/metropol/koebenhavns-kommune-ivaerksaetter-analyse-metroudvidelse-kan-blive-koblet-til-mulig-s-togstunnel-til-hellerup?referrer=RSS",
-        "published_date": "2026-06-11 14:08:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of icebergs in the Arctic has quadrupled since the year 2000",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-isbjerge-i-arktis-er-firdoblet-siden-aar-2000",
-        "published_date": "2026-06-11 14:01:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ministers will set up fence posts for artificial intelligence: \"You must not steal\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/eksistens/ministre-vil-opsaette-hegnspaele-for-kunstig-intelligens-man-maa-ikke-stjaele?referrer=RSS",
-        "published_date": "2026-06-11 13:56:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Football manager trips over authorization for video sharing between clubs",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fodboldchef-tripper-for-hjemmel-til-videodeling-mellem-klubber?referrer=RSS",
-        "published_date": "2026-06-11 13:46:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Belfast hit by unrest after knife attack - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/belfast-ramt-af-uroligheder-efter-knivoverfald--foelg-med-her?referrer=RSS",
-        "published_date": "2026-06-11 13:39:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "World Cup in football - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vm-i-fodbold--foelg-med-her-3?referrer=RSS",
-        "published_date": "2026-06-11 13:38:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "British Defense Secretary resigns from post after disagreement with Keir Starmer",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/britisk-forsvarsminister-traekker-sig-fra-posten-efter-uenighed-med-keir-starmer",
-        "published_date": "2026-06-11 11:59:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "A good 80,000 have applied for a starting number for the Copenhagen Marathon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/godt-80-000-har-soegt-om-startnummer-til-copenhagen-marathon",
-        "published_date": "2026-06-11 11:56:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "The motorway near Hamburg will be closed at the weekend",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/motorvej-ved-hamborg-spaerres-i-weekenden",
-        "published_date": "2026-06-11 11:20:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Syrian man deported for hitting mother and daughter while under the influence",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/syrisk-mand-udvist-paakoersel-af-mor-og-datter-i-paavirket-tilstand",
-        "published_date": "2026-06-11 11:16:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish government gives 2,300 kroner average tax break to commuters",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260611/danish-government-gives-2300-kroner-in-tax-break-to-commuters",
-        "published_date": "2026-06-11 09:52:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Queen Margrethe participates in the first official event since her hospitalization",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dronning-margrethe-deltager-i-foerste-officielle-arrangement-siden-sin-indlaeggelse",
-        "published_date": "2026-06-11 09:47:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Thursday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260611/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-44",
-        "published_date": "2026-06-11 09:04:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Very rich Funen group has wild plans: Will hire several thousand new employees",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/hovedrig-fynsk-koncern-har-store-planer-vil-ansaette-flere-tusinde-nye-medarbejdere?rss",
-        "published_date": "2026-06-11 09:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The government is calling for negotiations on a spray ban before the summer",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/regeringen-indkalder-til-forhandlinger-om-sproejteforbud-inden-sommer",
-        "published_date": "2026-06-11 08:33:37",
         "category": "Local Events"
     }
 ]
