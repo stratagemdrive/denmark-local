@@ -1,5 +1,19 @@
 [
     {
+        "title": "Iranian media shows protesters criticizing foreign minister",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iransk-medie-viser-demonstranter-med-kritik-af-udenrigsminister?referrer=RSS",
+        "published_date": "2026-06-13 23:27:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Den Gamle By in Aarhus has been named European Museum of the Year",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/den-gamle-by-i-aarhus-er-kaaret-til-aarets-europaeiske-museum?referrer=RSS",
+        "published_date": "2026-06-13 19:10:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "EU to ban airlines from charging parents to sit with children",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260613/eu-to-ban-airlines-from-charging-parents-to-sit-with-children",
@@ -126,20 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Tourism chiefs and European ferry ports sound alarm over summer border chaos",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260609/tourism-chiefs-and-european-ferry-ports-sound-alarm-over-summer-border-chaos",
-        "published_date": "2026-06-09 17:24:20",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The EU Commission will ban Russian soldiers from entering the EU",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eu-kommissionen-vil-forbyde-russiske-soldater-indrejse-i-eu?referrer=RSS",
-        "published_date": "2026-06-09 12:52:50",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Russian fighter jets were close to Swedish airspace over the Baltic Sea",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/russiske-kampfly-var-taet-paa-svensk-luftrum-over-oestersoeen?referrer=RSS",
@@ -259,25 +259,11 @@
         "category": "Military"
     },
     {
-        "title": "The US attacks Iranian radar installations after a drone threat in the Strait of Hormuz",
+        "title": "Stormy weather in SF overshadowed everything at the Folkem\u00f8det.The case reveals the hinterland's expectation of Pia Olsen Dyhr",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-angriber-iranske-radaranlaeg-efter-dronetrussel-i-hormuzstraedet?referrer=RSS",
-        "published_date": "2026-06-05 23:37:49",
-        "category": "Military"
-    },
-    {
-        "title": "US military: We have attacked targets in Iran after threat from drones in the Strait of Hormuz",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-har-angrebet-maal-i-iran-efter-iranske-droneangreb",
-        "published_date": "2026-06-05 23:15:47",
-        "category": "Military"
-    },
-    {
-        "title": "Russia: Minesweepers seriously injured at nuclear power plant",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rusland-mineryddere-er-alvorligt-saaret-ved-atomkraftvaerk?referrer=RSS",
-        "published_date": "2026-06-05 19:39:44",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/politik/stormvejr-i-sf-overskyggede-alt-paa-folkemoedet-sagen-afsloerer-baglandets-forventning-til-pia-olsen-dyhr?referrer=RSS",
+        "published_date": "2026-06-13 19:24:15",
+        "category": "Energy"
     },
     {
         "title": "The World Bank provides three-digit billion aid to countries affected by the energy crisis",
@@ -364,18 +350,81 @@
         "category": "Economy"
     },
     {
-        "title": "Biggest price drop for US tech stocks in more than a year",
+        "title": "Mexican mayor shot dead in area characterized by cartel violence",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/stoerste-kursfald-for-amerikanske-tech-aktier-i-mere-end-et-aar?referrer=RSS",
-        "published_date": "2026-06-05 20:50:46",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/mexicansk-borgmester-skuddraebt-i-omraade-plaget-af-kartelvold?referrer=RSS",
+        "published_date": "2026-06-13 23:04:50",
+        "category": "Local Events"
     },
     {
-        "title": "Berlingske believes: Free dental care and wild VAT promises reveal L\u00f8kke as totally irresponsible",
+        "title": "Qatar punishes Swiss wastefulness and picks up its first World Cup point",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/berlingske-mener-fri-tandpleje-og-vilde-momsloefter-afsloerer-loekke-som-totalt-uansvarlig?referrer=RSS",
-        "published_date": "2026-06-05 13:43:34",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/sport/qatar-straffer-schweizisk-sloeseri-og-henter-sit-foerste-vm-point?referrer=RSS",
+        "published_date": "2026-06-13 21:16:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Running tires weaken Magnussen's chances of victory in Le Mans",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/loebsk-daek-svaekker-magnussens-sejrschancer-i-le-mans?referrer=RSS",
+        "published_date": "2026-06-13 20:34:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pia Olsen Dyhr: SF is in a difficult place right now",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/pia-olsen-dyhr-sf-staar-et-svaert-sted-lige-nu?referrer=RSS",
+        "published_date": "2026-06-13 20:12:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister of the Environment: Timmy survived a maximum of five days after major action",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/miljoeminister-timmy-overlevede-maksimalt-fem-dage-efter-stor-aktion?referrer=RSS",
+        "published_date": "2026-06-13 20:04:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spanish defense gave Aalborg's offensive gray hair",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/spansk-forsvar-gav-aalborgs-offensiv-graa-haar?referrer=RSS",
+        "published_date": "2026-06-13 19:14:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sometimes the most valuable thing a parent can do for the community is to go home",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/nogle-gange-er-det-mest-vaerdifulde-en-foraelder-kan-goere-for-faellesskabet-at-gaa-hjem?referrer=RSS",
+        "published_date": "2026-06-13 19:07:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danes win EC gold in sprint kayak",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/dansker-vinder-em-guld-i-sprint-kajak",
+        "published_date": "2026-06-13 16:10:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rasmus Emborg wins the DM in Debating 2026",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rasmus-emborg-vinder-af-dm-i-debat-2026",
+        "published_date": "2026-06-13 16:05:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Viktor Orb\u00e1n re-elected as party leader",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/viktor-orban-genvalgt-som-partileder",
+        "published_date": "2026-06-13 14:59:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two young people remanded in custody in the murder case from Guden\u00e5en",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/unge-varetaegtsfaengslet-i-drabssagen-fra-gudenaaen",
+        "published_date": "2026-06-13 12:59:45",
+        "category": "Local Events"
     },
     {
         "title": "CHIEF JUDGE",
@@ -438,83 +487,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/unge-naegter-sig-skyldige-i-drab-paa-20-aarig-der-blevet-fundet-livloes-i-gudenaaen",
         "published_date": "2026-06-13 10:32:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Even before the government has started, the population has lost faith in results: \"A regular vote of no confidence\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/allerede-inden-regeringen-er-kommet-i-gang-har-befolkningen-mistet-troen-paa-resultater-en-regulaer-mistillidserklaering?referrer=RSS",
-        "published_date": "2026-06-13 10:19:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside Denmark: Why the Folkem\u00f8det festival is Danish politics at its best",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260613/inside-denmark-why-the-folkemodet-festival-is-danish-politics-at-its-best",
-        "published_date": "2026-06-13 09:10:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Over 45,000 runners will not be allowed to run in next year's marathon in Copenhagen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/over-45-000-loebere-faar-ikke-lov-til-loebe-med-i-naeste-aars-maraton-i-koebenhavn",
-        "published_date": "2026-06-13 08:35:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "One killed in Ukrainian attack on Russian port",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/en-draebt-i-ukrainsk-angreb-paa-russisk-havn",
-        "published_date": "2026-06-13 07:25:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman seriously injured after shark attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kvinde-alvorligt-kvaestet-efter-hajangreb",
-        "published_date": "2026-06-13 06:28:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man found dead in Guden\u00e5en: Two young people charged with murder",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-fundet-doed-i-gudenaaen-unge-sigtet-drab",
-        "published_date": "2026-06-13 06:13:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US has killed a gang leader in an airstrike, Trump writes",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-har-draebt-bandeleder-i-luftangreb-skriver-trump",
-        "published_date": "2026-06-13 01:40:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge Indefinitely Blocks Controversial Trump Foundation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/dommer-blokerer-paa-ubestemt-tid-for-omstridt-trump-fond?referrer=RSS",
-        "published_date": "2026-06-12 23:59:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities approve Paramount acquisition of Warner Bros.",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/myndigheder-godkender-paramount-opkoeb-af-warner-bros",
-        "published_date": "2026-06-12 22:55:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities approve Paramount acquisition of Warner Bros.",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/myndigheder-godkender-paramount-opkoeb-af-warner-bros?referrer=RSS",
-        "published_date": "2026-06-12 22:40:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "US Department of Defense releases documents on luminous UFOs",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usas-forsvarsministerium-frigiver-dokumenter-om-lysende-ufoer?referrer=RSS",
-        "published_date": "2026-06-12 21:19:46",
         "category": "Local Events"
     }
 ]
