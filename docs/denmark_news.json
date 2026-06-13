@@ -1,5 +1,12 @@
 [
     {
+        "title": "EU to ban airlines from charging parents to sit with children",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260613/eu-to-ban-airlines-from-charging-parents-to-sit-with-children",
+        "published_date": "2026-06-13 10:06:35",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Iran's foreign minister: Nuclear negotiations pushed to later",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/irans-udenrigsminister-atomforhandlinger-skubbes-til-senere?referrer=RSS",
@@ -133,11 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "New EU sanctions package to hit Russian soldiers and crypto",
+        "title": "Russian fighter jets were close to Swedish airspace over the Baltic Sea",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/russiske-kampfly-var-taet-paa-svensk-luftrum-over-oestersoeen?referrer=RSS",
+        "published_date": "2026-06-13 10:22:47",
+        "category": "Military"
+    },
+    {
+        "title": "Defense confirms: Danish fighter aircraft involved in operation against Russian fighter aircraft in the Baltic Sea",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-eu-sanktionspakke-skal-ramme-russiske-soldater-og-krypto",
-        "published_date": "2026-06-09 12:31:15",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/det-svenske-forsvar-dansk-jagerfly-involveret-i-operation-mod-russiske-jagerfly-i-oestersoeen",
+        "published_date": "2026-06-13 09:38:54",
+        "category": "Military"
+    },
+    {
+        "title": "Lithuania warns citizens about military drone - but it was just a weather balloon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/litauen-advarede-borgere-om-militaerdrone-men-det-var-bare-en-vejrballon",
+        "published_date": "2026-06-13 08:42:42",
+        "category": "Military"
     },
     {
         "title": "The Swedish Armed Forces establish an AI centre",
@@ -259,27 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1730?referrer=RSS",
-        "published_date": "2026-06-05 13:27:30",
-        "category": "Military"
-    },
-    {
-        "title": "Ukraine: Exploded drone in Romania was Ukrainian",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-eksploderet-drone-i-rumaenien-var-ukrainsk",
-        "published_date": "2026-06-05 12:27:52",
-        "category": "Military"
-    },
-    {
-        "title": "The House of Representatives votes to support Ukraine",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/repraesentanternes-hus-stemmer-stoette-til-ukraine",
-        "published_date": "2026-06-05 05:52:57",
-        "category": "Military"
-    },
-    {
         "title": "The World Bank provides three-digit billion aid to countries affected by the energy crisis",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/verdensbanken-giver-trecifret-milliardhjaelp-til-lande-ramt-af-energikrise?referrer=RSS",
@@ -299,6 +299,13 @@
         "url": "https://www.berlingske.dk/danmark/frederiksberg-kommune-opsaetter-buste-af-jytte-abildstroem?referrer=RSS",
         "published_date": "2026-06-09 12:56:47",
         "category": "Energy"
+    },
+    {
+        "title": "She is the architect behind Russia's financial fortress.Now she is leaving the barricades at a critical time",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hun-er-arkitekten-bag-ruslands-finansielle-fort-nu-forlader-hun-barrikaderne-paa-et-kritisk-tidspunkt?referrer=RSS",
+        "published_date": "2026-06-13 11:47:56",
+        "category": "Economy"
     },
     {
         "title": "Cuba gives companies more leeway under pressure from the US",
@@ -371,6 +378,118 @@
         "category": "Economy"
     },
     {
+        "title": "CHIEF JUDGE",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/til-stregen/overdommer?referrer=RSS",
+        "published_date": "2026-06-13 12:13:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "In three days, 10,000 supporters have proposed against anonymization in the Afghanistan investigation",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/paa-tre-dage-har-10000-stoetter-forslag-mod-anonymisering-i-afghanistan-udredning?referrer=RSS",
+        "published_date": "2026-06-13 11:51:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Long-time local politician leaves SF after hiring an adviser",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/mangeaarig-lokalpolitiker-forlader-sf-efter-ansaettelse-af-raadgiver?referrer=RSS",
+        "published_date": "2026-06-13 11:28:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "He has been with us all the way: Now Musk's friend is cashing in a staggering amount of billions on a stock market listing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/aktier/han-har-vaeret-med-hele-vejen-nu-indkasserer-musks-ven-et-svimlende-milliardbeloeb-paa-boersnotering?referrer=RSS",
+        "published_date": "2026-06-13 11:23:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "After employment case: SFs resign from the party after 27 years",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efter-ansaettelsessag-sf-er-melder-sig-ud-af-partiet-efter-27-aar",
+        "published_date": "2026-06-13 11:11:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ehlers is beaming on the threshold of the ultimate triumph",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/ehlers-straaler-paa-taersklen-til-den-ultimative-triumf?referrer=RSS",
+        "published_date": "2026-06-13 11:01:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Teenagers are accused of strangling and drowning a 20-year-old man in Guden\u00e5en",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/teenagere-sigtes-for-at-have-kvalt-og-druknet-20-aarig-mand-i-gudenaaen?referrer=RSS",
+        "published_date": "2026-06-13 10:49:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Convicted of exploiting a 96-year-old has been put in detention",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/doemt-for-udnyttelse-af-96-aarig-er-sat-i-arresthus?referrer=RSS",
+        "published_date": "2026-06-13 10:33:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two young people plead not guilty in murder of 20-year-old, who was found lifeless in Guden\u00e5en",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/unge-naegter-sig-skyldige-i-drab-paa-20-aarig-der-blevet-fundet-livloes-i-gudenaaen",
+        "published_date": "2026-06-13 10:32:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Even before the government has started, the population has lost faith in results: \"A regular vote of no confidence\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/allerede-inden-regeringen-er-kommet-i-gang-har-befolkningen-mistet-troen-paa-resultater-en-regulaer-mistillidserklaering?referrer=RSS",
+        "published_date": "2026-06-13 10:19:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inside Denmark: Why the Folkem\u00f8det festival is Danish politics at its best",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260613/inside-denmark-why-the-folkemodet-festival-is-danish-politics-at-its-best",
+        "published_date": "2026-06-13 09:10:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Over 45,000 runners will not be allowed to run in next year's marathon in Copenhagen",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/over-45-000-loebere-faar-ikke-lov-til-loebe-med-i-naeste-aars-maraton-i-koebenhavn",
+        "published_date": "2026-06-13 08:35:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "One killed in Ukrainian attack on Russian port",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/en-draebt-i-ukrainsk-angreb-paa-russisk-havn",
+        "published_date": "2026-06-13 07:25:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman seriously injured after shark attack",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kvinde-alvorligt-kvaestet-efter-hajangreb",
+        "published_date": "2026-06-13 06:28:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man found dead in Guden\u00e5en: Two young people charged with murder",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-fundet-doed-i-gudenaaen-unge-sigtet-drab",
+        "published_date": "2026-06-13 06:13:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US has killed a gang leader in an airstrike, Trump writes",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-har-draebt-bandeleder-i-luftangreb-skriver-trump",
+        "published_date": "2026-06-13 01:40:27",
+        "category": "Local Events"
+    },
+    {
         "title": "Judge Indefinitely Blocks Controversial Trump Foundation",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/dommer-blokerer-paa-ubestemt-tid-for-omstridt-trump-fond?referrer=RSS",
@@ -396,118 +515,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usas-forsvarsministerium-frigiver-dokumenter-om-lysende-ufoer?referrer=RSS",
         "published_date": "2026-06-12 21:19:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Canadian World Cup hosts stave off defeat with late equaliser",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/canadiske-vm-vaerter-afvaerger-nederlag-med-sen-udligning?referrer=RSS",
-        "published_date": "2026-06-12 21:05:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "SpaceX rises almost 20 percent on the first day of trading",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/spacex-stiger-knap-20-procent-paa-foerste-handelsdag?referrer=RSS",
-        "published_date": "2026-06-12 20:34:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Finnish motorcyclist flown to Rigshospitalet after accident on M\u00f8nsbroen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/finsk-motorcyklist-floejet-til-rigshospitalet-efter-uheld-paa-moensbroen?referrer=RSS",
-        "published_date": "2026-06-12 19:52:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norwegian motorcyclist in critical condition after collision with car",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/norsk-motorcyklist-i-kritisk-tilstand-efter-sammenstoed-med-bil?referrer=RSS",
-        "published_date": "2026-06-12 19:48:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "SF own goals run with the attention in Allinge",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/sf-selvmaal-loeber-med-opmaerksomheden-i-allinge?referrer=RSS",
-        "published_date": "2026-06-12 19:47:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pakistan: Agreement on final agreement text for peace treaty between Iran and the US",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pakistan-enighed-om-endelig-aftaletekst-fredsaftale-mellem-iran-og-usa",
-        "published_date": "2026-06-12 17:21:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The former Spanish prime minister is being investigated after a new discovery: Has jewelery worth DKK 15.6 million",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-spansk-premierminister-efterforskes-efter-nyt-fund-har-smykker-15-6-millioner-kroner",
-        "published_date": "2026-06-12 16:56:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Baggage workers at Copenhagen Airport have resumed work",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/arbejdsnedlaeggelse-i-koebenhavns-lufthavn-betyder-ekstra-ventetid",
-        "published_date": "2026-06-12 16:33:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "EXPLAINED: Why has Denmark's new government got off to such a bad start?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260612/explained-why-has-denmarks-new-government-got-off-to-such-a-bad-start",
-        "published_date": "2026-06-12 16:14:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Taylor Swift inducted into the Songwriters Hall of Fame",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/taylor-swift-optaget-i-songwriters-hall-fame",
-        "published_date": "2026-06-12 15:53:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Facebook and Messenger affected by crashes",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/facebook-og-messenger-ramt-af-nedbrud",
-        "published_date": "2026-06-12 14:29:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Border controls against Germany are extended again",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/graensekontrol-mod-tyskland-forlaenges-igen",
-        "published_date": "2026-06-12 14:18:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marius Borg H\u00f8iby will not appear in court on Monday: Must follow sentencing via video link",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-moeder-ikke-i-retten-mandag-skal-foelge-domsafsigelse-via-videolink",
-        "published_date": "2026-06-12 14:17:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Now giant wind turbine transport is getting even bigger",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nu-bliver-gigantisk-vindmoelletransport-endnu-stoerre",
-        "published_date": "2026-06-12 14:16:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norwegian crown prince cancels cabinet meeting and announces more cancellations",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/norsk-kronprins-aflyser-statsraad-og-varsler-flere-afbud?referrer=RSS",
-        "published_date": "2026-06-12 13:55:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flights on their way to Amsterdam had to make an emergency landing in Billund",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/fly-paa-vej-til-amsterdam-maatte-sikkerhedslande-i-billund?referrer=RSS",
-        "published_date": "2026-06-12 13:55:45",
         "category": "Local Events"
     }
 ]
