@@ -1,5 +1,26 @@
 [
     {
+        "title": "Leaders call deal between Iran and US a major step towards peace",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ledere-kalder-aftale-mellem-iran-og-usa-for-et-stort-skridt-mod-fred?referrer=RSS",
+        "published_date": "2026-06-14 23:35:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Iran confirms immediate end to war",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-bekraefter-oejeblikkelig-afslutning-paa-krigen?referrer=RSS",
+        "published_date": "2026-06-14 23:05:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Art museum in Kharkiv on fire after drone attack",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kunstmuseum-i-kharkiv-i-brand-efter-droneangreb",
+        "published_date": "2026-06-14 19:36:58",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Iranian media shows protesters criticizing foreign minister",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/iransk-medie-viser-demonstranter-med-kritik-af-udenrigsminister?referrer=RSS",
@@ -119,27 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "'A new low': Europeans no longer see the US as an ally and blame Trump",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260610/a-new-low-europeans-no-longer-see-the-us-as-an-ally-and-blame-trump",
-        "published_date": "2026-06-10 09:00:30",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iran's foreign minister: No attack will go unanswered",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/irans-udenrigsminister-ingen-angreb-vil-staa-ubesvaret-hen?referrer=RSS",
-        "published_date": "2026-06-09 23:27:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iran's foreign minister reacts to Trump's statement: 'We prefer the language of diplomacy, but also speak other languages'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/irans-udenrigsminister-reagerer-paa-trumps-udtalelse-vi-foretraekker-diplomatiets-sprog-men-taler",
-        "published_date": "2026-06-09 19:07:48",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Media: Iran has agreed in draft not to produce nuclear weapons",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/medie-iran-er-i-udkast-gaaet-med-til-ikke-at-producere-atomvaaben?referrer=RSS",
@@ -252,18 +252,18 @@
         "category": "Military"
     },
     {
-        "title": "North Korea ahead of summit: Our nuclear weapons are non-negotiable",
+        "title": "Protesters and police clash in Switzerland ahead of G7 summit",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nordkorea-foer-topmoede-vores-atomvaaben-er-ikke-til-forhandling?referrer=RSS",
-        "published_date": "2026-06-06 23:16:46",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/internationalt/demonstranter-og-politi-stoeder-sammen-i-schweiz-foer-g7-topmoede?referrer=RSS",
+        "published_date": "2026-06-14 20:25:45",
+        "category": "Energy"
     },
     {
-        "title": "Seven people are reported killed in Israeli attacks in Gaza",
+        "title": "SF used a special adviser as a consultant for municipal elections after dismissal",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/syv-personer-meldes-draebt-i-israelske-angreb-i-gaza?referrer=RSS",
-        "published_date": "2026-06-06 19:45:45",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/politik/sf-brugte-saerlig-raadgiver-som-konsulent-til-kommunalvalg-efter-fyring?referrer=RSS",
+        "published_date": "2026-06-14 20:07:47",
+        "category": "Energy"
     },
     {
         "title": "OVERVIEW: The case of Pia Olsen Dyhr's advisor",
@@ -357,6 +357,111 @@
         "category": "Economy"
     },
     {
+        "title": "US and Iran agree to end war: To be signed on Friday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-og-iran-aftaler-afslutning-paa-krig-skal-underskrives-fredag?referrer=RSS",
+        "published_date": "2026-06-14 23:54:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Japan fights back and shares with Netherlands at World Cup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/japan-kaemper-sig-tilbage-og-deler-med-holland-ved-vm?referrer=RSS",
+        "published_date": "2026-06-14 22:05:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pakistan: A peace agreement has been concluded between the US and Iran",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/pakistan-der-er-indgaaet-fredsaftale-mellem-usa-og-iran?referrer=RSS",
+        "published_date": "2026-06-14 21:56:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The oldest coach in World Cup history was overwhelmed by the national anthem",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/vm-historiens-aeldste-traener-blev-overvaeldet-over-nationalsang?referrer=RSS",
+        "published_date": "2026-06-14 20:53:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Happy and proud Emil Nielsen finishes with the CL title in Barcelona",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/glad-og-stolt-emil-nielsen-slutter-med-cl-titel-i-barcelona?referrer=RSS",
+        "published_date": "2026-06-14 20:04:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gidsel pays tribute to countryman: By far the world's best keeper",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/gidsel-hylder-landsmand-med-afstand-verdens-bedste-keeper?referrer=RSS",
+        "published_date": "2026-06-14 19:54:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Singer Oliver Tree among the dead in helicopter collision in Brazil",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sanger-oliver-tree-blandt-de-doede-ved-helikopterkollision-i-brasilien",
+        "published_date": "2026-06-14 18:45:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "12 died in a plane crash in the USA",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/12-formodes-doede-i-flystyrt-i-usa",
+        "published_date": "2026-06-14 18:24:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "21-year-old sentenced to over four years in prison for drug trafficking",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/21-aarig-idoemt-over-fire-aars-faengsel-narkohandel",
+        "published_date": "2026-06-14 17:38:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Used electric cars are skyrocketing in price: Now a large car dealer is making a clear appeal",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/erhverv/brugtbilmarkedet-er-i-brand-nu-skal-du-taenke-dig-godt-om?rss",
+        "published_date": "2026-06-14 17:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zelenskyy and Trump will meet at the G7 summit",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-og-trump-skal-moedes-til-g7-topmoedet",
+        "published_date": "2026-06-14 16:43:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six killed in collision between two helicopters in Rio de Janeiro",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/seks-draebt-i-kollision-mellem-helikoptere-i-rio-de-janeiro",
+        "published_date": "2026-06-14 15:39:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump: Today's attack in Beirut should not have happened",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-dagens-angreb-i-beirut-burde-ikke-have-fundet-sted",
+        "published_date": "2026-06-14 15:20:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Churches offer instant weddings on June 26",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kirker-tilbyder-straks-vielser-den-26-juni",
+        "published_date": "2026-06-14 14:42:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel attacks Hezbollah targets in Beirut",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-angriber-hizbollah-maal-i-beirut",
+        "published_date": "2026-06-14 13:00:57",
+        "category": "Local Events"
+    },
+    {
         "title": "Jesper came home from work and saw a beautiful woman in the garden: - I think I just fell in love",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/fyn/jesper-kom-hjem-fra-job-og-saa-en-smuk-kvinde-i-haven-jeg-tror-bare-jeg-blev-forelsket?rss",
@@ -389,111 +494,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/konflikt-blusser-op-igen--blokerer-omstridte-ai-modeller-efter-advarsel?referrer=RSS",
         "published_date": "2026-06-14 12:26:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "June is already the wettest month in 2026",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/juni-maaned-er-allerede-den-vaadeste-maaned-i-2026?referrer=RSS",
-        "published_date": "2026-06-14 12:10:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scots eyes unknown territory after historic World Cup win",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/skotte-oejner-ukendt-territorium-efter-historisk-vm-sejr?referrer=RSS",
-        "published_date": "2026-06-14 11:38:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Switzerland says no to a cap on population numbers, forecasts show",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/schweiz-siger-nej-til-loft-paa-befolkningstal-viser-prognoser",
-        "published_date": "2026-06-14 11:34:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What\u2019s happening in Denmark next week",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260614/on-the-agenda-whats-happening-in-denmark-this-week-4",
-        "published_date": "2026-06-14 10:41:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fifa pays full salary to World Cup-excluded Somali referee",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fifa-betaler-fuld-loen-til-vm-udelukket-somalisk-dommer?referrer=RSS",
-        "published_date": "2026-06-14 10:38:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Housing employee will be acquitted of liability for fatal accident in hot tub",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/bostedsmedarbejder-vil-frifindes-for-ansvar-for-doedsulykke-i-spabad?referrer=RSS",
-        "published_date": "2026-06-14 10:34:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vandalism and several arrests during celebration of Knicks victory in New York",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/haervaerk-og-flere-anholdt-under-fejring-af-knicks-sejr-i-new-york",
-        "published_date": "2026-06-14 09:22:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former minister Torsten Schack Pedersen is quitting politics after 21 years",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-minister-torsten-schack-pedersen-stopper-i-politik-efter-21-aar",
-        "published_date": "2026-06-14 06:24:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "DR Congo registers over 700 confirmed cases of Ebola",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dr-congo-registrerer-over-700-bekraeftede-tilfaelde-af-ebola",
-        "published_date": "2026-06-14 05:27:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another Mexican mayor has lost his life in the state of Oaxaca",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/endnu-en-mexicansk-borgmester-har-mistet-livet-i-delstaten-oaxaca",
-        "published_date": "2026-06-14 05:02:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexican mayor shot dead in area characterized by cartel violence",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mexicansk-borgmester-skuddraebt-i-omraade-plaget-af-kartelvold?referrer=RSS",
-        "published_date": "2026-06-13 23:04:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Qatar punishes Swiss wastefulness and picks up its first World Cup point",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/qatar-straffer-schweizisk-sloeseri-og-henter-sit-foerste-vm-point?referrer=RSS",
-        "published_date": "2026-06-13 21:16:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Running tires weaken Magnussen's chances of victory in Le Mans",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/loebsk-daek-svaekker-magnussens-sejrschancer-i-le-mans?referrer=RSS",
-        "published_date": "2026-06-13 20:34:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pia Olsen Dyhr: SF is in a difficult place right now",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/pia-olsen-dyhr-sf-staar-et-svaert-sted-lige-nu?referrer=RSS",
-        "published_date": "2026-06-13 20:12:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister of the Environment: Timmy survived a maximum of five days after major action",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/miljoeminister-timmy-overlevede-maksimalt-fem-dage-efter-stor-aktion?referrer=RSS",
-        "published_date": "2026-06-13 20:04:49",
         "category": "Local Events"
     }
 ]
