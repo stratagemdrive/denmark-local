@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Media: Iran has agreed in draft not to produce nuclear weapons",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/medie-iran-er-i-udkast-gaaet-med-til-ikke-at-producere-atomvaaben?referrer=RSS",
+        "published_date": "2026-06-14 11:23:51",
+        "category": "Military"
+    },
+    {
         "title": "Russian fighter jets were close to Swedish airspace over the Baltic Sea",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/russiske-kampfly-var-taet-paa-svensk-luftrum-over-oestersoeen?referrer=RSS",
@@ -259,6 +266,20 @@
         "category": "Military"
     },
     {
+        "title": "OVERVIEW: The case of Pia Olsen Dyhr's advisor",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/overblik-sagen-om-pia-olsen-dyhrs-raadgiver?referrer=RSS",
+        "published_date": "2026-06-14 12:22:49",
+        "category": "Energy"
+    },
+    {
+        "title": "Britain detains Russian oil tanker",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-tilbageholder-russisk-olietankskib",
+        "published_date": "2026-06-14 07:21:21",
+        "category": "Energy"
+    },
+    {
         "title": "Stormy weather in SF overshadowed everything at the Folkem\u00f8det.The case reveals the hinterland's expectation of Pia Olsen Dyhr",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/stormvejr-i-sf-overskyggede-alt-paa-folkemoedet-sagen-afsloerer-baglandets-forventning-til-pia-olsen-dyhr?referrer=RSS",
@@ -336,18 +357,109 @@
         "category": "Economy"
     },
     {
-        "title": "Amsterdam will raise the tourist tax",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/amsterdam-vil-haeve-turistskatten",
-        "published_date": "2026-06-06 12:47:20",
-        "category": "Economy"
+        "title": "Jesper came home from work and saw a beautiful woman in the garden: - I think I just fell in love",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/fyn/jesper-kom-hjem-fra-job-og-saa-en-smuk-kvinde-i-haven-jeg-tror-bare-jeg-blev-forelsket?rss",
+        "published_date": "2026-06-14 13:00:00",
+        "category": "Local Events"
     },
     {
-        "title": "Amsterdam will increase tourist tax to 20 percent",
+        "title": "Olsen Dyhr continues to stand strong in SF, assesses the commentator",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amsterdam-vil-forhoeje-turistskat-til-20-procent?referrer=RSS",
-        "published_date": "2026-06-06 11:59:46",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/politik/olsen-dyhr-staar-fortsat-staerkt-i-sf-vurderer-kommentator?referrer=RSS",
+        "published_date": "2026-06-14 12:48:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cases of money laundering in Herning have grown by 153 million",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/sag-om-hvidvask-i-herning-er-vokset-med-153-millioner?referrer=RSS",
+        "published_date": "2026-06-14 12:48:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "60,000 eelgrass shoots will help restore life in pressured fjords",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/60000-aalegraesskud-skal-hjaelpe-livet-tilbage-i-pressede-fjorde?referrer=RSS",
+        "published_date": "2026-06-14 12:26:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Conflict flares up again - blocks disputed AI models after warning",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/konflikt-blusser-op-igen--blokerer-omstridte-ai-modeller-efter-advarsel?referrer=RSS",
+        "published_date": "2026-06-14 12:26:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "June is already the wettest month in 2026",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/juni-maaned-er-allerede-den-vaadeste-maaned-i-2026?referrer=RSS",
+        "published_date": "2026-06-14 12:10:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scots eyes unknown territory after historic World Cup win",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/skotte-oejner-ukendt-territorium-efter-historisk-vm-sejr?referrer=RSS",
+        "published_date": "2026-06-14 11:38:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Switzerland says no to a cap on population numbers, forecasts show",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/schweiz-siger-nej-til-loft-paa-befolkningstal-viser-prognoser",
+        "published_date": "2026-06-14 11:34:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the Agenda: What\u2019s happening in Denmark next week",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260614/on-the-agenda-whats-happening-in-denmark-this-week-4",
+        "published_date": "2026-06-14 10:41:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fifa pays full salary to World Cup-excluded Somali referee",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fifa-betaler-fuld-loen-til-vm-udelukket-somalisk-dommer?referrer=RSS",
+        "published_date": "2026-06-14 10:38:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Housing employee will be acquitted of liability for fatal accident in hot tub",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/bostedsmedarbejder-vil-frifindes-for-ansvar-for-doedsulykke-i-spabad?referrer=RSS",
+        "published_date": "2026-06-14 10:34:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vandalism and several arrests during celebration of Knicks victory in New York",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/haervaerk-og-flere-anholdt-under-fejring-af-knicks-sejr-i-new-york",
+        "published_date": "2026-06-14 09:22:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former minister Torsten Schack Pedersen is quitting politics after 21 years",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-minister-torsten-schack-pedersen-stopper-i-politik-efter-21-aar",
+        "published_date": "2026-06-14 06:24:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "DR Congo registers over 700 confirmed cases of Ebola",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dr-congo-registrerer-over-700-bekraeftede-tilfaelde-af-ebola",
+        "published_date": "2026-06-14 05:27:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another Mexican mayor has lost his life in the state of Oaxaca",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/endnu-en-mexicansk-borgmester-har-mistet-livet-i-delstaten-oaxaca",
+        "published_date": "2026-06-14 05:02:42",
+        "category": "Local Events"
     },
     {
         "title": "Mexican mayor shot dead in area characterized by cartel violence",
@@ -382,111 +494,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/miljoeminister-timmy-overlevede-maksimalt-fem-dage-efter-stor-aktion?referrer=RSS",
         "published_date": "2026-06-13 20:04:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spanish defense gave Aalborg's offensive gray hair",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/spansk-forsvar-gav-aalborgs-offensiv-graa-haar?referrer=RSS",
-        "published_date": "2026-06-13 19:14:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sometimes the most valuable thing a parent can do for the community is to go home",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/nogle-gange-er-det-mest-vaerdifulde-en-foraelder-kan-goere-for-faellesskabet-at-gaa-hjem?referrer=RSS",
-        "published_date": "2026-06-13 19:07:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danes win EC gold in sprint kayak",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/dansker-vinder-em-guld-i-sprint-kajak",
-        "published_date": "2026-06-13 16:10:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rasmus Emborg wins the DM in Debating 2026",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rasmus-emborg-vinder-af-dm-i-debat-2026",
-        "published_date": "2026-06-13 16:05:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Viktor Orb\u00e1n re-elected as party leader",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/viktor-orban-genvalgt-som-partileder",
-        "published_date": "2026-06-13 14:59:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two young people remanded in custody in the murder case from Guden\u00e5en",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/unge-varetaegtsfaengslet-i-drabssagen-fra-gudenaaen",
-        "published_date": "2026-06-13 12:59:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "CHIEF JUDGE",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/til-stregen/overdommer?referrer=RSS",
-        "published_date": "2026-06-13 12:13:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "In three days, 10,000 supporters have proposed against anonymization in the Afghanistan investigation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/paa-tre-dage-har-10000-stoetter-forslag-mod-anonymisering-i-afghanistan-udredning?referrer=RSS",
-        "published_date": "2026-06-13 11:51:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Long-time local politician leaves SF after hiring an adviser",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/mangeaarig-lokalpolitiker-forlader-sf-efter-ansaettelse-af-raadgiver?referrer=RSS",
-        "published_date": "2026-06-13 11:28:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "He has been with us all the way: Now Musk's friend is cashing in a staggering amount of billions on a stock market listing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/aktier/han-har-vaeret-med-hele-vejen-nu-indkasserer-musks-ven-et-svimlende-milliardbeloeb-paa-boersnotering?referrer=RSS",
-        "published_date": "2026-06-13 11:23:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "After employment case: SFs resign from the party after 27 years",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-ansaettelsessag-sf-er-melder-sig-ud-af-partiet-efter-27-aar",
-        "published_date": "2026-06-13 11:11:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ehlers is beaming on the threshold of the ultimate triumph",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ehlers-straaler-paa-taersklen-til-den-ultimative-triumf?referrer=RSS",
-        "published_date": "2026-06-13 11:01:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Teenagers are accused of strangling and drowning a 20-year-old man in Guden\u00e5en",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/teenagere-sigtes-for-at-have-kvalt-og-druknet-20-aarig-mand-i-gudenaaen?referrer=RSS",
-        "published_date": "2026-06-13 10:49:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Convicted of exploiting a 96-year-old has been put in detention",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/doemt-for-udnyttelse-af-96-aarig-er-sat-i-arresthus?referrer=RSS",
-        "published_date": "2026-06-13 10:33:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two young people plead not guilty in murder of 20-year-old, who was found lifeless in Guden\u00e5en",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/unge-naegter-sig-skyldige-i-drab-paa-20-aarig-der-blevet-fundet-livloes-i-gudenaaen",
-        "published_date": "2026-06-13 10:32:44",
         "category": "Local Events"
     }
 ]
