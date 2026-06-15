@@ -1,5 +1,12 @@
 [
     {
+        "title": "Montenegro moves closer to EU membership",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/montenegro-rykker-taettere-paa-eu-medlemskab",
+        "published_date": "2026-06-15 15:59:04",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Leaders call deal between Iran and US a major step towards peace",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/ledere-kalder-aftale-mellem-iran-og-usa-for-et-stort-skridt-mod-fred?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Only three European countries meet deadline for new pay transparency rules",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260610/only-3-countries-met-deadline-for-new-eu-pay-transparency-rules",
-        "published_date": "2026-06-10 11:12:09",
-        "category": "Diplomacy"
+        "title": "Ukrainian guilty of arson against Starmer properties",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukrainer-skyldig-i-brandstiftelse-mod-starmer-ejendomme",
+        "published_date": "2026-06-15 15:49:28",
+        "category": "Military"
     },
     {
         "title": "Media: Iran has agreed in draft not to produce nuclear weapons",
@@ -245,11 +252,11 @@
         "category": "Military"
     },
     {
-        "title": "Two Iranian drones shot down on Saturday, the US military says",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iranske-droner-skudt-ned-loerdag-oplyser-det-amerikanske-militaer",
-        "published_date": "2026-06-07 01:16:05",
-        "category": "Military"
+        "title": "Business update: Major American banks let employees watch the World Cup from home",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/business-update-amerikanske-storbanker-lader-medarbejdere-se-vm-hjemmefra?referrer=RSS",
+        "published_date": "2026-06-15 16:08:24",
+        "category": "Energy"
     },
     {
         "title": "Protesters and police clash in Switzerland ahead of G7 summit",
@@ -308,6 +315,20 @@
         "category": "Energy"
     },
     {
+        "title": "Trump got a peace agreement on his birthday - today's stories are selected by Tom Jensen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/trump-fik-fredsaftale-paa-sin-foedselsdag--dagens-historier-er-udvalgt-af-tom-jensen?referrer=RSS",
+        "published_date": "2026-06-15 15:49:19",
+        "category": "Economy"
+    },
+    {
+        "title": "Commuter allowance provides the greatest tax relief in outlying areas",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/pendlerfradrag-giver-stoerst-skattelettelser-i-yderomraader?referrer=RSS",
+        "published_date": "2026-06-15 15:27:53",
+        "category": "Economy"
+    },
+    {
         "title": "She is the architect behind Russia's financial fortress.Now she is leaving the barricades at a critical time",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/hun-er-arkitekten-bag-ruslands-finansielle-fort-nu-forlader-hun-barrikaderne-paa-et-kritisk-tidspunkt?referrer=RSS",
@@ -357,143 +378,143 @@
         "category": "Economy"
     },
     {
-        "title": "US and Iran agree to end war: To be signed on Friday",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-og-iran-aftaler-afslutning-paa-krig-skal-underskrives-fredag?referrer=RSS",
-        "published_date": "2026-06-14 23:54:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Japan fights back and shares with Netherlands at World Cup",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/japan-kaemper-sig-tilbage-og-deler-med-holland-ved-vm?referrer=RSS",
-        "published_date": "2026-06-14 22:05:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pakistan: A peace agreement has been concluded between the US and Iran",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/pakistan-der-er-indgaaet-fredsaftale-mellem-usa-og-iran?referrer=RSS",
-        "published_date": "2026-06-14 21:56:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The oldest coach in World Cup history was overwhelmed by the national anthem",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/vm-historiens-aeldste-traener-blev-overvaeldet-over-nationalsang?referrer=RSS",
-        "published_date": "2026-06-14 20:53:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Happy and proud Emil Nielsen finishes with the CL title in Barcelona",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/glad-og-stolt-emil-nielsen-slutter-med-cl-titel-i-barcelona?referrer=RSS",
-        "published_date": "2026-06-14 20:04:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gidsel pays tribute to countryman: By far the world's best keeper",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/gidsel-hylder-landsmand-med-afstand-verdens-bedste-keeper?referrer=RSS",
-        "published_date": "2026-06-14 19:54:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Singer Oliver Tree among the dead in helicopter collision in Brazil",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sanger-oliver-tree-blandt-de-doede-ved-helikopterkollision-i-brasilien",
-        "published_date": "2026-06-14 18:45:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "12 died in a plane crash in the USA",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/12-formodes-doede-i-flystyrt-i-usa",
-        "published_date": "2026-06-14 18:24:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "21-year-old sentenced to over four years in prison for drug trafficking",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/21-aarig-idoemt-over-fire-aars-faengsel-narkohandel",
-        "published_date": "2026-06-14 17:38:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Used electric cars are skyrocketing in price: Now a large car dealer is making a clear appeal",
+        "title": "Four must go to prison after a wild case: - It is clearly unacceptable",
         "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/brugtbilmarkedet-er-i-brand-nu-skal-du-taenke-dig-godt-om?rss",
-        "published_date": "2026-06-14 17:00:00",
+        "url": "https://fyens.dk/112/flere-skal-i-faengsel-efter-omfattende-snyd-med-indfoedsretsproever?rss",
+        "published_date": "2026-06-15 16:45:20",
         "category": "Local Events"
     },
     {
-        "title": "Zelenskyy and Trump will meet at the G7 summit",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-og-trump-skal-moedes-til-g7-topmoedet",
-        "published_date": "2026-06-14 16:43:03",
+        "title": "Summer holidays and rushed bills: What changes in Denmark in July 2026",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260615/what-changes-in-denmark",
+        "published_date": "2026-06-15 16:39:46",
         "category": "Local Events"
     },
     {
-        "title": "Six killed in collision between two helicopters in Rio de Janeiro",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/seks-draebt-i-kollision-mellem-helikoptere-i-rio-de-janeiro",
-        "published_date": "2026-06-14 15:39:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump: Today's attack in Beirut should not have happened",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-dagens-angreb-i-beirut-burde-ikke-have-fundet-sted",
-        "published_date": "2026-06-14 15:20:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Churches offer instant weddings on June 26",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kirker-tilbyder-straks-vielser-den-26-juni",
-        "published_date": "2026-06-14 14:42:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israel attacks Hezbollah targets in Beirut",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israel-angriber-hizbollah-maal-i-beirut",
-        "published_date": "2026-06-14 13:00:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jesper came home from work and saw a beautiful woman in the garden: - I think I just fell in love",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/fyn/jesper-kom-hjem-fra-job-og-saa-en-smuk-kvinde-i-haven-jeg-tror-bare-jeg-blev-forelsket?rss",
-        "published_date": "2026-06-14 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Olsen Dyhr continues to stand strong in SF, assesses the commentator",
+        "title": "Officials: US and Iran have already signed agreement",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/olsen-dyhr-staar-fortsat-staerkt-i-sf-vurderer-kommentator?referrer=RSS",
-        "published_date": "2026-06-14 12:48:52",
+        "url": "https://www.berlingske.dk/internationalt/embedsmaend-usa-og-iran-har-allerede-underskrevet-aftale?referrer=RSS",
+        "published_date": "2026-06-15 16:01:46",
         "category": "Local Events"
     },
     {
-        "title": "Cases of money laundering in Herning have grown by 153 million",
+        "title": "Tunisia fires national coach shortly after Swedish WC slapping",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/sag-om-hvidvask-i-herning-er-vokset-med-153-millioner?referrer=RSS",
-        "published_date": "2026-06-14 12:48:48",
+        "url": "https://www.berlingske.dk/sport/tunesien-fyrer-landstraener-kort-efter-svensk-vm-lussing?referrer=RSS",
+        "published_date": "2026-06-15 15:50:49",
         "category": "Local Events"
     },
     {
-        "title": "60,000 eelgrass shoots will help restore life in pressured fjords",
+        "title": "Media: Fires at Starmer properties linked to Russia",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/60000-aalegraesskud-skal-hjaelpe-livet-tilbage-i-pressede-fjorde?referrer=RSS",
-        "published_date": "2026-06-14 12:26:46",
+        "url": "https://www.berlingske.dk/internationalt/medier-brande-ved-starmer-ejendomme-knyttet-til-rusland?referrer=RSS",
+        "published_date": "2026-06-15 15:47:47",
         "category": "Local Events"
     },
     {
-        "title": "Conflict flares up again - blocks disputed AI models after warning",
+        "title": "Storeb\u00e6ltsbroen reopens in both directions after car on fire",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/konflikt-blusser-op-igen--blokerer-omstridte-ai-modeller-efter-advarsel?referrer=RSS",
-        "published_date": "2026-06-14 12:26:08",
+        "url": "https://www.berlingske.dk/indland/storebaeltsbroen-genaabner-i-begge-retninger-efter-bil-i-brand?referrer=RSS",
+        "published_date": "2026-06-15 15:37:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"Only four years?!\" the young Norwegians ask in disbelief in the case that haunts Norway",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/eksistens/kun-fire-aar-spoerger-de-unge-nordmaend-med-vantro-i-den-sag-der-forfoelger-norge?referrer=RSS",
+        "published_date": "2026-06-15 15:34:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andrea Elisabeth Rudolph returns as director of her beauty company",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/andrea-elisabeth-rudolph-genindtraeder-som-direktoer-i-sit-skoenhedsfirma?referrer=RSS",
+        "published_date": "2026-06-15 15:27:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Storeb\u00e6ltbroen reopened, after car fire stopped traffic",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/storebaeltsbroen-lukket-trafik-mod-sjaelland",
+        "published_date": "2026-06-15 15:23:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danes buy Pok\u00e9mon cards for almost half a million kroner",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansker-koeber-pokemon-kort-knap-en-halv-million-kroner",
+        "published_date": "2026-06-15 15:06:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark to bask in 30C on weekend in early summer heat wave",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260615/denmark-to-bask-in-30c-on-weekend-in-early-summer-heat-wave",
+        "published_date": "2026-06-15 15:03:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four convicted in case of organized fraud with citizenship test",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/fire-doemt-i-sag-om-organiseret-snyd-med-statsborgerskabsproeve?referrer=RSS",
+        "published_date": "2026-06-15 15:02:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Major damage to the roof of the nearly 1,000-year-old monastery in Kyiv",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/store-skader-paa-taget-i-naesten-1-000-aar-gammelt-kloster-i-kyiv",
+        "published_date": "2026-06-15 14:55:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire at the psychiatric ward in Aalborg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brand-paa-psykiatrisk-afdeling-i-aalborg",
+        "published_date": "2026-06-15 14:44:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former employee in Swedish defense is suspected of Russian espionage",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-ansat-i-svensk-forsvar-mistaenkes-russisk-spionage",
+        "published_date": "2026-06-15 13:27:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor reacts to new information about the train accident on the Gribskov Line",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/borgmester-reagerer-paa-nye-oplysninger-om-togulykken-paa-gribskovsbanen",
+        "published_date": "2026-06-15 13:15:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bankruptcy lawyer from 'The Black Swan' gets suspended for five years",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/konkursadvokat-fra-den-sorte-svane-faar-karantaene-i-fem-aar",
+        "published_date": "2026-06-15 12:25:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marius Borg H\u00f8iby is appealing the prison sentence",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-anker-faengselsdom",
+        "published_date": "2026-06-15 12:09:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "16-year-old jailed: Was in possession of homemade bomb",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/16-aarig-faengslet-var-i-besiddelse-af-hjemmelavet-bombe",
+        "published_date": "2026-06-15 11:07:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Animal Protection received over 500 reports about animals stuck in waste",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dyrenes-beskyttelse-fik-over-500-anmeldelser-om-dyr-der-sad-fast-i-affald",
+        "published_date": "2026-06-15 10:52:45",
         "category": "Local Events"
     }
 ]
