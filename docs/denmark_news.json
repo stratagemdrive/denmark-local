@@ -1,5 +1,12 @@
 [
     {
+        "title": "The EU opens the first area of \u200b\u200bnegotiation with Ukraine on the road to membership",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/eu-aabner-foerste-forhandlingsomraade-med-ukraine-paa-vejen-mod-medlemskab?referrer=RSS",
+        "published_date": "2026-06-15 19:47:43",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Montenegro moves closer to EU membership",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/montenegro-rykker-taettere-paa-eu-medlemskab",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Mette Frederiksen: 'There is definitely a need for a stronger European defense'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-der-er-helt-sikkert-behov-et-staerkere-europaeisk-forsvar",
-        "published_date": "2026-06-11 10:02:48",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Ukrainian guilty of arson against Starmer properties",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/ukrainer-skyldig-i-brandstiftelse-mod-starmer-ejendomme",
@@ -238,20 +238,6 @@
         "category": "Military"
     },
     {
-        "title": "Iran launches wave of missiles at Israel",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iran-affyrer-boelge-af-missiler-mod-israel?referrer=RSS",
-        "published_date": "2026-06-07 21:34:49",
-        "category": "Military"
-    },
-    {
-        "title": "See all the reactions: Eriksen's collapse goes around the world - he is fine",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sport/kampen-er-aflyst-eriksen-er-ved-bevidsthed-efter-episode-mod-ukraine?rss",
-        "published_date": "2026-06-07 20:00:39",
-        "category": "Military"
-    },
-    {
         "title": "Business update: Major American banks let employees watch the World Cup from home",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/business-update-amerikanske-storbanker-lader-medarbejdere-se-vm-hjemmefra?referrer=RSS",
@@ -313,6 +299,27 @@
         "url": "https://www.berlingske.dk/danmark/frederiksberg-kommune-opsaetter-buste-af-jytte-abildstroem?referrer=RSS",
         "published_date": "2026-06-09 12:56:47",
         "category": "Energy"
+    },
+    {
+        "title": "US stocks rise on agreement between the US and Iran",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/amerikanske-aktier-stiger-oven-paa-aftale-mellem-usa-og-iran?referrer=RSS",
+        "published_date": "2026-06-15 22:44:45",
+        "category": "Economy"
+    },
+    {
+        "title": "Dansk Erhverv will use B\u00f8rsen experience to rebuild a monastery in Kyiv",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansk-erhverv-vil-bruge-boersen-erfaring-til-genopbygning-af-kloster-i-kyiv",
+        "published_date": "2026-06-15 21:20:25",
+        "category": "Economy"
+    },
+    {
+        "title": "Dansk Erhverv will help with the restoration of the Petjerska monastery",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dansk-erhverv-vil-hjaelpe-med-genopfoerslen-af-petjerska-klostret?referrer=RSS",
+        "published_date": "2026-06-15 21:16:48",
+        "category": "Economy"
     },
     {
         "title": "Trump got a peace agreement on his birthday - today's stories are selected by Tom Jensen",
@@ -378,6 +385,83 @@
         "category": "Economy"
     },
     {
+        "title": "Vance: Agreement between the US and Iran is very general",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/vance-aftale-mellem-usa-og-iran-er-meget-overordnet?referrer=RSS",
+        "published_date": "2026-06-15 23:38:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eight presumed dead after B-52 bomber crashes in California",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/otte-formodes-doede-efter-b-52-bombefly-er-styrtet-ned-i-californien?referrer=RSS",
+        "published_date": "2026-06-15 22:41:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Belgium and Egypt share an even World Cup match",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/belgien-og-egypten-deler-i-jaevnbyrdigt-vm-opgoer?referrer=RSS",
+        "published_date": "2026-06-15 21:10:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "SpaceX is up 20 percent and is now worth $2.5 trillion",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/spacex-stiger-med-20-procent-og-er-nu-2500-milliarder-dollar-vaerd?referrer=RSS",
+        "published_date": "2026-06-15 21:02:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Male researcher: The Pia Olsen Dyhr case shows where #metoo is heading",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/mandeforsker-pia-olsen-dyhr-sagen-viser-hvor-metoo-er-paa-vej-hen?referrer=RSS",
+        "published_date": "2026-06-15 20:46:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eight people are dead after B-52 bombers crash in California",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/b-52-bombefly-styrter-kort-efter-afgang-i-californien",
+        "published_date": "2026-06-15 20:37:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former DR presenter and author Eva J\u00f8rgensen has died",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/tidligere-dr-vaert-og-forfatter-eva-joergensen-er-doed?referrer=RSS",
+        "published_date": "2026-06-15 20:20:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former TV presenter at DR Eva J\u00f8rgensen has died",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-tv-vaert-paa-dr-eva-joergensen-er-doed",
+        "published_date": "2026-06-15 20:02:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reality must sink in in Spain after the Cape Verde shock",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/virkeligheden-maa-synke-ind-i-spanien-efter-kap-verde-chok?referrer=RSS",
+        "published_date": "2026-06-15 19:47:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Doctors Without Borders acknowledges: At least 59 Sudanese refugees were sexually abused",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/laeger-uden-graenser-erkender-mindst-59-sudanesiske-flygtninge-blev-seksuelt-misbrugt",
+        "published_date": "2026-06-15 19:24:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russian captain indicted for cable sabotage with anchor in the Gulf of Finland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/russisk-kaptajn-tiltalt-kabelsabotage-med-anker-i-den-finske-bugt",
+        "published_date": "2026-06-15 18:20:40",
+        "category": "Local Events"
+    },
+    {
         "title": "Four must go to prison after a wild case: - It is clearly unacceptable",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/112/flere-skal-i-faengsel-efter-omfattende-snyd-med-indfoedsretsproever?rss",
@@ -389,6 +473,13 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260615/what-changes-in-denmark",
         "published_date": "2026-06-15 16:39:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The region launches an investigation after new information about the train accident",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/regionen-saetter-undersoegelse-i-gang-efter-nye-oplysninger-om-togulykke",
+        "published_date": "2026-06-15 16:10:11",
         "category": "Local Events"
     },
     {
@@ -431,90 +522,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/andrea-elisabeth-rudolph-genindtraeder-som-direktoer-i-sit-skoenhedsfirma?referrer=RSS",
         "published_date": "2026-06-15 15:27:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Storeb\u00e6ltbroen reopened, after car fire stopped traffic",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/storebaeltsbroen-lukket-trafik-mod-sjaelland",
-        "published_date": "2026-06-15 15:23:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danes buy Pok\u00e9mon cards for almost half a million kroner",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansker-koeber-pokemon-kort-knap-en-halv-million-kroner",
-        "published_date": "2026-06-15 15:06:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark to bask in 30C on weekend in early summer heat wave",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260615/denmark-to-bask-in-30c-on-weekend-in-early-summer-heat-wave",
-        "published_date": "2026-06-15 15:03:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four convicted in case of organized fraud with citizenship test",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/fire-doemt-i-sag-om-organiseret-snyd-med-statsborgerskabsproeve?referrer=RSS",
-        "published_date": "2026-06-15 15:02:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Major damage to the roof of the nearly 1,000-year-old monastery in Kyiv",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/store-skader-paa-taget-i-naesten-1-000-aar-gammelt-kloster-i-kyiv",
-        "published_date": "2026-06-15 14:55:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire at the psychiatric ward in Aalborg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brand-paa-psykiatrisk-afdeling-i-aalborg",
-        "published_date": "2026-06-15 14:44:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former employee in Swedish defense is suspected of Russian espionage",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-ansat-i-svensk-forsvar-mistaenkes-russisk-spionage",
-        "published_date": "2026-06-15 13:27:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor reacts to new information about the train accident on the Gribskov Line",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/borgmester-reagerer-paa-nye-oplysninger-om-togulykken-paa-gribskovsbanen",
-        "published_date": "2026-06-15 13:15:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bankruptcy lawyer from 'The Black Swan' gets suspended for five years",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/konkursadvokat-fra-den-sorte-svane-faar-karantaene-i-fem-aar",
-        "published_date": "2026-06-15 12:25:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marius Borg H\u00f8iby is appealing the prison sentence",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-anker-faengselsdom",
-        "published_date": "2026-06-15 12:09:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "16-year-old jailed: Was in possession of homemade bomb",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/16-aarig-faengslet-var-i-besiddelse-af-hjemmelavet-bombe",
-        "published_date": "2026-06-15 11:07:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Animal Protection received over 500 reports about animals stuck in waste",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dyrenes-beskyttelse-fik-over-500-anmeldelser-om-dyr-der-sad-fast-i-affald",
-        "published_date": "2026-06-15 10:52:45",
         "category": "Local Events"
     }
 ]
