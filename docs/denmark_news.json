@@ -1,5 +1,12 @@
 [
     {
+        "title": "UN Secretary-General to violence-stricken Haiti: I ask for forgiveness",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fns-generalsekretaer-til-voldsramte-haiti-jeg-beder-om-tilgivelse?referrer=RSS",
+        "published_date": "2026-06-16 23:04:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Most beaches in Europe offer 'excellent' water quality, study says",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260616/most-beaches-in-europe-offer-excellent-water-quality-study-says",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Denmark's first secretary-general in the EU's Council of Ministers has died",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danmarks-foerste-generalsekretaer-i-eu-s-ministerraad-er-doed",
-        "published_date": "2026-06-12 09:01:28",
-        "category": "Diplomacy"
-    },
-    {
         "title": "The armed forces are replacing frayed uniforms",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/forsvaret-udskifter-flossede-uniformer?referrer=RSS",
@@ -238,20 +238,6 @@
         "category": "Military"
     },
     {
-        "title": "Report: Spending on nuclear weapons reaches record high",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rapport-udgifter-til-atomvaaben-naar-rekordhoejt-niveau?referrer=RSS",
-        "published_date": "2026-06-08 23:30:51",
-        "category": "Military"
-    },
-    {
-        "title": "Zelenskyy counts on American help soon to end the war",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/zelenskyj-regner-med-snarlig-amerikansk-hjaelp-for-at-afslutte-krig?referrer=RSS",
-        "published_date": "2026-06-08 21:34:47",
-        "category": "Military"
-    },
-    {
         "title": "Business update: Major American banks let employees watch the World Cup from home",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/business-update-amerikanske-storbanker-lader-medarbejdere-se-vm-hjemmefra?referrer=RSS",
@@ -313,6 +299,13 @@
         "url": "https://www.berlingske.dk/danmark/frederiksberg-kommune-opsaetter-buste-af-jytte-abildstroem?referrer=RSS",
         "published_date": "2026-06-09 12:56:47",
         "category": "Energy"
+    },
+    {
+        "title": "Mentoring must keep vocational school students on their education",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mentorordning-skal-fastholde-erhvervsskoleelever-paa-deres-uddannelse",
+        "published_date": "2026-06-16 15:57:10",
+        "category": "Economy"
     },
     {
         "title": "US stocks rise on agreement between the US and Iran",
@@ -399,6 +392,132 @@
         "category": "Economy"
     },
     {
+        "title": "Eduardo Bolsonaro is sentenced for seeking support in the United States for his father's case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/eduardo-bolsonaro-doemmes-for-at-soege-stoette-i-usa-til-sin-fars-sag?referrer=RSS",
+        "published_date": "2026-06-16 23:56:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Health authority: Ebola outbreak could be worst ever",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/sundhedsmyndighed-udbrud-af-ebola-kan-blive-det-vaerste-nogensinde?referrer=RSS",
+        "published_date": "2026-06-16 21:58:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Does inheritance tax pay for the government's freebies?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/betaler-arveafgiften-for-regeringens-gratis-gaver?referrer=RSS",
+        "published_date": "2026-06-16 21:48:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump's ballroom will be $200 million more expensive than estimated",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trumps-balsal-bliver-200-millioner-dollar-dyrere-end-anslaaet?referrer=RSS",
+        "published_date": "2026-06-16 21:42:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "French stars wake up in the second half against Senegal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/franske-stjerner-vaagner-i-anden-halvleg-mod-senegal?referrer=RSS",
+        "published_date": "2026-06-16 21:14:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Neymar is training for the first time at the World Cup finals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/neymar-traener-for-foerste-gang-ved-vm-slutrunden?referrer=RSS",
+        "published_date": "2026-06-16 21:08:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trade unions criticize rules for concealing the names of exposed personnel",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/fagforeninger-kritiserer-regler-for-navnesloering-af-udsat-personale?referrer=RSS",
+        "published_date": "2026-06-16 20:33:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swedish Prime Minister's wife landed in possible scandal after revelations about voluntary work: Looks like \"pure\" corruption, says expert",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/svensk-statsministerfrue-havnet-i-mulig-skandale-efter-afsloeringer-om-frivilligt-arbejde-ligner-ren-og-skaer-korruption-siger-ekspert?referrer=RSS",
+        "published_date": "2026-06-16 20:11:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of donors in Norway continues to rise after Mette-Marit's illness",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/donortallet-i-norge-stiger-fortsat-efter-mette-marits-sygdom?referrer=RSS",
+        "published_date": "2026-06-16 20:07:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marianne's son was so looking forward to his electric bike - now he is completely unhappy",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/esbjerg/mariannes-soen-glaedede-sig-saa-meget-til-sin-elcykel-nu-er-han-helt-ulykkelig?rss",
+        "published_date": "2026-06-16 19:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "FBI prevents attack on Trump's birthday show",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fbi-forhindrer-angreb-mod-trumps-foedselsdags-show",
+        "published_date": "2026-06-16 19:11:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "New nuclear power may be on the way at Barseb\u00e4ck - the company is applying for a permit",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-atomkraft-kan-vaere-paa-vej-ved-barseback-selskab-soeger-om-tilladelse",
+        "published_date": "2026-06-16 18:12:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Over 800 confirmed cases of Ebola in DR Congo",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/over-800-bekraeftede-tilfaelde-af-ebola-i-dr-congo",
+        "published_date": "2026-06-16 17:52:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Copenhagen will be the host city for the World Championships in over 40 different sports in 2028",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/koebenhavn-skal-vaere-vaertsby-til-dm-i-over-40-forskellige-sportsgrene-i-2028",
+        "published_date": "2026-06-16 17:16:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norway will change the constitution so that Princess Ingrid Alexandra can act as regent",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/norge-vil-aendre-forfatning-saa-prinsesse-ingrid-alexandra-kan-fungere-som-regent",
+        "published_date": "2026-06-16 17:01:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Huge round of layoffs in historic company: 75 percent are terminated",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/erhverv/kaempe-fyringsrunde-i-historisk-virksomhed-75-procent-opsiges?rss",
+        "published_date": "2026-06-16 16:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark included in international declaration on the US-Iran agreement",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danmark-med-i-international-erklaering-om-usa-iran-aftalen",
+        "published_date": "2026-06-16 16:23:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Copenhagen district of Tingbjerg is getting a multi-hall for half a billion",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/koebenhavner-bydel-faar-multihal-til-halv-milliard",
+        "published_date": "2026-06-16 16:18:37",
+        "category": "Local Events"
+    },
+    {
         "title": "Fynsk restaurant serves Denmark's best sm\u00f8rrebr\u00f8d: - We are so proud and a little crazy",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/erhverv/fynsk-restaurant-serverer-danmarks-bedste-smoerrebroed-vi-er-saa-stolte-og-lidt-rundtossede?rss",
@@ -410,132 +529,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260616/danish-retailer-normal-reaches-settlement-in-counterfeit-products-case",
         "published_date": "2026-06-16 16:01:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "King Frederik inaugurates a new collection of Danish knightly orders in Hiller\u00f8d",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/kong-frederik-indvier-ny-samling-af-danske-ridderordener-i-hilleroed?referrer=RSS",
-        "published_date": "2026-06-16 15:42:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tauson's crisis continues with another defeat",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tausons-krise-fortsaetter-med-nyt-nederlag?referrer=RSS",
-        "published_date": "2026-06-16 15:38:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "One week, six breaks: How I discovered Denmark through day trips",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260616/one-week-six-breaks-how-i-discovered-denmark-through-day-trips-from-copenhagen",
-        "published_date": "2026-06-16 15:35:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Care worker denies dereliction of duty: I did the most important thing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/plejeansat-naegter-pligtforsoemmelse-jeg-gjorde-det-vigtigste?referrer=RSS",
-        "published_date": "2026-06-16 15:21:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "He started as a 12-year-old strawberry seller.Now he is among Norway's richest",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/han-startede-som-12-aarig-jordbaersaelger-nu-er-han-blandt-norges-rigeste?referrer=RSS",
-        "published_date": "2026-06-16 15:17:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Putin-critical artist shot dead in Poland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/putin-kritisk-kunstner-skudt-og-draebt-i-polen?referrer=RSS",
-        "published_date": "2026-06-16 15:00:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Business update: Danish rich man builds luxury mansion on his golf course - wine cellar and cinema are \"perhaps out of proportion\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/business-updatedansk-rigmand-bygger-luksuspalae-paa-sin-golfbane--vinkaelder-og-biograf-er-maaske-ude-af-proportioner?referrer=RSS",
-        "published_date": "2026-06-16 14:58:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "An unexpected storm of love awaited Algeria when they landed in Kansas: \"It really gave me goosebumps\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-uventet-kaerlighedsstorm-ventede-algeriet-da-de-landede-i-kansas-det-gav-mig-virkelig-gaasehud?referrer=RSS",
-        "published_date": "2026-06-16 14:55:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "SpaceX acquires newly started AI company for DKK 380 billion",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/spacex-opkoeber-nystartet-ai-virksomhed-380-milliarder-kroner",
-        "published_date": "2026-06-16 14:00:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norway's crown prince cancels several appointments due to Mette-Marit's illness",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norges-kronprins-aflyser-flere-aftaler-paa-grund-af-mette-marits-sygdom",
-        "published_date": "2026-06-16 13:58:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Central and Western Jutland abolishes the two visitation zones in Herning",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/midt-og-vestjylland-ophaever-de-visitationszoner-i-herning",
-        "published_date": "2026-06-16 13:56:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Worryingly many students' in Norway cannot read, write or do arithmetic properly",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bekymrende-mange-elever-i-norge-kan-ikke-kan-laese-skrive-eller-regne-ordentligt",
-        "published_date": "2026-06-16 12:32:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "EXPLAINED: Why is Denmark delaying new property valuations once again?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260616/explained-why-is-denmark-delaying-new-property-valuations-once-again",
-        "published_date": "2026-06-16 12:17:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Keir Starmer: New sanctions against Russia's shadow fleet",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/keir-starmer-nye-sanktioner-mod-ruslands-skyggeflaade",
-        "published_date": "2026-06-16 11:27:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sweden: Russian warplanes were headed for Stockholm and Karlskrona",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sverige-russiske-kampfly-havde-kurs-mod-stockholm-og-karlskrona",
-        "published_date": "2026-06-16 11:19:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "There will be 10 additional general practitioners in Central Jutland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/der-kommer-10-ekstra-praktiserende-laeger-til-midtjylland",
-        "published_date": "2026-06-16 11:08:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "No asbestos found in Danish play sand, inspection shows",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ingen-fund-af-asbest-i-dansk-legesand-viser-kontrol",
-        "published_date": "2026-06-16 10:35:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Relatives and survivors are appealing the verdict in the Scandinavian Star case",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/paaroerende-og-overlevende-anker-dom-i-scandinavian-star-sag",
-        "published_date": "2026-06-16 10:24:14",
         "category": "Local Events"
     }
 ]
