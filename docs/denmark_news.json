@@ -1,5 +1,33 @@
 [
     {
+        "title": "\"Bravo\" Macron exclaimed when Trump signed the peace agreement at Versailles - today's stories are selected by Tom Jensen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/bravo-udbroed-macron-da-trump-underskrev-fredsaftalen-paa-versailles--dagens-historier-er-udvalgt-af-tom-jensen?referrer=RSS",
+        "published_date": "2026-06-18 13:33:22",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Forget X here's W: The new European social network to take on Musk",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260618/forget-x-heres-w-the-new-european-social-network-to-take-on-musk",
+        "published_date": "2026-06-18 11:50:29",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Denmark's military to deploy a battalion in Latvia",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260618/denmarks-military-to-deploy-a-battalion-in-latvia",
+        "published_date": "2026-06-18 11:30:20",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Israel's foreign minister will cut off contact with the EU's foreign affairs chief",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israels-udenrigsminister-vil-afbryde-forbindelse-til-eu-s-udenrigschef",
+        "published_date": "2026-06-18 09:38:29",
+        "category": "Diplomacy"
+    },
+    {
         "title": "EU lawmakers give final approval for deportation centres outside bloc",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260617/eu-lawmakers-approve-return-hubs-migration-reform",
@@ -112,32 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Art museum in Kharkiv on fire after drone attack",
+        "title": "The ceasefire in the Middle East - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/vaabenhvilen-i-mellemoesten--foelg-med-her?referrer=RSS",
+        "published_date": "2026-06-18 13:08:31",
+        "category": "Military"
+    },
+    {
+        "title": "Zelenskyy: Ukraine is behind 'just' attack on oil refinery in Moscow",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kunstmuseum-i-kharkiv-i-brand-efter-droneangreb",
-        "published_date": "2026-06-14 19:36:58",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iranian media shows protesters criticizing foreign minister",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iransk-medie-viser-demonstranter-med-kritik-af-udenrigsminister?referrer=RSS",
-        "published_date": "2026-06-13 23:27:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Den Gamle By in Aarhus has been named European Museum of the Year",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/den-gamle-by-i-aarhus-er-kaaret-til-aarets-europaeiske-museum?referrer=RSS",
-        "published_date": "2026-06-13 19:10:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU to ban airlines from charging parents to sit with children",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260613/eu-to-ban-airlines-from-charging-parents-to-sit-with-children",
-        "published_date": "2026-06-13 10:06:35",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-ukraine-staar-bag-retfaerdigt-angreb-paa-olieraffinaderi-i-moskva",
+        "published_date": "2026-06-18 07:39:04",
+        "category": "Military"
     },
     {
         "title": "Finland's parliament votes to drop ban on nuclear weapons",
@@ -231,13 +245,6 @@
         "category": "Military"
     },
     {
-        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260610/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-57",
-        "published_date": "2026-06-10 08:38:05",
-        "category": "Military"
-    },
-    {
         "title": "The world's best energy researcher is Danish",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/verdens-bedste-forsker-i-energi-er-dansk",
@@ -292,6 +299,13 @@
         "url": "https://www.berlingske.dk/internationalt/verdensbanken-giver-trecifret-milliardhjaelp-til-lande-ramt-af-energikrise?referrer=RSS",
         "published_date": "2026-06-11 14:17:47",
         "category": "Energy"
+    },
+    {
+        "title": "Berlingske believes: Jakob Engel-Schmidt wraps unimaginable scandal in Orwellian new language",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/ledere/berlingske-mener-jakob-engel-schmidt-pakker-ufattelig-skandale-ind-i-orwellsk-nysprog?referrer=RSS",
+        "published_date": "2026-06-18 13:29:30",
+        "category": "Economy"
     },
     {
         "title": "The US central bank maintains interest rates under a new boss",
@@ -392,150 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "Inflation is rising again",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/inflationen-stiger-igen",
-        "published_date": "2026-06-10 07:09:10",
-        "category": "Economy"
-    },
-    {
-        "title": "Trump has signed an agreement with Iran in Versailles, France",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-har-underskrevet-aftale-med-iran-i-franske-versaille?referrer=RSS",
-        "published_date": "2026-06-17 23:29:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Well-placed Englishmen open the World Cup with victory over Croatia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/veloplagte-englaendere-aabner-vm-med-sejr-over-kroatien?referrer=RSS",
-        "published_date": "2026-06-17 22:08:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The world's first direct flight between London and Sydney is coming next year",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/verdens-foerste-direkte-flyrute-mellem-london-og-sydney-kommer-naeste-aar?referrer=RSS",
-        "published_date": "2026-06-17 21:57:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US and Iran have now signed the framework agreement electronically",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/medier-usa-og-iran-har-nu-underskrevet-rammeaftalen-elektronisk",
-        "published_date": "2026-06-17 21:52:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "OVERVIEW: This is what we know about the agreement between the US and Iran",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/overblik-det-ved-vi-om-aftalen-mellem-usa-og-iran?referrer=RSS",
-        "published_date": "2026-06-17 21:10:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "New environment minister hires former colleague as special adviser",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/ny-miljoeminister-ansaetter-tidligere-kollega-som-saerlig-raadgiver?referrer=RSS",
-        "published_date": "2026-06-17 20:55:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "With an emergency plan, the government wants to push data centers to the back of the queue on the electricity grid",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/regeringen-vil-med-akutplan-skubbe-datacentre-bag-i-koeen-paa-elnettet?referrer=RSS",
-        "published_date": "2026-06-17 20:27:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train traffic between the airport and Malm\u00f6 was suspended for hours",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/togtrafik-mellem-lufthavnen-og-malmoe-var-indstillet-i-timevis?referrer=RSS",
-        "published_date": "2026-06-17 20:07:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "England meet Croatia in the World Cup - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/england-moeder-kroatien-i-vm--foelg-med-her?referrer=RSS",
-        "published_date": "2026-06-17 19:51:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Doctor: If only we do as DSB in the healthcare system, there will be an immediate end to waiting lists, error rates and sad diagnoses",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/laege-hvis-bare-vi-goer-som-dsb-i-sundhedsvaesnet-vil-det-straks-vaere-slut-med-ventelister-fejlrater-og-triste-diagnoser?referrer=RSS",
-        "published_date": "2026-06-17 19:45:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish and Finnish officers are given the green light to move into both countries",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/svenske-og-finske-betjente-faar-groent-lys-til-rykke-ud-i-begge-lande",
-        "published_date": "2026-06-17 19:23:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "The fate of Timmy the humpback whale turns into a German performance",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pukkelhvalen-timmys-skaebne-bliver-til-tysk-forestilling",
-        "published_date": "2026-06-17 19:18:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US has published a memorandum of understanding with Iran",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-har-offentliggjort-forstaaelsespapir-med-iran",
-        "published_date": "2026-06-17 17:55:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The region is considering tighter controls after pay problems at the super hospital",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/region-overvejer-skaerpet-kontrol-efter-loenproblemer-paa-supersygehus",
-        "published_date": "2026-06-17 17:50:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "The trains run again over the \u00d8resund Bridge",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ingen-tog-over-oeresundsbroen-paa-grund-af-elfejl",
-        "published_date": "2026-06-17 17:04:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "IN DATA: Who is stuck waiting for a new citizenship bill?",
+        "title": "Copenhagen lays out new rules to avoid cycle wars between locals and tourists",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260617/in-data-who-is-stuck-waiting-for-a-new-citizenship-bill",
-        "published_date": "2026-06-17 16:21:10",
+        "url": "https://www.thelocal.dk/20260618/copenhagen-lays-out-new-rules-to-avoid-cycle-wars-between-locals-and-tourists",
+        "published_date": "2026-06-18 14:17:51",
         "category": "Local Events"
     },
     {
-        "title": "Life in prison for killing eight women in New York",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/faengsel-paa-livstid-drab-paa-otte-kvinder-i-new-york",
-        "published_date": "2026-06-17 16:08:54",
+        "title": "Man assaulted three women in Copenhagen and gets eight years in prison",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-overfaldt-tre-kvinder-i-koebenhavn-og-faar-otte-aars-faengsel?referrer=RSS",
+        "published_date": "2026-06-18 13:54:44",
         "category": "Local Events"
     },
     {
-        "title": "G7 countries agree on increased pressure on Russia - including the US, says Macron",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/g7-lande-enige-om-oeget-pres-paa-rusland-ogsaa-usa-siger-macron",
-        "published_date": "2026-06-17 15:57:48",
+        "title": "Morten Storm stood out as an agent and now wants a higher early retirement pension",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/morten-storm-stod-frem-som-agent-og-vil-nu-have-hoejere-foertidspension?referrer=RSS",
+        "published_date": "2026-06-18 13:48:44",
         "category": "Local Events"
     },
     {
-        "title": "Two men sentenced to prison terms after several burglaries",
+        "title": "Eight years in prison and deportation in a rape case",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maend-idoemt-faengselsstraffe-efter-flere-indbrud",
-        "published_date": "2026-06-17 15:41:31",
+        "url": "https://www.dr.dk/nyheder/seneste/otte-aars-faengsel-og-udvisning-i-voldtaegtssag",
+        "published_date": "2026-06-18 13:45:51",
         "category": "Local Events"
     },
     {
-        "title": "Luigi Mangione will use \"emotional disturbance\" as a defense",
+        "title": "Around 20 people evacuated from a building in Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/omkring-20-personer-evakueret-fra-bygning-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-06-18 13:38:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "OB lifts the target and wants to play with the heavy boys",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/ob-loefter-maalsaetning-og-vil-lege-med-de-tunge-drenge?referrer=RSS",
+        "published_date": "2026-06-18 13:22:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump in the White House - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-i-det-hvide-hus--foelg-med-her-103?referrer=RSS",
+        "published_date": "2026-06-18 13:12:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "World Cup in football - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/vm-i-fodbold--foelg-med-her-3?referrer=RSS",
+        "published_date": "2026-06-18 13:11:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Here you get the latest news about Danish politics",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/her-faar-du-seneste-nyt-om-dansk-politik-8?referrer=RSS",
+        "published_date": "2026-06-18 13:10:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "20 people evacuated in Copenhagen: 'They have had a bad time'",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/luigi-mangione-vil-bruge-foelelsesmaessig-forstyrrelse-som-forsvar",
-        "published_date": "2026-06-17 15:27:45",
+        "url": "https://www.dr.dk/nyheder/seneste/20-personer-evakueret-i-koebenhavn-de-har-faaet-det-daarligt",
+        "published_date": "2026-06-18 12:52:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "High Court rejects detention for 'the man on the bike'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/landsret-afviser-forvaring-til-manden-paa-cyklen",
+        "published_date": "2026-06-18 11:56:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man arrested for sending daughter to re-education in Lebanon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-anholdt-sende-datter-til-genopdragelse-i-libanon",
+        "published_date": "2026-06-18 11:06:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Studstrup plant replaces the wood pellets with sun, wind and heat pumps",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/studstrupvaerket-skifter-traepillerne-ud-med-sol-vind-og-varmepumper",
+        "published_date": "2026-06-18 10:53:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "25-year-old found guilty of attempted murder: Man survived two shots to the head",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/25-aarig-kendt-skyldig-i-drabsforsoeg-mand-overlevede-skud-i-hovedet",
+        "published_date": "2026-06-18 10:51:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Open AI opens its first Nordic office in Sweden",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/open-ai-aabner-sit-foerste-nordiske-kontor-i-sverige",
+        "published_date": "2026-06-18 08:51:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Researchers are looking for menopausal women for trials with forms of treatment",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/forskere-soeger-kvinder-i-overgangsalderen-til-forsoeg-med-behandlingsformer",
+        "published_date": "2026-06-18 08:40:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "A suspect in the case of the murder of a Russian satirist has been arrested in Poland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mistaenkt-i-sag-om-drab-paa-russisk-satiriker-er-anholdt-i-polen",
+        "published_date": "2026-06-18 08:38:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Archaeologists find simpler and older version of Stonehenge",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/arkaeologer-finder-enklere-og-aeldre-version-af-stonehenge",
+        "published_date": "2026-06-18 08:31:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Supreme Court must decide on the Danish citizenship of gang criminals",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hoejesteret-skal-tage-stilling-til-bandekriminels-danske-statsborgerskab",
+        "published_date": "2026-06-18 07:52:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "11 were sent to hospital after listeria was found in fish patties last year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/11-blev-sendt-paa-hospitalet-efter-listeriafund-i-fiskefrikadeller-sidste-aar",
+        "published_date": "2026-06-18 06:51:32",
         "category": "Local Events"
     }
 ]
