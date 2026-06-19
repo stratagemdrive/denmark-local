@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The President of Poland strips Zelenskyj of the Polish Order",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/polens-praesident-fratager-zelenskyj-polsk-orden?referrer=RSS",
+        "published_date": "2026-06-19 19:55:47",
+        "category": "Military"
+    },
+    {
+        "title": "Ukraine claims to have attacked train bridges in Crimea",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-haevder-have-angrebet-togbroer-paa-krim",
+        "published_date": "2026-06-19 14:57:55",
+        "category": "Military"
+    },
+    {
         "title": "US official: Israel and Hezbollah agree to ceasefire",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/amerikansk-embedsmand-israel-og-hizbollah-er-enige-om-vaabenhvile?referrer=RSS",
@@ -266,6 +280,20 @@
         "category": "Military"
     },
     {
+        "title": "Pippi Longstocking returns in new animated TV series",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pippi-langstroempe-vender-tilbage-i-ny-animeret-tv-serie",
+        "published_date": "2026-06-19 18:21:07",
+        "category": "Energy"
+    },
+    {
+        "title": "Recalled after discovery of listeria bacteria: Infection can cause unpleasant symptoms",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/fyn/tilbagekaldes-efter-fund-af-listeria-bakterie-infektion-kan-give-influenzalignende-symptomer?rss",
+        "published_date": "2026-06-19 17:30:00",
+        "category": "Energy"
+    },
+    {
         "title": "The mayor wants the authorities' help with oil pollution from Nordic Waste",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/borgmester-vil-have-myndigheders-hjaelp-til-olieforurening-fra-nordic-waste?referrer=RSS",
@@ -322,11 +350,11 @@
         "category": "Energy"
     },
     {
-        "title": "The World Bank provides three-digit billion aid to countries affected by the energy crisis",
+        "title": "The Trump administration is deeply unhappy with Cuba's reform plans",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/verdensbanken-giver-trecifret-milliardhjaelp-til-lande-ramt-af-energikrise?referrer=RSS",
-        "published_date": "2026-06-11 14:17:47",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/internationalt/trump-administration-er-staerkt-utilfreds-med-cubas-reformplaner?referrer=RSS",
+        "published_date": "2026-06-19 23:34:46",
+        "category": "Economy"
     },
     {
         "title": "Cuba's government proposes historic economic reforms",
@@ -420,11 +448,95 @@
         "category": "Economy"
     },
     {
-        "title": "Danmarks Nationalbank follows the ECB and raises interest rates",
+        "title": "Yamal is still not ready for 90 minutes for Spain at the World Cup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/yamal-er-fortsat-ikke-klar-til-90-minutter-for-spanien-til-vm?referrer=RSS",
+        "published_date": "2026-06-19 23:37:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of people infected with Ebola in the DR Congo is approaching 1,000",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/antallet-af-ebola-smittede-i-dr-congo-naermer-sig-1000?referrer=RSS",
+        "published_date": "2026-06-19 22:28:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "USA advances from the group with victory over Australia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/usa-spiller-sig-videre-fra-gruppen-med-sejr-over-australien?referrer=RSS",
+        "published_date": "2026-06-19 21:22:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The light rail in Odense runs normally again with a new permit",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/letbanen-i-odense-koerer-normalt-igen-med-ny-tilladelse?referrer=RSS",
+        "published_date": "2026-06-19 21:19:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "One person has been killed in a train accident north of London",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/en-person-er-draebt-ved-togulykke-nord-for-london?referrer=RSS",
+        "published_date": "2026-06-19 20:50:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Law professor: Aalborg's mayor has a big problem",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/juraprofessor-aalborg-borgmester-har-et-stort-problem?referrer=RSS",
+        "published_date": "2026-06-19 20:26:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "An entire nation's football hero: DR Congo's superfan claims he can stop the opposition from scoring",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/en-hel-nations-fodboldhelt-dr-congos-superfan-haevder-at-han-kan-forhindre-modstanderne-i-at-score?referrer=RSS",
+        "published_date": "2026-06-19 20:11:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Farmers and nature lovers are dissatisfied with the new nitrogen agreement",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/landmaend-og-naturvenner-er-utilfredse-med-ny-kvaelstofaftale?referrer=RSS",
+        "published_date": "2026-06-19 19:41:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The President of Poland takes orders from Zelenskyj",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nationalbanken-foelger-ecb-og-haever-renten-2",
-        "published_date": "2026-06-11 15:13:55",
-        "category": "Economy"
+        "url": "https://www.dr.dk/nyheder/seneste/polens-praesident-tager-orden-fra-zelenskyj",
+        "published_date": "2026-06-19 18:37:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The royal couple participated in the inauguration of a new work of art in Aarhus",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kongeparret-deltog-i-indvielse-af-nyt-kunstvaerk-i-aarhus",
+        "published_date": "2026-06-19 17:34:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fishermen in revolt: They came with tractors, horses and angry messages",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/toender/fiskere-i-oproer-de-kom-med-traktorer-heste-og-vrede-budskaber?rss",
+        "published_date": "2026-06-19 16:02:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The hottest day of the year so far is busy at Denmark's oldest open-air bath",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/aarets-hidtil-varmeste-dag-giver-travlhed-hos-danmarks-aeldste-friluftsbad",
+        "published_date": "2026-06-19 14:04:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two jailed for fires linked to Keir Starmer",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/faar-faengselsstraffe-brande-med-forbindelse-til-keir-starmer",
+        "published_date": "2026-06-19 14:01:57",
+        "category": "Local Events"
     },
     {
         "title": "Professor expects charges against TV 2 for alleged hacking",
@@ -473,97 +585,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/mette-marits-boern-tager-til-vm-i-usa-til-glaede-for-kronprinsessen?referrer=RSS",
         "published_date": "2026-06-19 13:23:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dane abroad sentenced for money laundering of DKK 165 million",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/udenlandsdansker-doemt-hvidvask-af-165-millioner-kroner",
-        "published_date": "2026-06-19 13:08:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mushrooms are recalled",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/champignoner-tilbagekaldes",
-        "published_date": "2026-06-19 12:41:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Take care, Kirsten!The police experience cases where the victims have the same name",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pas-paa-kirsten-politiet-oplever-sager-hvor-ofrene-har-samme-navn",
-        "published_date": "2026-06-19 12:14:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen is one step closer to less waste sorting",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/koebenhavn-er-et-skridt-taettere-paa-mindre-affaldssortering",
-        "published_date": "2026-06-19 11:46:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norway will establish a consulate in Greenland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norge-vil-oprette-konsulat-i-groenland",
-        "published_date": "2026-06-19 11:24:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Greenland sees wildfires earlier in the year",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260619/greenland-sees-wildfires-earlier-in-the-year",
-        "published_date": "2026-06-19 10:13:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Traffic chaos ahead: Expect at least two hours to get over the R\u00f8m\u00f8 dam",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/toender/trafikkaos-forude-regn-med-mindst-to-timer-for-at-komme-over-roemoe-daemningen?rss",
-        "published_date": "2026-06-19 08:58:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man shot pigeon-killing cat with air rifle",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/mand-skoed-duedraebende-kat-med-luftgevaer?rss",
-        "published_date": "2026-06-19 08:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pigs run around after an accident in North Jutland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/grise-loeber-rundt-efter-uheld-i-nordjylland",
-        "published_date": "2026-06-19 07:33:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danes bought less alcohol at home last year",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danskerne-koebte-mindre-alkohol-herhjemme-sidste-aar",
-        "published_date": "2026-06-19 07:12:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "- It is degrading: Fynbus advertises with disabled-friendly buses, but Tina cannot come",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/trafik/det-er-nedvaerdigende-fynbus-reklamerer-med-handicapvenlige-busser-men-tina-kan-ikke-komme-med?rss",
-        "published_date": "2026-06-19 07:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two directors remanded in custody in case of million-dollar fraud on residences",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/direktoerer-varetaegtsfaengslet-i-sag-om-millionsvindel-paa-bosteder",
-        "published_date": "2026-06-19 06:23:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Local hospital ward has one serious or fatal incident a month: This is how they explain themselves",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/lokal-sygehus-afdeling-har-en-alvorlig-eller-doedelig-haendelse-om-maaneden-saadan-forklarer-de-sig?rss",
-        "published_date": "2026-06-19 06:12:00",
         "category": "Local Events"
     }
 ]
