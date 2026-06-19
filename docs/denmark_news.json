@@ -1,5 +1,19 @@
 [
     {
+        "title": "Today in Denmark: A roundup of the latest news on Friday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260619/today-in-denmark-a-roundup-of-the-latest-news-on-friday-49",
+        "published_date": "2026-06-19 10:47:27",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Denmark and 18 other EU countries are pushing for the establishment of reception and departure centers outside Europe",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danmark-og-18-andre-eu-lande-presser-paa-oprettelse-af-modtage-og-udrejsecentre-udenfor-europa",
+        "published_date": "2026-06-19 08:04:38",
+        "category": "Diplomacy"
+    },
+    {
         "title": "EU leaders will open all areas in negotiations with Ukraine",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/eu-ledere-vil-aabne-alle-omraader-i-forhandlinger-med-ukraine?referrer=RSS",
@@ -126,18 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Most beaches in Europe offer 'excellent' water quality, study says",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260616/most-beaches-in-europe-offer-excellent-water-quality-study-says",
-        "published_date": "2026-06-16 16:22:00",
-        "category": "Diplomacy"
+        "title": "US official: Israel and Hezbollah agree to ceasefire",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/amerikansk-embedsmand-israel-og-hizbollah-er-enige-om-vaabenhvile?referrer=RSS",
+        "published_date": "2026-06-19 13:51:51",
+        "category": "Military"
     },
     {
-        "title": "Russian frigate fires warning shots at yacht in English Channel",
+        "title": "On Friday morning, an explosive report landed.But rapporteurs lack evidence for Mette Frederiksen's claim of an \"attack\" on Denmark",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/russisk-fregat-affyrer-varselsskud-mod-yacht-i-den-engelske-kanal?referrer=RSS",
-        "published_date": "2026-06-16 15:31:26",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/politik/fredag-formiddag-landede-en-spraengfarlig-rapport-men-ordfoerere-savner-bevis-for-mette-frederiksens-paastand-om-angreb-paa-danmark?referrer=RSS",
+        "published_date": "2026-06-19 13:48:05",
+        "category": "Military"
+    },
+    {
+        "title": "High-stakes press conference over: We know that, and we need an answer to that",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hoejspaendt-pressemoede-slut-det-ved-vi-og-det-mangler-vi-svar-paa",
+        "published_date": "2026-06-19 13:35:50",
+        "category": "Military"
+    },
+    {
+        "title": "The ceasefire in the Middle East - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/vaabenhvilen-i-mellemoesten--foelg-med-her-2?referrer=RSS",
+        "published_date": "2026-06-19 13:33:28",
+        "category": "Military"
     },
     {
         "title": "Jihadists attack international airport in West African country",
@@ -238,18 +266,11 @@
         "category": "Military"
     },
     {
-        "title": "Carpenters were behind the weapons store with the AK-47 used against the apartment",
+        "title": "The mayor wants the authorities' help with oil pollution from Nordic Waste",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/toemrer-stod-bag-vaabenlager-med-ak-47-brugt-mod-lejlighed?referrer=RSS",
-        "published_date": "2026-06-11 13:43:06",
-        "category": "Military"
-    },
-    {
-        "title": "31-year-old charged with handing over automatic weapon used against apartment door in North West",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/31-aarig-sigtet-overdrage-automatvaaben-brugt-mod-lejlighedsdoer-i-nordvest",
-        "published_date": "2026-06-11 07:56:23",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/danmark/borgmester-vil-have-myndigheders-hjaelp-til-olieforurening-fra-nordic-waste?referrer=RSS",
+        "published_date": "2026-06-19 13:55:51",
+        "category": "Energy"
     },
     {
         "title": "The world's best energy researcher is Danish",
@@ -406,143 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "Canada is close to World Cup advancement after humiliating Qatar",
+        "title": "Professor expects charges against TV 2 for alleged hacking",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/canada-er-taet-paa-vm-avancement-efter-ydmygelse-af-qatar?referrer=RSS",
-        "published_date": "2026-06-19 00:14:47",
+        "url": "https://www.berlingske.dk/indland/professor-forventer-sigtelse-mod-tv-2-om-paastaaet-hacking?referrer=RSS",
+        "published_date": "2026-06-19 13:55:48",
         "category": "Local Events"
     },
     {
-        "title": "New York's mayor wants to show World Cup matches: Sport must not be a luxury",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/new-yorks-borgmester-vil-vise-vm-kampe-sport-maa-ikke-vaere-luksus?referrer=RSS",
-        "published_date": "2026-06-18 23:15:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Substitutes secure Switzerland's victory over Bosnia-Herzegovina",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/indskiftere-sikrer-schweiz-sejr-over-bosnien-hercegovina?referrer=RSS",
-        "published_date": "2026-06-18 21:07:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: Collective sick leave in Lokaltog is due to charges against an employee",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/medie-kollektiv-sygemelding-i-lokaltog-skyldes-sigtelse-af-ansat?referrer=RSS",
-        "published_date": "2026-06-18 20:40:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Every fifth young person must wear the jersey.Let the rest serve community duty",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/hver-femte-unge-skal-i-troejen-lad-resten-aftjene-samfundspligt?referrer=RSS",
-        "published_date": "2026-06-18 20:26:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young man faces nine years in prison for drug possession",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-skal-ni-aar-i-faengsel-besiddelse-af-narkotika",
-        "published_date": "2026-06-18 18:52:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unrest in rock group: Four arrested in major action",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/uro-i-rockergruppe-fire-anholdt-i-stor-aktion?rss",
-        "published_date": "2026-06-18 18:12:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rare Danish design sofa sold for one million kroner",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sjaelden-dansk-designsofa-solgt-en-million-kroner",
-        "published_date": "2026-06-18 17:30:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lego car set a new speed record: That's how fast it drove",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/lego-bil-satte-ny-fartrekord-saa-hurtigt-koerte-den?rss",
-        "published_date": "2026-06-18 16:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Child injured by crocodiles at UK zoo - man arrested",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/barn-kvaestet-af-krokodiller-i-zoo-i-storbritannien-mand-anholdt",
-        "published_date": "2026-06-18 16:23:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Over 200 died of Ebola in DR Congo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/over-200-doede-af-ebola-i-dr-congo",
-        "published_date": "2026-06-18 15:41:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hans Scherfig painting surprises at auction",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hans-scherfig-maleri-overrasker-paa-auktion",
-        "published_date": "2026-06-18 14:25:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pre-sales for GTA 6 will begin later this month",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/forsalget-til-gta-6-begynder-senere-paa-maaneden",
-        "published_date": "2026-06-18 14:21:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen lays out new rules to avoid cycle wars between locals and tourists",
+        "title": "Workers in Denmark urged to claim their 2026 holiday allowance",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260618/copenhagen-lays-out-new-rules-to-avoid-cycle-wars-between-locals-and-tourists",
-        "published_date": "2026-06-18 14:17:51",
+        "url": "https://www.thelocal.dk/20260619/workers-in-denmark-urged-to-claim-their-2026-holiday-allowance",
+        "published_date": "2026-06-19 13:52:14",
         "category": "Local Events"
     },
     {
-        "title": "Man assaulted three women in Copenhagen and gets eight years in prison",
+        "title": "The man behind hundreds of millions of streamed songs has died",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-overfaldt-tre-kvinder-i-koebenhavn-og-faar-otte-aars-faengsel?referrer=RSS",
-        "published_date": "2026-06-18 13:54:44",
+        "url": "https://www.berlingske.dk/internationalt/manden-bag-flere-hundrede-millioner-streamede-sange-er-doed?referrer=RSS",
+        "published_date": "2026-06-19 13:51:54",
         "category": "Local Events"
     },
     {
-        "title": "Morten Storm stood out as an agent and now wants a higher early retirement pension",
+        "title": "Three convicted in case of East Jutland drug network with links to rock club",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/morten-storm-stod-frem-som-agent-og-vil-nu-have-hoejere-foertidspension?referrer=RSS",
-        "published_date": "2026-06-18 13:48:44",
+        "url": "https://www.berlingske.dk/indland/tre-doemt-i-sag-om-oestjysk-narkonetvaerk-med-traade-til-rockerklub?referrer=RSS",
+        "published_date": "2026-06-19 13:51:47",
         "category": "Local Events"
     },
     {
-        "title": "Eight years in prison and deportation in a rape case",
+        "title": "Sliced \u200b\u200bmushrooms are recalled after finding listeria",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/skiveskaarne-champignoner-tilbagekaldes-efter-fund-af-listeria?referrer=RSS",
+        "published_date": "2026-06-19 13:43:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Agriculture receives billions in compensation in the new nitrogen agreement",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/landbruget-faar-milliardstor-kompensation-i-ny-kvaelstofaftale?referrer=RSS",
+        "published_date": "2026-06-19 13:23:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mette-Marit's children go to the World Cup in the USA to the joy of the crown princess",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mette-marits-boern-tager-til-vm-i-usa-til-glaede-for-kronprinsessen?referrer=RSS",
+        "published_date": "2026-06-19 13:23:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dane abroad sentenced for money laundering of DKK 165 million",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/otte-aars-faengsel-og-udvisning-i-voldtaegtssag",
-        "published_date": "2026-06-18 13:45:51",
+        "url": "https://www.dr.dk/nyheder/seneste/udenlandsdansker-doemt-hvidvask-af-165-millioner-kroner",
+        "published_date": "2026-06-19 13:08:39",
         "category": "Local Events"
     },
     {
-        "title": "Around 20 people evacuated from a building in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/omkring-20-personer-evakueret-fra-bygning-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-06-18 13:38:44",
+        "title": "Mushrooms are recalled",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/champignoner-tilbagekaldes",
+        "published_date": "2026-06-19 12:41:43",
         "category": "Local Events"
     },
     {
-        "title": "OB lifts the target and wants to play with the heavy boys",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ob-loefter-maalsaetning-og-vil-lege-med-de-tunge-drenge?referrer=RSS",
-        "published_date": "2026-06-18 13:22:46",
+        "title": "Take care, Kirsten!The police experience cases where the victims have the same name",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pas-paa-kirsten-politiet-oplever-sager-hvor-ofrene-har-samme-navn",
+        "published_date": "2026-06-19 12:14:28",
         "category": "Local Events"
     },
     {
-        "title": "Trump in the White House - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-i-det-hvide-hus--foelg-med-her-103?referrer=RSS",
-        "published_date": "2026-06-18 13:12:10",
+        "title": "Copenhagen is one step closer to less waste sorting",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/koebenhavn-er-et-skridt-taettere-paa-mindre-affaldssortering",
+        "published_date": "2026-06-19 11:46:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norway will establish a consulate in Greenland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/norge-vil-oprette-konsulat-i-groenland",
+        "published_date": "2026-06-19 11:24:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Greenland sees wildfires earlier in the year",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260619/greenland-sees-wildfires-earlier-in-the-year",
+        "published_date": "2026-06-19 10:13:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Traffic chaos ahead: Expect at least two hours to get over the R\u00f8m\u00f8 dam",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/toender/trafikkaos-forude-regn-med-mindst-to-timer-for-at-komme-over-roemoe-daemningen?rss",
+        "published_date": "2026-06-19 08:58:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man shot pigeon-killing cat with air rifle",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/mand-skoed-duedraebende-kat-med-luftgevaer?rss",
+        "published_date": "2026-06-19 08:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pigs run around after an accident in North Jutland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/grise-loeber-rundt-efter-uheld-i-nordjylland",
+        "published_date": "2026-06-19 07:33:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danes bought less alcohol at home last year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danskerne-koebte-mindre-alkohol-herhjemme-sidste-aar",
+        "published_date": "2026-06-19 07:12:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "- It is degrading: Fynbus advertises with disabled-friendly buses, but Tina cannot come",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/trafik/det-er-nedvaerdigende-fynbus-reklamerer-med-handicapvenlige-busser-men-tina-kan-ikke-komme-med?rss",
+        "published_date": "2026-06-19 07:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two directors remanded in custody in case of million-dollar fraud on residences",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/direktoerer-varetaegtsfaengslet-i-sag-om-millionsvindel-paa-bosteder",
+        "published_date": "2026-06-19 06:23:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Local hospital ward has one serious or fatal incident a month: This is how they explain themselves",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/lokal-sygehus-afdeling-har-en-alvorlig-eller-doedelig-haendelse-om-maaneden-saadan-forklarer-de-sig?rss",
+        "published_date": "2026-06-19 06:12:00",
         "category": "Local Events"
     }
 ]
