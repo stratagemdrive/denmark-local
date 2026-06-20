@@ -1,5 +1,19 @@
 [
     {
+        "title": "The police are investigating a possible drowning accident in Roskilde",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-undersoeger-mulig-drukneulykke-i-roskilde?referrer=RSS",
+        "published_date": "2026-06-20 20:37:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Heat wave in Europe causes alcohol ban and forest fire",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hedeboelge-i-europa-giver-alkoholforbud-og-skovbrand?referrer=RSS",
+        "published_date": "2026-06-20 19:11:50",
+        "category": "Diplomacy"
+    },
+    {
         "title": "UN rights chief troubled by new EU migrant return rules",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260620/un-rights-chief-troubled-by-new-eu-migrant-return-rules",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Israel's foreign minister will cut off contact with the EU's foreign affairs chief",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israels-udenrigsminister-vil-afbryde-forbindelse-til-eu-s-udenrigschef",
-        "published_date": "2026-06-18 09:38:29",
-        "category": "Diplomacy"
+        "title": "The war in Ukraine and the situation in Russia - get the latest news",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krigen-i-ukraine-og-situationen-i-rusland--faa-seneste-nyt-4?referrer=RSS",
+        "published_date": "2026-06-20 20:00:16",
+        "category": "Military"
     },
     {
-        "title": "EU lawmakers give final approval for deportation centres outside bloc",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260617/eu-lawmakers-approve-return-hubs-migration-reform",
-        "published_date": "2026-06-17 15:42:53",
-        "category": "Diplomacy"
+        "title": "Zelenskyy warns Ukrainians of 'massive' Russian attack",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-advarer-ukrainerne-om-massivt-russisk-angreb",
+        "published_date": "2026-06-20 18:57:47",
+        "category": "Military"
     },
     {
         "title": "Civil defense reports 16 killed in new attacks in Lebanon",
@@ -263,20 +277,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/russiske-kampfly-var-taet-paa-svensk-luftrum-over-oestersoeen?referrer=RSS",
         "published_date": "2026-06-13 10:22:47",
-        "category": "Military"
-    },
-    {
-        "title": "Defense confirms: Danish fighter aircraft involved in operation against Russian fighter aircraft in the Baltic Sea",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/det-svenske-forsvar-dansk-jagerfly-involveret-i-operation-mod-russiske-jagerfly-i-oestersoeen",
-        "published_date": "2026-06-13 09:38:54",
-        "category": "Military"
-    },
-    {
-        "title": "Lithuania warns citizens about military drone - but it was just a weather balloon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/litauen-advarede-borgere-om-militaerdrone-men-det-var-bare-en-vejrballon",
-        "published_date": "2026-06-13 08:42:42",
         "category": "Military"
     },
     {
@@ -441,11 +441,67 @@
         "category": "Economy"
     },
     {
-        "title": "Cuba gives companies more leeway under pressure from the US",
+        "title": "Seven people are reported killed in Israeli attacks in Lebanon",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/cuba-giver-virksomheder-mere-spillerum-under-pres-fra-usa?referrer=RSS",
-        "published_date": "2026-06-12 23:01:47",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/syv-personer-meldes-draebt-i-israelske-angreb-i-libanon?referrer=RSS",
+        "published_date": "2026-06-20 23:43:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cameraman killed in Israeli attack in Gaza Strip",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kameramand-draebt-i-israelsk-angreb-i-gazastriben?referrer=RSS",
+        "published_date": "2026-06-20 23:21:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish speedway victory missed in the final after major weather drama",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dansk-speedwaysejr-glipper-i-finalen-efter-stort-vejrdrama?referrer=RSS",
+        "published_date": "2026-06-20 22:31:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Media: Keir Starmer is expected to resign on Monday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/medie-keir-starmer-ventes-at-traede-tilbage-mandag?referrer=RSS",
+        "published_date": "2026-06-20 22:13:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Late winning goal sends Germany through to the World Cup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sent-sejrsmaal-sender-tyskland-videre-ved-vm?referrer=RSS",
+        "published_date": "2026-06-20 22:13:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Toxic plague has resided on North Zealand's beaches for years.Now the chief lifeguard expects that even more will be stung",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/giftig-plage-har-huseret-paa-nordsjaellandske-strande-i-aarevis-nu-forventer-cheflivredder-at-endnu-flere-vil-blive-stukket?referrer=RSS",
+        "published_date": "2026-06-20 19:25:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two associations wanted to shield women during gender-segregated swimming - then Copenhagen Municipality stepped in to help",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/to-foreninger-ville-afskaerme-kvinder-under-koensopdelt-svoemning--saa-traadte-koebenhavns-kommune-til-med-hjaelp?referrer=RSS",
+        "published_date": "2026-06-20 19:18:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump repeats his claim about the Meloni photo - and gets a sharp answer back",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-gentager-sin-paastand-om-meloni-foto-og-faar-skarpt-svar-tilbage",
+        "published_date": "2026-06-20 15:52:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Swedes in self-healing after a perfect World Cup start: 'People are dreaming back to 1994'",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/fodbold/vm/svenskerne-i-selvsving-efter-perfekt-vm-start-folk-droemmer-sig-tilbage-til-1994",
+        "published_date": "2026-06-20 14:50:00",
+        "category": "Local Events"
     },
     {
         "title": "Today, the only thing that can bring down those in power is a sexual assault",
@@ -522,69 +578,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260620/on-the-agenda-whats-happening-in-denmark-next-week",
         "published_date": "2026-06-20 09:29:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fewer regional trains on Zealand from Monday",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/faerre-regionaltog-paa-sjaelland-fra-paa-mandag",
-        "published_date": "2026-06-20 07:17:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train buses run all weekend on local train routes in North Zealand",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/togbusser-koerer-hele-weekenden-paa-lokaltogstraekninger-i-nordsjaelland",
-        "published_date": "2026-06-20 07:09:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Report on Israeli air strike in Lebanon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/melding-om-israelsk-luftangreb-i-libanon",
-        "published_date": "2026-06-20 06:38:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bolivia declares a state of emergency",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bolivia-erklaerer-noedtilstand",
-        "published_date": "2026-06-20 06:12:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "245 people have died of Ebola in DR Congo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/250-personer-er-doede-af-ebola-i-dr-congo",
-        "published_date": "2026-06-20 02:08:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Yamal is still not ready for 90 minutes for Spain at the World Cup",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/yamal-er-fortsat-ikke-klar-til-90-minutter-for-spanien-til-vm?referrer=RSS",
-        "published_date": "2026-06-19 23:37:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of people infected with Ebola in the DR Congo is approaching 1,000",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/antallet-af-ebola-smittede-i-dr-congo-naermer-sig-1000?referrer=RSS",
-        "published_date": "2026-06-19 22:28:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "USA advances from the group with victory over Australia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/usa-spiller-sig-videre-fra-gruppen-med-sejr-over-australien?referrer=RSS",
-        "published_date": "2026-06-19 21:22:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The light rail in Odense runs normally again with a new permit",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/letbanen-i-odense-koerer-normalt-igen-med-ny-tilladelse?referrer=RSS",
-        "published_date": "2026-06-19 21:19:44",
         "category": "Local Events"
     }
 ]
