@@ -1,5 +1,47 @@
 [
     {
+        "title": "UN rights chief troubled by new EU migrant return rules",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260620/un-rights-chief-troubled-by-new-eu-migrant-return-rules",
+        "published_date": "2026-06-20 13:42:14",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Huge investments await Europe, but investors are missing out on \"enormous potential\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/aktier/kaempe-investeringer-venter-europa-men-investorerne-gaar-glip-af-enormt-potentiale?referrer=RSS",
+        "published_date": "2026-06-20 12:13:25",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Would the EU take Britain back?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260620/would-the-eu-take-britain-back",
+        "published_date": "2026-06-20 11:07:06",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The mayor dreams of raising the tourist tax even more in the popular canal city",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/borgmester-droemmer-om-haeve-turistskat-endnu-mere-i-populaer-kanalby",
+        "published_date": "2026-06-20 09:40:20",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Europe swelters in new heatwave with temperatures set to rise further",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260619/europe-swelters-in-new-heatwave-with-temperatures-set-to-rise-further",
+        "published_date": "2026-06-19 17:55:05",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "How Denmark has cracked down on speeding foreign drivers",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260619/how-denmark-has-cracked-down-on-speeding-foreign-drivers",
+        "published_date": "2026-06-19 16:18:18",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Today in Denmark: A roundup of the latest news on Friday",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260619/today-in-denmark-a-roundup-of-the-latest-news-on-friday-49",
@@ -98,46 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Zelensky's diplomatic success - Tom Jensen has selected today's stories",
+        "title": "Civil defense reports 16 killed in new attacks in Lebanon",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/zelenskyjs-diplomatiske-succes--tom-jensen-har-udvalgt-dagens-historier?referrer=RSS",
-        "published_date": "2026-06-17 13:45:25",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The EU's new cosmetics rules are a 'serious step backwards', the consumer council believes",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-s-nye-kosmetikregler-er-et-alvorligt-tilbageskridt-mener-forbrugerraad",
-        "published_date": "2026-06-17 12:25:52",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "A majority in the EU Parliament votes yes to departure centres",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flertal-i-eu-parlamentet-stemmer-ja-til-udrejsecentre",
-        "published_date": "2026-06-17 11:45:53",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Denmark and India team up to investigate 400-year-old shipwreck",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260617/denmark-and-india-team-up-to-investigate-400-year-old-shipwreck",
-        "published_date": "2026-06-17 11:33:36",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Soon you will have to pay duty on all small packages bought outside the EU",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/snart-skal-du-betale-told-paa-alle-smaapakker-koebt-uden-eu",
-        "published_date": "2026-06-17 09:17:51",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "UN Secretary-General to violence-stricken Haiti: I ask for forgiveness",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fns-generalsekretaer-til-voldsramte-haiti-jeg-beder-om-tilgivelse?referrer=RSS",
-        "published_date": "2026-06-16 23:04:49",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/civilforsvar-melder-om-16-draebte-i-nye-angreb-i-libanon?referrer=RSS",
+        "published_date": "2026-06-20 11:23:45",
+        "category": "Military"
     },
     {
         "title": "The President of Poland strips Zelenskyj of the Polish Order",
@@ -270,13 +277,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/litauen-advarede-borgere-om-militaerdrone-men-det-var-bare-en-vejrballon",
         "published_date": "2026-06-13 08:42:42",
-        "category": "Military"
-    },
-    {
-        "title": "The Swedish Armed Forces establish an AI centre",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/forsvaret-etablerer-ai-center",
-        "published_date": "2026-06-12 12:50:06",
         "category": "Military"
     },
     {
@@ -448,6 +448,118 @@
         "category": "Economy"
     },
     {
+        "title": "Today, the only thing that can bring down those in power is a sexual assault",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/i-dag-er-det-eneste-der-kan-faelde-magthaverne-et-seksuelt-overgreb?referrer=RSS",
+        "published_date": "2026-06-20 11:50:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jarl Cordua: Messerschmidt holds bourgeois Denmark in a vice \u2013 and red block in power",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/jarl-cordua-messerschmidt-holder-det-borgerlige-danmark-i-en-skruestik--og-roed-blok-ved-magten?referrer=RSS",
+        "published_date": "2026-06-20 11:33:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Coping with menopause is no longer just a private matter.It should also be a matter for your employer",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/haandtering-af-overgangsalderen-er-ikke-laengere-kun-et-privat-anliggende-det-boer-ogsaa-vaere-en-sag-for-din-arbejdsgiver?referrer=RSS",
+        "published_date": "2026-06-20 11:18:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "A quiet struggle for freedom rolls over Russia from an unexpected side: the Russian women",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/en-stille-frihedskamp-ruller-over-rusland-fra-uventet-kant-de-russiske-kvinder?referrer=RSS",
+        "published_date": "2026-06-20 11:06:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Train buses continue to replace the train operation in North Zealand",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/togbusser-erstatter-fortsat-togdriften-i-nordsjaelland?referrer=RSS",
+        "published_date": "2026-06-20 10:59:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lack of staff means fewer trains on Zealand",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/mangel-paa-personale-betyder-faerre-tog-paa-sjaelland?referrer=RSS",
+        "published_date": "2026-06-20 10:33:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "You gentle Moses!A self-evident sentence frightens De Radikale and Information",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/du-milde-moses-en-selvindlysende-saetning-forskraekker-de-radikale-og-information?referrer=RSS",
+        "published_date": "2026-06-20 10:29:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Speedway driver apologizes after heated DM clash",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/speedwaykoerer-siger-undskyld-efter-ophedet-dm-sammenstoed?referrer=RSS",
+        "published_date": "2026-06-20 10:11:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Law professor believes that Aalborg's mayor has a big problem",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/juraprofessor-mener-aalborg-borgmester-har-et-stort-problem",
+        "published_date": "2026-06-20 09:46:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Volvo is recalling over 1,000 hybrid cars in Denmark",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/volvo-tilbagekalder-over-1-000-hybrid-biler-i-danmark",
+        "published_date": "2026-06-20 09:42:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the Agenda: What's happening in Denmark next week",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260620/on-the-agenda-whats-happening-in-denmark-next-week",
+        "published_date": "2026-06-20 09:29:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fewer regional trains on Zealand from Monday",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/faerre-regionaltog-paa-sjaelland-fra-paa-mandag",
+        "published_date": "2026-06-20 07:17:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Train buses run all weekend on local train routes in North Zealand",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/togbusser-koerer-hele-weekenden-paa-lokaltogstraekninger-i-nordsjaelland",
+        "published_date": "2026-06-20 07:09:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Report on Israeli air strike in Lebanon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/melding-om-israelsk-luftangreb-i-libanon",
+        "published_date": "2026-06-20 06:38:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bolivia declares a state of emergency",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bolivia-erklaerer-noedtilstand",
+        "published_date": "2026-06-20 06:12:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "245 people have died of Ebola in DR Congo",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/250-personer-er-doede-af-ebola-i-dr-congo",
+        "published_date": "2026-06-20 02:08:41",
+        "category": "Local Events"
+    },
+    {
         "title": "Yamal is still not ready for 90 minutes for Spain at the World Cup",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/yamal-er-fortsat-ikke-klar-til-90-minutter-for-spanien-til-vm?referrer=RSS",
@@ -473,118 +585,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/letbanen-i-odense-koerer-normalt-igen-med-ny-tilladelse?referrer=RSS",
         "published_date": "2026-06-19 21:19:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "One person has been killed in a train accident north of London",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-person-er-draebt-ved-togulykke-nord-for-london?referrer=RSS",
-        "published_date": "2026-06-19 20:50:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Law professor: Aalborg's mayor has a big problem",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/juraprofessor-aalborg-borgmester-har-et-stort-problem?referrer=RSS",
-        "published_date": "2026-06-19 20:26:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "An entire nation's football hero: DR Congo's superfan claims he can stop the opposition from scoring",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-hel-nations-fodboldhelt-dr-congos-superfan-haevder-at-han-kan-forhindre-modstanderne-i-at-score?referrer=RSS",
-        "published_date": "2026-06-19 20:11:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Farmers and nature lovers are dissatisfied with the new nitrogen agreement",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/landmaend-og-naturvenner-er-utilfredse-med-ny-kvaelstofaftale?referrer=RSS",
-        "published_date": "2026-06-19 19:41:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The President of Poland takes orders from Zelenskyj",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/polens-praesident-tager-orden-fra-zelenskyj",
-        "published_date": "2026-06-19 18:37:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The royal couple participated in the inauguration of a new work of art in Aarhus",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kongeparret-deltog-i-indvielse-af-nyt-kunstvaerk-i-aarhus",
-        "published_date": "2026-06-19 17:34:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fishermen in revolt: They came with tractors, horses and angry messages",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/toender/fiskere-i-oproer-de-kom-med-traktorer-heste-og-vrede-budskaber?rss",
-        "published_date": "2026-06-19 16:02:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The hottest day of the year so far is busy at Denmark's oldest open-air bath",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/aarets-hidtil-varmeste-dag-giver-travlhed-hos-danmarks-aeldste-friluftsbad",
-        "published_date": "2026-06-19 14:04:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two jailed for fires linked to Keir Starmer",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/faar-faengselsstraffe-brande-med-forbindelse-til-keir-starmer",
-        "published_date": "2026-06-19 14:01:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Professor expects charges against TV 2 for alleged hacking",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/professor-forventer-sigtelse-mod-tv-2-om-paastaaet-hacking?referrer=RSS",
-        "published_date": "2026-06-19 13:55:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Workers in Denmark urged to claim their 2026 holiday allowance",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260619/workers-in-denmark-urged-to-claim-their-2026-holiday-allowance",
-        "published_date": "2026-06-19 13:52:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The man behind hundreds of millions of streamed songs has died",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/manden-bag-flere-hundrede-millioner-streamede-sange-er-doed?referrer=RSS",
-        "published_date": "2026-06-19 13:51:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three convicted in case of East Jutland drug network with links to rock club",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/tre-doemt-i-sag-om-oestjysk-narkonetvaerk-med-traade-til-rockerklub?referrer=RSS",
-        "published_date": "2026-06-19 13:51:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sliced \u200b\u200bmushrooms are recalled after finding listeria",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/skiveskaarne-champignoner-tilbagekaldes-efter-fund-af-listeria?referrer=RSS",
-        "published_date": "2026-06-19 13:43:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Agriculture receives billions in compensation in the new nitrogen agreement",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/landbruget-faar-milliardstor-kompensation-i-ny-kvaelstofaftale?referrer=RSS",
-        "published_date": "2026-06-19 13:23:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mette-Marit's children go to the World Cup in the USA to the joy of the crown princess",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mette-marits-boern-tager-til-vm-i-usa-til-glaede-for-kronprinsessen?referrer=RSS",
-        "published_date": "2026-06-19 13:23:51",
         "category": "Local Events"
     }
 ]
