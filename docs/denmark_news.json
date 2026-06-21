@@ -1,5 +1,33 @@
 [
     {
+        "title": "They are cheap and focus on one thing.This is how you can invest in Europe",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/aktier/de-er-billige-og-fokuserer-paa-en-ting-saadan-kan-du-investere-i-europa?referrer=RSS",
+        "published_date": "2026-06-21 11:54:52",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Former climate minister on the government's expensive climate goals: Criticism \"is as old as well-aged port\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tidligere-klimaminister-om-regeringens-dyre-klimamaal-kritik-er-lige-saa-gammel-som-vellagret-portvin?referrer=RSS",
+        "published_date": "2026-06-21 11:21:41",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "One Saturday morning I woke up to a big surprise.Now Europe faces a serious choice about AI",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/en-loerdag-morgen-vaagnede-jeg-op-til-en-stor-overraskelse-nu-staar-europa-staar-med-et-alvorligt-valg-om-ai?referrer=RSS",
+        "published_date": "2026-06-21 10:39:04",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Younger man loses his life in a drowning accident in Roskilde",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/yngre-mand-mister-livet-i-drukneulykke-i-roskilde",
+        "published_date": "2026-06-21 02:04:24",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The police are investigating a possible drowning accident in Roskilde",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/politiet-undersoeger-mulig-drukneulykke-i-roskilde?referrer=RSS",
@@ -109,34 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/bravo-udbroed-macron-da-trump-underskrev-fredsaftalen-paa-versailles--dagens-historier-er-udvalgt-af-tom-jensen?referrer=RSS",
         "published_date": "2026-06-18 13:33:22",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The increase in proposals for a new EU budget is too great, L\u00f8kke believes",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stigning-i-forslag-om-nyt-eu-budget-er-stort-mener-loekke",
-        "published_date": "2026-06-18 11:54:21",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Forget X here's W: The new European social network to take on Musk",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260618/forget-x-heres-w-the-new-european-social-network-to-take-on-musk",
-        "published_date": "2026-06-18 11:50:29",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Denmark's military to deploy a battalion in Latvia",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260618/denmarks-military-to-deploy-a-battalion-in-latvia",
-        "published_date": "2026-06-18 11:30:20",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Hegseth: US will review US troops in Europe",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hegseth-usa-vil-gennemgaa-amerikanske-tropper-i-europa",
-        "published_date": "2026-06-18 09:39:26",
         "category": "Diplomacy"
     },
     {
@@ -273,11 +273,11 @@
         "category": "Military"
     },
     {
-        "title": "Russian fighter jets were close to Swedish airspace over the Baltic Sea",
+        "title": "S\u00f8ren Pind: There are no words for how big this scandal is",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/russiske-kampfly-var-taet-paa-svensk-luftrum-over-oestersoeen?referrer=RSS",
-        "published_date": "2026-06-13 10:22:47",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/kommentatorer/soeren-pind-der-er-ikke-ord-for-hvor-stor-denne-skandale-er?referrer=RSS",
+        "published_date": "2026-06-21 10:35:53",
+        "category": "Energy"
     },
     {
         "title": "Pippi Longstocking returns in new animated TV series",
@@ -348,6 +348,20 @@
         "url": "https://www.berlingske.dk/politik/stormvejr-i-sf-overskyggede-alt-paa-folkemoedet-sagen-afsloerer-baglandets-forventning-til-pia-olsen-dyhr?referrer=RSS",
         "published_date": "2026-06-13 19:24:15",
         "category": "Energy"
+    },
+    {
+        "title": "After the brutal murder of a businessman: For the first time, the children tell about the days they will never forget",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/kolding/efter-brutalt-drab-paa-erhvervsmand-for-foerste-gang-fortaeller-boernene-om-dagene-de-aldrig-glemmer?rss",
+        "published_date": "2026-06-21 05:00:00",
+        "category": "Economy"
+    },
+    {
+        "title": "King Charles will share tax information",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kong-charles-vil-dele-skatteoplysninger",
+        "published_date": "2026-06-21 04:28:50",
+        "category": "Economy"
     },
     {
         "title": "The Trump administration is deeply unhappy with Cuba's reform plans",
@@ -434,11 +448,88 @@
         "category": "Economy"
     },
     {
-        "title": "She is the architect behind Russia's financial fortress.Now she is leaving the barricades at a critical time",
+        "title": "Large parts of Slagelse are without water",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/store-dele-af-slagelse-er-uden-vand",
+        "published_date": "2026-06-21 12:26:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Troels Lund's road to the top is long and full of obstacles.He hardly escapes his rivals",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hun-er-arkitekten-bag-ruslands-finansielle-fort-nu-forlader-hun-barrikaderne-paa-et-kritisk-tidspunkt?referrer=RSS",
-        "published_date": "2026-06-13 11:47:56",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/politik/troels-lunds-vej-til-toppen-er-lang-og-fuld-af-forhindringer-han-slipper-naeppe-for-sine-rivaler?referrer=RSS",
+        "published_date": "2026-06-21 12:22:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spectators evacuated from tennis final after torrential rain",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tilskuere-evakueret-fra-tennisfinale-efter-voldsomt-regnvejr?referrer=RSS",
+        "published_date": "2026-06-21 11:56:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man jailed in a violent case stemming from a rocker conflict",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-faengslet-i-voldssag-med-udspring-i-rockerkonflikt?referrer=RSS",
+        "published_date": "2026-06-21 11:21:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The national volleyball team is going to the EC",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/volleyball-landsholdet-skal-til-em",
+        "published_date": "2026-06-21 11:02:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Region gets 148 million to save buses",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/region-faar-148-millioner-til-redde-busser",
+        "published_date": "2026-06-21 10:43:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sample finds errors in foreign agricultural interns' wages",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/stikproeve-finder-fejl-i-udenlandske-landbrugspraktikanters-loen?referrer=RSS",
+        "published_date": "2026-06-21 10:22:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video of officer's kick during arrest reported to police appeals authority",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/video-af-betjents-spark-under-anholdelse-meldt-til-politiklagemyndighed?referrer=RSS",
+        "published_date": "2026-06-21 10:13:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bad weather affects Greenland's celebration of National Day",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/daarligt-vejr-paavirker-groenlandsk-fejring-af-nationaldag?referrer=RSS",
+        "published_date": "2026-06-21 10:07:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several are reported killed after Ukrainian drone attacks on the Crimean peninsula and in Russia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-meldes-draebt-efter-ukrainske-droneangreb-paa-krim-halvoeen-og-i-rusland",
+        "published_date": "2026-06-21 08:19:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wanted cocaine trafficker from Sweden arrested in Colombia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efterlyst-kokainsmugler-fra-sverige-anholdt-i-colombia",
+        "published_date": "2026-06-21 07:23:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least six killed in Gaza - Al Jazeera photographer among victims",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mindst-seks-draebt-i-gaza-al-jazeera-fotograf-blandt-ofrene",
+        "published_date": "2026-06-21 02:33:31",
+        "category": "Local Events"
     },
     {
         "title": "Seven people are reported killed in Israeli attacks in Lebanon",
@@ -494,90 +585,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/trump-gentager-sin-paastand-om-meloni-foto-og-faar-skarpt-svar-tilbage",
         "published_date": "2026-06-20 15:52:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Swedes in self-healing after a perfect World Cup start: 'People are dreaming back to 1994'",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/fodbold/vm/svenskerne-i-selvsving-efter-perfekt-vm-start-folk-droemmer-sig-tilbage-til-1994",
-        "published_date": "2026-06-20 14:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today, the only thing that can bring down those in power is a sexual assault",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/i-dag-er-det-eneste-der-kan-faelde-magthaverne-et-seksuelt-overgreb?referrer=RSS",
-        "published_date": "2026-06-20 11:50:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jarl Cordua: Messerschmidt holds bourgeois Denmark in a vice \u2013 and red block in power",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/jarl-cordua-messerschmidt-holder-det-borgerlige-danmark-i-en-skruestik--og-roed-blok-ved-magten?referrer=RSS",
-        "published_date": "2026-06-20 11:33:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coping with menopause is no longer just a private matter.It should also be a matter for your employer",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/haandtering-af-overgangsalderen-er-ikke-laengere-kun-et-privat-anliggende-det-boer-ogsaa-vaere-en-sag-for-din-arbejdsgiver?referrer=RSS",
-        "published_date": "2026-06-20 11:18:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "A quiet struggle for freedom rolls over Russia from an unexpected side: the Russian women",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-stille-frihedskamp-ruller-over-rusland-fra-uventet-kant-de-russiske-kvinder?referrer=RSS",
-        "published_date": "2026-06-20 11:06:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train buses continue to replace the train operation in North Zealand",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/togbusser-erstatter-fortsat-togdriften-i-nordsjaelland?referrer=RSS",
-        "published_date": "2026-06-20 10:59:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lack of staff means fewer trains on Zealand",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/mangel-paa-personale-betyder-faerre-tog-paa-sjaelland?referrer=RSS",
-        "published_date": "2026-06-20 10:33:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "You gentle Moses!A self-evident sentence frightens De Radikale and Information",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/du-milde-moses-en-selvindlysende-saetning-forskraekker-de-radikale-og-information?referrer=RSS",
-        "published_date": "2026-06-20 10:29:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Speedway driver apologizes after heated DM clash",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/speedwaykoerer-siger-undskyld-efter-ophedet-dm-sammenstoed?referrer=RSS",
-        "published_date": "2026-06-20 10:11:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Law professor believes that Aalborg's mayor has a big problem",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/juraprofessor-mener-aalborg-borgmester-har-et-stort-problem",
-        "published_date": "2026-06-20 09:46:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Volvo is recalling over 1,000 hybrid cars in Denmark",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/volvo-tilbagekalder-over-1-000-hybrid-biler-i-danmark",
-        "published_date": "2026-06-20 09:42:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What's happening in Denmark next week",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260620/on-the-agenda-whats-happening-in-denmark-next-week",
-        "published_date": "2026-06-20 09:29:05",
         "category": "Local Events"
     }
 ]
