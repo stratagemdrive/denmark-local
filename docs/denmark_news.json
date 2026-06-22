@@ -1,5 +1,12 @@
 [
     {
+        "title": "The Ministry of Foreign Affairs relaxes travel guidelines for three countries in the Middle East",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/udenrigsministeriet-lemper-rejsevejledninger-tre-lande-i-mellemoesten",
+        "published_date": "2026-06-22 16:52:52",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Thousands of pages about the war in Afghanistan removed from archive - editor-in-chief Pierre Collignon presents today's stories",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/tusinder-af-sider-om-krigen-i-afghanistan-fjernet-fra-arkiv--chefredaktoer-pierre-collignon-praesenterer-dagens-historier?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Karen-Maria's womb is to be exhibited in a museum: - I don't want to hide it anymore",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sydfyn/karen-marias-livmoder-skal-udstilles-paa-et-museum-jeg-gider-ikke-skjule-det-mere?rss",
-        "published_date": "2026-06-18 19:00:00",
-        "category": "Diplomacy"
+        "title": "Israel will maintain the military course in southern Lebanon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/israel-vil-fastholde-den-militaere-kurs-i-det-sydlige-libanon?referrer=RSS",
+        "published_date": "2026-06-22 22:42:49",
+        "category": "Military"
     },
     {
         "title": "The war in Ukraine and the situation in Russia - get the latest news",
@@ -308,20 +315,6 @@
         "category": "Energy"
     },
     {
-        "title": "Protesters and police clash in Switzerland ahead of G7 summit",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/demonstranter-og-politi-stoeder-sammen-i-schweiz-foer-g7-topmoede?referrer=RSS",
-        "published_date": "2026-06-14 20:25:45",
-        "category": "Energy"
-    },
-    {
-        "title": "SF used a special adviser as a consultant for municipal elections after dismissal",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/sf-brugte-saerlig-raadgiver-som-konsulent-til-kommunalvalg-efter-fyring?referrer=RSS",
-        "published_date": "2026-06-14 20:07:47",
-        "category": "Energy"
-    },
-    {
         "title": "It is expensive to be \"cautious\" in private finances at the moment",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/dine-penge/det-koster-dyrt-at-vaere-privatoekonomisk-forsigtigper-i-oejeblikket?referrer=RSS",
@@ -434,6 +427,69 @@
         "category": "Economy"
     },
     {
+        "title": "Thunderstorm interrupts the World Cup match between France and Iraq",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tordenvejr-afbryder-vm-kampen-mellem-frankrig-og-irak?referrer=RSS",
+        "published_date": "2026-06-22 22:33:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rape-accused World Cup player reports ready for England",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/voldtaegtsanklaget-vm-spiller-melder-sig-klar-mod-england?referrer=RSS",
+        "published_date": "2026-06-22 21:45:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ornithologists rarely call bird finds a huge sensation",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/ornitolog-kalder-sjaeldent-fuglefund-for-en-kaempe-sensation?referrer=RSS",
+        "published_date": "2026-06-22 21:29:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "South Korean chip maker dethrones Samsung as the country's most valuable company",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/sydkoreansk-chipproducent-detroniserer-samsung-som-landets-mest-vaerdifulde-selskab?referrer=RSS",
+        "published_date": "2026-06-22 21:18:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "The SpaceX share plummets after a high-flying start on the stock exchange",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/spacex-aktien-styrtdykker-efter-hoejtflyvende-start-paa-boersen?referrer=RSS",
+        "published_date": "2026-06-22 21:16:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "DSB is now De Danske Statebusser - and the wretched giant can't even make up for it",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentar/dsb-er-nu-de-danske-statsbusser--og-den-elendige-gigant-kan-ikke-engang-goere-for-det?referrer=RSS",
+        "published_date": "2026-06-22 21:10:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Klose happily leaves the record to the genius Messi",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/klose-overlader-gladeligt-rekorden-til-geniet-messi?referrer=RSS",
+        "published_date": "2026-06-22 20:58:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Controversial tech billionaire has headed secret club for years.Now the membership list has been leaked",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kontroversiel-techmilliardaer-har-staaet-i-spidsen-for-hemmelig-klub-i-aarevis-nu-er-medlemslisten-laekket?referrer=RSS",
+        "published_date": "2026-06-22 20:10:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nature conservation association complains about conservation of Amager F\u00e6lled.Now being called a \"block around the leg\" in Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/metropol/naturfredningsforening-klager-over-fredning-af-amager-faelled-bliver-nu-kaldt-en-klods-om-benet-paa-koebenhavn?referrer=RSS",
+        "published_date": "2026-06-22 19:42:38",
+        "category": "Local Events"
+    },
+    {
         "title": "Shooting at a coin collector costs robbers several years in prison",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/skud-mod-moentsamler-koster-roevere-flere-aars-faengsel?referrer=RSS",
@@ -508,69 +564,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260622/danish-rescue-services-warn-of-very-high-fire-risk-on-sankthans",
         "published_date": "2026-06-22 14:50:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wanted 32-year-old man has been found dead",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eftersoegt-32-aarig-mand-er-fundet-doed",
-        "published_date": "2026-06-22 13:48:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former US central bank chief has died",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-amerikansk-centralbankchef-er-doed",
-        "published_date": "2026-06-22 13:02:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Neighbors worried about safety at new container terminal",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/naboer-bekymret-sikkerheden-paa-ny-containerterminal",
-        "published_date": "2026-06-22 12:42:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Was your name on the Danish citizenship bill sent to parliament in January?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260622/was-your-name-on-the-danish-citizenship-bill-sent-to-parliament-in-january",
-        "published_date": "2026-06-22 12:11:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "15-year-old charged with encouraging suicide",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/15-aarig-sigtet-opfordre-til-selvmord",
-        "published_date": "2026-06-22 12:01:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "More money on the way to wolf fencing",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-penge-paa-vej-til-ulvehegn",
-        "published_date": "2026-06-22 11:40:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police are looking for a 32-year-old man in Roskilde",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-leder-efter-32-aarig-mand-i-roskilde",
-        "published_date": "2026-06-22 10:57:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four men charged with arson and shooting",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-maend-sigtet-brandstiftelse-og-skyderi",
-        "published_date": "2026-06-22 10:53:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "When will Denmark see the heaviest traffic in summer 2026?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260622/when-will-there-be-heavy-traffic-in-denmark-in-summer-2026",
-        "published_date": "2026-06-22 10:03:27",
         "category": "Local Events"
     }
 ]
