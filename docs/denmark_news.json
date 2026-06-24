@@ -1,5 +1,12 @@
 [
     {
+        "title": "Trump to Mark Rutte: We were let down by NATO countries in the Iran war",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-til-mark-rutte-vi-blev-svigtet-af-nato-lande-i-iran-krig?referrer=RSS",
+        "published_date": "2026-06-24 21:33:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Mette Frederiksen did not want to say anything.Now sources are telling Politico which countries could house new departure centers",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/mette-frederiksen-ville-ikke-sige-noget-nu-fortaeller-kilder-til-politico-hvilke-lande-der-kan-huse-nye-udrejsecentre?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Europe swelters in new heatwave with temperatures set to rise further",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260619/europe-swelters-in-new-heatwave-with-temperatures-set-to-rise-further",
-        "published_date": "2026-06-19 17:55:05",
-        "category": "Diplomacy"
+        "title": "Norwegian People's Aid affected by Russian attack in Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/norsk-folkehjelp-ramt-af-russisk-angreb-i-ukraine",
+        "published_date": "2026-06-24 13:47:06",
+        "category": "Military"
     },
     {
         "title": "Majority in Senate votes to end US war on Iran",
@@ -273,11 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "The armed forces are replacing frayed uniforms",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/forsvaret-udskifter-flossede-uniformer?referrer=RSS",
-        "published_date": "2026-06-16 15:45:44",
-        "category": "Military"
+        "title": "Strong smell of gas after a break in a gas line in Hobro",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kraftig-gaslugt-efter-brud-paa-gasledning-i-hobro",
+        "published_date": "2026-06-24 14:38:30",
+        "category": "Energy"
     },
     {
         "title": "S\u00f8ren Pind: There are no words for how big this scandal is",
@@ -399,11 +406,130 @@
         "category": "Economy"
     },
     {
-        "title": "Mentoring must keep vocational school students on their education",
+        "title": "Strong earthquake hits Venezuela on national holiday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kraftigt-jordskaelv-rammer-venezuela-paa-national-helligdag?referrer=RSS",
+        "published_date": "2026-06-24 23:50:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump casts doubt on US responsibility in missile attack on Iranian school",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-saar-tvivl-om-usas-ansvar-i-missilangreb-paa-iransk-skole?referrer=RSS",
+        "published_date": "2026-06-24 23:23:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities fear many deaths after two powerful earthquakes in Venezuela",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mentorordning-skal-fastholde-erhvervsskoleelever-paa-deres-uddannelse",
-        "published_date": "2026-06-16 15:57:10",
-        "category": "Economy"
+        "url": "https://www.dr.dk/nyheder/seneste/kraftigt-jordskaelv-ud-venezuela-udloeser-tsunamivarsel",
+        "published_date": "2026-06-24 22:40:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump administration asks for billions for Iran war and Ebola",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-administrationen-beder-om-milliarder-til-iran-krig-og-ebola?referrer=RSS",
+        "published_date": "2026-06-24 22:11:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "See the highlights: Esbjerg had to struggle for victory in Brovst",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/speedway/se-hoejdepunkterne-esbjerg-maatte-slide-for-sejren-i-brovst?rss",
+        "published_date": "2026-06-24 22:02:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "20-year-old man charged after fatal accident in Tilst",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/20-aarig-mand-sigtes-efter-doedsulykke-i-tilst?referrer=RSS",
+        "published_date": "2026-06-24 21:39:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Switzerland spoils Canada's World Cup party and takes first place",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/schweiz-spolerer-canadas-vm-fest-og-tager-foerstepladsen?referrer=RSS",
+        "published_date": "2026-06-24 21:01:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump stops housing package at short notice in defiance of Congress",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-stopper-boligpakke-med-kort-varsel-i-strid-med-kongressen?referrer=RSS",
+        "published_date": "2026-06-24 19:55:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "20-year-old man remanded in custody after fatal accident in Tilst",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/20-aarig-mand-fremstilles-i-grundlovsforhoer-efter-doedsulykke-i-tilst",
+        "published_date": "2026-06-24 19:42:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Here are the strongest teams after two WC rounds.A new team bursts into the list",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/her-er-de-staerkeste-hold-efter-to-vm-runder-et-nyt-hold-brager-ind-paa-listen?referrer=RSS",
+        "published_date": "2026-06-24 19:31:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "We must make it easier to live differently.Housing must fit people \u2013 not the other way around",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/vi-skal-goere-det-lettere-at-bo-anderledes-boliger-skal-passe-til-mennesker--ikke-omvendt?referrer=RSS",
+        "published_date": "2026-06-24 19:16:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Olympic athletes can in future apply to receive DKK 65,000",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ol-atleter-kan-fremover-soege-om-faa-65-000-kroner",
+        "published_date": "2026-06-24 17:09:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three buses stolen within a week in Hobro",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-busser-stjaalet-indenfor-en-uge-i-hobro",
+        "published_date": "2026-06-24 16:51:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Neighbors on Villavej will remember the woman killed on Wednesday evening",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/naboer-paa-villavej-vil-mindes-draebt-kvinde-onsdag-aften",
+        "published_date": "2026-06-24 15:42:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Charged with reckless driving with students",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sigtet-vanvidskoersel-med-studenter",
+        "published_date": "2026-06-24 15:41:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "He called them \"his girlfriends\" - 27-year-old raped little girls on Funen",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/han-kaldte-dem-sine-kaerester-27-aarig-voldtog-smaa-piger-paa-fyn?rss",
+        "published_date": "2026-06-24 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eco mayonnaise from Netto is recalled",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/oeko-mayonnaise-fra-netto-tilbagekaldes",
+        "published_date": "2026-06-24 14:26:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Lejre mayor acquitted of violence against ex-wife",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-lejre-borgmester-frifundet-vold-mod-ekskone",
+        "published_date": "2026-06-24 14:24:58",
+        "category": "Local Events"
     },
     {
         "title": "Here you get the latest news about Danish politics",
@@ -417,132 +543,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/mette-frederiksen-om-droner-den-der-foerer-hybridkrig-er-rusland?referrer=RSS",
         "published_date": "2026-06-24 12:59:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Frederiksberg Municipality reports to the police a member of the Danish Parliament after the photo",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/frederiksberg-kommune-politianmelder-df-folketingsmedlem-efter-foto?referrer=RSS",
-        "published_date": "2026-06-24 12:58:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The ticket price on ferries between R\u00f8dby and Puttgarden has been too high",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/billetprisen-paa-faerger-mellem-roedby-og-puttgarden-har-vaeret-for-hoej?referrer=RSS",
-        "published_date": "2026-06-24 12:58:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police received reports of reckless driving before a fatal accident in Tilst",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-fik-anmeldelser-om-hasarderet-koersel-inden-doedsulykke-i-tilst?referrer=RSS",
-        "published_date": "2026-06-24 12:48:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "World Cup in numbers: Many goals, Messi records and inefficient Turks",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/vm-i-tal-mange-maal-messi-rekorder-og-ineffektive-tyrkere?referrer=RSS",
-        "published_date": "2026-06-24 12:32:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: Eight police districts have found no evidence of illegal drones",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/medie-otte-politikredse-har-ikke-fundet-beviser-for-ulovlige-droner?referrer=RSS",
-        "published_date": "2026-06-24 12:32:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This Copenhagen building arouses great emotion \u2013 the red majority declares it worthy of preservation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/arkitektur/denne-koebenhavnske-bygning-vaekker-store-foelelser--roedt-flertal-erklaerer-den-bevaringsvaerdig?referrer=RSS",
-        "published_date": "2026-06-24 12:24:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark to station conscripts in Greenland",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260624/denmark-to-station-conscripts-in-greenland",
-        "published_date": "2026-06-24 11:20:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark's weather agency upgrades heatwave warning to 'dangerous'",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260624/denmarks-weather-agency-upgrades-heatwave-warning-to-dangerous",
-        "published_date": "2026-06-24 09:53:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "A French doctor has tested positive for Ebola after returning from DR Congo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/en-fransk-laege-er-testet-positiv-ebola-efter-vaere-hjemvendt-fra-dr-congo",
-        "published_date": "2026-06-24 09:34:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fuel sales at filling stations fall for the third month in a row",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/braendstofsalg-paa-tankstationer-falder-tredje-maaned-i-traek",
-        "published_date": "2026-06-24 08:20:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260624/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-59",
-        "published_date": "2026-06-24 08:19:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Britain, France and Germany express concern over Chinese activities off Taiwan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-frankrig-og-tyskland-udtrykker-bekymring-over-kinesiske-aktiviteter-ud-taiwan",
-        "published_date": "2026-06-24 07:52:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "One in four Danes can find themselves shouting at others in traffic",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hver-fjerde-dansker-kan-finde-paa-raabe-ad-andre-i-trafikken",
-        "published_date": "2026-06-24 07:37:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Emergency services had to respond to 38 fires related to Midsummer bonfires",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/beredskabet-maatte-rykke-ud-til-38-brande-med-relation-til-sankthans-baal",
-        "published_date": "2026-06-24 06:41:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Roskilde Festival will be the first Swan-labelled music festival in the Nordics",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/roskilde-festival-bliver-foerste-svanemaerkede-musikfestival-i-norden",
-        "published_date": "2026-06-24 06:28:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man seriously burned during the lighting of a midsummer bonfire",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-alvorligt-forbraendt-under-optaending-af-sankthans-baal",
-        "published_date": "2026-06-24 05:48:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The state is dropping the collection of small debt items for 775 million",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/staten-dropper-indkraeve-smaa-gaeldsposter-775-millioner",
-        "published_date": "2026-06-24 05:20:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Technical failure paralyzed train traffic throughout Germany",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/teknisk-fejl-lammede-togtrafikken-i-hele-tyskland?referrer=RSS",
-        "published_date": "2026-06-23 23:20:48",
         "category": "Local Events"
     }
 ]
