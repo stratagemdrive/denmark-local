@@ -1,5 +1,47 @@
 [
     {
+        "title": "Burkina Faso cuts diplomatic relations with France",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/burkina-faso-afbryder-diplomatiske-forbindelser-til-frankrig?referrer=RSS",
+        "published_date": "2026-06-26 23:48:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Germany breaks record with hottest temperature ever",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tyskland-slaar-rekord-med-varmeste-temperatur-nogensinde?referrer=RSS",
+        "published_date": "2026-06-26 19:50:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The EU after Trump's tariff threats: Has the right to tax digital services",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-efter-trumps-told-trusler-har-ret-til-beskatte-digitale-tjenester",
+        "published_date": "2026-06-26 19:38:06",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Europeans want to be free of foreign technology \u2013 the Danes excel",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/europaeere-vil-fri-af-fremmed-teknologi--danskerne-udmaerker-sig?referrer=RSS",
+        "published_date": "2026-06-26 19:36:56",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "European heatwave's unlikely accomplice is an ocean 'cold blob'",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260626/european-heatwaves-unlikely-accomplice-is-an-ocean-cold-blob",
+        "published_date": "2026-06-26 15:20:28",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Canada must participate in next year's Eurovision",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/canada-maa-deltage-i-naeste-aars-eurovision",
+        "published_date": "2026-06-26 15:12:17",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Camera 60,000 kilometers out in space captures heat wave in Europe",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/kamera-60000-kilometer-ude-i-rummet-fanger-hedeboelge-i-europa?referrer=RSS",
@@ -98,46 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Mette Frederiksen did not want to say anything.Now sources are telling Politico which countries could house new departure centers",
+        "title": "US carries out strikes in Iran after accusations of ceasefire violations",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/mette-frederiksen-ville-ikke-sige-noget-nu-fortaeller-kilder-til-politico-hvilke-lande-der-kan-huse-nye-udrejsecentre?referrer=RSS",
-        "published_date": "2026-06-24 12:29:05",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/usa-udfoerer-angreb-i-iran-efter-beskyldning-om-brudt-vaabenhvile?referrer=RSS",
+        "published_date": "2026-06-26 21:26:47",
+        "category": "Military"
     },
     {
-        "title": "Why Europe is warming faster than the rest of the world",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260624/explained-why-europe-is-the-worlds-fastest-warming-continent",
-        "published_date": "2026-06-24 10:42:20",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Train traffic resumes in Germany after nationwide breakdowns",
+        "title": "US military: Has carried out attacks against Iran in retaliation for attacks on ships in the Strait of Hormuz",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kommunikationsfejl-lammer-togtrafikken-i-hele-tyskland",
-        "published_date": "2026-06-23 21:45:10",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/usa-s-militaer-har-gennemfoert-angreb-mod-iran-som-gengaeld-angreb-mod-skib-i-hormuzstraedet",
+        "published_date": "2026-06-26 20:55:02",
+        "category": "Military"
     },
     {
-        "title": "Why the extreme heat is wreaking havoc on Europe's trains",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260623/why-the-extreme-heat-is-wreaking-havoc-on-europes-trains",
-        "published_date": "2026-06-23 13:47:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "'Europeans are fully awake': Why the EU is pushing for a new 'digital euro'",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260623/europeans-are-fully-awake-why-the-eu-is-pushing-for-a-new-digital-euro",
-        "published_date": "2026-06-23 09:28:04",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Tell us: 10 years on, how has Brexit affected your life in Denmark?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260623/tell-us-10-years-on-how-has-brexit-affected-your-life-in-denmark",
-        "published_date": "2026-06-23 08:15:52",
-        "category": "Diplomacy"
+        "title": "Trump accuses Iran of ceasefire violations: Complete lie, says Iran",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-anklager-iran-brud-paa-vaabenhvilen-komplet-loegn-siger-iran",
+        "published_date": "2026-06-26 17:18:55",
+        "category": "Military"
     },
     {
         "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
@@ -252,20 +273,6 @@
         "category": "Military"
     },
     {
-        "title": "Jihadists attack international airport in West African country",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/jihadister-angriber-international-lufthavn-i-vestafrikansk-land?referrer=RSS",
-        "published_date": "2026-06-18 23:06:48",
-        "category": "Military"
-    },
-    {
-        "title": "The ceasefire in the Middle East - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vaabenhvilen-i-mellemoesten--foelg-med-her?referrer=RSS",
-        "published_date": "2026-06-18 13:08:31",
-        "category": "Military"
-    },
-    {
         "title": "Seven wild facts about historic heath \u2013 today's stories have been selected by Pierre Collignon",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/syv-vilde-facts-om-historisk-hede--dagens-historier-er-udvalgt-af-pierre-collignon?referrer=RSS",
@@ -313,6 +320,20 @@
         "url": "https://www.berlingske.dk/danmark/borgmester-vil-have-myndigheders-hjaelp-til-olieforurening-fra-nordic-waste?referrer=RSS",
         "published_date": "2026-06-19 13:55:51",
         "category": "Energy"
+    },
+    {
+        "title": "After 11 years of struggle, Daniel got his son home: When the joy was greatest, the tears finally came",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/varde/efter-11-aars-kamp-fik-daniel-sin-soen-hjem-da-glaeden-var-stoerst-kom-taarerne-endelig-frem?rss",
+        "published_date": "2026-06-26 20:01:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Trump threatens tariffs in response to digital tax",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-truer-med-told-som-reaktion-paa-digital-skat",
+        "published_date": "2026-06-26 16:49:04",
+        "category": "Economy"
     },
     {
         "title": "King Charles has paid DKK 260 million in personal tax",
@@ -378,18 +399,74 @@
         "category": "Economy"
     },
     {
-        "title": "Cuba's government proposes historic economic reforms",
+        "title": "Vance in warning to Iran: Violence will be met with violence",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/cubas-regering-foreslaar-historiske-oekonomiske-reformer?referrer=RSS",
-        "published_date": "2026-06-18 21:31:44",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/vance-i-advarsel-til-iran-vold-vil-blive-moedt-med-vold?referrer=RSS",
+        "published_date": "2026-06-26 23:20:44",
+        "category": "Local Events"
     },
     {
-        "title": "Berlingske believes: Jakob Engel-Schmidt wraps unimaginable scandal in Orwellian new language",
+        "title": "Venezuela's leader thanks Trump for support in difficult time",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/berlingske-mener-jakob-engel-schmidt-pakker-ufattelig-skandale-ind-i-orwellsk-nysprog?referrer=RSS",
-        "published_date": "2026-06-18 13:29:30",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/venezuelas-leder-takker-trump-for-stoette-i-vanskelig-tid?referrer=RSS",
+        "published_date": "2026-06-26 22:46:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dembele hat-trick against Norwegian reserves secures French first place",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dembele-hattrick-mod-norske-reserver-sikrer-fransk-foersteplads?referrer=RSS",
+        "published_date": "2026-06-26 21:04:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ghanaian profile urges his team for more refereeing at the World Cup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/ghanesisk-profil-opfordrer-sit-hold-til-mere-dommerbrok-ved-vm?referrer=RSS",
+        "published_date": "2026-06-26 20:09:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "German heat wave shortens the EC in ironman by 76 kilometers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tysk-hedeboelge-afkorter-em-i-ironman-med-76-kilometer?referrer=RSS",
+        "published_date": "2026-06-26 19:44:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "It will suit Stoklund to come up with a principle that is more stable than my soft ice during a heat wave",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/det-vil-klaede-stoklund-at-finde-sig-et-princip-der-er-mere-stabilt-end-min-softice-under-en-hedeboelge?referrer=RSS",
+        "published_date": "2026-06-26 19:38:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do you check your pee - here are five things we often forget in the summer heat",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/soenderborg/tjekker-du-dit-tis-fem-ting-vi-ofte-glemmer-i-sommervarmen?rss",
+        "published_date": "2026-06-26 19:17:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Case about fatal accident at railway crossing drags on: Several elements can delay the case for months",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/aabenraa/doedsulykke-sag-traekker-ud-ny-usikkerhed-om-retssagen-mens-ven-tegnede-billede-af-den-24-aarige?rss",
+        "published_date": "2026-06-26 17:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Trump adviser admits to leaking classified information",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-trump-raadgiver-indroemmer-have-laekket-fortrolige-oplysninger",
+        "published_date": "2026-06-26 15:43:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "The prosecutor is appealing the sentence against Marius Borg H\u00f8iby",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/anklager-anker-straf-i-dommen-mod-marius-borg-hoeiby",
+        "published_date": "2026-06-26 13:21:29",
+        "category": "Local Events"
     },
     {
         "title": "Here you get the latest news about Danish politics",
@@ -459,76 +536,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/livstidsfangen-peter-madsen-faar-nej-til-komme-ud-og-blive-gift",
         "published_date": "2026-06-26 10:23:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danser med Drenge fears collapse in the heat: Cancels concert Saturday",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danser-med-drenge-frygter-kollaps-i-varmen-aflyser-koncert-loerdag",
-        "published_date": "2026-06-26 09:52:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train company on the brink of bankruptcy: DSB takes over everything",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/dsb-overtager-togtrafik-fra-gocollective?rss",
-        "published_date": "2026-06-26 09:28:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train company on the brink of bankruptcy: DSB takes over everything",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/odense/dsb-overtager-togtrafik-fra-gocollective?rss",
-        "published_date": "2026-06-26 09:28:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Saudi Arabian man gets life for attack on German Christmas market",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/saudiarabisk-mand-faar-livstid-angreb-mod-tysk-julemarked",
-        "published_date": "2026-06-26 08:27:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Friday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260626/today-in-denmark-a-roundup-of-the-latest-news-on-friday-50",
-        "published_date": "2026-06-26 07:22:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "The student van drove without Hannah - therefore she was left behind",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/studentervognen-koerte-uden-hannah-derfor-blev-hun-efterladt?rss",
-        "published_date": "2026-06-26 06:40:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cows scared out of their wits ran onto train tracks: - I think it was wolves",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/aabenraa/koeer-skraemt-fra-vid-og-sans-loeb-ud-paa-togskinner-jeg-tror-det-var-ulve?rss",
-        "published_date": "2026-06-26 05:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "South Korea to train half a million drone pilots",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sydkorea-vil-uddanne-en-halv-million-dronepiloter",
-        "published_date": "2026-06-26 04:26:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "USA closes controversial departure center in swamp area",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-lukker-omstridt-udrejsecenter-i-sumpomraade?referrer=RSS",
-        "published_date": "2026-06-25 23:42:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elderly Swedish man drowns while swimming in Roskilde Fjord",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/aeldre-svensk-mand-drukner-under-badetur-i-roskilde-fjord?referrer=RSS",
-        "published_date": "2026-06-25 23:08:55",
         "category": "Local Events"
     }
 ]
