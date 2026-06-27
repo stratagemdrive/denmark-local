@@ -1,5 +1,19 @@
 [
     {
+        "title": "At least 193 million in Europe to face temperatures above 35C on Saturday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260627/at-least-193-million-in-europe-to-face-temperatures-above-35c-on-saturday",
+        "published_date": "2026-06-27 15:52:12",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU worries jet fuel supply situation to worsen",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260627/eu-worries-jet-fuel-supply-situation-to-worsen",
+        "published_date": "2026-06-27 10:14:32",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Burkina Faso cuts diplomatic relations with France",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/burkina-faso-afbryder-diplomatiske-forbindelser-til-frankrig",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Young man presumed dead in drowning accident: Giving up on finding him alive",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/jolle-kaentret-i-nat-mand-formodes-doed?rss",
-        "published_date": "2026-06-25 06:14:11",
-        "category": "Diplomacy"
+        "title": "The US military is carrying out new attacks against several targets in Iran",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usas-militaer-udfoerer-nye-angreb-mod-flere-maal-i-iran?referrer=RSS",
+        "published_date": "2026-06-27 22:51:47",
+        "category": "Military"
     },
     {
-        "title": "Trump to Mark Rutte: We were let down by NATO countries in the Iran war",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-til-mark-rutte-vi-blev-svigtet-af-nato-lande-i-iran-krig?referrer=RSS",
-        "published_date": "2026-06-24 21:33:46",
-        "category": "Diplomacy"
+        "title": "US attacks Iran again: 'In response to continued Iranian attacks on commercial shipping'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-angriber-igen-iran-paa-grund-af-haendelser-i-hormuzstraedet",
+        "published_date": "2026-06-27 21:57:11",
+        "category": "Military"
     },
     {
         "title": "Ukraine reports: Ukrainian energy company and Russian arms factory hit",
@@ -238,48 +252,6 @@
         "category": "Military"
     },
     {
-        "title": "The President of Poland strips Zelenskyj of the Polish Order",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/polens-praesident-fratager-zelenskyj-polsk-orden?referrer=RSS",
-        "published_date": "2026-06-19 19:55:47",
-        "category": "Military"
-    },
-    {
-        "title": "Ukraine claims to have attacked train bridges in Crimea",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-haevder-have-angrebet-togbroer-paa-krim",
-        "published_date": "2026-06-19 14:57:55",
-        "category": "Military"
-    },
-    {
-        "title": "US official: Israel and Hezbollah agree to ceasefire",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amerikansk-embedsmand-israel-og-hizbollah-er-enige-om-vaabenhvile?referrer=RSS",
-        "published_date": "2026-06-19 13:51:51",
-        "category": "Military"
-    },
-    {
-        "title": "On Friday morning, an explosive report landed.But rapporteurs lack evidence for Mette Frederiksen's claim of an \"attack\" on Denmark",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/fredag-formiddag-landede-en-spraengfarlig-rapport-men-ordfoerere-savner-bevis-for-mette-frederiksens-paastand-om-angreb-paa-danmark?referrer=RSS",
-        "published_date": "2026-06-19 13:48:05",
-        "category": "Military"
-    },
-    {
-        "title": "High-stakes press conference over: We know that, and we need an answer to that",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hoejspaendt-pressemoede-slut-det-ved-vi-og-det-mangler-vi-svar-paa",
-        "published_date": "2026-06-19 13:35:50",
-        "category": "Military"
-    },
-    {
-        "title": "The ceasefire in the Middle East - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vaabenhvilen-i-mellemoesten--foelg-med-her-2?referrer=RSS",
-        "published_date": "2026-06-19 13:33:28",
-        "category": "Military"
-    },
-    {
         "title": "Seven wild facts about historic heath \u2013 today's stories have been selected by Pierre Collignon",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/syv-vilde-facts-om-historisk-hede--dagens-historier-er-udvalgt-af-pierre-collignon?referrer=RSS",
@@ -305,27 +277,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kommentatorer/soeren-pind-der-er-ikke-ord-for-hvor-stor-denne-skandale-er?referrer=RSS",
         "published_date": "2026-06-21 10:35:53",
-        "category": "Energy"
-    },
-    {
-        "title": "Pippi Longstocking returns in new animated TV series",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pippi-langstroempe-vender-tilbage-i-ny-animeret-tv-serie",
-        "published_date": "2026-06-19 18:21:07",
-        "category": "Energy"
-    },
-    {
-        "title": "Recalled after discovery of listeria bacteria: Infection can cause unpleasant symptoms",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/fyn/tilbagekaldes-efter-fund-af-listeria-bakterie-infektion-kan-give-influenzalignende-symptomer?rss",
-        "published_date": "2026-06-19 17:30:00",
-        "category": "Energy"
-    },
-    {
-        "title": "The mayor wants the authorities' help with oil pollution from Nordic Waste",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/borgmester-vil-have-myndigheders-hjaelp-til-olieforurening-fra-nordic-waste?referrer=RSS",
-        "published_date": "2026-06-19 13:55:51",
         "category": "Energy"
     },
     {
@@ -399,11 +350,123 @@
         "category": "Economy"
     },
     {
-        "title": "The Trump administration is deeply unhappy with Cuba's reform plans",
+        "title": "Trump appoints new head of reviled immigration agency",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-administration-er-staerkt-utilfreds-med-cubas-reformplaner?referrer=RSS",
-        "published_date": "2026-06-19 23:34:46",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/trump-udpeger-ny-chef-til-udskaeldt-immigrationsmyndighed?referrer=RSS",
+        "published_date": "2026-06-27 23:19:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bellingham and Kane secure England group victory ahead of Croatia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/bellingham-og-kane-sikrer-england-gruppesejr-foran-kroatien?referrer=RSS",
+        "published_date": "2026-06-27 23:07:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Circus guests may have drunk cleansing liquid in slush ice",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/cirkusgaester-kan-have-drukket-rensevaeske-i-slushice?referrer=RSS",
+        "published_date": "2026-06-27 21:14:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Netanyahu wants a broad government after the next election in Israel",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/netanyahu-oensker-bred-regering-efter-naeste-valg-i-israel?referrer=RSS",
+        "published_date": "2026-06-27 20:25:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Frederikshavn goalkeeper is drafted to the NHL",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/frederikshavn-maalmand-bliver-draftet-til-nhl?referrer=RSS",
+        "published_date": "2026-06-27 20:22:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump appoints new director of ICE",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-udnaevner-ny-direktoer-ice",
+        "published_date": "2026-06-27 20:03:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tens of thousands take part in the first Pride march after Orb\u00e1n's departure in Hungary",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/titusinder-gaar-i-foerste-pride-march-efter-orbans-afgang-i-ungarn?referrer=RSS",
+        "published_date": "2026-06-27 19:50:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jet ski has been seized following reports of wild sailing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/vandscooter-er-beslaglagt-efter-meldinger-om-vild-sejlads?referrer=RSS",
+        "published_date": "2026-06-27 19:47:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serbia's president steps down after a year and a half of protests",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/serbiens-praesident-gaar-af-efter-halvandet-aars-protester?referrer=RSS",
+        "published_date": "2026-06-27 18:59:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Younger man seriously injured after stabbing in Valby",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/yngre-mand-svaert-tilskadekommen-efter-knivstikkeri-i-valby",
+        "published_date": "2026-06-27 18:49:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serbia's president will resign and call an election",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/serbiens-praesident-vil-traekke-sig-og-udskrive-valg",
+        "published_date": "2026-06-27 17:45:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police were present in large numbers at Islands Brygge: They were looking for two people",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-er-talstaerkt-til-stede-ved-islands-brygge-leder-efter-personer",
+        "published_date": "2026-06-27 16:46:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark marks hottest temperature on record at 36.6C",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260627/denmark-marks-hottest-temperature-on-record-at-36-6c",
+        "published_date": "2026-06-27 15:03:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "1,600 rescue workers have arrived in Venezuela",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/1-600-redningsarbejdere-er-ankommet-til-venezuela",
+        "published_date": "2026-06-27 14:48:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Light rail stopped in Odense - in the middle of Tinderbox",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/letbane-holder-stille-i-odense-midt-i-tinderbox",
+        "published_date": "2026-06-27 13:54:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Student van hit by object - possibly pepper spray",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/studentervogn-ramt-af-genstand-muligvis-peberspray",
+        "published_date": "2026-06-27 13:50:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kidd cancels concert at Tinderbox",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kidd-aflyser-koncert-paa-tinderbox",
+        "published_date": "2026-06-27 12:51:09",
+        "category": "Local Events"
     },
     {
         "title": "In a small Dutch town, Noa fears that she will become the next Lisa.The violence against the asylum center has escalated, and the spokesman claims that a crucial detail made the flames inevitable",
@@ -424,125 +487,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/varmeste-junidag-i-historien-er-en-realitet?referrer=RSS",
         "published_date": "2026-06-27 11:20:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish festivals increase the focus on safety on the hottest day of the year",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/danske-festivaler-oeger-fokus-paa-sikkerheden-paa-aarets-varmeste-dag?referrer=RSS",
-        "published_date": "2026-06-27 11:20:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire in a home for the elderly in St\u00f8vring",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brand-i-aeldrebolig-i-stoevring",
-        "published_date": "2026-06-27 11:19:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The winning machine Magnus Cort ends his career after the season",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/sejrsmaskinen-magnus-cort-stopper-karrieren-efter-saesonen?referrer=RSS",
-        "published_date": "2026-06-27 11:10:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The father of three takes stock after 16 years with children in primary school: On three points, the students face a gigantic failure",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/far-til-tre-goer-status-efter-16-aar-med-boern-i-folkeskolen-paa-tre-punkter-moeder-eleverne-et-gigantisk-svigt?referrer=RSS",
-        "published_date": "2026-06-27 11:06:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman flown to Rigshospitalet after fire in elderly homes",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/kvinde-floejet-til-rigshospitalet-efter-brand-i-aeldreboliger?referrer=RSS",
-        "published_date": "2026-06-27 11:03:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "BLUE BOOK: Magnus Cort has won in all grand tours",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/blaa-bog-magnus-cort-har-vundet-i-alle-grand-tours?referrer=RSS",
-        "published_date": "2026-06-27 10:58:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Beate Anders died on the spot when the Afghan hit her on route 13. Now the lawyer is asking an uncomfortable question after Mette Frederiksen's statement",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/beate-anders-doede-paa-stedet-da-afghaneren-ramte-hende-paa-rute-13-nu-stiller-advokat-et-ubehageligt-spoergsmaal-efter-udtalelse-fra-mette-frederiksen?referrer=RSS",
-        "published_date": "2026-06-27 10:56:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Massive queue on the Fynske Motorvej after several accidents in the holiday traffic",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/massiv-koe-paa-fynske-motorvej-efter-flere-uheld-i-ferietrafikken",
-        "published_date": "2026-06-27 10:40:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "The government can set a record in the number of advisers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/regeringen-kan-saette-rekord-i-antallet-af-raadgivere?referrer=RSS",
-        "published_date": "2026-06-27 10:31:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran accuses the US of violating the agreement",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-anklager-usa-brud-paa-aftale",
-        "published_date": "2026-06-27 10:15:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "One person dead after plane crashes into skyscraper in Beijing",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/en-person-doed-efter-fly-styrtede-ind-i-skyskraber-i-beijing",
-        "published_date": "2026-06-27 09:35:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Skagen is getting a new tourist attraction",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skagen-faar-en-ny-turistattraktion",
-        "published_date": "2026-06-27 08:29:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Skandaleskole's bankruptcy cost Amalie a lot of money: - I got a hole in my stomach",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/skandaleskoles-konkurs-kostede-amalie-mange-penge-jeg-fik-et-hul-i-maven?rss",
-        "published_date": "2026-06-27 08:07:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young man jumped out of student van",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-roeg-ud-af-studentervogn",
-        "published_date": "2026-06-27 07:10:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of pension millionaires increased last year",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-pensionsmillionaerer-steg-sidste-aar",
-        "published_date": "2026-06-27 06:08:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump shares new photo of commemorative passport",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-deler-nyt-billede-af-mindepas",
-        "published_date": "2026-06-27 04:33:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vance in warning to Iran: Violence will be met with violence",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vance-i-advarsel-til-iran-vold-vil-blive-moedt-med-vold?referrer=RSS",
-        "published_date": "2026-06-26 23:20:44",
         "category": "Local Events"
     }
 ]
