@@ -1,6 +1,13 @@
 [
     {
         "title": "Burkina Faso cuts diplomatic relations with France",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/burkina-faso-afbryder-diplomatiske-forbindelser-til-frankrig",
+        "published_date": "2026-06-27 00:57:57",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Burkina Faso cuts diplomatic relations with France",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/burkina-faso-afbryder-diplomatiske-forbindelser-til-frankrig?referrer=RSS",
         "published_date": "2026-06-26 23:48:50",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "'People are at risk': Europe urged to invest in healthcare as heatwaves intensify",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260624/people-are-at-risk-europe-urged-to-invest-in-healthcare-as-heatwaves-intensify",
-        "published_date": "2026-06-24 18:30:49",
-        "category": "Diplomacy"
+        "title": "Ukraine reports: Ukrainian energy company and Russian arms factory hit",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-melder-ukrainsk-energiselskab-og-russisk-vaabenfabrik-ramt",
+        "published_date": "2026-06-27 09:14:18",
+        "category": "Military"
     },
     {
         "title": "US carries out strikes in Iran after accusations of ceasefire violations",
@@ -399,143 +406,143 @@
         "category": "Economy"
     },
     {
+        "title": "In a small Dutch town, Noa fears that she will become the next Lisa.The violence against the asylum center has escalated, and the spokesman claims that a crucial detail made the flames inevitable",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/i-en-lille-hollandsk-by-frygter-noa-at-hun-bliver-den-naeste-lisa-volden-mod-asylcenter-er-eskaleret-og-talsmand-haevder-at-en-afgoerende-detalje-gjorde-flammerne-uundgaaelige?referrer=RSS",
+        "published_date": "2026-06-27 11:53:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Messerschmidt suddenly left the Parliament during the debate: It \"appeared remarkably arrogant\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/messerschmidt-forlod-pludselig-folketingssalen-under-debat-det-fremstod-bemaerkelsesvaerdigt-arrogant?referrer=RSS",
+        "published_date": "2026-06-27 11:22:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hottest June day in history is a reality",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/varmeste-junidag-i-historien-er-en-realitet?referrer=RSS",
+        "published_date": "2026-06-27 11:20:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish festivals increase the focus on safety on the hottest day of the year",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/danske-festivaler-oeger-fokus-paa-sikkerheden-paa-aarets-varmeste-dag?referrer=RSS",
+        "published_date": "2026-06-27 11:20:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire in a home for the elderly in St\u00f8vring",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brand-i-aeldrebolig-i-stoevring",
+        "published_date": "2026-06-27 11:19:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "The winning machine Magnus Cort ends his career after the season",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sejrsmaskinen-magnus-cort-stopper-karrieren-efter-saesonen?referrer=RSS",
+        "published_date": "2026-06-27 11:10:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The father of three takes stock after 16 years with children in primary school: On three points, the students face a gigantic failure",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/far-til-tre-goer-status-efter-16-aar-med-boern-i-folkeskolen-paa-tre-punkter-moeder-eleverne-et-gigantisk-svigt?referrer=RSS",
+        "published_date": "2026-06-27 11:06:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman flown to Rigshospitalet after fire in elderly homes",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/kvinde-floejet-til-rigshospitalet-efter-brand-i-aeldreboliger?referrer=RSS",
+        "published_date": "2026-06-27 11:03:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "BLUE BOOK: Magnus Cort has won in all grand tours",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/blaa-bog-magnus-cort-har-vundet-i-alle-grand-tours?referrer=RSS",
+        "published_date": "2026-06-27 10:58:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Beate Anders died on the spot when the Afghan hit her on route 13. Now the lawyer is asking an uncomfortable question after Mette Frederiksen's statement",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/beate-anders-doede-paa-stedet-da-afghaneren-ramte-hende-paa-rute-13-nu-stiller-advokat-et-ubehageligt-spoergsmaal-efter-udtalelse-fra-mette-frederiksen?referrer=RSS",
+        "published_date": "2026-06-27 10:56:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Massive queue on the Fynske Motorvej after several accidents in the holiday traffic",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/massiv-koe-paa-fynske-motorvej-efter-flere-uheld-i-ferietrafikken",
+        "published_date": "2026-06-27 10:40:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "The government can set a record in the number of advisers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/regeringen-kan-saette-rekord-i-antallet-af-raadgivere?referrer=RSS",
+        "published_date": "2026-06-27 10:31:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran accuses the US of violating the agreement",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-anklager-usa-brud-paa-aftale",
+        "published_date": "2026-06-27 10:15:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "One person dead after plane crashes into skyscraper in Beijing",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/en-person-doed-efter-fly-styrtede-ind-i-skyskraber-i-beijing",
+        "published_date": "2026-06-27 09:35:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Skagen is getting a new tourist attraction",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skagen-faar-en-ny-turistattraktion",
+        "published_date": "2026-06-27 08:29:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Skandaleskole's bankruptcy cost Amalie a lot of money: - I got a hole in my stomach",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/skandaleskoles-konkurs-kostede-amalie-mange-penge-jeg-fik-et-hul-i-maven?rss",
+        "published_date": "2026-06-27 08:07:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man jumped out of student van",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-roeg-ud-af-studentervogn",
+        "published_date": "2026-06-27 07:10:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of pension millionaires increased last year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-pensionsmillionaerer-steg-sidste-aar",
+        "published_date": "2026-06-27 06:08:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump shares new photo of commemorative passport",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-deler-nyt-billede-af-mindepas",
+        "published_date": "2026-06-27 04:33:51",
+        "category": "Local Events"
+    },
+    {
         "title": "Vance in warning to Iran: Violence will be met with violence",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/vance-i-advarsel-til-iran-vold-vil-blive-moedt-med-vold?referrer=RSS",
         "published_date": "2026-06-26 23:20:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuela's leader thanks Trump for support in difficult time",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/venezuelas-leder-takker-trump-for-stoette-i-vanskelig-tid?referrer=RSS",
-        "published_date": "2026-06-26 22:46:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dembele hat-trick against Norwegian reserves secures French first place",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dembele-hattrick-mod-norske-reserver-sikrer-fransk-foersteplads?referrer=RSS",
-        "published_date": "2026-06-26 21:04:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ghanaian profile urges his team for more refereeing at the World Cup",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ghanesisk-profil-opfordrer-sit-hold-til-mere-dommerbrok-ved-vm?referrer=RSS",
-        "published_date": "2026-06-26 20:09:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "German heat wave shortens the EC in ironman by 76 kilometers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tysk-hedeboelge-afkorter-em-i-ironman-med-76-kilometer?referrer=RSS",
-        "published_date": "2026-06-26 19:44:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "It will suit Stoklund to come up with a principle that is more stable than my soft ice during a heat wave",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/det-vil-klaede-stoklund-at-finde-sig-et-princip-der-er-mere-stabilt-end-min-softice-under-en-hedeboelge?referrer=RSS",
-        "published_date": "2026-06-26 19:38:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you check your pee - here are five things we often forget in the summer heat",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/tjekker-du-dit-tis-fem-ting-vi-ofte-glemmer-i-sommervarmen?rss",
-        "published_date": "2026-06-26 19:17:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Case about fatal accident at railway crossing drags on: Several elements can delay the case for months",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/aabenraa/doedsulykke-sag-traekker-ud-ny-usikkerhed-om-retssagen-mens-ven-tegnede-billede-af-den-24-aarige?rss",
-        "published_date": "2026-06-26 17:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former Trump adviser admits to leaking classified information",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-trump-raadgiver-indroemmer-have-laekket-fortrolige-oplysninger",
-        "published_date": "2026-06-26 15:43:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "The prosecutor is appealing the sentence against Marius Borg H\u00f8iby",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/anklager-anker-straf-i-dommen-mod-marius-borg-hoeiby",
-        "published_date": "2026-06-26 13:21:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Here you get the latest news about Danish politics",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/her-faar-du-seneste-nyt-om-dansk-politik-20?referrer=RSS",
-        "published_date": "2026-06-26 12:58:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heat wave hits Denmark - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/hedeboelge-rammer-danmark--foelg-med-her?referrer=RSS",
-        "published_date": "2026-06-26 12:57:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "World Cup in football - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vm-i-fodbold--foelg-med-her-14?referrer=RSS",
-        "published_date": "2026-06-26 12:55:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Beach volleyball profiles have the heat as an extra opponent at the DM",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/beachvolleyprofiler-har-varmen-som-ekstra-modstander-ved-dm?referrer=RSS",
-        "published_date": "2026-06-26 12:49:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Death toll in Venezuela earthquake doubles",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/doedstal-i-venezuela-jordskaelv-fordobles?referrer=RSS",
-        "published_date": "2026-06-26 12:46:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attempted murder with a shoelace around the neck results in six and a half years in prison",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/drabsforsoeg-med-snoerebaand-om-halsen-giver-seks-et-halvt-aars-faengsel?referrer=RSS",
-        "published_date": "2026-06-26 12:43:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ub\u00e5ds-Madsen went outside prison after a wedding with a 25-year-old: Now the case has been settled",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/ubaads-madsen-gik-efter-et-bryllup-med-25-aarig-uden-for-faengslet-nu-er-sagen-afgjort?rss",
-        "published_date": "2026-06-26 12:22:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "9-year-old boy attacked by dog: Dad stopped it - but then the muzzle fell off",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/aabenraa/9-aarig-dreng-angrebet-af-hund-far-fik-stoppet-det-men-saa-faldt-mundkurven-af?rss",
-        "published_date": "2026-06-26 11:27:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Significant development in case of train accident: Deceased 24-year-old was driving without a seat belt",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/aabenraa/markant-udvikling-afdoed-24-aarig-koerte-uden-sele?rss",
-        "published_date": "2026-06-26 10:44:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Life prisoner Peter Madsen is refused to come out and get married",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/livstidsfangen-peter-madsen-faar-nej-til-komme-ud-og-blive-gift",
-        "published_date": "2026-06-26 10:23:58",
         "category": "Local Events"
     }
 ]
