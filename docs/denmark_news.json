@@ -1,5 +1,26 @@
 [
     {
+        "title": "At least 191 mn Europeans face 35C on Sunday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260628/at-least-191-mn-europeans-face-35c-on-sunday",
+        "published_date": "2026-06-28 11:49:33",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Denmark records hottest day on record at 37C: weather service",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260628/denmark-records-hottest-day-on-record-at-37c-weather-service",
+        "published_date": "2026-06-28 07:30:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Records tumble as European heatwave moves east",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260628/records-tumble-as-european-heatwave-moves-east",
+        "published_date": "2026-06-28 07:03:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "At least 193 million in Europe to face temperatures above 35C on Saturday",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260627/at-least-193-million-in-europe-to-face-temperatures-above-35c-on-saturday",
@@ -119,25 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Minister: Of course the government took drones very seriously",
+        "title": "Israeli soldier reportedly killed in battle against Hezbollah in Lebanon",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/minister-naturligt-at-regeringen-tog-droner-meget-alvorligt?referrer=RSS",
-        "published_date": "2026-06-25 12:44:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "New Danish government relaunches proposal to loosen work permit rules",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260625/new-danish-government-relaunches-proposal-to-loosen-work-permit-rules",
-        "published_date": "2026-06-25 12:38:10",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "DMI: Here's the website you should check before the holidays",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dmi-her-er-hjemmesiden-du-boer-tjekke-inden-ferien",
-        "published_date": "2026-06-25 06:30:57",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/israelsk-soldat-meldes-draebt-i-kamp-mod-hizbollah-i-libanon?referrer=RSS",
+        "published_date": "2026-06-28 11:39:44",
+        "category": "Military"
     },
     {
         "title": "The US military is carrying out new attacks against several targets in Iran",
@@ -245,11 +252,18 @@
         "category": "Military"
     },
     {
-        "title": "Civil defense reports 16 killed in new attacks in Lebanon",
+        "title": "A golden toilet brush heralds revolution in Hungary",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/civilforsvar-melder-om-16-draebte-i-nye-angreb-i-libanon?referrer=RSS",
-        "published_date": "2026-06-20 11:23:45",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/oekonomi/en-gylden-toiletboerste-varsler-revolution-i-ungarn?referrer=RSS",
+        "published_date": "2026-06-28 11:50:55",
+        "category": "Energy"
+    },
+    {
+        "title": "Police: If you see an oil spill at Aarhus \u00d8, don't pray",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-ser-du-udslip-af-olie-ved-aarhus-oe-saa-bad-ikke",
+        "published_date": "2026-06-28 11:03:00",
+        "category": "Energy"
     },
     {
         "title": "Seven wild facts about historic heath \u2013 today's stories have been selected by Pierre Collignon",
@@ -350,6 +364,132 @@
         "category": "Economy"
     },
     {
+        "title": "Professor is worried about how worried we are\u00a0about artificial intelligence - because now we get the bill",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/professor-er-bekymret-over-hvor-bekymrede-vi-erover-kunstig-intelligens--for-nu-faar-vi-regningen?referrer=RSS",
+        "published_date": "2026-06-28 12:07:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "11 dead in plane crash with parachutists in France",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/11-doede-i-flystyrt-med-faldskaermsudspringere-i-frankrig",
+        "published_date": "2026-06-28 12:07:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "11 dead in plane crash with parachutists in France",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/11-doede-i-flystyrt-med-faldskaermsudspringere-i-frankrig?referrer=RSS",
+        "published_date": "2026-06-28 12:01:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several injured after lightning strike in Swedish amusement park",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-kvaestet-efter-lynnedslag-i-svensk-forlystelsespark",
+        "published_date": "2026-06-28 11:47:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several injured after lightning strike in southern Swedish summer country",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/flere-tilskadekomne-efter-lynnedslag-i-sydsvensk-sommerland?referrer=RSS",
+        "published_date": "2026-06-28 11:46:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "We know that negative social control can also be exercised by public servants.Why are we still not acting?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/vi-ved-at-negativ-social-kontrol-ogsaa-kan-udoeves-af-offentligt-ansatte-hvorfor-handler-vi-stadig-ikke?referrer=RSS",
+        "published_date": "2026-06-28 11:46:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Triumph in France was the Danes' ticket to the Tour",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/triumf-i-frankrig-blev-danskers-billet-til-touren?referrer=RSS",
+        "published_date": "2026-06-28 11:30:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "She was coveted by rock stars and immortalized by artists.Now Jerry Hall turns 70 years old",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/eksistens/hun-blev-begaeret-af-rockstjerner-og-foreviget-af-kunstnere-nu-fylder-jerry-hall-70-aar?referrer=RSS",
+        "published_date": "2026-06-28 11:28:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cirkus Summarum: No inquiries about poisoning yet",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/cirkus-summarum-ingen-henvendelser-om-forgiftning-endnu",
+        "published_date": "2026-06-28 11:26:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Your brain gets lazy when you use ChatGPT - ai is \"a disaster\" in high school",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/din-hjerne-bliver-doven-naar-du-bruger-chatgpt--ai-er-en-katastrofe-i-gymnasiet?referrer=RSS",
+        "published_date": "2026-06-28 11:07:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "From nostalgia to new talents: Copenhell delivered both dinosaurs and \"Denmark's best boy band\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/musik/fra-nostalgi-til-nye-talenter-copenhell-leverede-baade-dinosaurer-og-danmarks-bedste-boyband?referrer=RSS",
+        "published_date": "2026-06-28 11:02:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "1,000 more deaths in France than expected",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/1-000-flere-doedsfald-i-frankrig-end-forventet",
+        "published_date": "2026-06-28 09:58:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man charged with rape in Odense",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-sigtet-voldtaegt-i-odense",
+        "published_date": "2026-06-28 08:14:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran again reports breach of promise after the US attack",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-melder-igen-om-loeftebrud-efter-usa-s-angreb",
+        "published_date": "2026-06-28 07:24:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former mink breeders were convicted - but the court made a mistake: - I have experienced it twice in 25 years",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/varde/tidligere-minkavler-blev-doemt-men-retten-begik-en-fejl-jeg-har-oplevet-det-to-gange-paa-25-aar?rss",
+        "published_date": "2026-06-28 06:52:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "From today, three bus routes in Frederiksberg are free",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fra-i-dag-er-tre-busruter-paa-frederiksberg-gratis",
+        "published_date": "2026-06-28 05:23:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Michael smashed his leg in an accident - now the municipality is ripping off help from him: - My life depends on that sock",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/vejen/michael-smadrede-benet-i-en-ulykke-nu-flaar-kommunen-hjaelp-fra-ham-mit-liv-afhaenger-af-den-sok?rss",
+        "published_date": "2026-06-28 05:08:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man dead after being hit by a train at Roskilde Festival",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-doed-efter-togpaakoersel-ved-roskilde-festival",
+        "published_date": "2026-06-28 03:58:54",
+        "category": "Local Events"
+    },
+    {
         "title": "Trump appoints new head of reviled immigration agency",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-udpeger-ny-chef-til-udskaeldt-immigrationsmyndighed?referrer=RSS",
@@ -361,132 +501,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/bellingham-og-kane-sikrer-england-gruppesejr-foran-kroatien?referrer=RSS",
         "published_date": "2026-06-27 23:07:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Circus guests may have drunk cleansing liquid in slush ice",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/cirkusgaester-kan-have-drukket-rensevaeske-i-slushice?referrer=RSS",
-        "published_date": "2026-06-27 21:14:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Netanyahu wants a broad government after the next election in Israel",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/netanyahu-oensker-bred-regering-efter-naeste-valg-i-israel?referrer=RSS",
-        "published_date": "2026-06-27 20:25:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Frederikshavn goalkeeper is drafted to the NHL",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/frederikshavn-maalmand-bliver-draftet-til-nhl?referrer=RSS",
-        "published_date": "2026-06-27 20:22:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump appoints new director of ICE",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-udnaevner-ny-direktoer-ice",
-        "published_date": "2026-06-27 20:03:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tens of thousands take part in the first Pride march after Orb\u00e1n's departure in Hungary",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/titusinder-gaar-i-foerste-pride-march-efter-orbans-afgang-i-ungarn?referrer=RSS",
-        "published_date": "2026-06-27 19:50:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jet ski has been seized following reports of wild sailing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/vandscooter-er-beslaglagt-efter-meldinger-om-vild-sejlads?referrer=RSS",
-        "published_date": "2026-06-27 19:47:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Serbia's president steps down after a year and a half of protests",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/serbiens-praesident-gaar-af-efter-halvandet-aars-protester?referrer=RSS",
-        "published_date": "2026-06-27 18:59:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Younger man seriously injured after stabbing in Valby",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/yngre-mand-svaert-tilskadekommen-efter-knivstikkeri-i-valby",
-        "published_date": "2026-06-27 18:49:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Serbia's president will resign and call an election",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/serbiens-praesident-vil-traekke-sig-og-udskrive-valg",
-        "published_date": "2026-06-27 17:45:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police were present in large numbers at Islands Brygge: They were looking for two people",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-er-talstaerkt-til-stede-ved-islands-brygge-leder-efter-personer",
-        "published_date": "2026-06-27 16:46:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark marks hottest temperature on record at 36.6C",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260627/denmark-marks-hottest-temperature-on-record-at-36-6c",
-        "published_date": "2026-06-27 15:03:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "1,600 rescue workers have arrived in Venezuela",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/1-600-redningsarbejdere-er-ankommet-til-venezuela",
-        "published_date": "2026-06-27 14:48:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Light rail stopped in Odense - in the middle of Tinderbox",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/letbane-holder-stille-i-odense-midt-i-tinderbox",
-        "published_date": "2026-06-27 13:54:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Student van hit by object - possibly pepper spray",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/studentervogn-ramt-af-genstand-muligvis-peberspray",
-        "published_date": "2026-06-27 13:50:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kidd cancels concert at Tinderbox",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kidd-aflyser-koncert-paa-tinderbox",
-        "published_date": "2026-06-27 12:51:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "In a small Dutch town, Noa fears that she will become the next Lisa.The violence against the asylum center has escalated, and the spokesman claims that a crucial detail made the flames inevitable",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/i-en-lille-hollandsk-by-frygter-noa-at-hun-bliver-den-naeste-lisa-volden-mod-asylcenter-er-eskaleret-og-talsmand-haevder-at-en-afgoerende-detalje-gjorde-flammerne-uundgaaelige?referrer=RSS",
-        "published_date": "2026-06-27 11:53:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Messerschmidt suddenly left the Parliament during the debate: It \"appeared remarkably arrogant\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/messerschmidt-forlod-pludselig-folketingssalen-under-debat-det-fremstod-bemaerkelsesvaerdigt-arrogant?referrer=RSS",
-        "published_date": "2026-06-27 11:22:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hottest June day in history is a reality",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/varmeste-junidag-i-historien-er-en-realitet?referrer=RSS",
-        "published_date": "2026-06-27 11:20:49",
         "category": "Local Events"
     }
 ]
