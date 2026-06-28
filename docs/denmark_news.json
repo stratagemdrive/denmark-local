@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Putin expects new negotiations with the US after the Iran conflict",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/putin-forventer-nye-forhandlinger-med-usa-efter-iran-konflikt?referrer=RSS",
+        "published_date": "2026-06-28 23:37:47",
+        "category": "Military"
+    },
+    {
+        "title": "Israel destroys underground Hezbollah tunnel in Lebanon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/israel-oedelaegger-underjordisk-hizbollah-tunnel-i-libanon?referrer=RSS",
+        "published_date": "2026-06-28 21:54:47",
+        "category": "Military"
+    },
+    {
         "title": "Israeli soldier reportedly killed in battle against Hezbollah in Lebanon",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/israelsk-soldat-meldes-draebt-i-kamp-mod-hizbollah-i-libanon?referrer=RSS",
@@ -235,20 +249,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/israel-vil-fastholde-den-militaere-kurs-i-det-sydlige-libanon?referrer=RSS",
         "published_date": "2026-06-22 22:42:49",
-        "category": "Military"
-    },
-    {
-        "title": "The war in Ukraine and the situation in Russia - get the latest news",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/krigen-i-ukraine-og-situationen-i-rusland--faa-seneste-nyt-4?referrer=RSS",
-        "published_date": "2026-06-20 20:00:16",
-        "category": "Military"
-    },
-    {
-        "title": "Zelenskyy warns Ukrainians of 'massive' Russian attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-advarer-ukrainerne-om-massivt-russisk-angreb",
-        "published_date": "2026-06-20 18:57:47",
         "category": "Military"
     },
     {
@@ -364,6 +364,83 @@
         "category": "Economy"
     },
     {
+        "title": "Media: The US and Iran agree to stop attacks against each other",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/medie-usa-og-iran-er-enige-om-at-stoppe-angreb-mod-hinanden?referrer=RSS",
+        "published_date": "2026-06-28 23:45:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pakistan reports 29 killed in attack on militants in Afghanistan",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/pakistan-melder-29-draebt-i-angreb-paa-militante-i-afghanistan?referrer=RSS",
+        "published_date": "2026-06-28 23:33:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "57-year-old woman taken to hospital after stabbing in Aars",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/57-aarig-kvinde-bragt-til-hospitalet-efter-knivstikkeri-i-aars?referrer=RSS",
+        "published_date": "2026-06-28 23:01:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Late Canadian goal crushes South Africa in historic World Cup match",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sent-canadisk-maal-knuser-sydafrika-i-historisk-vm-kamp?referrer=RSS",
+        "published_date": "2026-06-28 21:23:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Accident at motorway ramp blocked East Jutland Motorway",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/uheld-ved-motorvejsrampe-spaerrede-oestjyske-motorvej?referrer=RSS",
+        "published_date": "2026-06-28 21:02:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish badminton player takes the biggest triumph of his career",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dansk-badmintonspiller-tager-karrierens-stoerste-triumf?referrer=RSS",
+        "published_date": "2026-06-28 20:55:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man and son dug out of ruins four days after earthquake in Venezuela",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mand-og-soen-gravet-ud-af-ruinerne-fire-dage-efter-skaelv-i-venezuela?referrer=RSS",
+        "published_date": "2026-06-28 20:23:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "82-year-old woman has died after a fire in elderly homes in North Jutland",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/82-aarig-kvinde-er-doed-efter-brand-i-aeldreboliger-i-nordjylland?referrer=RSS",
+        "published_date": "2026-06-28 19:59:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "No money back for partially canceled Tinderbox",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ingen-penge-tilbage-delvist-aflyst-tinderbox",
+        "published_date": "2026-06-28 13:36:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "22-year-old wanted woman found safe",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-ung-kvinde-efter-bytur-i-aarhus",
+        "published_date": "2026-06-28 12:56:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "14 killed in helicopter crash in Saudi Arabia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/14-doede-i-helikopterstyrt-i-saudi-arabien",
+        "published_date": "2026-06-28 12:31:24",
+        "category": "Local Events"
+    },
+    {
         "title": "Professor is worried about how worried we are\u00a0about artificial intelligence - because now we get the bill",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kronikker/professor-er-bekymret-over-hvor-bekymrede-vi-erover-kunstig-intelligens--for-nu-faar-vi-regningen?referrer=RSS",
@@ -413,94 +490,17 @@
         "category": "Local Events"
     },
     {
+        "title": "Gert looked like a rock'n'roller, but was soft as butter: - It's so unfair, it has to end like this",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/esbjerg/gert-lignede-en-rock-n-roller-men-var-bloed-som-smoer-det-er-saa-uretfaerdigt-det-skal-ende-saadan?rss",
+        "published_date": "2026-06-28 11:30:00",
+        "category": "Local Events"
+    },
+    {
         "title": "She was coveted by rock stars and immortalized by artists.Now Jerry Hall turns 70 years old",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/eksistens/hun-blev-begaeret-af-rockstjerner-og-foreviget-af-kunstnere-nu-fylder-jerry-hall-70-aar?referrer=RSS",
         "published_date": "2026-06-28 11:28:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cirkus Summarum: No inquiries about poisoning yet",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/cirkus-summarum-ingen-henvendelser-om-forgiftning-endnu",
-        "published_date": "2026-06-28 11:26:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Your brain gets lazy when you use ChatGPT - ai is \"a disaster\" in high school",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/din-hjerne-bliver-doven-naar-du-bruger-chatgpt--ai-er-en-katastrofe-i-gymnasiet?referrer=RSS",
-        "published_date": "2026-06-28 11:07:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "From nostalgia to new talents: Copenhell delivered both dinosaurs and \"Denmark's best boy band\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/musik/fra-nostalgi-til-nye-talenter-copenhell-leverede-baade-dinosaurer-og-danmarks-bedste-boyband?referrer=RSS",
-        "published_date": "2026-06-28 11:02:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "1,000 more deaths in France than expected",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/1-000-flere-doedsfald-i-frankrig-end-forventet",
-        "published_date": "2026-06-28 09:58:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man charged with rape in Odense",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-sigtet-voldtaegt-i-odense",
-        "published_date": "2026-06-28 08:14:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran again reports breach of promise after the US attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-melder-igen-om-loeftebrud-efter-usa-s-angreb",
-        "published_date": "2026-06-28 07:24:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former mink breeders were convicted - but the court made a mistake: - I have experienced it twice in 25 years",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/varde/tidligere-minkavler-blev-doemt-men-retten-begik-en-fejl-jeg-har-oplevet-det-to-gange-paa-25-aar?rss",
-        "published_date": "2026-06-28 06:52:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "From today, three bus routes in Frederiksberg are free",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fra-i-dag-er-tre-busruter-paa-frederiksberg-gratis",
-        "published_date": "2026-06-28 05:23:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Michael smashed his leg in an accident - now the municipality is ripping off help from him: - My life depends on that sock",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/vejen/michael-smadrede-benet-i-en-ulykke-nu-flaar-kommunen-hjaelp-fra-ham-mit-liv-afhaenger-af-den-sok?rss",
-        "published_date": "2026-06-28 05:08:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young man dead after being hit by a train at Roskilde Festival",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-doed-efter-togpaakoersel-ved-roskilde-festival",
-        "published_date": "2026-06-28 03:58:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump appoints new head of reviled immigration agency",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-udpeger-ny-chef-til-udskaeldt-immigrationsmyndighed?referrer=RSS",
-        "published_date": "2026-06-27 23:19:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bellingham and Kane secure England group victory ahead of Croatia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/bellingham-og-kane-sikrer-england-gruppesejr-foran-kroatien?referrer=RSS",
-        "published_date": "2026-06-27 23:07:46",
         "category": "Local Events"
     }
 ]
