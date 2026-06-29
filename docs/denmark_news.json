@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Dream ships or strategic mistake?Nobody asks the uncomfortable questions about the Nordic defense billions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/droemmeskibe-eller-strategisk-fejltagelse-ingen-stiller-de-ubehagelige-spoergsmaal-om-nordens-forsvarsmilliarder?referrer=RSS",
+        "published_date": "2026-06-29 14:13:22",
+        "category": "Military"
+    },
+    {
         "title": "Putin expects new negotiations with the US after the Iran conflict",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/putin-forventer-nye-forhandlinger-med-usa-efter-iran-konflikt?referrer=RSS",
@@ -252,6 +259,13 @@
         "category": "Military"
     },
     {
+        "title": "Breakage of a gas line closes the approach road in Randers",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brud-paa-gasledning-lukker-indfaldsvej-i-randers",
+        "published_date": "2026-06-29 13:59:40",
+        "category": "Energy"
+    },
+    {
         "title": "A golden toilet brush heralds revolution in Hungary",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/oekonomi/en-gylden-toiletboerste-varsler-revolution-i-ungarn?referrer=RSS",
@@ -284,13 +298,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/kraftig-gaslugt-efter-brud-paa-gasledning-i-hobro",
         "published_date": "2026-06-24 14:38:30",
-        "category": "Energy"
-    },
-    {
-        "title": "S\u00f8ren Pind: There are no words for how big this scandal is",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/soeren-pind-der-er-ikke-ord-for-hvor-stor-denne-skandale-er?referrer=RSS",
-        "published_date": "2026-06-21 10:35:53",
         "category": "Energy"
     },
     {
@@ -350,157 +357,143 @@
         "category": "Economy"
     },
     {
-        "title": "After the brutal murder of a businessman: For the first time, the children tell about the days they will never forget",
+        "title": "The US Supreme Court refuses to hear Trump's appeal in the sexual assault case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usas-hoejesteret-afviser-at-behandle-trumps-anke-i-overgrebssag?referrer=RSS",
+        "published_date": "2026-06-29 14:17:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maresca replaces Guardiola as Manchester City manager",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/maresca-afloeser-guardiola-som-manchester-city-manager?referrer=RSS",
+        "published_date": "2026-06-29 14:03:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two witnesses threatened in Herning",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/vidner-truet-i-herning",
+        "published_date": "2026-06-29 14:00:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police stood outside the Kors\u00f8r man's house for several hours",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-stod-uden-for-korsoer-mandens-hus-i-flere-timer?referrer=RSS",
+        "published_date": "2026-06-29 13:53:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deeply corrupt businessman gossiped and escaped punishment.It could cost S\u00e1nchez dearly",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/bundkorrupt-forretningsmand-sladrede-og-slap-for-straf-det-kan-koste-sanchez-dyrt?referrer=RSS",
+        "published_date": "2026-06-29 13:42:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Warning shots fired at the wolf pack were harmless to the animals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/varselsskud-affyret-mod-ulveflok-var-ufarlige-for-dyrene?referrer=RSS",
+        "published_date": "2026-06-29 13:39:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Potential new British leader will send more power out to regions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/potentiel-ny-britisk-leder-vil-sende-mere-magt-ud-til-regioner?referrer=RSS",
+        "published_date": "2026-06-29 13:36:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The government owes answers on how departure centers can comply with human rights",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/regeringen-skylder-svar-paa-hvordan-udrejsecentre-kan-overholde-menneskerettighederne?referrer=RSS",
+        "published_date": "2026-06-29 13:35:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six managers in the Nordic Waste case meet with millions of claims",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/seks-ledere-i-nordic-waste-sag-moedes-med-millionkrav?referrer=RSS",
+        "published_date": "2026-06-29 13:26:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police drop fines for spending the night in a park",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-dropper-boeder-overnatte-i-park",
+        "published_date": "2026-06-29 13:22:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tom Jensen: Are you afraid of AI?Then meet the backlash at Roskilde",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kulturkommentar/tom-jensen-er-du-bange-for-ai-saa-moed-modreaktionen-paa-roskilde?referrer=RSS",
+        "published_date": "2026-06-29 13:13:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lack of train staff: DSB runs with fewer regional trains until 12 July",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mangler-togpersonale-dsb-koerer-med-faerre-regionaltog-til-12-juli",
+        "published_date": "2026-06-29 12:51:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The German highways suffered heat stroke at the weekend",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/de-tyske-motorveje-fik-hedeslag-i-weekenden",
+        "published_date": "2026-06-29 11:59:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danes triumphed in the 24-hour race in Spa",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansker-triumferede-i-24-timersloebet-i-spa",
+        "published_date": "2026-06-29 11:49:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "At the weekend, 33 survivors were rescued from the rubble in Venezuela",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/33-overlevende-er-i-weekenden-reddet-ud-af-murbrokkerne-i-venezuela",
+        "published_date": "2026-06-29 11:36:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Massive queue around the Limfjord Tunnel in both directions",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/massiv-koe-omkring-limfjordstunnellen-i-begge-retninger",
+        "published_date": "2026-06-29 11:28:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Experts sound the alarm: Unwanted border crossing undermines dyke security",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/efter-brutalt-drab-paa-erhvervsmand-for-foerste-gang-fortaeller-boernene-om-dagene-de-aldrig-glemmer?rss",
-        "published_date": "2026-06-21 05:00:00",
-        "category": "Economy"
+        "url": "https://jv.dk/toender/eksperter-slaar-alarm-uoensket-graenseoverloeber-underminerer-digesikkerhed?rss",
+        "published_date": "2026-06-29 10:56:00",
+        "category": "Local Events"
     },
     {
-        "title": "King Charles will share tax information",
+        "title": "The police have fired warning shots in the area near Esbjerg",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kong-charles-vil-dele-skatteoplysninger",
-        "published_date": "2026-06-21 04:28:50",
-        "category": "Economy"
-    },
-    {
-        "title": "Media: The US and Iran agree to stop attacks against each other",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/medie-usa-og-iran-er-enige-om-at-stoppe-angreb-mod-hinanden?referrer=RSS",
-        "published_date": "2026-06-28 23:45:45",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-har-affyret-varselsskud-i-omraade-naer-esbjerg",
+        "published_date": "2026-06-29 09:32:21",
         "category": "Local Events"
     },
     {
-        "title": "Pakistan reports 29 killed in attack on militants in Afghanistan",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/pakistan-melder-29-draebt-i-angreb-paa-militante-i-afghanistan?referrer=RSS",
-        "published_date": "2026-06-28 23:33:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "57-year-old woman taken to hospital after stabbing in Aars",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/57-aarig-kvinde-bragt-til-hospitalet-efter-knivstikkeri-i-aars?referrer=RSS",
-        "published_date": "2026-06-28 23:01:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Late Canadian goal crushes South Africa in historic World Cup match",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/sent-canadisk-maal-knuser-sydafrika-i-historisk-vm-kamp?referrer=RSS",
-        "published_date": "2026-06-28 21:23:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Accident at motorway ramp blocked East Jutland Motorway",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/uheld-ved-motorvejsrampe-spaerrede-oestjyske-motorvej?referrer=RSS",
-        "published_date": "2026-06-28 21:02:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish badminton player takes the biggest triumph of his career",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-badmintonspiller-tager-karrierens-stoerste-triumf?referrer=RSS",
-        "published_date": "2026-06-28 20:55:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man and son dug out of ruins four days after earthquake in Venezuela",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mand-og-soen-gravet-ud-af-ruinerne-fire-dage-efter-skaelv-i-venezuela?referrer=RSS",
-        "published_date": "2026-06-28 20:23:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "82-year-old woman has died after a fire in elderly homes in North Jutland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/82-aarig-kvinde-er-doed-efter-brand-i-aeldreboliger-i-nordjylland?referrer=RSS",
-        "published_date": "2026-06-28 19:59:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "No money back for partially canceled Tinderbox",
+        "title": "A heavily trafficked road in Aalborg will be closed for two weeks",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ingen-penge-tilbage-delvist-aflyst-tinderbox",
-        "published_date": "2026-06-28 13:36:12",
+        "url": "https://www.dr.dk/nyheder/seneste/staerkt-trafikeret-vej-i-aalborg-lukker-i-uger",
+        "published_date": "2026-06-29 06:40:16",
         "category": "Local Events"
     },
     {
-        "title": "22-year-old wanted woman found safe",
+        "title": "Last day with the physical Rejsekort",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-ung-kvinde-efter-bytur-i-aarhus",
-        "published_date": "2026-06-28 12:56:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "14 killed in helicopter crash in Saudi Arabia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/14-doede-i-helikopterstyrt-i-saudi-arabien",
-        "published_date": "2026-06-28 12:31:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Professor is worried about how worried we are\u00a0about artificial intelligence - because now we get the bill",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/professor-er-bekymret-over-hvor-bekymrede-vi-erover-kunstig-intelligens--for-nu-faar-vi-regningen?referrer=RSS",
-        "published_date": "2026-06-28 12:07:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "11 dead in plane crash with parachutists in France",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/11-doede-i-flystyrt-med-faldskaermsudspringere-i-frankrig",
-        "published_date": "2026-06-28 12:07:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "11 dead in plane crash with parachutists in France",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/11-doede-i-flystyrt-med-faldskaermsudspringere-i-frankrig?referrer=RSS",
-        "published_date": "2026-06-28 12:01:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several injured after lightning strike in Swedish amusement park",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-kvaestet-efter-lynnedslag-i-svensk-forlystelsespark",
-        "published_date": "2026-06-28 11:47:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several injured after lightning strike in southern Swedish summer country",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/flere-tilskadekomne-efter-lynnedslag-i-sydsvensk-sommerland?referrer=RSS",
-        "published_date": "2026-06-28 11:46:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "We know that negative social control can also be exercised by public servants.Why are we still not acting?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/vi-ved-at-negativ-social-kontrol-ogsaa-kan-udoeves-af-offentligt-ansatte-hvorfor-handler-vi-stadig-ikke?referrer=RSS",
-        "published_date": "2026-06-28 11:46:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Triumph in France was the Danes' ticket to the Tour",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/triumf-i-frankrig-blev-danskers-billet-til-touren?referrer=RSS",
-        "published_date": "2026-06-28 11:30:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gert looked like a rock'n'roller, but was soft as butter: - It's so unfair, it has to end like this",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/gert-lignede-en-rock-n-roller-men-var-bloed-som-smoer-det-er-saa-uretfaerdigt-det-skal-ende-saadan?rss",
-        "published_date": "2026-06-28 11:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "She was coveted by rock stars and immortalized by artists.Now Jerry Hall turns 70 years old",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/eksistens/hun-blev-begaeret-af-rockstjerner-og-foreviget-af-kunstnere-nu-fylder-jerry-hall-70-aar?referrer=RSS",
-        "published_date": "2026-06-28 11:28:35",
+        "url": "https://www.dr.dk/nyheder/seneste/sidste-dag-med-det-fysiske-rejsekort",
+        "published_date": "2026-06-29 05:23:25",
         "category": "Local Events"
     }
 ]
