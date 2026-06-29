@@ -1,5 +1,12 @@
 [
     {
+        "title": "More than 1,300 excess deaths recorded in Europe heatwave: WHO",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260628/more-than-1300-excess-deaths-recorded-in-europe-heatwave-who",
+        "published_date": "2026-06-28 15:38:51",
+        "category": "Diplomacy"
+    },
+    {
         "title": "At least 191 mn Europeans face 35C on Sunday",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260628/at-least-191-mn-europeans-face-35c-on-sunday",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "China's high-tech industry has left Europe behind\u00a0\u2013 editor-in-chief Pierre Collignon picks today's stories",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/kinas-hoejteknologiske-industri-har-sat-europa-bagud-chefredaktoer-pierre-collignon-har-valgt-dagens-historier?referrer=RSS",
-        "published_date": "2026-06-25 13:03:47",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Dream ships or strategic mistake?Nobody asks the uncomfortable questions about the Nordic defense billions",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kronikker/droemmeskibe-eller-strategisk-fejltagelse-ingen-stiller-de-ubehagelige-spoergsmaal-om-nordens-forsvarsmilliarder?referrer=RSS",
@@ -259,6 +259,13 @@
         "category": "Military"
     },
     {
+        "title": "Gas leaks in Randers have stopped",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/gasudslip-i-randers-er-stoppet",
+        "published_date": "2026-06-29 15:14:53",
+        "category": "Energy"
+    },
+    {
         "title": "Breakage of a gas line closes the approach road in Randers",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/brud-paa-gasledning-lukker-indfaldsvej-i-randers",
@@ -357,6 +364,111 @@
         "category": "Economy"
     },
     {
+        "title": "Paraguay sends Germany out after huge penalty drama",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/paraguay-sender-tyskland-ud-efter-kaempe-straffedrama?referrer=RSS",
+        "published_date": "2026-06-29 23:37:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eight-year-old child is reported killed in new Israeli airstrikes in Gaza",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/otteaarigt-barn-meldes-draebt-i-nye-israelske-luftangreb-i-gaza?referrer=RSS",
+        "published_date": "2026-06-29 23:15:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "377 have died during the Ebola outbreak in DR Congo",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/377-er-doede-under-ebolaudbrud-i-dr-congo?referrer=RSS",
+        "published_date": "2026-06-29 22:58:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Trump-pardoned ex-president will go on trial in his home country",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-benaadet-ekspraesident-skal-for-retten-i-sit-hjemland?referrer=RSS",
+        "published_date": "2026-06-29 22:15:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police are hunting suspect after suspected attack in Monaco",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eksplosion-i-monaco-i-livsfare-efter-formodet-attentat",
+        "published_date": "2026-06-29 22:03:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lisbeth Bech-Nielsen sees the national church as a divisive community \u2013 but it is the government that divides",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/ledere/lisbeth-bech-nielsen-ser-folkekirken-som-et-splittende-faellesskab--men-det-er-regeringen-der-splitter?referrer=RSS",
+        "published_date": "2026-06-29 21:54:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Brazilian match winner is at a loss for words for his joy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/brasiliansk-matchvinder-mangler-ord-for-sin-glaede?referrer=RSS",
+        "published_date": "2026-06-29 21:14:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lebanon reports new Israeli airstrikes despite framework agreement",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/libanon-melder-om-nye-israelske-luftangreb-trods-rammeaftale?referrer=RSS",
+        "published_date": "2026-06-29 20:53:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Right-wing presidential candidate wins election in Peru",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hoejreorienteret-praesidentkandidat-vinder-valg-i-peru?referrer=RSS",
+        "published_date": "2026-06-29 20:50:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The last day for the travel card creates long queues in Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/sidste-dag-for-rejsekortet-skaber-lange-koeer-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-06-29 20:40:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Geeti Amiri: The discussions on the teacher training course often start from a school that no longer exists",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/geeti-amiri-diskussionerne-paa-laereruddannelsen-tager-ofte-udgangspunkt-i-en-skole-som-ikke-laengere-findes?referrer=RSS",
+        "published_date": "2026-06-29 20:35:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran will itself be responsible for mine clearance in the Strait of Hormuz",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-vil-selv-staa-minerydning-i-hormuzstraedet",
+        "published_date": "2026-06-29 20:09:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Supreme Court refuses to let Trump fire a central bank board member",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hoejesteret-afviser-lade-trump-fyre-bestyrelsesmedlem-i-centralbank",
+        "published_date": "2026-06-29 16:18:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "DMI confirms Saturday's heat record after quality assurance",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dmi-bekraefter-loerdagens-varmerekord-efter-kvalitetssikring",
+        "published_date": "2026-06-29 15:41:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are looking for witnesses in a case of serious rape in Odense",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-soeger-vidner-i-sag-om-grov-voldtaegt-i-odense",
+        "published_date": "2026-06-29 15:29:19",
+        "category": "Local Events"
+    },
+    {
         "title": "The US Supreme Court refuses to hear Trump's appeal in the sexual assault case",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usas-hoejesteret-afviser-at-behandle-trumps-anke-i-overgrebssag?referrer=RSS",
@@ -389,111 +501,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/bundkorrupt-forretningsmand-sladrede-og-slap-for-straf-det-kan-koste-sanchez-dyrt?referrer=RSS",
         "published_date": "2026-06-29 13:42:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Warning shots fired at the wolf pack were harmless to the animals",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/varselsskud-affyret-mod-ulveflok-var-ufarlige-for-dyrene?referrer=RSS",
-        "published_date": "2026-06-29 13:39:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Potential new British leader will send more power out to regions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/potentiel-ny-britisk-leder-vil-sende-mere-magt-ud-til-regioner?referrer=RSS",
-        "published_date": "2026-06-29 13:36:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The government owes answers on how departure centers can comply with human rights",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/regeringen-skylder-svar-paa-hvordan-udrejsecentre-kan-overholde-menneskerettighederne?referrer=RSS",
-        "published_date": "2026-06-29 13:35:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six managers in the Nordic Waste case meet with millions of claims",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/seks-ledere-i-nordic-waste-sag-moedes-med-millionkrav?referrer=RSS",
-        "published_date": "2026-06-29 13:26:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police drop fines for spending the night in a park",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-dropper-boeder-overnatte-i-park",
-        "published_date": "2026-06-29 13:22:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tom Jensen: Are you afraid of AI?Then meet the backlash at Roskilde",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kulturkommentar/tom-jensen-er-du-bange-for-ai-saa-moed-modreaktionen-paa-roskilde?referrer=RSS",
-        "published_date": "2026-06-29 13:13:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lack of train staff: DSB runs with fewer regional trains until 12 July",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mangler-togpersonale-dsb-koerer-med-faerre-regionaltog-til-12-juli",
-        "published_date": "2026-06-29 12:51:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The German highways suffered heat stroke at the weekend",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/de-tyske-motorveje-fik-hedeslag-i-weekenden",
-        "published_date": "2026-06-29 11:59:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danes triumphed in the 24-hour race in Spa",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansker-triumferede-i-24-timersloebet-i-spa",
-        "published_date": "2026-06-29 11:49:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "At the weekend, 33 survivors were rescued from the rubble in Venezuela",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/33-overlevende-er-i-weekenden-reddet-ud-af-murbrokkerne-i-venezuela",
-        "published_date": "2026-06-29 11:36:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Massive queue around the Limfjord Tunnel in both directions",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/massiv-koe-omkring-limfjordstunnellen-i-begge-retninger",
-        "published_date": "2026-06-29 11:28:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Experts sound the alarm: Unwanted border crossing undermines dyke security",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/toender/eksperter-slaar-alarm-uoensket-graenseoverloeber-underminerer-digesikkerhed?rss",
-        "published_date": "2026-06-29 10:56:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police have fired warning shots in the area near Esbjerg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-har-affyret-varselsskud-i-omraade-naer-esbjerg",
-        "published_date": "2026-06-29 09:32:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "A heavily trafficked road in Aalborg will be closed for two weeks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/staerkt-trafikeret-vej-i-aalborg-lukker-i-uger",
-        "published_date": "2026-06-29 06:40:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Last day with the physical Rejsekort",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sidste-dag-med-det-fysiske-rejsekort",
-        "published_date": "2026-06-29 05:23:25",
         "category": "Local Events"
     }
 ]
