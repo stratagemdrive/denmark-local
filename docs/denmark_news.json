@@ -1,5 +1,19 @@
 [
     {
+        "title": "UN warns of acute shortage of food after earthquake in Venezuela",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fn-advarer-om-akut-mangel-paa-mad-efter-jordskaelv-i-venezuela?referrer=RSS",
+        "published_date": "2026-06-30 22:20:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The EU Public Prosecutor's Office is conducting searches in several countries",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/eu-anklagemyndighed-udfoerer-ransagninger-i-flere-lande?referrer=RSS",
+        "published_date": "2026-06-30 20:38:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "China's foreign minister is to visit Denmark",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/kinas-udenrigsminister-skal-besoege-danmark",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Macron and Meloni will create a successor to the UN force in Lebanon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/macron-og-meloni-vil-lave-efterfoelger-til-fn-styrke-i-libanon?referrer=RSS",
-        "published_date": "2026-06-25 19:28:48",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "LATEST: More than 100 million Europeans suffer in temperatures above 35C",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260625/latest-more-than-100-million-europeans-suffer-in-temperatures-above-35c",
-        "published_date": "2026-06-25 13:45:56",
-        "category": "Diplomacy"
+        "title": "Ukraine in contact with Monaco after suspected assassination attempt",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-i-kontakt-med-monaco-efter-formodet-attentat",
+        "published_date": "2026-06-30 13:14:32",
+        "category": "Military"
     },
     {
         "title": "Dream ships or strategic mistake?Nobody asks the uncomfortable questions about the Nordic defense billions",
@@ -249,13 +256,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1750?referrer=RSS",
         "published_date": "2026-06-23 13:14:46",
-        "category": "Military"
-    },
-    {
-        "title": "Israel will maintain the military course in southern Lebanon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/israel-vil-fastholde-den-militaere-kurs-i-det-sydlige-libanon?referrer=RSS",
-        "published_date": "2026-06-22 22:42:49",
         "category": "Military"
     },
     {
@@ -385,11 +385,109 @@
         "category": "Economy"
     },
     {
-        "title": "It is expensive to be \"cautious\" in private finances at the moment",
+        "title": "37 students remain missing after attacks during exams in Nigeria",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/dine-penge/det-koster-dyrt-at-vaere-privatoekonomisk-forsigtigper-i-oejeblikket?referrer=RSS",
-        "published_date": "2026-06-22 15:34:17",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/37-elever-er-fortsat-savnet-efter-angreb-under-eksamener-i-nigeria?referrer=RSS",
+        "published_date": "2026-06-30 23:35:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump launches new party convention before midterm elections in November",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-lancerer-nyt-partikonvent-foer-midtvejsvalg-i-november?referrer=RSS",
+        "published_date": "2026-06-30 23:19:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mbapp\u00e9 puts down Sweden and breathes down Messi's neck",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/mbappe-nedlaegger-sverige-og-puster-messi-i-nakken?referrer=RSS",
+        "published_date": "2026-06-30 22:59:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister will gather authorities for action against poisonous caterpillar",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/minister-vil-samle-myndigheder-til-indsats-mod-giftig-larve?referrer=RSS",
+        "published_date": "2026-06-30 21:33:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young Australian defeats Williams in a great comeback",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/ung-australier-nedkaemper-williams-i-flot-comeback?referrer=RSS",
+        "published_date": "2026-06-30 21:04:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "LeBron James confirms Lakers exit but continues career",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/lebron-james-bekraefter-lakers-exit-men-fortsaetter-karrieren?referrer=RSS",
+        "published_date": "2026-06-30 20:53:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Match winner Haaland: It will change Norway forever",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/matchvinder-haaland-det-vil-forandre-norge-for-altid?referrer=RSS",
+        "published_date": "2026-06-30 20:41:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are investigating an episode of violence at a big screen event",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-undersoeger-voldsepisode-ved-storskaermsarrangement?referrer=RSS",
+        "published_date": "2026-06-30 20:38:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men charged after rape report at Roskilde Festival",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maend-sigtet-efter-voldtaegtsanmeldelse-paa-roskilde-festival",
+        "published_date": "2026-06-30 19:24:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Danish Society for the Blind will complain about compensation for rejsekort holders",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansk-blindesamfund-vil-klage-over-erstatning-til-rejsekort-standere",
+        "published_date": "2026-06-30 18:50:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll from Venezuela earthquake rises to nearly 2,000, while number of injured nearly doubles",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doedstal-efter-jordskaelv-i-venezuela-stiger-til-naesten-2-000-mens-antallet-af-saarede-er-naesten",
+        "published_date": "2026-06-30 18:17:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "14 children killed after roof collapse in Pakistan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/14-boern-draebt-efter-tagkollaps-i-pakistan",
+        "published_date": "2026-06-30 18:13:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wammen links the police handover to the dismissal of cases",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/wammen-kobler-politirokade-til-henlaeggelse-af-sager",
+        "published_date": "2026-06-30 14:23:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "The tickets for AGF's Champions League qualification torn away",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/billetterne-til-agf-s-champions-league-kvalifikation-revet-vaek",
+        "published_date": "2026-06-30 13:24:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trains to and from Germany are canceled for the rest of the day",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tog-til-og-fra-tyskland-er-aflyst-resten-af-dagen",
+        "published_date": "2026-06-30 13:23:42",
+        "category": "Local Events"
     },
     {
         "title": "Four convicted in largest contact fraud case",
@@ -424,111 +522,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/beredskab-skal-styrkes-med-akutpakke-paa-en-milliard-kroner?referrer=RSS",
         "published_date": "2026-06-30 12:39:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The profit ended up being more than one billion kroner: The director is not entirely satisfied, however",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/overskuddet-endte-paa-mere-end-en-milliard-kroner-direktoeren-er-dog-ikke-helt-tilfreds?rss",
-        "published_date": "2026-06-30 12:30:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former bank director sentenced for breach of money laundering act",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/tidligere-bankdirektoer-doemt-for-brud-paa-hvidvasklov?referrer=RSS",
-        "published_date": "2026-06-30 12:29:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "WhatsApp users will soon not have to reveal their phone number",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/whatsapp-brugere-behoever-snart-ikke-at-afsloere-deres-telefonnummer?referrer=RSS",
-        "published_date": "2026-06-30 12:21:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bus driver sentenced to prison after fatal accident",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/buschauffoer-idoemmes-faengsel-efter-doedsulykke",
-        "published_date": "2026-06-30 11:57:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Britain will spend 15 billion pounds on the country's defense",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-vil-bruge-15-milliarder-pund-paa-landets-forsvar",
-        "published_date": "2026-06-30 10:57:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Folketing wants Greenland and the Faroe Islands to the Olympics under their own flag",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/folketinget-vil-have-groenland-og-faeroeerne-til-ol-under-eget-flag",
-        "published_date": "2026-06-30 10:36:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Warning to Danish drivers:\u00a0Record number of German fines sent\nfor recovery in Denmark",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/aabenraa/advarsel-til-danske-bilister-rekordmange-tyske-boeder-sendt-til-inddrivelse-i-danmark?rss",
-        "published_date": "2026-06-30 08:47:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "New metro line goes to tender: Expected to open in 2036",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-metrolinje-sendes-i-udbud-forventes-aabne-i-2036",
-        "published_date": "2026-06-30 08:37:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "17-year-old has reported rape at Roskilde Festival to the police",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/17-aarig-har-anmeldt-voldtaegt-paa-roskilde-festival-til-politiet",
-        "published_date": "2026-06-30 07:15:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unemployment rose by 700 in May",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ledigheden-steg-med-700-i-maj",
-        "published_date": "2026-06-30 06:46:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Children in the 0th grade left school to steal candy: Mom took matters into her own hands",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/assens/boern-i-0-klasse-forlod-skolen-for-at-stjaele-slik-mor-tog-sagen-i-egen-haand?rss",
-        "published_date": "2026-06-30 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Baby otter found on Zealand for the first time in over 50 years",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/odderunge-fundet-paa-sjaelland-foerste-gang-i-over-50-aar",
-        "published_date": "2026-06-30 04:23:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lifeguards did not deal with any life-threatening actions during the heat wave",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/livreddere-haandterede-ingen-livstruende-aktioner-under-hedeboelge",
-        "published_date": "2026-06-30 04:06:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "377 died during Ebola outbreak in DR Congo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/377-doede-under-ebolaudbrud-i-dr-congo",
-        "published_date": "2026-06-30 03:49:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Film director sentenced to prison for million-dollar fraud against Netflix",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/filminstruktoer-idoemmes-faengselsstraf-millionsvindel-mod-netflix",
-        "published_date": "2026-06-30 03:28:20",
         "category": "Local Events"
     }
 ]
