@@ -1,5 +1,12 @@
 [
     {
+        "title": "China's foreign minister is to visit Denmark",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kinas-udenrigsminister-skal-besoege-danmark",
+        "published_date": "2026-06-30 07:15:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "More than 1,300 excess deaths recorded in Europe heatwave: WHO",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260628/more-than-1300-excess-deaths-recorded-in-europe-heatwave-who",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "DMI is part of a network with weather warnings from 39 countries",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dmi-indgaar-i-netvaerk-med-vejrvarsler-fra-39-lande?referrer=RSS",
-        "published_date": "2026-06-25 13:06:50",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Dream ships or strategic mistake?Nobody asks the uncomfortable questions about the Nordic defense billions",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kronikker/droemmeskibe-eller-strategisk-fejltagelse-ingen-stiller-de-ubehagelige-spoergsmaal-om-nordens-forsvarsmilliarder?referrer=RSS",
@@ -259,6 +259,27 @@
         "category": "Military"
     },
     {
+        "title": "Energinet is moving over 32,000 customers to new electricity suppliers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/energinet-flytter-over-32000-kunder-til-nye-elleverandoerer?referrer=RSS",
+        "published_date": "2026-06-30 12:53:53",
+        "category": "Energy"
+    },
+    {
+        "title": "Criminal case against energy traders for million dollar fraud is dropped",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/straffesag-mod-energihandlere-om-millionsvindel-droppes",
+        "published_date": "2026-06-30 12:02:42",
+        "category": "Energy"
+    },
+    {
+        "title": "Power outages in Copenhagen and Kastrup",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/stroemafbrydelser-i-koebenhavn-og-kastrup",
+        "published_date": "2026-06-30 04:52:12",
+        "category": "Energy"
+    },
+    {
         "title": "Gas leaks in Randers have stopped",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/gasudslip-i-randers-er-stoppet",
@@ -306,6 +327,20 @@
         "url": "https://www.dr.dk/nyheder/seneste/kraftig-gaslugt-efter-brud-paa-gasledning-i-hobro",
         "published_date": "2026-06-24 14:38:30",
         "category": "Energy"
+    },
+    {
+        "title": "Follow the case in court: Main character pleads guilty in case of fraud and tax evasion for millions",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/foelg-med-den-sorte-svane-sigtet-i-ny-sag-om-bedrageri-og-skattesnyd-for-millioner?rss",
+        "published_date": "2026-06-30 09:33:16",
+        "category": "Economy"
+    },
+    {
+        "title": "The Danish economy is growing",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansk-oekonomi-vokser",
+        "published_date": "2026-06-30 06:33:40",
+        "category": "Economy"
     },
     {
         "title": "After 11 years of struggle, Daniel got his son home: When the joy was greatest, the tears finally came",
@@ -357,150 +392,143 @@
         "category": "Economy"
     },
     {
-        "title": "The government relaxes rules for employee shares",
+        "title": "Four convicted in largest contact fraud case",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/regeringen-lemper-regler-medarbejderaktier",
-        "published_date": "2026-06-22 05:53:31",
-        "category": "Economy"
-    },
-    {
-        "title": "Paraguay sends Germany out after huge penalty drama",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/paraguay-sender-tyskland-ud-efter-kaempe-straffedrama?referrer=RSS",
-        "published_date": "2026-06-29 23:37:44",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-doemt-i-stoerste-sag-om-kontaktbedrageri",
+        "published_date": "2026-06-30 13:00:01",
         "category": "Local Events"
     },
     {
-        "title": "Eight-year-old child is reported killed in new Israeli airstrikes in Gaza",
+        "title": "Eight years in prison for an arson attack against an NGO in Copenhagen",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/otteaarigt-barn-meldes-draebt-i-nye-israelske-luftangreb-i-gaza?referrer=RSS",
-        "published_date": "2026-06-29 23:15:47",
+        "url": "https://www.berlingske.dk/indland/otte-aars-faengsel-for-brandattentat-mod-ngo-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-06-30 12:53:46",
         "category": "Local Events"
     },
     {
-        "title": "377 have died during the Ebola outbreak in DR Congo",
+        "title": "CEPOS is wrong.A Danish climate target is neither meaningless nor a bill of five billion",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/377-er-doede-under-ebolaudbrud-i-dr-congo?referrer=RSS",
-        "published_date": "2026-06-29 22:58:44",
+        "url": "https://www.berlingske.dk/synspunkter/cepos-tager-fejl-et-dansk-klimamaal-er-hverken-meningsloest-eller-en-regning-paa-fem-milliarder?referrer=RSS",
+        "published_date": "2026-06-30 12:50:23",
         "category": "Local Events"
     },
     {
-        "title": "The Trump-pardoned ex-president will go on trial in his home country",
+        "title": "SAS boss: Copenhagen Airport must also deliver after a billion-dollar investment",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-benaadet-ekspraesident-skal-for-retten-i-sit-hjemland?referrer=RSS",
-        "published_date": "2026-06-29 22:15:44",
+        "url": "https://www.berlingske.dk/business/sas-chef-koebenhavns-lufthavn-skal-ogsaa-levere-efter-milliardinvestering?referrer=RSS",
+        "published_date": "2026-06-30 12:46:49",
         "category": "Local Events"
     },
     {
-        "title": "Police are hunting suspect after suspected attack in Monaco",
+        "title": "Preparedness must be strengthened with an emergency package of one billion kroner",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/beredskab-skal-styrkes-med-akutpakke-paa-en-milliard-kroner?referrer=RSS",
+        "published_date": "2026-06-30 12:39:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The profit ended up being more than one billion kroner: The director is not entirely satisfied, however",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/erhverv/overskuddet-endte-paa-mere-end-en-milliard-kroner-direktoeren-er-dog-ikke-helt-tilfreds?rss",
+        "published_date": "2026-06-30 12:30:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former bank director sentenced for breach of money laundering act",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/tidligere-bankdirektoer-doemt-for-brud-paa-hvidvasklov?referrer=RSS",
+        "published_date": "2026-06-30 12:29:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "WhatsApp users will soon not have to reveal their phone number",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/whatsapp-brugere-behoever-snart-ikke-at-afsloere-deres-telefonnummer?referrer=RSS",
+        "published_date": "2026-06-30 12:21:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bus driver sentenced to prison after fatal accident",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eksplosion-i-monaco-i-livsfare-efter-formodet-attentat",
-        "published_date": "2026-06-29 22:03:17",
+        "url": "https://www.dr.dk/nyheder/seneste/buschauffoer-idoemmes-faengsel-efter-doedsulykke",
+        "published_date": "2026-06-30 11:57:11",
         "category": "Local Events"
     },
     {
-        "title": "Lisbeth Bech-Nielsen sees the national church as a divisive community \u2013 but it is the government that divides",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/lisbeth-bech-nielsen-ser-folkekirken-som-et-splittende-faellesskab--men-det-er-regeringen-der-splitter?referrer=RSS",
-        "published_date": "2026-06-29 21:54:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Brazilian match winner is at a loss for words for his joy",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/brasiliansk-matchvinder-mangler-ord-for-sin-glaede?referrer=RSS",
-        "published_date": "2026-06-29 21:14:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lebanon reports new Israeli airstrikes despite framework agreement",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/libanon-melder-om-nye-israelske-luftangreb-trods-rammeaftale?referrer=RSS",
-        "published_date": "2026-06-29 20:53:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Right-wing presidential candidate wins election in Peru",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hoejreorienteret-praesidentkandidat-vinder-valg-i-peru?referrer=RSS",
-        "published_date": "2026-06-29 20:50:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The last day for the travel card creates long queues in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/sidste-dag-for-rejsekortet-skaber-lange-koeer-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-06-29 20:40:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Geeti Amiri: The discussions on the teacher training course often start from a school that no longer exists",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/geeti-amiri-diskussionerne-paa-laereruddannelsen-tager-ofte-udgangspunkt-i-en-skole-som-ikke-laengere-findes?referrer=RSS",
-        "published_date": "2026-06-29 20:35:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran will itself be responsible for mine clearance in the Strait of Hormuz",
+        "title": "Britain will spend 15 billion pounds on the country's defense",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-vil-selv-staa-minerydning-i-hormuzstraedet",
-        "published_date": "2026-06-29 20:09:46",
+        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-vil-bruge-15-milliarder-pund-paa-landets-forsvar",
+        "published_date": "2026-06-30 10:57:13",
         "category": "Local Events"
     },
     {
-        "title": "The Supreme Court refuses to let Trump fire a central bank board member",
+        "title": "The Folketing wants Greenland and the Faroe Islands to the Olympics under their own flag",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hoejesteret-afviser-lade-trump-fyre-bestyrelsesmedlem-i-centralbank",
-        "published_date": "2026-06-29 16:18:30",
+        "url": "https://www.dr.dk/nyheder/seneste/folketinget-vil-have-groenland-og-faeroeerne-til-ol-under-eget-flag",
+        "published_date": "2026-06-30 10:36:19",
         "category": "Local Events"
     },
     {
-        "title": "DMI confirms Saturday's heat record after quality assurance",
+        "title": "Warning to Danish drivers:\u00a0Record number of German fines sent\nfor recovery in Denmark",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/aabenraa/advarsel-til-danske-bilister-rekordmange-tyske-boeder-sendt-til-inddrivelse-i-danmark?rss",
+        "published_date": "2026-06-30 08:47:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "New metro line goes to tender: Expected to open in 2036",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dmi-bekraefter-loerdagens-varmerekord-efter-kvalitetssikring",
-        "published_date": "2026-06-29 15:41:35",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-metrolinje-sendes-i-udbud-forventes-aabne-i-2036",
+        "published_date": "2026-06-30 08:37:54",
         "category": "Local Events"
     },
     {
-        "title": "The police are looking for witnesses in a case of serious rape in Odense",
+        "title": "17-year-old has reported rape at Roskilde Festival to the police",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-soeger-vidner-i-sag-om-grov-voldtaegt-i-odense",
-        "published_date": "2026-06-29 15:29:19",
+        "url": "https://www.dr.dk/nyheder/seneste/17-aarig-har-anmeldt-voldtaegt-paa-roskilde-festival-til-politiet",
+        "published_date": "2026-06-30 07:15:59",
         "category": "Local Events"
     },
     {
-        "title": "The US Supreme Court refuses to hear Trump's appeal in the sexual assault case",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usas-hoejesteret-afviser-at-behandle-trumps-anke-i-overgrebssag?referrer=RSS",
-        "published_date": "2026-06-29 14:17:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Maresca replaces Guardiola as Manchester City manager",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/maresca-afloeser-guardiola-som-manchester-city-manager?referrer=RSS",
-        "published_date": "2026-06-29 14:03:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two witnesses threatened in Herning",
+        "title": "Unemployment rose by 700 in May",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vidner-truet-i-herning",
-        "published_date": "2026-06-29 14:00:21",
+        "url": "https://www.dr.dk/nyheder/seneste/ledigheden-steg-med-700-i-maj",
+        "published_date": "2026-06-30 06:46:10",
         "category": "Local Events"
     },
     {
-        "title": "The police stood outside the Kors\u00f8r man's house for several hours",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-stod-uden-for-korsoer-mandens-hus-i-flere-timer?referrer=RSS",
-        "published_date": "2026-06-29 13:53:08",
+        "title": "Children in the 0th grade left school to steal candy: Mom took matters into her own hands",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/assens/boern-i-0-klasse-forlod-skolen-for-at-stjaele-slik-mor-tog-sagen-i-egen-haand?rss",
+        "published_date": "2026-06-30 06:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Deeply corrupt businessman gossiped and escaped punishment.It could cost S\u00e1nchez dearly",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/bundkorrupt-forretningsmand-sladrede-og-slap-for-straf-det-kan-koste-sanchez-dyrt?referrer=RSS",
-        "published_date": "2026-06-29 13:42:42",
+        "title": "Baby otter found on Zealand for the first time in over 50 years",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/odderunge-fundet-paa-sjaelland-foerste-gang-i-over-50-aar",
+        "published_date": "2026-06-30 04:23:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lifeguards did not deal with any life-threatening actions during the heat wave",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/livreddere-haandterede-ingen-livstruende-aktioner-under-hedeboelge",
+        "published_date": "2026-06-30 04:06:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "377 died during Ebola outbreak in DR Congo",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/377-doede-under-ebolaudbrud-i-dr-congo",
+        "published_date": "2026-06-30 03:49:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Film director sentenced to prison for million-dollar fraud against Netflix",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/filminstruktoer-idoemmes-faengselsstraf-millionsvindel-mod-netflix",
+        "published_date": "2026-06-30 03:28:20",
         "category": "Local Events"
     }
 ]
