@@ -1,5 +1,33 @@
 [
     {
+        "title": "'Critical point': Europe's airports demand urgent action to avoid summer border delays",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260701/critical-point-europes-airports-demand-urgent-action-to-avoid-summer-border-delays",
+        "published_date": "2026-07-01 14:37:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Canada will participate in Eurovision in Bulgaria in 2027",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/canada-deltager-i-eurovision-i-bulgarien-i-2027?referrer=RSS",
+        "published_date": "2026-07-01 13:09:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Ministry of Foreign Affairs provides assistance to Danes arrested in Uganda",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/udenrigsministeriet-yder-bistand-til-dansker-anholdt-i-uganda",
+        "published_date": "2026-07-01 12:46:56",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260701/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-60",
+        "published_date": "2026-07-01 08:11:41",
+        "category": "Diplomacy"
+    },
+    {
         "title": "UN warns of acute shortage of food after earthquake in Venezuela",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/fn-advarer-om-akut-mangel-paa-mad-efter-jordskaelv-i-venezuela?referrer=RSS",
@@ -11,6 +39,20 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/eu-anklagemyndighed-udfoerer-ransagninger-i-flere-lande?referrer=RSS",
         "published_date": "2026-06-30 20:38:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "What's on the agenda at the next EU-UK summit... if it takes place?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260630/whats-on-the-agenda-at-the-next-eu-uk-summit-if-it-takes-place",
+        "published_date": "2026-06-30 11:33:03",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "What to expect with the EU's small parcel fee from July 1st",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260630/what-you-should-expect-when-eu-small-parcel-fee-kicks-in-on-july-1st",
+        "published_date": "2026-06-30 09:02:43",
         "category": "Diplomacy"
     },
     {
@@ -98,46 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "European heatwave's unlikely accomplice is an ocean 'cold blob'",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260626/european-heatwaves-unlikely-accomplice-is-an-ocean-cold-blob",
-        "published_date": "2026-06-26 15:20:28",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Canada must participate in next year's Eurovision",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/canada-maa-deltage-i-naeste-aars-eurovision",
-        "published_date": "2026-06-26 15:12:17",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Camera 60,000 kilometers out in space captures heat wave in Europe",
+        "title": "When Zelenskyj asked his rival directly, he got a clear answer - \"the power struggle is underway\", says the correspondent",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/kamera-60000-kilometer-ude-i-rummet-fanger-hedeboelge-i-europa?referrer=RSS",
-        "published_date": "2026-06-26 12:49:48",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/da-zelenskyj-spurgte-sin-rival-direkte-fik-han-et-klart-svar--magtkampen-er-i-gang-siger-korrespondent?referrer=RSS",
+        "published_date": "2026-07-01 13:21:37",
+        "category": "Military"
     },
     {
-        "title": "Gender-neutral pronouns and BMO: Denmark's official dictionary reveals new words",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260626/gender-neutral-pronouns-and-bmo-denmarks-official-dictionary-reveals-new-words",
-        "published_date": "2026-06-26 12:02:57",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Climate change to blame as heatwave hits Europe's economies",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260626/climate-change-to-blame-as-heatwave-hits-europes-economies",
-        "published_date": "2026-06-26 10:44:21",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Two people died in different drowning accidents in North Zealand",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/personer-doede-i-forskellige-drukneulykker-i-nordsjaelland",
-        "published_date": "2026-06-26 02:05:08",
-        "category": "Diplomacy"
+        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1766?referrer=RSS",
+        "published_date": "2026-07-01 12:58:12",
+        "category": "Military"
     },
     {
         "title": "Ukraine in contact with Monaco after suspected assassination attempt",
@@ -245,20 +259,6 @@
         "category": "Military"
     },
     {
-        "title": "Dealing with the family taboos of the Nazi years - today's stories are selected by Pierre Collignon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/opgoer-med-naziaarenes-familietabuer--dagens-historier-er-udvalgt-af-pierre-collignon?referrer=RSS",
-        "published_date": "2026-06-23 13:24:14",
-        "category": "Military"
-    },
-    {
-        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1750?referrer=RSS",
-        "published_date": "2026-06-23 13:14:46",
-        "category": "Military"
-    },
-    {
         "title": "Energinet is moving over 32,000 customers to new electricity suppliers",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/energinet-flytter-over-32000-kunder-til-nye-elleverandoerer?referrer=RSS",
@@ -270,6 +270,13 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/straffesag-mod-energihandlere-om-millionsvindel-droppes",
         "published_date": "2026-06-30 12:02:42",
+        "category": "Energy"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260630/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-53",
+        "published_date": "2026-06-30 08:06:59",
         "category": "Energy"
     },
     {
@@ -378,150 +385,143 @@
         "category": "Economy"
     },
     {
-        "title": "The bill for the hunt for billions from the dividend case is growing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/regningen-for-jagt-paa-milliarder-fra-udbyttesag-vokser?referrer=RSS",
-        "published_date": "2026-06-23 12:49:49",
-        "category": "Economy"
-    },
-    {
-        "title": "37 students remain missing after attacks during exams in Nigeria",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/37-elever-er-fortsat-savnet-efter-angreb-under-eksamener-i-nigeria?referrer=RSS",
-        "published_date": "2026-06-30 23:35:51",
+        "title": "Four out of five new cars registered in Denmark this year are electric",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260701/four-out-of-five-new-cars-registered-in-denmark-this-year-are-electric",
+        "published_date": "2026-07-01 13:39:37",
         "category": "Local Events"
     },
     {
-        "title": "Trump launches new party convention before midterm elections in November",
+        "title": "The children's New Year's speech will henceforth be broadcast on DR before the king's speech",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-lancerer-nyt-partikonvent-foer-midtvejsvalg-i-november?referrer=RSS",
-        "published_date": "2026-06-30 23:19:48",
+        "url": "https://www.berlingske.dk/danmark/boernenes-nytaarstale-bliver-fremover-sendt-paa-dr-foer-kongens-tale?referrer=RSS",
+        "published_date": "2026-07-01 13:02:46",
         "category": "Local Events"
     },
     {
-        "title": "Mbapp\u00e9 puts down Sweden and breathes down Messi's neck",
+        "title": "World Cup in football - follow here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mbappe-nedlaegger-sverige-og-puster-messi-i-nakken?referrer=RSS",
-        "published_date": "2026-06-30 22:59:49",
+        "url": "https://www.berlingske.dk/politik/vm-i-fodbold--foelg-med-her-1?referrer=RSS",
+        "published_date": "2026-07-01 12:51:49",
         "category": "Local Events"
     },
     {
-        "title": "Minister will gather authorities for action against poisonous caterpillar",
+        "title": "Here you get the latest news about Danish politics",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/minister-vil-samle-myndigheder-til-indsats-mod-giftig-larve?referrer=RSS",
-        "published_date": "2026-06-30 21:33:47",
+        "url": "https://www.berlingske.dk/politik/her-faar-du-seneste-nyt-om-dansk-politik-29?referrer=RSS",
+        "published_date": "2026-07-01 12:45:19",
         "category": "Local Events"
     },
     {
-        "title": "Young Australian defeats Williams in a great comeback",
+        "title": "Jakob Steen Olsen: Dear jovial and somewhat naive Norwegians \u2013 we love you!",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ung-australier-nedkaemper-williams-i-flot-comeback?referrer=RSS",
-        "published_date": "2026-06-30 21:04:51",
+        "url": "https://www.berlingske.dk/kulturkommentar/jakob-steen-olsen-kaere-joviale-og-lidt-naive-nordmaend--vi-elsker-jer?referrer=RSS",
+        "published_date": "2026-07-01 12:31:20",
         "category": "Local Events"
     },
     {
-        "title": "LeBron James confirms Lakers exit but continues career",
+        "title": "The matter of the drones has landed in a strange place:\u00a0\"I'm confused on a higher level\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/lebron-james-bekraefter-lakers-exit-men-fortsaetter-karrieren?referrer=RSS",
-        "published_date": "2026-06-30 20:53:49",
+        "url": "https://www.berlingske.dk/indland/sagen-om-dronerne-er-landet-et-maerkeligt-stedjeg-er-forvirret-paa-et-hoejere-niveau?referrer=RSS",
+        "published_date": "2026-07-01 12:24:31",
         "category": "Local Events"
     },
     {
-        "title": "Match winner Haaland: It will change Norway forever",
+        "title": "The police department finds fault with every fifth student bus",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/matchvinder-haaland-det-vil-forandre-norge-for-altid?referrer=RSS",
-        "published_date": "2026-06-30 20:41:50",
+        "url": "https://www.berlingske.dk/indland/politikreds-finder-fejl-paa-hver-femte-studentervogn?referrer=RSS",
+        "published_date": "2026-07-01 12:22:49",
         "category": "Local Events"
     },
     {
-        "title": "The police are investigating an episode of violence at a big screen event",
+        "title": "Priest in the Folketing divides the waters: \"It is exactly a priest that is needed\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-undersoeger-voldsepisode-ved-storskaermsarrangement?referrer=RSS",
-        "published_date": "2026-06-30 20:38:54",
+        "url": "https://www.berlingske.dk/eksistens/praest-i-folketinget-deler-vandene-det-er-praecis-en-praest-der-er-brug-for?referrer=RSS",
+        "published_date": "2026-07-01 12:20:57",
         "category": "Local Events"
     },
     {
-        "title": "Two men charged after rape report at Roskilde Festival",
+        "title": "39-year-old woman in critical condition after assault in Hammel",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maend-sigtet-efter-voldtaegtsanmeldelse-paa-roskilde-festival",
-        "published_date": "2026-06-30 19:24:21",
+        "url": "https://www.dr.dk/nyheder/seneste/person-i-kritisk-tilstand-efter-overfald-i-hammel",
+        "published_date": "2026-07-01 11:46:24",
         "category": "Local Events"
     },
     {
-        "title": "The Danish Society for the Blind will complain about compensation for rejsekort holders",
+        "title": "Denmark updates 'positive list' of in-demand professions",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260701/denmark-updates-positive-list-of-in-demand-professions",
+        "published_date": "2026-07-01 11:22:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Water gushed out at Copenhagen Airport",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-blindesamfund-vil-klage-over-erstatning-til-rejsekort-standere",
-        "published_date": "2026-06-30 18:50:38",
+        "url": "https://www.dr.dk/nyheder/seneste/vand-fossede-ud-i-koebenhavns-lufthavn",
+        "published_date": "2026-07-01 10:48:59",
         "category": "Local Events"
     },
     {
-        "title": "Death toll from Venezuela earthquake rises to nearly 2,000, while number of injured nearly doubles",
+        "title": "The lead singer of the disco band Village People has died",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/doedstal-efter-jordskaelv-i-venezuela-stiger-til-naesten-2-000-mens-antallet-af-saarede-er-naesten",
-        "published_date": "2026-06-30 18:17:50",
+        "url": "https://www.dr.dk/nyheder/seneste/forsanger-i-discobandet-village-people-er-doed",
+        "published_date": "2026-07-01 09:22:01",
         "category": "Local Events"
     },
     {
-        "title": "14 children killed after roof collapse in Pakistan",
+        "title": "Swede seriously injured after violent episode at World Cup event: Police urge suspect to come forward",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/14-boern-draebt-efter-tagkollaps-i-pakistan",
-        "published_date": "2026-06-30 18:13:09",
+        "url": "https://www.dr.dk/nyheder/seneste/svensker-kom-alvorligt-til-skade-efter-voldsepisode-til-vm-arrangement-politi-opfordrer-mistaenkt",
+        "published_date": "2026-07-01 09:06:22",
         "category": "Local Events"
     },
     {
-        "title": "Wammen links the police handover to the dismissal of cases",
+        "title": "While young people rock in Roskilde, children roar to the music in Vordingborg",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/wammen-kobler-politirokade-til-henlaeggelse-af-sager",
-        "published_date": "2026-06-30 14:23:40",
+        "url": "https://www.dr.dk/nyheder/seneste/mens-unge-rocker-i-roskilde-buldrer-boern-til-musikken-i-vordingborg",
+        "published_date": "2026-07-01 08:59:58",
         "category": "Local Events"
     },
     {
-        "title": "The tickets for AGF's Champions League qualification torn away",
+        "title": "The 57-year-old was arrested at the airport and charged with market manipulation",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/billetterne-til-agf-s-champions-league-kvalifikation-revet-vaek",
-        "published_date": "2026-06-30 13:24:08",
+        "url": "https://www.dr.dk/nyheder/seneste/57-aarig-blev-anholdt-i-lufthavn-og-sigtet-markedsmanipulation",
+        "published_date": "2026-07-01 08:33:24",
         "category": "Local Events"
     },
     {
-        "title": "Trains to and from Germany are canceled for the rest of the day",
+        "title": "18-year-old dead after assault in Amager",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tog-til-og-fra-tyskland-er-aflyst-resten-af-dagen",
-        "published_date": "2026-06-30 13:23:42",
+        "url": "https://www.dr.dk/nyheder/seneste/18-aarig-doed-efter-overfald-paa-amager",
+        "published_date": "2026-07-01 08:01:16",
         "category": "Local Events"
     },
     {
-        "title": "Four convicted in largest contact fraud case",
+        "title": "Spain has had the warmest six months ever recorded",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-doemt-i-stoerste-sag-om-kontaktbedrageri",
-        "published_date": "2026-06-30 13:00:01",
+        "url": "https://www.dr.dk/nyheder/seneste/spanien-har-haft-det-varmeste-halvaar-der-nogensinde-er-maalt",
+        "published_date": "2026-07-01 07:55:57",
         "category": "Local Events"
     },
     {
-        "title": "Eight years in prison for an arson attack against an NGO in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/otte-aars-faengsel-for-brandattentat-mod-ngo-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-06-30 12:53:46",
+        "title": "More people are buying electric cars, new figures show",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-koeber-elbiler-viser-nye-tal",
+        "published_date": "2026-07-01 05:32:04",
         "category": "Local Events"
     },
     {
-        "title": "CEPOS is wrong.A Danish climate target is neither meaningless nor a bill of five billion",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/cepos-tager-fejl-et-dansk-klimamaal-er-hverken-meningsloest-eller-en-regning-paa-fem-milliarder?referrer=RSS",
-        "published_date": "2026-06-30 12:50:23",
+        "title": "Seven Danish production companies receive 56 million in a new discount scheme",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/syv-danske-produktionsselskaber-modtager-56-millioner-i-ny-rabatordning",
+        "published_date": "2026-07-01 04:18:58",
         "category": "Local Events"
     },
     {
-        "title": "SAS boss: Copenhagen Airport must also deliver after a billion-dollar investment",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/sas-chef-koebenhavns-lufthavn-skal-ogsaa-levere-efter-milliardinvestering?referrer=RSS",
-        "published_date": "2026-06-30 12:46:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Preparedness must be strengthened with an emergency package of one billion kroner",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/beredskab-skal-styrkes-med-akutpakke-paa-en-milliard-kroner?referrer=RSS",
-        "published_date": "2026-06-30 12:39:50",
+        "title": "Trump made over a billion dollars last year from cryptocurrency",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-tjente-sidste-aar-over-en-milliard-dollar-paa-kryptovaluta",
+        "published_date": "2026-07-01 04:08:12",
         "category": "Local Events"
     }
 ]
