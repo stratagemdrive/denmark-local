@@ -1,5 +1,19 @@
 [
     {
+        "title": "For the first time in four years, there are again lion cubs in Givskud Zoo",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/for-foerste-gang-i-fire-aar-er-der-igen-loeveunger-i-givskud-zoo?referrer=RSS",
+        "published_date": "2026-07-02 12:47:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The reservation of rights does not protect Denmark.It weakens us",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/retsforbeholdet-beskytter-ikke-danmark-det-svaekker-os?referrer=RSS",
+        "published_date": "2026-07-02 11:46:20",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cloudy confrontation at the UN: Rapporteur denies truth about rapes",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/ledere/taakrummende-konfrontation-i-fn-rapportoer-benaegter-sandhed-om-voldtaegter?referrer=RSS",
@@ -126,20 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Germany breaks record with hottest temperature ever",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tyskland-slaar-rekord-med-varmeste-temperatur-nogensinde?referrer=RSS",
-        "published_date": "2026-06-26 19:50:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The EU after Trump's tariff threats: Has the right to tax digital services",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-efter-trumps-told-trusler-har-ret-til-beskatte-digitale-tjenester",
-        "published_date": "2026-06-26 19:38:06",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Zelenskyj rushes home from Ireland and warns of a major Russian attack",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/zelenskyj-haster-hjem-fra-irland-og-advarer-om-stort-russisk-angreb?referrer=RSS",
@@ -252,6 +252,27 @@
         "category": "Military"
     },
     {
+        "title": "Tommy Ahlers will be the new chairman of crisis-stricken Energinet",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/tommy-ahlers-bliver-ny-formand-for-kriseramt-energinet?referrer=RSS",
+        "published_date": "2026-07-02 12:32:45",
+        "category": "Energy"
+    },
+    {
+        "title": "Tommy Ahlers is the new chairman of the board of Energinet",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tommy-ahlers-er-ny-bestyrelsesformand-energinet",
+        "published_date": "2026-07-02 12:09:11",
+        "category": "Energy"
+    },
+    {
+        "title": "Tommy Ahlers will be the new chairman of Energinet",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tommy-ahlers-bliver-ny-formand-for-energinet?referrer=RSS",
+        "published_date": "2026-07-02 12:06:38",
+        "category": "Energy"
+    },
+    {
         "title": "Energinet is moving over 32,000 customers to new electricity suppliers",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/energinet-flytter-over-32000-kunder-til-nye-elleverandoerer?referrer=RSS",
@@ -329,6 +350,13 @@
         "category": "Energy"
     },
     {
+        "title": "The shares are cheering \u2013 the \"king figure\" in the US is lower than expected",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/oekonomi/aktierne-jubler--kongetallet-i-usa-lavere-end-ventet?referrer=RSS",
+        "published_date": "2026-07-02 12:39:17",
+        "category": "Economy"
+    },
+    {
         "title": "Follow the case in court: Main character pleads guilty in case of fraud and tax evasion for millions",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/112/foelg-med-den-sorte-svane-sigtet-i-ny-sag-om-bedrageri-og-skattesnyd-for-millioner?rss",
@@ -378,143 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "More than 400 people have died from Ebola in DR Congo",
+        "title": "Explosion hits central Damascus",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/flere-end-400-mennesker-er-doede-af-ebola-i-dr-congo?referrer=RSS",
-        "published_date": "2026-07-01 23:32:47",
+        "url": "https://www.berlingske.dk/internationalt/eksplosion-rammer-det-centrale-damaskus?referrer=RSS",
+        "published_date": "2026-07-02 12:50:49",
         "category": "Local Events"
     },
     {
-        "title": "Panama's president wants to build maximum security prison for gang leaders",
+        "title": "The number of new jobs in the US misses expectations",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/panamas-praesident-vil-bygge-topsikret-faengsel-til-bandeledere?referrer=RSS",
-        "published_date": "2026-07-01 23:14:50",
+        "url": "https://www.berlingske.dk/business/antallet-af-nye-job-i-usa-misser-forventningerne?referrer=RSS",
+        "published_date": "2026-07-02 12:50:47",
         "category": "Local Events"
     },
     {
-        "title": "Surprise Belgian comeback sends Senegal out of World Cup",
+        "title": "Resident in a housing facility jailed after assault",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/beboer-paa-botilbud-faengsles-efter-overfald",
+        "published_date": "2026-07-02 12:47:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "See the pictures: Queen Margrethe surprised 100 in attendance",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/nyborg/se-billederne-dronning-margrethe-overraskede-100-fremmoedte?rss",
+        "published_date": "2026-07-02 12:25:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dead whale stranded in North Jutland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doed-hval-strandet-i-nordjylland",
+        "published_date": "2026-07-02 12:20:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Money laundering costs two years in prison and 30 million",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hvidvask-koster-aars-faengsel-og-30-millioner",
+        "published_date": "2026-07-02 12:14:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "It's not the violence that's interesting.But what it reveals to us who see it",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/overraskende-belgisk-comeback-sender-senegal-ud-af-vm?referrer=RSS",
-        "published_date": "2026-07-01 22:59:48",
+        "url": "https://www.berlingske.dk/synspunkter/det-er-ikke-volden-der-er-det-interessante-men-hvad-den-afsloerer-hos-os-der-ser-den?referrer=RSS",
+        "published_date": "2026-07-02 11:56:53",
         "category": "Local Events"
     },
     {
-        "title": "Danish NHL player switches to the New York Rangers",
+        "title": "Latest news about American politics - stay tuned here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-nhl-spiller-skifter-til-new-york-rangers-1?referrer=RSS",
-        "published_date": "2026-07-01 22:33:49",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-200?referrer=RSS",
+        "published_date": "2026-07-02 11:43:02",
         "category": "Local Events"
     },
     {
-        "title": "New York is gearing up for the grand Taylor Swift wedding",
+        "title": "Dead whale of eight meters is stranded at Tornby in North Jutland",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/new-york-forbereder-sig-paa-storstilet-taylor-swift-bryllup?referrer=RSS",
-        "published_date": "2026-07-01 21:18:49",
+        "url": "https://www.berlingske.dk/danmark/doed-hval-paa-otte-meter-er-strandet-ved-tornby-i-nordjylland?referrer=RSS",
+        "published_date": "2026-07-02 11:36:46",
         "category": "Local Events"
     },
     {
-        "title": "No, priests should not feel compelled to ordain me or other homosexuals",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/nej-praester-skal-ikke-foele-sig-tvunget-til-at-vie-mig-eller-andre-homoseksuelle?referrer=RSS",
-        "published_date": "2026-07-01 21:01:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Immaculate Djokovic ends good favorite's day at Wimbledon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/pletfri-djokovic-afslutter-god-favoritdag-ved-wimbledon?referrer=RSS",
-        "published_date": "2026-07-01 20:39:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kane finds his heroic moment in tough England win",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kane-finder-sit-heltemoment-i-svaer-engelsk-sejr?referrer=RSS",
-        "published_date": "2026-07-01 20:12:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Suspicious conditions prompted the police to go to the Russian embassy",
+        "title": "Narco was hidden in formula.Now the Spanish truck driver has been sentenced to 14 years in prison",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mistaenkeligt-forhold-fik-politiet-til-rykke-ud-til-russisk-ambassade",
-        "published_date": "2026-07-01 20:00:13",
+        "url": "https://www.dr.dk/nyheder/seneste/narko-var-skjult-i-modermaelkserstatning-nu-er-spansk-lastbilchauffoer-idoemt-14-aars-faengsel",
+        "published_date": "2026-07-02 11:22:43",
         "category": "Local Events"
     },
     {
-        "title": "Four Venezuelan officers arrested after earthquake",
+        "title": "Dagrofa recalls biksemad",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-venezuelanske-betjente-anholdt-efter-jordskaelv",
-        "published_date": "2026-07-01 18:26:27",
+        "url": "https://www.dr.dk/nyheder/seneste/dagrofa-tilbagekalder-biksemad",
+        "published_date": "2026-07-02 10:55:52",
         "category": "Local Events"
     },
     {
-        "title": "At least five have died in Antwerp fire",
+        "title": "Google must pay 10 billion to Swedish company",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mindst-fem-er-doede-i-antwerpen-brand",
-        "published_date": "2026-07-01 18:24:59",
+        "url": "https://www.dr.dk/nyheder/seneste/google-skal-betale-10-milliarder-til-svensk-selskab",
+        "published_date": "2026-07-02 08:40:45",
         "category": "Local Events"
     },
     {
-        "title": "Police present at Odense Harbor due to suspicious package",
+        "title": "The Vatican excommunicates six bishops from the Catholic Church",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-til-stede-paa-odense-havn-paa-grund-af-mistaenkelig-pakke",
-        "published_date": "2026-07-01 17:08:03",
+        "url": "https://www.dr.dk/nyheder/seneste/vatikanet-udelukker-seks-biskopper-fra-den-katolske-kirke",
+        "published_date": "2026-07-02 08:31:58",
         "category": "Local Events"
     },
     {
-        "title": "Mayor: Another company hired to fight caterpillar",
+        "title": "Fines of half a billion for illegal cigarette factory",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/borgmester-endnu-et-firma-hyret-til-bekaempe-larve",
-        "published_date": "2026-07-01 15:52:11",
+        "url": "https://www.dr.dk/nyheder/seneste/boeder-paa-en-halv-milliard-ulovlig-cigaretfabrik",
+        "published_date": "2026-07-02 08:02:29",
         "category": "Local Events"
     },
     {
-        "title": "Children's house temporarily closes after mold was found",
+        "title": "Forest fire forces 200 people from their homes in southern France",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/boernehus-lukker-midlertidig-efter-fund-af-skimmelsvamp",
-        "published_date": "2026-07-01 15:40:08",
+        "url": "https://www.dr.dk/nyheder/seneste/skovbrand-tvinger-200-mennesker-fra-deres-hjem-i-sydfrankrig",
+        "published_date": "2026-07-02 07:11:17",
         "category": "Local Events"
     },
     {
-        "title": "Playstation stops selling games on physical discs",
+        "title": "Japanese yen falls to weakest level in 40 years",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/playstation-stopper-salg-af-spil-paa-fysiske-diske",
-        "published_date": "2026-07-01 15:05:41",
+        "url": "https://www.dr.dk/nyheder/seneste/japansk-yen-falder-til-svageste-niveau-i-40-aar",
+        "published_date": "2026-07-02 07:05:06",
         "category": "Local Events"
     },
     {
-        "title": "DR takes over the children's New Year's speech",
+        "title": "It is still difficult to make a profit on the bottom line for B&O",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dr-overtager-boernenes-nytaarstale",
-        "published_date": "2026-07-01 13:57:21",
+        "url": "https://www.dr.dk/nyheder/seneste/det-kniber-stadig-med-faa-overskud-paa-bundlinjen-b-o",
+        "published_date": "2026-07-02 06:32:53",
         "category": "Local Events"
     },
     {
-        "title": "The police are stepping up efforts at the World Cup big screen after an assault",
+        "title": "Soon it will be AI that helps customers in BR buy toys online",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-forstaerker-indsatsen-ved-vm-storskaerm-efter-overfald",
-        "published_date": "2026-07-01 13:50:11",
+        "url": "https://www.dr.dk/nyheder/seneste/snart-bliver-det-ai-der-hjaelper-kunder-i-br-med-koebe-legetoej-online",
+        "published_date": "2026-07-02 06:24:42",
         "category": "Local Events"
     },
     {
-        "title": "Four out of five new cars registered in Denmark this year are electric",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260701/four-out-of-five-new-cars-registered-in-denmark-this-year-are-electric",
-        "published_date": "2026-07-01 13:39:37",
+        "title": "Winnie wrote an angry post about students after a miserable experience - then it exploded: - I am speechless",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/esbjerg/winnie-skrev-harmt-opslag-om-studenter-efter-traels-oplevelse-saa-eksploderede-det-jeg-er-maalloes?rss",
+        "published_date": "2026-07-02 06:01:00",
         "category": "Local Events"
     },
     {
-        "title": "Roskilde Festival got busy because of the heat wave",
+        "title": "Japan is experiencing more bear attacks",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/roskilde-festival-fik-travlt-paa-grund-af-hedeboelgen",
-        "published_date": "2026-07-01 13:30:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Every fifth student van misses the top mark in Central and West Zealand",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hver-femte-studentervogn-misser-topkarakter-i-midt-og-vestsjaelland",
-        "published_date": "2026-07-01 13:30:04",
+        "url": "https://www.dr.dk/nyheder/seneste/japan-oplever-flere-bjoerneangreb",
+        "published_date": "2026-07-02 05:50:08",
         "category": "Local Events"
     }
 ]
