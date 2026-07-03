@@ -1,5 +1,40 @@
 [
     {
+        "title": "Six Russian scientists are sanctioned by the EU for having developed poison",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/seks-russiske-videnskabsfolk-sanktioneres-af-eu-have-udviklet-gift",
+        "published_date": "2026-07-03 12:45:56",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The truth was clear in Copenhagen: It is Europe that fears China \u2013 not the other way around",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/sandheden-stod-klart-i-koebenhavn-det-er-europa-der-frygter-kina--ikke-omvendt?referrer=RSS",
+        "published_date": "2026-07-03 12:38:54",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU sanctions people for developing poison found in Navalny's body",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/eu-sanktionerer-personer-for-udvikling-af-gift-fundet-i-navalnyjs-krop?referrer=RSS",
+        "published_date": "2026-07-03 12:18:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "71-year-old dies in drowning accident during rescue operation at nature park",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/71-aarig-doed-i-drukneulykke-under-redningsaktion-ved-naturpark?referrer=RSS",
+        "published_date": "2026-07-03 11:51:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Trump calls NATO cooperation 'ridiculous' and 'one-sided'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-kalder-nato-samarbejde-latterligt-og-ensidigt",
+        "published_date": "2026-07-03 04:57:21",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Tons of aid destroyed after attack on UN truck in Sudan",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/tonsvis-af-noedhjaelp-oedelagt-efter-angreb-paa-fn-lastbil-i-sudan?referrer=RSS",
@@ -102,41 +137,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260628/at-least-191-mn-europeans-face-35c-on-sunday",
         "published_date": "2026-06-28 11:49:33",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Denmark records hottest day on record at 37C: weather service",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260628/denmark-records-hottest-day-on-record-at-37c-weather-service",
-        "published_date": "2026-06-28 07:30:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Records tumble as European heatwave moves east",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260628/records-tumble-as-european-heatwave-moves-east",
-        "published_date": "2026-06-28 07:03:28",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "At least 193 million in Europe to face temperatures above 35C on Saturday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260627/at-least-193-million-in-europe-to-face-temperatures-above-35c-on-saturday",
-        "published_date": "2026-06-27 15:52:12",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU worries jet fuel supply situation to worsen",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260627/eu-worries-jet-fuel-supply-situation-to-worsen",
-        "published_date": "2026-06-27 10:14:32",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Burkina Faso cuts diplomatic relations with France",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/burkina-faso-afbryder-diplomatiske-forbindelser-til-frankrig",
-        "published_date": "2026-06-27 00:57:57",
         "category": "Diplomacy"
     },
     {
@@ -250,6 +250,13 @@
         "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1756?referrer=RSS",
         "published_date": "2026-06-26 12:54:00",
         "category": "Military"
+    },
+    {
+        "title": "Power failure in Aarhus: All customers have power in their sockets again",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/stroemsvigt-i-aarhus-alle-kunder-har-igen-stroem-i-kontakterne",
+        "published_date": "2026-07-03 04:31:37",
+        "category": "Energy"
     },
     {
         "title": "Tommy Ahlers will be the new chairman of crisis-stricken Energinet",
@@ -392,150 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "Svend's finances are hanging on by a thin thread: Now he has to sell his dream house",
+        "title": "Problems with Danish healthcare push Ukrainian refugees to seek help elsewhere",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260703/problems-with-danish-healthcare-push-ukrainian-refugees-to-seek-help-elsewhere",
+        "published_date": "2026-07-03 13:56:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Calls for Copenhagen World Cup fan zone to close after attack on Sweden fan",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260703/calls-for-copenhagen-world-cup-fan-zone-to-close-after-attack-on-sweden-fan",
+        "published_date": "2026-07-03 13:01:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four electricity suppliers are filed for bankruptcy and reported to the police",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/fire-elleverandoerer-begaeres-konkurs-og-politianmeldes?referrer=RSS",
+        "published_date": "2026-07-03 12:44:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "A man previously convicted of attempted murder is jailed for violence at a World Cup viewing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-tidligere-doemt-for-drabsforsoeg-faengsles-for-vold-ved-vm-visning?referrer=RSS",
+        "published_date": "2026-07-03 12:44:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister of Health stamps into discussion about nuisance larvae",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sundhedsminister-stempler-ind-i-diskussion-om-generende-larver",
+        "published_date": "2026-07-03 12:43:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Minister of Health is monitoring the situation with nuisance larvae in Odense",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/sundhedsminister-foelger-situation-med-generende-larve-i-odense?referrer=RSS",
+        "published_date": "2026-07-03 12:40:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "France registers 2,025 extra deaths amid record heat",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/frankrig-registrerer-2-025-ekstra-doedsfald-under-rekordvarme",
+        "published_date": "2026-07-03 12:17:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Snapchat profiles are closed to curb drugs at Roskilde Festival",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/snapchat-profiler-lukkes-for-at-bremse-stoffer-paa-roskilde-festival?referrer=RSS",
+        "published_date": "2026-07-03 12:15:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Children's Terms: Beware of the Australian pitfalls if we close children's access to social media",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/opinion/boerns-vilkaar-pas-paa-de-australske-faldgruber-hvis-vi-lukker-for-boerns-adgang-til-sociale-medier?referrer=RSS",
+        "published_date": "2026-07-03 12:12:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Number of apartments on sale in Copenhagen continues to rise",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260703/number-of-apartments-on-sale-in-copenhagen-continues-to-rise",
+        "published_date": "2026-07-03 12:03:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Startling new details: Get an overview of the brutal murder case that cost Niels his life",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/svends-oekonomi-haenger-i-en-tynd-traad-nu-er-han-noedt-til-at-saelge-droemmehuset?rss",
-        "published_date": "2026-06-25 07:30:00",
-        "category": "Economy"
-    },
-    {
-        "title": "Irish rap trio was joined by activists during Roskilde concert",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/irsk-raptrio-fik-selskab-af-aktivister-under-roskilde-koncert?referrer=RSS",
-        "published_date": "2026-07-02 23:48:47",
+        "url": "https://jv.dk/kolding/opsigtsvaekkende-nye-detaljer-faa-overblikket-i-den-brutale-drabssag-der-kostede-niels-livet?rss",
+        "published_date": "2026-07-03 12:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Thousands have been evacuated after forest fires in southern France",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tusindvis-er-evakueret-efter-skovbrande-i-sydfrankrig?referrer=RSS",
-        "published_date": "2026-07-02 23:38:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "102 radio signals about the Trump shooting never reached the Secret Service",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/102-radiosignaler-om-trump-skytte-naaede-aldrig-secret-service?referrer=RSS",
-        "published_date": "2026-07-02 23:08:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gusts of wind cause the police to warn of the risk of blocked roads",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/vindstoed-faar-politiet-til-at-advare-om-risiko-for-spaerrede-veje?referrer=RSS",
-        "published_date": "2026-07-02 21:17:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "All-dominant Spaniards send Austria into the World Cup darkness",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/altdominerende-spaniere-sender-oestrig-ud-i-vm-moerket?referrer=RSS",
-        "published_date": "2026-07-02 21:04:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former Olympic athlete indicted for vandalism against swimming pool near the White House",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tidligere-ol-atlet-tiltalt-for-haervaerk-mod-bassin-naer-det-hvide-hus?referrer=RSS",
-        "published_date": "2026-07-02 20:23:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "British 'Married at First Sight' contestant arrested on rape charges",
+        "title": "Roskilde Festival makes program changes due to windy weather",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/britisk-gift-ved-foerste-blik-deltager-anholdt-efter-anklage-om-voldtaegt",
-        "published_date": "2026-07-02 20:23:23",
+        "url": "https://www.dr.dk/nyheder/seneste/roskilde-festival-laver-programaendringer-paa-grund-af-blaesevejr",
+        "published_date": "2026-07-03 11:49:18",
         "category": "Local Events"
     },
     {
-        "title": "As a group of students from Georgia looked at me skeptically, I realized a harsh truth about the United States",
+        "title": "The running clubs have come to Roskilde Festival: \u00bbIllegal, illegal!\u00ab",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/da-en-flok-studerende-fra-georgia-kiggede-skeptisk-paa-mig-indsaa-jeg-en-haard-sandhed-om-usa?referrer=RSS",
-        "published_date": "2026-07-02 20:19:31",
+        "url": "https://www.berlingske.dk/oplevelser/loebeklubberne-er-kommet-til-roskilde-festival-ulovligt-ulovligt?referrer=RSS",
+        "published_date": "2026-07-03 11:49:18",
         "category": "Local Events"
     },
     {
-        "title": "Why not just cut down the trees?Expert gives answers to the questions many ask about caterpillars",
+        "title": "Windy weather stopped the British rock band's concert at Roskilde Festival",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/blaesevejr-stoppede-britisk-rockbands-koncert-paa-roskilde-festival?referrer=RSS",
+        "published_date": "2026-07-03 11:42:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Electricity suppliers are reported to the police and filed for bankruptcy",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-elselskaber-er-gaaet-konkurs",
+        "published_date": "2026-07-03 11:24:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chicken sausages are being recalled due to the risk of finding pieces of metal",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kyllingepoelser-tilbagekaldes-efter-risiko-fund-af-metalstykker",
+        "published_date": "2026-07-03 11:17:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Municipality buys painting for over DKK 300,000 at auction",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kommune-koeber-maleri-over-300-000-kroner-paa-auktion",
+        "published_date": "2026-07-03 10:28:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shooting incident in Brabrand: 'It indicates that it is the wrong address'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skudepisode-i-brabrand-det-tyder-paa-det-er-den-forkerte-adresse",
+        "published_date": "2026-07-03 10:19:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Re-read live coverage from the court: Judgment on The Black Swan has been postponed",
         "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/odense/hvorfor-faelder-man-ikke-bare-traeerne-ekspert-giver-svar-paa-de-spoergsmaal-mange-stiller-om-larver?rss",
-        "published_date": "2026-07-02 20:00:00",
+        "url": "https://fyens.dk/112/foelg-med-fra-retten-landskendt-muldvarp-staar-til-faengsel-i-fynsk-bedragerisag?rss",
+        "published_date": "2026-07-03 09:33:07",
         "category": "Local Events"
     },
     {
-        "title": "Parents and grandparents charged: For several years, 16 children were kept locked up in dilapidated house in American village",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/foraeldre-og-bedsteforaeldre-sigtet-i-flere-aar-blev-16-boern-holdt-indespaerret-i-forfaldent-hus-i-amerikansk-landsby?referrer=RSS",
-        "published_date": "2026-07-02 19:57:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norwegian plane had to make an emergency landing on the way to Copenhagen: Five passengers got nosebleeds",
+        "title": "Discovered with 1.7 kilos of hashish in R\u00f8nne",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norwegian-fly-maatte-sikkerhedslande-paa-vej-til-koebenhavn-fem-passagerer-fik-naeseblod",
-        "published_date": "2026-07-02 18:33:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 'caterpillar from hell' will now be a matter for the Norwegian Working Environment Authority",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/larven-fra-helvede-bliver-nu-en-sag-arbejdstilsynet",
-        "published_date": "2026-07-02 16:13:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nine men are sentenced to prison for a total of 100 years for attempted murder",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ni-maend-idoemmes-faengsel-i-samlet-100-aar-drabsforsoeg",
-        "published_date": "2026-07-02 16:02:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least five have been killed in a bomb blast in Damascus",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mindst-fem-er-draebt-i-bombeeksplosion-i-damaskus",
-        "published_date": "2026-07-02 15:13:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Doctors wanted: Region Zealand starts the hunt",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/laeger-soeges-region-sjaelland-saetter-jagten-ind",
-        "published_date": "2026-07-02 14:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "WHO: Cruise ship hantavirus outbreak is over",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/who-udbruddet-af-hantavirus-fra-krydstogtskib-er-slut",
-        "published_date": "2026-07-02 13:37:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pram with child in attempted stolen in the middle of Aarhus",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/barnevogn-med-barn-i-forsoegt-stjaalet-midt-i-aarhus",
-        "published_date": "2026-07-02 13:31:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "US royal numbers fall short of expectations",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-s-kongetal-naar-ikke-forventninger",
-        "published_date": "2026-07-02 13:29:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Explosion hits central Damascus",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eksplosion-rammer-det-centrale-damaskus?referrer=RSS",
-        "published_date": "2026-07-02 12:50:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of new jobs in the US misses expectations",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/antallet-af-nye-job-i-usa-misser-forventningerne?referrer=RSS",
-        "published_date": "2026-07-02 12:50:47",
+        "url": "https://www.dr.dk/nyheder/seneste/afsloeret-med-1-7-kilo-hash-i-roenne",
+        "published_date": "2026-07-03 09:19:17",
         "category": "Local Events"
     }
 ]
