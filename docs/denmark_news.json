@@ -1,5 +1,12 @@
 [
     {
+        "title": "'Lot of work' needed to resolve Europe's border travel woes, EU chief admits",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260703/lot-of-work-needed-to-resolve-europes-border-travel-woes-eu-chief-admits",
+        "published_date": "2026-07-03 16:41:03",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Six Russian scientists are sanctioned by the EU for having developed poison",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/seks-russiske-videnskabsfolk-sanktioneres-af-eu-have-udviklet-gift",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "At least 191 mn Europeans face 35C on Sunday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260628/at-least-191-mn-europeans-face-35c-on-sunday",
-        "published_date": "2026-06-28 11:49:33",
-        "category": "Diplomacy"
+        "title": "Ukrainian governor reports three killed in bomb attack against Sumy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ukrainsk-guvernoer-melder-om-tre-draebte-i-bombeangreb-mod-sumy?referrer=RSS",
+        "published_date": "2026-07-03 23:18:51",
+        "category": "Military"
+    },
+    {
+        "title": "Alarm calls contradict the Defense's explanation about the time of the shooting",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/alarmopkald-modsiger-forsvarets-forklaring-om-tidspunkt-for-skud?referrer=RSS",
+        "published_date": "2026-07-03 19:07:58",
+        "category": "Military"
     },
     {
         "title": "Red Cross warehouse in Ukraine destroyed after Russian attack",
@@ -250,6 +264,13 @@
         "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1756?referrer=RSS",
         "published_date": "2026-06-26 12:54:00",
         "category": "Military"
+    },
+    {
+        "title": "Small tourist island is without power",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lille-turist-oe-er-uden-stroem",
+        "published_date": "2026-07-03 14:08:51",
+        "category": "Energy"
     },
     {
         "title": "Power failure in Aarhus: All customers have power in their sockets again",
@@ -392,17 +413,108 @@
         "category": "Economy"
     },
     {
-        "title": "King Charles has paid DKK 260 million in personal tax",
+        "title": "Venezuela raises death toll from earthquake to 2,645",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kong-charles-har-betalt-260-millioner-kroner-i-personlig-skat?referrer=RSS",
-        "published_date": "2026-06-25 21:34:47",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/venezuela-opjusterer-antal-draebte-efter-jordskaelv-til-2645?referrer=RSS",
+        "published_date": "2026-07-03 23:52:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first guests arrive at the supposed Swift wedding in New York",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/de-foerste-gaester-ankommer-til-formodet-swift-bryllup-i-new-york?referrer=RSS",
+        "published_date": "2026-07-03 22:47:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Merz wants to see a medical certificate from the Germans on the first day of illness",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/merz-vil-se-laegeerklaering-fra-tyskerne-paa-foerste-sygedag?referrer=RSS",
+        "published_date": "2026-07-03 21:46:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Excluded DFer made attempts to withdraw criticism",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/ekskluderet-dfer-gjorde-forsoeg-paa-at-traekke-kritik-tilbage?referrer=RSS",
+        "published_date": "2026-07-03 21:15:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Egypt is best from the spot and advances in the World Cup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/egypten-er-bedst-fra-pletten-og-gaar-videre-i-vm?referrer=RSS",
+        "published_date": "2026-07-03 21:00:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 17-year-old boy has been stabbed with a knife on Funen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/17-aarig-dreng-er-blevet-stukket-med-kniv-paa-fyn?referrer=RSS",
+        "published_date": "2026-07-03 20:23:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll rises after earthquake in Venezuela",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-efter-jordskaelv-i-venezuela-stiger",
+        "published_date": "2026-07-03 20:13:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "72-year-old caretaker is seriously injured after a balcony accident",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/72-aarig-vicevaert-er-svaert-tilskadekommen-efter-altanulykke?referrer=RSS",
+        "published_date": "2026-07-03 20:04:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "At the age of 67, Madonna continues with toilet sex and the corset.Here's what she can teach us about aging",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/eksistens/som-67-aarig-koerer-madonna-paa-med-toiletsex-og-korset-her-er-hvad-hun-kan-laere-os-om-at-aeldes?referrer=RSS",
+        "published_date": "2026-07-03 19:47:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nasa wants to save telescope that may be headed for Earth",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nasa-vil-redde-teleskop-der-kan-have-kurs-mod-jorden",
+        "published_date": "2026-07-03 16:52:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran bids farewell to Ayatollah four months after his death",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-tager-afsked-med-ayatollah-fire-maaneder-efter-hans-doed",
+        "published_date": "2026-07-03 16:35:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "A flurry of critical questions and a few shouts from the hall: this is how the citizens' meeting about the hated caterpillar went",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/odense/foelg-kaempe-borgermoede-gaar-i-gang-om-lidt-en-hel-bydel-er-plaget?rss",
+        "published_date": "2026-07-03 15:14:57",
+        "category": "Local Events"
     },
     {
         "title": "Problems with Danish healthcare push Ukrainian refugees to seek help elsewhere",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260703/problems-with-danish-healthcare-push-ukrainian-refugees-to-seek-help-elsewhere",
         "published_date": "2026-07-03 13:56:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Windiest July day since 1996",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mest-blaesende-julidag-siden-1996",
+        "published_date": "2026-07-03 13:54:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "The breeze is fresh and makes for a busy festival close to the waters of the Limfjord",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/blaesten-er-frisk-og-giver-travlhed-paa-festival-taet-paa-limfjordens-vande",
+        "published_date": "2026-07-03 13:41:29",
         "category": "Local Events"
     },
     {
@@ -438,104 +550,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/sundhedsminister-foelger-situation-med-generende-larve-i-odense?referrer=RSS",
         "published_date": "2026-07-03 12:40:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "France registers 2,025 extra deaths amid record heat",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/frankrig-registrerer-2-025-ekstra-doedsfald-under-rekordvarme",
-        "published_date": "2026-07-03 12:17:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Snapchat profiles are closed to curb drugs at Roskilde Festival",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/snapchat-profiler-lukkes-for-at-bremse-stoffer-paa-roskilde-festival?referrer=RSS",
-        "published_date": "2026-07-03 12:15:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Children's Terms: Beware of the Australian pitfalls if we close children's access to social media",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/opinion/boerns-vilkaar-pas-paa-de-australske-faldgruber-hvis-vi-lukker-for-boerns-adgang-til-sociale-medier?referrer=RSS",
-        "published_date": "2026-07-03 12:12:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Number of apartments on sale in Copenhagen continues to rise",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260703/number-of-apartments-on-sale-in-copenhagen-continues-to-rise",
-        "published_date": "2026-07-03 12:03:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Startling new details: Get an overview of the brutal murder case that cost Niels his life",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/opsigtsvaekkende-nye-detaljer-faa-overblikket-i-den-brutale-drabssag-der-kostede-niels-livet?rss",
-        "published_date": "2026-07-03 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Roskilde Festival makes program changes due to windy weather",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/roskilde-festival-laver-programaendringer-paa-grund-af-blaesevejr",
-        "published_date": "2026-07-03 11:49:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "The running clubs have come to Roskilde Festival: \u00bbIllegal, illegal!\u00ab",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oplevelser/loebeklubberne-er-kommet-til-roskilde-festival-ulovligt-ulovligt?referrer=RSS",
-        "published_date": "2026-07-03 11:49:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Windy weather stopped the British rock band's concert at Roskilde Festival",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/blaesevejr-stoppede-britisk-rockbands-koncert-paa-roskilde-festival?referrer=RSS",
-        "published_date": "2026-07-03 11:42:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Electricity suppliers are reported to the police and filed for bankruptcy",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-elselskaber-er-gaaet-konkurs",
-        "published_date": "2026-07-03 11:24:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chicken sausages are being recalled due to the risk of finding pieces of metal",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kyllingepoelser-tilbagekaldes-efter-risiko-fund-af-metalstykker",
-        "published_date": "2026-07-03 11:17:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Municipality buys painting for over DKK 300,000 at auction",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kommune-koeber-maleri-over-300-000-kroner-paa-auktion",
-        "published_date": "2026-07-03 10:28:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shooting incident in Brabrand: 'It indicates that it is the wrong address'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skudepisode-i-brabrand-det-tyder-paa-det-er-den-forkerte-adresse",
-        "published_date": "2026-07-03 10:19:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Re-read live coverage from the court: Judgment on The Black Swan has been postponed",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/foelg-med-fra-retten-landskendt-muldvarp-staar-til-faengsel-i-fynsk-bedragerisag?rss",
-        "published_date": "2026-07-03 09:33:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Discovered with 1.7 kilos of hashish in R\u00f8nne",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/afsloeret-med-1-7-kilo-hash-i-roenne",
-        "published_date": "2026-07-03 09:19:17",
         "category": "Local Events"
     }
 ]
