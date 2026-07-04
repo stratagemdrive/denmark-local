@@ -1,5 +1,19 @@
 [
     {
+        "title": "One for the history books: what we know about the European heatwave",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260704/one-for-the-history-books-what-we-know-about-the-european-heatwave",
+        "published_date": "2026-07-04 09:32:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Pope: EU leaders must take better care of migrants",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/paven-eu-ledere-skal-tage-bedre-haand-om-migranter",
+        "published_date": "2026-07-04 09:23:41",
+        "category": "Diplomacy"
+    },
+    {
         "title": "'Lot of work' needed to resolve Europe's border travel woes, EU chief admits",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260703/lot-of-work-needed-to-resolve-europes-border-travel-woes-eu-chief-admits",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "China's foreign minister is to visit Denmark",
+        "title": "Ukraine has hit oil facilities in Saint Petersburg",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kinas-udenrigsminister-skal-besoege-danmark",
-        "published_date": "2026-06-30 07:15:28",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "More than 1,300 excess deaths recorded in Europe heatwave: WHO",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260628/more-than-1300-excess-deaths-recorded-in-europe-heatwave-who",
-        "published_date": "2026-06-28 15:38:51",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-har-ramt-olieanlaeg-i-sankt-petersborg",
+        "published_date": "2026-07-04 09:09:01",
+        "category": "Military"
     },
     {
         "title": "Ukrainian governor reports three killed in bomb attack against Sumy",
@@ -266,6 +273,13 @@
         "category": "Military"
     },
     {
+        "title": "Biogas production in Denmark reaches milestone",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/biogasproduktion-i-danmark-naar-milepael",
+        "published_date": "2026-07-04 07:20:33",
+        "category": "Energy"
+    },
+    {
         "title": "Small tourist island is without power",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/lille-turist-oe-er-uden-stroem",
@@ -371,6 +385,13 @@
         "category": "Energy"
     },
     {
+        "title": "Private finance letter box: Can you sell the summer house to the grandchildren and still use it yourself?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/dine-penge/privatoekonomisk-brevkasse-kan-man-saelge-sommerhuset-til-boerneboernene-og-stadig-bruge-det-selv?referrer=RSS",
+        "published_date": "2026-07-04 11:55:26",
+        "category": "Economy"
+    },
+    {
         "title": "Tax officials: Minister's letter undermines our judgement",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/skatteansatte-ministers-brev-underminerer-vores-doemmekraft?referrer=RSS",
@@ -411,6 +432,97 @@
         "url": "https://www.dr.dk/nyheder/seneste/trump-truer-med-told-som-reaktion-paa-digital-skat",
         "published_date": "2026-06-26 16:49:04",
         "category": "Economy"
+    },
+    {
+        "title": "Immigration policy cannot be boiled down to a debate about Danish values \u200b\u200band austerity",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/udlaendingepolitik-kan-ikke-koges-ned-til-en-debat-om-danske-vaerdier-og-stramninger?referrer=RSS",
+        "published_date": "2026-07-04 11:58:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tesfaye refused to enter government.\"Social democracy doesn't really interest me\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/tesfaye-takkede-nej-til-at-komme-i-regering-socialdemokratiet-interesserer-mig-ikke-rigtig?referrer=RSS",
+        "published_date": "2026-07-04 11:57:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Oh Land leaves the X Factor judging panel against his will",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/oh-land-forlader-dommerbordet-i-x-factor-mod-sin-vilje?referrer=RSS",
+        "published_date": "2026-07-04 11:51:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Antonelli takes first sprint victory in his career",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/antonelli-tager-foerste-sprintsejr-i-karrieren?referrer=RSS",
+        "published_date": "2026-07-04 11:51:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two women report rapes at Roskilde Festival",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/to-kvinder-anmelder-voldtaegter-paa-roskilde-festival?referrer=RSS",
+        "published_date": "2026-07-04 11:51:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "17-year-old accused of rape at Roskilde Festival",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/17-aarig-sigtet-voldtaegt-paa-roskilde-festival",
+        "published_date": "2026-07-04 11:48:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "A rule change makes the Tour's first kilometer absolutely decisive: Vingegaard can end up in the desired position",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/en-regelaendring-goer-tourens-foerste-kilometer-helt-afgoerende-vingegaard-kan-ende-i-oenskeposition?referrer=RSS",
+        "published_date": "2026-07-04 11:27:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Collection for Swedish victims of violence rounds one million Swedish kroner",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/indsamling-til-svensk-voldsoffer-runder-en-million-svenske-kroner?referrer=RSS",
+        "published_date": "2026-07-04 11:12:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Recharged Klopp is ready for German national coach talk",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/genopladet-klopp-er-klar-til-tysk-landstraenersnak?referrer=RSS",
+        "published_date": "2026-07-04 11:06:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two people have been injured in an accident on the Holb\u00e6k motorway",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/to-personer-er-kommet-til-skade-i-uheld-paa-holbaekmotorvejen?referrer=RSS",
+        "published_date": "2026-07-04 10:58:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inside Denmark: Is \u2018cucumber time\u2019 the best time to be in Denmark?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260704/inside-denmark-is-cucumber-time-the-best-time-to-be-in-denmark",
+        "published_date": "2026-07-04 09:12:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Municipality warns of fake parking charges",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kommune-advarer-om-falske-p-afgifter",
+        "published_date": "2026-07-04 08:47:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 17-year-old boy has been stabbed with a knife on Funen",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/17-aarig-dreng-er-blevet-stukket-med-kniv-paa-fyn",
+        "published_date": "2026-07-04 00:33:47",
+        "category": "Local Events"
     },
     {
         "title": "Venezuela raises death toll from earthquake to 2,645",
@@ -459,97 +571,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/doedstallet-efter-jordskaelv-i-venezuela-stiger",
         "published_date": "2026-07-03 20:13:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "72-year-old caretaker is seriously injured after a balcony accident",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/72-aarig-vicevaert-er-svaert-tilskadekommen-efter-altanulykke?referrer=RSS",
-        "published_date": "2026-07-03 20:04:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "At the age of 67, Madonna continues with toilet sex and the corset.Here's what she can teach us about aging",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/eksistens/som-67-aarig-koerer-madonna-paa-med-toiletsex-og-korset-her-er-hvad-hun-kan-laere-os-om-at-aeldes?referrer=RSS",
-        "published_date": "2026-07-03 19:47:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nasa wants to save telescope that may be headed for Earth",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nasa-vil-redde-teleskop-der-kan-have-kurs-mod-jorden",
-        "published_date": "2026-07-03 16:52:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran bids farewell to Ayatollah four months after his death",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-tager-afsked-med-ayatollah-fire-maaneder-efter-hans-doed",
-        "published_date": "2026-07-03 16:35:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "A flurry of critical questions and a few shouts from the hall: this is how the citizens' meeting about the hated caterpillar went",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/odense/foelg-kaempe-borgermoede-gaar-i-gang-om-lidt-en-hel-bydel-er-plaget?rss",
-        "published_date": "2026-07-03 15:14:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Problems with Danish healthcare push Ukrainian refugees to seek help elsewhere",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260703/problems-with-danish-healthcare-push-ukrainian-refugees-to-seek-help-elsewhere",
-        "published_date": "2026-07-03 13:56:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Windiest July day since 1996",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mest-blaesende-julidag-siden-1996",
-        "published_date": "2026-07-03 13:54:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "The breeze is fresh and makes for a busy festival close to the waters of the Limfjord",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/blaesten-er-frisk-og-giver-travlhed-paa-festival-taet-paa-limfjordens-vande",
-        "published_date": "2026-07-03 13:41:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Calls for Copenhagen World Cup fan zone to close after attack on Sweden fan",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260703/calls-for-copenhagen-world-cup-fan-zone-to-close-after-attack-on-sweden-fan",
-        "published_date": "2026-07-03 13:01:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four electricity suppliers are filed for bankruptcy and reported to the police",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/fire-elleverandoerer-begaeres-konkurs-og-politianmeldes?referrer=RSS",
-        "published_date": "2026-07-03 12:44:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "A man previously convicted of attempted murder is jailed for violence at a World Cup viewing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-tidligere-doemt-for-drabsforsoeg-faengsles-for-vold-ved-vm-visning?referrer=RSS",
-        "published_date": "2026-07-03 12:44:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister of Health stamps into discussion about nuisance larvae",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sundhedsminister-stempler-ind-i-diskussion-om-generende-larver",
-        "published_date": "2026-07-03 12:43:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Minister of Health is monitoring the situation with nuisance larvae in Odense",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/sundhedsminister-foelger-situation-med-generende-larve-i-odense?referrer=RSS",
-        "published_date": "2026-07-03 12:40:48",
         "category": "Local Events"
     }
 ]
