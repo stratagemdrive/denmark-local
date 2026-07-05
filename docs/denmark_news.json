@@ -1,5 +1,33 @@
 [
     {
+        "title": "The beginning was difficult, but today Mette Lampcov works for the largest in the US: \"There are more opportunities here\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kultur/begyndelsen-var-svaer-men-i-dag-arbejder-mette-lampcov-for-de-stoerste-i-usa-der-er-flere-muligheder-her?referrer=RSS",
+        "published_date": "2026-07-05 11:43:26",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Has the heat wave just exposed nuclear power's Achilles heel?Here are the experts' answers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/videnskab/har-hedeboelgen-lige-afsloeret-atomkraftens-akilleshael-her-er-eksperternes-svar?referrer=RSS",
+        "published_date": "2026-07-05 11:36:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The \"rivalry\" between two central figures in the EU is intensifying.And now Kallas risks being played out on the sidelines",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rivaliseringen-mellem-to-centrale-skikkelser-i-eu-spidser-til-og-nu-risikerer-kallas-at-blive-spillet-ud-paa-sidelinjen?referrer=RSS",
+        "published_date": "2026-07-05 10:29:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Can Messerschmidt become prime minister?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/kan-messerschmidt-blive-statsminister?referrer=RSS",
+        "published_date": "2026-07-05 10:24:36",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Trump and Putin have spoken on the phone together about Ukraine",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-og-putin-har-talt-i-telefon-sammen-om-ukraine?referrer=RSS",
@@ -112,34 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Canada will participate in Eurovision in Bulgaria in 2027",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/canada-deltager-i-eurovision-i-bulgarien-i-2027?referrer=RSS",
-        "published_date": "2026-07-01 13:09:50",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The Ministry of Foreign Affairs provides assistance to Danes arrested in Uganda",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/udenrigsministeriet-yder-bistand-til-dansker-anholdt-i-uganda",
-        "published_date": "2026-07-01 12:46:56",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260701/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-60",
-        "published_date": "2026-07-01 08:11:41",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "UN warns of acute shortage of food after earthquake in Venezuela",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fn-advarer-om-akut-mangel-paa-mad-efter-jordskaelv-i-venezuela?referrer=RSS",
-        "published_date": "2026-06-30 22:20:47",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Ukraine has hit oil facilities in Saint Petersburg",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/ukraine-har-ramt-olieanlaeg-i-sankt-petersborg",
@@ -235,13 +235,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/usa-angriber-igen-iran-paa-grund-af-haendelser-i-hormuzstraedet",
         "published_date": "2026-06-27 21:57:11",
-        "category": "Military"
-    },
-    {
-        "title": "Ukraine reports: Ukrainian energy company and Russian arms factory hit",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-melder-ukrainsk-energiselskab-og-russisk-vaabenfabrik-ramt",
-        "published_date": "2026-06-27 09:14:18",
         "category": "Military"
     },
     {
@@ -378,6 +371,55 @@
         "category": "Economy"
     },
     {
+        "title": "CBS has to refuse most applicants after record high interest",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/cbs-maa-give-afslag-til-de-fleste-ansoegere-efter-rekordstor-interesse?referrer=RSS",
+        "published_date": "2026-07-05 12:06:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Romanians are accused of gold coup for millions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/rumaenere-er-sigtet-for-guldkup-for-millioner?referrer=RSS",
+        "published_date": "2026-07-05 11:52:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nigel Farage faces fresh allegations about gifts",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/nigel-farage-staar-over-for-nye-beskyldninger-om-gaver?referrer=RSS",
+        "published_date": "2026-07-05 11:45:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "You are wrong, Eva Selsing.Made up numbers are a declaration of bankruptcy to the rape victims",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/du-tager-fejl-eva-selsing-konstruerede-tal-er-en-falliterklaering-over-for-voldtaegtsofrene?referrer=RSS",
+        "published_date": "2026-07-05 10:53:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police investigate fake brick in case of recordings of women",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politi-undersoeger-falsk-mursten-i-sag-om-optagelser-af-kvinder?referrer=RSS",
+        "published_date": "2026-07-05 10:33:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former union boss resigns from the Social Democratic Party",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/tidligere-fagboss-melder-sig-ud-af-socialdemokratiet?referrer=RSS",
+        "published_date": "2026-07-05 09:59:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kim Jong-un watched test of large warship",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kim-jong-un-overvaever-test-af-stort-krigsskib",
+        "published_date": "2026-07-05 07:10:26",
+        "category": "Local Events"
+    },
+    {
         "title": "Messerschmidt is open to supporting a government with L\u00f8kke",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/messerschmidt-er-aaben-for-at-stoette-en-regering-med-loekke?referrer=RSS",
@@ -466,55 +508,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kronikker/udlaendingepolitik-kan-ikke-koges-ned-til-en-debat-om-danske-vaerdier-og-stramninger?referrer=RSS",
         "published_date": "2026-07-04 11:58:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tesfaye refused to enter government.\"Social democracy doesn't really interest me\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/tesfaye-takkede-nej-til-at-komme-i-regering-socialdemokratiet-interesserer-mig-ikke-rigtig?referrer=RSS",
-        "published_date": "2026-07-04 11:57:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Oh Land leaves the X Factor judging panel against his will",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/oh-land-forlader-dommerbordet-i-x-factor-mod-sin-vilje?referrer=RSS",
-        "published_date": "2026-07-04 11:51:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Antonelli takes first sprint victory in his career",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/antonelli-tager-foerste-sprintsejr-i-karrieren?referrer=RSS",
-        "published_date": "2026-07-04 11:51:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two women report rapes at Roskilde Festival",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/to-kvinder-anmelder-voldtaegter-paa-roskilde-festival?referrer=RSS",
-        "published_date": "2026-07-04 11:51:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "17-year-old accused of rape at Roskilde Festival",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/17-aarig-sigtet-voldtaegt-paa-roskilde-festival",
-        "published_date": "2026-07-04 11:48:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "A rule change makes the Tour's first kilometer absolutely decisive: Vingegaard can end up in the desired position",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/en-regelaendring-goer-tourens-foerste-kilometer-helt-afgoerende-vingegaard-kan-ende-i-oenskeposition?referrer=RSS",
-        "published_date": "2026-07-04 11:27:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Collection for Swedish victims of violence rounds one million Swedish kroner",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/indsamling-til-svensk-voldsoffer-runder-en-million-svenske-kroner?referrer=RSS",
-        "published_date": "2026-07-04 11:12:50",
         "category": "Local Events"
     }
 ]
