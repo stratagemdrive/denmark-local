@@ -1,5 +1,19 @@
 [
     {
+        "title": "More than 100 Nato-critical protesters detained in Turkey",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/flere-end-100-nato-kritiske-demonstranter-tilbageholdt-i-tyrkiet?referrer=RSS",
+        "published_date": "2026-07-05 23:37:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Thieves steal 20 valuable crystal jewelry from French museum",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tyve-stjaeler-20-vaerdifulde-krystalsmykker-fra-fransk-museum?referrer=RSS",
+        "published_date": "2026-07-05 22:32:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The beginning was difficult, but today Mette Lampcov works for the largest in the US: \"There are more opportunities here\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kultur/begyndelsen-var-svaer-men-i-dag-arbejder-mette-lampcov-for-de-stoerste-i-usa-der-er-flere-muligheder-her?referrer=RSS",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cloudy confrontation at the UN: Rapporteur denies truth about rapes",
+        "title": "Residents of Kyiv are reported trapped in buildings hit by missile attacks",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/taakrummende-konfrontation-i-fn-rapportoer-benaegter-sandhed-om-voldtaegter?referrer=RSS",
-        "published_date": "2026-07-01 20:17:26",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "'Critical point': Europe's airports demand urgent action to avoid summer border delays",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260701/critical-point-europes-airports-demand-urgent-action-to-avoid-summer-border-delays",
-        "published_date": "2026-07-01 14:37:00",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/indbyggere-i-kyiv-meldes-fanget-i-bygning-ramt-af-missilangreb?referrer=RSS",
+        "published_date": "2026-07-05 23:51:48",
+        "category": "Military"
     },
     {
         "title": "Ukraine has hit oil facilities in Saint Petersburg",
@@ -221,20 +228,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/israelsk-soldat-meldes-draebt-i-kamp-mod-hizbollah-i-libanon?referrer=RSS",
         "published_date": "2026-06-28 11:39:44",
-        "category": "Military"
-    },
-    {
-        "title": "The US military is carrying out new attacks against several targets in Iran",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usas-militaer-udfoerer-nye-angreb-mod-flere-maal-i-iran?referrer=RSS",
-        "published_date": "2026-06-27 22:51:47",
-        "category": "Military"
-    },
-    {
-        "title": "US attacks Iran again: 'In response to continued Iranian attacks on commercial shipping'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-angriber-igen-iran-paa-grund-af-haendelser-i-hormuzstraedet",
-        "published_date": "2026-06-27 21:57:11",
         "category": "Military"
     },
     {
@@ -371,6 +364,69 @@
         "category": "Economy"
     },
     {
+        "title": "Storm postpones Mexico's Round of 16 match against England",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/uvejr-udskyder-mexicos-ottendedelsfinale-mod-england?referrer=RSS",
+        "published_date": "2026-07-05 23:40:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Solbakken in ecstasy: Greatest achievement in Norwegian football history",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/solbakken-i-ekstase-stoerste-bedrift-i-norsk-fodboldhistorie?referrer=RSS",
+        "published_date": "2026-07-05 23:31:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Belgian coach: Fifa has made the day April 1",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/belgisk-traener-fifa-har-gjort-dagen-til-1-april?referrer=RSS",
+        "published_date": "2026-07-05 22:56:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pop singer sets concert record and surpasses Taylor Swift",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/popsanger-saetter-koncertrekord-og-overgaar-taylor-swift?referrer=RSS",
+        "published_date": "2026-07-05 22:12:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unstoppable Haaland creates the miracle against Brazil",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/ustoppelige-haaland-skaber-miraklet-mod-brasilien?referrer=RSS",
+        "published_date": "2026-07-05 22:12:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuela raises death toll to 3,342 after earthquake",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/venezuela-opjusterer-doedstallet-til-3342-efter-jordskaelv?referrer=RSS",
+        "published_date": "2026-07-05 21:47:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The death toll rises to over 3,000 in Venezuela after powerful earthquakes",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-stiger-til-over-3000-i-venezuela-efter-kraftige-jordskaelv",
+        "published_date": "2026-07-05 21:27:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "King Frederik watched Djokovic play in the Wimbledon quarterfinals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kong-frederik-saa-djokovic-spille-sig-i-wimbledon-kvartfinalen?referrer=RSS",
+        "published_date": "2026-07-05 21:06:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flight cancellations after ash column over Etna volcano",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flyaflysninger-efter-askesoejle-over-etna-vulkan",
+        "published_date": "2026-07-05 17:29:55",
+        "category": "Local Events"
+    },
+    {
         "title": "CBS has to refuse most applicants after record high interest",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/cbs-maa-give-afslag-til-de-fleste-ansoegere-efter-rekordstor-interesse?referrer=RSS",
@@ -445,69 +501,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/mand-med-legetoejspistol-i-biograf-er-sigtet-for-trusler-paa-livet?referrer=RSS",
         "published_date": "2026-07-04 22:50:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Japanese shoals get the scoop under Anders Lind",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/japanske-stimer-faar-skovlen-under-anders-lind?referrer=RSS",
-        "published_date": "2026-07-04 22:19:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Loop about deaths at World Cup event: Filled with sadness and anger",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/loekke-om-doedsfald-ved-vm-arrangement-fyldt-af-sorg-og-vrede",
-        "published_date": "2026-07-04 21:34:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "The little grays need to be kept busy in these ai times",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/de-smaa-graa-skal-holdes-i-gang-i-disse-ai-tider?referrer=RSS",
-        "published_date": "2026-07-04 20:40:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former deputy chairman of LO resigns from the Social Democrats",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/tidligere-naestformand-i-lo-melder-sig-ud-af-socialdemokratiet?referrer=RSS",
-        "published_date": "2026-07-04 20:28:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Almost 3000 are confirmed dead after earthquake in Venezuela",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/naesten-3000-er-bekraeftet-doede-efter-jordskaelv-i-venezuela?referrer=RSS",
-        "published_date": "2026-07-04 19:10:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The board encourages the University of Copenhagen to disregard new admissions practices this year",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/styrelse-opfordrer-ku-til-se-bort-fra-ny-optagelsespraksis-i-aar",
-        "published_date": "2026-07-04 14:18:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish band collects 200,000 for NGO during Roskilde Festival",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-band-samler-200-000-ind-til-ngo-under-roskilde-festival",
-        "published_date": "2026-07-04 14:10:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three-year-old operated five times after attack in crocodile facility",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-aarig-opereret-fem-gange-efter-angreb-i-krokodilleanlaeg",
-        "published_date": "2026-07-04 14:09:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Immigration policy cannot be boiled down to a debate about Danish values \u200b\u200band austerity",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/udlaendingepolitik-kan-ikke-koges-ned-til-en-debat-om-danske-vaerdier-og-stramninger?referrer=RSS",
-        "published_date": "2026-07-04 11:58:11",
         "category": "Local Events"
     }
 ]
