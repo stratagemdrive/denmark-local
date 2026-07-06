@@ -1,5 +1,19 @@
 [
     {
+        "title": "NATO chief before summit: Europe and Canada spend four percent on defence",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/nato-chef-foer-topmoede-europa-og-canada-bruger-fire-procent-paa-forsvar?referrer=RSS",
+        "published_date": "2026-07-06 13:58:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Australia's foreign minister calls Chinese missile test 'destabilizing'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/australiens-udenrigsminister-kalder-kinesisk-missiltest-destabiliserende",
+        "published_date": "2026-07-06 06:25:20",
+        "category": "Diplomacy"
+    },
+    {
         "title": "More than 100 Nato-critical protesters detained in Turkey",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/flere-end-100-nato-kritiske-demonstranter-tilbageholdt-i-tyrkiet?referrer=RSS",
@@ -126,20 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "For the first time in four years, there are again lion cubs in Givskud Zoo",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/for-foerste-gang-i-fire-aar-er-der-igen-loeveunger-i-givskud-zoo?referrer=RSS",
-        "published_date": "2026-07-02 12:47:50",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The reservation of rights does not protect Denmark.It weakens us",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/retsforbeholdet-beskytter-ikke-danmark-det-svaekker-os?referrer=RSS",
-        "published_date": "2026-07-02 11:46:20",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Residents of Kyiv are reported trapped in buildings hit by missile attacks",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/indbyggere-i-kyiv-meldes-fanget-i-bygning-ramt-af-missilangreb?referrer=RSS",
@@ -221,13 +221,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/israel-oedelaegger-underjordisk-hizbollah-tunnel-i-libanon?referrer=RSS",
         "published_date": "2026-06-28 21:54:47",
-        "category": "Military"
-    },
-    {
-        "title": "Israeli soldier reportedly killed in battle against Hezbollah in Lebanon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/israelsk-soldat-meldes-draebt-i-kamp-mod-hizbollah-i-libanon?referrer=RSS",
-        "published_date": "2026-06-28 11:39:44",
         "category": "Military"
     },
     {
@@ -315,18 +308,25 @@
         "category": "Energy"
     },
     {
-        "title": "A golden toilet brush heralds revolution in Hungary",
+        "title": "Weakest krone in decades, but economists do not believe in a Danish interest rate hike",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/en-gylden-toiletboerste-varsler-revolution-i-ungarn?referrer=RSS",
-        "published_date": "2026-06-28 11:50:55",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/business/svageste-krone-i-aartier-men-oekonomer-tror-ikke-paa-dansk-renteforhoejelse?referrer=RSS",
+        "published_date": "2026-07-06 13:13:42",
+        "category": "Economy"
     },
     {
-        "title": "Police: If you see an oil spill at Aarhus \u00d8, don't pray",
+        "title": "Amira Smajic from 'The Black Swan' sentenced to prison for tax fraud",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-ser-du-udslip-af-olie-ved-aarhus-oe-saa-bad-ikke",
-        "published_date": "2026-06-28 11:03:00",
-        "category": "Energy"
+        "url": "https://www.dr.dk/nyheder/seneste/amira-smajic-fra-den-sorte-svane-idoemt-faengsel-skattesvindel",
+        "published_date": "2026-07-06 13:12:23",
+        "category": "Economy"
+    },
+    {
+        "title": "Checks in several kiosks give rise to suspicions of the black economy",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kontrol-i-flere-kiosker-giver-anledning-til-mistanke-om-sort-oekonomi",
+        "published_date": "2026-07-06 04:56:24",
+        "category": "Economy"
     },
     {
         "title": "Private finance letter box: Can you sell the summer house to the grandchildren and still use it yourself?",
@@ -364,143 +364,143 @@
         "category": "Economy"
     },
     {
-        "title": "Storm postpones Mexico's Round of 16 match against England",
+        "title": "The police are investigating whether there are accomplices in the case of the death of a Swede",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/uvejr-udskyder-mexicos-ottendedelsfinale-mod-england?referrer=RSS",
-        "published_date": "2026-07-05 23:40:49",
+        "url": "https://www.berlingske.dk/indland/politiet-efterforsker-om-der-er-medgerningsmaend-i-sag-om-doed-svensker?referrer=RSS",
+        "published_date": "2026-07-06 14:08:47",
         "category": "Local Events"
     },
     {
-        "title": "Solbakken in ecstasy: Greatest achievement in Norwegian football history",
+        "title": "Anne Hjern\u00f8e's intentions are not enough: A sweet, but messy, round of gossip about grief",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/solbakken-i-ekstase-stoerste-bedrift-i-norsk-fodboldhistorie?referrer=RSS",
-        "published_date": "2026-07-05 23:31:49",
+        "url": "https://www.berlingske.dk/litteratur/anne-hjernoees-intentioner-er-ikke-nok-en-soed-men-rodet-omgang-sniksnak-om-sorg?referrer=RSS",
+        "published_date": "2026-07-06 14:05:45",
         "category": "Local Events"
     },
     {
-        "title": "Belgian coach: Fifa has made the day April 1",
+        "title": "Private creditors can be powerless against bad payers.With one simple change in the law, we can do something about it",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/belgisk-traener-fifa-har-gjort-dagen-til-1-april?referrer=RSS",
-        "published_date": "2026-07-05 22:56:51",
+        "url": "https://www.berlingske.dk/kronikker/private-kreditorer-kan-staa-magtesloese-over-for-daarlige-betalere-med-en-simpel-lovaendring-kan-vi-goere-noget-ved-det?referrer=RSS",
+        "published_date": "2026-07-06 13:51:18",
         "category": "Local Events"
     },
     {
-        "title": "Pop singer sets concert record and surpasses Taylor Swift",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/popsanger-saetter-koncertrekord-og-overgaar-taylor-swift?referrer=RSS",
-        "published_date": "2026-07-05 22:12:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unstoppable Haaland creates the miracle against Brazil",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ustoppelige-haaland-skaber-miraklet-mod-brasilien?referrer=RSS",
-        "published_date": "2026-07-05 22:12:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuela raises death toll to 3,342 after earthquake",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/venezuela-opjusterer-doedstallet-til-3342-efter-jordskaelv?referrer=RSS",
-        "published_date": "2026-07-05 21:47:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The death toll rises to over 3,000 in Venezuela after powerful earthquakes",
+        "title": "Beef and chicken kebabs are being recalled after plastic was found",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-stiger-til-over-3000-i-venezuela-efter-kraftige-jordskaelv",
-        "published_date": "2026-07-05 21:27:33",
+        "url": "https://www.dr.dk/nyheder/seneste/okse-og-kyllingekebab-tilbagekaldes-efter-fund-af-plastik",
+        "published_date": "2026-07-06 13:33:50",
         "category": "Local Events"
     },
     {
-        "title": "King Frederik watched Djokovic play in the Wimbledon quarterfinals",
+        "title": "Expert: If the picture is correct, it is deeply problematic",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kong-frederik-saa-djokovic-spille-sig-i-wimbledon-kvartfinalen?referrer=RSS",
-        "published_date": "2026-07-05 21:06:48",
+        "url": "https://www.berlingske.dk/internationalt/ekspert-hvis-billedet-er-korrekt-er-det-dybt-problematisk?referrer=RSS",
+        "published_date": "2026-07-06 13:26:54",
         "category": "Local Events"
     },
     {
-        "title": "Flight cancellations after ash column over Etna volcano",
+        "title": "TV 2 flatly rejects speculation about commemoration: We had to cut a long session down to a few seconds",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/tv-2-afviser-lodret-spekulationer-om-mindehoejtidelighed-vi-skulle-klippe-en-lang-seance-ned-til-faa-sekunder?referrer=RSS",
+        "published_date": "2026-07-06 13:17:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prince Harry can't spend the night at Buckingham Palace anyway",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/prins-harry-kan-ikke-overnatte-paa-buckingham-palace-alligevel?referrer=RSS",
+        "published_date": "2026-07-06 13:15:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Amira Smajic is sentenced to prison and a million fine in a fraud case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/amira-smajic-idoemmes-faengsel-og-millionboede-i-svindelsag?referrer=RSS",
+        "published_date": "2026-07-06 13:14:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Beef and chicken kebabs are being recalled after plastic was found",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/okse-og-kyllingekebab-tilbagekaldes-efter-fund-af-plastik?referrer=RSS",
+        "published_date": "2026-07-06 13:07:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Odense municipality sets aside millions to combat 'caterpillar from hell'",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260706/odense-municipality-sets-aside-millions-to-combat-caterpillar-from-hell",
+        "published_date": "2026-07-06 13:02:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Train buses are deployed between Ringsted and Nyborg at the weekend",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flyaflysninger-efter-askesoejle-over-etna-vulkan",
-        "published_date": "2026-07-05 17:29:55",
+        "url": "https://www.dr.dk/nyheder/seneste/togbusser-bliver-indsat-mellem-ringsted-og-nyborg-i-weekenden",
+        "published_date": "2026-07-06 12:51:53",
         "category": "Local Events"
     },
     {
-        "title": "CBS has to refuse most applicants after record high interest",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/cbs-maa-give-afslag-til-de-fleste-ansoegere-efter-rekordstor-interesse?referrer=RSS",
-        "published_date": "2026-07-05 12:06:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Romanians are accused of gold coup for millions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/rumaenere-er-sigtet-for-guldkup-for-millioner?referrer=RSS",
-        "published_date": "2026-07-05 11:52:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nigel Farage faces fresh allegations about gifts",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nigel-farage-staar-over-for-nye-beskyldninger-om-gaver?referrer=RSS",
-        "published_date": "2026-07-05 11:45:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "You are wrong, Eva Selsing.Made up numbers are a declaration of bankruptcy to the rape victims",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/du-tager-fejl-eva-selsing-konstruerede-tal-er-en-falliterklaering-over-for-voldtaegtsofrene?referrer=RSS",
-        "published_date": "2026-07-05 10:53:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police investigate fake brick in case of recordings of women",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politi-undersoeger-falsk-mursten-i-sag-om-optagelser-af-kvinder?referrer=RSS",
-        "published_date": "2026-07-05 10:33:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former union boss resigns from the Social Democratic Party",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/tidligere-fagboss-melder-sig-ud-af-socialdemokratiet?referrer=RSS",
-        "published_date": "2026-07-05 09:59:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kim Jong-un watched test of large warship",
+        "title": "Hamas promises to take next step in peace plan",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kim-jong-un-overvaever-test-af-stort-krigsskib",
-        "published_date": "2026-07-05 07:10:26",
+        "url": "https://www.dr.dk/nyheder/seneste/hamas-lover-tage-naeste-skridt-i-fredsplan",
+        "published_date": "2026-07-06 12:29:13",
         "category": "Local Events"
     },
     {
-        "title": "Messerschmidt is open to supporting a government with L\u00f8kke",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/messerschmidt-er-aaben-for-at-stoette-en-regering-med-loekke?referrer=RSS",
-        "published_date": "2026-07-04 23:35:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mbapp\u00e9 penalty for France past Paraguay's underdogs",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mbappe-straffe-faar-frankrig-forbi-paraguays-unoder?referrer=RSS",
-        "published_date": "2026-07-04 23:14:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man with toy gun in cinema is charged with threats to life",
+        "title": "Just under two thousand have applied for a new university",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-med-legetoejspistol-i-biograf-er-sigtet-trusler-paa-livet",
-        "published_date": "2026-07-04 22:51:41",
+        "url": "https://www.dr.dk/nyheder/seneste/knap-tusind-har-soegt-nyt-universitet",
+        "published_date": "2026-07-06 12:25:55",
         "category": "Local Events"
     },
     {
-        "title": "Man with toy gun in cinema is charged with threats to life",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-med-legetoejspistol-i-biograf-er-sigtet-for-trusler-paa-livet?referrer=RSS",
-        "published_date": "2026-07-04 22:50:48",
+        "title": "Denmarks sees rise in applicants for university courses taught in English",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260706/rise-in-applicants-for-danish-university-courses-taught-in-english",
+        "published_date": "2026-07-06 11:58:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "25 killed and more than 100 injured after clashes in prison in Sri Lanka",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/25-draebte-og-flere-end-100-saaret-efter-sammenstoed-i-faengsel-i-sri-lanka",
+        "published_date": "2026-07-06 11:37:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Resumption of sailing in the Suez Canal causes Maersk shares to fall",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/genoptagelse-af-sejlads-i-suezkanalen-faar-maersk-aktie-til-falde",
+        "published_date": "2026-07-06 11:28:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "The volume of both letters and parcels has fallen on the Danish postal market",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maengden-af-baade-breve-og-pakker-er-faldet-paa-det-danske-postmarked",
+        "published_date": "2026-07-06 11:07:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Odense Municipality will allocate millions to fight the caterpillar from hell",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/odense-kommune-vil-afsaette-millioner-til-bekaempe-larven-fra-helvede",
+        "published_date": "2026-07-06 10:53:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "21-year-old woman admits fraud for millions",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/21-aarig-kvinde-indroemmer-bedrageri-millioner",
+        "published_date": "2026-07-06 10:25:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pest controllers 'laid down' by wasp related tasks due to the heat",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skadedyrsbekaempere-lagt-ned-af-hvepserelaterede-opgaver-paa-grund-af-varmen",
+        "published_date": "2026-07-06 10:10:07",
         "category": "Local Events"
     }
 ]
