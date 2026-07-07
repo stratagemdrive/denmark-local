@@ -1,5 +1,19 @@
 [
     {
+        "title": "NATO summit in Turkey - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/nato-topmoede-i-tyrkiet-foelg-med-her-2?referrer=RSS",
+        "published_date": "2026-07-07 13:08:07",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Correspondent: Marine Le Pen was convicted \u2013 but the verdict puts her in a difficult dilemma",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/korrespondent-marine-le-pen-blev-doemt--men-dommen-saetter-hende-i-et-svaert-dilemma?referrer=RSS",
+        "published_date": "2026-07-07 12:53:39",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Danish photojournalist accuses UN of complicity in arrest in Uganda",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/dansk-fotojournalist-anklager-fn-for-andel-i-anholdelse-i-uganda?referrer=RSS",
@@ -126,18 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "EU sanctions people for developing poison found in Navalny's body",
+        "title": "Ceasefire in the Middle East - follow here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eu-sanktionerer-personer-for-udvikling-af-gift-fundet-i-navalnyjs-krop?referrer=RSS",
-        "published_date": "2026-07-03 12:18:46",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/vaabenhvile-i-mellemoesten--foelg-med-her-89?referrer=RSS",
+        "published_date": "2026-07-07 12:56:36",
+        "category": "Military"
     },
     {
-        "title": "71-year-old dies in drowning accident during rescue operation at nature park",
+        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/71-aarig-doed-i-drukneulykke-under-redningsaktion-ved-naturpark?referrer=RSS",
-        "published_date": "2026-07-03 11:51:51",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1777?referrer=RSS",
+        "published_date": "2026-07-07 12:43:40",
+        "category": "Military"
+    },
+    {
+        "title": "Woman suspected of Monaco bomb has been found shot dead in Ukraine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kvinde-mistaenkt-for-monaco-bombe-er-fundet-skuddraebt-i-ukraine?referrer=RSS",
+        "published_date": "2026-07-07 12:30:49",
+        "category": "Military"
     },
     {
         "title": "Zelenskyj: Lack of air defense prevented Ukraine from stopping Russian attack",
@@ -364,6 +385,83 @@
         "category": "Economy"
     },
     {
+        "title": "Court finds Le Pen guilty - uncertainty about presidential candidacy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/domstol-finder-le-pen-skyldig-uvished-om-praesidentkandidatur?referrer=RSS",
+        "published_date": "2026-07-07 12:48:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "BLUE BOOK: Bardella continues as crown prince of the French right-wing party",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/blaa-bog-bardella-fortsaetter-som-kronprins-af-fransk-hoejrefloejsparti?referrer=RSS",
+        "published_date": "2026-07-07 12:42:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men are charged with letting boys work with asbestos sheets",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/to-maend-er-tiltalt-for-at-lade-drenge-arbejde-med-asbestplader?referrer=RSS",
+        "published_date": "2026-07-07 12:36:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "BLUE BOOK: Marine Le Pen's appeal has been decided",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/blaa-bog-marine-le-pens-ankesag-er-afgjort?referrer=RSS",
+        "published_date": "2026-07-07 12:30:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The debate about high-rise buildings is important - but I don't understand why the Langelinie project is made a scapegoat",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/debatten-om-hoejhuse-er-vigtig--men-jeg-forstaar-ikke-hvorfor-langelinie-projekt-goeres-til-syndebuk?referrer=RSS",
+        "published_date": "2026-07-07 12:22:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Final signature put on new flight rules - still valid only next year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/endelig-underskrift-sat-paa-nye-flyregler-gaelder-stadig-foerst-naeste-aar",
+        "published_date": "2026-07-07 11:15:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five injured in traditional Spanish bull run",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fem-kommet-til-skade-ved-spansk-traditionsrigt-tyreloeb",
+        "published_date": "2026-07-07 11:14:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "DMI makes new weather reports in Greenland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dmi-laver-nye-vejrmeldinger-i-groenland",
+        "published_date": "2026-07-07 08:17:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u00c9lys\u00e9e Palace confirms: Macron did not hear explosions in Damascus",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/elyseepalaeet-bekraefter-macron-hoerte-ikke-eksplosioner-i-damaskus",
+        "published_date": "2026-07-07 08:02:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Critical problems with home care in Aarhus district",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kritiske-problemer-med-hjemmeplejen-i-aarhus-bydel",
+        "published_date": "2026-07-07 07:37:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Late Iranian leader's coffin arrives in holy city after funeral procession",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/afdoed-iransk-leders-kiste-ankommet-til-hellig-efter-begravelsesoptog",
+        "published_date": "2026-07-07 00:33:09",
+        "category": "Local Events"
+    },
+    {
         "title": "Zelenskyy calls for missiles for cramped Ukrainian air defense",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/zelenskyj-efterlyser-missiler-til-traengt-ukrainsk-luftforsvar?referrer=RSS",
@@ -424,83 +522,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/doedstallet-i-dr-congo-er-nu-over-500-efter-ebolaudbrud",
         "published_date": "2026-07-06 14:52:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police are investigating whether there are accomplices in the case of the death of a Swede",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-efterforsker-om-der-er-medgerningsmaend-i-sag-om-doed-svensker?referrer=RSS",
-        "published_date": "2026-07-06 14:08:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anne Hjern\u00f8e's intentions are not enough: A sweet, but messy, round of gossip about grief",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/litteratur/anne-hjernoees-intentioner-er-ikke-nok-en-soed-men-rodet-omgang-sniksnak-om-sorg?referrer=RSS",
-        "published_date": "2026-07-06 14:05:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Private creditors can be powerless against bad payers.With one simple change in the law, we can do something about it",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/private-kreditorer-kan-staa-magtesloese-over-for-daarlige-betalere-med-en-simpel-lovaendring-kan-vi-goere-noget-ved-det?referrer=RSS",
-        "published_date": "2026-07-06 13:51:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Beef and chicken kebabs are being recalled after plastic was found",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/okse-og-kyllingekebab-tilbagekaldes-efter-fund-af-plastik",
-        "published_date": "2026-07-06 13:33:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expert: If the picture is correct, it is deeply problematic",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ekspert-hvis-billedet-er-korrekt-er-det-dybt-problematisk?referrer=RSS",
-        "published_date": "2026-07-06 13:26:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "TV 2 flatly rejects speculation about commemoration: We had to cut a long session down to a few seconds",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/tv-2-afviser-lodret-spekulationer-om-mindehoejtidelighed-vi-skulle-klippe-en-lang-seance-ned-til-faa-sekunder?referrer=RSS",
-        "published_date": "2026-07-06 13:17:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prince Harry can't spend the night at Buckingham Palace anyway",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/prins-harry-kan-ikke-overnatte-paa-buckingham-palace-alligevel?referrer=RSS",
-        "published_date": "2026-07-06 13:15:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Amira Smajic is sentenced to prison and a million fine in a fraud case",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/amira-smajic-idoemmes-faengsel-og-millionboede-i-svindelsag?referrer=RSS",
-        "published_date": "2026-07-06 13:14:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Beef and chicken kebabs are being recalled after plastic was found",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/okse-og-kyllingekebab-tilbagekaldes-efter-fund-af-plastik?referrer=RSS",
-        "published_date": "2026-07-06 13:07:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Odense municipality sets aside millions to combat 'caterpillar from hell'",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260706/odense-municipality-sets-aside-millions-to-combat-caterpillar-from-hell",
-        "published_date": "2026-07-06 13:02:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train buses are deployed between Ringsted and Nyborg at the weekend",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/togbusser-bliver-indsat-mellem-ringsted-og-nyborg-i-weekenden",
-        "published_date": "2026-07-06 12:51:53",
         "category": "Local Events"
     }
 ]
