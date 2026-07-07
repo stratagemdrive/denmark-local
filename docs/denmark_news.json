@@ -1,5 +1,19 @@
 [
     {
+        "title": "Italian holiday town issues fines for topless or swimwear tourists on the street",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/italiensk-ferieby-uddeler-boeder-til-turister-i-bar-overkrop-eller-badetoej-paa-gaden",
+        "published_date": "2026-07-07 17:37:13",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Danish lifeguards warn parents to keep an eye on their children this summer",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260707/danish-lifeguards-warn-parents-to-keep-an-eye-on-their-children-this-summer",
+        "published_date": "2026-07-07 13:54:40",
+        "category": "Diplomacy"
+    },
+    {
         "title": "NATO summit in Turkey - follow here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/nato-topmoede-i-tyrkiet-foelg-med-her-2?referrer=RSS",
@@ -126,18 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Six Russian scientists are sanctioned by the EU for having developed poison",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/seks-russiske-videnskabsfolk-sanktioneres-af-eu-have-udviklet-gift",
-        "published_date": "2026-07-03 12:45:56",
-        "category": "Diplomacy"
+        "title": "US military carries out heavy attacks in Iran",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/amerikansk-militaer-udfoerer-kraftige-angreb-i-iran?referrer=RSS",
+        "published_date": "2026-07-07 22:53:49",
+        "category": "Military"
     },
     {
-        "title": "The truth was clear in Copenhagen: It is Europe that fears China \u2013 not the other way around",
+        "title": "New Russian airstrikes ignite fires in Ukraine's capital",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/sandheden-stod-klart-i-koebenhavn-det-er-europa-der-frygter-kina--ikke-omvendt?referrer=RSS",
-        "published_date": "2026-07-03 12:38:54",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/nye-russiske-luftangreb-antaender-brande-i-ukraines-hovedstad?referrer=RSS",
+        "published_date": "2026-07-07 22:27:49",
+        "category": "Military"
+    },
+    {
+        "title": "USA: We have launched heavy attacks against Iran",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-vi-udfoerer-kraftige-angreb-mod-iran",
+        "published_date": "2026-07-07 21:39:32",
+        "category": "Military"
+    },
+    {
+        "title": "Seven people are reported killed in Israeli attacks in the Gaza Strip",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/syv-personer-meldes-draebt-i-israelske-angreb-i-gazastriben?referrer=RSS",
+        "published_date": "2026-07-07 21:14:51",
+        "category": "Military"
     },
     {
         "title": "Ceasefire in the Middle East - follow here",
@@ -231,13 +259,6 @@
         "category": "Military"
     },
     {
-        "title": "Dream ships or strategic mistake?Nobody asks the uncomfortable questions about the Nordic defense billions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/droemmeskibe-eller-strategisk-fejltagelse-ingen-stiller-de-ubehagelige-spoergsmaal-om-nordens-forsvarsmilliarder?referrer=RSS",
-        "published_date": "2026-06-29 14:13:22",
-        "category": "Military"
-    },
-    {
         "title": "Biogas production in Denmark reaches milestone",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/biogasproduktion-i-danmark-naar-milepael",
@@ -308,20 +329,6 @@
         "category": "Energy"
     },
     {
-        "title": "Gas leaks in Randers have stopped",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/gasudslip-i-randers-er-stoppet",
-        "published_date": "2026-06-29 15:14:53",
-        "category": "Energy"
-    },
-    {
-        "title": "Breakage of a gas line closes the approach road in Randers",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brud-paa-gasledning-lukker-indfaldsvej-i-randers",
-        "published_date": "2026-06-29 13:59:40",
-        "category": "Energy"
-    },
-    {
         "title": "Five new iPhones on the way \u2013 and they will be significantly more expensive",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/fem-nye-iphones-paa-vej--og-de-bliver-betydelig-dyrere?referrer=RSS",
@@ -385,6 +392,97 @@
         "category": "Economy"
     },
     {
+        "title": "Switzerland send Colombia out of the World Cup after penalty drama",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/schweiz-sender-colombia-ud-af-vm-efter-straffedrama?referrer=RSS",
+        "published_date": "2026-07-07 23:02:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuela raises death toll to 3,685 after earthquake",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/venezuela-opjusterer-doedstal-til-3685-efter-jordskaelv?referrer=RSS",
+        "published_date": "2026-07-07 22:44:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Djokovic is ready to bang against Sinner at Wimbledon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/djokovic-er-klar-til-brag-mod-sinner-i-wimbledon?referrer=RSS",
+        "published_date": "2026-07-07 22:02:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Le Pen found a cat limb and is now running.But will Bardella accept broken promises?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/le-pen-fandt-en-kattelem-og-stiller-nu-op-men-vil-bardella-acceptere-brudte-loefter?referrer=RSS",
+        "published_date": "2026-07-07 20:34:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Netanyahu again warns Trump against selling fighter jets to Turkey",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/netanyahu-advarer-igen-trump-mod-at-saelge-kampfly-til-tyrkiet?referrer=RSS",
+        "published_date": "2026-07-07 20:09:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Large scaffolding overturned in the middle of N\u00f8rrebrogade in Copenhagen - man in critical condition",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/stort-stillads-vaeltet-midt-paa-noerrebrogade-i-koebenhavn-mand-i-kritisk-tilstand?referrer=RSS",
+        "published_date": "2026-07-07 19:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A furious Nigel Farage promised a showdown with the elite.But now the other parties are taking the fuse on him",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/en-rasende-nigel-farage-lovede-et-opgoer-med-eliten-men-nu-tager-de-andre-partier-fusen-paa-ham?referrer=RSS",
+        "published_date": "2026-07-07 19:35:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spanish and Dutch police confiscate almost a ton of MDMA",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/spansk-og-hollandsk-politi-konfiskerer-knap-et-ton-mdma",
+        "published_date": "2026-07-07 16:06:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are investigating two suspicious deaths in Greenland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterforsker-mistaenkelige-doedsfald-i-groenland",
+        "published_date": "2026-07-07 14:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Problem larvae cross yet another municipal boundary",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/problemlarve-krydser-endnu-en-kommunegraense",
+        "published_date": "2026-07-07 14:41:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Many use health apps: It makes the healthcare system more efficient, says chief physician",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mange-bruger-sundhedsapp-det-effektiviserer-sundhedsvaesenet-siger-overlaege",
+        "published_date": "2026-07-07 14:27:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nigel Farage is retiring as a member of parliament - but is running for new elections for his own seat",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nigel-farage-traekker-sig-som-medlem-af-parlamentet-men-stiller-op-til-nyvalg-om-sin-egen-plads",
+        "published_date": "2026-07-07 13:43:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court rejects lawsuit by Prince Harry and other celebrities against publisher of Daily Mail",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/domstol-afviser-prins-harrys-og-andre-kendtes-soegsmaal-mod-daily-mails-udgiver",
+        "published_date": "2026-07-07 13:22:06",
+        "category": "Local Events"
+    },
+    {
         "title": "Court finds Le Pen guilty - uncertainty about presidential candidacy",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/domstol-finder-le-pen-skyldig-uvished-om-praesidentkandidatur?referrer=RSS",
@@ -420,108 +518,17 @@
         "category": "Local Events"
     },
     {
+        "title": "Copenhagen crowned world's most liveable city for second year in a row",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260707/copenhagen-crowned-worlds-most-liveable-city-for-second-year-in-a-row",
+        "published_date": "2026-07-07 11:26:40",
+        "category": "Local Events"
+    },
+    {
         "title": "Final signature put on new flight rules - still valid only next year",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/endelig-underskrift-sat-paa-nye-flyregler-gaelder-stadig-foerst-naeste-aar",
         "published_date": "2026-07-07 11:15:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five injured in traditional Spanish bull run",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fem-kommet-til-skade-ved-spansk-traditionsrigt-tyreloeb",
-        "published_date": "2026-07-07 11:14:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "DMI makes new weather reports in Greenland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dmi-laver-nye-vejrmeldinger-i-groenland",
-        "published_date": "2026-07-07 08:17:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u00c9lys\u00e9e Palace confirms: Macron did not hear explosions in Damascus",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/elyseepalaeet-bekraefter-macron-hoerte-ikke-eksplosioner-i-damaskus",
-        "published_date": "2026-07-07 08:02:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Critical problems with home care in Aarhus district",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kritiske-problemer-med-hjemmeplejen-i-aarhus-bydel",
-        "published_date": "2026-07-07 07:37:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Late Iranian leader's coffin arrives in holy city after funeral procession",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/afdoed-iransk-leders-kiste-ankommet-til-hellig-efter-begravelsesoptog",
-        "published_date": "2026-07-07 00:33:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zelenskyy calls for missiles for cramped Ukrainian air defense",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/zelenskyj-efterlyser-missiler-til-traengt-ukrainsk-luftforsvar?referrer=RSS",
-        "published_date": "2026-07-06 23:42:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Florida poet loses plagiarism case against Taylor Swift",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/digter-i-florida-taber-plagiatsag-mod-taylor-swift?referrer=RSS",
-        "published_date": "2026-07-06 23:20:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Balogun starts against Belgium after controversial Fifa decision",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/balogun-starter-mod-belgien-efter-kontroversiel-fifa-beslutning?referrer=RSS",
-        "published_date": "2026-07-06 23:13:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Khamenei's coffin arrives by helicopter in holy city in Iran",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/khameneis-kiste-ankommer-med-helikopter-til-hellig-by-i-iran?referrer=RSS",
-        "published_date": "2026-07-06 21:33:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain ends Ronaldo's final World Cup adventure",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/spanien-goer-ende-paa-ronaldos-sidste-vm-eventyr?referrer=RSS",
-        "published_date": "2026-07-06 21:12:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Newly trained midwives leave the delivery room after a few years",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/nyuddannede-jordemoedre-forlader-foedegange-efter-faa-aar?referrer=RSS",
-        "published_date": "2026-07-06 20:19:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Christian Lundgaard is done with McLaren after the season",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/christian-lundgaard-er-faerdig-hos-mclaren-efter-saesonen?referrer=RSS",
-        "published_date": "2026-07-06 19:52:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Well-known Muslim scholar participates in the Ayatollah's funeral ceremony: \"Martyrs never die\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/kendt-muslimsk-laerd-deltager-i-ayatollahens-begravelsesceremoni-martyrer-doer-aldrig?referrer=RSS",
-        "published_date": "2026-07-06 19:33:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "The death toll in DR Congo is now over 500 after the Ebola outbreak",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-i-dr-congo-er-nu-over-500-efter-ebolaudbrud",
-        "published_date": "2026-07-06 14:52:53",
         "category": "Local Events"
     }
 ]
