@@ -1,5 +1,26 @@
 [
     {
+        "title": "Russia describes Nato promises to Ukraine as irresponsible",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rusland-betegner-nato-loefter-til-ukraine-som-uansvarlige?referrer=RSS",
+        "published_date": "2026-07-08 23:22:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Amalie Lyhne:\u00a0If we want to defend Europe, we need the EU",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/amalie-lyhnehvis-vi-vil-forsvare-europa-har-vi-brug-for-eu?referrer=RSS",
+        "published_date": "2026-07-08 20:22:58",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "ECB warns the biggest banks: Get ready for AI attacks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/ecb-advarer-de-stoerste-banker-goer-jer-klar-til-ai-angreb?referrer=RSS",
+        "published_date": "2026-07-08 19:43:40",
+        "category": "Diplomacy"
+    },
+    {
         "title": "NATO summit in Turkey - follow here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/nato-topmoede-i-tyrkiet--foelg-med-her-2?referrer=RSS",
@@ -119,25 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The \"rivalry\" between two central figures in the EU is intensifying.And now Kallas risks being played out on the sidelines",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rivaliseringen-mellem-to-centrale-skikkelser-i-eu-spidser-til-og-nu-risikerer-kallas-at-blive-spillet-ud-paa-sidelinjen?referrer=RSS",
-        "published_date": "2026-07-05 10:29:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Can Messerschmidt become prime minister?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/kan-messerschmidt-blive-statsminister?referrer=RSS",
-        "published_date": "2026-07-05 10:24:36",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Trump and Putin have spoken on the phone together about Ukraine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-og-putin-har-talt-i-telefon-sammen-om-ukraine?referrer=RSS",
-        "published_date": "2026-07-04 22:37:47",
-        "category": "Diplomacy"
+        "title": "Trump: We are giving Ukraine a license for the American Patriot system",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-vi-giver-ukraine-licens-til-det-amerikanske-patriot-system",
+        "published_date": "2026-07-08 13:57:23",
+        "category": "Military"
     },
     {
         "title": "Ceasefire in the Middle East - follow here",
@@ -266,13 +273,6 @@
         "category": "Military"
     },
     {
-        "title": "Ukraine in contact with Monaco after suspected assassination attempt",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-i-kontakt-med-monaco-efter-formodet-attentat",
-        "published_date": "2026-06-30 13:14:32",
-        "category": "Military"
-    },
-    {
         "title": "Biogas production in Denmark reaches milestone",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/biogasproduktion-i-danmark-naar-milepael",
@@ -312,13 +312,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/tommy-ahlers-bliver-ny-formand-for-energinet?referrer=RSS",
         "published_date": "2026-07-02 12:06:38",
-        "category": "Energy"
-    },
-    {
-        "title": "Energinet is moving over 32,000 customers to new electricity suppliers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/energinet-flytter-over-32000-kunder-til-nye-elleverandoerer?referrer=RSS",
-        "published_date": "2026-06-30 12:53:53",
         "category": "Energy"
     },
     {
@@ -378,6 +371,97 @@
         "category": "Economy"
     },
     {
+        "title": "Author gets 33 million from Trump in case of abuse",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/forfatter-faar-33-millioner-fra-trump-i-sag-om-overgreb?referrer=RSS",
+        "published_date": "2026-07-08 23:48:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "S-trains are running again to and from Copenhagen H: Expect longer journey times",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/s-tog-koerer-igen-til-og-fra-koebenhavn-h-forvent-laengere-rejsetid?referrer=RSS",
+        "published_date": "2026-07-08 22:53:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US carries out attacks against Iran for the second day in a row",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-gennemfoerer-angreb-mod-iran-for-anden-dag-i-traek?referrer=RSS",
+        "published_date": "2026-07-08 21:50:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "S-train traffic at Copenhagen H has resumed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/personpaakoersel-stopper-s-togstrafikken-ved-koebenhavn-h",
+        "published_date": "2026-07-08 21:22:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Therefore, we must examine Denmark's international missions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/derfor-skal-vi-undersoege-danmarks-internationale-missioner?referrer=RSS",
+        "published_date": "2026-07-08 20:58:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Beach in L\u00f8kken closed after finding a possible mine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/strand-i-loekken-afspaerret-efter-fund-af-mulig-mine?referrer=RSS",
+        "published_date": "2026-07-08 20:15:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US will remove Syria from the terrorist support list",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-vil-fjerne-syrien-fra-terrorstoetteliste?referrer=RSS",
+        "published_date": "2026-07-08 20:02:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Why is Trump changing Washington forever?Expert has a theory - and it is hair-raising",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/usa/hvorfor-er-trump-i-gang-med-at-aendre-washington-for-evigt-ekspert-har-en-teori--og-den-er-haarrejsende?referrer=RSS",
+        "published_date": "2026-07-08 19:54:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Possible mine found on L\u00f8kken beach - the public is asked to keep their distance",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mulig-mine-fundet-paa-loekken-strand-offentligheden-bedes-holde-afstand",
+        "published_date": "2026-07-08 19:14:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "A fire in waste produces heavy smoke near Grindsted",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brand-i-affald-udvikler-kraftig-roeg-naer-grindsted",
+        "published_date": "2026-07-08 19:13:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Record festival in North Jutland despite rain and debris",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rekordfestival-i-nordjylland-trods-regn-og-rusk",
+        "published_date": "2026-07-08 15:12:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former V politician and party founder is dead: He was 34 years old",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/odense/tidligere-v-politiker-og-partistifter-er-doed-han-blev-34-aar?rss",
+        "published_date": "2026-07-08 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The royal couple will be on a state visit to Belgium",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kongeparret-skal-paa-statsbesoeg-i-belgien",
+        "published_date": "2026-07-08 12:42:43",
+        "category": "Local Events"
+    },
+    {
         "title": "The army's largest combat unit moves its headquarters to Fredericia",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/haerens-stoerste-kampenhed-flytter-sit-hovedkvarter-til-fredericia",
@@ -424,97 +508,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260708/its-important-for-the-us-not-denmark-trump-insists-he-still-wants-greenland",
         "published_date": "2026-07-08 11:55:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "German doctor gets life for killing 15 patients",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tysk-laege-faar-livstid-for-drab-paa-15-patienter?referrer=RSS",
-        "published_date": "2026-07-08 11:49:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The state continues its battle against TDC in the Supreme Court",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/staten-fortsaetter-opgoer-mod-tdc-i-hoejesteret?referrer=RSS",
-        "published_date": "2026-07-08 11:36:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "20-year-old Swede convicted of attempted murder in Copenhagen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/20-aarig-svensker-doemt-drabsforsoeg-i-koebenhavn",
-        "published_date": "2026-07-08 11:33:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Longer waiting time at passport control at Copenhagen Airport",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/laengere-ventetid-i-paskontrollen-i-koebenhavns-lufthavn",
-        "published_date": "2026-07-08 11:27:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark will share the costs of new aircraft with Germany",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danmark-vil-dele-udgifter-til-nye-fly-med-tyskland",
-        "published_date": "2026-07-08 10:46:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "248 protesters win case against the police",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/248-demonstranter-vinder-sag-mod-politiet-2",
-        "published_date": "2026-07-08 10:02:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of low-value parcels has halved after a week of new duties",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-pakker-med-lav-vaerdi-er-halveret-efter-en-uge-med-ny-told",
-        "published_date": "2026-07-08 09:14:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hellworm larvae found in wood in West Jutland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/helvedeslarve-fundet-i-trae-i-vestjylland",
-        "published_date": "2026-07-08 09:13:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fynsk municipality with rapid response to hellworms",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fynsk-kommune-med-lynindsats-over-helvedes-larve",
-        "published_date": "2026-07-08 08:45:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump wants to stop trade with Spain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-vil-stoppe-handel-med-spanien",
-        "published_date": "2026-07-08 08:29:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "33-year-old remanded in custody for two-year-old rape",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/33-aarig-anholdt-aar-gammel-voldtaegt",
-        "published_date": "2026-07-08 08:10:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gigant bleeds 227 million - even though they slaughter 1.2 million more pigs",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/vejen/gigant-bag-lokalt-slagteri-taber-227-millioner-kroner?rss",
-        "published_date": "2026-07-08 08:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of people infected with Ebola is increasing in the DR Congo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-ebola-smittede-stiger-i-dr-congo",
-        "published_date": "2026-07-08 07:59:29",
         "category": "Local Events"
     }
 ]
