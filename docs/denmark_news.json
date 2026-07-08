@@ -1,5 +1,40 @@
 [
     {
+        "title": "NATO summit in Turkey - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/nato-topmoede-i-tyrkiet--foelg-med-her-2?referrer=RSS",
+        "published_date": "2026-07-08 12:07:40",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "L\u00f8kke expects a solution about Greenland despite statements from Trump",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/loekke-forventer-loesning-om-groenland-trods-udtalelser-fra-trump?referrer=RSS",
+        "published_date": "2026-07-08 11:52:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Danish migration minister to discuss deportation centres with EU ministers",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260708/danish-migration-minister-to-discuss-deportation-centres-with-eu-ministers",
+        "published_date": "2026-07-08 11:17:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260708/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-61",
+        "published_date": "2026-07-08 08:27:19",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Kyiv hit by Russian missiles while Nato summit underway",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kyiv-ramt-af-russiske-missiler-mens-nato-topmoede-er-i-gang",
+        "published_date": "2026-07-08 02:01:09",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Italian holiday town issues fines for topless or swimwear tourists on the street",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/italiensk-ferieby-uddeler-boeder-til-turister-i-bar-overkrop-eller-badetoej-paa-gaden",
@@ -105,39 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "L\u00f8kke in grief and anger over the death of a Swedish man after violence in Copenhagen",
+        "title": "Ceasefire in the Middle East - follow here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/loekke-i-sorg-og-vrede-over-svensk-mands-doed-efter-vold-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-07-04 21:17:46",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/vaabenhvile-i-mellemoesten--foelg-med-her-91?referrer=RSS",
+        "published_date": "2026-07-08 12:09:32",
+        "category": "Military"
     },
     {
-        "title": "It's the last call: a new major reform package must kick off in Germany",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/det-er-sidste-udkald-ny-stor-reformpakke-skal-sparke-gang-i-tyskland?referrer=RSS",
-        "published_date": "2026-07-04 19:15:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "One for the history books: what we know about the European heatwave",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260704/one-for-the-history-books-what-we-know-about-the-european-heatwave",
-        "published_date": "2026-07-04 09:32:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The Pope: EU leaders must take better care of migrants",
+        "title": "Ukraine: We have attacked nine Russian ships from the 'shadow fleet'",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/paven-eu-ledere-skal-tage-bedre-haand-om-migranter",
-        "published_date": "2026-07-04 09:23:41",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "'Lot of work' needed to resolve Europe's border travel woes, EU chief admits",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260703/lot-of-work-needed-to-resolve-europes-border-travel-woes-eu-chief-admits",
-        "published_date": "2026-07-03 16:41:03",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-vi-har-angrebet-ni-russiske-skibe-fra-skyggeflaaden",
+        "published_date": "2026-07-08 07:39:59",
+        "category": "Military"
     },
     {
         "title": "US military carries out heavy attacks in Iran",
@@ -308,25 +322,11 @@
         "category": "Energy"
     },
     {
-        "title": "Criminal case against energy traders for million dollar fraud is dropped",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/straffesag-mod-energihandlere-om-millionsvindel-droppes",
-        "published_date": "2026-06-30 12:02:42",
-        "category": "Energy"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260630/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-53",
-        "published_date": "2026-06-30 08:06:59",
-        "category": "Energy"
-    },
-    {
-        "title": "Power outages in Copenhagen and Kastrup",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stroemafbrydelser-i-koebenhavn-og-kastrup",
-        "published_date": "2026-06-30 04:52:12",
-        "category": "Energy"
+        "title": "Nykredit obscures figures in the debate on home loans",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/nykredit-moerklaegger-tal-i-debat-om-boliglaan?referrer=RSS",
+        "published_date": "2026-07-08 12:06:36",
+        "category": "Economy"
     },
     {
         "title": "Five new iPhones on the way \u2013 and they will be significantly more expensive",
@@ -378,157 +378,143 @@
         "category": "Economy"
     },
     {
-        "title": "Follow the case in court: Main character pleads guilty in case of fraud and tax evasion for millions",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/foelg-med-den-sorte-svane-sigtet-i-ny-sag-om-bedrageri-og-skattesnyd-for-millioner?rss",
-        "published_date": "2026-06-30 09:33:16",
-        "category": "Economy"
-    },
-    {
-        "title": "The Danish economy is growing",
+        "title": "The army's largest combat unit moves its headquarters to Fredericia",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-oekonomi-vokser",
-        "published_date": "2026-06-30 06:33:40",
-        "category": "Economy"
-    },
-    {
-        "title": "Switzerland send Colombia out of the World Cup after penalty drama",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/schweiz-sender-colombia-ud-af-vm-efter-straffedrama?referrer=RSS",
-        "published_date": "2026-07-07 23:02:47",
+        "url": "https://www.dr.dk/nyheder/seneste/haerens-stoerste-kampenhed-flytter-sit-hovedkvarter-til-fredericia",
+        "published_date": "2026-07-08 12:07:37",
         "category": "Local Events"
     },
     {
-        "title": "Venezuela raises death toll to 3,685 after earthquake",
+        "title": "World Cup in football - get the latest news here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/venezuela-opjusterer-doedstal-til-3685-efter-jordskaelv?referrer=RSS",
-        "published_date": "2026-07-07 22:44:48",
+        "url": "https://www.berlingske.dk/sport/vm-i-fodbold--faa-seneste-nyt-her-2?referrer=RSS",
+        "published_date": "2026-07-08 12:05:49",
         "category": "Local Events"
     },
     {
-        "title": "Djokovic is ready to bang against Sinner at Wimbledon",
+        "title": "248 protesters win in principle against the police",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/djokovic-er-klar-til-brag-mod-sinner-i-wimbledon?referrer=RSS",
-        "published_date": "2026-07-07 22:02:50",
+        "url": "https://www.berlingske.dk/indland/248-demonstranter-vinder-i-principiel-sag-mod-politiet?referrer=RSS",
+        "published_date": "2026-07-08 12:01:44",
         "category": "Local Events"
     },
     {
-        "title": "Le Pen found a cat limb and is now running.But will Bardella accept broken promises?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/le-pen-fandt-en-kattelem-og-stiller-nu-op-men-vil-bardella-acceptere-brudte-loefter?referrer=RSS",
-        "published_date": "2026-07-07 20:34:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Netanyahu again warns Trump against selling fighter jets to Turkey",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/netanyahu-advarer-igen-trump-mod-at-saelge-kampfly-til-tyrkiet?referrer=RSS",
-        "published_date": "2026-07-07 20:09:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Large scaffolding overturned in the middle of N\u00f8rrebrogade in Copenhagen - man in critical condition",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/stort-stillads-vaeltet-midt-paa-noerrebrogade-i-koebenhavn-mand-i-kritisk-tilstand?referrer=RSS",
-        "published_date": "2026-07-07 19:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A furious Nigel Farage promised a showdown with the elite.But now the other parties are taking the fuse on him",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-rasende-nigel-farage-lovede-et-opgoer-med-eliten-men-nu-tager-de-andre-partier-fusen-paa-ham?referrer=RSS",
-        "published_date": "2026-07-07 19:35:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spanish and Dutch police confiscate almost a ton of MDMA",
+        "title": "The state appeals the case against TDC - now the Supreme Court has to decide",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/spansk-og-hollandsk-politi-konfiskerer-knap-et-ton-mdma",
-        "published_date": "2026-07-07 16:06:27",
+        "url": "https://www.dr.dk/nyheder/seneste/staten-anker-sag-mod-tdc-nu-skal-hoejesteret-afgoere-det",
+        "published_date": "2026-07-08 11:59:29",
         "category": "Local Events"
     },
     {
-        "title": "The police are investigating two suspicious deaths in Greenland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterforsker-mistaenkelige-doedsfald-i-groenland",
-        "published_date": "2026-07-07 14:55:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Problem larvae cross yet another municipal boundary",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/problemlarve-krydser-endnu-en-kommunegraense",
-        "published_date": "2026-07-07 14:41:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Many use health apps: It makes the healthcare system more efficient, says chief physician",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mange-bruger-sundhedsapp-det-effektiviserer-sundhedsvaesenet-siger-overlaege",
-        "published_date": "2026-07-07 14:27:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nigel Farage is retiring as a member of parliament - but is running for new elections for his own seat",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nigel-farage-traekker-sig-som-medlem-af-parlamentet-men-stiller-op-til-nyvalg-om-sin-egen-plads",
-        "published_date": "2026-07-07 13:43:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court rejects lawsuit by Prince Harry and other celebrities against publisher of Daily Mail",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/domstol-afviser-prins-harrys-og-andre-kendtes-soegsmaal-mod-daily-mails-udgiver",
-        "published_date": "2026-07-07 13:22:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court finds Le Pen guilty - uncertainty about presidential candidacy",
+        "title": "The army's largest combat unit moves its headquarters to Fredericia",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/domstol-finder-le-pen-skyldig-uvished-om-praesidentkandidatur?referrer=RSS",
-        "published_date": "2026-07-07 12:48:51",
+        "url": "https://www.berlingske.dk/politik/haerens-stoerste-kampenhed-flytter-hovedkvarter-til-fredericia?referrer=RSS",
+        "published_date": "2026-07-08 11:55:53",
         "category": "Local Events"
     },
     {
-        "title": "BLUE BOOK: Bardella continues as crown prince of the French right-wing party",
+        "title": "Former DIF chairman expects an almost full comeback to Russia",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/blaa-bog-bardella-fortsaetter-som-kronprins-af-fransk-hoejrefloejsparti?referrer=RSS",
-        "published_date": "2026-07-07 12:42:48",
+        "url": "https://www.berlingske.dk/sport/tidligere-dif-formand-forventer-naesten-fuldt-comeback-til-rusland?referrer=RSS",
+        "published_date": "2026-07-08 11:55:48",
         "category": "Local Events"
     },
     {
-        "title": "Two men are charged with letting boys work with asbestos sheets",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/to-maend-er-tiltalt-for-at-lade-drenge-arbejde-med-asbestplader?referrer=RSS",
-        "published_date": "2026-07-07 12:36:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "BLUE BOOK: Marine Le Pen's appeal has been decided",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/blaa-bog-marine-le-pens-ankesag-er-afgjort?referrer=RSS",
-        "published_date": "2026-07-07 12:30:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The debate about high-rise buildings is important - but I don't understand why the Langelinie project is made a scapegoat",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/debatten-om-hoejhuse-er-vigtig--men-jeg-forstaar-ikke-hvorfor-langelinie-projekt-goeres-til-syndebuk?referrer=RSS",
-        "published_date": "2026-07-07 12:22:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen crowned world's most liveable city for second year in a row",
+        "title": "'It's important for the US not Denmark': Trump insists he still wants Greenland",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260707/copenhagen-crowned-worlds-most-liveable-city-for-second-year-in-a-row",
-        "published_date": "2026-07-07 11:26:40",
+        "url": "https://www.thelocal.dk/20260708/its-important-for-the-us-not-denmark-trump-insists-he-still-wants-greenland",
+        "published_date": "2026-07-08 11:55:11",
         "category": "Local Events"
     },
     {
-        "title": "Final signature put on new flight rules - still valid only next year",
+        "title": "German doctor gets life for killing 15 patients",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tysk-laege-faar-livstid-for-drab-paa-15-patienter?referrer=RSS",
+        "published_date": "2026-07-08 11:49:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The state continues its battle against TDC in the Supreme Court",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/staten-fortsaetter-opgoer-mod-tdc-i-hoejesteret?referrer=RSS",
+        "published_date": "2026-07-08 11:36:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "20-year-old Swede convicted of attempted murder in Copenhagen",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/endelig-underskrift-sat-paa-nye-flyregler-gaelder-stadig-foerst-naeste-aar",
-        "published_date": "2026-07-07 11:15:44",
+        "url": "https://www.dr.dk/nyheder/seneste/20-aarig-svensker-doemt-drabsforsoeg-i-koebenhavn",
+        "published_date": "2026-07-08 11:33:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Longer waiting time at passport control at Copenhagen Airport",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/laengere-ventetid-i-paskontrollen-i-koebenhavns-lufthavn",
+        "published_date": "2026-07-08 11:27:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark will share the costs of new aircraft with Germany",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danmark-vil-dele-udgifter-til-nye-fly-med-tyskland",
+        "published_date": "2026-07-08 10:46:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "248 protesters win case against the police",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/248-demonstranter-vinder-sag-mod-politiet-2",
+        "published_date": "2026-07-08 10:02:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of low-value parcels has halved after a week of new duties",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-pakker-med-lav-vaerdi-er-halveret-efter-en-uge-med-ny-told",
+        "published_date": "2026-07-08 09:14:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hellworm larvae found in wood in West Jutland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/helvedeslarve-fundet-i-trae-i-vestjylland",
+        "published_date": "2026-07-08 09:13:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fynsk municipality with rapid response to hellworms",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fynsk-kommune-med-lynindsats-over-helvedes-larve",
+        "published_date": "2026-07-08 08:45:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump wants to stop trade with Spain",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-vil-stoppe-handel-med-spanien",
+        "published_date": "2026-07-08 08:29:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "33-year-old remanded in custody for two-year-old rape",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/33-aarig-anholdt-aar-gammel-voldtaegt",
+        "published_date": "2026-07-08 08:10:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gigant bleeds 227 million - even though they slaughter 1.2 million more pigs",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/vejen/gigant-bag-lokalt-slagteri-taber-227-millioner-kroner?rss",
+        "published_date": "2026-07-08 08:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of people infected with Ebola is increasing in the DR Congo",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-ebola-smittede-stiger-i-dr-congo",
+        "published_date": "2026-07-08 07:59:29",
         "category": "Local Events"
     }
 ]
