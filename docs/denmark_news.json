@@ -273,13 +273,6 @@
         "category": "Military"
     },
     {
-        "title": "Zelenskyj rushes home from Ireland and warns of a major Russian attack",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/zelenskyj-haster-hjem-fra-irland-og-advarer-om-stort-russisk-angreb?referrer=RSS",
-        "published_date": "2026-07-01 23:25:49",
-        "category": "Military"
-    },
-    {
         "title": "Biogas production in Denmark reaches milestone",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/biogasproduktion-i-danmark-naar-milepael",
@@ -385,6 +378,111 @@
         "category": "Economy"
     },
     {
+        "title": "In a phone call, Trump has briefed Netanyahu on measures in the Gulf",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-har-i-telefonopkald-orienteret-netanyahu-om-tiltag-i-golfen?referrer=RSS",
+        "published_date": "2026-07-09 23:44:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Airport in Florida officially renamed in honor of Trump",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/lufthavn-i-florida-omdoebes-officielt-til-aere-for-trump?referrer=RSS",
+        "published_date": "2026-07-09 23:41:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "French stars drain Morocco and play their way into the World Cup semi-finals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/franske-stjerner-draener-marokko-og-spiller-sig-i-vm-semifinalen?referrer=RSS",
+        "published_date": "2026-07-09 22:09:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll in Venezuela nears 4000 after earthquake",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/doedstal-i-venezuela-naermer-sig-4000-efter-jordskaelv?referrer=RSS",
+        "published_date": "2026-07-09 22:05:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Volkswagen will close factories and cut 100,000 jobs",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/volkswagen-vil-nedlaegge-fabrikker-og-skaere-100000-job?referrer=RSS",
+        "published_date": "2026-07-09 21:55:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll from earthquake in Venezuela reaches 3,889",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-efter-jordskaelv-i-venezuela-naar-3-889",
+        "published_date": "2026-07-09 21:43:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trade union activity should not be protected from debate and prioritization",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/fagforeningsaktivitet-boer-ikke-vaere-fredet-fra-debat-og-prioritering?referrer=RSS",
+        "published_date": "2026-07-09 21:21:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aarhusians are strongly encouraged to keep their distance from humpback whales",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/aarhusianere-opfordres-kraftigt-til-at-holde-afstand-til-pukkelhval?referrer=RSS",
+        "published_date": "2026-07-09 20:27:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Extremely small demonstration held firm in protest against TV 2: \"No football party over a lost life\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/ekstrem-lille-demonstration-holdt-fast-i-protest-mod-tv-2-ingen-fodboldfest-over-et-mistet-liv?referrer=RSS",
+        "published_date": "2026-07-09 20:27:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "The greatest loss of culture occurs when we can no longer tell the difference",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/det-stoerste-kulturtab-sker-naar-vi-ikke-laengere-kan-kende-forskel?referrer=RSS",
+        "published_date": "2026-07-09 20:18:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Rolling Stones continue their creative renaissance, say critics",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/the-rolling-stones-fortsaetter-kreativ-renaessance-mener-anmeldere?referrer=RSS",
+        "published_date": "2026-07-09 20:17:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish Environmental Protection Agency: Keep your distance from whales in Aarhus",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/miljoestyrelsen-hold-afstand-til-hval-i-aarhus",
+        "published_date": "2026-07-09 19:16:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Airport in Palm Beach is named after Donald Trump",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lufthavn-i-palm-beach-opkaldes-efter-donald-trump",
+        "published_date": "2026-07-09 18:43:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police: Leave the radio playing, the laundry hanging and make sure the mailbox is emptied",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-lad-radioen-spille-vasketoejet-haenge-og-soerg-postkassen-bliver-toemt",
+        "published_date": "2026-07-09 16:35:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "28 lose their lives in a fire at a shoe factory in China",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/28-mister-livet-i-brand-paa-skofabrik-i-kina",
+        "published_date": "2026-07-09 15:31:15",
+        "category": "Local Events"
+    },
+    {
         "title": "Danfoss in billion acquisition: Takes over industrial group with 4,500 employees",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/soenderborg/danfoss-i-milliardopkoeb-overtager-industrikoncern-med-4-500-ansatte?rss",
@@ -417,111 +515,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/larve-fra-helvede-fundet-i-herning-for-foerste-gang?referrer=RSS",
         "published_date": "2026-07-09 13:30:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Number of apartments on sale in Copenhagen continues to rise",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260709/number-of-apartments-on-sale-in-copenhagen-continues-to-rise-2",
-        "published_date": "2026-07-09 13:28:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Roskilde Festival rejects criticism of this year's music programme",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/roskilde-festival-afviser-kritik-af-aarets-musikprogram?referrer=RSS",
-        "published_date": "2026-07-09 13:27:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "World Cup in football - get the latest news here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vm-i-fodbold--faa-seneste-nyt-her-4?referrer=RSS",
-        "published_date": "2026-07-09 13:26:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Conflict in the Middle East - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/konflikt-i-mellemoesten--foelg-med-her-79?referrer=RSS",
-        "published_date": "2026-07-09 13:24:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danfoss acquires an Italian company",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danfoss-opkoeber-italiensk-virksomhed",
-        "published_date": "2026-07-09 12:59:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "21-year-old woman sentenced to prison for fraud in the millions",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/21-aarig-kvinde-idoemt-faengsel-bedrageri-i-millionklasse",
-        "published_date": "2026-07-09 12:29:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heads of state received an engraved revolver as a gift from Erdogan at the summit",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/statsledere-fik-indgraveret-revolver-i-gave-af-erdogan-ved-topmoede",
-        "published_date": "2026-07-09 11:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attempted bank robbery in Kjellerup - the police are looking for a man",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/forsoeg-paa-bankroeveri-i-kjellerup-politiet-efterlyser-mand",
-        "published_date": "2026-07-09 09:39:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Singer Bonnie Tyler has died",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sanger-bonnie-tyler-er-doed",
-        "published_date": "2026-07-09 09:15:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Thursday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260709/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-47",
-        "published_date": "2026-07-09 08:41:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Justin Bieber to the World Cup final",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/justin-bieber-til-vm-finale",
-        "published_date": "2026-07-09 06:38:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The royal couple will be on a state visit to Belgium",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kongeparret-skal-paa-statsbesoeg-til-belgien",
-        "published_date": "2026-07-09 06:10:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tourist feared sea mine, but it was a false alarm: 'It was the bottom of a Weber grill'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/turist-frygtede-soemine-men-det-var-falsk-alarm-det-var-bunden-af-en-weber-grill",
-        "published_date": "2026-07-09 05:01:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "SpaceX stock hits new low",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/spacex-aktie-ramte-laveste-niveau",
-        "published_date": "2026-07-09 03:49:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Author gets 33 million from Trump in case of abuse",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/forfatter-faar-33-millioner-fra-trump-i-sag-om-overgreb?referrer=RSS",
-        "published_date": "2026-07-08 23:48:48",
         "category": "Local Events"
     }
 ]
