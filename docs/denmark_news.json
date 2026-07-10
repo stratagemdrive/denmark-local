@@ -1,5 +1,19 @@
 [
     {
+        "title": "Brussels' hopes for a French Meloni are dwindling.Now the EU fears an implosion",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/bruxelles-haab-om-en-fransk-meloni-svinder-ind-nu-frygter-eu-en-implosion?referrer=RSS",
+        "published_date": "2026-07-10 20:21:09",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Denmark takes over management of the Nato center that cooperates with Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danmark-overtager-ledelse-af-nato-center-der-samarbejder-med-ukraine",
+        "published_date": "2026-07-10 13:03:55",
+        "category": "Diplomacy"
+    },
+    {
         "title": "New trains must be able to cope with Sahara heat of 55 degrees",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/nye-tog-skal-kunne-klare-saharavarme-paa-55-grader?referrer=RSS",
@@ -123,20 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/dansk-fotojournalist-anklager-fn-for-andel-i-anholdelse-i-uganda?referrer=RSS",
         "published_date": "2026-07-06 20:29:48",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Nato chief: Europe and Canada spend four percent on defence",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nato-chef-europa-og-canada-bruger-fire-procent-paa-forsvar",
-        "published_date": "2026-07-06 14:19:12",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "NATO chief before summit: Europe and Canada spend four percent on defence",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nato-chef-foer-topmoede-europa-og-canada-bruger-fire-procent-paa-forsvar?referrer=RSS",
-        "published_date": "2026-07-06 13:58:48",
         "category": "Diplomacy"
     },
     {
@@ -350,17 +350,115 @@
         "category": "Economy"
     },
     {
-        "title": "Tax officials: Minister's letter undermines our judgement",
+        "title": "Eyewitnesses contradict ICE after killing of Mexican man in Houston",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/skatteansatte-ministers-brev-underminerer-vores-doemmekraft?referrer=RSS",
-        "published_date": "2026-07-02 20:40:46",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/oejenvidner-modsiger-ice-efter-drab-paa-mexicansk-mand-i-houston?referrer=RSS",
+        "published_date": "2026-07-10 23:24:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll rises to more than 4000 after earthquake in Venezuela",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/doedstallet-stiger-til-mere-end-4000-efter-jordskaelv-i-venezuela?referrer=RSS",
+        "published_date": "2026-07-10 23:24:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Apple sues OpenAI for theft of trade secrets",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/apple-sagsoeger-openai-for-tyveri-af-forretningshemmeligheder?referrer=RSS",
+        "published_date": "2026-07-10 21:57:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Substitute Belgian goalkeeper's fumble sends Spain into the semi-finals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/indskiftet-belgisk-keepers-fumleri-sender-spanien-i-semifinalen?referrer=RSS",
+        "published_date": "2026-07-10 21:10:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Extensive Cuban surveillance maintains the Communist Party's grip on power",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/omfattende-cubansk-overvaagning-bevarer-kommunistpartiets-greb-om-magten?referrer=RSS",
+        "published_date": "2026-07-10 20:54:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor flips a plate: Announces oversight of gender-segregated swimming",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/borgmester-vender-paa-en-tallerken-varsler-tilsyn-med-koensopdelt-svoemning?referrer=RSS",
+        "published_date": "2026-07-10 19:32:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heat wave of up to 43 degrees may hit the western United States this weekend",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hedeboelge-paa-op-til-43-grader-kan-ramme-det-vestlige-usa-i-weekenden?referrer=RSS",
+        "published_date": "2026-07-10 19:26:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Has the leadership role grown over the heads of the leaders?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/er-lederrollen-vokset-lederne-over-hovedet?referrer=RSS",
+        "published_date": "2026-07-10 19:24:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spain meets Belgium in the World Cup quarter-finals - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/spanien-moeder-belgien-i-vm-kvartfinale--foelg-med-her?referrer=RSS",
+        "published_date": "2026-07-10 19:12:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three in critical condition after serious traffic accident in Midtjylland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-i-kritisk-tilstand-efter-alvorlig-trafikulykke-i-midtjylland",
+        "published_date": "2026-07-10 17:34:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "15 die in Philippines after super typhoon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/15-mister-livet-i-filippinerne-efter-supertyfon",
+        "published_date": "2026-07-10 15:24:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Germany votes for controversial savings plan in the health insurance funds",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tyskland-stemmer-omstridt-spareplan-i-sygekasserne",
+        "published_date": "2026-07-10 14:50:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump: Iran has asked to continue negotiations",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-iran-har-bedt-om-fortsaette-forhandlinger",
+        "published_date": "2026-07-10 14:49:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two-year-old has fallen from the 2nd floor in Odense",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/aarig-er-faldet-ud-fra-2-sal-i-odense",
+        "published_date": "2026-07-10 14:40:40",
+        "category": "Local Events"
     },
     {
         "title": "Why Scandinavians can go from rivals to supporters on the international stage",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260710/why-scandinavians-can-go-from-rivals-to-supporters-on-the-international-stage",
         "published_date": "2026-07-10 13:46:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Garlic sausages are being recalled - cheese sausages may be hidden among them",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hvidloegspoelser-tilbagekaldes-der-kan-gemme-sig-ostepoelser-iblandt",
+        "published_date": "2026-07-10 13:43:25",
         "category": "Local Events"
     },
     {
@@ -389,111 +487,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/23-mennesker-savnes-under-doedelig-naturbrand-i-sydspanien?referrer=RSS",
         "published_date": "2026-07-10 12:24:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police are asking for help after a knife attack in Odder",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-beder-om-hjaelp-efter-knivoverfald-i-odder?referrer=RSS",
-        "published_date": "2026-07-10 12:12:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hummelgaard paid tribute to J.D.Vance in Sneak: Deleted his name on the advice of officials",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/hummelgaard-hyldede-jd-vance-i-smug-slettede-hans-navn-efter-raad-fra-embedsmaend?referrer=RSS",
-        "published_date": "2026-07-10 12:09:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sunny weekend in store for much of Denmark",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260710/sunny-weekend-in-store-for-much-of-denmark",
-        "published_date": "2026-07-10 12:07:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Czech tennis sprouts again on Wimbledon's grass",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tjekkisk-tennis-spirer-igen-paa-wimbledons-graes?referrer=RSS",
-        "published_date": "2026-07-10 11:45:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "We strengthen the focus on women's health.Who strengthens the focus on the men?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/vi-styrker-fokus-paa-kvinders-sundhed-hvem-styrker-fokus-paa-maendenes?referrer=RSS",
-        "published_date": "2026-07-10 11:22:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Author, debater and politician Asger Baunsbak-Jensen has died",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/forfatter-debattoer-og-politiker-asger-baunsbak-jensen-er-doed",
-        "published_date": "2026-07-10 09:57:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Friday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260710/today-in-denmark-a-roundup-of-the-latest-news-on-friday-52",
-        "published_date": "2026-07-10 08:34:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Record number of tourist overnight stays in Denmark at the start of the year",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rekordmange-turistovernatninger-i-danmark-i-starten-af-aaret",
-        "published_date": "2026-07-10 07:35:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Don't want to be bothered by firefighters?Check the weather forecast and take a hot bath if the accident is out",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vil-du-ikke-generes-af-brandmaend-tjek-vejrudsigt-og-tag-et-varmt-bad-hvis-uheldet-er-ude",
-        "published_date": "2026-07-10 07:23:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two young men accept extended custody in a murder case from Guden\u00e5en",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/unge-maend-accepterer-forlaenget-varetaegtsfaengsling-i-drabssag-fra-gudenaaen",
-        "published_date": "2026-07-10 06:51:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The landowner suddenly appeared with a warning about the caterpillar: - It has no place on earth",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/fynmodlarven/godsejer-dukkede-pludselig-op-med-advarsel-det-har-ingen-gang-paa-jord?rss",
-        "published_date": "2026-07-10 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Municipalities encourage citizens to keep an eye out for finds of larvae",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kommuner-opfordrer-borgere-til-holde-oeje-med-fund-af-larver",
-        "published_date": "2026-07-10 05:57:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "12 people have lost their lives in a forest fire in southern Spain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/12-personer-har-mistet-livet-i-skovbrand-i-det-sydlige-spanien",
-        "published_date": "2026-07-10 02:44:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "In a phone call, Trump has briefed Netanyahu on measures in the Gulf",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-har-i-telefonopkald-orienteret-netanyahu-om-tiltag-i-golfen?referrer=RSS",
-        "published_date": "2026-07-09 23:44:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Airport in Florida officially renamed in honor of Trump",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/lufthavn-i-florida-omdoebes-officielt-til-aere-for-trump?referrer=RSS",
-        "published_date": "2026-07-09 23:41:48",
         "category": "Local Events"
     }
 ]
