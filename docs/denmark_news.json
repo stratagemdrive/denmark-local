@@ -1,5 +1,19 @@
 [
     {
+        "title": "New trains must be able to cope with Sahara heat of 55 degrees",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/nye-tog-skal-kunne-klare-saharavarme-paa-55-grader?referrer=RSS",
+        "published_date": "2026-07-10 11:55:43",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "60-year-old man died in a drowning accident near Grenaa",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/60-aarig-mand-doed-i-drukneulykke-naer-grenaa",
+        "published_date": "2026-07-10 11:03:36",
+        "category": "Diplomacy"
+    },
+    {
         "title": "EU set to delay roll out of \u20ac20 ETIAS travel authorisation scheme until 2027",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260709/eu-set-to-delay-roll-out-of-e20-etias-travel-authorisation-scheme-until-2027",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Australia's foreign minister calls Chinese missile test 'destabilizing'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/australiens-udenrigsminister-kalder-kinesisk-missiltest-destabiliserende",
-        "published_date": "2026-07-06 06:25:20",
-        "category": "Diplomacy"
+        "title": "Enraged crowd overturns military vehicle\u00a0 \u2013 mobilization crisis simmers in Ukraine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rasende-folkemaengde-vaelter-militaerkoeretoej--mobiliseringskrisen-ulmer-i-ukraine?referrer=RSS",
+        "published_date": "2026-07-10 12:13:29",
+        "category": "Military"
     },
     {
-        "title": "More than 100 Nato-critical protesters detained in Turkey",
+        "title": "Spectacular murder case takes another turn: Ukrainian agent suddenly changes explanation",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/flere-end-100-nato-kritiske-demonstranter-tilbageholdt-i-tyrkiet?referrer=RSS",
-        "published_date": "2026-07-05 23:37:51",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/spektakulaer-drabssag-tager-endnu-en-drejning-pludselig-aendrer-ukrainsk-agent-forklaring?referrer=RSS",
+        "published_date": "2026-07-10 11:57:00",
+        "category": "Military"
     },
     {
         "title": "Media reports tense scenes at Russian gas stations: People fight and officials jump the queue",
@@ -266,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Red Cross warehouse in Ukraine destroyed after Russian attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/roede-kors-lager-i-ukraine-oedelagt-efter-russisk-angreb",
-        "published_date": "2026-07-02 16:03:26",
-        "category": "Military"
-    },
-    {
         "title": "Biogas production in Denmark reaches milestone",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/biogasproduktion-i-danmark-naar-milepael",
@@ -291,27 +298,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/stroemsvigt-i-aarhus-alle-kunder-har-igen-stroem-i-kontakterne",
         "published_date": "2026-07-03 04:31:37",
-        "category": "Energy"
-    },
-    {
-        "title": "Tommy Ahlers will be the new chairman of crisis-stricken Energinet",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/tommy-ahlers-bliver-ny-formand-for-kriseramt-energinet?referrer=RSS",
-        "published_date": "2026-07-02 12:32:45",
-        "category": "Energy"
-    },
-    {
-        "title": "Tommy Ahlers is the new chairman of the board of Energinet",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tommy-ahlers-er-ny-bestyrelsesformand-energinet",
-        "published_date": "2026-07-02 12:09:11",
-        "category": "Energy"
-    },
-    {
-        "title": "Tommy Ahlers will be the new chairman of Energinet",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/tommy-ahlers-bliver-ny-formand-for-energinet?referrer=RSS",
-        "published_date": "2026-07-02 12:06:38",
         "category": "Energy"
     },
     {
@@ -371,11 +357,130 @@
         "category": "Economy"
     },
     {
-        "title": "The shares are cheering \u2013 the \"king figure\" in the US is lower than expected",
+        "title": "Why Scandinavians can go from rivals to supporters on the international stage",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260710/why-scandinavians-can-go-from-rivals-to-supporters-on-the-international-stage",
+        "published_date": "2026-07-10 13:46:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ryanair plane had to make an emergency landing after a window came loose",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ryanair-fly-maatte-noedlande-efter-vindue-havde-loesrevet-sig",
+        "published_date": "2026-07-10 12:54:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Emergency services monitor fire danger this weekend with high temperatures",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/aktierne-jubler--kongetallet-i-usa-lavere-end-ventet?referrer=RSS",
-        "published_date": "2026-07-02 12:39:17",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/danmark/beredskaber-overvaager-brandfare-i-weekend-med-hoeje-temperaturer?referrer=RSS",
+        "published_date": "2026-07-10 12:46:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tour de France 7th stage\u00a0\u2013 follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tour-de-france-7-etape-foelg-med-her?referrer=RSS",
+        "published_date": "2026-07-10 12:38:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "23 people missing during deadly wildfire in southern Spain",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/23-mennesker-savnes-under-doedelig-naturbrand-i-sydspanien?referrer=RSS",
+        "published_date": "2026-07-10 12:24:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are asking for help after a knife attack in Odder",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-beder-om-hjaelp-efter-knivoverfald-i-odder?referrer=RSS",
+        "published_date": "2026-07-10 12:12:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hummelgaard paid tribute to J.D.Vance in Sneak: Deleted his name on the advice of officials",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/hummelgaard-hyldede-jd-vance-i-smug-slettede-hans-navn-efter-raad-fra-embedsmaend?referrer=RSS",
+        "published_date": "2026-07-10 12:09:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sunny weekend in store for much of Denmark",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260710/sunny-weekend-in-store-for-much-of-denmark",
+        "published_date": "2026-07-10 12:07:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Czech tennis sprouts again on Wimbledon's grass",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tjekkisk-tennis-spirer-igen-paa-wimbledons-graes?referrer=RSS",
+        "published_date": "2026-07-10 11:45:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "We strengthen the focus on women's health.Who strengthens the focus on the men?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/vi-styrker-fokus-paa-kvinders-sundhed-hvem-styrker-fokus-paa-maendenes?referrer=RSS",
+        "published_date": "2026-07-10 11:22:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Author, debater and politician Asger Baunsbak-Jensen has died",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/forfatter-debattoer-og-politiker-asger-baunsbak-jensen-er-doed",
+        "published_date": "2026-07-10 09:57:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Friday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260710/today-in-denmark-a-roundup-of-the-latest-news-on-friday-52",
+        "published_date": "2026-07-10 08:34:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Record number of tourist overnight stays in Denmark at the start of the year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rekordmange-turistovernatninger-i-danmark-i-starten-af-aaret",
+        "published_date": "2026-07-10 07:35:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Don't want to be bothered by firefighters?Check the weather forecast and take a hot bath if the accident is out",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/vil-du-ikke-generes-af-brandmaend-tjek-vejrudsigt-og-tag-et-varmt-bad-hvis-uheldet-er-ude",
+        "published_date": "2026-07-10 07:23:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two young men accept extended custody in a murder case from Guden\u00e5en",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/unge-maend-accepterer-forlaenget-varetaegtsfaengsling-i-drabssag-fra-gudenaaen",
+        "published_date": "2026-07-10 06:51:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The landowner suddenly appeared with a warning about the caterpillar: - It has no place on earth",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/fynmodlarven/godsejer-dukkede-pludselig-op-med-advarsel-det-har-ingen-gang-paa-jord?rss",
+        "published_date": "2026-07-10 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Municipalities encourage citizens to keep an eye out for finds of larvae",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kommuner-opfordrer-borgere-til-holde-oeje-med-fund-af-larver",
+        "published_date": "2026-07-10 05:57:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "12 people have lost their lives in a forest fire in southern Spain",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/12-personer-har-mistet-livet-i-skovbrand-i-det-sydlige-spanien",
+        "published_date": "2026-07-10 02:44:37",
+        "category": "Local Events"
     },
     {
         "title": "In a phone call, Trump has briefed Netanyahu on measures in the Gulf",
@@ -389,132 +494,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/lufthavn-i-florida-omdoebes-officielt-til-aere-for-trump?referrer=RSS",
         "published_date": "2026-07-09 23:41:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "French stars drain Morocco and play their way into the World Cup semi-finals",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/franske-stjerner-draener-marokko-og-spiller-sig-i-vm-semifinalen?referrer=RSS",
-        "published_date": "2026-07-09 22:09:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Death toll in Venezuela nears 4000 after earthquake",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/doedstal-i-venezuela-naermer-sig-4000-efter-jordskaelv?referrer=RSS",
-        "published_date": "2026-07-09 22:05:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Volkswagen will close factories and cut 100,000 jobs",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/volkswagen-vil-nedlaegge-fabrikker-og-skaere-100000-job?referrer=RSS",
-        "published_date": "2026-07-09 21:55:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Death toll from earthquake in Venezuela reaches 3,889",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-efter-jordskaelv-i-venezuela-naar-3-889",
-        "published_date": "2026-07-09 21:43:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trade union activity should not be protected from debate and prioritization",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/fagforeningsaktivitet-boer-ikke-vaere-fredet-fra-debat-og-prioritering?referrer=RSS",
-        "published_date": "2026-07-09 21:21:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aarhusians are strongly encouraged to keep their distance from humpback whales",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/aarhusianere-opfordres-kraftigt-til-at-holde-afstand-til-pukkelhval?referrer=RSS",
-        "published_date": "2026-07-09 20:27:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Extremely small demonstration held firm in protest against TV 2: \"No football party over a lost life\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/ekstrem-lille-demonstration-holdt-fast-i-protest-mod-tv-2-ingen-fodboldfest-over-et-mistet-liv?referrer=RSS",
-        "published_date": "2026-07-09 20:27:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "The greatest loss of culture occurs when we can no longer tell the difference",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/det-stoerste-kulturtab-sker-naar-vi-ikke-laengere-kan-kende-forskel?referrer=RSS",
-        "published_date": "2026-07-09 20:18:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Rolling Stones continue their creative renaissance, say critics",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/the-rolling-stones-fortsaetter-kreativ-renaessance-mener-anmeldere?referrer=RSS",
-        "published_date": "2026-07-09 20:17:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish Environmental Protection Agency: Keep your distance from whales in Aarhus",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/miljoestyrelsen-hold-afstand-til-hval-i-aarhus",
-        "published_date": "2026-07-09 19:16:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Airport in Palm Beach is named after Donald Trump",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lufthavn-i-palm-beach-opkaldes-efter-donald-trump",
-        "published_date": "2026-07-09 18:43:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police: Leave the radio playing, the laundry hanging and make sure the mailbox is emptied",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-lad-radioen-spille-vasketoejet-haenge-og-soerg-postkassen-bliver-toemt",
-        "published_date": "2026-07-09 16:35:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "28 lose their lives in a fire at a shoe factory in China",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/28-mister-livet-i-brand-paa-skofabrik-i-kina",
-        "published_date": "2026-07-09 15:31:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danfoss in billion acquisition: Takes over industrial group with 4,500 employees",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/danfoss-i-milliardopkoeb-overtager-industrikoncern-med-4-500-ansatte?rss",
-        "published_date": "2026-07-09 13:53:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "KLM receives a million fine in a case regarding advertising about sustainability",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/klm-faar-millionboede-i-sag-om-reklamer-om-baeredygtighed?referrer=RSS",
-        "published_date": "2026-07-09 13:39:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "OVERVIEW: The caterpillar from hell is spreading to several parts of the country",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/overblik-larven-fra-helvede-spreder-sig-til-flere-landsdele?referrer=RSS",
-        "published_date": "2026-07-09 13:33:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Christian Eriksen will retrain in Denmark",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/christian-eriksen-skal-genoptraene-i-danmark?referrer=RSS",
-        "published_date": "2026-07-09 13:30:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Caterpillar from hell found in Herning for the first time",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/larve-fra-helvede-fundet-i-herning-for-foerste-gang?referrer=RSS",
-        "published_date": "2026-07-09 13:30:51",
         "category": "Local Events"
     }
 ]
