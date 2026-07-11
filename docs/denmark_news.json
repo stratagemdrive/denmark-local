@@ -1,5 +1,19 @@
 [
     {
+        "title": "Woman dies in drowning accident at Fan\u00f8",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kvinde-doed-i-drukneulykke-ved-fanoe",
+        "published_date": "2026-07-11 16:48:20",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Drowning accident on Fan\u00f8: 80-year-old woman declared dead after swimming",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/melding-om-drukneulykke-aeldre-dame-floejet-paa-hospitalet?rss",
+        "published_date": "2026-07-11 16:42:11",
+        "category": "Diplomacy"
+    },
+    {
         "title": "L\u00f8kke will put Trump's vision of doom to shame.\"I'm just a little Danish foreign minister.But\u2026\u201d",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/loekke-vil-goere-trumps-undergangsvision-til-skamme-jeg-er-bare-en-lille-dansk-udenrigsminister-men-?referrer=RSS",
@@ -123,20 +137,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260707/danish-lifeguards-warn-parents-to-keep-an-eye-on-their-children-this-summer",
         "published_date": "2026-07-07 13:54:40",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "NATO summit in Turkey - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nato-topmoede-i-tyrkiet-foelg-med-her-2?referrer=RSS",
-        "published_date": "2026-07-07 13:08:07",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Correspondent: Marine Le Pen was convicted \u2013 but the verdict puts her in a difficult dilemma",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/korrespondent-marine-le-pen-blev-doemt--men-dommen-saetter-hende-i-et-svaert-dilemma?referrer=RSS",
-        "published_date": "2026-07-07 12:53:39",
         "category": "Diplomacy"
     },
     {
@@ -266,31 +266,10 @@
         "category": "Military"
     },
     {
-        "title": "Ukrainian governor reports three killed in bomb attack against Sumy",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ukrainsk-guvernoer-melder-om-tre-draebte-i-bombeangreb-mod-sumy?referrer=RSS",
-        "published_date": "2026-07-03 23:18:51",
-        "category": "Military"
-    },
-    {
-        "title": "Alarm calls contradict the Defense's explanation about the time of the shooting",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/alarmopkald-modsiger-forsvarets-forklaring-om-tidspunkt-for-skud?referrer=RSS",
-        "published_date": "2026-07-03 19:07:58",
-        "category": "Military"
-    },
-    {
         "title": "Biogas production in Denmark reaches milestone",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/biogasproduktion-i-danmark-naar-milepael",
         "published_date": "2026-07-04 07:20:33",
-        "category": "Energy"
-    },
-    {
-        "title": "Small tourist island is without power",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lille-turist-oe-er-uden-stroem",
-        "published_date": "2026-07-03 14:08:51",
         "category": "Energy"
     },
     {
@@ -350,6 +329,118 @@
         "category": "Economy"
     },
     {
+        "title": "British police arrest 28-year-old man suspected of murdering politicians",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/britisk-politi-anholder-28-aarig-mand-mistaenkt-for-politikerdrab?referrer=RSS",
+        "published_date": "2026-07-11 23:38:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "British police arrest 28-year-old man suspected of murdering politicians",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/britisk-politi-anholder-28-aarig-mand-mistaenkt-politikerdrab",
+        "published_date": "2026-07-11 23:22:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The world's leading economists warn of ai-crash",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentar/verdens-foerende-oekonomer-advarer-om-ai-krak?referrer=RSS",
+        "published_date": "2026-07-11 20:56:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "He is called \"the prophet of depression\": \"I would have preferred a world where it was possible to live\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/han-bliver-kaldt-depressionens-profet-jeg-ville-have-foretrukket-en-verden-hvor-det-var-muligt-at-leve?referrer=RSS",
+        "published_date": "2026-07-11 20:43:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish debutant wins prize for best director at film festival",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dansk-debutant-loeber-med-pris-for-bedste-instruktoer-ved-filmfestival?referrer=RSS",
+        "published_date": "2026-07-11 20:28:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "100 Turkish obstetricians fined for caesareans",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/100-tyrkiske-foedselslaeger-faar-boeder-for-kejsersnit?referrer=RSS",
+        "published_date": "2026-07-11 20:25:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five films you have to watch right now - and one you can just slap like a gnat",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/fem-film-du-skal-se-i-biffen-lige-nu--og-en-du-bare-kan-klaske-som-en-traels-myg?referrer=RSS",
+        "published_date": "2026-07-11 20:20:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish speedway driver wins the Swedish grand prix",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dansk-speedwaykoerer-vinder-det-svenske-grandprix?referrer=RSS",
+        "published_date": "2026-07-11 20:00:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "World Cup quarter-final between Norway and England",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/vm-kvartfinale-mellem-norge-og-england?referrer=RSS",
+        "published_date": "2026-07-11 19:51:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Say thank you to Rushil Agarwal when the robots arrive: \"It's going extremely fast\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/sig-tak-til-rushil-agarwal-naar-robotterne-kommer-det-gaar-ekstremt-hurtigt?referrer=RSS",
+        "published_date": "2026-07-11 19:43:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The AfD warns of expulsions from the first minute in the event of an election victory in the federal state",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/afd-varsler-udvisninger-fra-foerste-minut-ved-valgsejr-i-delstat?referrer=RSS",
+        "published_date": "2026-07-11 19:16:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The death toll from the earthquakes in Venezuela continues to rise",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-efter-jordskaelvene-i-venezuela-stiger-fortsat",
+        "published_date": "2026-07-11 17:21:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cyclist in critical condition after crossing open bridge",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/cyklist-i-kritisk-tilstand-efter-have-krydset-aaben-bro",
+        "published_date": "2026-07-11 13:28:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "The heat closes the Eiffel Tower extraordinarily early",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/varmen-lukker-eiffeltaarnet-ekstraordinaert-tidligt",
+        "published_date": "2026-07-11 13:14:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "32 suspected of starting wildfires in France",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/32-mistaenkt-starte-naturbrande-i-frankrig",
+        "published_date": "2026-07-11 12:58:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "15 have lost their lives in a speed boat accident in Vietnam",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/15-har-mistet-livet-i-en-speedbaadulykke-i-vietnam",
+        "published_date": "2026-07-11 12:30:33",
+        "category": "Local Events"
+    },
+    {
         "title": "Iran's Supreme Leader vows revenge for his father's death",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/irans-oeverste-leder-lover-haevn-for-sin-fars-doed?referrer=RSS",
@@ -375,118 +466,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/synspunkter/eksklusionen-af-df-politiker-er-et-symptom-paa-en-dybere-demokratisk-sygdom?referrer=RSS",
         "published_date": "2026-07-11 10:40:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expert sees possible Norwegian advantage in extreme heat against England",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ekspert-ser-mulig-norsk-fordel-i-ekstrem-varme-mod-england?referrer=RSS",
-        "published_date": "2026-07-11 10:24:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The board warns of fines for taking plants home from the holidays",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/styrelse-advarer-om-boeder-for-at-tage-planter-med-hjem-fra-ferien?referrer=RSS",
-        "published_date": "2026-07-11 10:12:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The clearing of the \"caterpillar from hell\" drags on in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/metropol/rydningen-af-larven-fra-helvede-traekker-ud-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-07-11 10:08:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Taylor Swift paid a million to close streets during wedding",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/taylor-swift-betalte-en-million-for-at-lukke-gader-under-bryllup?referrer=RSS",
-        "published_date": "2026-07-11 10:08:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside Denmark: Why a Norwegian World Cup win would be a win for Denmark too",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260711/inside-denmark-why-a-norwegian-world-cup-win-would-be-a-win-for-denmark-too",
-        "published_date": "2026-07-11 09:21:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Andi's girlfriend cheated on him with two other men - here is his story: - I was never surprised",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/andis-kaereste-bedrog-ham-med-to-andre-maend-her-er-hans-historie-jeg-undrede-mig-aldrig?rss",
-        "published_date": "2026-07-11 07:08:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "British police release 26-year-old in case of murdered politician",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/britisk-politi-loeslader-26-aarig-i-sag-om-draebt-politiker",
-        "published_date": "2026-07-11 06:42:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sausages sold in Fleggaard are being recalled after pieces of metal were found",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/poelser-solgt-i-fleggaard-tilbagekaldes-efter-fund-af-metalstykker",
-        "published_date": "2026-07-11 06:24:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Eyewitnesses contradict ICE after killing of Mexican man in Houston",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/oejenvidner-modsiger-ice-efter-drab-paa-mexicansk-mand-i-houston?referrer=RSS",
-        "published_date": "2026-07-10 23:24:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Death toll rises to more than 4000 after earthquake in Venezuela",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/doedstallet-stiger-til-mere-end-4000-efter-jordskaelv-i-venezuela?referrer=RSS",
-        "published_date": "2026-07-10 23:24:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Apple sues OpenAI for theft of trade secrets",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/apple-sagsoeger-openai-for-tyveri-af-forretningshemmeligheder?referrer=RSS",
-        "published_date": "2026-07-10 21:57:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Substitute Belgian goalkeeper's fumble sends Spain into the semi-finals",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/indskiftet-belgisk-keepers-fumleri-sender-spanien-i-semifinalen?referrer=RSS",
-        "published_date": "2026-07-10 21:10:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Extensive Cuban surveillance maintains the Communist Party's grip on power",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/omfattende-cubansk-overvaagning-bevarer-kommunistpartiets-greb-om-magten?referrer=RSS",
-        "published_date": "2026-07-10 20:54:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor flips a plate: Announces oversight of gender-segregated swimming",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/borgmester-vender-paa-en-tallerken-varsler-tilsyn-med-koensopdelt-svoemning?referrer=RSS",
-        "published_date": "2026-07-10 19:32:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heat wave of up to 43 degrees may hit the western United States this weekend",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hedeboelge-paa-op-til-43-grader-kan-ramme-det-vestlige-usa-i-weekenden?referrer=RSS",
-        "published_date": "2026-07-10 19:26:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Has the leadership role grown over the heads of the leaders?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/er-lederrollen-vokset-lederne-over-hovedet?referrer=RSS",
-        "published_date": "2026-07-10 19:24:47",
         "category": "Local Events"
     }
 ]
