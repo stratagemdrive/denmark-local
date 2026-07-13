@@ -1,5 +1,26 @@
 [
     {
+        "title": "The late senator's younger sister takes over a vacant seat in the Senate",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/afdoed-senators-lillesoester-overtager-ledig-plads-i-senatet?referrer=RSS",
+        "published_date": "2026-07-13 21:26:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Denmark is sending millions to preparedness against the weather phenomenon El Ni\u00f1o",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/danmark-sender-millioner-til-beredskab-mod-vejrfaenomenet-el-nino?referrer=RSS",
+        "published_date": "2026-07-13 20:49:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Trump wants late senator's sister as interim senator",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-vil-have-afdoed-senators-soester-som-midlertidig-senator",
+        "published_date": "2026-07-13 15:26:38",
+        "category": "Diplomacy"
+    },
+    {
         "title": "EU to limit children's access to social media",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260713/eu-to-limit-childrens-access-to-social-media",
@@ -119,25 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "New trains must be able to cope with Sahara heat of 55 degrees",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/nye-tog-skal-kunne-klare-saharavarme-paa-55-grader?referrer=RSS",
-        "published_date": "2026-07-10 11:55:43",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "60-year-old man died in a drowning accident near Grenaa",
+        "title": "Prime Minister of Ukraine resigns",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/60-aarig-mand-doed-i-drukneulykke-naer-grenaa",
-        "published_date": "2026-07-10 11:03:36",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU set to delay roll out of \u20ac20 ETIAS travel authorisation scheme until 2027",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260709/eu-set-to-delay-roll-out-of-e20-etias-travel-authorisation-scheme-until-2027",
-        "published_date": "2026-07-09 11:25:53",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/ukraines-premierminister-traeder-tilbage",
+        "published_date": "2026-07-13 17:45:33",
+        "category": "Military"
     },
     {
         "title": "Conflict in the Middle East - follow here",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Woman suspected of Monaco bomb has been found shot dead in Ukraine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kvinde-mistaenkt-for-monaco-bombe-er-fundet-skuddraebt-i-ukraine?referrer=RSS",
-        "published_date": "2026-07-07 12:30:49",
-        "category": "Military"
-    },
-    {
         "title": "Power is back on in Cuba",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/stroemmen-er-tilbage-i-cuba",
@@ -343,6 +343,111 @@
         "category": "Economy"
     },
     {
+        "title": "Bolsonaro's son is banned from visiting his father under house arrest",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/bolsonaros-soen-faar-forbud-mod-at-besoege-sin-far-i-husarrest?referrer=RSS",
+        "published_date": "2026-07-13 23:36:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forest fires spread in the woods near Paris: Two people have been arrested",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/skovbrande-spreder-sig-i-skov-naer-paris-to-personer-er-anholdt?referrer=RSS",
+        "published_date": "2026-07-13 23:28:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump warns attack on area near damaged Iranian nuclear facility",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-varsler-angreb-mod-omraade-naer-beskadiget-iransk-atomanlaeg?referrer=RSS",
+        "published_date": "2026-07-13 21:51:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Burnham has enough support to become the new Labor leader",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/burnham-har-nok-opbakning-til-blive-ny-labour-leder",
+        "published_date": "2026-07-13 21:10:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Conor McGregor wants to return after the cracker comeback and surgery",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/conor-mcgregor-vil-tilbage-efter-kikset-comeback-og-operation?referrer=RSS",
+        "published_date": "2026-07-13 20:58:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Berlingske believes: Inexperienced and SoMe-fixated members of parliament threaten the quality of legislation",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/ledere/berlingske-mener-uerfarne-og-some-fikserede-folketingsmedlemmer-truer-lovkvaliteten?referrer=RSS",
+        "published_date": "2026-07-13 20:43:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Burnham has enough support to become Labour's new leader",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/burnham-har-nok-opbakning-til-at-blive-labours-nye-leder?referrer=RSS",
+        "published_date": "2026-07-13 20:38:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "If climate and the environment are so important to young people, why don't they clean up after themselves at Roskilde Festival?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/hvis-klima-og-miljoe-er-saa-vigtigt-for-de-unge-hvorfor-rydder-de-saa-ikke-op-efter-sig-selv-paa-roskilde-festival?referrer=RSS",
+        "published_date": "2026-07-13 20:23:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump announces address to the nation",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-annoncerer-tale-til-nationen",
+        "published_date": "2026-07-13 20:14:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norwegian World Cup heroes celebrated with royal visit and cycling tour in Oslo",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/norske-vm-helte-hyldet-med-kongebesoeg-og-rotur-i-oslo?referrer=RSS",
+        "published_date": "2026-07-13 20:09:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire service: Lightning caused a summer house to burn in Bl\u00e5vand",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brandvaesen-lyn-fik-sommerhus-til-braende-i-blaavand",
+        "published_date": "2026-07-13 19:28:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lidl recalls Dubai Style ice cream",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lidl-tilbagekalder-dubai-style-is",
+        "published_date": "2026-07-13 17:21:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "WC players burn unusually much from the spot - commentator sees three reasons",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/fodbold/vm/vm-spillere-braender-usaedvanligt-meget-fra-pletten-kommentator-ser-tre-grunde",
+        "published_date": "2026-07-13 16:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Summer house fire in Bl\u00e5vand - police come with an appeal to citizens",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sommerhusbrand-i-blaavand-politi-kommer-med-opfordring-til-borgere",
+        "published_date": "2026-07-13 16:01:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Funen Police have cordoned off a property close to Svendborg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fyns-politi-har-afspaerret-en-ejendom-taet-paa-svendborg",
+        "published_date": "2026-07-13 15:56:25",
+        "category": "Local Events"
+    },
+    {
         "title": "What to do with your kids this summer in Copenhagen",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260713/what-to-do-with-your-kids-this-summer-in-copenhagen",
@@ -375,111 +480,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/fransk-avis-ifoelge-louvre-tyv-tog-kup-laengere-tid-end-forventet?referrer=RSS",
         "published_date": "2026-07-13 12:45:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "WC 2026 - here you get the latest news",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vm-2026--her-faar-du-seneste-nyt-5?referrer=RSS",
-        "published_date": "2026-07-13 12:43:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news about American politics - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-205?referrer=RSS",
-        "published_date": "2026-07-13 12:38:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anti-terrorist unit takes over investigation in case of politician murder",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/antiterror-enhed-overtager-efterforskning-i-sag-om-politikerdrab?referrer=RSS",
-        "published_date": "2026-07-13 12:31:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "After major unrest and a significant ultimatum: Over 53,000 migrants have left South Africa",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/efter-store-uroligheder-og-et-markant-ultimatum-over-53000-migranter-har-forladt-sydafrika?referrer=RSS",
-        "published_date": "2026-07-13 12:21:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Danish waters are already full of firefighters and gopler",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/de-danske-farvande-er-allerede-fyldt-med-brandmaend-og-gopler",
-        "published_date": "2026-07-13 11:47:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marius Borg H\u00f8iby is allowed to serve time with anklets",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-faar-lov-afsone-med-fodlaenke",
-        "published_date": "2026-07-13 11:13:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u00d8rsted risks a million fine for delayed CO2 capture",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/oersted-risikerer-kaempeboede-forsinket-co2-fangst",
-        "published_date": "2026-07-13 10:30:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ebola outbreak spread to two new provinces in DR Congo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ebolaudbrud-spredt-til-nye-provinser-i-dr-congo",
-        "published_date": "2026-07-13 09:11:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several beachgoers are being treated after clashes with firefighters",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-strandgaester-behandles-efter-sammenstoed-med-brandmaend",
-        "published_date": "2026-07-13 08:57:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Monday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260713/today-in-denmark-a-roundup-of-the-latest-news-on-monday-52",
-        "published_date": "2026-07-13 08:50:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "More people are applying for loan offers for home purchases",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-soeger-om-laanetilbud-til-boligkoeb",
-        "published_date": "2026-07-13 08:42:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Overflow in Vallensb\u00e6k means red bathing flags",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/overloeb-i-vallensbaek-betyder-roede-badeflag",
-        "published_date": "2026-07-13 08:01:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Over 1200 livestock were killed in wolf attacks last year",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/over-1200-husdyr-blev-draebt-i-ulveangreb-sidste-aar?rss",
-        "published_date": "2026-07-13 07:40:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark will provide DKK 85 million in humanitarian aid to Gaza and Lebanon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danmark-vil-give-85-millioner-kroner-i-humanitaer-stoette-til-gaza-og-libanon",
-        "published_date": "2026-07-13 07:13:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Jurassic Park' actor Sam Neill has died",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/jurassic-park-skuespiller-sam-neill-er-doed",
-        "published_date": "2026-07-13 06:20:19",
         "category": "Local Events"
     }
 ]
