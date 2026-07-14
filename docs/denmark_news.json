@@ -1,5 +1,40 @@
 [
     {
+        "title": "EU population to peak in 2029 before long-term decline",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260714/eu-population-to-peak-in-2029-before-long-term-decline",
+        "published_date": "2026-07-14 12:57:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Report: Europe is losing the demographic race with Africa and the Middle East",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rapport-europa-taber-demografi-kaploebet-med-afrika-og-mellemoesten?referrer=RSS",
+        "published_date": "2026-07-14 11:20:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "After 118 years, the border fence between Gibraltar and Spain is being removed",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/efter-118-aar-fjernes-graensehegnet-mellem-gibraltar-og-spanien?referrer=RSS",
+        "published_date": "2026-07-14 10:55:21",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Ukraine is pushing for EU membership",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-presser-paa-eu-medlemskab",
+        "published_date": "2026-07-14 07:45:15",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "First time in 24 years: Four EU candidate countries invited to conference",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/foerste-gang-i-24-aar-fire-eu-kandidatlande-inviteret-til-konference",
+        "published_date": "2026-07-14 06:14:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The late senator's younger sister takes over a vacant seat in the Senate",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/afdoed-senators-lillesoester-overtager-ledig-plads-i-senatet?referrer=RSS",
@@ -105,39 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Woman dies in drowning accident at Fan\u00f8",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kvinde-doed-i-drukneulykke-ved-fanoe",
-        "published_date": "2026-07-11 16:48:20",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Drowning accident on Fan\u00f8: 80-year-old woman declared dead after swimming",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/melding-om-drukneulykke-aeldre-dame-floejet-paa-hospitalet?rss",
-        "published_date": "2026-07-11 16:42:11",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "L\u00f8kke will put Trump's vision of doom to shame.\"I'm just a little Danish foreign minister.But\u2026\u201d",
+        "title": "FE hires several hundred new employees",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/loekke-vil-goere-trumps-undergangsvision-til-skamme-jeg-er-bare-en-lille-dansk-udenrigsminister-men-?referrer=RSS",
-        "published_date": "2026-07-11 10:54:42",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/indland/fe-ansaetter-flere-hundrede-nye-medarbejdere?referrer=RSS",
+        "published_date": "2026-07-14 11:28:17",
+        "category": "Military"
     },
     {
-        "title": "Brussels' hopes for a French Meloni are dwindling.Now the EU fears an implosion",
+        "title": "Trump was not so enthusiastic about the ceasefire anyway - so now the \"friends\" have to pay for more war",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/bruxelles-haab-om-en-fransk-meloni-svinder-ind-nu-frygter-eu-en-implosion?referrer=RSS",
-        "published_date": "2026-07-10 20:21:09",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Denmark takes over management of the Nato center that cooperates with Ukraine",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danmark-overtager-ledelse-af-nato-center-der-samarbejder-med-ukraine",
-        "published_date": "2026-07-10 13:03:55",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/trump-var-alligevel-ikke-saa-begejstret-for-vaabenhvilen--saa-nu-skal-vennerne-betale-for-mere-krig?referrer=RSS",
+        "published_date": "2026-07-14 10:53:46",
+        "category": "Military"
     },
     {
         "title": "Prime Minister of Ukraine resigns",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Ceasefire in the Middle East - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vaabenhvile-i-mellemoesten--foelg-med-her-89?referrer=RSS",
-        "published_date": "2026-07-07 12:56:36",
-        "category": "Military"
-    },
-    {
-        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1777?referrer=RSS",
-        "published_date": "2026-07-07 12:43:40",
-        "category": "Military"
-    },
-    {
         "title": "Power is back on in Cuba",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/stroemmen-er-tilbage-i-cuba",
@@ -336,150 +336,143 @@
         "category": "Economy"
     },
     {
-        "title": "Checks in several kiosks give rise to suspicions of the black economy",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kontrol-i-flere-kiosker-giver-anledning-til-mistanke-om-sort-oekonomi",
-        "published_date": "2026-07-06 04:56:24",
-        "category": "Economy"
-    },
-    {
-        "title": "Bolsonaro's son is banned from visiting his father under house arrest",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/bolsonaros-soen-faar-forbud-mod-at-besoege-sin-far-i-husarrest?referrer=RSS",
-        "published_date": "2026-07-13 23:36:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forest fires spread in the woods near Paris: Two people have been arrested",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/skovbrande-spreder-sig-i-skov-naer-paris-to-personer-er-anholdt?referrer=RSS",
-        "published_date": "2026-07-13 23:28:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump warns attack on area near damaged Iranian nuclear facility",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-varsler-angreb-mod-omraade-naer-beskadiget-iransk-atomanlaeg?referrer=RSS",
-        "published_date": "2026-07-13 21:51:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Burnham has enough support to become the new Labor leader",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/burnham-har-nok-opbakning-til-blive-ny-labour-leder",
-        "published_date": "2026-07-13 21:10:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Conor McGregor wants to return after the cracker comeback and surgery",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/conor-mcgregor-vil-tilbage-efter-kikset-comeback-og-operation?referrer=RSS",
-        "published_date": "2026-07-13 20:58:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Berlingske believes: Inexperienced and SoMe-fixated members of parliament threaten the quality of legislation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/berlingske-mener-uerfarne-og-some-fikserede-folketingsmedlemmer-truer-lovkvaliteten?referrer=RSS",
-        "published_date": "2026-07-13 20:43:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Burnham has enough support to become Labour's new leader",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/burnham-har-nok-opbakning-til-at-blive-labours-nye-leder?referrer=RSS",
-        "published_date": "2026-07-13 20:38:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "If climate and the environment are so important to young people, why don't they clean up after themselves at Roskilde Festival?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/hvis-klima-og-miljoe-er-saa-vigtigt-for-de-unge-hvorfor-rydder-de-saa-ikke-op-efter-sig-selv-paa-roskilde-festival?referrer=RSS",
-        "published_date": "2026-07-13 20:23:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump announces address to the nation",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-annoncerer-tale-til-nationen",
-        "published_date": "2026-07-13 20:14:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norwegian World Cup heroes celebrated with royal visit and cycling tour in Oslo",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/norske-vm-helte-hyldet-med-kongebesoeg-og-rotur-i-oslo?referrer=RSS",
-        "published_date": "2026-07-13 20:09:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire service: Lightning caused a summer house to burn in Bl\u00e5vand",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brandvaesen-lyn-fik-sommerhus-til-braende-i-blaavand",
-        "published_date": "2026-07-13 19:28:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lidl recalls Dubai Style ice cream",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lidl-tilbagekalder-dubai-style-is",
-        "published_date": "2026-07-13 17:21:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "WC players burn unusually much from the spot - commentator sees three reasons",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/fodbold/vm/vm-spillere-braender-usaedvanligt-meget-fra-pletten-kommentator-ser-tre-grunde",
-        "published_date": "2026-07-13 16:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Summer house fire in Bl\u00e5vand - police come with an appeal to citizens",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sommerhusbrand-i-blaavand-politi-kommer-med-opfordring-til-borgere",
-        "published_date": "2026-07-13 16:01:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Funen Police have cordoned off a property close to Svendborg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fyns-politi-har-afspaerret-en-ejendom-taet-paa-svendborg",
-        "published_date": "2026-07-13 15:56:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "What to do with your kids this summer in Copenhagen",
+        "title": "TELL US: What's it like working in Denmark in the peak summer months?",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260713/what-to-do-with-your-kids-this-summer-in-copenhagen",
-        "published_date": "2026-07-13 15:02:02",
+        "url": "https://www.thelocal.dk/20260714/tell-us-whats-it-like-working-in-denmark-in-the-peak-summer-months",
+        "published_date": "2026-07-14 12:06:10",
         "category": "Local Events"
     },
     {
-        "title": "Trump: The US will keep the Strait of Hormuz",
+        "title": "The school can easily teach children to answer who Hitler was",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-usa-vil-beholde-hormuzstraedet?referrer=RSS",
-        "published_date": "2026-07-13 13:03:49",
+        "url": "https://www.berlingske.dk/synspunkter/skolen-kan-sagtens-laere-boern-at-svare-paa-hvem-hitler-var?referrer=RSS",
+        "published_date": "2026-07-14 12:01:51",
         "category": "Local Events"
     },
     {
-        "title": "Marius H\u00f8iby's remand is extended - but with anklets",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/marius-hoeibys-varetaegtsfaengsling-forlaenges-men-med-fodlaenke?referrer=RSS",
-        "published_date": "2026-07-13 12:53:46",
+        "title": "The intelligence service is gearing up: Several hundred new employees this year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efterretningstjeneste-opruster-flere-hundrede-nye-medarbejder-i-aar",
+        "published_date": "2026-07-14 11:51:31",
         "category": "Local Events"
     },
     {
-        "title": "Minister will discourage wolf attacks with more support for fences",
+        "title": "A ship owned by a Norwegian shipping company has been attacked off the coast of Oman",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/minister-vil-modvirke-ulveangreb-med-mere-stoette-til-hegn?referrer=RSS",
-        "published_date": "2026-07-13 12:45:56",
+        "url": "https://www.berlingske.dk/internationalt/et-skib-ejet-af-norsk-rederi-er-blevet-angrebet-ud-for-omans-kyst?referrer=RSS",
+        "published_date": "2026-07-14 11:50:49",
         "category": "Local Events"
     },
     {
-        "title": "French newspaper: According to Louvre thief, coup took longer than expected",
+        "title": "WHO: Ebola outbreak in DR Congo is actually twice as large",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fransk-avis-ifoelge-louvre-tyv-tog-kup-laengere-tid-end-forventet?referrer=RSS",
-        "published_date": "2026-07-13 12:45:51",
+        "url": "https://www.berlingske.dk/internationalt/who-ebolaudbrud-i-dr-congo-er-reelt-dobbelt-saa-stort?referrer=RSS",
+        "published_date": "2026-07-14 11:17:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Coincidence of events leads to enormous mobilization in France",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kultur/sammenfald-af-begivenheder-foerer-til-enorm-mobilisering-i-frankrig?referrer=RSS",
+        "published_date": "2026-07-14 11:17:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marius Borg H\u00f8iby will not have to serve time in a maximum security prison",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-slipper-afsone-i-topsikret-faengsel",
+        "published_date": "2026-07-14 11:13:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Men jailed for running drug centers in Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/maend-faengslet-for-at-drive-narkocentraler-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-07-14 10:58:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kyrgyzstan bans fuel exports indefinitely",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kirgisistan-forbyder-eksport-af-braendstof-paa-ubestemt-tid",
+        "published_date": "2026-07-14 10:43:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The death toll from a fire in a bar in Bangkok rises to 30",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/doedstallet-efter-brand-i-bar-i-bangkok-stiger-til-30?referrer=RSS",
+        "published_date": "2026-07-14 10:35:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norway's crown princess has been discharged from hospital after a lung transplant",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/norsk-kronprinsesse-er-udskrevet-fra-hospital-efter-lungetransplantation",
+        "published_date": "2026-07-14 10:20:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll rises after fire at Thai bar",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doedstal-stiger-efter-brand-paa-thailandsk-bar",
+        "published_date": "2026-07-14 09:15:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of rat reports has exploded",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/antal-af-rotteanmeldelser-er-eksploderet",
+        "published_date": "2026-07-14 08:33:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Half of Danes watch sports",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/halvdelen-af-danskerne-ser-sport",
+        "published_date": "2026-07-14 08:18:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260714/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-55",
+        "published_date": "2026-07-14 08:18:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "The government opens a website about the vilified caterpillar",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/regeringen-aabner-hjemmeside-om-udskaeldt-larve",
+        "published_date": "2026-07-14 07:18:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "The accused of abducting an infant has his remand extended",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sigtet-bortfoere-spaedbarn-faar-forlaenget-sin-varetaegtsfaengsling",
+        "published_date": "2026-07-14 05:40:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "'The caterpillar from hell' boosts interest in animal species",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/larven-fra-helvede-saetter-skub-i-interesse-dyrearter",
+        "published_date": "2026-07-14 05:21:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Million loss in the aviation group Norwegian",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/millionunderskud-i-luftfartskoncernen-norwegian",
+        "published_date": "2026-07-14 05:12:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Keep an extra close eye on your rabbit during the heat wave, says the call",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hold-ekstra-godt-oeje-med-din-kanin-i-hedeboelgen-lyder-opfordring",
+        "published_date": "2026-07-14 04:26:34",
         "category": "Local Events"
     }
 ]
