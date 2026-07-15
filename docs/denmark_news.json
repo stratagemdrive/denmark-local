@@ -1,9 +1,44 @@
 [
     {
+        "title": "Chinese electric car giant will ramp up aggressively in Europe",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/kinesisk-elbilgigant-vil-skrue-aggressivt-op-i-europa?referrer=RSS",
+        "published_date": "2026-07-15 20:58:21",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Novo Nordisk gets the green light for weight loss pills in the EU",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/novo-nordisk-faar-groent-lys-til-vaegttabspille-i-eu",
+        "published_date": "2026-07-15 17:12:55",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU seeks Trump tariff exemptions on wine and cheese",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260715/eu-seeks-trump-tariff-exemptions-on-wine-and-cheese",
+        "published_date": "2026-07-15 15:43:43",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU extends right to stay for Ukrainians but excludes military-age men",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260715/eu-extends-right-to-stay-for-ukrainians-but-excludes-military-age-men",
+        "published_date": "2026-07-15 12:29:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Von der Leyen announces EU cooperation with Ukraine on defense production",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/von-der-leyen-varsler-eu-samarbejde-med-ukraine-om-forsvarsproduktion?referrer=RSS",
         "published_date": "2026-07-15 11:18:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260715/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-62",
+        "published_date": "2026-07-15 10:06:55",
         "category": "Diplomacy"
     },
     {
@@ -105,39 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "EU countries will sanction 250 Russian individuals and entities",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-landene-vil-sanktionere-250-russiske-personer-og-enheder",
-        "published_date": "2026-07-13 06:21:34",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Danish EU politician reported to police after 'go home' comment",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-eu-politiker-politianmeldt-efter-tag-hjem-kommentar",
-        "published_date": "2026-07-13 05:52:02",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Why was Haderslev chosen as NATO's new headquarters?Now comes the answer",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/hvorfor-blev-haderslev-valgt-til-nato-s-nye-hovedkvarter-nu-kommer-svaret?rss",
-        "published_date": "2026-07-13 05:04:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Former EU politician receives an injunction for gross abuse of vulnerable nature: Now he must repair the damage",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/tidligere-eu-politiker-faar-paabud-for-groft-overgreb-paa-saarbar-natur-nu-skal-han-rette-skaden-op?rss",
-        "published_date": "2026-07-13 05:01:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iran: The US attack has rendered months of diplomatic efforts futile",
+        "title": "The US Secretary of Defense will test soldiers' testosterone levels",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iran-usas-angreb-har-gjort-maaneders-diplomatisk-indsats-nytteloes?referrer=RSS",
-        "published_date": "2026-07-12 23:21:49",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/usas-forsvarsminister-vil-teste-soldaters-testosteronniveau?referrer=RSS",
+        "published_date": "2026-07-15 21:42:49",
+        "category": "Military"
+    },
+    {
+        "title": "The US will measure soldiers' testosterone",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-vil-maale-soldaters-testosteron",
+        "published_date": "2026-07-15 19:28:36",
+        "category": "Military"
     },
     {
         "title": "Ukraine reports three dead in Russian attacks on merchant ships",
@@ -259,25 +273,11 @@
         "category": "Military"
     },
     {
-        "title": "US military carries out heavy attacks in Iran",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amerikansk-militaer-udfoerer-kraftige-angreb-i-iran?referrer=RSS",
-        "published_date": "2026-07-07 22:53:49",
-        "category": "Military"
-    },
-    {
-        "title": "New Russian airstrikes ignite fires in Ukraine's capital",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nye-russiske-luftangreb-antaender-brande-i-ukraines-hovedstad?referrer=RSS",
-        "published_date": "2026-07-07 22:27:49",
-        "category": "Military"
-    },
-    {
-        "title": "USA: We have launched heavy attacks against Iran",
+        "title": "Zelenskyj points to the energy chief as the new prime minister",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-vi-udfoerer-kraftige-angreb-mod-iran",
-        "published_date": "2026-07-07 21:39:32",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-peger-paa-energichef-som-ny-premierminister",
+        "published_date": "2026-07-15 15:01:56",
+        "category": "Energy"
     },
     {
         "title": "Trump has had a wild 2026, but not everything has gone smoothly for the president",
@@ -322,6 +322,132 @@
         "category": "Economy"
     },
     {
+        "title": "Trump administration replaces slavery plaques in Philadelphia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trumps-administration-udskifter-tavler-om-slaveri-i-philadelphia?referrer=RSS",
+        "published_date": "2026-07-15 23:35:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tuchel defends tactics after England's defeat against Argentina",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tuchel-forsvarer-taktik-efter-engelsk-nedtur-mod-argentina?referrer=RSS",
+        "published_date": "2026-07-15 23:19:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump portrait and sea eagle to adorn special US coin",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-portraet-og-havoern-skal-pryde-saerlig-amerikansk-moent?referrer=RSS",
+        "published_date": "2026-07-15 22:38:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Luke Skywalker's lightsaber sold for almost 20 million at auction",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/luke-skywalkers-lyssvaerd-solgt-for-naesten-20-millioner-paa-auktion?referrer=RSS",
+        "published_date": "2026-07-15 22:19:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentina delivers a wild comeback on the way to the World Cup final",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/argentina-leverer-vildt-comeback-paa-vejen-mod-vm-finale?referrer=RSS",
+        "published_date": "2026-07-15 21:20:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Beware of short-term solutions and firefighting when it comes to the fear of AI in school",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/pas-paa-kortsigtede-hovsaloesninger-og-brandslukninger-naar-det-gaelder-frygten-for-ai-i-skolen?referrer=RSS",
+        "published_date": "2026-07-15 20:58:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reviewers rave about The Odyssey: Nolan has outdone himself",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/anmeldere-jubler-over-the-odyssey-nolan-har-overgaaet-sig-selv?referrer=RSS",
+        "published_date": "2026-07-15 20:41:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Let's kill two birds with one stone and let the ministerial drivers also be caregivers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/lad-os-slaa-to-fluer-med-et-smaek-og-lade-ministerchauffoererne-ogsaa-vaere-sjaelesoergere?referrer=RSS",
+        "published_date": "2026-07-15 20:41:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two boys on the run arrested",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/drenge-paa-fangeflugt-anholdt",
+        "published_date": "2026-07-15 18:57:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ukrainian defense minister resigns",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukrainsk-forsvarsminister-traeder-tilbage",
+        "published_date": "2026-07-15 18:55:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "German man accused of drugging, raping and filming women",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tysk-mand-sigtet-bedoeve-voldtage-og-filme-kvinder",
+        "published_date": "2026-07-15 18:18:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Henrik Qvortrup operated on for flesh-eating bacteria",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/henrik-qvortrup-opereret-koedaedende-bakterie",
+        "published_date": "2026-07-15 16:13:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Like being stuck in honey': foreigners describe working in summer in Denmark",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260715/like-being-stuck-in-honey-foreigners-describe-working-in-summer-in-denmark",
+        "published_date": "2026-07-15 15:25:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are looking for two boys on the run in Nyk\u00f8bing Zealand",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-drenge-paa-fangeflugt-i-nykoebing-sjaelland",
+        "published_date": "2026-07-15 15:15:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Penguin twins hatched in Gren\u00e5",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pingvintvillinger-udklaekket-i-grenaa",
+        "published_date": "2026-07-15 15:01:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pastries, harbour swims and fireworks: My perfect Copenhagen summer weekend",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260715/pastries-harbour-swims-and-fireworks-my-perfect-copenhagen-summer-weekend",
+        "published_date": "2026-07-15 13:57:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Troubled football club cuts pay for female players",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fodboldklub-i-vanskeligheder-sloejfer-loen-til-kvindelige-spillere",
+        "published_date": "2026-07-15 12:17:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "The seal has been spotted in Copenhagen Harbour",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sael-er-spottet-i-koebenhavns-havn",
+        "published_date": "2026-07-15 12:13:52",
+        "category": "Local Events"
+    },
+    {
         "title": "A fire in a rubber goat has spread to the warehouse at Kolding Harbour",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/brand-i-gummiged-har-bredt-sig-til-lagerhal-paa-kolding-havn?referrer=RSS",
@@ -333,132 +459,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/naturformidler-larve-boer-ikke-fjernes-fra-amager-faelled?referrer=RSS",
         "published_date": "2026-07-15 11:55:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Top Republicans sound the alarm from the pulpit: \"Crazy mini-Mamdanis are popping up everywhere\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/toprepublikaner-slaar-alarm-fra-talerstolen-skoere-mini-mamdanis-dukker-op-overalt?referrer=RSS",
-        "published_date": "2026-07-15 11:52:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Home director quits after critical articles on management style",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/home-direktoer-stopper-efter-kritiske-artikler-om-ledelsesstil?referrer=RSS",
-        "published_date": "2026-07-15 11:40:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US starts another attack wave against Iran",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-starter-endnu-en-angrebsboelge-mod-iran?referrer=RSS",
-        "published_date": "2026-07-15 11:27:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire in industrial building at Kolding Harbour",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brand-i-industribygning-paa-kolding-havn",
-        "published_date": "2026-07-15 11:22:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Painter must get rid of half a million after defeat in court case",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/kunstmaler-skal-af-med-halv-million-efter-nederlag-i-retssag?referrer=RSS",
-        "published_date": "2026-07-15 10:54:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four acquitted of charges of dereliction of duty leading to man's death",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/fire-frifindes-for-anklager-om-pligtforsoemmelse-op-til-mands-doed?referrer=RSS",
-        "published_date": "2026-07-15 10:51:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "English mistrust characterizes the prelude to Argentina's bang",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/engelsk-mistro-praeger-optakt-til-argentina-brag?referrer=RSS",
-        "published_date": "2026-07-15 10:51:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Narcohund found over 100 kilos of hashish",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/narkohund-fandt-over-100-kilo-hash",
-        "published_date": "2026-07-15 09:13:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The government is urgently procuring new drone and anti-drone systems",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/regeringen-hasteanskaffer-nye-drone-og-antidronesystemer",
-        "published_date": "2026-07-15 08:39:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two arrested after shooting incident in Ballerup",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/anholdt-efter-skudepisode-i-ballerup",
-        "published_date": "2026-07-15 07:16:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "One person has died after a boat sank near Alcatraz",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/en-person-er-doed-efter-en-baad-er-sunket-naer-alcatraz",
-        "published_date": "2026-07-15 04:26:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain's goalscorer after World Cup final place: A dream come true",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/spaniens-maalscorer-efter-vm-finaleplads-en-droem-der-gaar-i-opfyldelse?referrer=RSS",
-        "published_date": "2026-07-14 23:24:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "23-year-old man taken to hospital after stabbing in \u00d8sterbro",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/23-aarig-mand-koert-paa-hospitalet-efter-knivstikkeri-paa-oesterbro?referrer=RSS",
-        "published_date": "2026-07-14 23:15:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: ICE no longer allowed to stop moving vehicles after homicide",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/medier-ice-maa-ikke-laengere-stoppe-koeretoejer-i-bevaegelse-efter-drab?referrer=RSS",
-        "published_date": "2026-07-14 22:42:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Well-placed Spain defeat France and book the World Cup final",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/veloplagte-spanien-dukker-frankrig-og-booker-vm-finale?referrer=RSS",
-        "published_date": "2026-07-14 21:02:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Members of Parliament do not deserve any more special privileges",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/folketingsmedlemmer-fortjener-ikke-flere-saerlige-privilegier?referrer=RSS",
-        "published_date": "2026-07-14 20:58:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US attacks Iran for the fourth night in a row ahead of the port blockade",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-angriber-iran-for-fjerde-aften-i-traek-forud-for-havneblokade?referrer=RSS",
-        "published_date": "2026-07-14 20:46:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fireman admits to having started a large fire south of Paris",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/brandmand-indroemmer-at-have-stiftet-stor-brand-syd-for-paris?referrer=RSS",
-        "published_date": "2026-07-14 20:40:47",
         "category": "Local Events"
     }
 ]
