@@ -1,5 +1,12 @@
 [
     {
+        "title": "Von der Leyen announces EU cooperation with Ukraine on defense production",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/von-der-leyen-varsler-eu-samarbejde-med-ukraine-om-forsvarsproduktion?referrer=RSS",
+        "published_date": "2026-07-15 11:18:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Deschamps after the World Cup exit: Spain played a level above us",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/deschamps-efter-vm-exit-spanien-spillede-et-niveau-over-os?referrer=RSS",
@@ -130,13 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/iran-usas-angreb-har-gjort-maaneders-diplomatisk-indsats-nytteloes?referrer=RSS",
         "published_date": "2026-07-12 23:21:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Lars L\u00f8kke Rasmussen sends his regards to the late senator's family",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lars-loekke-rasmussen-sender-hilsen-til-afdoed-senators-familie",
-        "published_date": "2026-07-12 19:20:33",
         "category": "Diplomacy"
     },
     {
@@ -280,6 +280,13 @@
         "category": "Military"
     },
     {
+        "title": "Trump has had a wild 2026, but not everything has gone smoothly for the president",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-har-haft-et-vildt-2026-men-alt-er-ikke-gaaet-som-smurt-i-olie-for-praesidenten?referrer=RSS",
+        "published_date": "2026-07-15 11:15:22",
+        "category": "Energy"
+    },
+    {
         "title": "Power is back on in Cuba",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/stroemmen-er-tilbage-i-cuba",
@@ -313,6 +320,97 @@
         "url": "https://www.berlingske.dk/virksomheder/nykredit-moerklaegger-tal-i-debat-om-boliglaan?referrer=RSS",
         "published_date": "2026-07-08 12:06:36",
         "category": "Economy"
+    },
+    {
+        "title": "A fire in a rubber goat has spread to the warehouse at Kolding Harbour",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/brand-i-gummiged-har-bredt-sig-til-lagerhal-paa-kolding-havn?referrer=RSS",
+        "published_date": "2026-07-15 12:05:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Natural mediator: Larvae should not be removed from Amager F\u00e6lled",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/naturformidler-larve-boer-ikke-fjernes-fra-amager-faelled?referrer=RSS",
+        "published_date": "2026-07-15 11:55:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Top Republicans sound the alarm from the pulpit: \"Crazy mini-Mamdanis are popping up everywhere\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/toprepublikaner-slaar-alarm-fra-talerstolen-skoere-mini-mamdanis-dukker-op-overalt?referrer=RSS",
+        "published_date": "2026-07-15 11:52:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Home director quits after critical articles on management style",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/home-direktoer-stopper-efter-kritiske-artikler-om-ledelsesstil?referrer=RSS",
+        "published_date": "2026-07-15 11:40:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US starts another attack wave against Iran",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-starter-endnu-en-angrebsboelge-mod-iran?referrer=RSS",
+        "published_date": "2026-07-15 11:27:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire in industrial building at Kolding Harbour",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brand-i-industribygning-paa-kolding-havn",
+        "published_date": "2026-07-15 11:22:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Painter must get rid of half a million after defeat in court case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/kunstmaler-skal-af-med-halv-million-efter-nederlag-i-retssag?referrer=RSS",
+        "published_date": "2026-07-15 10:54:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four acquitted of charges of dereliction of duty leading to man's death",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/fire-frifindes-for-anklager-om-pligtforsoemmelse-op-til-mands-doed?referrer=RSS",
+        "published_date": "2026-07-15 10:51:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "English mistrust characterizes the prelude to Argentina's bang",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/engelsk-mistro-praeger-optakt-til-argentina-brag?referrer=RSS",
+        "published_date": "2026-07-15 10:51:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Narcohund found over 100 kilos of hashish",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/narkohund-fandt-over-100-kilo-hash",
+        "published_date": "2026-07-15 09:13:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The government is urgently procuring new drone and anti-drone systems",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/regeringen-hasteanskaffer-nye-drone-og-antidronesystemer",
+        "published_date": "2026-07-15 08:39:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two arrested after shooting incident in Ballerup",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/anholdt-efter-skudepisode-i-ballerup",
+        "published_date": "2026-07-15 07:16:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "One person has died after a boat sank near Alcatraz",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/en-person-er-doed-efter-en-baad-er-sunket-naer-alcatraz",
+        "published_date": "2026-07-15 04:26:29",
+        "category": "Local Events"
     },
     {
         "title": "Spain's goalscorer after World Cup final place: A dream come true",
@@ -361,97 +459,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/brandmand-indroemmer-at-have-stiftet-stor-brand-syd-for-paris?referrer=RSS",
         "published_date": "2026-07-14 20:40:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Berlingske believes: The scandal was easy to predict - and it reveals the Democrats' desperation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/berlingske-mener-skandalen-var-nem-at-forudsige--og-den-afsloerer-demokraternes-desperation?referrer=RSS",
-        "published_date": "2026-07-14 20:23:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forest fires south of Paris are now under control, French authorities say",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skovbrande-syd-paris-er-nu-under-kontrol-oplyser-franske-myndigheder",
-        "published_date": "2026-07-14 19:00:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Keir Starmer receives special award from Macron",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/keir-starmer-modtager-saerlig-pris-fra-macron",
-        "published_date": "2026-07-14 18:48:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Matcha powder is recalled",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/matchapulver-tilbagekaldes",
-        "published_date": "2026-07-14 17:51:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "British politician was killed in a targeted attack, anti-terrorist unit believes",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/britisk-politiker-blev-draebt-i-et-maalrettet-angreb-mener-antiterror-enhed",
-        "published_date": "2026-07-14 16:00:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Emergency services warn of wildfires",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/beredskaber-advarer-mod-naturbrande",
-        "published_date": "2026-07-14 15:36:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Last year it was cancelled: This year, interest in the Skagen Marathon is record high",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sidste-aar-blev-det-aflyst-i-aar-er-interessen-skagen-marathon-rekordstor",
-        "published_date": "2026-07-14 14:02:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Odense Havnebad temporarily closes after faeces were found",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/odense-havnebad-lukker-midlertidigt-efter-fund-af-affoering",
-        "published_date": "2026-07-14 13:28:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "WHO: Ebola outbreak in DR Congo is actually twice as large",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/who-ebolaudbrud-i-dr-congo-er-reelt-dobbelt-saa-stort",
-        "published_date": "2026-07-14 13:13:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spanish Prime Minister's brother sentenced for creating a position for himself",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/spansk-premierministers-bror-doemt-oprette-stilling-til-sig-selv",
-        "published_date": "2026-07-14 13:09:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Night work can cause stops on the motorway towards Copenhagen Airport",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/natarbejde-kan-give-stop-paa-motorvejen-mod-koebenhavns-lufthavn",
-        "published_date": "2026-07-14 13:03:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Civil Aviation Agency advises against flights over several Gulf states",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/luftfartsagentur-fraraader-flyvninger-over-flere-golfstater",
-        "published_date": "2026-07-14 12:26:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "TELL US: What's it like working in Denmark in the peak summer months?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260714/tell-us-whats-it-like-working-in-denmark-in-the-peak-summer-months",
-        "published_date": "2026-07-14 12:06:10",
         "category": "Local Events"
     }
 ]
