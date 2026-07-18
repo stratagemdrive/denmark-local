@@ -1,5 +1,19 @@
 [
     {
+        "title": "North Korea's foreign minister sets course for Russia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/nordkoreas-udenrigsminister-saetter-kurs-mod-rusland?referrer=RSS",
+        "published_date": "2026-07-18 23:39:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Council of Europe warns Denmark against the risk at the EU's exit centres",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/europaraadet-advarer-danmark-mod-risikoen-ved-eus-udrejsecentre?referrer=RSS",
+        "published_date": "2026-07-18 19:57:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "EU-based British students to pay international fees in UK from 2028",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260717/eu-based-british-students-to-pay-international-fees-in-uk-from-2028",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "EU population to peak in 2029 before long-term decline",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260714/eu-population-to-peak-in-2029-before-long-term-decline",
-        "published_date": "2026-07-14 12:57:48",
-        "category": "Diplomacy"
+        "title": "Two US soldiers killed in Iranian attack in Jordan",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/to-amerikanske-soldater-draebt-i-iransk-angreb-i-jordan?referrer=RSS",
+        "published_date": "2026-07-18 22:53:51",
+        "category": "Military"
     },
     {
-        "title": "Report: Europe is losing the demographic race with Africa and the Middle East",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rapport-europa-taber-demografi-kaploebet-med-afrika-og-mellemoesten?referrer=RSS",
-        "published_date": "2026-07-14 11:20:47",
-        "category": "Diplomacy"
+        "title": "Two US soldiers killed in Jordan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/amerikanske-soldater-draebt-i-jordan",
+        "published_date": "2026-07-18 17:29:59",
+        "category": "Military"
     },
     {
         "title": "Exclusive yacht manufacturer has lost over 110 million in three years: Now they want to produce military drones",
@@ -252,20 +266,6 @@
         "category": "Military"
     },
     {
-        "title": "Enraged crowd overturns military vehicle\u00a0 \u2013 mobilization crisis simmers in Ukraine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rasende-folkemaengde-vaelter-militaerkoeretoej--mobiliseringskrisen-ulmer-i-ukraine?referrer=RSS",
-        "published_date": "2026-07-10 12:13:29",
-        "category": "Military"
-    },
-    {
-        "title": "Spectacular murder case takes another turn: Ukrainian agent suddenly changes explanation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/spektakulaer-drabssag-tager-endnu-en-drejning-pludselig-aendrer-ukrainsk-agent-forklaring?referrer=RSS",
-        "published_date": "2026-07-10 11:57:00",
-        "category": "Military"
-    },
-    {
         "title": "Kuwait accuses Iran of targeted attacks on civilians and infrastructure",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/kuwait-beskylder-iran-for-maalrettede-angreb-paa-civile-og-infrastruktur?referrer=RSS",
@@ -315,6 +315,13 @@
         "category": "Energy"
     },
     {
+        "title": "CFO at Copenhagen Airport dead",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/oekonomidirektoer-i-koebenhavns-lufthavn-doed",
+        "published_date": "2026-07-18 14:05:50",
+        "category": "Economy"
+    },
+    {
         "title": "This absurd poem from 1876 can help Tax explain the inexplicable taxes and assessments to the people",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/laesere/dette-absurde-digt-fra-1876-kan-hjaelpe-skat-med-at-forklare-de-uforklarlige-skatter-og-vurderinger-til-folket?referrer=RSS",
@@ -327,6 +334,104 @@
         "url": "https://www.berlingske.dk/dine-penge/privatoekonomisk-brevkassehvad-sker-der-med-arven-hvis-du-og-din-partner-doer-i-et-biluheld?referrer=RSS",
         "published_date": "2026-07-11 11:36:10",
         "category": "Economy"
+    },
+    {
+        "title": "England wins WC bronze after grotesque goal celebration",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/england-vinder-vm-bronze-efter-grotesk-maalfest?referrer=RSS",
+        "published_date": "2026-07-18 23:22:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hungary's president says he is ready to step down",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ungarns-praesident-melder-sig-klar-til-at-gaa-af?referrer=RSS",
+        "published_date": "2026-07-18 23:12:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kylian Mbapp\u00e9 takes over the record for most World Cup goals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kylian-mbappe-overtager-rekorden-for-flest-vm-maal?referrer=RSS",
+        "published_date": "2026-07-18 22:47:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban system critic travels to the US after five years in prison",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/cubansk-systemkritiker-rejser-til-usa-efter-fem-aars-faengsel?referrer=RSS",
+        "published_date": "2026-07-18 21:45:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unflappable check knocks off Tauson in semifinals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/urokkelig-tjekke-piller-pynten-af-tauson-i-semifinale?referrer=RSS",
+        "published_date": "2026-07-18 21:15:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bruised Dane falls short of the time limit in the Tour de France",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/forslaaet-dansker-falder-for-tidsgraensen-i-tour-de-france?referrer=RSS",
+        "published_date": "2026-07-18 20:21:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Summer road users are warned of a dangerous situation in heavy rain",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sommertrafikanter-advares-mod-farlig-situation-i-kraftig-regn",
+        "published_date": "2026-07-18 19:43:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rasmus Neergaard continues his ascent at golf majors",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/rasmus-neergaard-fortsaetter-opturen-ved-golfmajor?referrer=RSS",
+        "published_date": "2026-07-18 19:27:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Then it has happened again: Another landowner reported to the police for gross abuse of vulnerable, protected nature",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/kolding/saa-er-det-sket-igen-endnu-en-lodsejer-politianmeldt-for-groft-overgreb-paa-saarbar-beskyttet-natur?rss",
+        "published_date": "2026-07-18 15:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "British running star breaks 27-year-old world record",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/britisk-loebestjerne-slaar-27-aar-gammel-verdensrekord",
+        "published_date": "2026-07-18 15:18:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nolan's Odyss\u00e9 film breaks records in cinemas with millions of earnings",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nolans-odysse-film-slaar-rekord-i-biograferne-med-milliardindtjening",
+        "published_date": "2026-07-18 15:16:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Train traffic over the \u00d8resund Bridge suspended until Sunday",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/togtrafikken-over-oeresundsbroen-indstillet-indtil-soendag",
+        "published_date": "2026-07-18 13:37:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Massive queues on Storeb\u00e6ltbroen on a big travel day",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/massiv-koekoersel-paa-storebaeltsbroen-paa-stor-rejsedag",
+        "published_date": "2026-07-18 13:00:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister: Denmark has offered Norway help in extinguishing a major fire",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/minister-danmark-har-tilbudt-norge-hjaelp-med-slukke-storbrand",
+        "published_date": "2026-07-18 11:49:18",
+        "category": "Local Events"
     },
     {
         "title": "14th stage of the Tour de France - follow here",
@@ -368,104 +473,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/syv-personer-draebt-i-ukrainske-angreb",
         "published_date": "2026-07-18 10:45:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Death came brutally and unexpectedly.But it has taught him an important thing about love",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/eksistens/doeden-kom-brutalt-og-uventet-men-den-har-laert-ham-en-vigtig-ting-om-kaerlighed?referrer=RSS",
-        "published_date": "2026-07-18 10:41:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Br\u00f8ndby appoints Luis Binks as new captain",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/broendby-udnaevner-luis-binks-til-ny-anfoerer?referrer=RSS",
-        "published_date": "2026-07-18 10:39:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Citizens in Lundeborg continue to fight against large summer houses",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/borgere-i-lundeborg-kaemper-videre-mod-store-sommerhuse",
-        "published_date": "2026-07-18 10:33:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Indian company launches first privately developed rocket into orbit",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/indisk-virksomhed-sender-foerste-privatudviklede-raket-i-kredsloeb?referrer=RSS",
-        "published_date": "2026-07-18 10:29:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two men are suing hospital for switching them at birth",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/to-maend-sagsoeger-hospital-for-at-bytte-om-paa-dem-ved-foedslen?referrer=RSS",
-        "published_date": "2026-07-18 10:20:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States and Mexico must meet on a trade agreement",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-og-mexico-skal-moedes-om-handelsaftale",
-        "published_date": "2026-07-18 05:39:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forecast rain gives hope in efforts against Norwegian fire",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/varslet-regn-giver-haab-i-indsats-mod-norsk-brand",
-        "published_date": "2026-07-18 04:50:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "OVERVIEW: We know this about the shooting incident in N\u00f8rresundby",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/overblik-det-ved-vi-om-skudepisoden-i-noerresundby?referrer=RSS",
-        "published_date": "2026-07-17 23:15:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Death toll in Venezuela rises to over 5,000 after earthquake",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/doedstal-i-venezuela-stiger-til-over-5000-efter-jordskaelv?referrer=RSS",
-        "published_date": "2026-07-17 23:07:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deceased after shooting in N\u00f8rresundby was a 62-year-old man",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/afdoede-efter-skyderi-i-noerresundby-var-en-62-aarig-mand?referrer=RSS",
-        "published_date": "2026-07-17 22:57:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The fight against a major fire in Norway continues through the night",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kampen-mod-storbrand-i-norge-fortsaetter-natten-igennem?referrer=RSS",
-        "published_date": "2026-07-17 22:48:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Neergaard rises after a difficult start in the British golf major",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/neergaard-rejser-sig-efter-svaer-start-i-britisk-golfmajor?referrer=RSS",
-        "published_date": "2026-07-17 21:21:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Despite the recommendation, over 62 percent are denied parole",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/trods-anbefaling-faar-over-62-procent-afslag-paa-proeveloesladelse?referrer=RSS",
-        "published_date": "2026-07-17 21:03:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Think tank sees gigantic billion-dollar potential in municipalities: The government's target is \"paltry\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/taenketank-ser-gigantisk-milliardpotentiale-i-kommunerne-regeringens-maal-er-soelle?referrer=RSS",
-        "published_date": "2026-07-17 20:47:22",
         "category": "Local Events"
     }
 ]
