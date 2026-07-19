@@ -1,5 +1,12 @@
 [
     {
+        "title": "More and more people are opting out of the United States.But the worst thing about the country is leaving it",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/flere-og-flere-fravaelger-usa-men-det-vaerste-ved-landet-er-at-forlade-det?referrer=RSS",
+        "published_date": "2026-07-19 10:47:33",
+        "category": "Diplomacy"
+    },
+    {
         "title": "North Korea's foreign minister sets course for Russia",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/nordkoreas-udenrigsminister-saetter-kurs-mod-rusland?referrer=RSS",
@@ -130,13 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/deschamps-efter-vm-exit-spanien-spillede-et-niveau-over-os?referrer=RSS",
         "published_date": "2026-07-14 22:58:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Britain and the EU abolish border controls to Gibraltar",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-og-eu-afskaffer-graensekontrol-til-gibraltar",
-        "published_date": "2026-07-14 12:59:35",
         "category": "Diplomacy"
     },
     {
@@ -329,11 +329,123 @@
         "category": "Economy"
     },
     {
-        "title": "Private finance letterbox:\u00a0What happens to the inheritance if you and your partner die in a car accident?",
+        "title": "Scandlines affected by ferry problems on busy travel day",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/dine-penge/privatoekonomisk-brevkassehvad-sker-der-med-arven-hvis-du-og-din-partner-doer-i-et-biluheld?referrer=RSS",
-        "published_date": "2026-07-11 11:36:10",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/danmark/scandlines-ramt-af-faergeproblemer-paa-travl-rejsedag?referrer=RSS",
+        "published_date": "2026-07-19 11:41:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Doping tests disturb Vingegaard's sleep before the mountain stage of the Tour",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dopingtest-forstyrrer-vingegaards-soevn-inden-bjergetape-i-touren?referrer=RSS",
+        "published_date": "2026-07-19 11:34:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "48-year-old allows himself to be mentally examined after murder",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/48-aarig-lader-sig-mentalundersoege-efter-drab",
+        "published_date": "2026-07-19 11:18:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Train stopped by logs in \u00d8lgod - major investigation is underway",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tog-stoppet-af-traestammer-i-oelgod-stor-efterforskning-er-i-gang?referrer=RSS",
+        "published_date": "2026-07-19 11:17:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scandlines have large delays on busy travel days",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/scandlines-har-store-forsinkelser-paa-travl-rejsedag",
+        "published_date": "2026-07-19 11:09:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police are investigating deliberate action after logs stopped trains",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterforsker-bevidst-handling-efter-traestammer-har-stoppet-tog",
+        "published_date": "2026-07-19 11:07:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fifa president has attended 43 World Cup matches from the stands",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fifa-praesident-har-overvaeret-43-vm-kampe-fra-tribunen?referrer=RSS",
+        "published_date": "2026-07-19 11:05:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lidl continues the price war, while other chains pull more on the brakes",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/lidl-fortsaetter-priskrig-mens-andre-kaeder-traekker-mere-i-bremsen?referrer=RSS",
+        "published_date": "2026-07-19 10:58:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Data center developers will sell stakes for billions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentar/udviklere-af-datacentre-vil-saelge-ejerandele-for-milliarder?referrer=RSS",
+        "published_date": "2026-07-19 10:45:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ferry with 116 passengers on board has capsized off the coast of Guyana",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/faerge-med-116-passagerer-om-bord-er-kaentret-ud-for-guyanas-kyst?referrer=RSS",
+        "published_date": "2026-07-19 10:38:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "So did the USA win the World Cup after all?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/vandt-usa-saa-vm-alligevel?referrer=RSS",
+        "published_date": "2026-07-19 10:31:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Road Directorate predicts heavy summer traffic on Sunday afternoon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/vejdirektoratet-forudser-taet-sommertrafik-soendag-eftermiddag?referrer=RSS",
+        "published_date": "2026-07-19 10:30:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Road Directorate expects heavy traffic this afternoon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/vejdirektoratet-forudser-taet-trafik-i-eftermiddag",
+        "published_date": "2026-07-19 10:09:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trains in West Jutland stop after hitting logs",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tog-i-vestjylland-holder-stille-efter-paakoersel-af-traestammer",
+        "published_date": "2026-07-19 09:23:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zealand's autism service is facing forced closure",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sjaellandsk-autismetilbud-staar-til-tvangslukning",
+        "published_date": "2026-07-19 08:44:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "A year after the courtship, Bettina's fiance drove himself to death: - Grief never leaves you",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/kerteminde/et-aar-efter-frieriet-koerte-bettinas-forlovede-sig-ihjel-sorgen-forlader-dig-aldrig?rss",
+        "published_date": "2026-07-19 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "You can buy a log cabin close to Legoland for DKK 365,000: Here's how it all works",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/vejen/du-kan-koebe-en-bjaelkehytte-taet-paa-legoland-for-365-000-kroner-saadan-haenger-det-sammen?rss",
+        "published_date": "2026-07-19 05:06:00",
+        "category": "Local Events"
     },
     {
         "title": "England wins WC bronze after grotesque goal celebration",
@@ -354,125 +466,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/kylian-mbappe-overtager-rekorden-for-flest-vm-maal?referrer=RSS",
         "published_date": "2026-07-18 22:47:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban system critic travels to the US after five years in prison",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/cubansk-systemkritiker-rejser-til-usa-efter-fem-aars-faengsel?referrer=RSS",
-        "published_date": "2026-07-18 21:45:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unflappable check knocks off Tauson in semifinals",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/urokkelig-tjekke-piller-pynten-af-tauson-i-semifinale?referrer=RSS",
-        "published_date": "2026-07-18 21:15:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bruised Dane falls short of the time limit in the Tour de France",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/forslaaet-dansker-falder-for-tidsgraensen-i-tour-de-france?referrer=RSS",
-        "published_date": "2026-07-18 20:21:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Summer road users are warned of a dangerous situation in heavy rain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sommertrafikanter-advares-mod-farlig-situation-i-kraftig-regn",
-        "published_date": "2026-07-18 19:43:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rasmus Neergaard continues his ascent at golf majors",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/rasmus-neergaard-fortsaetter-opturen-ved-golfmajor?referrer=RSS",
-        "published_date": "2026-07-18 19:27:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Then it has happened again: Another landowner reported to the police for gross abuse of vulnerable, protected nature",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/saa-er-det-sket-igen-endnu-en-lodsejer-politianmeldt-for-groft-overgreb-paa-saarbar-beskyttet-natur?rss",
-        "published_date": "2026-07-18 15:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "British running star breaks 27-year-old world record",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/britisk-loebestjerne-slaar-27-aar-gammel-verdensrekord",
-        "published_date": "2026-07-18 15:18:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nolan's Odyss\u00e9 film breaks records in cinemas with millions of earnings",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nolans-odysse-film-slaar-rekord-i-biograferne-med-milliardindtjening",
-        "published_date": "2026-07-18 15:16:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train traffic over the \u00d8resund Bridge suspended until Sunday",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/togtrafikken-over-oeresundsbroen-indstillet-indtil-soendag",
-        "published_date": "2026-07-18 13:37:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Massive queues on Storeb\u00e6ltbroen on a big travel day",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/massiv-koekoersel-paa-storebaeltsbroen-paa-stor-rejsedag",
-        "published_date": "2026-07-18 13:00:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister: Denmark has offered Norway help in extinguishing a major fire",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/minister-danmark-har-tilbudt-norge-hjaelp-med-slukke-storbrand",
-        "published_date": "2026-07-18 11:49:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "14th stage of the Tour de France - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/14-etape-af-tour-de-france--foelg-med-her?referrer=RSS",
-        "published_date": "2026-07-18 11:34:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "The National Emergency Management Agency has offered Norway help for a major fire",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/beredskabsstyrelsen-har-tilbudt-norge-hjaelp-til-storbrand?referrer=RSS",
-        "published_date": "2026-07-18 11:29:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The deadline for higher driving deductions on the July salary expires on Monday",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/mandag-udloeber-frist-for-hoejere-koerselsfradrag-paa-juliloennen?referrer=RSS",
-        "published_date": "2026-07-18 11:25:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Infantino meets with great support for re-election despite the scandalous case of a red card",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/infantino-moeder-stor-opbakning-til-genvalg-trods-speget-sag-om-roedt-kort?referrer=RSS",
-        "published_date": "2026-07-18 11:13:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Arrested person admits murder in shooting in N\u00f8rresundby",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/anholdt-erkender-drab-ved-skyderi-i-noerresundby?referrer=RSS",
-        "published_date": "2026-07-18 11:06:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Seven people killed in Ukrainian attacks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/syv-personer-draebt-i-ukrainske-angreb",
-        "published_date": "2026-07-18 10:45:34",
         "category": "Local Events"
     }
 ]
