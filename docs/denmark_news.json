@@ -266,11 +266,18 @@
         "category": "Military"
     },
     {
-        "title": "US conducts fourth wave of attacks against Iran in a week",
+        "title": "Saudi Arabia condemns Houthi threat of port blockade",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-gennemfoerer-fjerde-boelge-af-angreb-mod-iran-paa-en-uge?referrer=RSS",
-        "published_date": "2026-07-12 22:04:48",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/internationalt/saudi-arabien-fordoemmer-houthiernes-trussel-om-havneblokade?referrer=RSS",
+        "published_date": "2026-07-20 21:20:46",
+        "category": "Energy"
+    },
+    {
+        "title": "Over a million pay tribute to Spanish world champions in Madrid",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/over-en-million-hylder-spanske-verdensmestre-i-madrid?referrer=RSS",
+        "published_date": "2026-07-20 19:37:48",
+        "category": "Energy"
     },
     {
         "title": "Kuwait accuses Iran of targeted attacks on civilians and infrastructure",
@@ -315,13 +322,6 @@
         "category": "Energy"
     },
     {
-        "title": "Power is back on in Cuba",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stroemmen-er-tilbage-i-cuba",
-        "published_date": "2026-07-12 14:48:26",
-        "category": "Energy"
-    },
-    {
         "title": "Burnham promises the British economic respite in his first speech in Downing Street",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/burnham-lover-briterne-oekonomisk-pusterum-i-foerste-tale-i-downing-street?referrer=RSS",
@@ -343,11 +343,102 @@
         "category": "Economy"
     },
     {
-        "title": "This absurd poem from 1876 can help Tax explain the inexplicable taxes and assessments to the people",
+        "title": "A 27-year-old man has been taken to hospital after a stabbing in N\u00f8rrebro",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/dette-absurde-digt-fra-1876-kan-hjaelpe-skat-med-at-forklare-de-uforklarlige-skatter-og-vurderinger-til-folket?referrer=RSS",
-        "published_date": "2026-07-12 21:55:08",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/indland/27-aarig-mand-er-koert-paa-hospitalet-efter-knivstik-paa-noerrebro?referrer=RSS",
+        "published_date": "2026-07-20 23:38:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Australian government enlists a Danish-produced command system in the army",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/australiens-regering-indruller-danskproduceret-kommandosystem-i-haeren?referrer=RSS",
+        "published_date": "2026-07-20 23:11:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The spearhead in Labour's presidential race will be the new British defense minister",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/spydspids-i-labours-formandsopgoer-bliver-ny-britisk-forsvarsminister?referrer=RSS",
+        "published_date": "2026-07-20 23:02:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Let crazy bikers lose the expensive racing bike",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/lad-vanvidscyklister-miste-den-dyre-racercykel?referrer=RSS",
+        "published_date": "2026-07-20 22:21:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US imposes 50 percent tariffs on several goods from Canada",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-indfoerer-50-procent-told-paa-flere-varer-fra-canada?referrer=RSS",
+        "published_date": "2026-07-20 21:55:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about American politics - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-206?referrer=RSS",
+        "published_date": "2026-07-20 21:24:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man assaulted and stabbed with a knife in Tilst",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/ung-mand-overfaldet-og-stukket-med-kniv-i-tilst?referrer=RSS",
+        "published_date": "2026-07-20 20:11:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "He has earned seven billion kroner from his musicals, but now he is \"begging\" for help to solve the crisis",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kultur/han-har-tjent-syv-milliarder-kroner-paa-sine-musicals-men-nu-tigger-han-om-hjaelp-til-at-loese-krise?referrer=RSS",
+        "published_date": "2026-07-20 19:27:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Famous chess player will not be president of Hungary",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/beroemt-skakspiller-vil-ikke-vaere-ungarns-praesident",
+        "published_date": "2026-07-20 18:52:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police investigate stabbing in Aarhus",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-efterforsker-knivstikkeri-i-aarhus",
+        "published_date": "2026-07-20 18:51:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Life for co-founder of the Sinaloa drug cartel",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/livstid-til-medstifter-af-narkokartellet-sinaloa",
+        "published_date": "2026-07-20 16:53:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rides on Bakken get an immediate order after an accident",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/forlystelse-paa-bakken-faar-strakspaabud-efter-ulykke",
+        "published_date": "2026-07-20 15:29:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Football legend Kevin Keegan has died",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/fodboldlegenden-kevin-keegan-er-doed",
+        "published_date": "2026-07-20 14:36:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The travel guide for five countries in the Middle East updated",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rejsevejledningen-fem-lande-i-mellemoesten-opdateret",
+        "published_date": "2026-07-20 14:31:54",
+        "category": "Local Events"
     },
     {
         "title": "Danish Expression of the Day: At have mange bolde i luften",
@@ -364,6 +455,20 @@
         "category": "Local Events"
     },
     {
+        "title": "Still looking for video and witnesses from \u00d8lgod",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/soeger-fortsat-video-og-vidner-fra-oelgod",
+        "published_date": "2026-07-20 13:56:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Receives honorary award for fighting against anonymity in Afghanistan investigation",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/faar-aerespris-kaempe-mod-anonymitet-i-afghanistan-udredning",
+        "published_date": "2026-07-20 13:25:40",
+        "category": "Local Events"
+    },
+    {
         "title": "What we know so far about Friday's fatal shooting in Denmark",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260720/what-we-know-so-far-about-fridays-fatal-shooting-in-denmark",
@@ -375,118 +480,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/vm-2026--her-faar-du-seneste-nyt-14?referrer=RSS",
         "published_date": "2026-07-20 12:44:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Frederiksberg mayor: \"The caterpillar from hell\" is not just a caterpillar - it is a threat to our quality of life",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/frederiksberg-borgmester-larven-fra-helvede-er-ikke-bare-en-larve--den-er-trussel-mod-vores-livskvalitet?referrer=RSS",
-        "published_date": "2026-07-20 12:43:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US has resumed the war against Iran - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-har-genoptaget-krigen-mod-iran--foelg-med-her-3?referrer=RSS",
-        "published_date": "2026-07-20 12:42:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "FCK has the prospect of Hungarian or Armenian opposition",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fck-har-udsigt-til-ungarsk-eller-armensk-modstand?referrer=RSS",
-        "published_date": "2026-07-20 12:33:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Frederiksen thanks his friend Starmer and welcomes Burnham",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/frederiksen-takker-vennen-starmer-og-byder-burnham-velkommen?referrer=RSS",
-        "published_date": "2026-07-20 12:33:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three Danes receive medals at the International Chemistry Olympiad",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/tre-danskere-faar-medaljer-ved-den-internationale-kemiolympiade?referrer=RSS",
-        "published_date": "2026-07-20 12:30:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police must question 15-20 witnesses in the case of a shooting in N\u00f8rresundby",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-skal-afhoere-15-20-vidner-i-sag-om-skyderi-i-noerresundby",
-        "published_date": "2026-07-20 12:19:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hamas elects new supreme leader",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hamas-vaelger-ny-oeverste-leder",
-        "published_date": "2026-07-20 12:18:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen Municipality wants to clear the tent camp at Havneholmen Metro",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/koebenhavns-kommune-vil-have-ryddet-teltlejr-ved-havneholmen-metro",
-        "published_date": "2026-07-20 11:42:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prisoner is arrested after escaping",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fange-er-paa-fri-fod-efter-flugt-under-transport",
-        "published_date": "2026-07-20 09:53:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "13-year-old dies during football celebration in Spain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/13-aarig-doed-under-fodboldfejring-i-spanien",
-        "published_date": "2026-07-20 08:54:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Extinguishing work can continue for ten days after a major fire in Norway",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/slukningsarbejdet-kan-fortsaette-i-ti-dage-efter-storbrand-i-norge",
-        "published_date": "2026-07-20 07:45:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Death toll rises after Russian attack on cargo ship",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/doedstal-stiger-efter-russisk-angreb-paa-fragtskib",
-        "published_date": "2026-07-20 06:44:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "A huge investment cost a month's production: Now Lene's fries roll twice as fast",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/varde/kaempe-investering-kostede-en-maaneds-produktion-nu-ruller-lenes-pommes-frites-dobbelt-saa-hurtigt?rss",
-        "published_date": "2026-07-20 04:48:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 400 drones sent towards Moscow, says mayor",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-end-400-droner-sendt-mod-moskva-siger-borgmester",
-        "published_date": "2026-07-20 03:57:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Madrid burst into cheers after Spain's World Cup victory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/madrid-bryder-ud-i-jubelraab-efter-spansk-vm-sejr?referrer=RSS",
-        "published_date": "2026-07-19 23:38:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scaloni after Argentina defeat: Spain was the best team",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/scaloni-efter-argentinsk-nederlag-spanien-var-det-bedste-hold?referrer=RSS",
-        "published_date": "2026-07-19 23:23:51",
         "category": "Local Events"
     }
 ]
