@@ -1,5 +1,12 @@
 [
     {
+        "title": "UN report: Fewer people are hungry for the third year in a row",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fn-rapport-faerre-mennesker-sulter-tredje-aar-i-traek",
+        "published_date": "2026-07-21 13:38:22",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Record fine for Chinese giant for selling illegal goods in Europe",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/rekordboede-til-kinesisk-gigant-for-at-saelge-ulovlige-varer-i-europa?referrer=RSS",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "COMPARE: Which European countries allow assisted dying?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260716/compare-which-european-countries-allow-assisted-dying",
-        "published_date": "2026-07-16 10:25:07",
-        "category": "Diplomacy"
+        "title": "Zelenskyy fires defense chief after criticism",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/zelenskyj-afskediger-forsvarschef-efter-kritik?referrer=RSS",
+        "published_date": "2026-07-21 20:46:54",
+        "category": "Military"
+    },
+    {
+        "title": "Zelenskyy fires Ukraine's army chief",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-har-fyret-haerchef-syrskyj",
+        "published_date": "2026-07-21 19:55:49",
+        "category": "Military"
     },
     {
         "title": "Protesters come with a sharp deadline for Zelenskyj",
@@ -245,27 +259,6 @@
         "category": "Military"
     },
     {
-        "title": "Prime Minister of Ukraine resigns",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraines-premierminister-traeder-tilbage",
-        "published_date": "2026-07-13 17:45:33",
-        "category": "Military"
-    },
-    {
-        "title": "Conflict in the Middle East - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/konflikt-i-mellemoesten--foelg-med-her-87?referrer=RSS",
-        "published_date": "2026-07-13 12:41:12",
-        "category": "Military"
-    },
-    {
-        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1788?referrer=RSS",
-        "published_date": "2026-07-13 12:36:00",
-        "category": "Military"
-    },
-    {
         "title": "Saudi Arabia condemns Houthi threat of port blockade",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/saudi-arabien-fordoemmer-houthiernes-trussel-om-havneblokade?referrer=RSS",
@@ -357,143 +350,143 @@
         "category": "Economy"
     },
     {
+        "title": "Trump will impose tariffs on counterfeit drugs in two years",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-vil-indfoere-told-paa-kopimedicin-om-to-aar?referrer=RSS",
+        "published_date": "2026-07-21 23:24:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hundreds evacuated during forest fire in southern France",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hundredvis-evakueres-under-skovbrand-i-sydfrankrig?referrer=RSS",
+        "published_date": "2026-07-21 23:21:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Censors at CBS warn of influence from artificial intelligence",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/censorer-paa-cbs-advarer-om-indflydelse-fra-kunstig-intelligens?referrer=RSS",
+        "published_date": "2026-07-21 21:44:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hegseth estimates the cost of the war in Iran at 246 billion kroner",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hegseth-anslaar-prisen-paa-krigen-i-iran-til-246-milliarder-kroner?referrer=RSS",
+        "published_date": "2026-07-21 21:44:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "13-year-old Danish girl has died after a traffic accident in Northern Italy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/13-aarig-dansk-pige-er-doed-efter-trafikulykke-i-norditalien?referrer=RSS",
+        "published_date": "2026-07-21 21:17:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Danish woman has died in a traffic accident in northern Italy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/dansk-kvinde-er-doed-i-trafikulykke-i-det-nordlige-italien?referrer=RSS",
+        "published_date": "2026-07-21 21:13:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Expelled AGF keeper: Red card is difficult to assess",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/udvist-agf-keeper-roedt-kort-er-svaert-at-vurdere?referrer=RSS",
+        "published_date": "2026-07-21 19:59:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "There is one good reason to wish Trump had won the 2020 election",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/der-er-en-god-grund-til-at-oenske-at-trump-havde-vundet-valget-i-2020?referrer=RSS",
+        "published_date": "2026-07-21 19:25:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lipowitz broke his collarbone on the single start",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/lipowitz-braekkede-kravebenet-paa-enkeltstarten?referrer=RSS",
+        "published_date": "2026-07-21 19:22:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least 41 dead in ferry sinking off Guyana",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mindst-41-doede-i-faergeforlis-ud-guyana",
+        "published_date": "2026-07-21 19:04:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Helicopters and boats dispatched: Eight-year-old girl drifted out to sea",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/aabenraa/helikoptere-og-baade-sendt-afsted-otteaarig-pige-drev-til-havs?rss",
+        "published_date": "2026-07-21 18:51:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Made woman's life hell: Man convicted of stalking and rape",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/gjorde-kvindes-liv-til-et-helvede-mand-doemt-for-stalking-og-voldtaegt?rss",
+        "published_date": "2026-07-21 17:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump pledges support to Lebanon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-lover-libanon-stoette",
+        "published_date": "2026-07-21 16:38:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "There are almost no killer snails this year: 'It's really good', says the garden owner",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/der-er-naesten-ingen-draebersnegle-i-aar-det-er-sgu-godt-siger-haveejer",
+        "published_date": "2026-07-21 15:25:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "What to do on rainy days with your kids this summer in Copenhagen",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260721/what-to-do-on-rainy-days-with-your-kids-this-summer-in-copenhagen",
+        "published_date": "2026-07-21 15:03:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Massive smoking ban on the way in Spain",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/massivt-rygeforbud-paa-vej-i-spanien",
+        "published_date": "2026-07-21 14:44:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "It is not known what will happen to the tent camp at the metro station",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/uvist-hvad-der-kommer-til-ske-med-teltlejr-ved-metrostation",
+        "published_date": "2026-07-21 13:51:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "British politician was killed by 21 blows with a hammer",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/britisk-politiker-blev-draebt-af-21-slag-med-hammer",
+        "published_date": "2026-07-21 13:49:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Everything that changes about life in Denmark in August 2026",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260721/everything-that-changes-about-life-in-denmark-in-august-2026",
+        "published_date": "2026-07-21 13:17:13",
+        "category": "Local Events"
+    },
+    {
         "title": "Novo will sue American competitor for misleading marketing",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/novo-vil-sagsoege-amerikansk-konkurrent-vildledende-markedsfoering",
         "published_date": "2026-07-21 12:07:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Maybe Berlingske should make a trip to Odense - international H.C.Andersen attraction already exists",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/maaske-skulle-berlingske-komme-en-tur-til-odense--international-hc-andersen-attraktion-findes-allerede?referrer=RSS",
-        "published_date": "2026-07-21 12:04:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "29-year-old Greenlandic man dead after boat accident in West Greenland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/29-aarig-groenlandsk-mand-doed-efter-baadulykke-i-vestgroenland?referrer=RSS",
-        "published_date": "2026-07-21 12:04:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge sets Paramount's giant acquisition of Warner Bros.on break",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/dommer-saetter-paramounts-gigantopkoeb-af-warner-bros-paa-pause?referrer=RSS",
-        "published_date": "2026-07-21 11:58:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "New study shows that exercise is an effective slimming tip.It's not just because you burn calories",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/vores-liv/nyt-studie-viser-at-traening-er-et-effektivt-slanketip-det-skyldes-ikke-kun-at-man-forbraender-kalorier?referrer=RSS",
-        "published_date": "2026-07-21 11:50:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israeli attack kills family of six in Gaza Strip, doctors say",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israelsk-angreb-draeber-familie-paa-seks-i-gazastriben-oplyser-laeger",
-        "published_date": "2026-07-21 11:47:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "General Motors is ramping up sales of large fossil fuel cars",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/general-motors-skruer-op-for-salget-af-store-fossilbiler?referrer=RSS",
-        "published_date": "2026-07-21 11:30:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "So many hectares of French nature have burned down this year",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/saa-mange-hektar-fransk-natur-er-braendt-ned-i-aar",
-        "published_date": "2026-07-21 11:01:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Record-breaking areas of French forest have burned in the first seven months of the year",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rekordstore-franske-skovarealer-er-braendt-i-aarets-foerste-syv-maaneder?referrer=RSS",
-        "published_date": "2026-07-21 10:57:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "18-year-old arrested: Hidden ax in his trousers",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/18-aarig-anholdt-falsk-betjent-gemte-oekse-i-bukserne",
-        "published_date": "2026-07-21 10:06:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Great pressure on the roads around the country's large amusement parks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stort-pres-paa-vejene-omkring-landets-store-forlystelsesparker",
-        "published_date": "2026-07-21 09:50:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unicef \u200b\u200bwarehouse was hit during Russian attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/unicef-lager-blev-ramt-under-russisk-angreb",
-        "published_date": "2026-07-21 09:26:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Warns of heat wave on popular Spanish tourist islands",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/varsler-hedeboelge-paa-populaere-spanske-turistoeer",
-        "published_date": "2026-07-21 09:09:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The fire service in Norway reports that it is under control of a large fire",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brandvaesen-i-norge-melder-om-kontrol-over-storbrand",
-        "published_date": "2026-07-21 08:49:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Suspension bridges reopen in Odense Zoo after caterpillars caused them to be closed",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/haengebroer-genaabner-i-odense-zoo-efter-larver-fik-dem-lukket",
-        "published_date": "2026-07-21 08:40:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Indian protest movement calls off march against country's parliament",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/indisk-protestbevaegelse-afblaeser-march-mod-landets-parlament",
-        "published_date": "2026-07-21 08:21:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Stephen Kinnock is appointed as Minister for Wales",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stephen-kinnock-udpeges-som-udenrigsminister-wales",
-        "published_date": "2026-07-21 07:11:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two tourists stabbed near the Acropolis",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/turister-ramt-af-knivstik-naer-akropolis",
-        "published_date": "2026-07-21 07:06:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Philippines claims that the Chinese Coast Guard hit naval personnel in the head",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/filippinerne-haevder-kinesisk-kystvagt-slog-flaadepersonale-i-hovedet",
-        "published_date": "2026-07-21 06:58:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "In May, 2,300 more people started work",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/i-maj-kom-2-300-flere-i-arbejde",
-        "published_date": "2026-07-21 06:13:02",
         "category": "Local Events"
     }
 ]
