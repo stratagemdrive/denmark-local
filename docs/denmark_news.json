@@ -1,5 +1,54 @@
 [
     {
+        "title": "EU foreign affairs chief: The Houthis must stop their attacks",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-s-udenrigschef-houthierne-maa-stoppe-deres-angreb",
+        "published_date": "2026-07-23 12:11:21",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Rubio does not believe that Iran is ready for a lasting peace agreement with the United States",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rubio-tror-ikke-paa-at-iran-er-klar-til-holdbar-fredsaftale-med-usa?referrer=RSS",
+        "published_date": "2026-07-23 12:10:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Europe is tightening its course vis-a-vis Russia.But the process revealed cracks in the unity",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/europa-strammer-kursen-over-for-rusland-men-forloebet-afsloerede-spraekker-i-sammenholdet?referrer=RSS",
+        "published_date": "2026-07-23 11:48:35",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Google receives billions in fines for breaching EU rules on digital competition",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/google-faar-milliardboeder-for-brud-paa-eu-regler-om-digital-konkurrence?referrer=RSS",
+        "published_date": "2026-07-23 11:00:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The EU fines Google billions",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-giver-google-milliardboede",
+        "published_date": "2026-07-23 10:21:22",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Rubio had 'honest' conversation with Russia's foreign minister",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rubio-havde-aerlig-samtale-med-ruslands-udenrigsminister",
+        "published_date": "2026-07-23 08:29:42",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Agreement on new sanctions against Russia in place, says EU Commission chairman",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/aftale-om-nye-sanktioner-mod-rusland-paa-plads-siger-eu-kommissionsformand",
+        "published_date": "2026-07-23 07:59:25",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Climate change has worsened the drought in Europe this year",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/klimaforandringer-har-forvaerret-toerken-i-europa-i-aar?referrer=RSS",
@@ -88,55 +137,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260720/10-of-copenhagens-best-harbour-baths",
         "published_date": "2026-07-20 11:02:42",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Monday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260720/today-in-denmark-a-roundup-of-the-latest-news-on-monday-53",
-        "published_date": "2026-07-20 10:13:55",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "More and more people are opting out of the United States.But the worst thing about the country is leaving it",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/flere-og-flere-fravaelger-usa-men-det-vaerste-ved-landet-er-at-forlade-det?referrer=RSS",
-        "published_date": "2026-07-19 10:47:33",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "North Korea's foreign minister sets course for Russia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nordkoreas-udenrigsminister-saetter-kurs-mod-rusland?referrer=RSS",
-        "published_date": "2026-07-18 23:39:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The Council of Europe warns Denmark against the risk at the EU's exit centres",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/europaraadet-advarer-danmark-mod-risikoen-ved-eus-udrejsecentre?referrer=RSS",
-        "published_date": "2026-07-18 19:57:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU-based British students to pay international fees in UK from 2028",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260717/eu-based-british-students-to-pay-international-fees-in-uk-from-2028",
-        "published_date": "2026-07-17 13:21:38",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU: Denmark lacks rules for ministers moving to business",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eu-danmark-mangler-regler-for-ministres-skift-til-erhvervslivet?referrer=RSS",
-        "published_date": "2026-07-17 11:58:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The EU Commission will relax the quota system so that industry can emit for a longer period of time",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eu-kommission-vil-lempe-kvotesystem-saa-industri-kan-udlede-i-laengere-tid?referrer=RSS",
-        "published_date": "2026-07-17 11:19:54",
         "category": "Diplomacy"
     },
     {
@@ -252,6 +252,13 @@
         "category": "Military"
     },
     {
+        "title": "The ECB maintains the interest rate.Homeowners can breathe a sigh of relief \u2013 for now",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/oekonomi/ecb-fastholder-renten-boligejere-kan-aande-lettet-op--for-nu?referrer=RSS",
+        "published_date": "2026-07-23 12:15:32",
+        "category": "Energy"
+    },
+    {
         "title": "The United States and Saudi Arabia enter into a nuclear agreement",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usa-og-saudi-arabien-indgaar-atomaftale?referrer=RSS",
@@ -315,13 +322,6 @@
         "category": "Energy"
     },
     {
-        "title": "Trump has had a wild 2026, but not everything has gone smoothly for the president",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-har-haft-et-vildt-2026-men-alt-er-ikke-gaaet-som-smurt-i-olie-for-praesidenten?referrer=RSS",
-        "published_date": "2026-07-15 11:15:22",
-        "category": "Energy"
-    },
-    {
         "title": "The Tax Agency is investigating fictitious invoices for billions",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/skattestyrelsen-undersoeger-fiktive-fakturaer-for-milliarder?referrer=RSS",
@@ -357,143 +357,143 @@
         "category": "Economy"
     },
     {
-        "title": "The Houthis report having attacked Saudi Arabian tankers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/houthierne-melder-at-have-angrebet-saudiarabiske-tankskibe?referrer=RSS",
-        "published_date": "2026-07-22 23:50:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "AI boom pushes up Google owner's growth in second quarter",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/ai-boomet-skubber-google-ejers-vaekst-op-i-andet-kvartal?referrer=RSS",
-        "published_date": "2026-07-22 21:29:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tesla delivers disappointing profits - the stock falls",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/tesla-leverer-skuffende-overskud-aktien-falder?referrer=RSS",
-        "published_date": "2026-07-22 20:58:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Teen drops lawsuit against Meta over social media addiction",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/teenager-dropper-retssag-mod-meta-om-afhaengighed-af-sociale-medier?referrer=RSS",
-        "published_date": "2026-07-22 20:02:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Perpetrator arrested after stabbing at Copenhagen Central Station",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/gerningsmand-anholdt-efter-knivstikkeri-paa-koebenhavns-hovedbanegaard?referrer=RSS",
-        "published_date": "2026-07-22 19:53:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Teenager drops addiction case against Meta",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/teenager-dropper-afhaengighedssag-mod-meta",
-        "published_date": "2026-07-22 19:51:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Historically, the priests have always had a great influence on the politics carried out.For example, in the fight against witchcraft, sorcery and other depravity",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/historisk-har-praesterne-altid-haft-stor-betydning-for-den-foerte-politik-eksempelvis-i-kampen-mod-hekseri-trolddom-og-andet-fordaerv?referrer=RSS",
-        "published_date": "2026-07-22 19:37:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Our welfare is too expensive and too bad",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/vores-velfaerd-er-for-dyr-og-for-daarlig?referrer=RSS",
-        "published_date": "2026-07-22 19:35:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zelenskyy has spoken with Witkoff and Kushner",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-har-talt-med-witkoff-og-kushner",
-        "published_date": "2026-07-22 17:51:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trial against Nicol\u00e1s Maduro begins next summer",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/retssag-mod-nicolas-maduro-begynder-til-naeste-sommer",
-        "published_date": "2026-07-22 16:44:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man arrested after stabbing at central station",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-anholdt-efter-knivstikkeri-paa-hovedbanegaarden",
-        "published_date": "2026-07-22 16:15:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "DSV shares plunge by more than 14 percent",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dsv-aktie-styrtdykker-med-over-14-procent",
-        "published_date": "2026-07-22 16:05:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Caribbean cargo ship grounded at Nyborg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/caribisk-fragtskib-grundstoedt-ved-nyborg",
-        "published_date": "2026-07-22 15:29:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish word of the day: vind",
+        "title": "How to deal with scammers in Denmark",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260722/danish-word-of-the-day-vind",
-        "published_date": "2026-07-22 14:25:38",
+        "url": "https://www.thelocal.dk/20260723/how-to-deal-with-scammers-in-denmark",
+        "published_date": "2026-07-23 13:54:52",
         "category": "Local Events"
     },
     {
-        "title": "Danish cliffs in Nyk\u00f8bing Mors set to gain UNESCO status",
+        "title": "Danish word of the day: Nederen",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260722/danish-cliffs-in-nykobing-mors-set-to-gain-unesco-status",
-        "published_date": "2026-07-22 14:23:32",
+        "url": "https://www.thelocal.dk/20260723/danish-word-of-the-day-nederen",
+        "published_date": "2026-07-23 12:51:03",
         "category": "Local Events"
     },
     {
-        "title": "Trump threatens retaliation every time Iran attacks ships in the Strait of Hormuz",
+        "title": "Over 20 special teams are deployed to reduce 'hell caterpillars' in Odense",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-truer-med-gengaeldelse-hver-gang-iran-angriber-skibe-i-hormuzstraedet",
-        "published_date": "2026-07-22 13:46:14",
+        "url": "https://www.dr.dk/nyheder/seneste/over-20-specialhold-indsaettes-reducere-helvedeslarve-i-odense",
+        "published_date": "2026-07-23 12:07:11",
         "category": "Local Events"
     },
     {
-        "title": "Two remanded in custody for defrauding citizens with developmental disabilities",
+        "title": "230,000 have downloaded the new mobile app for digital identification",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/230000-har-hentet-ny-mobilapp-til-digital-legitimation?referrer=RSS",
+        "published_date": "2026-07-23 12:06:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least one person dead after helicopter crash in the Czech Republic",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/varetaegtsfaengslet-svindle-borgere-med-udviklingshandicap",
-        "published_date": "2026-07-22 13:40:39",
+        "url": "https://www.dr.dk/nyheder/seneste/mindst-en-person-doed-efter-helikopterulykke-i-tjekkiet",
+        "published_date": "2026-07-23 11:47:59",
         "category": "Local Events"
     },
     {
-        "title": "Things to do while on parental leave in Copenhagen",
+        "title": "Odense deploys over 20 special teams to remove larvae",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/odense-indsaetter-over-20-specialhold-for-at-fjerne-larver?referrer=RSS",
+        "published_date": "2026-07-23 11:35:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Announcements about free dentists cause Danes to cancel appointments, and this can be expensive",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/udmelding-om-gratis-tandlaege-faar-danskerne-til-at-aflyse-tider-og-det-kan-koste-dyrt?referrer=RSS",
+        "published_date": "2026-07-23 11:08:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "German state approves Russian nuclear cooperation: \"Fundamentally wrong\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tysk-delstat-godkender-russisk-atomsamarbejdefundamentalt-forkert?referrer=RSS",
+        "published_date": "2026-07-23 11:04:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dear parliament, give us Danes abroad the right to vote back",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/kaere-folketing-giv-os-udlandsdanskere-stemmeretten-tilbage?referrer=RSS",
+        "published_date": "2026-07-23 11:04:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy struck in the middle of the Danish NHL star's march towards triumph",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tragedien-slog-ned-midt-i-dansk-nhl-stjernes-togt-mod-triumfen?referrer=RSS",
+        "published_date": "2026-07-23 11:00:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are again contacting those most affected by the shooting in N\u00f8rresundby",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-kontakter-igen-de-mest-beroerte-af-skyderi-i-noerresundby",
+        "published_date": "2026-07-23 10:58:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man must spend several years behind bars for possession of a gun and a large amount of cash",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-skal-flere-aar-bag-tremmer-besiddelse-af-pistol-og-stort-kontantbeloeb",
+        "published_date": "2026-07-23 10:53:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Almost a quarter of a million have downloaded the new digital ID app",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/naesten-en-kvart-million-har-hentet-ny-digital-id-app",
+        "published_date": "2026-07-23 09:55:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mette Frederiksen has spoken to the new British Prime Minister",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-har-talt-med-ny-britisk-premierminister",
+        "published_date": "2026-07-23 09:40:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Thursday",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260722/things-to-do-while-on-parental-leave-in-copenhagen",
-        "published_date": "2026-07-22 13:40:23",
+        "url": "https://www.thelocal.dk/20260723/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-49",
+        "published_date": "2026-07-23 09:00:57",
         "category": "Local Events"
     },
     {
-        "title": "The Danish passport is still among the strongest in the world",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/det-danske-pas-er-stadig-blandt-de-staerkeste-i-verden?referrer=RSS",
-        "published_date": "2026-07-22 12:11:45",
+        "title": "Well-known inn on Langeland for sale",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/bolig/kendt-kro-paa-langeland-til-salg?rss",
+        "published_date": "2026-07-23 08:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Great confusion: Who is responsible for clearing the mysterious \"tent camp\" in Copenhagen?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/metropol/stor-forvirring-hvem-har-ansvaret-for-at-rydde-mystisk-teltlejr-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-07-22 12:06:03",
+        "title": "1,600 conscripts pull on their shirts for new extended conscription",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/1-600-vaernepligtige-traekker-i-troejen-i-ny-forlaenget-vaernepligt",
+        "published_date": "2026-07-23 07:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "10,000 flee wildfires in southern France",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/10-000-flygter-fra-naturbrande-i-sydfrankrig",
+        "published_date": "2026-07-23 07:23:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Oslo Municipality has made millions from the football festival",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/oslo-kommune-har-tjent-millioner-paa-fodboldfest",
+        "published_date": "2026-07-23 07:19:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Garbage men stop work in Horsens",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skraldemaend-nedlaegger-arbejdet-i-horsens",
+        "published_date": "2026-07-23 07:02:55",
         "category": "Local Events"
     }
 ]
