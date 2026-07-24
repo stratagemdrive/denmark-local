@@ -1,5 +1,19 @@
 [
     {
+        "title": "The EU is sending firefighting planes to forest fires in Spain and France",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/eu-sender-brandslukningsfly-til-skovbrande-i-spanien-og-frankrig?referrer=RSS",
+        "published_date": "2026-07-24 11:18:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Airbus is testing folding wings on future aircraft",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/airbus-afproever-foldevinger-paa-kommende-fly?referrer=RSS",
+        "published_date": "2026-07-24 11:17:55",
+        "category": "Diplomacy"
+    },
+    {
         "title": "EU fines Google \u20ac890 million and risks US fury",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260723/eu-fines-google-e890-million-and-risks-us-fury",
@@ -126,20 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "EU fines AliExpress \u20ac550m over sale of illegal products in Europe",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260720/eu-fines-aliexpress-e550m-over-sale-of-illegal-products-in-europe",
-        "published_date": "2026-07-20 13:49:43",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "FC Midtjylland can run into the Norwegian top team",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fc-midtjylland-kan-loebe-ind-i-norsk-tophold?referrer=RSS",
-        "published_date": "2026-07-20 12:33:46",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Trump: Considering resuming military operations in Iran",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/trump-overvejer-genoptage-militaere-operationer-i-iran",
@@ -235,27 +235,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/zelenskyj-tilbyder-tidligere-minister-toppost-i-forsvars-og-sikkerhedsraad?referrer=RSS",
         "published_date": "2026-07-17 11:55:45",
-        "category": "Military"
-    },
-    {
-        "title": "Zelenskyj: Former defense minister will continue to be part of the team",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/zelenskyj-tidligere-forsvarsminister-vil-fortsat-vaere-en-del-af-holdet?referrer=RSS",
-        "published_date": "2026-07-16 12:04:46",
-        "category": "Military"
-    },
-    {
-        "title": "Thousands of angry Ukrainians on the streets after firing of minister",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tusindvis-af-vrede-ukrainere-paa-gaden-efter-fyring-af-minister?referrer=RSS",
-        "published_date": "2026-07-16 11:15:11",
-        "category": "Military"
-    },
-    {
-        "title": "New Prime Minister appointed in Ukraine",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-premierminister-udpeget-i-ukraine",
-        "published_date": "2026-07-16 10:08:31",
         "category": "Military"
     },
     {
@@ -364,6 +343,111 @@
         "category": "Economy"
     },
     {
+        "title": "Vietnamese taxi company now offers trips in Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/vietnamesisk-taxaselskab-tilbyder-nu-ture-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-07-24 12:01:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish mixed doubles misses four set points and loses the quarter-final in China",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dansk-mixeddouble-misser-fire-saetbolde-og-taber-kvartfinale-i-kina?referrer=RSS",
+        "published_date": "2026-07-24 12:01:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thousands evacuated in southwestern France due to forest fire",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tusindvis-evakueret-i-det-sydvestlige-frankrig-paa-grund-af-skovbrand?referrer=RSS",
+        "published_date": "2026-07-24 12:01:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pedestrian was close to being hit by hit-and-run driver",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/fodgaenger-var-taet-paa-at-blive-ramt-af-flugtbilist?referrer=RSS",
+        "published_date": "2026-07-24 11:51:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Klopp promises exuberant football and warns the press",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/klopp-lover-sprudlende-fodbold-og-advarer-pressen?referrer=RSS",
+        "published_date": "2026-07-24 11:48:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Per Stig M\u00f8ller:\u00a0This is the difference between Trump's and George W. Bush's wars",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/per-stig-moellerdette-er-forskellen-paa-trumps-og-george-w-bush-krige?referrer=RSS",
+        "published_date": "2026-07-24 11:47:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Danish railways were affected by more than 900 signal failures in one month",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/de-danske-jernbaner-blev-ramt-af-flere-end-900-signalfejl-paa-en-maaned?referrer=RSS",
+        "published_date": "2026-07-24 11:22:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Elon Musk swung the chainsaw over the US state.Now he admits: \"I honestly got carried away\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/elon-musk-svingede-motorsaven-over-den-amerikanske-stat-nu-indroemmer-han-jeg-lod-mig-aerlig-talt-rive-med?referrer=RSS",
+        "published_date": "2026-07-24 11:17:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "700,000 evacuated after monsoon rains in India",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/700-000-evakueret-efter-monsunregn-i-indien",
+        "published_date": "2026-07-24 10:39:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swedish prosecutors will file a case against a minor who shot six people",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/svensk-anklager-vil-rejse-sag-mod-mindreaarig-der-skoed-seks-mennesker",
+        "published_date": "2026-07-24 07:38:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bornholm's largest fast ferry sails again",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/regionale/bornholm/bornholms-stoerste-hurtigfaerge-sejler-igen",
+        "published_date": "2026-07-24 07:37:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Christian laid down on the operating table for his friend: Now Stefan has a new kidney and his life back",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/bolig-og-livsstil/christian-gik-paa-operationsbordet-for-sin-ven-nu-har-stefan-faaet-en-ny-nyre-og-livet-tilbage?rss",
+        "published_date": "2026-07-24 07:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man attacked with ax in Aalborg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-overfaldet-med-oekse-i-aalborg",
+        "published_date": "2026-07-24 06:20:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark will file ICC charges following suspected violations",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danmark-vil-afsaette-icc-anklager-efter-mistanke-om-kraenkelser",
+        "published_date": "2026-07-24 03:47:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "One arrested after two separate knife attacks in New York",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/en-anholdt-efter-separate-knivoverfald-i-new-york",
+        "published_date": "2026-07-24 00:16:22",
+        "category": "Local Events"
+    },
+    {
         "title": "Trump threatens Iran with a bill for damage to cargo and ships",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-truer-iran-med-regning-for-skader-paa-last-og-skibe?referrer=RSS",
@@ -396,111 +480,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/fck-traener-vi-var-bagefter-i-mange-dele-af-spillet?referrer=RSS",
         "published_date": "2026-07-23 21:01:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Let's let fewer young people become losers in the choice between theory and practice",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/lad-os-lade-faerre-unge-blive-tabere-i-valget-mellem-teori-og-praksis?referrer=RSS",
-        "published_date": "2026-07-23 20:45:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"I can't do anything but cry.\" Now China is shutting down young people's robot boyfriends.They have become a threat to something far greater",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/jeg-kan-ikke-andet-end-graede-nu-slukker-kina-for-de-unges-robotkaerester-de-er-blevet-en-trussel-mod-noget-langt-stoerre?referrer=RSS",
-        "published_date": "2026-07-23 20:05:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump's technology adviser has been briefed on the AI \u200b\u200bagent's hacking",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trumps-teknologiraadgiver-er-blevet-orienteret-om-ai-agents-hacking?referrer=RSS",
-        "published_date": "2026-07-23 20:04:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "FCM escapes from the Turkish witches cauldron with a 0-1 defeat despite a red card",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fcm-slipper-fra-tyrkisk-heksekedel-med-0-1-nederlag-trods-roedt-kort?referrer=RSS",
-        "published_date": "2026-07-23 20:01:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dubai gives gift cards if residents attract tourists",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dubai-lokker-med-gavekort-hvis-beboere-lokker-turister-til",
-        "published_date": "2026-07-23 19:09:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Member of J.D.Vance's security team is being investigated",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/medlem-af-jd-vances-sikkerhedsteam-undersoeges",
-        "published_date": "2026-07-23 18:49:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "59-year-old from Minnesota has been sentenced to two life sentences for murdering a politician",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/59-aarig-fra-minnesota-er-idoemt-livstidsstraffe-drab-paa-politiker",
-        "published_date": "2026-07-23 17:30:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israeli minister visits the Temple Mount again",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israelsk-minister-besoeger-igen-tempelbjerget",
-        "published_date": "2026-07-23 16:24:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fired Ukrainian defense minister will only accept his old job",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fyret-ukrainsk-forsvarschef-vil-kun-acceptere-sit-gamle-job",
-        "published_date": "2026-07-23 15:25:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquakes have caused destruction for 127 billion",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/jordskaelv-har-foraarsaget-oedelaeggelser-127-milliarder",
-        "published_date": "2026-07-23 14:49:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "15-year-old remanded in custody in case of witness threats",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/15-aarig-varetaegtsfaengsles-i-sag-om-vidnetrusler",
-        "published_date": "2026-07-23 14:01:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "How to deal with scammers in Denmark",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260723/how-to-deal-with-scammers-in-denmark",
-        "published_date": "2026-07-23 13:54:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "The fast ferry to Bornholm might be ready again tomorrow",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hurtigfaerge-til-bornholm-er-maaske-klar-igen-i-morgen",
-        "published_date": "2026-07-23 13:22:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "France to vote to fire ICC chief prosecutor",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/frankrig-vil-stemme-en-fyring-af-icc-chefanklager",
-        "published_date": "2026-07-23 13:17:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump: Nuclear agreement is conditional on Saudi Arabia joining the agreement",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-atomaftale-er-betinget-af-saudi-arabien-tilslutter-sig-aftale",
-        "published_date": "2026-07-23 13:06:36",
         "category": "Local Events"
     }
 ]
