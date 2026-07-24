@@ -1,5 +1,33 @@
 [
     {
+        "title": "The United States is in the midst of the nation's largest measles outbreak in 35 years",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-staar-midt-i-landets-stoerste-maeslingeudbrud-i-35-aar?referrer=RSS",
+        "published_date": "2026-07-24 23:49:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Criminal court members vote to drop chief charges",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/straffedomstols-medlemmer-stemmer-fjerne-chefanklager",
+        "published_date": "2026-07-24 21:16:56",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Criminal court members vote to drop chief charges",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/straffedomstols-medlemmer-stemmer-for-at-fjerne-chefanklager?referrer=RSS",
+        "published_date": "2026-07-24 21:04:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The forest fire near Madrid is impossible to control - more and more people are being evacuated",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/skovbranden-i-naerheden-af-madrid-er-umulig-at-kontrollere-flere-og-flere-bliver-evakueret?referrer=RSS",
+        "published_date": "2026-07-24 20:54:39",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The EU is sending firefighting planes to forest fires in Spain and France",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/eu-sender-brandslukningsfly-til-skovbrande-i-spanien-og-frankrig?referrer=RSS",
@@ -11,6 +39,13 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/airbus-afproever-foldevinger-paa-kommende-fly?referrer=RSS",
         "published_date": "2026-07-24 11:17:55",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU breathes sigh of relief over new Trump tariffs",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260724/eu-breathes-sigh-of-relief-over-new-trump-tariffs",
+        "published_date": "2026-07-24 10:33:46",
         "category": "Diplomacy"
     },
     {
@@ -105,39 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Only one in four vegetables now grown in Denmark warns government",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260722/only-one-in-four-vegetables-is-grown-in-denmark-warns-government-report",
-        "published_date": "2026-07-22 12:03:29",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU tells airlines to avoid airspace over Jordan after Iranian attacks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-beder-flyselskaber-undgaa-jordan-efter-iranske-angreb",
-        "published_date": "2026-07-22 11:22:05",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "UN report: Fewer people are hungry for the third year in a row",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fn-rapport-faerre-mennesker-sulter-tredje-aar-i-traek",
-        "published_date": "2026-07-21 13:38:22",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Record fine for Chinese giant for selling illegal goods in Europe",
+        "title": "Saudi-led military coalition attacks Houthi targets in Yemen",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/rekordboede-til-kinesisk-gigant-for-at-saelge-ulovlige-varer-i-europa?referrer=RSS",
-        "published_date": "2026-07-21 11:58:09",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/saudisk-ledet-militaerkoalition-angriber-houthi-maal-i-yemen?referrer=RSS",
+        "published_date": "2026-07-24 22:49:45",
+        "category": "Military"
     },
     {
-        "title": "Airport bosses warn EU's new border checks triple waiting times for Brits",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260720/airport-bosses-warn-eus-new-border-checks-triple-waiting-times-for-brits",
-        "published_date": "2026-07-20 14:22:17",
-        "category": "Diplomacy"
+        "title": "L\u00f8kke condemns Russian attack on Latvian consulate in Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/loekke-fordoemmer-russisk-angreb-paa-lettisk-konsulat-i-ukraine",
+        "published_date": "2026-07-24 21:12:48",
+        "category": "Military"
+    },
+    {
+        "title": "L\u00f8kke condemns Russian attack on Latvian consulate in Ukraine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/loekke-fordoemmer-russisk-angreb-paa-lettisk-konsulat-i-ukraine?referrer=RSS",
+        "published_date": "2026-07-24 20:13:53",
+        "category": "Military"
+    },
+    {
+        "title": "23-year-old Ukrainian charged with attempted murder",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/23-aarig-ukrainer-sigtet-drabsforsoeg",
+        "published_date": "2026-07-24 13:01:12",
+        "category": "Military"
     },
     {
         "title": "Trump: Considering resuming military operations in Iran",
@@ -301,13 +329,6 @@
         "category": "Energy"
     },
     {
-        "title": "England bans energy drinks with high caffeine content for young people",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/england-forbyder-energidrikke-med-hoejt-koffeinindhold-til-unge",
-        "published_date": "2026-07-16 18:00:16",
-        "category": "Energy"
-    },
-    {
         "title": "The Tax Agency is investigating fictitious invoices for billions",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/skattestyrelsen-undersoeger-fiktive-fakturaer-for-milliarder?referrer=RSS",
@@ -341,6 +362,104 @@
         "url": "https://www.dr.dk/nyheder/seneste/oekonomidirektoer-i-koebenhavns-lufthavn-doed",
         "published_date": "2026-07-18 14:05:50",
         "category": "Economy"
+    },
+    {
+        "title": "SpaceX rocket takes off for the 13th time with new satellites on board",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/spacex-raket-letter-for-13-gang-med-nye-satellitter-om-bord?referrer=RSS",
+        "published_date": "2026-07-24 23:21:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "FC Copenhagen sells Achouri to San Diego",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fc-koebenhavn-saelger-achouri-til-san-diego?referrer=RSS",
+        "published_date": "2026-07-24 23:21:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Over 140,000 have been evacuated due to wildfires in France",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/over-140000-er-evakueret-paa-grund-af-naturbrande-i-frankrig?referrer=RSS",
+        "published_date": "2026-07-24 22:55:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police are investigating a suspicious relationship in Sydhavnen in Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politi-undersoeger-et-mistaenkeligt-forhold-i-sydhavnen-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-07-24 20:54:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zorniger calls for reinforcements in pursuit of top-6",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/zorniger-efterlyser-forstaerkninger-i-jagt-paa-top-6?referrer=RSS",
+        "published_date": "2026-07-24 20:36:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police respond to a stabbing on Amagerbrogade",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-rykker-ud-til-knivstikkeri-paa-amagerbrogade",
+        "published_date": "2026-07-24 19:28:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sues Trump Administration Over New Tariffs",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/laegger-sag-mod-trump-administrationen-over-ny-told",
+        "published_date": "2026-07-24 19:25:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump's new tariffs do not surprise L\u00f8kke",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trumps-nye-toldsatser-overrasker-ikke-loekke",
+        "published_date": "2026-07-24 17:45:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "First person vaccinated with new Ebola cure",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/foerste-person-vaccineret-med-ny-ebolakur",
+        "published_date": "2026-07-24 17:21:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "PlayStation hit by problems on online games",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/playstation-ramt-af-problemer-paa-onlinespil",
+        "published_date": "2026-07-24 16:13:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Measles numbers in the US are already higher now than in 2025",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maeslingetal-i-usa-er-allerede-nu-hoejere-end-i-2025",
+        "published_date": "2026-07-24 15:50:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "What you need to know about Denmark's ridiculous number of birthday traditions",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260724/what-you-need-to-know-about-denmarks-absurd-number-of-birthday-traditions",
+        "published_date": "2026-07-24 15:23:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel: Netanyahu and Trump to meet next week",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-netanyahu-og-trump-skal-moedes-i-naeste-uge",
+        "published_date": "2026-07-24 14:31:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two arrested after bomb found in car heading for Northern Ireland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/anholdt-efter-fund-af-bombe-i-bil-paa-vej-mod-nordirland",
+        "published_date": "2026-07-24 13:26:02",
+        "category": "Local Events"
     },
     {
         "title": "Vietnamese taxi company now offers trips in Copenhagen",
@@ -382,104 +501,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kommentatorer/per-stig-moellerdette-er-forskellen-paa-trumps-og-george-w-bush-krige?referrer=RSS",
         "published_date": "2026-07-24 11:47:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Danish railways were affected by more than 900 signal failures in one month",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/de-danske-jernbaner-blev-ramt-af-flere-end-900-signalfejl-paa-en-maaned?referrer=RSS",
-        "published_date": "2026-07-24 11:22:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elon Musk swung the chainsaw over the US state.Now he admits: \"I honestly got carried away\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/elon-musk-svingede-motorsaven-over-den-amerikanske-stat-nu-indroemmer-han-jeg-lod-mig-aerlig-talt-rive-med?referrer=RSS",
-        "published_date": "2026-07-24 11:17:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "700,000 evacuated after monsoon rains in India",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/700-000-evakueret-efter-monsunregn-i-indien",
-        "published_date": "2026-07-24 10:39:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish prosecutors will file a case against a minor who shot six people",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/svensk-anklager-vil-rejse-sag-mod-mindreaarig-der-skoed-seks-mennesker",
-        "published_date": "2026-07-24 07:38:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bornholm's largest fast ferry sails again",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/regionale/bornholm/bornholms-stoerste-hurtigfaerge-sejler-igen",
-        "published_date": "2026-07-24 07:37:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Christian laid down on the operating table for his friend: Now Stefan has a new kidney and his life back",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/bolig-og-livsstil/christian-gik-paa-operationsbordet-for-sin-ven-nu-har-stefan-faaet-en-ny-nyre-og-livet-tilbage?rss",
-        "published_date": "2026-07-24 07:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man attacked with ax in Aalborg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-overfaldet-med-oekse-i-aalborg",
-        "published_date": "2026-07-24 06:20:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark will file ICC charges following suspected violations",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danmark-vil-afsaette-icc-anklager-efter-mistanke-om-kraenkelser",
-        "published_date": "2026-07-24 03:47:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "One arrested after two separate knife attacks in New York",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/en-anholdt-efter-separate-knivoverfald-i-new-york",
-        "published_date": "2026-07-24 00:16:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump threatens Iran with a bill for damage to cargo and ships",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-truer-iran-med-regning-for-skader-paa-last-og-skibe?referrer=RSS",
-        "published_date": "2026-07-23 23:39:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "40-year-old man attacked with an ax in Aalborg",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/40-aarig-mand-overfaldet-med-oekse-i-aalborg?referrer=RSS",
-        "published_date": "2026-07-23 23:15:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US is imposing new tariffs on 60 trading partners",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-indfoerer-nye-toldsatser-paa-60-handelspartnere?referrer=RSS",
-        "published_date": "2026-07-23 22:29:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Burnham sounds like a tired echo of the 1970s",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/burnham-lyder-som-et-traet-ekko-af-1970erne?referrer=RSS",
-        "published_date": "2026-07-23 21:29:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "FCK coach: We were behind in many parts of the game",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fck-traener-vi-var-bagefter-i-mange-dele-af-spillet?referrer=RSS",
-        "published_date": "2026-07-23 21:01:45",
         "category": "Local Events"
     }
 ]
