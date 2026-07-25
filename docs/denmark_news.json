@@ -1,5 +1,26 @@
 [
     {
+        "title": "Opera and musical theater director Daniel Bohr has died",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/opera-og-musikteaterinstruktoer-daniel-bohr-er-doed?referrer=RSS",
+        "published_date": "2026-07-25 11:49:52",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "UN chief visits Syria for the first time in 17 years",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fn-chef-besoeger-syrien-foerste-gang-i-17-aar",
+        "published_date": "2026-07-25 11:06:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Woman charged with espionage at Nato headquarters in Belgium",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kvinde-sigtet-spionage-i-nato-hovedkvarter-i-belgien",
+        "published_date": "2026-07-25 07:13:11",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The United States is in the midst of the nation's largest measles outbreak in 35 years",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usa-staar-midt-i-landets-stoerste-maeslingeudbrud-i-35-aar?referrer=RSS",
@@ -116,27 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/klimaforandringer-har-forvaerret-toerken-i-europa-i-aar?referrer=RSS",
         "published_date": "2026-07-22 23:35:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Yemen's Houthis say they have attacked two Saudi ships",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/houthierne-i-yemen-haevder-have-angrebet-saudiarabiske-skibe",
-        "published_date": "2026-07-22 22:07:09",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Svensson missing several in European debut with FCK",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/svensson-mangler-adskillige-i-europaeisk-debut-med-fck?referrer=RSS",
-        "published_date": "2026-07-22 19:31:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Novo Nordisk files lawsuit against competitor",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260722/novo-nordisk-files-lawsuit-against-competitor",
-        "published_date": "2026-07-22 13:52:34",
         "category": "Diplomacy"
     },
     {
@@ -266,6 +266,13 @@
         "category": "Military"
     },
     {
+        "title": "\"People here must make a lot of money\" - that's what the tourists think about Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kultur/folk-her-maa-tjene-mange-penge--det-mener-turisterne-om-koebenhavn?referrer=RSS",
+        "published_date": "2026-07-25 11:16:41",
+        "category": "Energy"
+    },
+    {
         "title": "The price of a barrel of oil hits 100 dollars again",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/prisen-en-toende-olie-er-igen-over-100-dollar",
@@ -364,6 +371,97 @@
         "category": "Economy"
     },
     {
+        "title": "Roads and toilets at the Limfjord World Heritage site need to be inspected",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/veje-og-toiletter-ved-limfjordens-verdensarv-skal-til-eftersyn?referrer=RSS",
+        "published_date": "2026-07-25 11:49:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pedersen wins the sprint and is close to securing the points jersey",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/pedersen-vinder-spurt-og-er-taet-paa-at-sikre-pointtroejen?referrer=RSS",
+        "published_date": "2026-07-25 11:40:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "A record area has burned down in France",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rekordstort-areal-er-braendt-ned-i-frankrig",
+        "published_date": "2026-07-25 11:34:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Indian minister quits after major protests in exam leak case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/indisk-minister-stopper-efter-store-protester-i-sag-om-eksamenslaek?referrer=RSS",
+        "published_date": "2026-07-25 11:31:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "While Denmark was hit by a heat wave, DSB chose to squeeze us together on the train: It can only be described as \"dangerous\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/mens-danmark-var-ramt-af-hedeboelge-valgte-dsb-at-presse-os-sammen-i-toget-det-kan-kun-beskrives-som-farligt?referrer=RSS",
+        "published_date": "2026-07-25 11:30:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thick smoke from a fire in a country estate spread over the West Motorway",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tyk-roeg-fra-brand-i-landejendom-bredte-sig-ud-over-vestmotorvejen?referrer=RSS",
+        "published_date": "2026-07-25 11:24:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "A record area has been burned by wildfires in France",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rekordstort-areal-er-braendt-ned-under-naturbrande-i-frankrig?referrer=RSS",
+        "published_date": "2026-07-25 11:20:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The \"cockroaches\" had enough of corrupt exams and marched in the streets.Now India's education minister has resigned",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kakerlakkerne-fik-nok-af-korrupte-eksamener-og-marcherede-paa-gaden-nu-har-indiens-undervisningsminister-sagt-op?referrer=RSS",
+        "published_date": "2026-07-25 11:03:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fossils from the Limfjord included in the World Heritage List",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/fossiler-fra-limfjorden-optaget-paa-verdensarvslisten?referrer=RSS",
+        "published_date": "2026-07-25 10:41:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Victory for protest movement - Indian minister resigns",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sejr-til-protestbevaegelse-indisk-minister-traeder-tilbage",
+        "published_date": "2026-07-25 10:19:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Italy's defense minister has offered a deposed Ukrainian colleague a job as an adviser",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/italiens-forsvarsminister-har-tilbudt-afsat-ukrainsk-kollega-job-som-raadgiver",
+        "published_date": "2026-07-25 08:45:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Romania shoots down drone for second day in a row",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rumaenien-skyder-drone-ned-anden-dag-i-traek",
+        "published_date": "2026-07-25 07:29:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Saudi Arabia has carried out a series of attacks against the Houthis",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/saudi-arabien-har-udfoert-en-raekke-angreb-mod-houthierne",
+        "published_date": "2026-07-25 03:08:08",
+        "category": "Local Events"
+    },
+    {
         "title": "SpaceX rocket takes off for the 13th time with new satellites on board",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/spacex-raket-letter-for-13-gang-med-nye-satellitter-om-bord?referrer=RSS",
@@ -410,97 +508,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/laegger-sag-mod-trump-administrationen-over-ny-told",
         "published_date": "2026-07-24 19:25:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump's new tariffs do not surprise L\u00f8kke",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trumps-nye-toldsatser-overrasker-ikke-loekke",
-        "published_date": "2026-07-24 17:45:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "First person vaccinated with new Ebola cure",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/foerste-person-vaccineret-med-ny-ebolakur",
-        "published_date": "2026-07-24 17:21:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "PlayStation hit by problems on online games",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/playstation-ramt-af-problemer-paa-onlinespil",
-        "published_date": "2026-07-24 16:13:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Measles numbers in the US are already higher now than in 2025",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maeslingetal-i-usa-er-allerede-nu-hoejere-end-i-2025",
-        "published_date": "2026-07-24 15:50:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "What you need to know about Denmark's ridiculous number of birthday traditions",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260724/what-you-need-to-know-about-denmarks-absurd-number-of-birthday-traditions",
-        "published_date": "2026-07-24 15:23:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israel: Netanyahu and Trump to meet next week",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israel-netanyahu-og-trump-skal-moedes-i-naeste-uge",
-        "published_date": "2026-07-24 14:31:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two arrested after bomb found in car heading for Northern Ireland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/anholdt-efter-fund-af-bombe-i-bil-paa-vej-mod-nordirland",
-        "published_date": "2026-07-24 13:26:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vietnamese taxi company now offers trips in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/vietnamesisk-taxaselskab-tilbyder-nu-ture-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-07-24 12:01:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish mixed doubles misses four set points and loses the quarter-final in China",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-mixeddouble-misser-fire-saetbolde-og-taber-kvartfinale-i-kina?referrer=RSS",
-        "published_date": "2026-07-24 12:01:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Thousands evacuated in southwestern France due to forest fire",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tusindvis-evakueret-i-det-sydvestlige-frankrig-paa-grund-af-skovbrand?referrer=RSS",
-        "published_date": "2026-07-24 12:01:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pedestrian was close to being hit by hit-and-run driver",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/fodgaenger-var-taet-paa-at-blive-ramt-af-flugtbilist?referrer=RSS",
-        "published_date": "2026-07-24 11:51:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Klopp promises exuberant football and warns the press",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/klopp-lover-sprudlende-fodbold-og-advarer-pressen?referrer=RSS",
-        "published_date": "2026-07-24 11:48:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Per Stig M\u00f8ller:\u00a0This is the difference between Trump's and George W. Bush's wars",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/per-stig-moellerdette-er-forskellen-paa-trumps-og-george-w-bush-krige?referrer=RSS",
-        "published_date": "2026-07-24 11:47:56",
         "category": "Local Events"
     }
 ]
