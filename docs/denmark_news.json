@@ -1,5 +1,12 @@
 [
     {
+        "title": "A further 55,000 are being evacuated as a result of wildfires in France",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/yderligere-55000-evakueres-som-foelge-af-naturbrande-i-frankrig?referrer=RSS",
+        "published_date": "2026-07-25 23:33:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Opera and musical theater director Daniel Bohr has died",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/opera-og-musikteaterinstruktoer-daniel-bohr-er-doed?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Climate change has worsened the drought in Europe this year",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/klimaforandringer-har-forvaerret-toerken-i-europa-i-aar?referrer=RSS",
-        "published_date": "2026-07-22 23:35:47",
-        "category": "Diplomacy"
+        "title": "Kazakhstan's president suggests 'freezing the war' in Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kasakhstans-praesident-foreslaar-fastfryse-krigen-i-ukraine",
+        "published_date": "2026-07-25 17:28:35",
+        "category": "Military"
     },
     {
         "title": "Saudi-led military coalition attacks Houthi targets in Yemen",
@@ -259,13 +266,6 @@
         "category": "Military"
     },
     {
-        "title": "Zelenskyj offers former minister top post in Defense and Security Council",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/zelenskyj-tilbyder-tidligere-minister-toppost-i-forsvars-og-sikkerhedsraad?referrer=RSS",
-        "published_date": "2026-07-17 11:55:45",
-        "category": "Military"
-    },
-    {
         "title": "\"People here must make a lot of money\" - that's what the tourists think about Copenhagen",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kultur/folk-her-maa-tjene-mange-penge--det-mener-turisterne-om-koebenhavn?referrer=RSS",
@@ -329,11 +329,11 @@
         "category": "Energy"
     },
     {
-        "title": "Iran reports two oil tankers exploded in the Strait of Hormuz",
+        "title": "The Herm\u00e8s family has had its existence threatened several times.The worst attack came from the \"wolf in cashmere\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iran-melder-om-to-eksploderede-olietankere-i-hormuzstraedet?referrer=RSS",
-        "published_date": "2026-07-17 23:31:50",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/virksomheder/hermes-familien-har-flere-gange-vaeret-truet-paa-eksistensen-det-vaerste-angreb-kom-fraulven-i-cashmere?referrer=RSS",
+        "published_date": "2026-07-25 19:08:33",
+        "category": "Economy"
     },
     {
         "title": "The Tax Agency is investigating fictitious invoices for billions",
@@ -369,6 +369,90 @@
         "url": "https://www.dr.dk/nyheder/seneste/oekonomidirektoer-i-koebenhavns-lufthavn-doed",
         "published_date": "2026-07-18 14:05:50",
         "category": "Economy"
+    },
+    {
+        "title": "OVERVIEW: Wildfires are raging in France and Spain",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/overblik-naturbrande-haerger-i-frankrig-og-spanien?referrer=RSS",
+        "published_date": "2026-07-25 23:42:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "One killed and 17 injured after car drives into crowd in Berlin",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/en-draebt-og-17-saarede-efter-bil-koerer-ind-i-folkemaengde-i-berlin?referrer=RSS",
+        "published_date": "2026-07-25 23:34:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "You talk about social media, as if doomscrolling and participation in a professional network can come together",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/man-taler-om-sociale-medier-som-om-doomscrolling-og-deltagelse-i-et-fagligt-netvaerk-kan-komme-ud-paa-et?referrer=RSS",
+        "published_date": "2026-07-25 21:56:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "He was expelled from Denmark, but is perhaps behind the preservation of some of the most unique in all of the United States",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/han-blev-udvist-af-danmark-men-staar-maaske-bag-bevarelsen-af-noget-af-det-mest-enestaaende-i-hele-usa?referrer=RSS",
+        "published_date": "2026-07-25 21:17:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several injured after incident at Pride event in Berlin",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/stoerre-politiaktion-i-gang-ved-pride-arrangement-i-berlin",
+        "published_date": "2026-07-25 20:59:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Appeals court rejects Trump's attempt to restrict mail voting",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/appeldomstol-afviser-trumps-forsoeg-paa-at-indskraenke-brevstemning?referrer=RSS",
+        "published_date": "2026-07-25 20:52:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do you want to bet half a million on one horse?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/vil-du-satse-en-halv-million-paa-en-hest?referrer=RSS",
+        "published_date": "2026-07-25 19:42:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young V-profile has seven hours of screen time and milks cows on Instagram: \"I actually think it's a plus for democracy\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/ung-v-profil-har-syv-timers-skaermtid-og-malker-koeer-paa-instagram-jeg-tror-egentlig-at-det-er-et-plus-for-demokratiet?referrer=RSS",
+        "published_date": "2026-07-25 19:37:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "They don't know each other - but together they want to drink one million beers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/de-kender-ikke-hinanden--men-sammen-vil-de-drikke-en-million-oel?referrer=RSS",
+        "published_date": "2026-07-25 19:16:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Katy Perry is angry about the White House's use of singing",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/katy-perry-er-vred-over-det-hvide-hus-brug-af-sang",
+        "published_date": "2026-07-25 18:52:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "35 killed in collision between two buses in Syria",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/35-draebt-i-kollision-mellem-busser-i-syrien",
+        "published_date": "2026-07-25 16:17:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "18-year-old man gets half a year in prison for stabbing",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/18-aarig-mand-faar-halvt-aars-faengsel-knivstikkeri",
+        "published_date": "2026-07-25 12:25:40",
+        "category": "Local Events"
     },
     {
         "title": "Roads and toilets at the Limfjord World Heritage site need to be inspected",
@@ -424,90 +508,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/kakerlakkerne-fik-nok-af-korrupte-eksamener-og-marcherede-paa-gaden-nu-har-indiens-undervisningsminister-sagt-op?referrer=RSS",
         "published_date": "2026-07-25 11:03:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fossils from the Limfjord included in the World Heritage List",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/fossiler-fra-limfjorden-optaget-paa-verdensarvslisten?referrer=RSS",
-        "published_date": "2026-07-25 10:41:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Victory for protest movement - Indian minister resigns",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sejr-til-protestbevaegelse-indisk-minister-traeder-tilbage",
-        "published_date": "2026-07-25 10:19:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Italy's defense minister has offered a deposed Ukrainian colleague a job as an adviser",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/italiens-forsvarsminister-har-tilbudt-afsat-ukrainsk-kollega-job-som-raadgiver",
-        "published_date": "2026-07-25 08:45:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Romania shoots down drone for second day in a row",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rumaenien-skyder-drone-ned-anden-dag-i-traek",
-        "published_date": "2026-07-25 07:29:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Saudi Arabia has carried out a series of attacks against the Houthis",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/saudi-arabien-har-udfoert-en-raekke-angreb-mod-houthierne",
-        "published_date": "2026-07-25 03:08:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "SpaceX rocket takes off for the 13th time with new satellites on board",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/spacex-raket-letter-for-13-gang-med-nye-satellitter-om-bord?referrer=RSS",
-        "published_date": "2026-07-24 23:21:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "FC Copenhagen sells Achouri to San Diego",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fc-koebenhavn-saelger-achouri-til-san-diego?referrer=RSS",
-        "published_date": "2026-07-24 23:21:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Over 140,000 have been evacuated due to wildfires in France",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/over-140000-er-evakueret-paa-grund-af-naturbrande-i-frankrig?referrer=RSS",
-        "published_date": "2026-07-24 22:55:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police are investigating a suspicious relationship in Sydhavnen in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politi-undersoeger-et-mistaenkeligt-forhold-i-sydhavnen-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-07-24 20:54:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zorniger calls for reinforcements in pursuit of top-6",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/zorniger-efterlyser-forstaerkninger-i-jagt-paa-top-6?referrer=RSS",
-        "published_date": "2026-07-24 20:36:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police respond to a stabbing on Amagerbrogade",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-rykker-ud-til-knivstikkeri-paa-amagerbrogade",
-        "published_date": "2026-07-24 19:28:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sues Trump Administration Over New Tariffs",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/laegger-sag-mod-trump-administrationen-over-ny-told",
-        "published_date": "2026-07-24 19:25:26",
         "category": "Local Events"
     }
 ]
