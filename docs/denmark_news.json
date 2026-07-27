@@ -1,5 +1,19 @@
 [
     {
+        "title": "As others fled, he stayed to fight the fire.And won - against all the rules",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/da-andre-flygtede-blev-han-for-at-kaempe-mod-ilden-og-vandt--stik-imod-alle-regler?referrer=RSS",
+        "published_date": "2026-07-27 18:57:56",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Ukraine wants prototype of European missile defense ready by 2027",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ukraine-vil-have-prototype-paa-europaeisk-missilforsvar-klar-i-2027?referrer=RSS",
+        "published_date": "2026-07-27 18:28:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "He was taken from his private jet to a prison cell.Now he wants to invest in one of the largest defense projects in Eastern Europe",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/han-blev-foert-fra-sit-privatfly-til-en-faengselscelle-nu-vil-han-investere-i-et-af-de-stoerste-forsvarsprojekter-i-oesteuropa?referrer=RSS",
@@ -126,20 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The European Central Bank maintains the interest rate as expected",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/europaeisk-centralbank-fastholder-renten-som-ventet-2",
-        "published_date": "2026-07-23 12:45:27",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU foreign affairs chief: The Houthis must stop their attacks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-s-udenrigschef-houthierne-maa-stoppe-deres-angreb",
-        "published_date": "2026-07-23 12:11:21",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1815?referrer=RSS",
@@ -252,13 +252,6 @@
         "category": "Military"
     },
     {
-        "title": "USA: American soldier dead during controlled explosion in Iraq",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-amerikansk-soldat-doed-under-kontrolleret-spraengning-i-irak",
-        "published_date": "2026-07-19 21:14:00",
-        "category": "Military"
-    },
-    {
         "title": "\"People here must make a lot of money\" - that's what the tourists think about Copenhagen",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kultur/folk-her-maa-tjene-mange-penge--det-mener-turisterne-om-koebenhavn?referrer=RSS",
@@ -343,10 +336,122 @@
         "category": "Economy"
     },
     {
+        "title": "Johnson & Johnson enters into billion-dollar settlement with cancer plaintiffs",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/johnson-johnson-indgaar-milliardforlig-med-kraeftramte-sagsoegere?referrer=RSS",
+        "published_date": "2026-07-27 23:37:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "FACTS: Here are the 16 programs with the highest average",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/fakta-her-er-de-16-uddannelser-med-hoejest-gennemsnit?referrer=RSS",
+        "published_date": "2026-07-27 23:13:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Haiti sets date for first election in a decade",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/haiti-fastsaetter-dato-for-foerste-valg-i-et-aarti?referrer=RSS",
+        "published_date": "2026-07-27 22:13:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Design school and computer education require the highest average",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/designskole-og-computeruddannelse-kraever-det-hoejeste-gennemsnit?referrer=RSS",
+        "published_date": "2026-07-27 22:01:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Singer will go on trial in the US after the body is found",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sanger-skal-retten-i-usa-efter-ligfund",
+        "published_date": "2026-07-27 21:25:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Burnham to Zelenskyj during first visit: 'We have your back'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/burnham-til-zelenskyj-under-foerste-besoeg-vi-har-din-ryg",
+        "published_date": "2026-07-27 20:10:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Many choose to invest their pension savings themselves",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/flere-vaelger-selv-at-investere-deres-pensionsopsparing?referrer=RSS",
+        "published_date": "2026-07-27 19:31:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Premier League is testing a new rule for the treatment of injured goalkeepers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/premier-league-tester-ny-regel-for-behandling-af-skadede-maalmaend?referrer=RSS",
+        "published_date": "2026-07-27 19:28:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "It is the biggest book phenomenon of the summer \u2013 it hits right at the heart of one of the hottest topics of the time",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/litteratur/det-er-sommerens-stoerste-bogfaenomen--den-rammer-lige-i-hjertet-af-et-af-tidens-hotteste-emner?referrer=RSS",
+        "published_date": "2026-07-27 19:28:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "15-year-old arrested for shooting at food festival, where three were killed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/15-aarig-anholdt-skyderi-ved-madfestival-hvor-tre-blev-draebt",
+        "published_date": "2026-07-27 19:04:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Silkeborg coach debuts with points share in Randers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/ny-silkeborg-traener-faar-debut-med-pointdeler-i-randers?referrer=RSS",
+        "published_date": "2026-07-27 18:59:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "27-year-old Malte has died after a tragic accident: - He made sure that everyone had a good time",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/haderslev/27-aarige-malte-er-doed-efter-en-tragisk-ulykke-han-soergede-for-at-alle-havde-det-godt?rss",
+        "published_date": "2026-07-27 18:29:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shots fired near US consulate in Canada for second time in four months",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skud-affyret-naer-amerikansk-konsulat-i-canada-anden-gang-paa-fire-maaneder",
+        "published_date": "2026-07-27 17:00:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several report deer collisions",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-indberetter-hjortepaakoersler",
+        "published_date": "2026-07-27 16:03:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "600,000 mosquitoes are released in Washington",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/600-000-myg-slippes-loes-i-washington",
+        "published_date": "2026-07-27 15:49:14",
+        "category": "Local Events"
+    },
+    {
         "title": "Excessive kissing and cutting socks: Denmark's weird and wonderful wedding traditions",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260727/excessive-kissing-and-cut-off-socks-denmarks-weird-and-wonderful-wedding-traditions",
         "published_date": "2026-07-27 14:48:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zelenskyj on the dismissal of the Minister of Defense and Chief of Defense: There are things that can only be managed if they work together",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-om-fyring-af-forsvarsminister-og-forsvarschef-der-er-ting-man-kun-kan-klare-hvis-de",
+        "published_date": "2026-07-27 13:45:04",
         "category": "Local Events"
     },
     {
@@ -368,118 +473,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kommentatorer/nikolaj-boegh-debatten-om-folketingspraesten-viser-at-vi-stadig-taenker-som-gode-kristne?referrer=RSS",
         "published_date": "2026-07-27 13:23:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Historically equal gender distribution in the Folketing's important positions",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/historisk-lige-koensfordeling-paa-folketingets-vigtige-poster",
-        "published_date": "2026-07-27 13:18:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "British undertaker charged with storing 'large number of bodies' in cold storage",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/britisk-bedemand-sigtet-opbevare-stort-antal-lig-i-koelerum",
-        "published_date": "2026-07-27 13:17:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "German authorities face criticism after attacks in Berlin",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tyske-myndigheder-faar-kritik-efter-angreb-i-berlin?referrer=RSS",
-        "published_date": "2026-07-27 13:15:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister: Spain faces two decisive days in the fight against fires",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/minister-spanien-staar-over-for-to-afgoerende-dage-i-kamp-mod-brande?referrer=RSS",
-        "published_date": "2026-07-27 13:05:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister warns against creating new problems with cyclists on roads",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/minister-advarer-mod-at-skabe-nye-problemer-med-cyklister-paa-veje?referrer=RSS",
-        "published_date": "2026-07-27 12:56:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "18-year-old man charged with traffic homicide is remanded in custody for four weeks",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/18-aarig-mand-sigtet-for-trafikdrab-varetaegtsfaengsles-i-fire-uger?referrer=RSS",
-        "published_date": "2026-07-27 12:50:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Looking glass to the past': Danish cliffs win Unesco world heritage status",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260727/looking-glass-to-the-past-danish-cliffs-win-unesco-world-heritage-status",
-        "published_date": "2026-07-27 12:45:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jonas Vingegaard comes to PostNord Danmark Rundt as a guest",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/jonas-vingegaard-kommer-til-postnord-danmark-rundt-som-gaest?referrer=RSS",
-        "published_date": "2026-07-27 12:43:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Monday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260727/today-in-denmark-a-roundup-of-the-latest-news-on-monday-54",
-        "published_date": "2026-07-27 09:09:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several tons of cocaine found off the coast of Portugal",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-ton-kokain-fundet-ud-portugals-kyst",
-        "published_date": "2026-07-27 08:53:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reports of two killed after Ukrainian attacks in Russia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/meldinger-om-draebte-efter-ukrainske-angreb-i-rusland",
-        "published_date": "2026-07-27 05:11:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fires near Bordeaux have been stable overnight",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brande-naer-bordeaux-har-vaeret-stabile-natten-over",
-        "published_date": "2026-07-27 05:01:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Apartments have been sold for the highest amount in six months",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/der-er-solgt-lejligheder-hoejeste-beloeb-paa-et-halvt-aar",
-        "published_date": "2026-07-27 04:25:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cats and canaries must stay behind when Spaniards flee wildfires",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/katte-og-kanariefugle-maa-blive-tilbage-naar-spaniere-flygter-fra-naturbrande",
-        "published_date": "2026-07-27 04:01:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 19-year-old man who was involved in a serious traffic accident on Sunday is out of danger",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-mand-der-soendag-var-involveret-i-en-alvorlig-trafikulykke-er-uden-livsfare",
-        "published_date": "2026-07-27 03:30:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Britain's newly appointed Prime Minister will make his first international visit today",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/storbritanniens-nyindsatte-premierminister-faar-i-dag-sit-foerste-internationale-besoeg",
-        "published_date": "2026-07-26 23:58:00",
         "category": "Local Events"
     }
 ]
