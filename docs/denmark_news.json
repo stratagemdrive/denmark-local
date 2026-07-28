@@ -1,5 +1,19 @@
 [
     {
+        "title": "Russia reports three killed and 19 injured in Ukrainian attacks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rusland-melder-om-tre-draebte-og-19-saarede-i-ukrainske-angreb?referrer=RSS",
+        "published_date": "2026-07-28 23:16:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "UN: Fraud centers are increasingly staffed with victims of human trafficking",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fn-svindelcentre-bemandes-i-stigende-grad-med-ofre-menneskehandel",
+        "published_date": "2026-07-28 18:25:51",
+        "category": "Diplomacy"
+    },
+    {
         "title": "A Danish man has died after a climbing accident in Sweden",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/dansk-mand-er-doed-efter-klatreulykke-i-sverige",
@@ -126,18 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The EU is sending firefighting planes to forest fires in Spain and France",
+        "title": "Peru's newly installed leader sends the military into criminal strongholds",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eu-sender-brandslukningsfly-til-skovbrande-i-spanien-og-frankrig?referrer=RSS",
-        "published_date": "2026-07-24 11:18:51",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/perus-nyindsatte-leder-sender-militaeret-til-kriminelle-hoejborge?referrer=RSS",
+        "published_date": "2026-07-28 23:47:47",
+        "category": "Military"
     },
     {
-        "title": "Airbus is testing folding wings on future aircraft",
+        "title": "US military reports Iranian surprise attack in Middle East",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/airbus-afproever-foldevinger-paa-kommende-fly?referrer=RSS",
-        "published_date": "2026-07-24 11:17:55",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/usas-militaer-melder-om-iransk-overraskelsesangreb-i-mellemoesten?referrer=RSS",
+        "published_date": "2026-07-28 23:19:50",
+        "category": "Military"
+    },
+    {
+        "title": "US military: Iran has attempted 'surprise attacks' against US bases in the Middle East",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-s-militaer-iran-har-forsoegt-overraskelsesangreb-mod-amerikanske-baser-i-mellemoesten",
+        "published_date": "2026-07-28 22:46:38",
+        "category": "Military"
+    },
+    {
+        "title": "Ukraine's president discussed Patriot missiles with Donald Trump",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukraines-praesident-diskuterede-patriot-missiler-med-donald-trump",
+        "published_date": "2026-07-28 16:09:47",
+        "category": "Military"
     },
     {
         "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
@@ -245,13 +273,6 @@
         "category": "Military"
     },
     {
-        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1801?referrer=RSS",
-        "published_date": "2026-07-20 12:39:28",
-        "category": "Military"
-    },
-    {
         "title": "Elselskab is temporarily deprived of the opportunity to get new customers",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/elselskab-fratages-midlertidigt-muligheden-for-at-faa-nye-kunder?referrer=RSS",
@@ -308,18 +329,11 @@
         "category": "Energy"
     },
     {
-        "title": "Saudi Arabia condemns Houthi threat of port blockade",
+        "title": "Fifa will sell shares to private investors in a new commercial company",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/saudi-arabien-fordoemmer-houthiernes-trussel-om-havneblokade?referrer=RSS",
-        "published_date": "2026-07-20 21:20:46",
-        "category": "Energy"
-    },
-    {
-        "title": "Over a million pay tribute to Spanish world champions in Madrid",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/over-en-million-hylder-spanske-verdensmestre-i-madrid?referrer=RSS",
-        "published_date": "2026-07-20 19:37:48",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/sport/fifa-vil-saelge-aktier-til-private-investorer-i-nyt-kommercielt-selskab?referrer=RSS",
+        "published_date": "2026-07-28 20:53:50",
+        "category": "Economy"
     },
     {
         "title": "The Herm\u00e8s family has had its existence threatened several times.The worst attack came from the \"wolf in cashmere\"",
@@ -343,18 +357,102 @@
         "category": "Economy"
     },
     {
-        "title": "Burnham promises the British economic respite in his first speech in Downing Street",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/burnham-lover-briterne-oekonomisk-pusterum-i-foerste-tale-i-downing-street?referrer=RSS",
-        "published_date": "2026-07-20 12:46:47",
-        "category": "Economy"
+        "title": "Russia reports three killed and 19 injured in Ukrainian attacks",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-melder-om-tre-draebte-og-19-saarede-i-ukrainske-angreb",
+        "published_date": "2026-07-28 23:29:07",
+        "category": "Local Events"
     },
     {
-        "title": "Bulgaria has set course with express speed towards the edge of the abyss",
+        "title": "Police are investigating fights between young groups in Valby",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/bulgarien-har-sat-kurs-med-ekspresfart-mod-afgrundens-rand?referrer=RSS",
-        "published_date": "2026-07-20 12:38:22",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/indland/politi-efterforsker-slagsmaal-mellem-unge-grupper-i-valby?referrer=RSS",
+        "published_date": "2026-07-28 23:23:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unexplained elephant deaths are being investigated in Kenya",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/uforklarlige-doedsfald-blandt-elefanter-efterforskes-i-kenya",
+        "published_date": "2026-07-28 22:26:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sources: Stray OpenAI agent hacked into two companies",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kilder-herreloes-openai-agent-hackede-sig-ind-hos-to-firmaer?referrer=RSS",
+        "published_date": "2026-07-28 22:12:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Algeria's parliament elects a female speaker for the first time",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/algeriets-parlament-vaelger-for-foerste-gang-en-kvindelig-formand?referrer=RSS",
+        "published_date": "2026-07-28 21:25:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unexplained elephant deaths are being investigated in Kenya",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/uforklarlige-doedsfald-blandt-elefanter-efterforskes-i-kenya?referrer=RSS",
+        "published_date": "2026-07-28 21:21:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of applicants is increasing at teacher training courses that were previously threatened with closure",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/ansoegertal-stiger-paa-tidligere-lukningstruet-laereruddannelse?referrer=RSS",
+        "published_date": "2026-07-28 19:51:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump remembers Lindsey Graham as tough as nails at funeral",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-mindes-lindsey-graham-som-en-haard-negl-ved-begravelse?referrer=RSS",
+        "published_date": "2026-07-28 19:47:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six-year-old boy found safe",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/seks-aarig-dreng-efterlyses-paa-aeroe",
+        "published_date": "2026-07-28 18:29:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "27-year-old gang member remanded in custody for three murders",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/27-aarigt-bandemedlem-varetaegtsfaengslet-tre-drab",
+        "published_date": "2026-07-28 16:16:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tanker on fire off the Norwegian coast",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tankskib-i-brand-ud-den-norske-kyst",
+        "published_date": "2026-07-28 15:03:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "First case of reverse anklet drags out",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/foerste-sag-om-omvendt-fodlaenke-traekker-ud",
+        "published_date": "2026-07-28 14:57:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cryptic message on The Beatles website - news tomorrow",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kryptisk-besked-paa-beatles-hjemmeside-nyhed-i-morgen",
+        "published_date": "2026-07-28 14:52:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Airbus conducts test flight of over 24 hours from Australia to France",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/airbus-gennemfoerer-testflyvning-paa-over-24-timer-fra-australien-til-frankrig",
+        "published_date": "2026-07-28 14:12:21",
+        "category": "Local Events"
     },
     {
         "title": "A guide to Copenhagen's lovely beaches",
@@ -368,6 +466,13 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260728/danish-expression-of-the-day-at-fa-spat",
         "published_date": "2026-07-28 14:06:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police find five dead infants in French couple's home",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-finder-fem-doede-spaedboern-i-fransk-pars-hjem",
+        "published_date": "2026-07-28 13:39:03",
         "category": "Local Events"
     },
     {
@@ -389,111 +494,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/lauritz-pars-vinslot-i-frankrig-er-efter-flere-aar-blevet-solgt?referrer=RSS",
         "published_date": "2026-07-28 12:03:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "French police find five dead infants in couple's home",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fransk-politi-finder-fem-doede-spaedboern-i-pars-hjem?referrer=RSS",
-        "published_date": "2026-07-28 12:03:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "On audio recording, Joe Biden talks about \"classified papers in the basement\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/paa-lydoptagelse-taler-joe-biden-om-hemmeligstemplede-papirer-i-kaelderen?referrer=RSS",
-        "published_date": "2026-07-28 11:57:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several feared dead in shopping mall after earthquake in Japan",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/adskillige-frygtes-doede-i-indkoebscenter-efter-jordskaelv-i-japan?referrer=RSS",
-        "published_date": "2026-07-28 11:43:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "HR manager: We call them fragile, but they are really the bullshit detectors of working life",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/hr-chef-vi-kalder-dem-skroebelige-men-de-er-i-virkeligheden-arbejdslivets-bullshitdetektorer?referrer=RSS",
-        "published_date": "2026-07-28 11:01:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mesterklub stretches too far for razor-sharp Nadia Nadim",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mesterklub-straekker-sig-langt-for-knivskarp-nadia-nadim?referrer=RSS",
-        "published_date": "2026-07-28 11:00:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uganda is declared free of Ebola after a two-month outbreak",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/uganda-erklaeres-fri-for-ebola-efter-to-maaneder-langt-udbrud?referrer=RSS",
-        "published_date": "2026-07-28 10:40:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260728/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-57",
-        "published_date": "2026-07-28 09:39:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police are 'attention to the attack in Berlin' ahead of Copenhagen Pride",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-er-naturligvis-opmaerksomme-paa-angrebet-i-berlin-forud-copenhagen-pride",
-        "published_date": "2026-07-28 09:26:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Apple is once again the world's most valuable company",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/apple-er-igen-verdens-mest-vaerdifulde-selskab",
-        "published_date": "2026-07-28 09:14:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uganda's health minister declares the country free of Ebola",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ugandas-sundhedsminister-erklaerer-landet-fri-ebola",
-        "published_date": "2026-07-28 09:09:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Old large belt ferry has sailed its last trip - now it must be cut up",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/gammel-storebaeltsfaerge-har-sejlet-sin-sidste-tur-nu-skal-den-hugges-op",
-        "published_date": "2026-07-28 08:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The \u00d8resund Bridge set a traffic record last week",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/oeresundsbroen-satte-i-sidste-uge-trafikrekord",
-        "published_date": "2026-07-28 07:33:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bridge worth DKK 30 billion has been opened - connecting the USA and Canada",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bro-til-30-milliarder-kroner-er-aabnet-forbinder-usa-og-canada",
-        "published_date": "2026-07-28 07:15:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "27-year-old gang member charged with three murders has been extradited to Denmark",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/27-aarigt-bandemedlem-sigtet-i-drabssager-er-udleveret-til-danmark",
-        "published_date": "2026-07-28 06:27:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Many vacant places: Vocationsh\u00f8jskole hopes for a large subsequent intake",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mange-ledige-pladser-professionshoejskole-haaber-paa-stort-efteroptag",
-        "published_date": "2026-07-28 06:00:19",
         "category": "Local Events"
     }
 ]
