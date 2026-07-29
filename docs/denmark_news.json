@@ -1,5 +1,12 @@
 [
     {
+        "title": "Two thirds of Western European children are exposed to extreme heat waves",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tredjedele-af-vesteuropaeiske-boern-er-udsat-ekstreme-hedeboelger",
+        "published_date": "2026-07-29 04:44:59",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Russia reports three killed and 19 injured in Ukrainian attacks",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/rusland-melder-om-tre-draebte-og-19-saarede-i-ukrainske-angreb?referrer=RSS",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The forest fire near Madrid is impossible to control - more and more people are being evacuated",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/skovbranden-i-naerheden-af-madrid-er-umulig-at-kontrollere-flere-og-flere-bliver-evakueret?referrer=RSS",
-        "published_date": "2026-07-24 20:54:39",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Peru's newly installed leader sends the military into criminal strongholds",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/perus-nyindsatte-leder-sender-militaeret-til-kriminelle-hoejborge?referrer=RSS",
@@ -266,11 +266,11 @@
         "category": "Military"
     },
     {
-        "title": "Protesters come with a sharp deadline for Zelenskyj",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/demonstranter-kommer-med-skarp-deadline-til-zelenskyj?referrer=RSS",
-        "published_date": "2026-07-21 11:49:07",
-        "category": "Military"
+        "title": "Revenue plummets at the oil giant in Esbjerg",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/esbjerg/omsaetningen-styrtdykker-hos-oliegigant-i-esbjerg?rss",
+        "published_date": "2026-07-29 05:34:00",
+        "category": "Energy"
     },
     {
         "title": "Elselskab is temporarily deprived of the opportunity to get new customers",
@@ -329,6 +329,13 @@
         "category": "Energy"
     },
     {
+        "title": "DBU confirms Fifa letter and September 19 deadline",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dbu-bekraefter-fifa-brev-og-deadline-til-19-september?referrer=RSS",
+        "published_date": "2026-07-29 12:06:48",
+        "category": "Economy"
+    },
+    {
         "title": "Fifa will sell shares to private investors in a new commercial company",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/fifa-vil-saelge-aktier-til-private-investorer-i-nyt-kommercielt-selskab?referrer=RSS",
@@ -343,157 +350,143 @@
         "category": "Economy"
     },
     {
-        "title": "The Tax Agency is investigating fictitious invoices for billions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/skattestyrelsen-undersoeger-fiktive-fakturaer-for-milliarder?referrer=RSS",
-        "published_date": "2026-07-21 12:03:01",
-        "category": "Economy"
-    },
-    {
-        "title": "Novo Nordisk is suing Eli Lilly",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/novo-nordisk-sagsoeger-eli-lilly?referrer=RSS",
-        "published_date": "2026-07-21 11:45:28",
-        "category": "Economy"
-    },
-    {
-        "title": "Russia reports three killed and 19 injured in Ukrainian attacks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-melder-om-tre-draebte-og-19-saarede-i-ukrainske-angreb",
-        "published_date": "2026-07-28 23:29:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police are investigating fights between young groups in Valby",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politi-efterforsker-slagsmaal-mellem-unge-grupper-i-valby?referrer=RSS",
-        "published_date": "2026-07-28 23:23:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unexplained elephant deaths are being investigated in Kenya",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/uforklarlige-doedsfald-blandt-elefanter-efterforskes-i-kenya",
-        "published_date": "2026-07-28 22:26:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sources: Stray OpenAI agent hacked into two companies",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kilder-herreloes-openai-agent-hackede-sig-ind-hos-to-firmaer?referrer=RSS",
-        "published_date": "2026-07-28 22:12:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Algeria's parliament elects a female speaker for the first time",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/algeriets-parlament-vaelger-for-foerste-gang-en-kvindelig-formand?referrer=RSS",
-        "published_date": "2026-07-28 21:25:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unexplained elephant deaths are being investigated in Kenya",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/uforklarlige-doedsfald-blandt-elefanter-efterforskes-i-kenya?referrer=RSS",
-        "published_date": "2026-07-28 21:21:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of applicants is increasing at teacher training courses that were previously threatened with closure",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/ansoegertal-stiger-paa-tidligere-lukningstruet-laereruddannelse?referrer=RSS",
-        "published_date": "2026-07-28 19:51:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump remembers Lindsey Graham as tough as nails at funeral",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-mindes-lindsey-graham-som-en-haard-negl-ved-begravelse?referrer=RSS",
-        "published_date": "2026-07-28 19:47:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six-year-old boy found safe",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/seks-aarig-dreng-efterlyses-paa-aeroe",
-        "published_date": "2026-07-28 18:29:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "27-year-old gang member remanded in custody for three murders",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/27-aarigt-bandemedlem-varetaegtsfaengslet-tre-drab",
-        "published_date": "2026-07-28 16:16:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tanker on fire off the Norwegian coast",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tankskib-i-brand-ud-den-norske-kyst",
-        "published_date": "2026-07-28 15:03:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "First case of reverse anklet drags out",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/foerste-sag-om-omvendt-fodlaenke-traekker-ud",
-        "published_date": "2026-07-28 14:57:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cryptic message on The Beatles website - news tomorrow",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kryptisk-besked-paa-beatles-hjemmeside-nyhed-i-morgen",
-        "published_date": "2026-07-28 14:52:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Airbus conducts test flight of over 24 hours from Australia to France",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/airbus-gennemfoerer-testflyvning-paa-over-24-timer-fra-australien-til-frankrig",
-        "published_date": "2026-07-28 14:12:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "A guide to Copenhagen's lovely beaches",
+        "title": "What's up with Copenhagen apartments' minuscule bathrooms?",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260728/a-guide-to-copenhagens-lovely-beaches",
-        "published_date": "2026-07-28 14:08:31",
+        "url": "https://www.thelocal.dk/20260729/whats-up-with-copenhagen-apartments-minuscule-bathrooms",
+        "published_date": "2026-07-29 13:46:35",
         "category": "Local Events"
     },
     {
-        "title": "Danish expression of the day: at f\u00e5 spat",
+        "title": "What I learned from dealing with Copenhagen's crazy rental market",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260728/danish-expression-of-the-day-at-fa-spat",
-        "published_date": "2026-07-28 14:06:53",
+        "url": "https://www.thelocal.dk/20260729/what-i-learned-from-dealing-with-copenhagens-crazy-rental-market",
+        "published_date": "2026-07-29 12:53:18",
         "category": "Local Events"
     },
     {
-        "title": "Police find five dead infants in French couple's home",
+        "title": "Acting performances stand out in otherwise predictable new Spider-Man movie",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/skuespilpraestationer-staar-ud-i-ellers-forudsigelig-ny-spider-man-film?referrer=RSS",
+        "published_date": "2026-07-29 12:52:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tobias Hamann is back on Instagram after criticizing the book",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/tobias-hamann-er-tilbage-paa-instagram-efter-kritik-af-bog?referrer=RSS",
+        "published_date": "2026-07-29 12:43:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norwegian found guilty of murder plans in England for Swedish network",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/nordmand-kendt-skyldig-i-drabsplaner-i-england-for-svensk-netvaerk?referrer=RSS",
+        "published_date": "2026-07-29 12:40:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "19-year-old Norwegian found guilty of murder plans",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-finder-fem-doede-spaedboern-i-fransk-pars-hjem",
-        "published_date": "2026-07-28 13:39:03",
+        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-nordmand-kendt-skyldig-i-drabsplaner",
+        "published_date": "2026-07-29 12:35:46",
         "category": "Local Events"
     },
     {
-        "title": "The 3 things you need to know about getting into a Danish university",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260728/the-3-things-you-need-to-know-about-getting-into-a-danish-university",
-        "published_date": "2026-07-28 12:52:48",
+        "title": "Police find stolen Pok\u00e9mon cards with suspected assailants",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-finder-stjaalne-pokemon-kort-hos-formodede-overfaldsmaend",
+        "published_date": "2026-07-29 12:34:59",
         "category": "Local Events"
     },
     {
-        "title": "Media: Suspect swore allegiance to Islamic State before attack in Berlin",
+        "title": "Police find stolen Pok\u00e9mon cards with suspected assailants",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/medie-mistaenkt-svor-troskab-til-islamisk-stat-foer-angreb-i-berlin?referrer=RSS",
-        "published_date": "2026-07-28 12:10:52",
+        "url": "https://www.berlingske.dk/indland/politiet-finder-stjaalne-pokemon-kort-hos-formodede-overfaldsmaend?referrer=RSS",
+        "published_date": "2026-07-29 12:29:49",
         "category": "Local Events"
     },
     {
-        "title": "The Lauritz couple's wine castle in France has been sold after several years",
+        "title": "Death toll rises to 18 after earthquake in Japan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-stiger-til-18-efter-jordskaelv-i-japan",
+        "published_date": "2026-07-29 12:09:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former DBU boss sees way for Uefa to stop Fifa plans",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/lauritz-pars-vinslot-i-frankrig-er-efter-flere-aar-blevet-solgt?referrer=RSS",
-        "published_date": "2026-07-28 12:03:56",
+        "url": "https://www.berlingske.dk/sport/tidligere-dbu-boss-ser-en-vej-for-uefa-til-at-stoppe-fifa-planer?referrer=RSS",
+        "published_date": "2026-07-29 12:02:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avant-garde artist Martin Hall has died - aged 63",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/avantgardekunstner-martin-hall-er-doed-63-aar?referrer=RSS",
+        "published_date": "2026-07-29 11:58:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rigshospitalet has received a record number of patients with brain injuries after falls",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/rigshospitalet-har-faaet-rekordmange-ind-med-hjerneskader-efter-fald?referrer=RSS",
+        "published_date": "2026-07-29 11:46:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Multi-artist Martin Hall has died",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/multikunster-martin-hall-er-doed",
+        "published_date": "2026-07-29 11:45:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nobody wants Elon Musk's vehicle.Sales are worse than the biggest failure in automotive history",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ingen-vil-have-elon-musks-koeretoej-salget-er-vaerre-end-bilhistoriens-stoerste-fiasko?referrer=RSS",
+        "published_date": "2026-07-29 11:42:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Oscar-winning Irish musician has died",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/oscar-vindende-irsk-musiker-er-doed",
+        "published_date": "2026-07-29 11:33:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Infantino's billion-dollar plan met with threats of a boycott: \"No one owns football\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/infantinos-milliardplan-moedt-med-trusler-om-boykot-ingen-ejer-fodbold?referrer=RSS",
+        "published_date": "2026-07-29 11:33:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prosecutors unveil punishment after deadly World Cup event",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/anklager-loefter-sloeret-straf-efter-doedeligt-vm-arrangement",
+        "published_date": "2026-07-29 11:31:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swede convicted of attempted espionage for Russia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/svensker-doemt-forsoeg-paa-spionage-rusland",
+        "published_date": "2026-07-29 10:37:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "While there is demand for youth housing in Copenhagen, they are empty in Aalborg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mens-der-er-rift-om-ungdomsboliger-i-koebenhavn-staar-de-tomme-i-aalborg",
+        "published_date": "2026-07-29 10:15:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are looking for witnesses to the shooting incident in Vejle",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-soeger-vidner-til-skudepisode-i-vejle",
+        "published_date": "2026-07-29 10:14:59",
         "category": "Local Events"
     }
 ]
