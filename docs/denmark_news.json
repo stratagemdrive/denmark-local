@@ -1,5 +1,26 @@
 [
     {
+        "title": "Why Europe won't get any new Canadair water bombers any time soon",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260730/why-europe-wont-get-any-new-canadair-water-bombers-any-time-soon",
+        "published_date": "2026-07-30 13:23:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "During the heated hearing, Anthony Fauci repeatedly refused to answer - and then he was suddenly asked about the color of his tie",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/under-den-ophedede-hoering-naegtede-anthony-fauci-igen-og-igen-at-svare--og-saa-blev-han-pludselig-spurgt-til-farven-paa-sit-slips?referrer=RSS",
+        "published_date": "2026-07-30 11:34:02",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU president after downed missile: 'A threat to the security of the whole of Europe'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-formand-efter-nedstyrtet-missil-en-trussel-mod-hele-europas-sikkerhed",
+        "published_date": "2026-07-30 09:16:31",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Two thirds of Western European children are exposed to extreme heat waves",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/tredjedele-af-vesteuropaeiske-boern-er-udsat-ekstreme-hedeboelger",
@@ -119,27 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The United States is in the midst of the nation's largest measles outbreak in 35 years",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-staar-midt-i-landets-stoerste-maeslingeudbrud-i-35-aar?referrer=RSS",
-        "published_date": "2026-07-24 23:49:50",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Criminal court members vote to drop chief charges",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/straffedomstols-medlemmer-stemmer-fjerne-chefanklager",
-        "published_date": "2026-07-24 21:16:56",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Criminal court members vote to drop chief charges",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/straffedomstols-medlemmer-stemmer-for-at-fjerne-chefanklager?referrer=RSS",
-        "published_date": "2026-07-24 21:04:51",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Ukrainian pilot ejected from F-16 plane when it crashed",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/ukrainsk-pilot-katapulterede-fra-f-16-fly-ved-nedstyrtning?referrer=RSS",
@@ -245,18 +245,18 @@
         "category": "Military"
     },
     {
-        "title": "The defense gets robots for demining",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/forsvaret-faar-robotter-til-minerydning",
-        "published_date": "2026-07-22 08:44:06",
-        "category": "Military"
+        "title": "Authorities begin supervision of controversial buyer of electricity customers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/myndigheder-indleder-tilsyn-med-omdiskuteret-koeber-af-elkunder?referrer=RSS",
+        "published_date": "2026-07-30 11:28:52",
+        "category": "Energy"
     },
     {
-        "title": "Ukraine has attacked 13 Russian ships in two days",
+        "title": "Mysterious gas smell in Fredericia has disappeared",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-har-angrebet-13-russiske-skibe-paa-doegn",
-        "published_date": "2026-07-22 06:40:15",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-opfordrer-til-lukke-vinduer-efter-gaslugt-i-fredericia",
+        "published_date": "2026-07-30 09:32:47",
+        "category": "Energy"
     },
     {
         "title": "Fire on gas tanker in Egypt",
@@ -371,143 +371,143 @@
         "category": "Economy"
     },
     {
-        "title": "Pig transport and motorhome collided on motorway",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/grisetransport-og-autocamper-stoedte-sammen-paa-motorvej?referrer=RSS",
-        "published_date": "2026-07-29 22:43:49",
+        "title": "Your essential guide to Denmark's cycling rules and etiquette",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260730/your-essential-guide-to-denmarks-cycling-rules-and-etiquette",
+        "published_date": "2026-07-30 13:42:19",
         "category": "Local Events"
     },
     {
-        "title": "Prostate cancer is a public disease - so why don't we hear more about it?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/prostatakraeft-er-en-folkesygdom--saa-hvorfor-hoerer-vi-ikke-mere-om-den?referrer=RSS",
-        "published_date": "2026-07-29 22:14:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salman Rushdie's assailant is convicted of terrorism",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/salman-rushdies-overfaldsmand-er-doemt-for-terrorisme?referrer=RSS",
-        "published_date": "2026-07-29 22:12:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "AI deployment costs send Meta stock down",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/omkostninger-til-udbygning-af-ai-faar-meta-aktie-til-at-falde?referrer=RSS",
-        "published_date": "2026-07-29 21:19:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Investments in cloud and AI lift Microsoft's quarterly accounts",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/satsninger-paa-cloud-og-ai-loefter-microsofts-kvartalsregnskab?referrer=RSS",
-        "published_date": "2026-07-29 21:16:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "FCK coach is proud after promotion: The opponent was the best",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fck-traener-er-stolt-efter-avancement-modstanderen-var-bedst?referrer=RSS",
-        "published_date": "2026-07-29 20:29:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "AGF delivers a comeback and turns 1-4 to overall victory in the Champions League",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/agf-leverer-comeback-og-vender-1-4-til-samlet-sejr-i-champions-league?referrer=RSS",
-        "published_date": "2026-07-29 20:09:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "It began with an interest that completely evaporated: Now Madsen's widow is withdrawing the sale",
+        "title": "54-year-old jailed for stalking: Charged with over 900 calls, vandalism to a car and nails in the lock",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/det-begyndte-med-en-interesse-der-stak-helt-af-nu-traekker-madsens-enke-salget-tilbage?rss",
-        "published_date": "2026-07-29 18:08:00",
+        "url": "https://jv.dk/billund/54-aarig-faengslet-for-stalking-sigtet-for-over-900-opkald-haervaerk-mod-bil-og-soem-i-laasen?rss",
+        "published_date": "2026-07-30 13:14:43",
         "category": "Local Events"
     },
     {
-        "title": "Two firefighters killed in wildfire in Crete",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brandfolk-omkommet-i-naturbrand-paa-kreta",
-        "published_date": "2026-07-29 16:10:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "France expels Russian journalist over misinformation",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/frankrig-udviser-russisk-journalist-over-misinformation",
-        "published_date": "2026-07-29 15:20:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish word of the day: Snask",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260729/danish-word-of-the-day-snask",
-        "published_date": "2026-07-29 14:55:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "What's up with Copenhagen apartments' minuscule bathrooms?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260729/whats-up-with-copenhagen-apartments-minuscule-bathrooms",
-        "published_date": "2026-07-29 13:46:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Beatles album 'Rubber Soul' will be reissued in October",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/beatles-albummet-rubber-soul-kommer-i-en-ny-udgave-til-oktober",
-        "published_date": "2026-07-29 13:36:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Influencer returns to Instagram with two emojis",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/influencer-vender-tilbage-til-instagram-med-emojis",
-        "published_date": "2026-07-29 13:13:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "A new baby gorilla has been born at Givskud Zoo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-gorillaunge-er-kommet-til-verden-i-givskud-zoo",
-        "published_date": "2026-07-29 13:12:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "What I learned from dealing with Copenhagen's crazy rental market",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260729/what-i-learned-from-dealing-with-copenhagens-crazy-rental-market",
-        "published_date": "2026-07-29 12:53:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Acting performances stand out in otherwise predictable new Spider-Man movie",
+        "title": "Hitting a person at Gentofte Station affects train traffic",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/skuespilpraestationer-staar-ud-i-ellers-forudsigelig-ny-spider-man-film?referrer=RSS",
-        "published_date": "2026-07-29 12:52:53",
+        "url": "https://www.berlingske.dk/indland/personpaakoersel-ved-gentofte-station-paavirker-togtrafik?referrer=RSS",
+        "published_date": "2026-07-30 12:16:50",
         "category": "Local Events"
     },
     {
-        "title": "Tobias Hamann is back on Instagram after criticizing the book",
+        "title": "Danish feature film has been selected for the film festival in San Sebasti\u00e1n",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/tobias-hamann-er-tilbage-paa-instagram-efter-kritik-af-bog?referrer=RSS",
-        "published_date": "2026-07-29 12:43:47",
+        "url": "https://www.berlingske.dk/danmark/dansk-spillefilm-er-udtaget-til-filmfestival-i-san-sebastian?referrer=RSS",
+        "published_date": "2026-07-30 12:13:45",
         "category": "Local Events"
     },
     {
-        "title": "Norwegian found guilty of murder plans in England for Swedish network",
+        "title": "Two firefighters have died and 8,000 have been evacuated during wildfires in Crete",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nordmand-kendt-skyldig-i-drabsplaner-i-england-for-svensk-netvaerk?referrer=RSS",
-        "published_date": "2026-07-29 12:40:51",
+        "url": "https://www.berlingske.dk/internationalt/to-brandfolk-er-doede-og-8000-er-evakueret-under-naturbrand-paa-kreta?referrer=RSS",
+        "published_date": "2026-07-30 12:10:46",
         "category": "Local Events"
     },
     {
-        "title": "19-year-old Norwegian found guilty of murder plans",
+        "title": "Folkeskolen has changed \"whether we like it or not\".Research chief calls for action against religious control and violence",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/samfund/folkeskolen-er-forandret-om-vi-saa-kan-lide-det-eller-ej-forskningschef-efterlyser-handling-mod-religioes-kontrol-og-vold?referrer=RSS",
+        "published_date": "2026-07-30 12:05:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mysterious object over Poland suspected to be missile from Russia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mystisk-objekt-over-polen-mistaenkes-at-vaere-missil-fra-rusland?referrer=RSS",
+        "published_date": "2026-07-30 12:04:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "American authorities are suing Novo Nordisk's collaborator",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-nordmand-kendt-skyldig-i-drabsplaner",
-        "published_date": "2026-07-29 12:35:46",
+        "url": "https://www.dr.dk/nyheder/seneste/amerikanske-myndigheder-sagsoeger-novo-nordisk-samarbejdspartner",
+        "published_date": "2026-07-30 12:04:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Zorniger player wonders about dismissal: They knew him",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tidligere-zorniger-spiller-undrer-sig-over-fyring-de-kendte-ham?referrer=RSS",
+        "published_date": "2026-07-30 11:58:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "US authorities sue former Novo copyist",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/amerikanske-myndigheder-sagsoeger-tidligere-novo-kopist?referrer=RSS",
+        "published_date": "2026-07-30 11:49:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "FACTS: This is how consumers are protected against an unwanted change of electricity company",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/fakta-saadan-er-forbrugere-sikret-mod-uoensket-skift-af-elselskab-1?referrer=RSS",
+        "published_date": "2026-07-30 11:32:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police fire shots at the driver of a van in Taastrup",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-affyrer-skud-mod-foerer-af-varebil",
+        "published_date": "2026-07-30 09:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Thursday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260730/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-50",
+        "published_date": "2026-07-30 08:33:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Danish ice hockey men get a new national coach",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/de-danske-ishockeyherrer-faar-ny-landstraener",
+        "published_date": "2026-07-30 08:22:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ukrainian minister: Object in Polish airspace was Russian missile",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukrainsk-minister-objekt-i-polsk-luftrum-var-russisk-missil",
+        "published_date": "2026-07-30 07:53:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three Greek firefighters have died in wildfires",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-graeske-brandmaend-er-doede-i-naturbrande",
+        "published_date": "2026-07-30 05:52:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Polish defense confirms unidentified flying object in the country's airspace",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/polsk-forsvar-bekraefter-uidentificeret-flyvende-objekt-i-landets-luftrum",
+        "published_date": "2026-07-30 05:38:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Minister of Culture will investigate rules for state support for scouts",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kulturminister-vil-undersoege-regler-statsstoette-til-spejdere",
+        "published_date": "2026-07-30 05:22:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Every fifth employee earns over DKK 800,000: Director defends salary in utility company",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/esbjerg/hver-femte-ansat-tjener-over-800-000-kroner-direktoer-forsvarer-loennen-i-forsyningsselskab?rss",
+        "published_date": "2026-07-30 05:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "West Jutland's only circus is closing after three decades",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/vestjyllands-eneste-cirkus-lukker-efter-tre-aartier",
+        "published_date": "2026-07-30 04:29:09",
         "category": "Local Events"
     }
 ]
