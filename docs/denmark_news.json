@@ -1,5 +1,54 @@
 [
     {
+        "title": "Danish PM calls for Spain to be suspended from Schengen agreement",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260731/mette-frederiksen-we-should-consider-suspending-schengen-agreement-with-spain",
+        "published_date": "2026-07-31 14:33:02",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Penalty for migrants to Spanish exclave: the EU's borders must not be weakened",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/boedskov-om-migranter-til-spansk-eksklave-eus-graenser-skal-ikke-svaekkes?referrer=RSS",
+        "published_date": "2026-07-31 12:33:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Denmark will buy AI computing power for up to 750 million",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/danmark-vil-koebe-ai-regnekraft-for-op-til-750-millioner?referrer=RSS",
+        "published_date": "2026-07-31 12:33:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Spain: 25,000 migrants have returned to Morocco from Ceuta",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/spanien-25000-migranter-er-vendt-tilbage-til-marokko-fra-ceuta?referrer=RSS",
+        "published_date": "2026-07-31 12:27:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "49,000 migrants in one day exposes the weakness of \"Fort Europe\".The EU is not equipped to handle it, experts believe",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/samfund/49000-migranter-paa-et-doegn-udstillerfort-europas-svaghedeu-er-ikke-rustet-til-at-haandtere-det-mener-eksperter?referrer=RSS",
+        "published_date": "2026-07-31 12:18:01",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Prime Minister: The EU should consider suspending Spain due to migrants",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/statsminister-eu-boer-overveje-suspension-af-spanien-grundet-migranter?referrer=RSS",
+        "published_date": "2026-07-31 11:59:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "AI project to strengthen Europe's sovereignty - Denmark will spend 750 million",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ai-projekt-skal-styrke-europas-suveraenitet-danmark-vil-bruge-750-millioner",
+        "published_date": "2026-07-31 10:19:14",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Migrants swim to Spanish exclave from Morocco",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/migranter-svoemmer-til-spansk-eksklave-fra-marokko?referrer=RSS",
@@ -91,53 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "He was taken from his private jet to a prison cell.Now he wants to invest in one of the largest defense projects in Eastern Europe",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/han-blev-foert-fra-sit-privatfly-til-en-faengselscelle-nu-vil-han-investere-i-et-af-de-stoerste-forsvarsprojekter-i-oesteuropa?referrer=RSS",
-        "published_date": "2026-07-27 13:18:58",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Explained: The EU's new rules on AI, deepfakes and chatbots",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260727/explained-eus-new-rules-on-ai-deepfakes-and-chatbots",
-        "published_date": "2026-07-27 11:38:09",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Ukraine is on the way with European missile defense",
+        "title": "Ukraine again attacks the Russians' largest online marketplace",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-er-paa-vej-med-europaeisk-missilforsvar",
-        "published_date": "2026-07-27 07:09:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Mads Pedersen after third place in Paris: Van der Poel was exceptional",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mads-pedersen-efter-tredjeplads-i-paris-van-der-poel-var-exceptionel?referrer=RSS",
-        "published_date": "2026-07-26 19:36:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Five are feared dead on Europe's highest mountain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fem-frygtes-omkommet-paa-europas-hoejeste-bjerg",
-        "published_date": "2026-07-26 15:19:40",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Will heatwaves push European holidaymakers to 'coolcations'?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260726/will-heatwaves-push-european-holidaymakers-to-coolcations",
-        "published_date": "2026-07-26 14:18:09",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "A further 55,000 are being evacuated as a result of wildfires in France",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/yderligere-55000-evakueres-som-foelge-af-naturbrande-i-frankrig?referrer=RSS",
-        "published_date": "2026-07-25 23:33:47",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-ser-igen-ud-til-angribe-russernes-stoerste-online-markedsplads",
+        "published_date": "2026-07-31 04:43:09",
+        "category": "Military"
     },
     {
         "title": "Ukrainian pilot ejected from F-16 plane when it crashed",
@@ -238,11 +245,11 @@
         "category": "Military"
     },
     {
-        "title": "Zelenskyj: Representatives from Ukraine and the US can meet in the coming days",
+        "title": "The Danish government is following the situation closely in the Spanish exclave following the influx of migrants",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-repraesentanter-fra-ukraine-og-usa-kan-moedes-de-kommende-dage",
-        "published_date": "2026-07-23 12:48:07",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/den-danske-regering-foelger-situationen-taet-i-spansk-eksklave-efter-tilstroemning-af-migranter",
+        "published_date": "2026-07-31 06:43:07",
+        "category": "Energy"
     },
     {
         "title": "Authorities begin supervision of controversial buyer of electricity customers",
@@ -308,11 +315,11 @@
         "category": "Energy"
     },
     {
-        "title": "The ECB maintains the interest rate.Homeowners can breathe a sigh of relief \u2013 for now",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/ecb-fastholder-renten-boligejere-kan-aande-lettet-op--for-nu?referrer=RSS",
-        "published_date": "2026-07-23 12:15:32",
-        "category": "Energy"
+        "title": "Christian Stadil sets wild record: - It's hard to celebrate",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/erhverv/christian-stadils-koncern-tjente-en-milliard?rss",
+        "published_date": "2026-07-31 09:00:00",
+        "category": "Economy"
     },
     {
         "title": "US releases financial contributions to global vaccine alliance",
@@ -357,6 +364,118 @@
         "category": "Economy"
     },
     {
+        "title": "British Prime Minister: Infantino should not lead Fifa",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/storbritanniens-premierminister-infantino-boer-ikke-lede-fifa?referrer=RSS",
+        "published_date": "2026-07-31 12:47:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Per Hansen has followed the market for decades.It has taught him all about the wise investment",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/aktier/per-hansen-har-fulgt-markedet-i-aartier-det-har-laert-ham-alt-om-den-kloge-investering?referrer=RSS",
+        "published_date": "2026-07-31 12:34:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Novo stock dives after disappointing heart drug research data",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/novo-aktien-dykker-efter-skuffende-forskningsdata-om-hjertemedicin?referrer=RSS",
+        "published_date": "2026-07-31 12:30:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "They are not a little cheeky: Trick thieves at play in North Zealand",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/metropol/de-er-ikke-saa-lidt-fraekke-tricktyve-paa-spil-i-nordsjaelland?referrer=RSS",
+        "published_date": "2026-07-31 12:21:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Officers feared for their lives during a police chase in Taastrup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/betjente-frygtede-for-livet-ved-politijagt-i-taastrup?referrer=RSS",
+        "published_date": "2026-07-31 11:57:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Novo Nordisk share plunges after disappointing trials with heart medicine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/novo-nordisk-aktien-styrtdykker-efter-skuffende-forsoeg-med-hjertemedicin",
+        "published_date": "2026-07-31 11:51:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Record-breaking Danish team selected for the EC in athletics",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/rekordstort-dansk-hold-udtaget-til-em-i-atletik",
+        "published_date": "2026-07-31 11:07:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "18-year-old man arrested after rape of woman at primary school",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/18-aarig-mand-anholdt-efter-voldtaegt-af-kvinde-ved-folkeskole",
+        "published_date": "2026-07-31 09:40:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Friday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260731/today-in-denmark-a-roundup-of-the-latest-news-on-friday-55",
+        "published_date": "2026-07-31 08:30:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Danish Health Authority warns: Strong opioid found in Denmark",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sundhedsstyrelsen-advarer-staerk-syntetisk-opioid-fundet-i-danmark",
+        "published_date": "2026-07-31 08:17:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Finland has confirmed African swine fever for the first time",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/finland-har-foerste-gang-konstateret-afrikansk-svinepest",
+        "published_date": "2026-07-31 08:00:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men charged in case of attempted murder",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maend-sigtet-i-sag-om-drabsforsoeg",
+        "published_date": "2026-07-31 07:47:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "AI agent 'hacked' into another company - now another chatbot has done it",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ai-agent-hackede-sig-ind-i-anden-virksomhed-nu-har-endnu-en-chatbot-gjort-det",
+        "published_date": "2026-07-31 07:33:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "34 killed in coal mine explosion in Pakistan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/34-meldes-draebt-i-kulmineeksplosion-i-pakistan",
+        "published_date": "2026-07-31 06:55:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll from earthquake in Japan rises to 34",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-efter-jordskaelv-i-japan-stiger-til-34",
+        "published_date": "2026-07-31 05:31:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pilot arrested for smuggling MDMA into Indonesia - risks the death penalty",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pilot-anholdt-smugle-mdma-ind-i-indonesien-risikerer-doedsstraf",
+        "published_date": "2026-07-31 04:44:26",
+        "category": "Local Events"
+    },
+    {
         "title": "It's never too late to get an education",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/laesere/det-er-aldrig-for-sent-at-tage-en-uddannelse?referrer=RSS",
@@ -382,118 +501,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/italien-vil-udelukke-spanien-fra-schengen-samarbejdet?referrer=RSS",
         "published_date": "2026-07-30 23:06:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "FACT: There are 20 points in Trump's peace plan for Gaza",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fakta-der-er-20-punkter-i-trumps-fredsplan-for-gaza?referrer=RSS",
-        "published_date": "2026-07-30 23:03:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Apple exceeds expectations after record sales of iPhones",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/apple-overgaar-forventninger-efter-rekordsalg-af-iphones?referrer=RSS",
-        "published_date": "2026-07-30 22:02:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Apple exceeds expectations after record sales of iPhones",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/apple-overgaar-forventninger-efter-rekordsalg-af-iphones",
-        "published_date": "2026-07-30 21:44:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Amazon's cloud business is helping to drive up revenue",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/amazons-cloud-forretning-er-med-til-at-traekke-omsaetning-op?referrer=RSS",
-        "published_date": "2026-07-30 21:11:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "On a map from the US government, several African countries are located incorrectly",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/paa-et-kort-fra-den-amerikanske-regering-er-flere-afrikanske-lande-placeret-forkert",
-        "published_date": "2026-07-30 19:32:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vehicle inspection in Greenland on its way back after 27 years",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bilsyn-i-groenland-paa-vej-tilbage-efter-27-aar",
-        "published_date": "2026-07-30 18:48:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "After landslides in China, 51 are now reported dead, while 10 people are still missing",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-jordskred-i-kina-meldes-51-nu-doede-mens-10-personer-fortsat-er-savnet",
-        "published_date": "2026-07-30 17:48:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two arrested in Spain in connection with wildfire near Madrid",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/anholdt-i-spanien-i-forbindelse-med-naturbrand-ved-madrid",
-        "published_date": "2026-07-30 15:57:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish expression of the day: en h\u00e5rd nyser",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260730/danish-expression-of-the-day-en-hard-nyser",
-        "published_date": "2026-07-30 15:26:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nuclear power plants in Hungary and Romania affected by low water levels in the Danube",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/atomkraftvaerker-i-ungarn-og-rumaenien-ramt-af-lav-vandstand-i-donau",
-        "published_date": "2026-07-30 13:48:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Your essential guide to Denmark's cycling rules and etiquette",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260730/your-essential-guide-to-denmarks-cycling-rules-and-etiquette",
-        "published_date": "2026-07-30 13:42:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "54-year-old jailed for stalking: Charged with over 900 calls, vandalism to a car and nails in the lock",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/54-aarig-faengslet-for-stalking-sigtet-for-over-900-opkald-haervaerk-mod-bil-og-soem-i-laasen?rss",
-        "published_date": "2026-07-30 13:14:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two injured after fire in apartment building on Vesterbrogade",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tilskadekomne-efter-brand-i-lejlighedsbygning-paa-vesterbrogade",
-        "published_date": "2026-07-30 12:47:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia Adds Telegram Founder to 'Terrorists and Extremists' List",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-tilfoejer-grundlaeggeren-af-telegram-til-listen-over-terrorister-og-ekstremister",
-        "published_date": "2026-07-30 12:41:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hitting a person at Gentofte Station affects train traffic",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/personpaakoersel-ved-gentofte-station-paavirker-togtrafik?referrer=RSS",
-        "published_date": "2026-07-30 12:16:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish feature film has been selected for the film festival in San Sebasti\u00e1n",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dansk-spillefilm-er-udtaget-til-filmfestival-i-san-sebastian?referrer=RSS",
-        "published_date": "2026-07-30 12:13:45",
         "category": "Local Events"
     }
 ]
