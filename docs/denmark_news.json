@@ -1,5 +1,26 @@
 [
     {
+        "title": "Wildfires in southern Europe - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/naturbrande-i-det-sydlige-europa--foelg-med-her?referrer=RSS",
+        "published_date": "2026-08-02 21:52:16",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Thousands of migrants poured into Spanish exclave - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tusindvis-af-migranter-stroemmede-ind-i-spansk-eksklave--foelg-med-her?referrer=RSS",
+        "published_date": "2026-08-02 21:51:06",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Morocco points to misinformation and judgment as the cause of migrant flows",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/marokko-peger-paa-misinformation-og-dom-som-aarsag-til-migrantstroemme?referrer=RSS",
+        "published_date": "2026-08-02 21:27:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "B\u00f8dskov participates in the EU emergency meeting on migrant flows",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/boedskov-deltager-i-eu-hastemoede-om-migrantstroemme?referrer=RSS",
@@ -119,25 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "49,000 migrants in one day exposes the weakness of \"Fort Europe\".The EU is not equipped to handle it, experts believe",
+        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/49000-migranter-paa-et-doegn-udstillerfort-europas-svaghedeu-er-ikke-rustet-til-at-haandtere-det-mener-eksperter?referrer=RSS",
-        "published_date": "2026-07-31 12:18:01",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1826?referrer=RSS",
+        "published_date": "2026-08-02 21:53:19",
+        "category": "Military"
     },
     {
-        "title": "Prime Minister: The EU should consider suspending Spain due to migrants",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/statsminister-eu-boer-overveje-suspension-af-spanien-grundet-migranter?referrer=RSS",
-        "published_date": "2026-07-31 11:59:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "AI project to strengthen Europe's sovereignty - Denmark will spend 750 million",
+        "title": "Denmark will increase its military presence in the Faroe Islands",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ai-projekt-skal-styrke-europas-suveraenitet-danmark-vil-bruge-750-millioner",
-        "published_date": "2026-07-31 10:19:14",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/danmark-vil-oege-militaer-tilstedevaerelse-paa-faeroeerne",
+        "published_date": "2026-08-02 15:06:51",
+        "category": "Military"
+    },
+    {
+        "title": "Drone parts have crashed in Romania close to the border with Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dronedele-er-styrtet-ned-i-rumaenien-taet-paa-graensen-til-ukraine",
+        "published_date": "2026-08-02 14:46:37",
+        "category": "Military"
+    },
+    {
+        "title": "Temporary military area is established at Grenaa Harbour",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/midlertidigt-militaert-omraade-oprettes-paa-grenaa-havn",
+        "published_date": "2026-08-02 13:55:53",
+        "category": "Military"
     },
     {
         "title": "Two are reported dead after Ukrainian drone attacks in Russia",
@@ -210,11 +238,11 @@
         "category": "Military"
     },
     {
-        "title": "Kazakhstan's president suggests 'freezing the war' in Ukraine",
+        "title": "Morocco blames social media, smugglers and misinterpretation for mass influx",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kasakhstans-praesident-foreslaar-fastfryse-krigen-i-ukraine",
-        "published_date": "2026-07-25 17:28:35",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/marokkansk-ministerie-giver-sociale-medier-smuglere-og-fejltolkning-skylden-massetilstroemning",
+        "published_date": "2026-08-02 20:12:10",
+        "category": "Energy"
     },
     {
         "title": "Heat wave puts pressure on Hungary's power supply",
@@ -329,11 +357,130 @@
         "category": "Economy"
     },
     {
-        "title": "The Herm\u00e8s family has had its existence threatened several times.The worst attack came from the \"wolf in cashmere\"",
+        "title": "Trump: Iran negotiations begin Monday after foiled attack",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/hermes-familien-har-flere-gange-vaeret-truet-paa-eksistensen-det-vaerste-angreb-kom-fraulven-i-cashmere?referrer=RSS",
-        "published_date": "2026-07-25 19:08:33",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/trump-iran-forhandlinger-begynder-mandag-efter-afblaest-angreb?referrer=RSS",
+        "published_date": "2026-08-02 22:53:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rasmus H\u00f8jgaard finishes in fourth place in the PGA tournament",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/rasmus-hoejgaard-slutter-paa-en-fjerdeplads-i-pga-turnering?referrer=RSS",
+        "published_date": "2026-08-02 22:53:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Imprisoned Maduro welcomes political dialogue in Venezuela",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/faengslet-maduro-hilser-politisk-dialog-i-venezuela-velkommen?referrer=RSS",
+        "published_date": "2026-08-02 22:21:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Conservative Youth: More criminal gangs must be banned",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/konservativ-ungdom-flere-kriminelle-bander-skal-forbydes?referrer=RSS",
+        "published_date": "2026-08-02 21:57:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "The war in the Middle East continues - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krigen-i-mellemoesten-fortsaetter--foelg-med-her-17?referrer=RSS",
+        "published_date": "2026-08-02 21:54:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "The prisoners of war lie in the \"hell ship\" at the bottom of the sea.Now the authorities are trying to save them",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krigsfangerne-ligger-i-helvedesskibet-paa-havets-bund-nu-forsoeger-myndighederne-at-bjaerge-dem?referrer=RSS",
+        "published_date": "2026-08-02 21:24:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Conservatives propose a billion-dollar government order for green jet fuel",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/de-konservative-foreslaar-statslig-milliardordre-paa-groent-flybraendstof",
+        "published_date": "2026-08-02 21:19:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "When Jens broke his leg as a garbage man, he decided to run: Now he has set a world record",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/varde/da-jens-braekkede-benet-som-skraldemand-besluttede-han-sig-for-at-loebe-nu-har-han-sat-verdensrekord?rss",
+        "published_date": "2026-08-02 18:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Emergency services are present in large numbers at Vistoft Plantage - fire reported under control",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/beredskabet-er-talstaerkt-til-stede-ved-vistoft-plantage-brand-meldes-under-kontrol",
+        "published_date": "2026-08-02 18:07:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "14 are reported dead in Pakistan after suicide attacks",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/14-meldes-draebt-i-pakistan-efter-selvmordsangreb",
+        "published_date": "2026-08-02 17:37:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Midtjyske Motorvej is again passable after an accident",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/herningmotorvejen-spaerret-i-begge-retninger",
+        "published_date": "2026-08-02 16:05:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lack of space in Swedish prisons - now the first prisoners are sent to Estonia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pladsmangel-i-svenske-faengsler-nu-sendes-de-foerste-fanger-til-estland",
+        "published_date": "2026-08-02 15:47:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Italian forces board tanker suspected of belonging to Russian shadow fleet",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/italienske-styrker-gaar-ombord-paa-tankskib-mistaenkt-tilhoere-russisk-skyggeflaade",
+        "published_date": "2026-08-02 15:41:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Spiderman film breaks records - both at home and abroad",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-spiderman-film-slaar-rekorder-baade-herhjemme-og-i-udlandet",
+        "published_date": "2026-08-02 14:20:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Racing in Aalborg attracted 780,000 visitors, reports the municipality",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kapsejlads-i-aalborg-tiltrak-780-000-gaester-melder-kommunen",
+        "published_date": "2026-08-02 13:52:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Moscow mayor calls explosion 'brutal act of terrorism'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/moskva-borgmester-kalder-eksplosion-brutal-terrorhandling",
+        "published_date": "2026-08-02 13:41:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two firefighting helicopters have collided in Greece",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brandslukningshelikoptere-er-kollideret-i-graekenland",
+        "published_date": "2026-08-02 13:41:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "The body of the famous mountaineer Nirmal Purja has been brought down from the mountain",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/den-beroemte-bjergbestiger-nirmal-purjas-lig-er-hentet-ned-fra-bjerg",
+        "published_date": "2026-08-02 13:27:37",
+        "category": "Local Events"
     },
     {
         "title": "Comfort and Paul found each other in Den Bl\u00e5 Avis: in 12 days they were married and expecting a child",
@@ -343,136 +490,10 @@
         "category": "Local Events"
     },
     {
-        "title": "One of the world's biggest fraud lords has been caught.His empire stole 401 billion - now he risks death",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-af-verdens-stoerste-svindelbaroner-er-fanget-hans-imperium-stjal-for-401-milliarder--nu-risikerer-han-doeden?referrer=RSS",
-        "published_date": "2026-08-02 11:44:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "When terror extinguishes the summer",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/poesi/naar-terror-slukker-sommeren?referrer=RSS",
-        "published_date": "2026-08-02 11:37:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "One company was the symbol in the autumn, now the fear is spreading.The price has never been higher",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/aktier/en-virksomhed-var-symbolet-i-efteraaret-nu-breder-frygten-sig-prisen-har-aldrig-vaeret-hoejere?referrer=RSS",
-        "published_date": "2026-08-02 11:05:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several dead and 41 missing after ferry fire in Indonesia",
+        "title": "Danish travel company does not feel the consequences of wildfires and heat waves",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-doede-og-41-savnede-efter-faergebrand-i-indonesien",
-        "published_date": "2026-08-02 10:58:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Liga boss demands Infantino's departure: Only the tip of the iceberg",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/la-liga-boss-kraever-infantinos-afgang-kun-toppen-af-isbjerget?referrer=RSS",
-        "published_date": "2026-08-02 10:43:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "S\u00f8rine Gotfredsen: The LGBT movement seems to exist in a particularly strange relationship with Islam",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/soerine-gotfredsen-lgbt-bevaegelsen-synes-at-eksistere-i-et-saerdeles-saert-slaegtskab-med-islam?referrer=RSS",
-        "published_date": "2026-08-02 10:40:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "36-year-old man remanded in custody after stabbing in Skive",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/36-aarig-mand-varetaegtsfaengslet-efter-knivstikkeri-i-skive",
-        "published_date": "2026-08-02 10:36:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "The master designed a very special house for himself \u2013 Holger Dahl has been allowed to enter Arne Jacobsen's private summer residence",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/arkitektur/mesteren-tegnede-et-helt-saerligt-hus-til-sig-selv--holger-dahl-har-faaet-lov-til-at-komme-indenfor-i-arne-jacobsens-private-sommerbolig?referrer=RSS",
-        "published_date": "2026-08-02 10:34:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six racing bikes stolen from cycling team for Tour of Denmark",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/seks-racercykler-stjaalet-fra-cykelhold-til-danmark-rundt?referrer=RSS",
-        "published_date": "2026-08-02 10:24:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police chased car sharing before shooting at 22-year-old",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politi-jagtede-delebil-foer-skud-mod-22-aarig?referrer=RSS",
-        "published_date": "2026-08-02 10:12:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "St\u00f8jberg is ready to pay for a Muslim debater's one-way ticket to Africa: \"Goodbye and thank you\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/stoejberg-er-klar-til-at-betale-for-muslimsk-debattoers-enkeltbillet-til-afrika-farvel-og-tak?referrer=RSS",
-        "published_date": "2026-08-02 10:09:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "It's a booming trend in Copenhagen - and here are five new Japanese people you need to know",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oplevelser/det-er-en-buldrende-trend-i-koebenhavn--og-her-er-fem-nye-japanere-du-skal-kende?referrer=RSS",
-        "published_date": "2026-08-02 09:39:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "South Korea sets heat record",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sydkorea-har-maalt-ny-varmerekord",
-        "published_date": "2026-08-02 09:02:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tourists underestimate the Norwegian mountains",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/turister-undervurderer-de-norske-fjelde",
-        "published_date": "2026-08-02 08:51:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The shooting incident does not 'necessarily' say anything about the development in Tingbjerg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skudepisode-siger-ikke-noedvendigvis-noget-om-udviklingen-i-tingbjerg",
-        "published_date": "2026-08-02 08:50:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Privately employed fathers take longer maternity leave",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/privatansatte-faedre-holder-laengere-barsel",
-        "published_date": "2026-08-02 06:24:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Difficult to find a head teacher for Christians\u00f8",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/svaert-finde-skoleleder-til-christiansoe",
-        "published_date": "2026-08-02 06:03:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Approaches and exits at Aarhus N will be closed for three weeks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/til-og-frakoersler-ved-aarhus-n-spaerres-i-tre-uger",
-        "published_date": "2026-08-02 06:02:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Knife stabbing in Skive city centre",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/knivstik-i-skive-midtby",
-        "published_date": "2026-08-02 05:19:38",
+        "url": "https://www.dr.dk/nyheder/seneste/dansk-rejseselskab-maerker-ikke-konsekvenserne-af-naturbrande-og-hedeboelger",
+        "published_date": "2026-08-02 12:48:49",
         "category": "Local Events"
     }
 ]
