@@ -1,5 +1,19 @@
 [
     {
+        "title": "25 states file suit against Trump's new tariffs",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/25-delstater-laegger-sag-an-mod-trumps-nye-toldsatser?referrer=RSS",
+        "published_date": "2026-08-03 21:26:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Zelenskyy dismisses Ukraine's ambassador to the US",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-afskediger-ukraines-ambassadoer-i-usa",
+        "published_date": "2026-08-03 18:29:17",
+        "category": "Diplomacy"
+    },
+    {
         "title": "EU chief urges 'united action' on borders after Spain's Ceuta migrant rush",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260803/eu-chief-urges-united-action-on-borders-after-spains-ceuta-migrant-rush",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Italy pauses free entry from Spain for a month after crisis in Ceuta",
+        "title": "Russia accuses Ukraine of deliberate drone attack on busy beach",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/italien-pauser-fri-indrejse-fra-spanien-i-en-maaned-efter-krise-i-ceuta?referrer=RSS",
-        "published_date": "2026-07-31 19:16:44",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/rusland-beskylder-ukraine-for-bevidst-droneangreb-paa-travl-strand?referrer=RSS",
+        "published_date": "2026-08-03 19:46:45",
+        "category": "Military"
     },
     {
-        "title": "Ceuta rages: \"Pedro S\u00e1nchez is a son of a whore and the biggest traitor in the world\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ceuta-raser-pedro-sanchez-er-en-ludersoen-og-den-stoerste-forraeder-i-verden?referrer=RSS",
-        "published_date": "2026-07-31 18:51:20",
-        "category": "Diplomacy"
+        "title": "Pictures show the drone hit Russian bathers",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/billeder-viser-drone-ramme-russiske-badegaester",
+        "published_date": "2026-08-03 16:29:48",
+        "category": "Military"
     },
     {
         "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
@@ -252,11 +266,11 @@
         "category": "Military"
     },
     {
-        "title": "Iran accuses Ukraine of attacking Iranian ship",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-anklager-ukraine-angribe-iransk-skib",
-        "published_date": "2026-07-26 16:23:24",
-        "category": "Military"
+        "title": "Trump wants oil companies to lower fuel prices",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-vil-have-olieselskaber-til-at-saenke-braendstofpriserne?referrer=RSS",
+        "published_date": "2026-08-03 22:49:47",
+        "category": "Energy"
     },
     {
         "title": "FCK and FCM may run into Finnish opposition in the Conference League",
@@ -392,10 +406,129 @@
         "category": "Economy"
     },
     {
+        "title": "Sources: AI companies are invited to a meeting at the White House",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kilder-ai-virksomheder-er-inviteret-til-moede-i-det-hvide-hus?referrer=RSS",
+        "published_date": "2026-08-03 23:26:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The death toll from the earthquakes in Venezuela rises to 6,125",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-efter-jordskaelvene-i-venezuela-stiger-til-6125",
+        "published_date": "2026-08-03 22:16:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The death toll from the earthquake in Venezuela is approaching 6,000",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/doedstallet-efter-jordskaelv-i-venezuela-runder-6000?referrer=RSS",
+        "published_date": "2026-08-03 21:56:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spider-Man breaks records for box office sales in the US and Canada",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/spider-man-slaar-rekord-for-billetsalg-i-usa-og-canada?referrer=RSS",
+        "published_date": "2026-08-03 21:04:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thomasberg is pleased with a smart OB team in the debut",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/thomasberg-glaedes-over-klogt-ob-hold-i-debuten?referrer=RSS",
+        "published_date": "2026-08-03 20:38:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Teenagers charged with attempted assault are remanded in custody in surrogate custody",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/teenagere-sigtet-for-angrebsforsoeg-varetaegtsfaengsles-i-surrogat?referrer=RSS",
+        "published_date": "2026-08-03 20:35:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The proportion of voluntary women in military service falls after enlargement",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/andelen-af-frivillige-kvinder-i-vaernepligt-falder-efter-udvidelse?referrer=RSS",
+        "published_date": "2026-08-03 20:27:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Source: Trump will do \"everything in his power\" to help \"isolated\" Infantino",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kilde-trump-vil-goere-alt-hvad-der-staar-i-hans-magt-for-at-hjaelpe-isoleret-infantino?referrer=RSS",
+        "published_date": "2026-08-03 20:10:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "After several years of delay, the authority approves Boeing aircraft",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efter-flere-aars-forsinkelse-godkender-myndighed-boeing-fly",
+        "published_date": "2026-08-03 17:59:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Track change error at Aarhus H corrected - train traffic resumed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sporskiftefejl-ved-aarhus-h-rettet-togtrafikken-genoptaget",
+        "published_date": "2026-08-03 17:15:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "The acting attorney general of the United States has officially disowned the special Trump fund",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-s-fungerende-justitsminister-har-officielt-afvist-saerlig-trump-fond",
+        "published_date": "2026-08-03 16:40:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "All trains stop at Aarhus H",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/alle-tog-holder-stille-ved-aarhus-h",
+        "published_date": "2026-08-03 16:23:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish expression of the day: at have ondt i h\u00e5ret",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260803/danish-expression-of-the-day-at-have-ondt-i-haret",
+        "published_date": "2026-08-03 15:44:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sweden summons Russian top diplomat for scolding",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sverige-indkalder-russisk-topdiplomat-til-skaeldud",
+        "published_date": "2026-08-03 15:35:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia opens case against Apple",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-aabner-sag-mod-apple",
+        "published_date": "2026-08-03 15:28:35",
+        "category": "Local Events"
+    },
+    {
         "title": "How to talk about the royal family without offending the Danes",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260803/how-to-talk-about-the-royal-family-without-offending-the-danes",
         "published_date": "2026-08-03 14:37:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "England and Wales have had the driest July on record",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/england-og-wales-har-haft-den-toerreste-juli-nogensinde",
+        "published_date": "2026-08-03 14:21:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Storbank hits back at Trump after accusations of being too woke",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/storbank-slaar-tilbage-mod-trump-efter-anklager-om-vaere-woke",
+        "published_date": "2026-08-03 14:20:37",
         "category": "Local Events"
     },
     {
@@ -410,125 +543,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/tre-kraeves-faengslet-i-sag-om-terrorbestemmelser-i-randers?referrer=RSS",
         "published_date": "2026-08-03 13:17:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news about American politics - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-224?referrer=RSS",
-        "published_date": "2026-08-03 13:15:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The war in the Middle East continues - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/krigen-i-mellemoesten-fortsaetter--foelg-med-her-19?referrer=RSS",
-        "published_date": "2026-08-03 13:14:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Witnesses and videos wanted after police shot 22-year-old",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/vidner-og-videoer-efterlyses-efter-at-politiet-skoed-22-aarig?referrer=RSS",
-        "published_date": "2026-08-03 13:11:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "PET confirms terrorist case: Three are required to be imprisoned in blacked-out constitutional interrogation in Randers",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-kraeves-faengslet-i-moerklagt-grundlovsforhoer-i-randers",
-        "published_date": "2026-08-03 12:51:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Superhero movies could be the biggest theatrical opening of 2026",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/superheltefilm-kan-blive-den-stoerste-biografaabning-i-2026",
-        "published_date": "2026-08-03 12:50:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police appeals authority is calling for witnesses in connection with the shooting incident in Tingbjerg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiklagemyndigheden-efterlyser-vidner-i-forbindelse-med-skudepisode-i-tingbjerg",
-        "published_date": "2026-08-03 12:36:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Monday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260803/today-in-denmark-a-roundup-of-the-latest-news-on-monday-55",
-        "published_date": "2026-08-03 09:30:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "18-year-old man released in rape case at school",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/18-aarig-mand-loesladt-i-voldtaegtssag-ved-skole",
-        "published_date": "2026-08-03 09:13:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "King Frederik is to rededicate the observatory at Rundet\u00e5rn",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kong-frederik-skal-genindvie-observatoriet-paa-rundetaarn",
-        "published_date": "2026-08-03 08:50:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three civilians killed in Crimea, says Russian-appointed governor",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-civile-draebt-paa-krim-siger-russisk-indsat-guvernoer",
-        "published_date": "2026-08-03 07:12:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Now you call - then you have work tomorrow\" - Niels took the chance after the dismissal",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/assens/nu-ringer-du-saa-har-du-arbejde-i-morgen-niels-tog-chancen-efter-fyringen?rss",
-        "published_date": "2026-08-03 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Closed court session raises new questions in the case of the Niels murder:\u00a0Two previously unknown people appear",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/lukket-retsmoede-rejser-nye-spoergsmaal-i-brutal-drabssag-to-nye-personer-naevnt?rss",
-        "published_date": "2026-08-03 05:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bro in Nordsj\u00e6lland closes to car traffic for three months",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bro-i-nordsjaelland-lukker-biltrafik-i-tre-maaneder",
-        "published_date": "2026-08-03 04:22:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake with a magnitude of 5.5 hits Egypt",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/jordskaelv-med-en-styrke-paa-5-4-rammer-egypten",
-        "published_date": "2026-08-03 00:32:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump: Iran negotiations begin Monday after foiled attack",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-iran-forhandlinger-begynder-mandag-efter-afblaest-angreb?referrer=RSS",
-        "published_date": "2026-08-02 22:53:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rasmus H\u00f8jgaard finishes in fourth place in the PGA tournament",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/rasmus-hoejgaard-slutter-paa-en-fjerdeplads-i-pga-turnering?referrer=RSS",
-        "published_date": "2026-08-02 22:53:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Imprisoned Maduro welcomes political dialogue in Venezuela",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/faengslet-maduro-hilser-politisk-dialog-i-venezuela-velkommen?referrer=RSS",
-        "published_date": "2026-08-02 22:21:47",
         "category": "Local Events"
     }
 ]
