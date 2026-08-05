@@ -1,5 +1,40 @@
 [
     {
+        "title": "Norwegian criticises long queues at Copenhagen Airport",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260805/norwegian-criticises-long-queues-at-copenhagen-airport",
+        "published_date": "2026-08-05 13:51:08",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Thousands of migrants poured into Spanish exclave - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tusindvis-af-migranter-stroemmede-ind-i-spansk-eksklave--foelg-med-her-6?referrer=RSS",
+        "published_date": "2026-08-05 12:41:59",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Danish Parliament will debate the Ceuta situation on 12 August",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/folketinget-skal-debattere-ceuta-situationen-den-12-august?referrer=RSS",
+        "published_date": "2026-08-05 12:13:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260805/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-65",
+        "published_date": "2026-08-05 09:09:03",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Tuberculosis Outbreak in Langeland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tuberkoloseudbrud-paa-langeland",
+        "published_date": "2026-08-05 04:19:25",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Source: US has revoked Brazilian ambassador's visa",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/kilde-usa-har-tilbagekaldt-brasiliansk-ambassadoers-visum?referrer=RSS",
@@ -105,39 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "EU chief urges 'united action' on borders after Spain's Ceuta migrant rush",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260803/eu-chief-urges-united-action-on-borders-after-spains-ceuta-migrant-rush",
-        "published_date": "2026-08-03 15:09:23",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Thousands of migrants poured into Spanish exclave - follow here",
+        "title": "So conscription is equal - but where did the women go?",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tusindvis-af-migranter-stroemmede-ind-i-spansk-eksklave--foelg-med-her-2?referrer=RSS",
-        "published_date": "2026-08-03 13:12:50",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/indland/saa-er-vaernepligten-ligestillet--men-hvor-blev-kvinderne-af?referrer=RSS",
+        "published_date": "2026-08-05 12:11:43",
+        "category": "Military"
     },
     {
-        "title": "Morten Messerschmidt: The situation at Ceuta is acute \u2013 it is worrying that S rejects an important debate",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/morten-messerschmidt-situationen-ved-ceuta-er-akut--det-er-bekymrende-at-s-afviser-en-vigtig-debat?referrer=RSS",
-        "published_date": "2026-08-03 13:05:30",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Zelenskyy appoints new head of foreign intelligence",
+        "title": "Man and woman indicted for million-dollar fraud against the Armed Forces",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-udpeger-ny-udenrigsefterretningschef",
-        "published_date": "2026-08-03 11:49:31",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Danes will represent Europe at the Solheim Cup",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/dansker-skal-repraesentere-europa-ved-solheim-cup",
-        "published_date": "2026-08-03 09:14:10",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/mand-og-kvinde-sigtet-millionbedrageri-mod-forsvaret",
+        "published_date": "2026-08-05 10:20:19",
+        "category": "Military"
     },
     {
         "title": "Denmark\u2019s extended military service comes into effect",
@@ -266,18 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "US military: Iran has attempted 'surprise attacks' against US bases in the Middle East",
+        "title": "The Folketing has been called urgently on 12 August about the migrant flow",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-s-militaer-iran-har-forsoegt-overraskelsesangreb-mod-amerikanske-baser-i-mellemoesten",
-        "published_date": "2026-07-28 22:46:38",
-        "category": "Military"
-    },
-    {
-        "title": "Ukraine's president discussed Patriot missiles with Donald Trump",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraines-praesident-diskuterede-patriot-missiler-med-donald-trump",
-        "published_date": "2026-07-28 16:09:47",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/folketinget-er-hasteindkaldt-12-august-om-migrantstroemmen",
+        "published_date": "2026-08-05 12:02:30",
+        "category": "Energy"
     },
     {
         "title": "Trump wants oil companies to lower fuel prices",
@@ -350,27 +357,6 @@
         "category": "Energy"
     },
     {
-        "title": "Elselskab is temporarily deprived of the opportunity to get new customers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/elselskab-fratages-midlertidigt-muligheden-for-at-faa-nye-kunder?referrer=RSS",
-        "published_date": "2026-07-28 11:52:52",
-        "category": "Energy"
-    },
-    {
-        "title": "After allegations of cheating: Energinet has closed the company's access to the customer system",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-beskyldninger-om-snyd-energinet-lukker-virksomheds-adgang-til-kundesystem",
-        "published_date": "2026-07-28 10:56:02",
-        "category": "Energy"
-    },
-    {
-        "title": "Tornado in Wisconsin leaves extensive damage and thousands without power",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tornado-i-wisconsin-efterlader-store-oedelaeggelser-og-tusindvis-uden-stroem",
-        "published_date": "2026-07-28 06:23:03",
-        "category": "Energy"
-    },
-    {
         "title": "Therefore, we should tax gains on the sale of housing",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/laesere/derfor-boer-vi-beskatte-gevinster-ved-salg-af-bolig?referrer=RSS",
@@ -420,143 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "Moderna begins first vaccine trial against Ebola variant",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/moderna-indleder-foerste-vaccineforsoeg-mod-ebolavariant",
-        "published_date": "2026-08-04 23:47:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hate crimes against Jews have risen sharply in Britain",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hadforbrydelser-mod-joeder-er-steget-kraftigt-i-storbritannien?referrer=RSS",
-        "published_date": "2026-08-04 23:33:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The injured Alcaraz will not be ready for the Cincinnati Open",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/skadet-alcaraz-bliver-ikke-klar-til-cincinnati-open?referrer=RSS",
-        "published_date": "2026-08-04 23:29:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salah negotiates with Turkish big club after Liverpool era",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/salah-forhandler-med-tyrkisk-storklub-efter-liverpool-aera?referrer=RSS",
-        "published_date": "2026-08-04 22:17:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Moderna begins first trials with Ebola vaccine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/moderna-begynder-foerste-forsoeg-med-ebolavaccine?referrer=RSS",
-        "published_date": "2026-08-04 21:48:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "SpaceX is off to a strong start in its first financial report since its stock market debut",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/spacex-kommer-staerkt-fra-start-i-foerste-regnskab-siden-boersdebut?referrer=RSS",
-        "published_date": "2026-08-04 20:50:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "SpaceX surprises in accounting - the share falls in the aftermarket",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/spacex-overrasker-i-regnskab--aktien-falder-i-eftermarkedet?referrer=RSS",
-        "published_date": "2026-08-04 20:35:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: Infantino calls the Fifa summit to a crisis meeting",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/medier-infantino-indkalder-fifa-toppen-til-krisemoede?referrer=RSS",
-        "published_date": "2026-08-04 20:05:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who will the Democrats pick for the Senate in Michigan?It must be decided now",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hvem-vaelger-demokraterne-til-senatet-i-michigan-det-skal-afgoeres-nu",
-        "published_date": "2026-08-04 19:54:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former ministers report on threats against N\u00f8rreport and the Park",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/tidligere-ministre-beretter-om-trusler-mod-noerreport-og-parken?referrer=RSS",
-        "published_date": "2026-08-04 19:41:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ridderborg in North Jutland has been sold",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ridderborg-i-nordjylland-er-solgt",
-        "published_date": "2026-08-04 19:18:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rare gople washed ashore in Jutland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sjaelden-gople-skyllet-i-land-i-jylland",
-        "published_date": "2026-08-04 19:17:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anders Eggert calls handball rules \"stupid\": 20 honest answers from the former national team star",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/anders-eggert-kalder-haandboldregel-for-dum-20-aerlige-svar-fra-den-tidligere-landsholdsstjerne?rss",
-        "published_date": "2026-08-04 19:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several children infected with tuberculosis in Langeland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-boern-smittet-af-tuberkulose-paa-langeland",
-        "published_date": "2026-08-04 18:01:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "157 migrants rescued in the English Channel",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/157-migranter-reddet-i-den-engelske-kanal",
-        "published_date": "2026-08-04 17:51:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ship sunk off Yemen after being hit by projectile",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skib-sunket-ud-fra-yemen-efter-vaere-ramt-af-projektil",
-        "published_date": "2026-08-04 17:47:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Where to watch the solar eclipse in Copenhagen",
+        "title": "Danish expression of the day: god arbejdslyst",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260804/where-to-watch-the-solar-eclipse-in-copenhagen",
-        "published_date": "2026-08-04 15:19:21",
+        "url": "https://www.thelocal.dk/20260805/danish-expression-of-the-day-god-arbejdslyst",
+        "published_date": "2026-08-05 13:53:23",
         "category": "Local Events"
     },
     {
-        "title": "Key person in the Swedish Foxtrot network sentenced to life in Iraq",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/noegleperson-i-det-svenske-foxtrot-netvaerk-idoemt-livstid-i-irak",
-        "published_date": "2026-08-04 15:10:25",
+        "title": "The war in the Middle East continues - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krigen-i-mellemoesten-fortsaetter--foelg-med-her-22?referrer=RSS",
+        "published_date": "2026-08-05 12:38:12",
         "category": "Local Events"
     },
     {
-        "title": "171 women have applied for compensation in the spiral case",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/171-kvinder-har-soegt-om-erstatning-i-spiralsag",
-        "published_date": "2026-08-04 14:48:33",
+        "title": "The four-time Olympic medalist will win the 2026 Robinson Expedition",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/firdobbelt-ol-medaljevinder-vil-vinde-robinson-ekspeditionen-2026?referrer=RSS",
+        "published_date": "2026-08-05 12:36:49",
         "category": "Local Events"
     },
     {
-        "title": "19-year-old remains in custody in case of double traffic homicide",
+        "title": "Tons-heavy SpaceX rocket is estimated to have collided with the Moon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tonstung-spacex-raket-vurderes-at-vaere-kollideret-med-maanen?referrer=RSS",
+        "published_date": "2026-08-05 12:36:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ulrik Bie: The socialist dreams are gaining ground in the USA \u2013 it is not without reason",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/oekonomi/ulrik-bie-de-socialistiske-droemme-vinder-frem-i-usa--det-er-ikke-uden-grund?referrer=RSS",
+        "published_date": "2026-08-05 12:24:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "45 residents were evacuated when property in Randers was in flames",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/45-beboere-blev-evakueret-da-ejendom-i-randers-stod-i-flammer?referrer=RSS",
+        "published_date": "2026-08-05 12:21:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Uber's profits fall despite growing revenue",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/ubers-overskud-falder-trods-voksende-omsaetning?referrer=RSS",
+        "published_date": "2026-08-05 12:17:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prosecutor's office in Germany takes over investigation of drone found at airport",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-forbliver-varetaegtsfaengslet-i-sag-om-dobbelt-trafikdrab",
-        "published_date": "2026-08-04 14:02:48",
+        "url": "https://www.dr.dk/nyheder/seneste/anklagemyndighed-i-tyskland-overtager-efterforskning-af-fund-af-drone-i-lufthavn",
+        "published_date": "2026-08-05 12:15:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "A tactical \"teasing\" from the Danish Democrats can be the image of a flourishing fight between red and blue block",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/et-taktisk-drilleri-fra-danmarksdemokraterne-kan-blive-billedet-paa-et-blomstrende-slagsmaal-mellem-roed-og-blaa-blok?referrer=RSS",
+        "published_date": "2026-08-05 12:10:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Novo Nordisk's biggest competitor sells more than expected",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/novo-nordisks-stoerste-konkurrent-saelger-mere-end-forventet",
+        "published_date": "2026-08-05 11:36:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Your very detailed guide to Copenhagen\u2019s Pride Week",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260805/your-very-detailed-guide-to-copenhagens-pride-week",
+        "published_date": "2026-08-05 11:24:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "What happens to your annual leave in Denmark if you get sick while on holiday?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260805/what-happens-to-your-annual-leave-in-denmark-if-you-get-sick-while-on-holiday",
+        "published_date": "2026-08-05 11:02:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Large study: Severe stress can be prevented with half an hour of exercise a day",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/stort-studie-alvorlig-stress-kan-forebygges-med-halv-times-motion-om-dagen",
+        "published_date": "2026-08-05 09:51:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "DF speaker on sick leave with stress",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/df-ordfoerer-sygemeldt-med-stress",
+        "published_date": "2026-08-05 09:30:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men suspected of complicity in murder in 2025 have turned themselves in",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maend-mistaenkt-medvirken-til-drab-i-2025-har-meldt-sig-selv",
+        "published_date": "2026-08-05 07:27:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Novo Nordisk's weight loss pill on its way to Germany",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/novo-nordisks-vaegttabspille-paa-vej-til-tyskland",
+        "published_date": "2026-08-05 06:57:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Price drop for the Novo share in the US",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kurshug-til-novo-aktien-i-usa",
+        "published_date": "2026-08-05 06:19:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cloudbursts and thunder hit large parts of the country",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skybrud-og-torden-rammer-store-dele-af-landet",
+        "published_date": "2026-08-05 05:58:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "There will be no more nursing home places despite a significant increase in the number of elderly people",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/der-kommer-ikke-flere-plejehjemspladser-trods-markant-stigning-i-antallet-af-aeldre",
+        "published_date": "2026-08-05 05:45:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lightning strikes cause train problems between Aarhus H and Herning",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lynnedslag-skaber-togproblemer-mellem-aarhus-h-og-herning",
+        "published_date": "2026-08-05 05:35:33",
         "category": "Local Events"
     }
 ]
