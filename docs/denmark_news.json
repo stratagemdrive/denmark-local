@@ -1,9 +1,23 @@
 [
     {
+        "title": "Organizations: Migrant children risk abuse in Ceuta's streets",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/organisationer-migrantboern-risikerer-overgreb-i-ceutas-gader?referrer=RSS",
+        "published_date": "2026-08-06 22:55:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "LISTED: Every international train route from Denmark",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260806/listed-every-international-train-route-from-denmark",
         "published_date": "2026-08-06 13:32:21",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU: No migrants have traveled illegally from Ceuta to the Spanish mainland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-ingen-migranter-er-rejst-ulovligt-fra-ceuta-til-det-spanske-fastland",
+        "published_date": "2026-08-06 12:55:40",
         "category": "Diplomacy"
     },
     {
@@ -126,18 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Rapporteur on reaction to Ceuta: \"Morten Messerschmidt rules blue bloc and we just have to get used to it\"",
+        "title": "Uganda approves soldiers to Gaza under disarmament plan",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/ordfoerer-om-reaktion-paa-ceutamorten-messerschmidt-styrer-blaa-blok-og-det-maa-vi-bare-vaenne-os-til?referrer=RSS",
-        "published_date": "2026-08-04 12:18:28",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/uganda-godkender-soldater-til-gaza-under-nedrustningsplan?referrer=RSS",
+        "published_date": "2026-08-07 01:34:48",
+        "category": "Military"
     },
     {
-        "title": "New information during the EU's emergency meeting causes a Danish minister to react: Attempt to destabilize Europe",
+        "title": "11 are reported wounded in an attack against the Saudi Arabian border region",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/11-meldes-saaret-i-angreb-mod-saudiarabisk-graenseregion?referrer=RSS",
+        "published_date": "2026-08-07 00:50:47",
+        "category": "Military"
+    },
+    {
+        "title": "Zelenskyy announces support for farmers challenged by attacks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/zelenskyj-annoncerer-stoette-til-landmaend-udfordret-af-angreb?referrer=RSS",
+        "published_date": "2026-08-06 23:45:47",
+        "category": "Military"
+    },
+    {
+        "title": "Save the Children's office in Ukraine hit by air strikes",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-har-registreret-tusinder-af-falske-opslag-og-artikler-fra-russiske-aktoerer",
-        "published_date": "2026-08-04 10:32:46",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/red-barnets-kontor-i-ukraine-ramt-af-luftangreb",
+        "published_date": "2026-08-06 14:44:22",
+        "category": "Military"
     },
     {
         "title": "Three killed after attack in Ukraine",
@@ -252,32 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Temporary military area is established at Grenaa Harbour",
+        "title": "The rain pours down on order in hot oil state",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/midlertidigt-militaert-omraade-oprettes-paa-grenaa-havn",
-        "published_date": "2026-08-02 13:55:53",
-        "category": "Military"
-    },
-    {
-        "title": "Two are reported dead after Ukrainian drone attacks in Russia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/meldes-draebt-efter-ukrainske-droneangreb-mod-ruslands-amazon",
-        "published_date": "2026-08-02 07:49:38",
-        "category": "Military"
-    },
-    {
-        "title": "The American soldier was on \"a spree\" of rapes in England.And escaped punishment",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/den-amerikanske-soldat-var-paa-et-togt-af-voldtaegter-i-england-og-slap-for-straf?referrer=RSS",
-        "published_date": "2026-08-01 11:03:49",
-        "category": "Military"
-    },
-    {
-        "title": "Ukraine again attacks the Russians' largest online marketplace",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-ser-igen-ud-til-angribe-russernes-stoerste-online-markedsplads",
-        "published_date": "2026-07-31 04:43:09",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/regnen-vaelter-ned-paa-bestilling-i-varm-oliestat",
+        "published_date": "2026-08-06 18:09:30",
+        "category": "Energy"
     },
     {
         "title": "An unfair loss: Condolences pour in after tragic accident",
@@ -350,13 +357,6 @@
         "category": "Energy"
     },
     {
-        "title": "Fire on gas tanker in Egypt",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brand-paa-gastankskib-i-egypten",
-        "published_date": "2026-07-29 20:23:42",
-        "category": "Energy"
-    },
-    {
         "title": "Starting today, the first insiders in SpaceX can sell their shares",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/fra-i-dag-kan-de-foerste-insidere-i-spacex-saelge-deres-aktier",
@@ -378,31 +378,122 @@
         "category": "Economy"
     },
     {
-        "title": "US releases financial contributions to global vaccine alliance",
+        "title": "Politicians begin discussions on Venezuela's political future",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-frigiver-oekonomiske-bidrag-til-global-vaccinealliance?referrer=RSS",
-        "published_date": "2026-07-29 23:34:53",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/politikere-tager-hul-paa-droeftelser-om-venezuelas-politiske-fremtid?referrer=RSS",
+        "published_date": "2026-08-07 01:34:45",
+        "category": "Local Events"
     },
     {
-        "title": "Trump defends Fed chief after unchanged interest rates",
+        "title": "Court forces Meta to help teenagers for billions",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/trump-forsvarer-fed-chef-efter-uaendret-rente?referrer=RSS",
-        "published_date": "2026-07-29 22:27:50",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/domstol-tvinger-meta-til-at-hjaelpe-teenagere-for-milliarder?referrer=RSS",
+        "published_date": "2026-08-07 00:50:50",
+        "category": "Local Events"
     },
     {
-        "title": "US central bank maintains interest rates",
+        "title": "Poll: British youth want to bypass nighttime ban on social media",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/maaling-britiske-unge-vil-omgaa-natligt-forbud-mod-sociale-medier?referrer=RSS",
+        "published_date": "2026-08-07 00:28:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Media: Fifa summit was pressed into an emergency meeting about the vilified sales plan",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/medie-fifa-top-blev-presset-til-hastemoede-om-udskaeldt-salgsplan?referrer=RSS",
+        "published_date": "2026-08-06 23:35:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump is again trying to limit the right to citizenship at birth",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-forsoeger-igen-at-begraense-retten-til-statsborgerskab-ved-foedslen?referrer=RSS",
+        "published_date": "2026-08-06 22:51:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Saudi Arabia reports 11 injured in attack on border region",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/amerikansk-centralbank-fastholder-renten",
-        "published_date": "2026-07-29 18:24:56",
-        "category": "Economy"
+        "url": "https://www.dr.dk/nyheder/seneste/saudi-arabien-melder-11-saaret-i-angreb-mod-graenseregion",
+        "published_date": "2026-08-06 22:26:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "I feel misled, Svend Brinkmann",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/jeg-foeler-mig-foert-bag-lyset-svend-brinkmann?referrer=RSS",
+        "published_date": "2026-08-06 21:33:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "More British restaurants, bars and cinemas ban 'Meta Glasses'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-britiske-restauranter-barer-og-biografer-forbyder-meta-glasses",
+        "published_date": "2026-08-06 19:36:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "It was the intention to create an explosion, says the German state prosecutor after the drone case in Leipzig",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/det-var-intentionen-skabe-en-eksplosion-siger-den-tyske-statsanklager-efter-dronesag-i-leipzig",
+        "published_date": "2026-08-06 18:19:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 15-year-old girl from Hedensted has been found alive in Hungary",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/15-aarig-pige-fra-hedensted-er-fundet-i-live",
+        "published_date": "2026-08-06 16:00:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Children and adults say goodbye to traffic fatalities at the scene of the accident",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/vejen/boern-og-voksne-tager-afsted-med-trafikdraebte-paa-ulykkesstedet?rss",
+        "published_date": "2026-08-06 14:47:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Recycling site closed after finding 'dangerous and unstable chemical'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/genbrugsplads-lukket-efter-fund-af-farligt-og-ustabilt-kemikalie",
+        "published_date": "2026-08-06 14:40:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "19-year-old remanded in custody in case of planned hand grenade detonation",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-varetaegtsfaengslet-i-sag-om-planlagt-haandgranatspraengning",
+        "published_date": "2026-08-06 14:27:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Committee in the Senate votes to convict corona advisor Anthony Fauci for contempt of Congress",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/udvalg-i-senatet-stemmer-doemme-corona-raadgiver-anthony-fauci-foragt-kongressen",
+        "published_date": "2026-08-06 14:27:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israeli settler accused of killing Palestinian activist",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israelsk-bosaetter-anklaget-drab-paa-aktivistisk-palaestinenser",
+        "published_date": "2026-08-06 14:22:10",
+        "category": "Local Events"
     },
     {
         "title": "Danish expression of the day: ja-hat",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260806/danish-expression-of-the-day-ja-hat",
         "published_date": "2026-08-06 13:51:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "308 kidnap victims freed in Nigeria",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/308-kidnapningsofre-befriet-i-nigeria",
+        "published_date": "2026-08-06 13:35:38",
         "category": "Local Events"
     },
     {
@@ -424,118 +515,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/krav-om-dyrevelfaerd-og-baeredygtig-fangst-af-fisk-udloeser-ny-strid-om-mad-til-aeldre-i-koebenhavn-en-klyngebombe?referrer=RSS",
         "published_date": "2026-08-06 12:32:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hvidovre Hospital hit by hacker attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hvidovre-hospital-ramt-af-hackerangreb",
-        "published_date": "2026-08-06 12:24:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police share new photo of missing 15-year-old girl",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-deler-nyt-foto-af-forsvunden-15-aarig-pige?referrer=RSS",
-        "published_date": "2026-08-06 12:10:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The UK refers several to the anti-radicalisation programme",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/storbritannien-henviser-flere-til-antiradikaliseringsprogram?referrer=RSS",
-        "published_date": "2026-08-06 12:10:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "High Court for milder punishment for grooming convicted man from equestrian sports",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/landsret-formilder-straf-til-groomingdoemt-mand-fra-ridesport?referrer=RSS",
-        "published_date": "2026-08-06 12:03:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former SF members join the Social Democrats",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-sf-er-melder-sig-ind-i-socialdemokratiet",
-        "published_date": "2026-08-06 11:55:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two years of remodeling are over: Next week, a new area opens in Tivoli",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oplevelser/to-aars-ombygning-er-slut-i-naeste-uge-aabner-nyt-omraade-i-tivoli?referrer=RSS",
-        "published_date": "2026-08-06 11:49:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nintendo increases profits even as Switch sales slow",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/nintendo-oeger-overskud-selv-om-salget-af-switch-aftager?referrer=RSS",
-        "published_date": "2026-08-06 11:44:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The uncertain future of golf stars is a major headache for the breakaway tour",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/golfstjerners-uafklarede-fremtid-er-udbrydertours-store-hovedpine?referrer=RSS",
-        "published_date": "2026-08-06 11:32:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former SF profile joins the Social Democrats",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/tidligere-sf-profil-melder-sig-ind-i-socialdemokratiet?referrer=RSS",
-        "published_date": "2026-08-06 11:32:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "High school students' screens to be monitored in fight against AI cheating",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/gymnasieelevers-skaerme-skal-overvaages-i-kamp-mod-ai-snyd?referrer=RSS",
-        "published_date": "2026-08-06 11:19:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "25-year-old man gets life for hitting protesters in Munich",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/25-aarig-mand-faar-livstid-paakoersel-af-demonstranter-i-munchen",
-        "published_date": "2026-08-06 10:58:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran and Oman agree on Hormuz deal",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-og-oman-er-enige-om-hormuz-aftale",
-        "published_date": "2026-08-06 10:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two fugitives charged with trying to obtain hand grenades in Herning",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flugtfanger-sigtet-proeve-skaffe-haandgranat-i-herning",
-        "published_date": "2026-08-06 10:21:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Number of children treated for malnutrition in Somalia triples",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-boern-der-behandles-underernaering-i-somalia-tredobles",
-        "published_date": "2026-08-06 10:20:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Count the hedgehogs, says the researcher",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tael-pindsvinene-lyder-opfordring-fra-forsker",
-        "published_date": "2026-08-06 09:53:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Great progress for the flounder in Danish waters",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flot-fremgang-fjaesingen-i-danske-farvande",
-        "published_date": "2026-08-06 09:07:31",
         "category": "Local Events"
     }
 ]
