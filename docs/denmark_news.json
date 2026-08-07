@@ -1,5 +1,26 @@
 [
     {
+        "title": "Three ministers participate in a debate on the EU's external borders",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/tre-ministre-deltager-i-debat-om-eus-ydre-graenser?referrer=RSS",
+        "published_date": "2026-08-07 11:19:43",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "European police crack down on smuggling networks and arrest 78 people",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/europaeisk-politi-slaar-til-mod-smuglernetvaerk-og-anholder-78-personer?referrer=RSS",
+        "published_date": "2026-08-07 10:16:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "European police arrest 78 people in smuggling network",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/europaeisk-politi-anholder-78-personer-i-smuglernetvaerk",
+        "published_date": "2026-08-07 10:05:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Organizations: Migrant children risk abuse in Ceuta's streets",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/organisationer-migrantboern-risikerer-overgreb-i-ceutas-gader?referrer=RSS",
@@ -116,27 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/tusindvis-af-migranter-stroemmede-ind-i-spansk-eksklave--foelg-med-her-4?referrer=RSS",
         "published_date": "2026-08-04 12:43:23",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "B\u00f8dskov is satisfied with the Spanish reaction after the migration flow",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/boedskov-er-tilfreds-med-spansk-reaktion-efter-migrationsstroem?referrer=RSS",
-        "published_date": "2026-08-04 12:36:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Minister: 75 have died after migrant flows towards Ceuta",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/minister-75-er-doede-efter-migrantstroemme-mod-ceuta?referrer=RSS",
-        "published_date": "2026-08-04 12:27:55",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Qatar will continue to seek a diplomatic solution between the US and Iran",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/qatar-vil-fortsat-finde-en-diplomatisk-loesning-mellem-usa-og-iran",
-        "published_date": "2026-08-04 12:25:39",
         "category": "Diplomacy"
     },
     {
@@ -343,20 +343,6 @@
         "category": "Energy"
     },
     {
-        "title": "Authorities begin supervision of controversial buyer of electricity customers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/myndigheder-indleder-tilsyn-med-omdiskuteret-koeber-af-elkunder?referrer=RSS",
-        "published_date": "2026-07-30 11:28:52",
-        "category": "Energy"
-    },
-    {
-        "title": "Mysterious gas smell in Fredericia has disappeared",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-opfordrer-til-lukke-vinduer-efter-gaslugt-i-fredericia",
-        "published_date": "2026-07-30 09:32:47",
-        "category": "Energy"
-    },
-    {
         "title": "Starting today, the first insiders in SpaceX can sell their shares",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/fra-i-dag-kan-de-foerste-insidere-i-spacex-saelge-deres-aktier",
@@ -378,143 +364,143 @@
         "category": "Economy"
     },
     {
-        "title": "Politicians begin discussions on Venezuela's political future",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/politikere-tager-hul-paa-droeftelser-om-venezuelas-politiske-fremtid?referrer=RSS",
-        "published_date": "2026-08-07 01:34:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court forces Meta to help teenagers for billions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/domstol-tvinger-meta-til-at-hjaelpe-teenagere-for-milliarder?referrer=RSS",
-        "published_date": "2026-08-07 00:50:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Poll: British youth want to bypass nighttime ban on social media",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/maaling-britiske-unge-vil-omgaa-natligt-forbud-mod-sociale-medier?referrer=RSS",
-        "published_date": "2026-08-07 00:28:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: Fifa summit was pressed into an emergency meeting about the vilified sales plan",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/medie-fifa-top-blev-presset-til-hastemoede-om-udskaeldt-salgsplan?referrer=RSS",
-        "published_date": "2026-08-06 23:35:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump is again trying to limit the right to citizenship at birth",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-forsoeger-igen-at-begraense-retten-til-statsborgerskab-ved-foedslen?referrer=RSS",
-        "published_date": "2026-08-06 22:51:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Saudi Arabia reports 11 injured in attack on border region",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/saudi-arabien-melder-11-saaret-i-angreb-mod-graenseregion",
-        "published_date": "2026-08-06 22:26:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "I feel misled, Svend Brinkmann",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/jeg-foeler-mig-foert-bag-lyset-svend-brinkmann?referrer=RSS",
-        "published_date": "2026-08-06 21:33:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "More British restaurants, bars and cinemas ban 'Meta Glasses'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-britiske-restauranter-barer-og-biografer-forbyder-meta-glasses",
-        "published_date": "2026-08-06 19:36:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "It was the intention to create an explosion, says the German state prosecutor after the drone case in Leipzig",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/det-var-intentionen-skabe-en-eksplosion-siger-den-tyske-statsanklager-efter-dronesag-i-leipzig",
-        "published_date": "2026-08-06 18:19:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 15-year-old girl from Hedensted has been found alive in Hungary",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/15-aarig-pige-fra-hedensted-er-fundet-i-live",
-        "published_date": "2026-08-06 16:00:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Children and adults say goodbye to traffic fatalities at the scene of the accident",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/vejen/boern-og-voksne-tager-afsted-med-trafikdraebte-paa-ulykkesstedet?rss",
-        "published_date": "2026-08-06 14:47:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Recycling site closed after finding 'dangerous and unstable chemical'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/genbrugsplads-lukket-efter-fund-af-farligt-og-ustabilt-kemikalie",
-        "published_date": "2026-08-06 14:40:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "19-year-old remanded in custody in case of planned hand grenade detonation",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-varetaegtsfaengslet-i-sag-om-planlagt-haandgranatspraengning",
-        "published_date": "2026-08-06 14:27:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Committee in the Senate votes to convict corona advisor Anthony Fauci for contempt of Congress",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/udvalg-i-senatet-stemmer-doemme-corona-raadgiver-anthony-fauci-foragt-kongressen",
-        "published_date": "2026-08-06 14:27:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israeli settler accused of killing Palestinian activist",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israelsk-bosaetter-anklaget-drab-paa-aktivistisk-palaestinenser",
-        "published_date": "2026-08-06 14:22:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish expression of the day: ja-hat",
+        "title": "On the Agenda: What's happening in Denmark next week?",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260806/danish-expression-of-the-day-ja-hat",
-        "published_date": "2026-08-06 13:51:06",
+        "url": "https://www.thelocal.dk/20260807/on-the-agenda-whats-happening-in-denmark-next-week-3",
+        "published_date": "2026-08-07 11:53:42",
         "category": "Local Events"
     },
     {
-        "title": "308 kidnap victims freed in Nigeria",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/308-kidnapningsofre-befriet-i-nigeria",
-        "published_date": "2026-08-06 13:35:38",
+        "title": "The \u20ac150 coffee menu: Have coffee prices in Copenhagen gotten out of hand?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260807/the-e150-coffee-menu-have-coffee-prices-in-copenhagen-gotten-out-of-hand",
+        "published_date": "2026-08-07 11:50:57",
         "category": "Local Events"
     },
     {
-        "title": "Record number referred to anti-radicalisation program in Great Britain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rekordmange-henvist-til-antiradikaliseringsprogram-i-storbritannien",
-        "published_date": "2026-08-06 12:46:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salah continues his career in Turkey after leaving Liverpool",
+        "title": "Police suspect criminal involvement in case of girl's disappearance to Hungary",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/salah-fortsaetter-karrieren-i-tyrkiet-efter-liverpool-afsked?referrer=RSS",
-        "published_date": "2026-08-06 12:44:44",
+        "url": "https://www.berlingske.dk/indland/politi-mistaenker-strafbart-forhold-i-sag-om-piges-forsvinden-til-ungarn?referrer=RSS",
+        "published_date": "2026-08-07 11:28:44",
         "category": "Local Events"
     },
     {
-        "title": "Demands for animal welfare and \"sustainable fishing\" trigger a new dispute over food for the elderly in Copenhagen: \"A cluster bomb\"",
+        "title": "Turkey, Saudi Arabia and Pakistan enter into a defense agreement",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/krav-om-dyrevelfaerd-og-baeredygtig-fangst-af-fisk-udloeser-ny-strid-om-mad-til-aeldre-i-koebenhavn-en-klyngebombe?referrer=RSS",
-        "published_date": "2026-08-06 12:32:07",
+        "url": "https://www.berlingske.dk/internationalt/tyrkiet-saudi-arabien-og-pakistan-indgaar-forsvarsaftale?referrer=RSS",
+        "published_date": "2026-08-07 11:25:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Turkey, Saudi Arabia and Pakistan enter into a joint defense agreement",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tyrkiet-saudi-arabien-og-pakistan-indgaar-faelles-forsvarsaftale",
+        "published_date": "2026-08-07 11:24:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norwegian strike in SAS called off",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/norsk-strejke-i-sas-afblaest",
+        "published_date": "2026-08-07 11:19:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Muslim community claimed that their mosque in the North West was \"attacked\".Now the court's verdict tells a completely different story",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/samfund/muslimsk-trossamfund-paastod-at-deres-moske-i-nordvest-blev-angrebetnu-fortaeller-rettens-dom-en-helt-anden-historie?referrer=RSS",
+        "published_date": "2026-08-07 11:09:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "New details revealed about OpenAI's new product \u2013 will cost around DKK 2,000",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/nye-detaljer-afsloeret-om-openais-nye-produkt--vil-koste-omkring-2000-kroner?referrer=RSS",
+        "published_date": "2026-08-07 11:05:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heat-seeking drone should help find problem wolves",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/varmesoegende-drone-skal-hjaelpe-med-at-finde-problemulv?referrer=RSS",
+        "published_date": "2026-08-07 11:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "SAS employees call off strike in Norway after agreement on agreement",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/sas-ansatte-afblaeser-strejke-i-norge-efter-enighed-om-aftale?referrer=RSS",
+        "published_date": "2026-08-07 10:52:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Christian Marcussen: Denmark's Islamic organizations are failing in the fight against homophobia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/christian-marcussen-danmarks-islamiske-organisationer-svigter-i-kampen-mod-homofobi?referrer=RSS",
+        "published_date": "2026-08-07 10:34:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Odense Handball recruits a German national team player",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/odense-haandbold-henter-tysk-landsholdsspiller?referrer=RSS",
+        "published_date": "2026-08-07 10:20:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Weather conditions and war push food prices to their highest level in three years",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/vejrforhold-og-krig-faar-foedevarepriser-op-paa-hoejeste-niveau-i-tre-aar",
+        "published_date": "2026-08-07 09:12:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Expert calls for the killing of wolves that came close to children",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ekspert-mistaenker-fodring-staar-bag-hanulvs-usaedvanlige-adfaerd",
+        "published_date": "2026-08-07 09:00:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Velkommen A/S and other disputed electricity companies declared bankrupt",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/velkommen-s-og-andre-omstridte-elselskaber-erklaeret-konkurs",
+        "published_date": "2026-08-07 08:22:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marius Borg H\u00f8iby asks for release",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-beder-om-loesladelse",
+        "published_date": "2026-08-07 08:03:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Friday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260807/today-in-denmark-a-roundup-of-the-latest-news-on-friday-56",
+        "published_date": "2026-08-07 07:52:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swedish man indicted 21 years after double murder",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/svensk-mand-tiltalt-21-aar-efter-dobbeltdrab",
+        "published_date": "2026-08-07 07:51:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Train buses deployed after hitting a person in Kolding",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/togbusser-sat-ind-efter-personpaakoersel-i-kolding",
+        "published_date": "2026-08-07 06:59:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia's answer to Amazon once again under attack",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ruslands-svar-paa-amazon-endnu-engang-ramt-af-angreb",
+        "published_date": "2026-08-07 06:49:47",
         "category": "Local Events"
     }
 ]
