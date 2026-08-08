@@ -140,6 +140,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Two drones spotted at military base in Germany",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/droner-spottet-ved-militaerbaser-i-tyskland",
+        "published_date": "2026-08-08 10:58:02",
+        "category": "Military"
+    },
+    {
+        "title": "Putin's war is running out of money",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/oekonomi/putins-krig-er-ved-at-loebe-toer-for-penge?referrer=RSS",
+        "published_date": "2026-08-08 10:21:40",
+        "category": "Military"
+    },
+    {
+        "title": "Prime Minister wants to tighten gun laws after school shooting",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/premierminister-vil-stramme-vaabenlovgivningen-efter-skoleskyderi",
+        "published_date": "2026-08-08 06:01:18",
+        "category": "Military"
+    },
+    {
         "title": "Uganda approves soldiers to Gaza under disarmament plan",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/uganda-godkender-soldater-til-gaza-under-nedrustningsplan?referrer=RSS",
@@ -259,25 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
+        "title": "An American oil company has suddenly gone ashore in Greenland - without permission",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1826?referrer=RSS",
-        "published_date": "2026-08-02 21:53:19",
-        "category": "Military"
-    },
-    {
-        "title": "Denmark will increase its military presence in the Faroe Islands",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danmark-vil-oege-militaer-tilstedevaerelse-paa-faeroeerne",
-        "published_date": "2026-08-02 15:06:51",
-        "category": "Military"
-    },
-    {
-        "title": "Drone parts have crashed in Romania close to the border with Ukraine",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dronedele-er-styrtet-ned-i-rumaenien-taet-paa-graensen-til-ukraine",
-        "published_date": "2026-08-02 14:46:37",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/internationalt/amerikansk-olieselskab-er-pludselig-gaaet-i-land-i-groenland--uden-tilladelse?referrer=RSS",
+        "published_date": "2026-08-08 10:43:32",
+        "category": "Energy"
     },
     {
         "title": "Wars and heat waves have sent food prices up",
@@ -343,11 +350,11 @@
         "category": "Energy"
     },
     {
-        "title": "The Danish government is following the situation closely in the Spanish exclave following the influx of migrants",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/den-danske-regering-foelger-situationen-taet-i-spansk-eksklave-efter-tilstroemning-af-migranter",
-        "published_date": "2026-07-31 06:43:07",
-        "category": "Energy"
+        "title": "The discreet salmon king became head of finance at the age of 16 and prays daily for his employees: Meet the Faroe Islands' first billionaire",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/den-diskrete-laksekonge-blev-oekonomichef-som-16-aarig-og-beder-dagligt-for-sine-ansatte-moed-faeroeernes-foerste-milliardaer?referrer=RSS",
+        "published_date": "2026-08-08 10:04:46",
+        "category": "Economy"
     },
     {
         "title": "Starting today, the first insiders in SpaceX can sell their shares",
@@ -364,11 +371,130 @@
         "category": "Economy"
     },
     {
-        "title": "Christian Stadil sets wild record: - It's hard to celebrate",
+        "title": "Minister sees Hizb ut-Tahrir video as camouflaged extremism",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/minister-ser-hizb-ut-tahrir-video-som-kamufleret-ekstremisme?referrer=RSS",
+        "published_date": "2026-08-08 11:01:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "4th of July fireworks are included in the Guinness Book of Records",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/4-juli-fyrvaerkeri-er-indlemmet-i-guinness-rekordbog",
+        "published_date": "2026-08-08 10:41:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "The shopping center was evacuated due to a technical fault",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/butikscenter-blev-evakueret-paa-grund-af-teknisk-fejl?referrer=RSS",
+        "published_date": "2026-08-08 10:38:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentine football boss gives Messi time to make a decision",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/argentinsk-fodboldchef-giver-messi-tid-til-beslutning?referrer=RSS",
+        "published_date": "2026-08-08 10:34:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "- Funen will benefit from it: the Port of Odense is celebrating billion-dollar construction at sea",
         "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/christian-stadils-koncern-tjente-en-milliard?rss",
-        "published_date": "2026-07-31 09:00:00",
-        "category": "Economy"
+        "url": "https://fyens.dk/erhverv/det-er-fabelagtigt-odense-havn-jubler-over-kaempe-havvindmoelleparker?rss",
+        "published_date": "2026-08-08 10:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "More visible police during Pride: Attacks in Berlin will bring even more people to the streets in Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mere-synligt-politi-under-pride-angreb-i-berlin-skal-faa-endnu-flere-paa-gaden-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-08-08 09:52:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "New signs must warn of 'dangerous' bathing at chalk pits",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nye-skilte-skal-advare-om-livsfarlig-badning-ved-kridtgrav",
+        "published_date": "2026-08-08 09:42:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Danish Nature Agency has not yet found West Jutland's problem wolf",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/naturstyrelsen-har-endnu-ikke-fundet-vestjysk-problemulv?referrer=RSS",
+        "published_date": "2026-08-08 09:39:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Senate approves Trump's ex-lawyer as attorney general",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/senatet-godkender-trumps-tidligere-advokat-som-justitsminister?referrer=RSS",
+        "published_date": "2026-08-08 09:36:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "On Saturday night, two women saw their neighborhood burning.Now they have to find out who is responsible",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/loerdag-nat-saa-to-kvinder-deres-bydel-braende-nu-skal-de-finde-ud-af-hvem-der-baerer-ansvaret?referrer=RSS",
+        "published_date": "2026-08-08 09:23:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "More British children are finding fake pictures of themselves",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-britiske-boern-finder-falske-billeder-af-sig-selv",
+        "published_date": "2026-08-08 09:18:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Todd Blanche approved as US Attorney General",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/todd-blanche-godkendt-som-usa-s-justitsminister",
+        "published_date": "2026-08-08 09:08:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the Agenda: What's happening in Denmark next week?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260808/on-the-agenda-whats-happening-in-denmark-next-week-3",
+        "published_date": "2026-08-08 08:56:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister on vandalism on ships: 'Disagreement must never become an excuse'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/minister-om-haervaerk-paa-skibe-uenighed-maa-aldrig-blive-en-undskyldning",
+        "published_date": "2026-08-08 07:53:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "- We were in shock: Communal housing scams with major consequences",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/assens/kommunal-bolig-svipser-med-store-konsekvenser-vi-var-i-chok?rss",
+        "published_date": "2026-08-08 07:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "38 taxi drivers charged in connection with Smukfest",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/38-taxachauffoerer-sigtet-i-forbindelse-med-smukfest",
+        "published_date": "2026-08-08 06:41:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Joe Biden's cancer has spread further",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/joe-bidens-kraeftsygdom-har-spredt-sig-yderligere",
+        "published_date": "2026-08-08 05:49:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three people killed in attack near Kyiv",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-personer-draebt-i-angreb-ved-kyiv",
+        "published_date": "2026-08-08 03:33:44",
+        "category": "Local Events"
     },
     {
         "title": "Media drops bomb under Infantino: Used UEFA funds to pay alleged mistress' resignation",
@@ -382,132 +508,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-allieret-er-taget-i-ed-som-colombias-praesident?referrer=RSS",
         "published_date": "2026-08-07 22:20:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia denies involvement in explosive-laden drone in Germany",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rusland-afviser-involvering-i-spraengladet-drone-i-tyskland?referrer=RSS",
-        "published_date": "2026-08-07 21:35:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish victim of violence in Copenhagen has been buried",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/svensk-voldsoffer-i-koebenhavn-er-blevet-begravet?referrer=RSS",
-        "published_date": "2026-08-07 21:22:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Russian embassy in Germany denies knowledge of the drone incident",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ruslands-ambassade-i-tyskland-afviser-kendskab-til-drone-haendelse",
-        "published_date": "2026-08-07 21:09:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump opens again to fire central bank board member",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-aabner-igen-for-at-fyre-bestyrelsesmedlem-i-centralbank?referrer=RSS",
-        "published_date": "2026-08-07 20:58:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The S\u00f8nderjyske captain sees great unity in difficult times",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/soenderjyske-anfoerer-ser-stort-sammenhold-i-svaer-tid?referrer=RSS",
-        "published_date": "2026-08-07 20:42:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Italy maintains controls on travelers from Spain despite threats of retaliation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/italien-fastholder-kontrol-af-rejsende-fra-spanien-trods-gengaeldstrusler?referrer=RSS",
-        "published_date": "2026-08-07 20:14:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain introduces border controls with Italy after migrant conflict",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/spanien-indfoerer-graensekontrol-mod-italien-efter-migrantkonflikt?referrer=RSS",
-        "published_date": "2026-08-07 19:58:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain introduces stricter border controls against travelers from Italy",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/spanien-indfoerer-skaerpet-graensekontrol-mod-rejsende-fra-italien",
-        "published_date": "2026-08-07 19:43:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities seize 19 tons of tobacco from illegal cigarette factory in Belgium",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/myndigheder-beslaglaegger-19-ton-tobak-fra-ulovlig-cigaretfabrik-i-belgien",
-        "published_date": "2026-08-07 18:59:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark's speedway men are ready for the WC final despite a bad start",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/danmarks-speedwayherrer-er-klar-til-vm-finalen-trods-skidt-start",
-        "published_date": "2026-08-07 18:28:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hungarian police: 15-year-old girl was found unharmed in the province of eastern Hungary",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ungarsk-politi-15-aarig-pige-blev-fundet-uskadt-i-provins-i-det-oestlige-ungarn",
-        "published_date": "2026-08-07 17:34:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "- It must be Denmark's most beautiful workplace: Nanna changed course and is looking forward to getting up today",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/nanna-skiftede-kurs-og-glaeder-sig-i-dag-til-at-staa-op-det-maa-vaere-danmarks-flotteste-arbejdsplads?rss",
-        "published_date": "2026-08-07 17:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hundreds of Boeing planes to be examined for cracks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hundredvis-af-boeing-fly-skal-undersoeges-revner",
-        "published_date": "2026-08-07 16:55:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two killed in Ukrainian attack in Crimea",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/meldes-draebt-i-ukrainsk-angreb-paa-krim",
-        "published_date": "2026-08-07 16:03:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayors want to do something about the wandering bicycle tourists in Copenhagen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/borgmestre-vil-goere-noget-ved-de-slingrende-cykelturister-i-koebenhavn",
-        "published_date": "2026-08-07 15:40:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Italy maintains strengthened border controls with travelers from Spain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/italien-fastholder-styrket-graensekontrol-med-rejsende-fra-spanien",
-        "published_date": "2026-08-07 15:29:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish word of the day: en brandert",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260807/danish-word-of-the-day-en-brandert",
-        "published_date": "2026-08-07 14:58:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Directorate of Roads expects the summer's biggest homecoming weekend",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vejdirektoratet-forventer-sommerens-stoerste-hjemrejseweekend",
-        "published_date": "2026-08-07 14:28:26",
         "category": "Local Events"
     }
 ]
