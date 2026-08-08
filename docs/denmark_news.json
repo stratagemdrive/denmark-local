@@ -1,5 +1,26 @@
 [
     {
+        "title": "Turkey wants to expand defense agreement with Saudi Arabia and Pakistan",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tyrkiet-vil-gerne-udvide-forsvarsaftale-med-saudi-arabien-og-pakistan?referrer=RSS",
+        "published_date": "2026-08-08 20:41:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU tells Meta, TikTok to boost monitoring, fact-checking",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260808/eu-tells-meta-tiktok-to-boost-monitoring-fact-checking",
+        "published_date": "2026-08-08 16:00:28",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Europe readies for solar eclipse dip in power generation",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260808/europe-readies-for-solar-eclipse-dip-in-power-generation",
+        "published_date": "2026-08-08 13:31:18",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The EU calls on tech giants to strengthen fact-checking after the Ceuta crisis",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/eu-opfordrer-techgiganter-til-styrket-faktatjek-efter-ceuta-krise?referrer=RSS",
@@ -116,27 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/kilde-usa-har-tilbagekaldt-brasiliansk-ambassadoers-visum?referrer=RSS",
         "published_date": "2026-08-04 22:54:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Minister: Signs of Russian hybrid war during migrant flow to Ceuta",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/minister-kobler-migrantvandrig-til-ceuta-med-russisk-hybridkrig",
-        "published_date": "2026-08-04 22:05:57",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU saw signs of Russian hybrid war amid migrant flow to Ceuta",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/eu-saa-tegn-paa-russisk-hybridkrig-under-migrantstroem-til-ceuta?referrer=RSS",
-        "published_date": "2026-08-04 21:07:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "B\u00f8dskov aims at Moscow after EU crisis meeting and migrant flow: 2,000 \"pro-Russian\" articles about \"the EU is open\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/boedskov-retter-skytset-mod-moskva-efter-eu-krisemoede-og-migrantstroem-2000-prorussiske-artikler-om-at-eu-er-aabent?referrer=RSS",
-        "published_date": "2026-08-04 12:49:55",
         "category": "Diplomacy"
     },
     {
@@ -364,11 +364,123 @@
         "category": "Economy"
     },
     {
-        "title": "Therefore, we should tax gains on the sale of housing",
+        "title": "Fifa condemns attempts to undermine Infantino",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/derfor-boer-vi-beskatte-gevinster-ved-salg-af-bolig?referrer=RSS",
-        "published_date": "2026-07-31 19:41:51",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/sport/fifa-fordoemmer-forsoeg-paa-at-undergrave-infantino?referrer=RSS",
+        "published_date": "2026-08-08 23:03:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forest fires force thousands of people to flee in Canada",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/skovbrande-tvinger-tusindvis-af-mennesker-paa-flugt-i-canada?referrer=RSS",
+        "published_date": "2026-08-08 22:47:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ten people were squeezed after great human pressure for The Minds of 99",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/ti-personer-blev-klemt-efter-stort-menneskepres-til-the-minds-of-99?referrer=RSS",
+        "published_date": "2026-08-08 22:06:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "HB K\u00f8ge is approaching the Champions League after victory over Scots",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/hb-koege-naermer-sig-champions-league-efter-sejr-over-skotter?referrer=RSS",
+        "published_date": "2026-08-08 21:17:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Master coach emphasizes HB K\u00f8ge's mentality after CL promotion",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/mestertraener-fremhaever-hb-koeges-mentalitet-efter-cl-avancement?referrer=RSS",
+        "published_date": "2026-08-08 20:59:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Recommendation after wolf incident: Stay away from Bunken Klitplantage",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/anbefaling-efter-ulvehaendelse-bliv-vaek-fra-bunken-klitplantage?referrer=RSS",
+        "published_date": "2026-08-08 20:08:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trapped person from accident has been flown to OUH",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/fastklemt-person-fra-ulykke-er-blevet-floejet-til-ouh?referrer=RSS",
+        "published_date": "2026-08-08 19:23:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Speedway Danes miss the grand prix final in Riga",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/speedwaydanskerne-misser-grandprixfinalen-i-riga?referrer=RSS",
+        "published_date": "2026-08-08 18:51:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Voting blue doesn't make you more of a man",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/du-bliver-ikke-mere-mand-af-at-stemme-blaat?referrer=RSS",
+        "published_date": "2026-08-08 18:48:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bulgaria: It was probably a Ukrainian drone",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bulgarien-det-var-nok-en-ukrainsk-drone",
+        "published_date": "2026-08-08 16:40:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ship hit by projectile off Oman",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skib-ramt-af-projektil-ud-oman",
+        "published_date": "2026-08-08 16:10:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Greenland warns Trump-linked company preparing to pump oil",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260808/greenland-warns-trump-linked-company-preparing-to-pump-oil",
+        "published_date": "2026-08-08 15:07:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Supreme Court judge nominated as president of Hungary",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-hoejesteretsdommer-nomineret-som-praesident-i-ungarn",
+        "published_date": "2026-08-08 13:59:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bulgaria says drone exploded in Bulgarian airspace",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bulgarien-siger-drone-er-eksploderet-i-bulgarsk-luftrum",
+        "published_date": "2026-08-08 13:29:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "50,000 have followed the rebuilding of the Stock Exchange",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/50-000-har-fulgt-med-i-genopfoerelsen-af-boersen",
+        "published_date": "2026-08-08 13:27:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll after school shooting in Thailand rises to nine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-efter-skoleskyderi-i-thailand-steget-til-ni",
+        "published_date": "2026-08-08 13:09:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hinnerup affected by water shortage",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hinnerup-ramt-af-vandmangel",
+        "published_date": "2026-08-08 13:01:13",
+        "category": "Local Events"
     },
     {
         "title": "Minister sees Hizb ut-Tahrir video as camouflaged extremism",
@@ -389,125 +501,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/butikscenter-blev-evakueret-paa-grund-af-teknisk-fejl?referrer=RSS",
         "published_date": "2026-08-08 10:38:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Argentine football boss gives Messi time to make a decision",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/argentinsk-fodboldchef-giver-messi-tid-til-beslutning?referrer=RSS",
-        "published_date": "2026-08-08 10:34:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "- Funen will benefit from it: the Port of Odense is celebrating billion-dollar construction at sea",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/det-er-fabelagtigt-odense-havn-jubler-over-kaempe-havvindmoelleparker?rss",
-        "published_date": "2026-08-08 10:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "More visible police during Pride: Attacks in Berlin will bring even more people to the streets in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mere-synligt-politi-under-pride-angreb-i-berlin-skal-faa-endnu-flere-paa-gaden-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-08-08 09:52:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "New signs must warn of 'dangerous' bathing at chalk pits",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nye-skilte-skal-advare-om-livsfarlig-badning-ved-kridtgrav",
-        "published_date": "2026-08-08 09:42:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Danish Nature Agency has not yet found West Jutland's problem wolf",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/naturstyrelsen-har-endnu-ikke-fundet-vestjysk-problemulv?referrer=RSS",
-        "published_date": "2026-08-08 09:39:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Senate approves Trump's ex-lawyer as attorney general",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/senatet-godkender-trumps-tidligere-advokat-som-justitsminister?referrer=RSS",
-        "published_date": "2026-08-08 09:36:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "On Saturday night, two women saw their neighborhood burning.Now they have to find out who is responsible",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/loerdag-nat-saa-to-kvinder-deres-bydel-braende-nu-skal-de-finde-ud-af-hvem-der-baerer-ansvaret?referrer=RSS",
-        "published_date": "2026-08-08 09:23:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "More British children are finding fake pictures of themselves",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-britiske-boern-finder-falske-billeder-af-sig-selv",
-        "published_date": "2026-08-08 09:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Todd Blanche approved as US Attorney General",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/todd-blanche-godkendt-som-usa-s-justitsminister",
-        "published_date": "2026-08-08 09:08:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What's happening in Denmark next week?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260808/on-the-agenda-whats-happening-in-denmark-next-week-3",
-        "published_date": "2026-08-08 08:56:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister on vandalism on ships: 'Disagreement must never become an excuse'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/minister-om-haervaerk-paa-skibe-uenighed-maa-aldrig-blive-en-undskyldning",
-        "published_date": "2026-08-08 07:53:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "- We were in shock: Communal housing scams with major consequences",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/assens/kommunal-bolig-svipser-med-store-konsekvenser-vi-var-i-chok?rss",
-        "published_date": "2026-08-08 07:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "38 taxi drivers charged in connection with Smukfest",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/38-taxachauffoerer-sigtet-i-forbindelse-med-smukfest",
-        "published_date": "2026-08-08 06:41:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Joe Biden's cancer has spread further",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/joe-bidens-kraeftsygdom-har-spredt-sig-yderligere",
-        "published_date": "2026-08-08 05:49:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three people killed in attack near Kyiv",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-personer-draebt-i-angreb-ved-kyiv",
-        "published_date": "2026-08-08 03:33:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media drops bomb under Infantino: Used UEFA funds to pay alleged mistress' resignation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/medie-bringer-bombe-under-infantino-brugte-uefa-midler-til-at-betale-angivelig-elskerindes-fratraedelse?referrer=RSS",
-        "published_date": "2026-08-07 22:42:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Trump ally has been sworn in as Colombia's president",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-allieret-er-taget-i-ed-som-colombias-praesident?referrer=RSS",
-        "published_date": "2026-08-07 22:20:45",
         "category": "Local Events"
     }
 ]
