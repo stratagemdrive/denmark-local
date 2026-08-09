@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Suspected Irish gang leader charged after extradition from the Emirates",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/formodet-irsk-bandeleder-sigtet-efter-udlevering-fra-emiraterne?referrer=RSS",
+        "published_date": "2026-08-09 19:45:46",
+        "category": "Military"
+    },
+    {
         "title": "Drones can become the new weapon in the fight against the dreaded caterpillar",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/droner-kan-blive-det-nye-vaaben-i-kamp-mod-frygtet-larve",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Russian embassy accuses Ukraine of restaurant bomb in Moscow",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/russisk-ambassade-beskylder-ukraine-for-restaurant-bombe-i-moskva?referrer=RSS",
-        "published_date": "2026-08-03 12:54:48",
-        "category": "Military"
-    },
-    {
         "title": "Wind turbines spin and forests of solar cells rise: Yet the world thermometer rises with unprecedented speed",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/videnskab/vindmoeller-snurrer-og-skove-af-solceller-rejser-sig-alligevel-gaar-verdenstermometeret-i-vejret-med-uhoert-hast?referrer=RSS",
@@ -357,6 +357,13 @@
         "category": "Energy"
     },
     {
+        "title": "The man behind Louis Vuitton invites his five children to a monthly power lunch.They are born into a merciless succession race",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/arbejdsliv/manden-bag-louis-vuitton-inviterer-sine-fem-boern-til-en-maanedlig-power-lunch-de-er-foedt-ind-i-et-naadesloest-arvekaploeb?referrer=RSS",
+        "published_date": "2026-08-09 19:10:22",
+        "category": "Economy"
+    },
+    {
         "title": "The discreet salmon king became head of finance at the age of 16 and prays daily for his employees: Meet the Faroe Islands' first billionaire",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/den-diskrete-laksekonge-blev-oekonomichef-som-16-aarig-og-beder-dagligt-for-sine-ansatte-moed-faeroeernes-foerste-milliardaer?referrer=RSS",
@@ -369,6 +376,111 @@
         "url": "https://www.dr.dk/nyheder/seneste/fra-i-dag-kan-de-foerste-insidere-i-spacex-saelge-deres-aktier",
         "published_date": "2026-08-06 06:01:56",
         "category": "Economy"
+    },
+    {
+        "title": "One person has died after a rockslide in Egypt's largest gold mine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/en-person-er-doed-efter-stenskred-i-egyptens-stoerste-guldmine?referrer=RSS",
+        "published_date": "2026-08-09 23:04:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "German trade association: Lack of precipitation threatens shipping on the Rhine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tysk-brancheorganisation-mangel-paa-nedboer-truer-skibsfarten-paa-rhinen?referrer=RSS",
+        "published_date": "2026-08-09 22:50:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel closes Christian village in the West Bank to Israelis",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-lukker-kristen-landsby-paa-vestbredden-israelere",
+        "published_date": "2026-08-09 22:44:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel closes Christian village in the West Bank to Israelis",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/israel-lukker-kristen-landsby-paa-vestbredden-for-israelere?referrer=RSS",
+        "published_date": "2026-08-09 22:20:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia reports six killed in Ukrainian drone strike",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-melder-om-seks-draebte-i-ukrainsk-droneangreb",
+        "published_date": "2026-08-09 21:46:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six people are reported killed in a Ukrainian drone attack in Russia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seks-personer-meldes-draebt-i-ukrainsk-droneangreb-i-rusland?referrer=RSS",
+        "published_date": "2026-08-09 21:42:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kasper H\u00f8gh reacts to Celtic hat-trick with laughs and jokes",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kasper-hoegh-reagerer-paa-celtic-hattrick-med-grin-og-jokes?referrer=RSS",
+        "published_date": "2026-08-09 21:06:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "New wildfire in southern France - two villages evacuated",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-naturbrand-i-sydfrankrig-landsbyer-evakueret",
+        "published_date": "2026-08-09 19:50:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dear prospective students: SU does not have to be a party killer",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/kaere-kommende-studerende-suen-behoever-ikke-at-vaere-en-festdraeber?referrer=RSS",
+        "published_date": "2026-08-09 19:13:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Suspected gang leader arrived in Dublin",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/formodet-bandeleder-ankommet-til-dublin",
+        "published_date": "2026-08-09 18:55:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Syria: Agreement on Russian bases concluded",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/syrien-aftale-om-russiske-baser-indgaaet",
+        "published_date": "2026-08-09 16:48:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lolland's mayor gets a ministerial meeting, but no date",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lollands-borgmester-faar-ministermoede-men-ingen-dato",
+        "published_date": "2026-08-09 15:49:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Typhoon Dolphin hits China",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tyfon-dolphin-rammer-kina",
+        "published_date": "2026-08-09 12:57:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel rejects Trump's 15-point plan for Gaza",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-afviser-trumps-15-punktsplan-gaza",
+        "published_date": "2026-08-09 11:40:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 15-year-old girl from Hedensted has been reunited with her family",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/15-aarige-pige-fra-hedensted-er-genforenet-med-sin-familie",
+        "published_date": "2026-08-09 11:34:29",
+        "category": "Local Events"
     },
     {
         "title": "Police arrest man after wanted in case of pistols",
@@ -403,111 +515,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kommentar/hurra-sommeren-er-snart-slut--og-vi-slipper-for-latterlige-sommerhilsner-fra-egeriis-aarup-og-doustdar?referrer=RSS",
         "published_date": "2026-08-09 09:55:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "New post-secondary school puts tradesman skills on the school schedule",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-efterskole-saetter-haandvaerkerskills-paa-skoleskemaet",
-        "published_date": "2026-08-09 09:53:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "One reported himself: Two men charged with endangering the lives of others with a fire in Fattigg\u00e5rden",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/to-maend-er-blevet-sigtet-for-at-have-sat-ild-til-fattiggaarden-i-odense?rss",
-        "published_date": "2026-08-09 09:13:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "It is never the worst sin for the one who leaves the relationship",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/det-er-aldrig-mest-synd-for-den-der-gaar-fra-forholdet?referrer=RSS",
-        "published_date": "2026-08-09 09:07:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Pentagon demands more speed in the US defense industry",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/pentagon-kraever-mere-fart-paa-usas-forsvarsindustri?referrer=RSS",
-        "published_date": "2026-08-09 09:00:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Northern Jutland citizens worry about their animals after the wolf incident",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/nordjyske-borgere-bekymrer-sig-om-deres-dyr-efter-ulvehaendelse?referrer=RSS",
-        "published_date": "2026-08-09 08:54:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The last day of the holiday creates traffic on the roads: drive early or late",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/sidste-feriedag-skaber-trafik-paa-vejene-koer-tidligt-eller-sent?referrer=RSS",
-        "published_date": "2026-08-09 08:54:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Taylor Swift songs have been removed from White House social media",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/taylor-swift-sange-er-blevet-fjernet-paa-det-hvide-hus-sociale-medier",
-        "published_date": "2026-08-09 08:09:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two accused of setting fire to historic building in Odense",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sigtet-saette-ild-til-historisk-bygning-i-odense",
-        "published_date": "2026-08-09 07:42:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The president must carry the coffin: Large motorcycle procession planned for Silke",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/aabenraa/praesidenten-skal-baere-kisten-stort-motorcykeloptog-planlagt-for-silke?rss",
-        "published_date": "2026-08-09 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fifa condemns attempts to undermine Infantino",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fifa-fordoemmer-forsoeg-paa-at-undergrave-infantino?referrer=RSS",
-        "published_date": "2026-08-08 23:03:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forest fires force thousands of people to flee in Canada",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/skovbrande-tvinger-tusindvis-af-mennesker-paa-flugt-i-canada?referrer=RSS",
-        "published_date": "2026-08-08 22:47:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ten people were squeezed after great human pressure for The Minds of 99",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/ti-personer-blev-klemt-efter-stort-menneskepres-til-the-minds-of-99?referrer=RSS",
-        "published_date": "2026-08-08 22:06:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "HB K\u00f8ge is approaching the Champions League after victory over Scots",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/hb-koege-naermer-sig-champions-league-efter-sejr-over-skotter?referrer=RSS",
-        "published_date": "2026-08-08 21:17:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Master coach emphasizes HB K\u00f8ge's mentality after CL promotion",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mestertraener-fremhaever-hb-koeges-mentalitet-efter-cl-avancement?referrer=RSS",
-        "published_date": "2026-08-08 20:59:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Recommendation after wolf incident: Stay away from Bunken Klitplantage",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/anbefaling-efter-ulvehaendelse-bliv-vaek-fra-bunken-klitplantage?referrer=RSS",
-        "published_date": "2026-08-08 20:08:45",
         "category": "Local Events"
     }
 ]
