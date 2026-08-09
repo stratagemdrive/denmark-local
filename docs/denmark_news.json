@@ -1,5 +1,12 @@
 [
     {
+        "title": "Illegal hunting may have limited the growth of Denmark's wolf population",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/ulovlig-jagt-kan-have-begraenset-vaeksten-i-danmarks-ulvebestand?referrer=RSS",
+        "published_date": "2026-08-09 10:16:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Turkey wants to expand defense agreement with Saudi Arabia and Pakistan",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/tyrkiet-vil-gerne-udvide-forsvarsaftale-med-saudi-arabien-og-pakistan?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Source: US has revoked Brazilian ambassador's visa",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kilde-usa-har-tilbagekaldt-brasiliansk-ambassadoers-visum?referrer=RSS",
-        "published_date": "2026-08-04 22:54:47",
-        "category": "Diplomacy"
+        "title": "Drones can become the new weapon in the fight against the dreaded caterpillar",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/droner-kan-blive-det-nye-vaaben-i-kamp-mod-frygtet-larve",
+        "published_date": "2026-08-09 07:00:19",
+        "category": "Military"
     },
     {
         "title": "Two drones spotted at military base in Germany",
@@ -273,11 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Russia blames Kyiv for bomb at Moscow restaurant",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-giver-kyiv-skylden-bombe-paa-moskva-restaurant",
-        "published_date": "2026-08-03 12:48:11",
-        "category": "Military"
+        "title": "Wind turbines spin and forests of solar cells rise: Yet the world thermometer rises with unprecedented speed",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/videnskab/vindmoeller-snurrer-og-skove-af-solceller-rejser-sig-alligevel-gaar-verdenstermometeret-i-vejret-med-uhoert-hast?referrer=RSS",
+        "published_date": "2026-08-09 10:40:37",
+        "category": "Energy"
     },
     {
         "title": "An American oil company has suddenly gone ashore in Greenland - without permission",
@@ -364,6 +371,104 @@
         "category": "Economy"
     },
     {
+        "title": "Police arrest man after wanted in case of pistols",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politi-anholder-mand-efter-efterlysning-i-sag-om-pistoler?referrer=RSS",
+        "published_date": "2026-08-09 10:43:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The wolf population in Denmark is growing more slowly than expected",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ulvebestanden-i-danmark-vokser-langsommere-end-forventet",
+        "published_date": "2026-08-09 10:30:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran demands US acceptance of list of demands before Hormuz opening",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-kraever-usas-accept-af-kravliste-foer-hormuz-aabning?referrer=RSS",
+        "published_date": "2026-08-09 10:19:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The swimming comet will leave Rekord-Robert behind",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/svoemmekomet-vil-laegge-rekord-robert-bag-sig?referrer=RSS",
+        "published_date": "2026-08-09 10:02:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hooray, summer is almost over \u2013 and we will get rid of ridiculous summer greetings from Egeriis, Aarup and Doustdar",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentar/hurra-sommeren-er-snart-slut--og-vi-slipper-for-latterlige-sommerhilsner-fra-egeriis-aarup-og-doustdar?referrer=RSS",
+        "published_date": "2026-08-09 09:55:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "New post-secondary school puts tradesman skills on the school schedule",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-efterskole-saetter-haandvaerkerskills-paa-skoleskemaet",
+        "published_date": "2026-08-09 09:53:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "One reported himself: Two men charged with endangering the lives of others with a fire in Fattigg\u00e5rden",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/to-maend-er-blevet-sigtet-for-at-have-sat-ild-til-fattiggaarden-i-odense?rss",
+        "published_date": "2026-08-09 09:13:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "It is never the worst sin for the one who leaves the relationship",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/det-er-aldrig-mest-synd-for-den-der-gaar-fra-forholdet?referrer=RSS",
+        "published_date": "2026-08-09 09:07:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Pentagon demands more speed in the US defense industry",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/pentagon-kraever-mere-fart-paa-usas-forsvarsindustri?referrer=RSS",
+        "published_date": "2026-08-09 09:00:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Northern Jutland citizens worry about their animals after the wolf incident",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/nordjyske-borgere-bekymrer-sig-om-deres-dyr-efter-ulvehaendelse?referrer=RSS",
+        "published_date": "2026-08-09 08:54:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The last day of the holiday creates traffic on the roads: drive early or late",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/sidste-feriedag-skaber-trafik-paa-vejene-koer-tidligt-eller-sent?referrer=RSS",
+        "published_date": "2026-08-09 08:54:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Taylor Swift songs have been removed from White House social media",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/taylor-swift-sange-er-blevet-fjernet-paa-det-hvide-hus-sociale-medier",
+        "published_date": "2026-08-09 08:09:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two accused of setting fire to historic building in Odense",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sigtet-saette-ild-til-historisk-bygning-i-odense",
+        "published_date": "2026-08-09 07:42:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "The president must carry the coffin: Large motorcycle procession planned for Silke",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/aabenraa/praesidenten-skal-baere-kisten-stort-motorcykeloptog-planlagt-for-silke?rss",
+        "published_date": "2026-08-09 06:00:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Fifa condemns attempts to undermine Infantino",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/fifa-fordoemmer-forsoeg-paa-at-undergrave-infantino?referrer=RSS",
@@ -403,104 +508,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/anbefaling-efter-ulvehaendelse-bliv-vaek-fra-bunken-klitplantage?referrer=RSS",
         "published_date": "2026-08-08 20:08:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trapped person from accident has been flown to OUH",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/fastklemt-person-fra-ulykke-er-blevet-floejet-til-ouh?referrer=RSS",
-        "published_date": "2026-08-08 19:23:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Speedway Danes miss the grand prix final in Riga",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/speedwaydanskerne-misser-grandprixfinalen-i-riga?referrer=RSS",
-        "published_date": "2026-08-08 18:51:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Voting blue doesn't make you more of a man",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/du-bliver-ikke-mere-mand-af-at-stemme-blaat?referrer=RSS",
-        "published_date": "2026-08-08 18:48:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bulgaria: It was probably a Ukrainian drone",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bulgarien-det-var-nok-en-ukrainsk-drone",
-        "published_date": "2026-08-08 16:40:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ship hit by projectile off Oman",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skib-ramt-af-projektil-ud-oman",
-        "published_date": "2026-08-08 16:10:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Greenland warns Trump-linked company preparing to pump oil",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260808/greenland-warns-trump-linked-company-preparing-to-pump-oil",
-        "published_date": "2026-08-08 15:07:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former Supreme Court judge nominated as president of Hungary",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-hoejesteretsdommer-nomineret-som-praesident-i-ungarn",
-        "published_date": "2026-08-08 13:59:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bulgaria says drone exploded in Bulgarian airspace",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bulgarien-siger-drone-er-eksploderet-i-bulgarsk-luftrum",
-        "published_date": "2026-08-08 13:29:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "50,000 have followed the rebuilding of the Stock Exchange",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/50-000-har-fulgt-med-i-genopfoerelsen-af-boersen",
-        "published_date": "2026-08-08 13:27:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Death toll after school shooting in Thailand rises to nine",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-efter-skoleskyderi-i-thailand-steget-til-ni",
-        "published_date": "2026-08-08 13:09:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hinnerup affected by water shortage",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hinnerup-ramt-af-vandmangel",
-        "published_date": "2026-08-08 13:01:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister sees Hizb ut-Tahrir video as camouflaged extremism",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/minister-ser-hizb-ut-tahrir-video-som-kamufleret-ekstremisme?referrer=RSS",
-        "published_date": "2026-08-08 11:01:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "4th of July fireworks are included in the Guinness Book of Records",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/4-juli-fyrvaerkeri-er-indlemmet-i-guinness-rekordbog",
-        "published_date": "2026-08-08 10:41:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "The shopping center was evacuated due to a technical fault",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/butikscenter-blev-evakueret-paa-grund-af-teknisk-fejl?referrer=RSS",
-        "published_date": "2026-08-08 10:38:45",
         "category": "Local Events"
     }
 ]
