@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ordinary member was behind Messerschmidt's controversial tour",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/menigt-medlem-stod-bag-messerschmidts-omdiskuterede-rundvisning?referrer=RSS",
+        "published_date": "2026-08-10 11:37:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Illegal hunting may have limited the growth of Denmark's wolf population",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/ulovlig-jagt-kan-have-begraenset-vaeksten-i-danmarks-ulvebestand?referrer=RSS",
@@ -130,13 +137,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260805/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-65",
         "published_date": "2026-08-05 09:09:03",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Tuberculosis Outbreak in Langeland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tuberkoloseudbrud-paa-langeland",
-        "published_date": "2026-08-05 04:19:25",
         "category": "Diplomacy"
     },
     {
@@ -350,11 +350,18 @@
         "category": "Energy"
     },
     {
-        "title": "Heat wave puts pressure on Hungary's power supply",
+        "title": "The organization wants help from municipalities to handle more weddings",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/organisation-vil-have-hjaelp-til-kommuner-for-at-haandtere-flere-vielser?referrer=RSS",
+        "published_date": "2026-08-10 11:21:44",
+        "category": "Economy"
+    },
+    {
+        "title": "Inflation fell slightly in July",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hedeboelge-presser-ungarns-stroemforsyning",
-        "published_date": "2026-08-02 10:16:01",
-        "category": "Energy"
+        "url": "https://www.dr.dk/nyheder/seneste/inflationen-faldt-en-smule-i-juli",
+        "published_date": "2026-08-10 06:35:12",
+        "category": "Economy"
     },
     {
         "title": "The man behind Louis Vuitton invites his five children to a monthly power lunch.They are born into a merciless succession race",
@@ -378,143 +385,143 @@
         "category": "Economy"
     },
     {
-        "title": "One person has died after a rockslide in Egypt's largest gold mine",
+        "title": "Danish Nazi became sperm donor in Sweden \u2013 now his children want answers",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260810/danish-nazi-became-sperm-donor-in-sweden-now-his-children-want-answers",
+        "published_date": "2026-08-10 12:22:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Smukfest will analyze the incident at the Minds of 99 concert",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-person-er-doed-efter-stenskred-i-egyptens-stoerste-guldmine?referrer=RSS",
-        "published_date": "2026-08-09 23:04:44",
+        "url": "https://www.berlingske.dk/danmark/smukfest-vil-analysere-haendelse-til-minds-of-99-koncert?referrer=RSS",
+        "published_date": "2026-08-10 11:37:47",
         "category": "Local Events"
     },
     {
-        "title": "German trade association: Lack of precipitation threatens shipping on the Rhine",
+        "title": "Why do we accept DSB's poor service?",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tysk-brancheorganisation-mangel-paa-nedboer-truer-skibsfarten-paa-rhinen?referrer=RSS",
-        "published_date": "2026-08-09 22:50:46",
+        "url": "https://www.berlingske.dk/synspunkter/hvorfor-accepterer-vi-dsbs-daarlige-service?referrer=RSS",
+        "published_date": "2026-08-10 11:32:36",
         "category": "Local Events"
     },
     {
-        "title": "Israel closes Christian village in the West Bank to Israelis",
+        "title": "Marius Borg H\u00f8iby will have his remand in custody extended",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israel-lukker-kristen-landsby-paa-vestbredden-israelere",
-        "published_date": "2026-08-09 22:44:35",
+        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-faar-forlaenget-sin-varetaegtsfaengsling",
+        "published_date": "2026-08-10 11:28:21",
         "category": "Local Events"
     },
     {
-        "title": "Israel closes Christian village in the West Bank to Israelis",
+        "title": "Media: Confederation is considering new tournaments as a response to Fifa",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/israel-lukker-kristen-landsby-paa-vestbredden-for-israelere?referrer=RSS",
-        "published_date": "2026-08-09 22:20:46",
+        "url": "https://www.berlingske.dk/sport/medier-forbund-overvejer-nye-turneringer-som-modsvar-til-fifa?referrer=RSS",
+        "published_date": "2026-08-10 11:27:43",
         "category": "Local Events"
     },
     {
-        "title": "Russia reports six killed in Ukrainian drone strike",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-melder-om-seks-draebte-i-ukrainsk-droneangreb",
-        "published_date": "2026-08-09 21:46:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six people are reported killed in a Ukrainian drone attack in Russia",
+        "title": "Marius Borg H\u00f8iby gets an extended remand",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seks-personer-meldes-draebt-i-ukrainsk-droneangreb-i-rusland?referrer=RSS",
-        "published_date": "2026-08-09 21:42:45",
+        "url": "https://www.berlingske.dk/internationalt/marius-borg-hoeiby-faar-forlaenget-varetaengsfaengsling?referrer=RSS",
+        "published_date": "2026-08-10 11:21:55",
         "category": "Local Events"
     },
     {
-        "title": "Kasper H\u00f8gh reacts to Celtic hat-trick with laughs and jokes",
+        "title": "Br\u00f8ndby grabs the Austrian back in Stuttgart, Germany",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kasper-hoegh-reagerer-paa-celtic-hattrick-med-grin-og-jokes?referrer=RSS",
-        "published_date": "2026-08-09 21:06:48",
+        "url": "https://www.berlingske.dk/sport/broendby-snupper-oestrigsk-back-i-tyske-stuttgart?referrer=RSS",
+        "published_date": "2026-08-10 11:21:50",
         "category": "Local Events"
     },
     {
-        "title": "New wildfire in southern France - two villages evacuated",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-naturbrand-i-sydfrankrig-landsbyer-evakueret",
-        "published_date": "2026-08-09 19:50:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dear prospective students: SU does not have to be a party killer",
+        "title": "A 60-year-old man has been found dead at an address in Midtjylland",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/kaere-kommende-studerende-suen-behoever-ikke-at-vaere-en-festdraeber?referrer=RSS",
-        "published_date": "2026-08-09 19:13:12",
+        "url": "https://www.berlingske.dk/indland/en-60-aarig-mand-er-fundet-doed-paa-adresse-i-midtjylland?referrer=RSS",
+        "published_date": "2026-08-10 11:17:46",
         "category": "Local Events"
     },
     {
-        "title": "Suspected gang leader arrived in Dublin",
+        "title": "Jon called Mette 'an overscorer' in April: Now they are getting married",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/haderslev/jon-kaldte-mette-for-en-overscoring-i-april-nu-skal-de-giftes?rss",
+        "published_date": "2026-08-10 11:16:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three injured in suspected gang shooting in Danish town",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260810/three-injured-in-suspected-gang-shooting-danish-town",
+        "published_date": "2026-08-10 11:11:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Harry Potter fans create PR nightmare for billion-dollar project",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/formodet-bandeleder-ankommet-til-dublin",
-        "published_date": "2026-08-09 18:55:47",
+        "url": "https://www.dr.dk/nyheder/seneste/harry-potter-fans-skaber-pr-mareridt-milliardprojekt",
+        "published_date": "2026-08-10 11:08:32",
         "category": "Local Events"
     },
     {
-        "title": "Syria: Agreement on Russian bases concluded",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/syrien-aftale-om-russiske-baser-indgaaet",
-        "published_date": "2026-08-09 16:48:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lolland's mayor gets a ministerial meeting, but no date",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lollands-borgmester-faar-ministermoede-men-ingen-dato",
-        "published_date": "2026-08-09 15:49:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Typhoon Dolphin hits China",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tyfon-dolphin-rammer-kina",
-        "published_date": "2026-08-09 12:57:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israel rejects Trump's 15-point plan for Gaza",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israel-afviser-trumps-15-punktsplan-gaza",
-        "published_date": "2026-08-09 11:40:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 15-year-old girl from Hedensted has been reunited with her family",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/15-aarige-pige-fra-hedensted-er-genforenet-med-sin-familie",
-        "published_date": "2026-08-09 11:34:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police arrest man after wanted in case of pistols",
+        "title": "1,349 speeding offenders on a short stretch in Copenhagen",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politi-anholder-mand-efter-efterlysning-i-sag-om-pistoler?referrer=RSS",
-        "published_date": "2026-08-09 10:43:44",
+        "url": "https://www.berlingske.dk/indland/1349-fartsyndere-paa-kort-straekning-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-08-10 10:58:08",
         "category": "Local Events"
     },
     {
-        "title": "The wolf population in Denmark is growing more slowly than expected",
+        "title": "Prosecutors want double-closed doors on Bornholm",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/anklager-oensker-dobbeltlukkede-doere-paa-bornholm?referrer=RSS",
+        "published_date": "2026-08-10 10:51:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "We know that - and we need an answer to that: Why did a 20-year-old man die in his car to Kloster M\u00e6rken?",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/toender/det-ved-vi-og-det-mangler-vi-svar-paa-hvorfor-doede-21-aarig-mand-i-sin-bil-til-kloster-maerken?rss",
+        "published_date": "2026-08-10 10:50:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "230 migrants cross the English Channel in the same boat",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ulvebestanden-i-danmark-vokser-langsommere-end-forventet",
-        "published_date": "2026-08-09 10:30:24",
+        "url": "https://www.dr.dk/nyheder/seneste/230-migranter-krydser-den-engelske-kanal-i-samme-baad",
+        "published_date": "2026-08-10 10:24:15",
         "category": "Local Events"
     },
     {
-        "title": "Iran demands US acceptance of list of demands before Hormuz opening",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iran-kraever-usas-accept-af-kravliste-foer-hormuz-aabning?referrer=RSS",
-        "published_date": "2026-08-09 10:19:44",
+        "title": "47 people have now been arrested after a demonstration in front of a defense company",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/47-personer-er-nu-anholdt-efter-demonstration-foran-forsvarsvirksomhede",
+        "published_date": "2026-08-10 09:59:34",
         "category": "Local Events"
     },
     {
-        "title": "The swimming comet will leave Rekord-Robert behind",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/svoemmekomet-vil-laegge-rekord-robert-bag-sig?referrer=RSS",
-        "published_date": "2026-08-09 10:02:46",
+        "title": "During the solar eclipse the songbirds may stop their song",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/under-solformoerkelsen-stopper-sangfuglene-maaske-deres-sang",
+        "published_date": "2026-08-10 09:56:41",
         "category": "Local Events"
     },
     {
-        "title": "Hooray, summer is almost over \u2013 and we will get rid of ridiculous summer greetings from Egeriis, Aarup and Doustdar",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentar/hurra-sommeren-er-snart-slut--og-vi-slipper-for-latterlige-sommerhilsner-fra-egeriis-aarup-og-doustdar?referrer=RSS",
-        "published_date": "2026-08-09 09:55:08",
+        "title": "Today in Denmark: A roundup of the latest news on Monday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260810/today-in-denmark-a-roundup-of-the-latest-news-on-monday-56",
+        "published_date": "2026-08-10 08:33:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "12 killed in Ukrainian drone attack, says Russian mayor",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/12-draebt-i-ukrainsk-droneangreb-siger-russisk-borgmester",
+        "published_date": "2026-08-10 07:23:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Over 8 hours long performance returns to the Royal Theater",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/over-8-timers-lang-forestilling-vender-tilbage-til-det-kongelige-teater",
+        "published_date": "2026-08-10 07:15:23",
         "category": "Local Events"
     }
 ]
