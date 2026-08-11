@@ -1,5 +1,26 @@
 [
     {
+        "title": "Two UN employees detained by Afghan intelligence",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/to-fn-ansatte-tilbageholdt-af-afghansk-efterretningstjeneste?referrer=RSS",
+        "published_date": "2026-08-11 21:33:45",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Suddenly, Ukraine's allies are holding on to coveted missiles: \"We have to ensure our own protection\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/pludselig-holder-ukraines-allierede-godt-fast-i-eftertragtede-missiler-vi-er-noedt-til-at-sikre-vores-egen-beskyttelse?referrer=RSS",
+        "published_date": "2026-08-11 20:06:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Solar eclipse sparks scramble for protective glasses across Europe",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260811/solar-eclipse-sparks-scramble-for-protective-glasses-across-europe",
+        "published_date": "2026-08-11 14:40:53",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Immigration policy and foreign policy have to be connected",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kronikker/udlaendingepolitik-og-udenrigspolitik-er-noedt-til-at-haenge-sammen?referrer=RSS",
@@ -119,25 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The port wants more security people on the board: Denies connection to sensitive China case",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/havnen-vil-have-flere-sikkerhedsfolk-i-bestyrelsen-afviser-forbindelse-til-oemtaalelig-kina-sag?rss",
-        "published_date": "2026-08-06 05:00:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Liberals join the debate on top of the migrant crisis: Will spend billions to strengthen Fort Europe",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/venstre-melder-sig-ind-i-debatten-oven-paa-migrantkrisen-vil-bruge-milliarder-paa-at-styrke-fort-europa?referrer=RSS",
-        "published_date": "2026-08-05 19:48:11",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "NATO's Rutte will ensure that Ukraine gets air defense",
+        "title": "Bergur L\u00f8kke stops working as a consultant at a British arms manufacturer",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/natos-rutte-vil-sikre-ukraine-faar-det-luftforsvar-de-akut-har-behov",
-        "published_date": "2026-08-05 17:56:45",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/bergur-loekke-stopper-som-raadgiver-hos-britisk-vaabenproducent",
+        "published_date": "2026-08-11 13:43:41",
+        "category": "Military"
     },
     {
         "title": "Criminal gangs use Airbnb to store drugs and weapons in Belgium",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Combat battalion is deployed for the first time with a woman at the front",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/kampbataljon-udsendes-for-foerste-gang-med-kvinde-i-front?referrer=RSS",
-        "published_date": "2026-08-04 12:33:49",
-        "category": "Military"
-    },
-    {
         "title": "Wind turbines spin and forests of solar cells rise: Yet the world thermometer rises with unprecedented speed",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/videnskab/vindmoeller-snurrer-og-skove-af-solceller-rejser-sig-alligevel-gaar-verdenstermometeret-i-vejret-med-uhoert-hast?referrer=RSS",
@@ -319,20 +319,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/folketinget-er-hasteindkaldt-12-august-om-migrantstroemmen",
         "published_date": "2026-08-05 12:02:30",
-        "category": "Energy"
-    },
-    {
-        "title": "Trump wants oil companies to lower fuel prices",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-vil-have-olieselskaber-til-at-saenke-braendstofpriserne?referrer=RSS",
-        "published_date": "2026-08-03 22:49:47",
-        "category": "Energy"
-    },
-    {
-        "title": "FCK and FCM may run into Finnish opposition in the Conference League",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fck-og-fcm-loeber-maaske-ind-i-finsk-modstand-i-conference-league?referrer=RSS",
-        "published_date": "2026-08-03 12:46:44",
         "category": "Energy"
     },
     {
@@ -378,10 +364,122 @@
         "category": "Economy"
     },
     {
+        "title": "Danish hurdlers miss EC final",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/danske-haekkeloebere-misser-em-finale?referrer=RSS",
+        "published_date": "2026-08-11 21:00:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lack of barriers arouses criticism after the concert at Smukfest",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/manglende-barrierer-vaekker-kritik-efter-koncert-paa-smukfest?referrer=RSS",
+        "published_date": "2026-08-11 20:44:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Me & My singer hospitalized after heart attack",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/me-my-sangerinde-indlagt-efter-hjertetilfaelde?referrer=RSS",
+        "published_date": "2026-08-11 19:33:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Berlingske believes that SPS transforms students into clients.This is a wrong understanding of disability support",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/berlingske-mener-at-sps-omdanner-studerende-til-klienter-det-er-en-forkert-forstaaelse-af-handicapstoette?referrer=RSS",
+        "published_date": "2026-08-11 19:27:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Concert cancelled: Me & My singer hospitalized after heart attack",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/koncert-aflyst-me-my-sanger-indlagt-efter-hjertetilfaelde",
+        "published_date": "2026-08-11 19:24:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Yemen's Ministry of Transport reports four dead in attack in the Red Sea",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/yemens-transportministerium-melder-fire-doede-i-angreb-i-det-roede-hav?referrer=RSS",
+        "published_date": "2026-08-11 19:17:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zelenskyj: Negotiators from the US have received proposals for a peace plan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-forhandlere-fra-usa-har-faaet-forslag-til-fredsplan",
+        "published_date": "2026-08-11 19:11:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Yemen's Ministry of Transport reports four dead in attack in the Red Sea",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/yemens-transportministerium-melder-fire-doede-i-angreb-i-det-roede-hav",
+        "published_date": "2026-08-11 16:47:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "19-year-old confesses to money laundering of 34 million",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-tilstaar-hvidvask-af-34-millioner",
+        "published_date": "2026-08-11 15:56:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Citizens can now text the Danish Nature Agency about problem wolves",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nu-kan-borgere-sms-e-naturstyrelsen-om-problemulv",
+        "published_date": "2026-08-11 15:17:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish expression of the day: At prutte om prisen",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260811/danish-expression-of-the-day-at-prutte-om-prisen",
+        "published_date": "2026-08-11 15:13:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Where in Denmark to find protective glasses for Wednesday's solar eclipse",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260811/where-in-denmark-to-find-protective-glasses-for-wednesdays-solar-eclipse",
+        "published_date": "2026-08-11 14:50:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hungary will have a former head of the Supreme Court as president",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ungarn-faar-tidligere-hoejesteretschef-som-praesident",
+        "published_date": "2026-08-11 14:08:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "47-year-old man remanded in custody after fatal violence against 60-year-old man",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/47-aarig-mand-varetaegtsfaengslet-efter-doedsvold-mod-60-aarig-mand",
+        "published_date": "2026-08-11 13:57:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Novo ships insulin for weekly use to US pharmacies",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/novo-sender-insulin-til-ugentlig-brug-ud-paa-amerikanske-apoteker",
+        "published_date": "2026-08-11 13:44:23",
+        "category": "Local Events"
+    },
+    {
         "title": "The total comprehensive list of all the Danish pastries you'll ever need to know about",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260811/the-total-comprehensive-list-of-all-the-danish-pastries-you-need-to-know-about",
         "published_date": "2026-08-11 12:57:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lebanon abolishes the death penalty",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/libanon-afskaffer-doedstraf",
+        "published_date": "2026-08-11 12:01:58",
         "category": "Local Events"
     },
     {
@@ -403,118 +501,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/60-aarig-doede-efter-omfattende-vold-med-slag-i-hovedet-og-paa-kroppen?referrer=RSS",
         "published_date": "2026-08-11 11:20:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities are scaling up the hunt for problem wolves at N\u00f8rre Nebel",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/myndigheder-opskalerer-jagten-paa-problemulv-ved-noerre-nebel?referrer=RSS",
-        "published_date": "2026-08-11 11:10:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The search for more survivors continues in Colombia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/jagten-paa-flere-overlevende-fortsaetter-i-colombia?referrer=RSS",
-        "published_date": "2026-08-11 11:07:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "On Monday night, Trump shared a bit of a realization about the reflecting pool at the Lincoln Memorial",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/natten-til-mandag-delte-trump-lidt-af-en-erkendelse-om-spejlbassinet-ved-lincoln-memorial?referrer=RSS",
-        "published_date": "2026-08-11 11:02:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salling Group expects to sell out of eclipse glasses",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/salling-group-forventer-udsolgt-af-formoerkelsesbriller?referrer=RSS",
-        "published_date": "2026-08-11 11:01:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danes sprint into the semi-finals with a solid run against the wind",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansker-sprinter-sig-i-semifinale-med-solidt-loeb-i-modvind?referrer=RSS",
-        "published_date": "2026-08-11 11:01:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sources: Houthis attack cargo ship in narrow strait, kill three",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kilder-houthier-angriber-fragtskib-i-smalt-straede-og-draeber-tre?referrer=RSS",
-        "published_date": "2026-08-11 10:54:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Person found dead at school in Odense",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/person-fundet-doed-paa-skole-i-odense?rss",
-        "published_date": "2026-08-11 09:27:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260811/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-59",
-        "published_date": "2026-08-11 08:29:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Australia to vaccinate vulnerable species against bird flu",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/australien-vil-vaccinere-udsatte-arter-mod-fugleinfluenza",
-        "published_date": "2026-08-11 08:28:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vulnerable inmates must share solitary cells",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/saarbare-indsatte-skal-dele-enkeltmandsceller",
-        "published_date": "2026-08-11 08:21:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister will work for Danish tuna quota",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/minister-vil-arbejde-dansk-tun-kvote",
-        "published_date": "2026-08-11 07:29:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Beijing can receive a third of its annual rainfall in one day",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/beijing-kan-faa-tredjedel-af-sin-aarlige-nedboer-i-loebet-af-et-doegn",
-        "published_date": "2026-08-11 04:58:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Veteran home receives Peter Lund Madsen award",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/veteranhjem-modtager-peter-lund-madsen-pris",
-        "published_date": "2026-08-11 04:21:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump: It will be a terrible mistake to replace Infantino",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-det-vil-vaere-en-forfaerdelig-fejl-erstatte-infantino",
-        "published_date": "2026-08-11 03:51:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least five killed in Russian attack in Zaporizhzhya \u2013 Kyiv hit by ballistic missiles",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mindst-fem-draebt-i-russisk-angreb-i-zaporizjzja-kyiv-ramt-af-ballistiske-missiler",
-        "published_date": "2026-08-10 23:40:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump calls on states to limit vaccine requirements",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-opfordrer-delstater-til-at-begraense-vaccinekrav?referrer=RSS",
-        "published_date": "2026-08-10 22:40:46",
         "category": "Local Events"
     }
 ]
