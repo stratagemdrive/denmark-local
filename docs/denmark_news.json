@@ -1,5 +1,40 @@
 [
     {
+        "title": "Rare solar eclipse darkens parts of Europe",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/sjaelden-solformoerkelse-moerklagde-dele-af-europa?referrer=RSS",
+        "published_date": "2026-08-12 20:07:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU curbs on 'forever chemicals' in food packaging kick in",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260812/eu-curbs-on-forever-chemicals-in-food-packaging-kick-in",
+        "published_date": "2026-08-12 16:28:43",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "War impact on European travel bookings fading",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260812/war-impact-on-european-travel-bookings-fading",
+        "published_date": "2026-08-12 15:47:05",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Eurovision organizer now imposes stricter requirements on host countries",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eurovision-arrangoeren-stiller-nu-strengere-krav-til-vaertslande",
+        "published_date": "2026-08-12 15:08:14",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Europe's latest heatwave: More than 90 million set for temperatures above 35C",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260812/europes-latest-heatwave-more-than-90-million-set-for-plus-35c-temperatures",
+        "published_date": "2026-08-12 13:42:33",
+        "category": "Diplomacy"
+    },
+    {
         "title": "How to check if your eclipse glasses in Denmark are safe and certified",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260812/how-to-check-if-your-eclipse-glasses-in-denmark-are-safe-and-certified",
@@ -102,41 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/tyrkiet-vil-gerne-udvide-forsvarsaftale-med-saudi-arabien-og-pakistan?referrer=RSS",
         "published_date": "2026-08-08 20:41:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU tells Meta, TikTok to boost monitoring, fact-checking",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260808/eu-tells-meta-tiktok-to-boost-monitoring-fact-checking",
-        "published_date": "2026-08-08 16:00:28",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Europe readies for solar eclipse dip in power generation",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260808/europe-readies-for-solar-eclipse-dip-in-power-generation",
-        "published_date": "2026-08-08 13:31:18",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The EU calls on tech giants to strengthen fact-checking after the Ceuta crisis",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eu-opfordrer-techgiganter-til-styrket-faktatjek-efter-ceuta-krise?referrer=RSS",
-        "published_date": "2026-08-07 22:46:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Three ministers participate in a debate on the EU's external borders",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/tre-ministre-deltager-i-debat-om-eus-ydre-graenser?referrer=RSS",
-        "published_date": "2026-08-07 11:19:43",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "European police crack down on smuggling networks and arrest 78 people",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/europaeisk-politi-slaar-til-mod-smuglernetvaerk-og-anholder-78-personer?referrer=RSS",
-        "published_date": "2026-08-07 10:16:44",
         "category": "Diplomacy"
     },
     {
@@ -273,11 +273,11 @@
         "category": "Military"
     },
     {
-        "title": "Denmark\u2019s extended military service comes into effect",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260804/denmarks-extended-military-service-comes-into-effect",
-        "published_date": "2026-08-04 14:54:39",
-        "category": "Military"
+        "title": "FACT: Doctor dares to swim against the current",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/fakta-laege-toer-svoemme-mod-stroemmen?referrer=RSS",
+        "published_date": "2026-08-12 22:02:45",
+        "category": "Energy"
     },
     {
         "title": "Hunter finds torso wrapped in plastic near Flensburg",
@@ -336,6 +336,13 @@
         "category": "Energy"
     },
     {
+        "title": "Small drop in US inflation",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lille-fald-i-den-amerikanske-inflation",
+        "published_date": "2026-08-12 14:10:52",
+        "category": "Economy"
+    },
+    {
         "title": "Strengthened legal certainty for taxpayers should be the lifeblood of social democracy",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kommentatorer/styrket-retssikkerhed-for-skatteborgerne-boer-vaere-socialdemokratisk-hjerteblod?referrer=RSS",
@@ -378,143 +385,143 @@
         "category": "Economy"
     },
     {
-        "title": "Danish word of the day: Solform\u00f8rkelse",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260812/danish-word-of-the-day-solformorkelse",
-        "published_date": "2026-08-12 11:49:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Danish quartet fills the favorite field at the DP World Tour tournament",
+        "title": "Trump sued for selling early access to his Truth posts",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-kvartet-fylder-i-favoritfeltet-ved-dp-world-tour-turnering?referrer=RSS",
-        "published_date": "2026-08-12 11:27:46",
+        "url": "https://www.berlingske.dk/internationalt/trump-sagsoegt-for-at-saelge-tidlig-adgang-til-sine-truth-opslag?referrer=RSS",
+        "published_date": "2026-08-12 23:02:46",
         "category": "Local Events"
     },
     {
-        "title": "Firefighters accuse Israel of starting forest fires in South Lebanon",
+        "title": "Hollywood son is accused of stabbing parents",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/brandfolk-beskylder-israel-for-at-starte-skovbrande-i-sydlibanon?referrer=RSS",
-        "published_date": "2026-08-12 11:23:44",
+        "url": "https://www.berlingske.dk/internationalt/hollywood-soen-er-tiltalt-for-knivdrab-paa-foraeldre?referrer=RSS",
+        "published_date": "2026-08-12 22:48:47",
         "category": "Local Events"
     },
     {
-        "title": "Danish cyclist breaks his back after a head-on collision",
+        "title": "Doctor receives LGBT+ award for newlyweds in the treatment of transgender people",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-cykelrytter-braekker-ryggen-efter-frontal-paakoersel?referrer=RSS",
-        "published_date": "2026-08-12 11:13:46",
+        "url": "https://www.berlingske.dk/danmark/laege-modtager-lgbt-pris-for-nybrud-i-behandlingen-af-transkoennede?referrer=RSS",
+        "published_date": "2026-08-12 22:02:50",
         "category": "Local Events"
     },
     {
-        "title": "China has thrown the world into trade chaos \u2013 a big bill awaits",
+        "title": "New Danish thriller praised for pace and criticized for clich\u00e9s",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/kina-har-kastet-verden-ud-i-handelskaos--stor-regning-venter?referrer=RSS",
-        "published_date": "2026-08-12 11:10:46",
+        "url": "https://www.berlingske.dk/danmark/ny-dansk-thriller-roses-for-tempo-og-kritiseres-for-klicheer?referrer=RSS",
+        "published_date": "2026-08-12 21:25:48",
         "category": "Local Events"
     },
     {
-        "title": "Two people stabbed in Vesterbro",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/personer-ramt-af-knivstik-paa-vesterbro",
-        "published_date": "2026-08-12 11:03:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Analysis: New defense minister will have a busy season - the question is what his heart beats most for",
+        "title": "Defensive blunder helps PSG to Super Cup title",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/analyse-ny-forsvarsminister-faar-en-travl-saeson--spoergsmaalet-er-hvad-hans-hjerte-banker-mest-for?referrer=RSS",
-        "published_date": "2026-08-12 10:46:53",
+        "url": "https://www.berlingske.dk/sport/defensiv-blunder-hjaelper-psg-til-super-cup-titel?referrer=RSS",
+        "published_date": "2026-08-12 21:01:45",
         "category": "Local Events"
     },
     {
-        "title": "The wolf population is growing while the number of attacks on livestock is decreasing",
+        "title": "The Married at First Sight couple directs criticism at DR",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/ulvebestanden-vokser-mens-antallet-af-angreb-paa-husdyr-falder?referrer=RSS",
-        "published_date": "2026-08-12 10:41:44",
+        "url": "https://www.berlingske.dk/danmark/udklippet-gift-ved-foerste-blik-par-retter-kritik-mod-dr?referrer=RSS",
+        "published_date": "2026-08-12 20:44:44",
         "category": "Local Events"
     },
     {
-        "title": "The police in Flensburg are appealing for witnesses after the discovery of the human torso",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-i-flensborg-efterlyser-vidner-efter-fund-af-mennesketorso",
-        "published_date": "2026-08-12 10:31:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Favourable weather conditions for most of Denmark for today's solar eclipse",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260812/favourable-weather-conditions-for-most-of-denmark-for-todays-solar-eclipse",
-        "published_date": "2026-08-12 10:26:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "British Prime Minister leads his first Cobra meeting",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/britisk-premierminister-leder-sit-foerste-cobra-moede",
-        "published_date": "2026-08-12 10:12:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five stars: She writes bittersweetly and beautifully \u2013 it's enough to make you wise",
+        "title": "Koch Jacobsen disappoints in the EC final and ends up outside the top 8",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/litteratur/fem-stjerner-hun-skriver-bittersoedt-og-smukt--det-er-lige-til-at-blive-klog-af?referrer=RSS",
-        "published_date": "2026-08-12 10:09:26",
+        "url": "https://www.berlingske.dk/sport/koch-jacobsen-skuffer-i-em-finalen-og-ender-uden-for-top-8?referrer=RSS",
+        "published_date": "2026-08-12 20:14:46",
         "category": "Local Events"
     },
     {
-        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260812/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-66",
-        "published_date": "2026-08-12 09:06:11",
+        "title": "Trump's spokeswoman is leaving the White House",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trumps-talskvinde-forlader-det-hvide-hus?referrer=RSS",
+        "published_date": "2026-08-12 19:59:44",
         "category": "Local Events"
     },
     {
-        "title": "The police: Gang conflict in Herning and the surrounding area has stopped",
+        "title": "Trump: Karoline Leavitt resigns as spokesperson",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/indland/politiet-bandekonflikt-i-herning-og-omegn-er-stoppet",
-        "published_date": "2026-08-12 08:01:37",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-karoline-leavitt-fratraeder-som-pressetalsperson",
+        "published_date": "2026-08-12 19:52:54",
         "category": "Local Events"
     },
     {
-        "title": "Several injured in Ukrainian attack on Russian city",
+        "title": "The Norwegian Nature Agency will have expanded opportunities to shoot problem wolves",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-saaret-i-ukrainsk-angreb-paa-russisk",
-        "published_date": "2026-08-12 07:18:33",
+        "url": "https://www.dr.dk/nyheder/seneste/naturstyrelsen-faar-udvidet-mulighederne-skyde-problemulv",
+        "published_date": "2026-08-12 19:27:22",
         "category": "Local Events"
     },
     {
-        "title": "172 rescued ashore after fire on ferry near Bali",
+        "title": "The death toll rises to 239 after the earthquake",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/172-reddet-i-land-efter-brand-paa-faerge-naer-bali",
-        "published_date": "2026-08-12 06:41:37",
+        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-stiger-til-239-efter-jordskaelv",
+        "published_date": "2026-08-12 19:08:47",
         "category": "Local Events"
     },
     {
-        "title": "Vestas more than doubled its operating earnings in the second quarter",
+        "title": "Israel has carried out the first airstrike on Gaza in nine days",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vestas-mere-end-fordoblede-sin-driftsindtjening-i-andet-kvartal",
-        "published_date": "2026-08-12 06:07:16",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-har-gennemfoert-det-foerste-luftangreb-paa-gaza-i-ni-dage",
+        "published_date": "2026-08-12 18:20:02",
         "category": "Local Events"
     },
     {
-        "title": "In 480,000 text messages, 22-year-old pretended to be from Netflix, Tv2 and Postnord: Hundreds fell into the trap",
+        "title": "Search helped: 10-year-old boy found safe",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/snoed-sig-til-kreditkort-data-via-480-000-falske-sms-er-nu-vil-22-aarig-tilstaa-groft-bedrageri?rss",
-        "published_date": "2026-08-12 05:02:00",
+        "url": "https://jv.dk/kolding/efterlyser-10-aarig-dreng-forlod-sin-skole-i-morges?rss",
+        "published_date": "2026-08-12 17:37:57",
         "category": "Local Events"
     },
     {
-        "title": "The ShareIt app closes",
+        "title": "For seven years, Carsten and Gitte have been paying the landlord: Then they realized who the parking space belonged to",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/haderslev/i-syv-aar-har-carsten-og-gitte-betalt-til-udlejer-saa-gik-det-op-for-dem-hvem-p-pladsen-tilhoerte?rss",
+        "published_date": "2026-08-12 17:07:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Almonds from Netto are recalled due to moth risk",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/appen-shareit-lukker-ned",
-        "published_date": "2026-08-12 04:15:33",
+        "url": "https://www.dr.dk/nyheder/seneste/mandler-fra-netto-tilbagekaldes-paa-grund-af-moel-risiko",
+        "published_date": "2026-08-12 16:35:41",
         "category": "Local Events"
     },
     {
-        "title": "Danish hurdlers miss EC final",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/danske-haekkeloebere-misser-em-finale?referrer=RSS",
-        "published_date": "2026-08-11 21:00:46",
+        "title": "The municipality must pay DKK 350,000 to have blue-yellow vandalism removed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kommune-skal-betale-350-000-kroner-faa-fjernet-blaagult-haervaerk",
+        "published_date": "2026-08-12 16:03:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wanted 10-year-old found safe and sound",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-10-aarige-kevin-fra-lunderskov",
+        "published_date": "2026-08-12 16:00:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "64-year-old released after threats against Barbara Berthelsen",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/64-aarig-loesladt-efter-trusler-mod-barbara-berthelsen",
+        "published_date": "2026-08-12 14:20:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tar operations may no longer discharge environmentally hazardous substances into Nyborg Fjord",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tjaerevirksomhed-maa-ikke-laengere-udlede-miljoefarlige-stoffer-i-nyborg-fjord",
+        "published_date": "2026-08-12 14:10:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 21-year-old man is in custody after a stabbing in Ebeltoft",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/21-aarig-mand-er-varetaegtsfaengslet-efter-knivstik-i-ebeltoft",
+        "published_date": "2026-08-12 14:04:04",
         "category": "Local Events"
     }
 ]
