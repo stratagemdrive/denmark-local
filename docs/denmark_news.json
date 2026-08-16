@@ -1,5 +1,12 @@
 [
     {
+        "title": "LATEST: Europe's battle with wildfires continues",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260816/latest-europes-battle-with-wildfires-continues",
+        "published_date": "2026-08-16 12:56:48",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Morocco arrests 111 migrants on their way to Ceuta",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/marokko-anholder-111-migranter-paa-vej-mod-ceuta?referrer=RSS",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The Eurovision organizer now imposes stricter requirements on host countries",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eurovision-arrangoeren-stiller-nu-strengere-krav-til-vaertslande",
-        "published_date": "2026-08-12 15:08:14",
-        "category": "Diplomacy"
-    },
-    {
         "title": "He gifted Ukraine's only submarine to Russia.12 years later, revenge fell in the form of a Russian woman",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/han-foraerede-ukraines-eneste-ubaad-til-rusland-12-aar-senere-faldt-haevnen-i-form-af-en-russisk-kvinde?referrer=RSS",
@@ -210,27 +210,6 @@
         "category": "Military"
     },
     {
-        "title": "Two drones spotted at military base in Germany",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/droner-spottet-ved-militaerbaser-i-tyskland",
-        "published_date": "2026-08-08 10:58:02",
-        "category": "Military"
-    },
-    {
-        "title": "Putin's war is running out of money",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/putins-krig-er-ved-at-loebe-toer-for-penge?referrer=RSS",
-        "published_date": "2026-08-08 10:21:40",
-        "category": "Military"
-    },
-    {
-        "title": "Prime Minister wants to tighten gun laws after school shooting",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/premierminister-vil-stramme-vaabenlovgivningen-efter-skoleskyderi",
-        "published_date": "2026-08-08 06:01:18",
-        "category": "Military"
-    },
-    {
         "title": "Two women lose their lives in floods and landslides in Spain",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/to-kvinder-mister-livet-i-oversvoemmelser-og-jordskred-i-spanien?referrer=RSS",
@@ -263,13 +242,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/videnskab/vindmoeller-snurrer-og-skove-af-solceller-rejser-sig-alligevel-gaar-verdenstermometeret-i-vejret-med-uhoert-hast?referrer=RSS",
         "published_date": "2026-08-09 10:40:37",
-        "category": "Energy"
-    },
-    {
-        "title": "An American oil company has suddenly gone ashore in Greenland - without permission",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amerikansk-olieselskab-er-pludselig-gaaet-i-land-i-groenland--uden-tilladelse?referrer=RSS",
-        "published_date": "2026-08-08 10:43:32",
         "category": "Energy"
     },
     {
@@ -322,11 +294,116 @@
         "category": "Economy"
     },
     {
-        "title": "The discreet salmon king became head of finance at the age of 16 and prays daily for his employees: Meet the Faroe Islands' first billionaire",
+        "title": "Stabbed his best friend under the influence of drugs: 32-year-old jailed for attempted murder",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/stak-sin-bedste-ven-ned-i-narkorus-32-aarig-faengslet-for-drabsforsoeg?rss",
+        "published_date": "2026-08-16 11:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Killed high school student's older brother thanks for the care: \"Last Friday, what should never happen happened\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/den-diskrete-laksekonge-blev-oekonomichef-som-16-aarig-og-beder-dagligt-for-sine-ansatte-moed-faeroeernes-foerste-milliardaer?referrer=RSS",
-        "published_date": "2026-08-08 10:04:46",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/indland/draebt-gymnasieelevs-storebror-takker-for-omsorgen-i-fredags-skete-det-der-aldrig-maatte-ske?referrer=RSS",
+        "published_date": "2026-08-16 11:08:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russian governor reports massive drone attack in Moscow",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/russisk-guvernoer-melder-om-massivt-droneangreb-i-moskva?referrer=RSS",
+        "published_date": "2026-08-16 10:47:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish marathon runners finish far back in the EC field",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/danske-maratonloebere-slutter-langt-tilbage-i-em-felt?referrer=RSS",
+        "published_date": "2026-08-16 10:09:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Greater calm fuels Christophersen's dream of a top-10 finish",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/stoerre-ro-giver-naering-til-christophersens-droem-om-top-10?referrer=RSS",
+        "published_date": "2026-08-16 10:01:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The left wing fails the moderate Muslims when they turn their eyes away from Islamism",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/venstrefloejen-svigter-de-moderate-muslimer-naar-de-vender-blikket-vaek-fra-islamismen?referrer=RSS",
+        "published_date": "2026-08-16 10:00:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "For many young people, the student hall becomes the final station.New report should set alarm bells ringing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kronikker/for-mange-unge-bliver-studenterhuen-endestationen-ny-rapport-boer-faa-alarmklokkerne-til-at-ringe?referrer=RSS",
+        "published_date": "2026-08-16 09:57:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish men's team cap swims in the EC final",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dansk-herreholdkap-svoemmer-sig-i-em-finalen?referrer=RSS",
+        "published_date": "2026-08-16 09:41:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong winds and rain hit Hawaii in connection with the hurricane",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kraftig-vind-og-regn-rammer-hawaii-i-forbindelse-med-orkan?referrer=RSS",
+        "published_date": "2026-08-16 09:19:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The incredible story has exploded on the web: Did purunge Lasse grow up in India's slums?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/den-utrolige-historie-er-eksploderet-paa-nettet-voksede-purunge-lasse-op-i-indiens-slum?referrer=RSS",
+        "published_date": "2026-08-16 09:18:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Legendary artist collective drowns: \"Better luck next time\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kunst/legendarisk-kunstnerkollektiv-druknerbedre-held-naeste-gang?referrer=RSS",
+        "published_date": "2026-08-16 09:03:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "One arrested after stabbing: Charged with attempted manslaughter",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/politiet-massivt-til-stede-arbejdede-i-timevis-efter-knivstikkeri-paa-villavej?rss",
+        "published_date": "2026-08-16 06:41:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "12 people killed in bus accident in Hungary",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/12-personer-draebt-i-busulykke-i-ungarn",
+        "published_date": "2026-08-16 06:15:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spanish fighter jet shoots down drone in Romanian airspace",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/spansk-kampfly-skyder-drone-ned-i-rumaensk-luftrum",
+        "published_date": "2026-08-16 03:42:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least five people have died in floods in Indiana",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mindst-fem-mennesker-har-mistet-livet-under-oversvoemmelser-i-indiana",
+        "published_date": "2026-08-16 02:08:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "After the earthquake: Colombia's president asks Trump for a tariff break",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efter-jordskaelv-colombias-praesident-beder-trump-om-toldpause",
+        "published_date": "2026-08-15 23:18:39",
+        "category": "Local Events"
     },
     {
         "title": "Burnham wants reflection on former Cambridge professor's death",
@@ -354,118 +431,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/anmeldere-kalder-nyt-album-fra-lukas-graham-for-blodfattigt?referrer=RSS",
         "published_date": "2026-08-15 20:03:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Are you lost in the debate about liberalism and national conservatism?We take it from the beginning",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/er-du-faret-vild-i-debatten-om-liberalisme-og-nationalkonservatisme-vi-tager-den-forfra?referrer=RSS",
-        "published_date": "2026-08-15 19:51:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish javelin thrower quits the EC final early",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-spydkaster-ryger-tidligt-ud-af-em-finale?referrer=RSS",
-        "published_date": "2026-08-15 19:48:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The series is so effectively screwed together that the reviewer just had to watch",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/serien-er-saa-effektivt-skruet-sammen-at-anmelderen-bare-maatte-se-med?referrer=RSS",
-        "published_date": "2026-08-15 19:47:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "47 dead after earthquake in Indonesia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/47-doede-efter-jordskaelv-i-indonesien",
-        "published_date": "2026-08-15 19:21:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rosendahl Bach is ready for the EC final in the second best time",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/rosendahl-bach-er-klar-til-em-finale-i-naestbedste-tid",
-        "published_date": "2026-08-15 18:25:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "No one wins - but it could have gone completely differently between FC Roskilde and Middelfart",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/ingen-vinder-men-det-kunne-vaere-gaaet-helt-anderledes-mellem-fc-roskilde-og-middelfart?rss",
-        "published_date": "2026-08-15 17:21:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "68 drowned after ferry capsizes in Zimbabwe",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/68-druknet-efter-faergeforlis-i-zimbabwe",
-        "published_date": "2026-08-15 16:45:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "HB K\u00f8ge Women's offense showed itself well in the victory over OB Q",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/hb-koege-women-s-offensiv-viste-sig-flot-frem-i-sejren-over-ob-q?rss",
-        "published_date": "2026-08-15 15:22:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two Danes in the lead before the final round in Denmark's biggest golf tournament",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/danskere-med-i-toppen-foer-finalerunde-i-danmarks-stoerste-golfturnering",
-        "published_date": "2026-08-15 15:14:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chicken skewers recalled due to risk of raw meat",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kyllingespyd-tilbagekaldes-paa-grund-af-risiko-raat-koed",
-        "published_date": "2026-08-15 14:58:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Morten Messerschmidt regrets email: - I was shocked when you sent it to me",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/odense/morten-messerschmidt-beklager-mail-jeg-blev-chokeret-da-du-sendte-mig-det?rss",
-        "published_date": "2026-08-15 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "FACTS: Pride in Denmark",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/fakta-pride-i-danmark?referrer=RSS",
-        "published_date": "2026-08-15 11:05:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "16-year-old jailed for murder",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/16-aarig-faengslet-for-drab?referrer=RSS",
-        "published_date": "2026-08-15 10:59:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "16-year-old denies stabbing high school student",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/16-aarig-naegter-knivdrab-paa-gymnasieelev?referrer=RSS",
-        "published_date": "2026-08-15 10:51:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Illegal phone calls, hidden fees and high advance payments: the electricity market has become the Wild West",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/ulovlige-telefonopkald-skjulte-gebyrer-og-hoeje-acontobeloeb-elmarkedet-er-blevet-det-vilde-vesten?referrer=RSS",
-        "published_date": "2026-08-15 10:44:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hope for panda cubs in the Zoo is dwindling",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/haabet-om-pandaunger-i-zoologisk-have-svinder-ind?referrer=RSS",
-        "published_date": "2026-08-15 10:34:43",
         "category": "Local Events"
     }
 ]
