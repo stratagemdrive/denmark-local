@@ -1,5 +1,19 @@
 [
     {
+        "title": "Fort Europe is a pitiful illusion \u2013 migration will always take place",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/fort-europa-er-en-ynkelig-illusion--migration-vil-altid-finde-sted?referrer=RSS",
+        "published_date": "2026-08-16 20:45:45",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Dragsted longs for Frederiksen's rhetoric about Ceuta: Pinagtigt",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/dragsted-langer-ud-efter-frederiksens-retorik-om-ceuta-pinagtigt?referrer=RSS",
+        "published_date": "2026-08-16 20:27:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "LATEST: Europe's battle with wildfires continues",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260816/latest-europes-battle-with-wildfires-continues",
@@ -126,18 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "EU curbs on 'forever chemicals' in food packaging kick in",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260812/eu-curbs-on-forever-chemicals-in-food-packaging-kick-in",
-        "published_date": "2026-08-12 16:28:43",
-        "category": "Diplomacy"
+        "title": "Trump wants to cut back on military exercises with South Korea",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-vil-skaere-ned-paa-militaeroevelser-med-sydkorea?referrer=RSS",
+        "published_date": "2026-08-16 22:11:45",
+        "category": "Military"
     },
     {
-        "title": "War impact on European travel bookings fading",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260812/war-impact-on-european-travel-bookings-fading",
-        "published_date": "2026-08-12 15:47:05",
-        "category": "Diplomacy"
+        "title": "Trump wants to cut back on military exercises with South Korea",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-vil-skaere-ned-paa-militaeroevelser-med-sydkorea",
+        "published_date": "2026-08-16 22:05:25",
+        "category": "Military"
+    },
+    {
+        "title": "19 people have been killed in a bloody day in Russia and Ukraine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/19-mennesker-er-draebt-i-blodigt-doegn-i-rusland-og-ukraine?referrer=RSS",
+        "published_date": "2026-08-16 20:23:49",
+        "category": "Military"
+    },
+    {
+        "title": "Military chief praises aircraft carrier crew after critical articles",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/militaerchef-storroser-hangarskibs-besaetning-efter-kritiske-artikler?referrer=RSS",
+        "published_date": "2026-08-16 19:34:44",
+        "category": "Military"
     },
     {
         "title": "He gifted Ukraine's only submarine to Russia.12 years later, revenge fell in the form of a Russian woman",
@@ -245,6 +273,13 @@
         "category": "Energy"
     },
     {
+        "title": "American tourists are everywhere, and there are more and more of them",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentar/amerikanske-turister-er-allevegne-og-der-bliver-flere-og-flere-af-dem?referrer=RSS",
+        "published_date": "2026-08-16 19:41:47",
+        "category": "Economy"
+    },
+    {
         "title": "Colombia's president asks Trump for tariff break after earthquake",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/colombias-praesident-anmoder-trump-om-toldpause-efter-jordskaelv?referrer=RSS",
@@ -292,6 +327,69 @@
         "url": "https://www.berlingske.dk/arbejdsliv/manden-bag-louis-vuitton-inviterer-sine-fem-boern-til-en-maanedlig-power-lunch-de-er-foedt-ind-i-et-naadesloest-arvekaploeb?referrer=RSS",
         "published_date": "2026-08-09 19:10:22",
         "category": "Economy"
+    },
+    {
+        "title": "Ebola outbreak in DR Congo is the country's deadliest",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ebolaudbrud-i-dr-congo-er-landets-mest-doedelige?referrer=RSS",
+        "published_date": "2026-08-16 22:54:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ebola outbreak in DR Congo is the country's deadliest",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ebolaudbrud-i-dr-congo-er-landets-mest-doedelige",
+        "published_date": "2026-08-16 22:47:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Belgium struggles to contain wildfire on its way to Germany",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/belgien-kaemper-for-at-taemme-naturbrand-paa-vej-mod-tyskland?referrer=RSS",
+        "published_date": "2026-08-16 22:35:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five teenagers have died in Ireland in a wrong-way traffic accident",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fem-teenagere-er-doede-i-irland-i-trafikulykke-mod-koerselsretning?referrer=RSS",
+        "published_date": "2026-08-16 21:45:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police: Tarling cut a corner and was hit by van",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/politi-tarling-skar-et-hjoerne-og-blev-ramt-af-varevogn?referrer=RSS",
+        "published_date": "2026-08-16 20:27:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two dead in fire on Greek island near Athens - tourists evacuated",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doede-i-brand-paa-graesk-oe-naer-athen-turister-evakueret",
+        "published_date": "2026-08-16 16:57:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three have been injured during a scuffle in the hotel reception in Amager",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-er-kommet-til-skade-under-haandgemaeng-i-hotelreception-paa-amager",
+        "published_date": "2026-08-16 14:26:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Parts of the Belgian wildfire are under control",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/belgisk-naturbrand-er-under-kontrol",
+        "published_date": "2026-08-16 13:48:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist dies in road accident",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/motorcyklist-afgaaet-ved-doeden-i-faerdselsuheld",
+        "published_date": "2026-08-16 11:56:07",
+        "category": "Local Events"
     },
     {
         "title": "Stabbed his best friend under the influence of drugs: 32-year-old jailed for attempted murder",
@@ -368,69 +466,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kunst/legendarisk-kunstnerkollektiv-druknerbedre-held-naeste-gang?referrer=RSS",
         "published_date": "2026-08-16 09:03:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "One arrested after stabbing: Charged with attempted manslaughter",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/politiet-massivt-til-stede-arbejdede-i-timevis-efter-knivstikkeri-paa-villavej?rss",
-        "published_date": "2026-08-16 06:41:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "12 people killed in bus accident in Hungary",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/12-personer-draebt-i-busulykke-i-ungarn",
-        "published_date": "2026-08-16 06:15:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spanish fighter jet shoots down drone in Romanian airspace",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/spansk-kampfly-skyder-drone-ned-i-rumaensk-luftrum",
-        "published_date": "2026-08-16 03:42:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least five people have died in floods in Indiana",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mindst-fem-mennesker-har-mistet-livet-under-oversvoemmelser-i-indiana",
-        "published_date": "2026-08-16 02:08:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "After the earthquake: Colombia's president asks Trump for a tariff break",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-jordskaelv-colombias-praesident-beder-trump-om-toldpause",
-        "published_date": "2026-08-15 23:18:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Burnham wants reflection on former Cambridge professor's death",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/burnham-oensker-refleksion-over-tidligere-cambridge-professors-doed?referrer=RSS",
-        "published_date": "2026-08-15 21:33:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Laudrup-Dufour picks up another WC silver medal in dressage",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/laudrup-dufour-henter-endnu-en-vm-soelvmedalje-i-dressur?referrer=RSS",
-        "published_date": "2026-08-15 20:58:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Holding your girlfriend's hand shouldn't be brave.But it is on the wrong street in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/at-holde-sin-kaereste-i-haanden-burde-ikke-vaere-modigt-men-det-er-det-paa-den-forkerte-gade-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-08-15 20:31:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reviewers call the new album from Lukas Graham anemic",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/anmeldere-kalder-nyt-album-fra-lukas-graham-for-blodfattigt?referrer=RSS",
-        "published_date": "2026-08-15 20:03:46",
         "category": "Local Events"
     }
 ]
