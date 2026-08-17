@@ -1,5 +1,12 @@
 [
     {
+        "title": "Erdogan has no ambitions for Turkish EU membership",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/erdogan-har-ingen-ambitioner-om-tyrkisk-eu-medlemskab",
+        "published_date": "2026-08-17 15:39:20",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Fort Europe is a pitiful illusion \u2013 migration will always take place",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/laesere/fort-europa-er-en-ynkelig-illusion--migration-vil-altid-finde-sted?referrer=RSS",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Rare solar eclipse darkens parts of Europe",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/sjaelden-solformoerkelse-moerklagde-dele-af-europa?referrer=RSS",
-        "published_date": "2026-08-12 20:07:48",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Military Music Festival in Moscow is cancelled",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/militaermusikfestival-i-moskva-er-aflyst",
@@ -238,11 +238,11 @@
         "category": "Military"
     },
     {
-        "title": "Suspected Irish gang leader charged after extradition from the Emirates",
+        "title": "Campaign leader stops in SF in protest over handling of metoo case",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/formodet-irsk-bandeleder-sigtet-efter-udlevering-fra-emiraterne?referrer=RSS",
-        "published_date": "2026-08-09 19:45:46",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/politik/kampagneleder-stopper-i-sf-i-protest-over-haandtering-af-metoo-sag?referrer=RSS",
+        "published_date": "2026-08-17 19:29:22",
+        "category": "Energy"
     },
     {
         "title": "Two women lose their lives in floods and landslides in Spain",
@@ -336,150 +336,143 @@
         "category": "Economy"
     },
     {
-        "title": "The man behind Louis Vuitton invites his five children to a monthly power lunch.They are born into a merciless succession race",
+        "title": "The Supreme Court again rejects a request from Trump in an abuse case",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/arbejdsliv/manden-bag-louis-vuitton-inviterer-sine-fem-boern-til-en-maanedlig-power-lunch-de-er-foedt-ind-i-et-naadesloest-arvekaploeb?referrer=RSS",
-        "published_date": "2026-08-09 19:10:22",
-        "category": "Economy"
-    },
-    {
-        "title": "SAS launch direct route from Denmark to India for first time in 17 years",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260817/sas-launch-direct-route-from-denmark-to-india-for-first-time-in-17-years",
-        "published_date": "2026-08-17 12:45:56",
+        "url": "https://www.berlingske.dk/internationalt/hoejesteret-afviser-igen-anmodning-fra-trump-i-overgrebssag?referrer=RSS",
+        "published_date": "2026-08-17 22:56:45",
         "category": "Local Events"
     },
     {
-        "title": "- I woke up to my wife screaming and crying: Married couple brutally assaulted in Airbnb villa",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/jeg-vaagnede-ved-at-min-kone-skreg-og-graed-par-lejede-villa-og-blev-ofre-for-brutalt-overfald?rss",
-        "published_date": "2026-08-17 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark launches unified emergency psychiatric hotline",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260817/denmark-launches-unified-emergency-psychiatric-hotline",
-        "published_date": "2026-08-17 11:33:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "State accounts are without significant errors despite minor criticism",
+        "title": "Trump envoy expects imminent progress in disarming Hamas",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/statsregnskab-er-uden-vaesentlige-fejl-trods-mindre-kritik?referrer=RSS",
-        "published_date": "2026-08-17 11:13:46",
+        "url": "https://www.berlingske.dk/internationalt/trump-udsending-forventer-snarlige-fremskridt-i-afvaebning-af-hamas?referrer=RSS",
+        "published_date": "2026-08-17 22:27:45",
         "category": "Local Events"
     },
     {
-        "title": "The caterpillar from hell is recorded in the slang dictionary",
+        "title": "Mangione's trial postponed after confession",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/larven-fra-helvede-optages-i-slangordbog?referrer=RSS",
-        "published_date": "2026-08-17 10:59:43",
+        "url": "https://www.berlingske.dk/internationalt/retssag-mod-mangione-udskydes-efter-tilstaaelse?referrer=RSS",
+        "published_date": "2026-08-17 21:45:47",
         "category": "Local Events"
     },
     {
-        "title": "Man must spend 12 years behind bars for possession of pistols and several hundred kilos of drugs",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-skal-12-aar-bag-tremmer-besiddelse-af-pistoler-og-flere-hundrede-kilo-narko",
-        "published_date": "2026-08-17 10:53:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wammen opens for changes to change of ownership insurance",
+        "title": "3.2 million Danes now have private health insurance",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/wammen-aabner-for-aendringer-af-ejerskifteforsikring?referrer=RSS",
-        "published_date": "2026-08-17 10:52:35",
+        "url": "https://www.berlingske.dk/danmark/32-millioner-danskere-har-nu-en-privat-sundhedsforsikring?referrer=RSS",
+        "published_date": "2026-08-17 21:20:44",
         "category": "Local Events"
     },
     {
-        "title": "The expression 'the caterpillar from hell' is entered in the slang dictionary",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/udtrykket-larven-fra-helvede-optages-i-slang-ordbog",
-        "published_date": "2026-08-17 10:49:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iraqi-Kurdish prime minister blames Iran for attack on his office",
+        "title": "Digital services shape our reality \u2013 but the responsibility does not come with it",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/irakisk-kurdisk-premierminister-beskylder-iran-for-angreb-mod-sit-kontor?referrer=RSS",
-        "published_date": "2026-08-17 10:39:44",
+        "url": "https://www.berlingske.dk/kronikker/digitale-tjenester-former-vores-virkelighed--men-ansvaret-foelger-ikke-med?referrer=RSS",
+        "published_date": "2026-08-17 21:09:24",
         "category": "Local Events"
     },
     {
-        "title": "OpenAI is characterized by massive unrest ahead of a potential IPO: Several employees are leaving top positions",
+        "title": "Dead professor remembered in London",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doed-professor-mindet-i-london",
+        "published_date": "2026-08-17 20:14:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Perhaps it is not the \"victim role\" that fills Christiansborg.But the fear of the Danish People's Party's comeback",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/openai-praeges-af-massiv-uro-forud-for-potentiel-boersnotering-flere-medarbejdere-forlader-topposter?referrer=RSS",
-        "published_date": "2026-08-17 10:39:01",
+        "url": "https://www.berlingske.dk/laesere/maaske-er-det-ikke-offerrollen-der-fylder-paa-christiansborg-men-frygten-for-dansk-folkepartis-comeback?referrer=RSS",
+        "published_date": "2026-08-17 20:08:38",
         "category": "Local Events"
     },
     {
-        "title": "Bent Winther: Dragsted is pressuring the government \u2013 \u200b\u200bbut it is a risky strategy",
+        "title": "Why rewrite Little Peter Spider?There are better ways to challenge gender stereotypes",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/bent-winther-dragsted-presser-regeringen--men-det-er-en-risikabel-strategi?referrer=RSS",
-        "published_date": "2026-08-17 10:34:19",
+        "url": "https://www.berlingske.dk/synspunkter/hvorfor-omskrive-lille-peter-edderkop-der-findes-bedre-maader-at-udfordre-koensstereotyper-paa?referrer=RSS",
+        "published_date": "2026-08-17 20:07:59",
         "category": "Local Events"
     },
     {
-        "title": "New psychologist helps couples in DR's Married at First Sight",
+        "title": "Media: Fifa fires director after open criticism of Infantino",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/ny-psykolog-hjaelper-par-i-drs-gift-ved-foerste-blik?referrer=RSS",
-        "published_date": "2026-08-17 10:19:43",
+        "url": "https://www.berlingske.dk/sport/medier-fifa-fyrer-direktoer-efter-aaben-kritik-af-infantino?referrer=RSS",
+        "published_date": "2026-08-17 19:55:47",
         "category": "Local Events"
     },
     {
-        "title": "For the first time in six years, the Netherlands has confirmed West Nile fever",
+        "title": "The US will not extend the Memorandum of Understanding",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/foerste-gang-i-seks-aar-har-holland-konstateret-vestnilfeber",
-        "published_date": "2026-08-17 09:32:46",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-vil-ikke-forlaenge-forstaaelsespapir",
+        "published_date": "2026-08-17 19:33:31",
         "category": "Local Events"
     },
     {
-        "title": "SAS opens direct route to Mumbai",
+        "title": "Br\u00f8ndby averted meltdown: It became a bit of a freak show",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/broendby-afvaergede-nedsmeltning-det-blev-lidt-et-freakshow?referrer=RSS",
+        "published_date": "2026-08-17 19:32:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The king of Norway has been hospitalized",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sas-aabner-direkte-rute-til-mumbai",
-        "published_date": "2026-08-17 09:21:20",
+        "url": "https://www.dr.dk/nyheder/seneste/norges-konge-er-blevet-indlagt",
+        "published_date": "2026-08-17 17:14:34",
         "category": "Local Events"
     },
     {
-        "title": "Totalkredit moves to the top",
+        "title": "Meeting between Netanyahu and the peace council results in working groups",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/totalkredit-rokerer-paa-toppost",
-        "published_date": "2026-08-17 08:58:09",
+        "url": "https://www.dr.dk/nyheder/seneste/moede-mellem-netanyahu-og-fredsraadet-munder-ud-i-arbejdsgrupper",
+        "published_date": "2026-08-17 16:59:08",
         "category": "Local Events"
     },
     {
-        "title": "New 'mourning bandage' must make grief visible",
+        "title": "The \u00d8resund motorway has reopened after an accident",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nyt-moderne-soergebind-skal-goere-sorgen-synlig",
-        "published_date": "2026-08-17 08:28:54",
+        "url": "https://www.dr.dk/nyheder/seneste/oeresundsbroen-spaerret-i-retning-mod-sverige",
+        "published_date": "2026-08-17 16:51:34",
         "category": "Local Events"
     },
     {
-        "title": "Animal Protection was extremely busy in June and July",
+        "title": "The Supreme Court rejects Trump's wish in the compensation case",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dyrenes-beskyttelse-havde-rekordtravlt-i-juni-og-juli",
-        "published_date": "2026-08-17 08:24:04",
+        "url": "https://www.dr.dk/nyheder/seneste/hoejesteret-afviser-trumps-oenske-i-erstatningssag",
+        "published_date": "2026-08-17 14:52:09",
         "category": "Local Events"
     },
     {
-        "title": "Today in Denmark: A roundup of the latest news on Monday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260817/today-in-denmark-a-roundup-of-the-latest-news-on-monday-57",
-        "published_date": "2026-08-17 08:18:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Maersk recovery continues: In five days the share has risen 25 percent",
+        "title": "Russian politician sentenced to 11 years in a penal camp for war resistance",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maersk-opsving-fortsaetter-paa-fem-dage-er-aktien-steget-25-procent",
-        "published_date": "2026-08-17 08:06:37",
+        "url": "https://www.dr.dk/nyheder/seneste/russisk-politiker-doemt-til-11-aar-i-straffelejr-krigsmodstand",
+        "published_date": "2026-08-17 14:44:59",
         "category": "Local Events"
     },
     {
-        "title": "Police want video in case of murder of 16-year-old",
+        "title": "Bonnie Tyler has been buried today",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-video-i-sag-om-drab-paa-16-aarig",
-        "published_date": "2026-08-17 07:47:41",
+        "url": "https://www.dr.dk/nyheder/seneste/bonnie-tyler-er-blevet-begravet-i-dag",
+        "published_date": "2026-08-17 14:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cargo ship hijacked off Somalia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fragtskib-kapret-ud-somalia",
+        "published_date": "2026-08-17 13:58:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Danish CEO fired in Swiss company",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-dansk-topchef-fyret-i-schweizisk-selskab",
+        "published_date": "2026-08-17 13:29:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man remanded in custody in case of stabbing in Horsens",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-varetaegtsfaengslet-i-sag-om-knivstikkeri-i-horsens",
+        "published_date": "2026-08-17 13:23:22",
         "category": "Local Events"
     }
 ]
