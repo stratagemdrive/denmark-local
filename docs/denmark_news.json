@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Military Music Festival in Moscow is cancelled",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/militaermusikfestival-i-moskva-er-aflyst",
+        "published_date": "2026-08-17 10:11:13",
+        "category": "Military"
+    },
+    {
+        "title": "Man gets 12 years for being responsible for the Danish part of drug dealing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-faar-12-aar-for-at-staa-for-dansk-del-af-narkoforretning?referrer=RSS",
+        "published_date": "2026-08-17 10:09:45",
+        "category": "Military"
+    },
+    {
         "title": "Trump wants to cut back on military exercises with South Korea",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-vil-skaere-ned-paa-militaeroevelser-med-sydkorea?referrer=RSS",
@@ -231,13 +245,6 @@
         "category": "Military"
     },
     {
-        "title": "Drones can become the new weapon in the fight against the dreaded caterpillar",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/droner-kan-blive-det-nye-vaaben-i-kamp-mod-frygtet-larve",
-        "published_date": "2026-08-09 07:00:19",
-        "category": "Military"
-    },
-    {
         "title": "Two women lose their lives in floods and landslides in Spain",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/to-kvinder-mister-livet-i-oversvoemmelser-og-jordskred-i-spanien?referrer=RSS",
@@ -266,11 +273,18 @@
         "category": "Energy"
     },
     {
-        "title": "Wind turbines spin and forests of solar cells rise: Yet the world thermometer rises with unprecedented speed",
+        "title": "This is how Japan can crush the American economy",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/videnskab/vindmoeller-snurrer-og-skove-af-solceller-rejser-sig-alligevel-gaar-verdenstermometeret-i-vejret-med-uhoert-hast?referrer=RSS",
-        "published_date": "2026-08-09 10:40:37",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/oekonomi/saadan-kan-japan-knuse-den-amerikanske-oekonomi?referrer=RSS",
+        "published_date": "2026-08-17 10:52:46",
+        "category": "Economy"
+    },
+    {
+        "title": "We must protect the everyday life of Copenhageners.But a tourist tax hits the wrong problem",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/vi-skal-beskytte-koebenhavnernes-hverdag-men-en-turistskat-rammer-det-forkerte-problem?referrer=RSS",
+        "published_date": "2026-08-17 10:38:50",
+        "category": "Economy"
     },
     {
         "title": "American tourists are everywhere, and there are more and more of them",
@@ -329,143 +343,143 @@
         "category": "Economy"
     },
     {
-        "title": "Ebola outbreak in DR Congo is the country's deadliest",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ebolaudbrud-i-dr-congo-er-landets-mest-doedelige?referrer=RSS",
-        "published_date": "2026-08-16 22:54:47",
+        "title": "SAS launch direct route from Denmark to India for first time in 17 years",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260817/sas-launch-direct-route-from-denmark-to-india-for-first-time-in-17-years",
+        "published_date": "2026-08-17 12:45:56",
         "category": "Local Events"
     },
     {
-        "title": "Ebola outbreak in DR Congo is the country's deadliest",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ebolaudbrud-i-dr-congo-er-landets-mest-doedelige",
-        "published_date": "2026-08-16 22:47:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Belgium struggles to contain wildfire on its way to Germany",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/belgien-kaemper-for-at-taemme-naturbrand-paa-vej-mod-tyskland?referrer=RSS",
-        "published_date": "2026-08-16 22:35:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five teenagers have died in Ireland in a wrong-way traffic accident",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fem-teenagere-er-doede-i-irland-i-trafikulykke-mod-koerselsretning?referrer=RSS",
-        "published_date": "2026-08-16 21:45:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police: Tarling cut a corner and was hit by van",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/politi-tarling-skar-et-hjoerne-og-blev-ramt-af-varevogn?referrer=RSS",
-        "published_date": "2026-08-16 20:27:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two dead in fire on Greek island near Athens - tourists evacuated",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/doede-i-brand-paa-graesk-oe-naer-athen-turister-evakueret",
-        "published_date": "2026-08-16 16:57:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three have been injured during a scuffle in the hotel reception in Amager",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-er-kommet-til-skade-under-haandgemaeng-i-hotelreception-paa-amager",
-        "published_date": "2026-08-16 14:26:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parts of the Belgian wildfire are under control",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/belgisk-naturbrand-er-under-kontrol",
-        "published_date": "2026-08-16 13:48:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorcyclist dies in road accident",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/motorcyklist-afgaaet-ved-doeden-i-faerdselsuheld",
-        "published_date": "2026-08-16 11:56:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Stabbed his best friend under the influence of drugs: 32-year-old jailed for attempted murder",
+        "title": "- I woke up to my wife screaming and crying: Married couple brutally assaulted in Airbnb villa",
         "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/stak-sin-bedste-ven-ned-i-narkorus-32-aarig-faengslet-for-drabsforsoeg?rss",
-        "published_date": "2026-08-16 11:35:00",
+        "url": "https://fyens.dk/112/jeg-vaagnede-ved-at-min-kone-skreg-og-graed-par-lejede-villa-og-blev-ofre-for-brutalt-overfald?rss",
+        "published_date": "2026-08-17 12:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Killed high school student's older brother thanks for the care: \"Last Friday, what should never happen happened\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/draebt-gymnasieelevs-storebror-takker-for-omsorgen-i-fredags-skete-det-der-aldrig-maatte-ske?referrer=RSS",
-        "published_date": "2026-08-16 11:08:50",
+        "title": "Denmark launches unified emergency psychiatric hotline",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260817/denmark-launches-unified-emergency-psychiatric-hotline",
+        "published_date": "2026-08-17 11:33:27",
         "category": "Local Events"
     },
     {
-        "title": "Russian governor reports massive drone attack in Moscow",
+        "title": "State accounts are without significant errors despite minor criticism",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/russisk-guvernoer-melder-om-massivt-droneangreb-i-moskva?referrer=RSS",
-        "published_date": "2026-08-16 10:47:45",
+        "url": "https://www.berlingske.dk/politik/statsregnskab-er-uden-vaesentlige-fejl-trods-mindre-kritik?referrer=RSS",
+        "published_date": "2026-08-17 11:13:46",
         "category": "Local Events"
     },
     {
-        "title": "Danish marathon runners finish far back in the EC field",
+        "title": "The caterpillar from hell is recorded in the slang dictionary",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/danske-maratonloebere-slutter-langt-tilbage-i-em-felt?referrer=RSS",
-        "published_date": "2026-08-16 10:09:46",
+        "url": "https://www.berlingske.dk/danmark/larven-fra-helvede-optages-i-slangordbog?referrer=RSS",
+        "published_date": "2026-08-17 10:59:43",
         "category": "Local Events"
     },
     {
-        "title": "Greater calm fuels Christophersen's dream of a top-10 finish",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/stoerre-ro-giver-naering-til-christophersens-droem-om-top-10?referrer=RSS",
-        "published_date": "2026-08-16 10:01:44",
+        "title": "Man must spend 12 years behind bars for possession of pistols and several hundred kilos of drugs",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-skal-12-aar-bag-tremmer-besiddelse-af-pistoler-og-flere-hundrede-kilo-narko",
+        "published_date": "2026-08-17 10:53:43",
         "category": "Local Events"
     },
     {
-        "title": "The left wing fails the moderate Muslims when they turn their eyes away from Islamism",
+        "title": "Wammen opens for changes to change of ownership insurance",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/venstrefloejen-svigter-de-moderate-muslimer-naar-de-vender-blikket-vaek-fra-islamismen?referrer=RSS",
-        "published_date": "2026-08-16 10:00:10",
+        "url": "https://www.berlingske.dk/virksomheder/wammen-aabner-for-aendringer-af-ejerskifteforsikring?referrer=RSS",
+        "published_date": "2026-08-17 10:52:35",
         "category": "Local Events"
     },
     {
-        "title": "For many young people, the student hall becomes the final station.New report should set alarm bells ringing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/for-mange-unge-bliver-studenterhuen-endestationen-ny-rapport-boer-faa-alarmklokkerne-til-at-ringe?referrer=RSS",
-        "published_date": "2026-08-16 09:57:37",
+        "title": "The expression 'the caterpillar from hell' is entered in the slang dictionary",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/udtrykket-larven-fra-helvede-optages-i-slang-ordbog",
+        "published_date": "2026-08-17 10:49:12",
         "category": "Local Events"
     },
     {
-        "title": "Danish men's team cap swims in the EC final",
+        "title": "Iraqi-Kurdish prime minister blames Iran for attack on his office",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-herreholdkap-svoemmer-sig-i-em-finalen?referrer=RSS",
-        "published_date": "2026-08-16 09:41:45",
+        "url": "https://www.berlingske.dk/internationalt/irakisk-kurdisk-premierminister-beskylder-iran-for-angreb-mod-sit-kontor?referrer=RSS",
+        "published_date": "2026-08-17 10:39:44",
         "category": "Local Events"
     },
     {
-        "title": "Strong winds and rain hit Hawaii in connection with the hurricane",
+        "title": "OpenAI is characterized by massive unrest ahead of a potential IPO: Several employees are leaving top positions",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kraftig-vind-og-regn-rammer-hawaii-i-forbindelse-med-orkan?referrer=RSS",
-        "published_date": "2026-08-16 09:19:45",
+        "url": "https://www.berlingske.dk/virksomheder/openai-praeges-af-massiv-uro-forud-for-potentiel-boersnotering-flere-medarbejdere-forlader-topposter?referrer=RSS",
+        "published_date": "2026-08-17 10:39:01",
         "category": "Local Events"
     },
     {
-        "title": "The incredible story has exploded on the web: Did purunge Lasse grow up in India's slums?",
+        "title": "Bent Winther: Dragsted is pressuring the government \u2013 \u200b\u200bbut it is a risky strategy",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/den-utrolige-historie-er-eksploderet-paa-nettet-voksede-purunge-lasse-op-i-indiens-slum?referrer=RSS",
-        "published_date": "2026-08-16 09:18:07",
+        "url": "https://www.berlingske.dk/politik/bent-winther-dragsted-presser-regeringen--men-det-er-en-risikabel-strategi?referrer=RSS",
+        "published_date": "2026-08-17 10:34:19",
         "category": "Local Events"
     },
     {
-        "title": "Legendary artist collective drowns: \"Better luck next time\"",
+        "title": "New psychologist helps couples in DR's Married at First Sight",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kunst/legendarisk-kunstnerkollektiv-druknerbedre-held-naeste-gang?referrer=RSS",
-        "published_date": "2026-08-16 09:03:58",
+        "url": "https://www.berlingske.dk/danmark/ny-psykolog-hjaelper-par-i-drs-gift-ved-foerste-blik?referrer=RSS",
+        "published_date": "2026-08-17 10:19:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "For the first time in six years, the Netherlands has confirmed West Nile fever",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/foerste-gang-i-seks-aar-har-holland-konstateret-vestnilfeber",
+        "published_date": "2026-08-17 09:32:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "SAS opens direct route to Mumbai",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sas-aabner-direkte-rute-til-mumbai",
+        "published_date": "2026-08-17 09:21:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Totalkredit moves to the top",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/totalkredit-rokerer-paa-toppost",
+        "published_date": "2026-08-17 08:58:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "New 'mourning bandage' must make grief visible",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nyt-moderne-soergebind-skal-goere-sorgen-synlig",
+        "published_date": "2026-08-17 08:28:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Animal Protection was extremely busy in June and July",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dyrenes-beskyttelse-havde-rekordtravlt-i-juni-og-juli",
+        "published_date": "2026-08-17 08:24:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Monday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260817/today-in-denmark-a-roundup-of-the-latest-news-on-monday-57",
+        "published_date": "2026-08-17 08:18:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maersk recovery continues: In five days the share has risen 25 percent",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maersk-opsving-fortsaetter-paa-fem-dage-er-aktien-steget-25-procent",
+        "published_date": "2026-08-17 08:06:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police want video in case of murder of 16-year-old",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-video-i-sag-om-drab-paa-16-aarig",
+        "published_date": "2026-08-17 07:47:41",
         "category": "Local Events"
     }
 ]
