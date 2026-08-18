@@ -1,5 +1,19 @@
 [
     {
+        "title": "Drone explodes near Europe's largest nuclear power plant, killing one",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/drone-eksploderer-naer-europas-stoerst-atomkraftvaerk-og-draeber-en",
+        "published_date": "2026-08-18 14:15:09",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "US ambassador confirms Israeli attack on Syrian air base",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/amerikansk-ambassadoer-bekraefter-israelsk-angreb-paa-syrisk-luftbase",
+        "published_date": "2026-08-18 12:28:25",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The speech here has seriously provoked anger in the White House: Now the top Democrat on stage is called a \"crowling, feminine theater boy\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/talen-her-har-for-alvor-vakt-vrede-i-det-hvide-hus-nu-kaldes-topdemokraten-paa-scenen-en-taakrummende-feminin-teaterdreng?referrer=RSS",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Eurovision to bar countries at war from hosting",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260813/eurovision-to-bar-countries-at-war-from-hosting",
-        "published_date": "2026-08-13 09:35:09",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Thursday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260813/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-52",
-        "published_date": "2026-08-13 09:07:54",
-        "category": "Diplomacy"
+        "title": "The fired minister demands elections in Ukraine despite the war against Russia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fyret-minister-kraever-valg-i-ukraine-trods-krigen-mod-rusland?referrer=RSS",
+        "published_date": "2026-08-18 20:41:45",
+        "category": "Military"
     },
     {
         "title": "Russian missile attack kills ten in Ukraine, governor says",
@@ -245,18 +252,11 @@
         "category": "Military"
     },
     {
-        "title": "Mayor reports ballistic missiles over Kyiv",
+        "title": "Iraq approves special arrangement for oil exports for three months",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/borgmester-melder-om-ballistiske-missiler-over-kyiv?referrer=RSS",
-        "published_date": "2026-08-10 23:06:46",
-        "category": "Military"
-    },
-    {
-        "title": "German soldiers were actually on their way home: Then they spotted a rusty Danish memorial",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/tyske-soldater-fik-oeje-paa-rustent-dansk-mindesmaerke-saa-brugte-de-soendagen-paa-det?rss",
-        "published_date": "2026-08-10 12:43:54",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/internationalt/irak-godkender-saerlig-ordning-for-olieeksport-i-tre-maaneder?referrer=RSS",
+        "published_date": "2026-08-18 23:09:45",
+        "category": "Energy"
     },
     {
         "title": "Campaign leader stops in SF in protest over handling of metoo case",
@@ -294,10 +294,38 @@
         "category": "Energy"
     },
     {
+        "title": "Strong earthquake in Colombia costs the country billions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kraftigt-jordskaelv-i-colombia-koster-landet-milliarder?referrer=RSS",
+        "published_date": "2026-08-18 22:40:47",
+        "category": "Economy"
+    },
+    {
+        "title": "New forecast: Danish economy performing better than expected",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260818/new-forecast-danish-economy-performing-better-than-expected",
+        "published_date": "2026-08-18 13:43:14",
+        "category": "Economy"
+    },
+    {
+        "title": "The chairman of the Economic Council stops",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/de-oekonomiske-raads-formand-stopper",
+        "published_date": "2026-08-18 12:20:52",
+        "category": "Economy"
+    },
+    {
         "title": "Danish entrepreneurs got money from tech prince Peter Thiel.But the millions pour out of their company",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/danske-ivaerksaettere-fik-penge-fra-techfyrsten-peter-thiel-men-millionerne-vaelter-ud-af-deres-firma?referrer=RSS",
         "published_date": "2026-08-18 10:15:45",
+        "category": "Economy"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260818/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-60",
+        "published_date": "2026-08-18 08:20:47",
         "category": "Economy"
     },
     {
@@ -343,18 +371,130 @@
         "category": "Economy"
     },
     {
-        "title": "Strengthened legal certainty for taxpayers should be the lifeblood of social democracy",
+        "title": "Liberia receives up to 1,200 people deported from the United States",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/styrket-retssikkerhed-for-skatteborgerne-boer-vaere-socialdemokratisk-hjerteblod?referrer=RSS",
-        "published_date": "2026-08-10 19:24:50",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/liberia-modtager-op-til-1200-personer-udvist-fra-usa?referrer=RSS",
+        "published_date": "2026-08-18 21:58:47",
+        "category": "Local Events"
     },
     {
-        "title": "The organization wants help from municipalities to handle more weddings",
+        "title": "The United Arab Emirates suspends all trade with Iran",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/organisation-vil-have-hjaelp-til-kommuner-for-at-haandtere-flere-vielser?referrer=RSS",
-        "published_date": "2026-08-10 11:21:44",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/de-forenede-arabiske-emirater-indstiller-al-handel-med-iran?referrer=RSS",
+        "published_date": "2026-08-18 21:16:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish striker brings Viking closer to the Champions League",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dansk-angriber-brager-viking-taettere-paa-champions-league?referrer=RSS",
+        "published_date": "2026-08-18 20:58:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "OpenAI launches new version of ChatGPT for teenagers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/openai-lancerer-ny-version-af-chatgpt-til-teenagere?referrer=RSS",
+        "published_date": "2026-08-18 20:23:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "ZZ Top drummer Frank Beard has died",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zz-tops-trommeslager-frank-beard-er-doed",
+        "published_date": "2026-08-18 20:05:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Premier League boss understands frustration over protracted City case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/premier-league-boss-forstaar-frustration-over-langvarig-city-sag?referrer=RSS",
+        "published_date": "2026-08-18 19:59:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "She wore the Star of David around her neck during the party leader debate - then the hate messages came flooding in",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hun-bar-davidsstjernen-om-halsen-under-partilederdebatten--saa-stormede-hadbeskederne-ind?referrer=RSS",
+        "published_date": "2026-08-18 19:52:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bayern's Musiala is doing well despite another collapse",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/bayerns-musiala-har-det-godt-trods-nyt-kollaps?referrer=RSS",
+        "published_date": "2026-08-18 19:34:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ikea opens recycling store for the British",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ikea-aabner-genbrugsbutik-til-briterne",
+        "published_date": "2026-08-18 19:26:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "US sanctions ICC president",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-sanktionerer-icc-s-praesident",
+        "published_date": "2026-08-18 19:14:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "The death toll rises after ferry capsizing in Zimbabwe",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doedstallet-stiger-efter-faergeforlis-i-zimbabwe",
+        "published_date": "2026-08-18 18:48:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "11 cases of measles in Sweden are linked to the festival",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/11-tilfaelde-af-maeslinger-i-sverige-kobles-til-festival",
+        "published_date": "2026-08-18 15:23:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Odensean developer reported to the police",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/odenseansk-bygherre-meldt-til-politiet",
+        "published_date": "2026-08-18 15:09:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Acquitted of sharing satirical drawing",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/frikendt-dele-satirisk-tegning",
+        "published_date": "2026-08-18 13:45:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump shares map of Strait of Hormuz as 'new US territory'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-deler-kort-over-hormuzstraedet-som-nyt-amerikansk-territorium",
+        "published_date": "2026-08-18 13:01:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ethiopian woman arrested at Copenhagen Airport with 46 kilos of khat",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/etiopisk-kvinde-anholdt-i-koebenhavns-lufthavn-med-46-kilo-khat",
+        "published_date": "2026-08-18 11:54:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark records less rain than normal for ninth consecutive month",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260818/denmark-records-less-rain-than-normal-for-ninth-consecutive-month",
+        "published_date": "2026-08-18 11:53:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "More plastic bottles are coming back with lids after a new directive came into force",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-plastikflasker-kommer-tilbage-med-laag-efter-nyt-direktiv-traadte-i-kraft",
+        "published_date": "2026-08-18 11:33:52",
+        "category": "Local Events"
     },
     {
         "title": "WHO expects control of the Ebola outbreak in DR Congo within three months",
@@ -368,132 +508,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/faetter-til-bashar-al-assad-doemmes-til-doeden",
         "published_date": "2026-08-18 10:48:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "SAS drops planned flight route - this is how you stand as a customer",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/sas-dropper-planlagt-flyrute--saadan-staar-du-som-kunde?referrer=RSS",
-        "published_date": "2026-08-18 10:37:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lidegaard in court: I said it sharply and sought debate",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/lidegaard-i-retten-jeg-sagde-det-skarpt-og-soegte-debat?referrer=RSS",
-        "published_date": "2026-08-18 10:35:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Funen Police takes 'new investigative steps' in case of stone throwing",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fyns-politi-tager-nye-efterforskningsskridt-i-sag-om-stenkast",
-        "published_date": "2026-08-18 10:34:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two men charged with importing 13 kilos of amphetamine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/to-maend-sigtet-for-indfoersel-af-13-kilo-amfetamin?referrer=RSS",
-        "published_date": "2026-08-18 10:32:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish champion club buys Danish midfielder",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/svensk-mesterklub-koeber-dansk-midtbanespiller?referrer=RSS",
-        "published_date": "2026-08-18 10:03:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Accusations of oppression, lies and cheating with books.Community debaters have spread wild rumors en masse about well-known Danes",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kultur/anklager-om-undertrykkelse-loegne-og-fusk-med-boeger-samfundsdebattoerer-har-spredt-vilde-rygter-i-massevis-om-kendte-danskere?referrer=RSS",
-        "published_date": "2026-08-18 10:00:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atl\u00e9tico has found a like-minded person in Morten Hjulmand",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/atletico-har-fundet-en-ligesindet-i-morten-hjulmand?referrer=RSS",
-        "published_date": "2026-08-18 09:57:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Citizens' proposal on Afghanistan investigation reaches 50,000 signatures",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/borgerforslag-om-afghanistan-udredning-rammer-50000-underskrifter?referrer=RSS",
-        "published_date": "2026-08-18 09:57:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Red Crescent in Libya: The bodies of nine migrants have washed ashore",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/roede-halvmaane-i-libyen-ligene-af-ni-migranter-er-skyllet-op-paa-land",
-        "published_date": "2026-08-18 09:33:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Conscripts have been sent on training in Greenland for the first time",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vaernepligtige-er-sendt-paa-oevelse-i-groenland-foerste-gang",
-        "published_date": "2026-08-18 09:23:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "7,600 employees are informed of a possible leak of personal data following a hacker attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/7-600-medarbejdere-orienteres-om-muligt-laek-af-personoplysninger-efter-hackerangreb",
-        "published_date": "2026-08-18 09:01:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Morten Pape's debut novel is being adapted into a film",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/morten-papes-debutroman-filmatiseres",
-        "published_date": "2026-08-18 08:32:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "26-year-old man arrested and charged with complicity in the murder of Amager",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/26-aarig-mand-anholdt-og-sigtet-medvirken-til-drab-paa-amager",
-        "published_date": "2026-08-18 08:21:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Truck and car in violent head-on collision: 18-year-old lost his life",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/trekantomraadet/lastbil-og-personbil-i-voldsomt-frontalsammenstoed-fastklemte-efter-alvorligt-uheld?rss",
-        "published_date": "2026-08-18 07:43:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Blocking of Halmtorvet in Copenhagen has been lifted",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/halmtorvet-i-koebenhavn-spaerret-efter-klorudbrud-luk-doere-og-vinduer",
-        "published_date": "2026-08-18 07:13:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ship hit by 'unknown projectile' in the Strait of Hormuz",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skib-ramt-af-ukendt-projektil-i-hormuzstraedet",
-        "published_date": "2026-08-18 04:20:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russian Wildberries are again reported to be affected by drone attacks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/russiske-wildberries-meldes-igen-ramt-af-droneangreb",
-        "published_date": "2026-08-18 04:02:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "In a telephone conversation, Erdogan urges Trump to negotiate with Iran",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/erdogan-opfordrer-i-telefonsamtale-trump-til-forhandle-med-iran",
-        "published_date": "2026-08-18 02:46:14",
         "category": "Local Events"
     }
 ]
