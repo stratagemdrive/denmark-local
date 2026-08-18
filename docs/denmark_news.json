@@ -1,5 +1,12 @@
 [
     {
+        "title": "The speech here has seriously provoked anger in the White House: Now the top Democrat on stage is called a \"crowling, feminine theater boy\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/talen-her-har-for-alvor-vakt-vrede-i-det-hvide-hus-nu-kaldes-topdemokraten-paa-scenen-en-taakrummende-feminin-teaterdreng?referrer=RSS",
+        "published_date": "2026-08-18 10:44:33",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Erdogan has no ambitions for Turkish EU membership",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/erdogan-har-ingen-ambitioner-om-tyrkisk-eu-medlemskab",
@@ -133,11 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Popular holiday town to host Eurovision 2027",
+        "title": "Russian missile attack kills ten in Ukraine, governor says",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/populaer-ferieby-skal-vaere-vaert-eurovision-2027",
-        "published_date": "2026-08-13 08:27:00",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/russisk-missilangreb-draeber-ti-i-ukraine-siger-guvernoer",
+        "published_date": "2026-08-18 07:08:59",
+        "category": "Military"
+    },
+    {
+        "title": "Germany's military reaches recruitment targets months ahead of schedule",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tysklands-militaer-naar-rekrutteringsmaal-flere-maaneder-foer-tid",
+        "published_date": "2026-08-18 06:02:58",
+        "category": "Military"
+    },
+    {
+        "title": "Temporary military area at Aarhus Harbor for the next two days",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/midlertidigt-militaert-omraade-paa-aarhus-havn-de-naeste-doegn",
+        "published_date": "2026-08-18 06:02:35",
+        "category": "Military"
     },
     {
         "title": "Military Music Festival in Moscow is cancelled",
@@ -273,6 +294,13 @@
         "category": "Energy"
     },
     {
+        "title": "Danish entrepreneurs got money from tech prince Peter Thiel.But the millions pour out of their company",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/danske-ivaerksaettere-fik-penge-fra-techfyrsten-peter-thiel-men-millionerne-vaelter-ud-af-deres-firma?referrer=RSS",
+        "published_date": "2026-08-18 10:15:45",
+        "category": "Economy"
+    },
+    {
         "title": "This is how Japan can crush the American economy",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/oekonomi/saadan-kan-japan-knuse-den-amerikanske-oekonomi?referrer=RSS",
@@ -329,150 +357,143 @@
         "category": "Economy"
     },
     {
-        "title": "Inflation fell slightly in July",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/inflationen-faldt-en-smule-i-juli",
-        "published_date": "2026-08-10 06:35:12",
-        "category": "Economy"
-    },
-    {
-        "title": "The Supreme Court again rejects a request from Trump in an abuse case",
+        "title": "WHO expects control of the Ebola outbreak in DR Congo within three months",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hoejesteret-afviser-igen-anmodning-fra-trump-i-overgrebssag?referrer=RSS",
-        "published_date": "2026-08-17 22:56:45",
+        "url": "https://www.berlingske.dk/internationalt/who-forventer-kontrol-med-ebolaudbrud-i-dr-congo-inden-for-tre-maaneder?referrer=RSS",
+        "published_date": "2026-08-18 11:07:45",
         "category": "Local Events"
     },
     {
-        "title": "Trump envoy expects imminent progress in disarming Hamas",
+        "title": "Cousin of Bashar al-Assad sentenced to death",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/faetter-til-bashar-al-assad-doemmes-til-doeden",
+        "published_date": "2026-08-18 10:48:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "SAS drops planned flight route - this is how you stand as a customer",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-udsending-forventer-snarlige-fremskridt-i-afvaebning-af-hamas?referrer=RSS",
-        "published_date": "2026-08-17 22:27:45",
+        "url": "https://www.berlingske.dk/virksomheder/sas-dropper-planlagt-flyrute--saadan-staar-du-som-kunde?referrer=RSS",
+        "published_date": "2026-08-18 10:37:06",
         "category": "Local Events"
     },
     {
-        "title": "Mangione's trial postponed after confession",
+        "title": "Lidegaard in court: I said it sharply and sought debate",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/retssag-mod-mangione-udskydes-efter-tilstaaelse?referrer=RSS",
-        "published_date": "2026-08-17 21:45:47",
+        "url": "https://www.berlingske.dk/indland/lidegaard-i-retten-jeg-sagde-det-skarpt-og-soegte-debat?referrer=RSS",
+        "published_date": "2026-08-18 10:35:45",
         "category": "Local Events"
     },
     {
-        "title": "3.2 million Danes now have private health insurance",
+        "title": "Funen Police takes 'new investigative steps' in case of stone throwing",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fyns-politi-tager-nye-efterforskningsskridt-i-sag-om-stenkast",
+        "published_date": "2026-08-18 10:34:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men charged with importing 13 kilos of amphetamine",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/32-millioner-danskere-har-nu-en-privat-sundhedsforsikring?referrer=RSS",
-        "published_date": "2026-08-17 21:20:44",
+        "url": "https://www.berlingske.dk/indland/to-maend-sigtet-for-indfoersel-af-13-kilo-amfetamin?referrer=RSS",
+        "published_date": "2026-08-18 10:32:47",
         "category": "Local Events"
     },
     {
-        "title": "Digital services shape our reality \u2013 but the responsibility does not come with it",
+        "title": "Swedish champion club buys Danish midfielder",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/digitale-tjenester-former-vores-virkelighed--men-ansvaret-foelger-ikke-med?referrer=RSS",
-        "published_date": "2026-08-17 21:09:24",
+        "url": "https://www.berlingske.dk/sport/svensk-mesterklub-koeber-dansk-midtbanespiller?referrer=RSS",
+        "published_date": "2026-08-18 10:03:45",
         "category": "Local Events"
     },
     {
-        "title": "Dead professor remembered in London",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/doed-professor-mindet-i-london",
-        "published_date": "2026-08-17 20:14:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Perhaps it is not the \"victim role\" that fills Christiansborg.But the fear of the Danish People's Party's comeback",
+        "title": "Accusations of oppression, lies and cheating with books.Community debaters have spread wild rumors en masse about well-known Danes",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/maaske-er-det-ikke-offerrollen-der-fylder-paa-christiansborg-men-frygten-for-dansk-folkepartis-comeback?referrer=RSS",
-        "published_date": "2026-08-17 20:08:38",
+        "url": "https://www.berlingske.dk/kultur/anklager-om-undertrykkelse-loegne-og-fusk-med-boeger-samfundsdebattoerer-har-spredt-vilde-rygter-i-massevis-om-kendte-danskere?referrer=RSS",
+        "published_date": "2026-08-18 10:00:15",
         "category": "Local Events"
     },
     {
-        "title": "Why rewrite Little Peter Spider?There are better ways to challenge gender stereotypes",
+        "title": "Atl\u00e9tico has found a like-minded person in Morten Hjulmand",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/hvorfor-omskrive-lille-peter-edderkop-der-findes-bedre-maader-at-udfordre-koensstereotyper-paa?referrer=RSS",
-        "published_date": "2026-08-17 20:07:59",
+        "url": "https://www.berlingske.dk/sport/atletico-har-fundet-en-ligesindet-i-morten-hjulmand?referrer=RSS",
+        "published_date": "2026-08-18 09:57:57",
         "category": "Local Events"
     },
     {
-        "title": "Media: Fifa fires director after open criticism of Infantino",
+        "title": "Citizens' proposal on Afghanistan investigation reaches 50,000 signatures",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/medier-fifa-fyrer-direktoer-efter-aaben-kritik-af-infantino?referrer=RSS",
-        "published_date": "2026-08-17 19:55:47",
+        "url": "https://www.berlingske.dk/danmark/borgerforslag-om-afghanistan-udredning-rammer-50000-underskrifter?referrer=RSS",
+        "published_date": "2026-08-18 09:57:45",
         "category": "Local Events"
     },
     {
-        "title": "The US will not extend the Memorandum of Understanding",
+        "title": "Red Crescent in Libya: The bodies of nine migrants have washed ashore",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-vil-ikke-forlaenge-forstaaelsespapir",
-        "published_date": "2026-08-17 19:33:31",
+        "url": "https://www.dr.dk/nyheder/seneste/roede-halvmaane-i-libyen-ligene-af-ni-migranter-er-skyllet-op-paa-land",
+        "published_date": "2026-08-18 09:33:48",
         "category": "Local Events"
     },
     {
-        "title": "Br\u00f8ndby averted meltdown: It became a bit of a freak show",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/broendby-afvaergede-nedsmeltning-det-blev-lidt-et-freakshow?referrer=RSS",
-        "published_date": "2026-08-17 19:32:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The king of Norway has been hospitalized",
+        "title": "Conscripts have been sent on training in Greenland for the first time",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norges-konge-er-blevet-indlagt",
-        "published_date": "2026-08-17 17:14:34",
+        "url": "https://www.dr.dk/nyheder/seneste/vaernepligtige-er-sendt-paa-oevelse-i-groenland-foerste-gang",
+        "published_date": "2026-08-18 09:23:34",
         "category": "Local Events"
     },
     {
-        "title": "Meeting between Netanyahu and the peace council results in working groups",
+        "title": "7,600 employees are informed of a possible leak of personal data following a hacker attack",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/moede-mellem-netanyahu-og-fredsraadet-munder-ud-i-arbejdsgrupper",
-        "published_date": "2026-08-17 16:59:08",
+        "url": "https://www.dr.dk/nyheder/seneste/7-600-medarbejdere-orienteres-om-muligt-laek-af-personoplysninger-efter-hackerangreb",
+        "published_date": "2026-08-18 09:01:28",
         "category": "Local Events"
     },
     {
-        "title": "The \u00d8resund motorway has reopened after an accident",
+        "title": "Morten Pape's debut novel is being adapted into a film",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/oeresundsbroen-spaerret-i-retning-mod-sverige",
-        "published_date": "2026-08-17 16:51:34",
+        "url": "https://www.dr.dk/nyheder/seneste/morten-papes-debutroman-filmatiseres",
+        "published_date": "2026-08-18 08:32:10",
         "category": "Local Events"
     },
     {
-        "title": "The Supreme Court rejects Trump's wish in the compensation case",
+        "title": "26-year-old man arrested and charged with complicity in the murder of Amager",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hoejesteret-afviser-trumps-oenske-i-erstatningssag",
-        "published_date": "2026-08-17 14:52:09",
+        "url": "https://www.dr.dk/nyheder/seneste/26-aarig-mand-anholdt-og-sigtet-medvirken-til-drab-paa-amager",
+        "published_date": "2026-08-18 08:21:12",
         "category": "Local Events"
     },
     {
-        "title": "Russian politician sentenced to 11 years in a penal camp for war resistance",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/russisk-politiker-doemt-til-11-aar-i-straffelejr-krigsmodstand",
-        "published_date": "2026-08-17 14:44:59",
+        "title": "Truck and car in violent head-on collision: 18-year-old lost his life",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/trekantomraadet/lastbil-og-personbil-i-voldsomt-frontalsammenstoed-fastklemte-efter-alvorligt-uheld?rss",
+        "published_date": "2026-08-18 07:43:00",
         "category": "Local Events"
     },
     {
-        "title": "Bonnie Tyler has been buried today",
+        "title": "Blocking of Halmtorvet in Copenhagen has been lifted",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bonnie-tyler-er-blevet-begravet-i-dag",
-        "published_date": "2026-08-17 14:00:44",
+        "url": "https://www.dr.dk/nyheder/seneste/halmtorvet-i-koebenhavn-spaerret-efter-klorudbrud-luk-doere-og-vinduer",
+        "published_date": "2026-08-18 07:13:41",
         "category": "Local Events"
     },
     {
-        "title": "Cargo ship hijacked off Somalia",
+        "title": "Ship hit by 'unknown projectile' in the Strait of Hormuz",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fragtskib-kapret-ud-somalia",
-        "published_date": "2026-08-17 13:58:13",
+        "url": "https://www.dr.dk/nyheder/seneste/skib-ramt-af-ukendt-projektil-i-hormuzstraedet",
+        "published_date": "2026-08-18 04:20:33",
         "category": "Local Events"
     },
     {
-        "title": "Former Danish CEO fired in Swiss company",
+        "title": "Russian Wildberries are again reported to be affected by drone attacks",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-dansk-topchef-fyret-i-schweizisk-selskab",
-        "published_date": "2026-08-17 13:29:45",
+        "url": "https://www.dr.dk/nyheder/seneste/russiske-wildberries-meldes-igen-ramt-af-droneangreb",
+        "published_date": "2026-08-18 04:02:21",
         "category": "Local Events"
     },
     {
-        "title": "Man remanded in custody in case of stabbing in Horsens",
+        "title": "In a telephone conversation, Erdogan urges Trump to negotiate with Iran",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-varetaegtsfaengslet-i-sag-om-knivstikkeri-i-horsens",
-        "published_date": "2026-08-17 13:23:22",
+        "url": "https://www.dr.dk/nyheder/seneste/erdogan-opfordrer-i-telefonsamtale-trump-til-forhandle-med-iran",
+        "published_date": "2026-08-18 02:46:14",
         "category": "Local Events"
     }
 ]
