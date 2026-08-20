@@ -1,5 +1,12 @@
 [
     {
+        "title": "While the rest of the EU makes the sign of the cross, the locals remain hostages in the migrant drama",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mens-resten-af-eu-goer-korsets-tegn-er-de-lokale-fortsat-gidsler-i-migrantdrama?referrer=RSS",
+        "published_date": "2026-08-20 19:58:11",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Europaplads may be on the way in Copenhagen",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/europaplads-kan-vaere-paa-vej-i-koebenhavn",
@@ -130,13 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/israelsk-virksomhed-traekker-sig-som-hovedsponsor-for-eurovision?referrer=RSS",
         "published_date": "2026-08-13 21:28:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "FCN humiliate Icelanders and are ready for European playoff",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fcn-ydmyger-islaendinge-og-er-klar-til-europaeisk-playoff?referrer=RSS",
-        "published_date": "2026-08-13 19:50:46",
         "category": "Diplomacy"
     },
     {
@@ -294,11 +294,18 @@
         "category": "Energy"
     },
     {
-        "title": "FACT: Doctor dares to swim against the current",
+        "title": "Iran responds again to US threats and calls new sanctions 'economic terror'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-svarer-igen-paa-amerikanske-trusler-og-kalder-nye-sanktioner-oekonomisk-terror",
+        "published_date": "2026-08-20 23:04:58",
+        "category": "Economy"
+    },
+    {
+        "title": "Iran calls new US sanctions economic terror",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/fakta-laege-toer-svoemme-mod-stroemmen?referrer=RSS",
-        "published_date": "2026-08-12 22:02:45",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/internationalt/iran-kalder-nye-amerikanske-sanktioner-for-oekonomisk-terror?referrer=RSS",
+        "published_date": "2026-08-20 19:33:45",
+        "category": "Economy"
     },
     {
         "title": "Trump warns of 'economic D-Day' against Iran",
@@ -385,11 +392,130 @@
         "category": "Economy"
     },
     {
-        "title": "Small drop in US inflation",
+        "title": "Man arrested for stabbing another man in Herning",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-anholdt-for-knivstikkeri-paa-anden-mand-i-herning?referrer=RSS",
+        "published_date": "2026-08-20 23:04:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pakistan's former leader transferred from prison to hospital",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/pakistans-tidligere-leder-overflyttet-fra-faengsel-til-hospital?referrer=RSS",
+        "published_date": "2026-08-20 22:28:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US sends a replacement for a troubled warship in the Middle East",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-sender-afloeser-for-problemramt-krigsskib-i-mellemoesten?referrer=RSS",
+        "published_date": "2026-08-20 22:19:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maradona trial adjourned after allegations of evidence flaws",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/retssag-om-maradona-udskydes-efter-paastande-om-fejl-i-beviser?referrer=RSS",
+        "published_date": "2026-08-20 21:23:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Benfica blows AGF behind in the first half in Lisbon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/benfica-blaeser-agf-bagover-i-foerste-halvleg-i-lissabon?referrer=RSS",
+        "published_date": "2026-08-20 21:08:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Before the WC blast in California: Melissa Mortensen is prepared to the smallest detail",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/varde/foer-vm-braget-i-californien-melissa-mortensen-er-forberedt-til-mindste-detalje?rss",
+        "published_date": "2026-08-20 20:11:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Can Inger St\u00f8jberg actually ban \"dominance down jackets\", caps and scarves?Experts give their take",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/kan-inger-stoejberg-faktisk-forbyde-dominansdunjakker-kasketter-og-toerklaeder-eksperter-giver-deres-bud?referrer=RSS",
+        "published_date": "2026-08-20 20:04:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "FCM coach praises attacker after long goal drought ends",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fcm-traener-roser-angriber-efter-lang-maaltoerkes-afslutning?referrer=RSS",
+        "published_date": "2026-08-20 19:51:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Isam B called wearing the niqab feminist.In the Danish Women's Association, you almost get a migraine at the thought",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/isam-b-kaldte-det-feministisk-at-baere-niqab-i-dansk-kvindesamfund-faar-man-naermest-migraene-ved-tanken?referrer=RSS",
+        "published_date": "2026-08-20 19:41:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Next year's Ironman in Copenhagen sold out in record time",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lille-fald-i-den-amerikanske-inflation",
-        "published_date": "2026-08-12 14:10:52",
-        "category": "Economy"
+        "url": "https://www.dr.dk/nyheder/seneste/naeste-aars-ironman-i-koebenhavn-udsolgt-paa-rekordtid",
+        "published_date": "2026-08-20 17:19:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "What's in the Denmark Democrats' new 'Danish values' proposals for schools?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260820/whats-in-the-denmark-democrats-new-danish-values-proposals-for-schools",
+        "published_date": "2026-08-20 16:04:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Expert: Copenhagen apartment prices could be about to fall",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260820/expert-copenhagen-apartment-prices-could-be-about-to-fall",
+        "published_date": "2026-08-20 14:59:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish expression of the day: at g\u00f8re sig umage",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260820/danish-expression-of-the-day-at-gore-sig-umage",
+        "published_date": "2026-08-20 14:46:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Culture minister calls to protect Danish from English loanwords and AI",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260820/culture-minister-calls-to-protect-danish-from-english-loanwords-and-ai",
+        "published_date": "2026-08-20 14:36:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "The \u00d8resund Bridge has reopened after the accident",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/oeresundsbroen-spaerret-i-begge-retninger-efter-alvorligt-uheld",
+        "published_date": "2026-08-20 14:32:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latvia shot down Ukrainian drone",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/letland-skoed-ukrainsk-drone-ned",
+        "published_date": "2026-08-20 13:38:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Company bets on Billund: Next summer a new route to the southern sun will open",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/billund/selskab-satser-paa-billund-naeste-sommer-aabner-ny-rute-til-sydens-sol?rss",
+        "published_date": "2026-08-20 12:45:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish ice hockey hit by doping case",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/dansk-ishockey-ramt-af-dopingsag",
+        "published_date": "2026-08-20 11:43:54",
+        "category": "Local Events"
     },
     {
         "title": "Two unannounced demonstrations have caused the police to intervene: Two people\u00a0deprived of their liberty",
@@ -403,132 +529,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/stoejberg-med-15-udlaendingestramninger-vil-forbyde-toerklaeder-og-dominans-dunjakker-paa-ungdomsuddannelser?referrer=RSS",
         "published_date": "2026-08-20 11:12:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five stars: Boxing drama gave Berlingske's reviewer a clean uppercut",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/fem-stjerner-boksedrama-gav-berlingskes-anmelder-et-rent-uppercut?referrer=RSS",
-        "published_date": "2026-08-20 11:09:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "DCU drops the youth Tour de France for the first time in 20 years",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dcu-dropper-ungdommens-tour-de-france-for-foerste-gang-i-20-aar?referrer=RSS",
-        "published_date": "2026-08-20 11:07:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorist loses driving license despite four years of waiting in the legal system",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/bilist-mister-foererret-trods-fire-aars-venten-i-retssystemet?referrer=RSS",
-        "published_date": "2026-08-20 11:07:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Novonesis is on course for the biggest price increase in a decade",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/novonesis-er-paa-vej-til-stoerste-kursstigning-i-et-aarti?referrer=RSS",
-        "published_date": "2026-08-20 11:03:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man faces ten years behind bars for two guns and almost half a ton of hashish",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-skal-ti-aar-bag-tremmer-pistoler-og-knap-et-halvt-ton-hash",
-        "published_date": "2026-08-20 10:59:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "German police continue to investigate 'high pressure' after discovery of torso",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tysk-politi-efterforsker-fortsat-paa-hoejtryk-efter-fund-af-torso",
-        "published_date": "2026-08-20 10:58:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Serbia receives help from Russia to extinguish wildfires",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/serbien-faar-hjaelp-af-rusland-til-slukke-naturbrande",
-        "published_date": "2026-08-20 10:39:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Officers deny abuse of power against homeless man who was hit and killed",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/betjente-naegter-magtmisbrug-mod-hjemloes-der-blev-paakoert-og-draebt?referrer=RSS",
-        "published_date": "2026-08-20 10:32:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuddle parties and drinking are bad.But are these the reasons for the murder in Roskilde?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/puttefester-og-druk-er-skidt-men-er-det-aarsagerne-til-drabet-i-roskilde?referrer=RSS",
-        "published_date": "2026-08-20 10:26:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police officers and 12 dogs search German forest after discovery of torso",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/politifolk-og-12-hunde-gennemsoeger-tysk-skov-efter-fund-af-torso?referrer=RSS",
-        "published_date": "2026-08-20 10:25:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dizzy Mizz Lizzy cancels concert in Kongens Have",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/odense/dizzy-mizz-lizzy-aflyser-koncert-i-kongens-have?rss",
-        "published_date": "2026-08-20 10:11:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Danish Data Protection Authority closes the case regarding the Rejsekort app",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/datatilsynet-afslutter-sag-om-rejsekort-appen",
-        "published_date": "2026-08-20 09:26:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Canadian marathon route was 647 meters too long",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/canadisk-maraton-rute-var-647-meter-lang",
-        "published_date": "2026-08-20 09:10:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Thursday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260820/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-53",
-        "published_date": "2026-08-20 08:18:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Growth in Denmark is falling",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vaeksten-i-danmark-falder",
-        "published_date": "2026-08-20 07:43:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "A record number of tourists have spent the night in Denmark",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rekordmange-turister-har-overnattet-i-danmark",
-        "published_date": "2026-08-20 07:41:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mobilepay gets a new design",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mobilepay-faar-nyt-design",
-        "published_date": "2026-08-20 06:28:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hungarian citizen is due for a constitutional hearing at 10 a.m",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ungarsk-statsborger-skal-i-grundlovsforhoer-klokken-10",
-        "published_date": "2026-08-20 06:22:53",
         "category": "Local Events"
     }
 ]
