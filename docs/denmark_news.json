@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Two military vehicles have collided on Bornholm",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/militaere-koeretoejer-er-stoedt-sammen-paa-bornholm",
+        "published_date": "2026-08-21 08:25:18",
+        "category": "Military"
+    },
+    {
         "title": "South Korea calls emergency meeting on North Korean missile launch",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/sydkorea-indkalder-til-hastemoede-om-nordkoreansk-missilaffyring?referrer=RSS",
@@ -259,18 +266,11 @@
         "category": "Military"
     },
     {
-        "title": "Zelenskyj: Ukraine lacks ten times the number of Patriot missiles",
+        "title": "Energy company reported to the police for a spill of almost 70,000 liters of oil",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-ukraine-mangler-det-tidobbelte-antal-patriot-missiler",
-        "published_date": "2026-08-13 05:18:23",
-        "category": "Military"
-    },
-    {
-        "title": "Disclosure: Funen Airport is wooing the Armed Forces with an ambitious plan - Thursday is an important day",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/afsloering-fynsk-lufthavn-bejler-til-forsvaret-med-ambitioes-vaekstplan?rss",
-        "published_date": "2026-08-13 05:00:00",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/energiselskab-politianmeldt-et-spild-paa-naesten-70-000-liter-olie",
+        "published_date": "2026-08-21 09:58:16",
+        "category": "Energy"
     },
     {
         "title": "Iraq approves special arrangement for oil exports for three months",
@@ -292,6 +292,13 @@
         "url": "https://www.berlingske.dk/internationalt/to-kvinder-mister-livet-i-oversvoemmelser-og-jordskred-i-spanien?referrer=RSS",
         "published_date": "2026-08-15 23:06:45",
         "category": "Energy"
+    },
+    {
+        "title": "Danish households more positive about the economy",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260821/danish-households-more-positive-about-the-economy",
+        "published_date": "2026-08-21 11:37:11",
+        "category": "Economy"
     },
     {
         "title": "Iran responds again to US threats and calls new sanctions 'economic terror'",
@@ -392,143 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "Man arrested for stabbing another man in Herning",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-anholdt-for-knivstikkeri-paa-anden-mand-i-herning?referrer=RSS",
-        "published_date": "2026-08-20 23:04:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pakistan's former leader transferred from prison to hospital",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/pakistans-tidligere-leder-overflyttet-fra-faengsel-til-hospital?referrer=RSS",
-        "published_date": "2026-08-20 22:28:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US sends a replacement for a troubled warship in the Middle East",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-sender-afloeser-for-problemramt-krigsskib-i-mellemoesten?referrer=RSS",
-        "published_date": "2026-08-20 22:19:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Maradona trial adjourned after allegations of evidence flaws",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/retssag-om-maradona-udskydes-efter-paastande-om-fejl-i-beviser?referrer=RSS",
-        "published_date": "2026-08-20 21:23:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Benfica blows AGF behind in the first half in Lisbon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/benfica-blaeser-agf-bagover-i-foerste-halvleg-i-lissabon?referrer=RSS",
-        "published_date": "2026-08-20 21:08:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Before the WC blast in California: Melissa Mortensen is prepared to the smallest detail",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/varde/foer-vm-braget-i-californien-melissa-mortensen-er-forberedt-til-mindste-detalje?rss",
-        "published_date": "2026-08-20 20:11:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Can Inger St\u00f8jberg actually ban \"dominance down jackets\", caps and scarves?Experts give their take",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/kan-inger-stoejberg-faktisk-forbyde-dominansdunjakker-kasketter-og-toerklaeder-eksperter-giver-deres-bud?referrer=RSS",
-        "published_date": "2026-08-20 20:04:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "FCM coach praises attacker after long goal drought ends",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fcm-traener-roser-angriber-efter-lang-maaltoerkes-afslutning?referrer=RSS",
-        "published_date": "2026-08-20 19:51:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Isam B called wearing the niqab feminist.In the Danish Women's Association, you almost get a migraine at the thought",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/isam-b-kaldte-det-feministisk-at-baere-niqab-i-dansk-kvindesamfund-faar-man-naermest-migraene-ved-tanken?referrer=RSS",
-        "published_date": "2026-08-20 19:41:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Next year's Ironman in Copenhagen sold out in record time",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/naeste-aars-ironman-i-koebenhavn-udsolgt-paa-rekordtid",
-        "published_date": "2026-08-20 17:19:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "What's in the Denmark Democrats' new 'Danish values' proposals for schools?",
+        "title": "Social Democrats open to making Danish citizenship provisional for 5 years",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260820/whats-in-the-denmark-democrats-new-danish-values-proposals-for-schools",
-        "published_date": "2026-08-20 16:04:11",
+        "url": "https://www.thelocal.dk/20260821/social-democrats-open-to-making-danish-citizenship-provisional-for-5-years",
+        "published_date": "2026-08-21 12:51:40",
         "category": "Local Events"
     },
     {
-        "title": "Expert: Copenhagen apartment prices could be about to fall",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260820/expert-copenhagen-apartment-prices-could-be-about-to-fall",
-        "published_date": "2026-08-20 14:59:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish expression of the day: at g\u00f8re sig umage",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260820/danish-expression-of-the-day-at-gore-sig-umage",
-        "published_date": "2026-08-20 14:46:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Culture minister calls to protect Danish from English loanwords and AI",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260820/culture-minister-calls-to-protect-danish-from-english-loanwords-and-ai",
-        "published_date": "2026-08-20 14:36:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "The \u00d8resund Bridge has reopened after the accident",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/oeresundsbroen-spaerret-i-begge-retninger-efter-alvorligt-uheld",
-        "published_date": "2026-08-20 14:32:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latvia shot down Ukrainian drone",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/letland-skoed-ukrainsk-drone-ned",
-        "published_date": "2026-08-20 13:38:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Company bets on Billund: Next summer a new route to the southern sun will open",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/selskab-satser-paa-billund-naeste-sommer-aabner-ny-rute-til-sydens-sol?rss",
-        "published_date": "2026-08-20 12:45:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish ice hockey hit by doping case",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/dansk-ishockey-ramt-af-dopingsag",
-        "published_date": "2026-08-20 11:43:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two unannounced demonstrations have caused the police to intervene: Two people\u00a0deprived of their liberty",
+        "title": "Serie A benefits from British player boom",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/to-uanmeldt-demonstrationer-har-faaet-politiet-til-at-rykke-ud-to-personerfrihedsberoevet?referrer=RSS",
-        "published_date": "2026-08-20 11:14:16",
+        "url": "https://www.berlingske.dk/sport/serie-a-nyder-godt-af-britisk-spillerboom?referrer=RSS",
+        "published_date": "2026-08-21 11:13:51",
         "category": "Local Events"
     },
     {
-        "title": "St\u00f8jberg with 15 immigration restrictions: Will ban scarves and \"dominance down jackets\" in youth education",
+        "title": "Police: 18-year-old passed high school at 109 kilometers per hour",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/stoejberg-med-15-udlaendingestramninger-vil-forbyde-toerklaeder-og-dominans-dunjakker-paa-ungdomsuddannelser?referrer=RSS",
-        "published_date": "2026-08-20 11:12:26",
+        "url": "https://www.berlingske.dk/indland/politi-18-aarig-passerede-gymnasium-med-109-kilometer-i-timen?referrer=RSS",
+        "published_date": "2026-08-21 11:13:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "A record number of passengers creates growth at Copenhagen Airport",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/rekordmange-passagerer-skaber-vaekst-i-koebenhavns-lufthavn?referrer=RSS",
+        "published_date": "2026-08-21 11:10:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cyclist lost his life - was hit by a truck",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/cyklist-mistede-livet-blev-ramt-af-lastvogn?referrer=RSS",
+        "published_date": "2026-08-21 11:10:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The war in the Middle East continues - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krigen-i-mellemoesten-fortsaetter--foelg-med-her-48?referrer=RSS",
+        "published_date": "2026-08-21 11:08:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "V-chairman refuses to point to Messerschmidt as prime minister",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/v-formand-afviser-at-pege-paa-messerschmidt-som-statsminister?referrer=RSS",
+        "published_date": "2026-08-21 11:07:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "She is fleeing from Kim Jong-Un's brutal dictatorship - but her story is strangely irrelevant",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/hun-flygter-fra-kim-jong-uns-brutale-diktatur--men-hendes-historie-er-underligt-uvedkommende?referrer=RSS",
+        "published_date": "2026-08-21 11:05:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rasmus Gemke's World Cup adventure ends against Canadian shooting star",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/rasmus-gemkes-vm-eventyr-slutter-mod-canadisk-stjerneskud?referrer=RSS",
+        "published_date": "2026-08-21 11:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police present at school in Hvidovre: Pupils and staff left the school due to respiratory problems",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-til-stede-ved-skole-i-hvidovre-elever-og-ansatte-forlod-skolen-efter-luftvejsgener",
+        "published_date": "2026-08-21 10:57:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Novo Nordisk's summer party is expected to affect traffic",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/novo-nordisks-sommerfest-forventes-at-paavirke-trafikken?referrer=RSS",
+        "published_date": "2026-08-21 10:51:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former stateless Palestinians lose in the Supreme Court",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tidligere-statsloese-palaestinensere-taber-i-hoejesteret?referrer=RSS",
+        "published_date": "2026-08-21 10:48:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Consumer Council finds illegal PFAS substances in sports tape",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/forbrugerraad-finder-ulovlige-pfas-stoffer-i-sportstape",
+        "published_date": "2026-08-21 10:36:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former stateless Palestinians lose in the Supreme Court",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-statsloese-palaestinensere-taber-i-hoejesteret",
+        "published_date": "2026-08-21 10:09:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pending Danish citizenship applications cause rift in government",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260821/pending-danish-citizenship-applications-cause-rift-in-government",
+        "published_date": "2026-08-21 08:54:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Friday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260821/today-in-denmark-a-roundup-of-the-latest-news-on-friday-58",
+        "published_date": "2026-08-21 08:39:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Huge Novo Nordisk party can affect traffic",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/novo-nordisks-kaempe-sommerfest-kan-paavirke-trafikken",
+        "published_date": "2026-08-21 08:14:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are investigating an explosion in Copenhagen",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-undersoeger-spraengning-i-koebenhavn",
+        "published_date": "2026-08-21 07:39:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Plane with eight people crashed in Alaska",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fly-med-otte-personer-styrtet-ned-i-alaska",
+        "published_date": "2026-08-21 06:25:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "School and city buses canceled in Odder this morning",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skole-og-bybusser-aflyst-i-odder-her-til-morgen",
+        "published_date": "2026-08-21 06:01:17",
         "category": "Local Events"
     }
 ]
