@@ -1,5 +1,12 @@
 [
     {
+        "title": "2-year-old Peter lay exhausted and deathly ill in bed: He said one word his father will never forget",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/haderslev/peter-laa-afkraeftet-i-sengen-saa-sagde-han-et-ord-david-aldrig-glemmer?rss",
+        "published_date": "2026-08-22 19:05:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Heatwave-hit Europe logs over 30,000 excess summer deaths",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260822/heatwave-hit-europe-logs-over-30000-excess-summer-deaths",
@@ -126,18 +133,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Europe battles new wave of wildfires",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260814/europe-battles-new-wave-of-wildfires",
-        "published_date": "2026-08-14 14:49:54",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The author and sexologist Carl-Mar M\u00f8ller has died",
+        "title": "A young furniture designer produces drones that attack Russia",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/forfatteren-og-sexologen-carl-mar-moeller-er-doed?referrer=RSS",
-        "published_date": "2026-08-14 11:25:44",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/en-ung-moebeldesigner-producerer-droner-der-hamrer-loes-paa-rusland?referrer=RSS",
+        "published_date": "2026-08-22 19:12:14",
+        "category": "Military"
     },
     {
         "title": "Two military vehicles have collided on Bornholm",
@@ -294,6 +294,13 @@
         "category": "Energy"
     },
     {
+        "title": "Iran warns countries against supporting Trump's economic war",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-advarer-lande-om-at-stoette-trumps-oekonomiske-krig?referrer=RSS",
+        "published_date": "2026-08-22 22:48:44",
+        "category": "Economy"
+    },
+    {
         "title": "School project received 900,000 development kroner to teach young people to be \"activists\": \"Grotesque lack of respect for taxpayers\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/skoleprojekt-fik-900000-udviklingskroner-til-at-laere-unge-at-vaere-aktivister-grotesk-mangel-paa-respekt-for-skatteyderne?referrer=RSS",
@@ -406,6 +413,118 @@
         "category": "Economy"
     },
     {
+        "title": "Boxer with World Cup record shot dead outside his home in South Africa",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/bokser-med-vm-rekord-skuddraebt-uden-for-sit-hjem-i-sydafrika?referrer=RSS",
+        "published_date": "2026-08-22 23:03:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Boxer with World Cup record shot dead outside his home in South Africa",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bokser-med-vm-rekord-skuddraebt-uden-sit-hjem-i-sydafrika",
+        "published_date": "2026-08-22 22:46:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "New signings save Mourinho's Real Madrid in the season opener",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/nyindkoeb-redder-mourinhos-real-madrid-i-saesonpremieren?referrer=RSS",
+        "published_date": "2026-08-22 21:32:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several people arrested after 27-year-old man's fall from property",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/flere-personer-anholdt-efter-27-aarig-mands-fald-fra-ejendom?referrer=RSS",
+        "published_date": "2026-08-22 20:39:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "World Cup profiles bring Bayern victory in the German Supercup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/vm-profiler-skaffer-bayern-sejren-i-tysk-supercup?referrer=RSS",
+        "published_date": "2026-08-22 20:30:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several have been killed in jihadist attacks in Nigeria",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/flere-er-draebt-i-jihadistisk-angreb-i-nigeria?referrer=RSS",
+        "published_date": "2026-08-22 19:53:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish doctor revolutionized medical science with an \"original\" idea - now Copenhagen should honor him",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/dansk-laege-revolutionerede-laegevidenskaben-med-original-ide--nu-boer-koebenhavn-aere-ham?referrer=RSS",
+        "published_date": "2026-08-22 19:16:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Violence lurks just beneath the luscious Beverly Hills surface in the sexy serial killer glow",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/volden-lurer-lige-under-den-laekre-beverly-hills-overflade-i-sexet-seriemordergys?referrer=RSS",
+        "published_date": "2026-08-22 19:15:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several arrested in Herning after man fell from property",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-anholdt-i-herning-efter-mands-fald-fra-ejendom",
+        "published_date": "2026-08-22 19:08:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The victorious Pogacar cheered on Tarling: Strange feeling",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sejrsherren-pogacar-heppede-paa-tarling-maerkelig-foelelse?referrer=RSS",
+        "published_date": "2026-08-22 19:01:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "See the pictures from the celebrated wedding: The royal couple cast a spell over Midtfyn",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/faaborg-midtfyn/se-billederne-fra-celebert-bryllup-kongeparret-kastede-glans-over-midtfyn?rss",
+        "published_date": "2026-08-22 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "N\u00e6sby BK had a celebration day at Ish\u00f8j IF's home ground",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sport/naesby-bk-havde-en-festdag-paa-ishoej-if-s-hjemmebane?rss",
+        "published_date": "2026-08-22 16:22:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nyk\u00f8bing FC's offense showed itself well in the victory over Middelfart",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sport/nykoebing-fc-s-offensiv-viste-sig-flot-frem-i-sejren-over-middelfart?rss",
+        "published_date": "2026-08-22 16:22:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zelenskyy says France will speed up air defense deliveries",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-siger-frankrig-vil-fremskynde-luftforsvarsleverancer",
+        "published_date": "2026-08-22 14:57:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seven dead after car chase in UK",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/syv-doede-efter-biljagt-i-storbritannien",
+        "published_date": "2026-08-22 14:16:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chinese robot runs faster than Usain Bolt in 100-meter race",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kinesisk-robot-loeber-hurtigere-end-usain-bolt-i-100-meterloeb",
+        "published_date": "2026-08-22 12:22:00",
+        "category": "Local Events"
+    },
+    {
         "title": "The light rail ride in the capital is free on the opening day",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/letbanetur-i-hovedstaden-er-gratis-paa-aabningsdagen?referrer=RSS",
@@ -431,118 +550,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/gemkes-unge-overmand-faar-gummiarm-i-vm-semifinalen?referrer=RSS",
         "published_date": "2026-08-22 10:47:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Illegal factory produced copy nicotine pouches for Scandinavia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/illegal-fabrik-producerede-kopinikotinposer-til-skandinavien?referrer=RSS",
-        "published_date": "2026-08-22 10:34:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What's happening in Denmark next week?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260822/on-the-agenda-whats-happening-in-denmark-next-week-5",
-        "published_date": "2026-08-22 10:05:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mohammad Akbari is a literal Muslim, and he has an important message for ethnic Danes: \"Stay firm on your values!\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/mohammad-akbari-er-bogstavtro-muslim-og-han-har-vigtig-opsang-til-etniske-danskere-staa-fast-paa-jeres-vaerdier?referrer=RSS",
-        "published_date": "2026-08-22 10:04:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 17-year-old girl has died after a sword attack in Sweden.Here's what we know",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-17-aarig-pige-er-doed-efter-svaerdangreb-i-sverige-her-er-det-vi-ved?referrer=RSS",
-        "published_date": "2026-08-22 09:50:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Missing gold jewelery at the police is explained by moving mess",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/forsvundne-guldsmykker-hos-politiet-forklares-med-flytterod?referrer=RSS",
-        "published_date": "2026-08-22 09:31:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vuelta boss cheers Pogacar despite risk of one-man show",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/vuelta-chef-jubler-over-pogacar-trods-risiko-for-enmandsshow?referrer=RSS",
-        "published_date": "2026-08-22 09:17:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ferry goes on leave",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/faerge-gaar-paa-orlov",
-        "published_date": "2026-08-22 07:31:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Seaplanes were blown over, and Swedes and Norwegians swam ashore on L\u00e6s\u00f8",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vandfly-blev-blaest-omkuld-og-svensker-og-nordmand-svoemmede-i-land-paa-laesoe",
-        "published_date": "2026-08-22 06:27:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Danish boxer is the new world champion in his weight class",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/dansk-bokser-er-ny-verdensmester-i-sin-vaegtklasse",
-        "published_date": "2026-08-22 06:18:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motor Festival closes access to the West Jutland beach area",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/motor-festival-lukker-tilkoersel-til-vestjysk-strandomraade",
-        "published_date": "2026-08-22 05:02:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least one person is reported killed in Russian attack on Kyiv",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mindst-en-person-meldes-draebt-i-russisk-angreb-paa-kyiv",
-        "published_date": "2026-08-22 02:23:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump's outgoing spokeswoman returns to MAGA organization",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trumps-afgaaende-talskvinde-vender-tilbage-til-maga-organisation",
-        "published_date": "2026-08-22 01:58:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States Department of Justice and TikTok reach a multibillion-dollar settlement in a case about the protection of children's privacy",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-s-justitsministerium-og-tiktok-indgaar-millardforlig-i-sag-om-beskyttelse-af-boerns-privatliv",
-        "published_date": "2026-08-21 23:19:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US and TikTok enter into a multibillion-dollar settlement in a case about children's privacy",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-og-tiktok-indgaar-milliardforlig-i-sag-om-boerns-privatliv?referrer=RSS",
-        "published_date": "2026-08-21 21:42:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The champions from Arsenal hand out bank for promotion in season openers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mestrene-fra-arsenal-uddeler-bank-til-oprykker-i-saesonaabner?referrer=RSS",
-        "published_date": "2026-08-21 20:58:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danes close to first place on Trump's golf course",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansker-taet-paa-foerstepladsen-paa-trumps-golfbane",
-        "published_date": "2026-08-21 20:40:54",
         "category": "Local Events"
     }
 ]
