@@ -1,5 +1,12 @@
 [
     {
+        "title": "Heatwave-hit Europe logs over 30,000 excess summer deaths",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260822/heatwave-hit-europe-logs-over-30000-excess-summer-deaths",
+        "published_date": "2026-08-22 10:53:02",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Candidate from Guyana takes lead in informal vote for new UN chief",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/kandidat-fra-guyana-tager-foering-i-uformel-afstemning-om-ny-fn-chef?referrer=RSS",
@@ -130,13 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/forfatteren-og-sexologen-carl-mar-moeller-er-doed?referrer=RSS",
         "published_date": "2026-08-14 11:25:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Eurovision's main Israeli sponsor withdraws",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eurovisions-israelske-hovedsponsor-traekker-sig",
-        "published_date": "2026-08-14 03:39:23",
         "category": "Diplomacy"
     },
     {
@@ -294,6 +294,13 @@
         "category": "Energy"
     },
     {
+        "title": "School project received 900,000 development kroner to teach young people to be \"activists\": \"Grotesque lack of respect for taxpayers\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/skoleprojekt-fik-900000-udviklingskroner-til-at-laere-unge-at-vaere-aktivister-grotesk-mangel-paa-respekt-for-skatteyderne?referrer=RSS",
+        "published_date": "2026-08-22 10:04:05",
+        "category": "Economy"
+    },
+    {
         "title": "Danish households more positive about the economy",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260821/danish-households-more-positive-about-the-economy",
@@ -399,6 +406,125 @@
         "category": "Economy"
     },
     {
+        "title": "The light rail ride in the capital is free on the opening day",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/letbanetur-i-hovedstaden-er-gratis-paa-aabningsdagen?referrer=RSS",
+        "published_date": "2026-08-22 10:59:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Prime Minister has engaged in an internet discussion with Isam B",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/statsministeren-er-roeget-i-internetdiskussion-med-isam-b?referrer=RSS",
+        "published_date": "2026-08-22 10:56:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia reports six killed in Ukrainian drone strike",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rusland-melder-om-seks-draebte-i-ukrainsk-droneangreb?referrer=RSS",
+        "published_date": "2026-08-22 10:50:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gemke's young boss gets a rubber arm in the WC semi-final",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/gemkes-unge-overmand-faar-gummiarm-i-vm-semifinalen?referrer=RSS",
+        "published_date": "2026-08-22 10:47:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Illegal factory produced copy nicotine pouches for Scandinavia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/illegal-fabrik-producerede-kopinikotinposer-til-skandinavien?referrer=RSS",
+        "published_date": "2026-08-22 10:34:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the Agenda: What's happening in Denmark next week?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260822/on-the-agenda-whats-happening-in-denmark-next-week-5",
+        "published_date": "2026-08-22 10:05:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mohammad Akbari is a literal Muslim, and he has an important message for ethnic Danes: \"Stay firm on your values!\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/mohammad-akbari-er-bogstavtro-muslim-og-han-har-vigtig-opsang-til-etniske-danskere-staa-fast-paa-jeres-vaerdier?referrer=RSS",
+        "published_date": "2026-08-22 10:04:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 17-year-old girl has died after a sword attack in Sweden.Here's what we know",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/en-17-aarig-pige-er-doed-efter-svaerdangreb-i-sverige-her-er-det-vi-ved?referrer=RSS",
+        "published_date": "2026-08-22 09:50:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Missing gold jewelery at the police is explained by moving mess",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/forsvundne-guldsmykker-hos-politiet-forklares-med-flytterod?referrer=RSS",
+        "published_date": "2026-08-22 09:31:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vuelta boss cheers Pogacar despite risk of one-man show",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/vuelta-chef-jubler-over-pogacar-trods-risiko-for-enmandsshow?referrer=RSS",
+        "published_date": "2026-08-22 09:17:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ferry goes on leave",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/faerge-gaar-paa-orlov",
+        "published_date": "2026-08-22 07:31:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seaplanes were blown over, and Swedes and Norwegians swam ashore on L\u00e6s\u00f8",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/vandfly-blev-blaest-omkuld-og-svensker-og-nordmand-svoemmede-i-land-paa-laesoe",
+        "published_date": "2026-08-22 06:27:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Danish boxer is the new world champion in his weight class",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/dansk-bokser-er-ny-verdensmester-i-sin-vaegtklasse",
+        "published_date": "2026-08-22 06:18:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motor Festival closes access to the West Jutland beach area",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/motor-festival-lukker-tilkoersel-til-vestjysk-strandomraade",
+        "published_date": "2026-08-22 05:02:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least one person is reported killed in Russian attack on Kyiv",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mindst-en-person-meldes-draebt-i-russisk-angreb-paa-kyiv",
+        "published_date": "2026-08-22 02:23:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump's outgoing spokeswoman returns to MAGA organization",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trumps-afgaaende-talskvinde-vender-tilbage-til-maga-organisation",
+        "published_date": "2026-08-22 01:58:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States Department of Justice and TikTok reach a multibillion-dollar settlement in a case about the protection of children's privacy",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-s-justitsministerium-og-tiktok-indgaar-millardforlig-i-sag-om-beskyttelse-af-boerns-privatliv",
+        "published_date": "2026-08-21 23:19:59",
+        "category": "Local Events"
+    },
+    {
         "title": "The US and TikTok enter into a multibillion-dollar settlement in a case about children's privacy",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usa-og-tiktok-indgaar-milliardforlig-i-sag-om-boerns-privatliv?referrer=RSS",
@@ -417,125 +543,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/dansker-taet-paa-foerstepladsen-paa-trumps-golfbane",
         "published_date": "2026-08-21 20:40:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Holger Rune will not make a comeback in the US Open",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/holger-rune-faar-ikke-comeback-i-us-open?referrer=RSS",
-        "published_date": "2026-08-21 20:31:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "One killed in attack with sword at Swedish high school",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-draebt-i-angreb-med-svaerd-paa-svensk-gymnasie?referrer=RSS",
-        "published_date": "2026-08-21 19:57:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man arrested after report from 10-year-old girl",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-anholdt-efter-anmeldelse-fra-10-aarig-pige",
-        "published_date": "2026-08-21 19:56:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man arrested after trying to grab ten-year-old girl",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-anholdt-efter-at-have-forsoegt-at-tage-fat-i-tiaarig-pige?referrer=RSS",
-        "published_date": "2026-08-21 19:54:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The war in the Middle East continues - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/krigen-i-mellemoesten-fortsaetter--foelg-med-her-49?referrer=RSS",
-        "published_date": "2026-08-21 19:35:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Here you get the latest news about Danish politics",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/her-faar-du-seneste-nyt-om-dansk-politik-60?referrer=RSS",
-        "published_date": "2026-08-21 19:34:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish researcher is expected to confess in case of research funds",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/dansk-forsker-ventes-at-tilstaa-i-sag-om-forskningsmidler?referrer=RSS",
-        "published_date": "2026-08-21 19:32:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Where is the Liberal Alliance's Labor policy?Right in front of you",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/hvor-er-liberal-alliances-arbejderpolitik-lige-foran-dig?referrer=RSS",
-        "published_date": "2026-08-21 19:29:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Turkey wants Interpol to issue an arrest warrant for Benjamin Netanyahu",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tyrkiet-vil-have-interpol-til-udstede-arrestordre-paa-benjamin-netanyahu",
-        "published_date": "2026-08-21 17:48:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Massive police presence after stabbing in Copenhagen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-massivt-til-stede-efter-knivstikkeri-i-koebenhavn",
-        "published_date": "2026-08-21 16:11:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "ANALYSIS: What are the chances of Danish citizenship being made 'provisional'?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260821/analysis-what-are-the-chances-of-danish-citizenship-becoming-provisional",
-        "published_date": "2026-08-21 15:47:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Suddenly a strange woman stood in Birthe's kitchen: Then she got angry",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/pludselig-stod-en-fremmed-kvinde-i-birthes-koekken-saa-blev-hun-vred?rss",
-        "published_date": "2026-08-21 15:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man from the mink industry convicted in a case of money laundering of DKK 7.7 million",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-fra-minkbranchen-doemt-i-sag-om-hvidvask-af-7-7-millioner-kroner",
-        "published_date": "2026-08-21 14:02:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prince Harry and other celebrities receive millions after losing a case",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/prins-harry-og-andre-kendisser-faar-millionregning-efter-tabt-sag",
-        "published_date": "2026-08-21 13:33:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Which Danish supermarket is cheapest?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260821/which-danish-supermarket-is-cheapest",
-        "published_date": "2026-08-21 13:20:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Great interest in spending the night in shelters",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stor-interesse-overnatte-i-shelters",
-        "published_date": "2026-08-21 12:52:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Social Democrats open to making Danish citizenship provisional for 5 years",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260821/social-democrats-open-to-making-danish-citizenship-provisional-for-5-years",
-        "published_date": "2026-08-21 12:51:40",
         "category": "Local Events"
     }
 ]
