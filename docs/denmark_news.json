@@ -126,18 +126,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Morocco arrests 111 migrants on their way to Ceuta",
+        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/marokko-anholder-111-migranter-paa-vej-mod-ceuta?referrer=RSS",
-        "published_date": "2026-08-15 19:32:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU pushes back as US revives trade pressure on bloc",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260815/eu-pushes-back-as-us-revives-trade-pressure-on-bloc",
-        "published_date": "2026-08-15 14:54:42",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1864?referrer=RSS",
+        "published_date": "2026-08-23 20:20:56",
+        "category": "Military"
     },
     {
         "title": "Russia gave the Ukrainian hero an impossible choice: betray Ukraine or lose your son",
@@ -273,13 +266,6 @@
         "category": "Military"
     },
     {
-        "title": "Military chief praises aircraft carrier crew after critical articles",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/militaerchef-storroser-hangarskibs-besaetning-efter-kritiske-artikler?referrer=RSS",
-        "published_date": "2026-08-16 19:34:44",
-        "category": "Military"
-    },
-    {
         "title": "Energy company reported to the police for a spill of almost 70,000 liters of oil",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/energiselskab-politianmeldt-et-spild-paa-naesten-70-000-liter-olie",
@@ -298,13 +284,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/kampagneleder-stopper-i-sf-i-protest-over-haandtering-af-metoo-sag?referrer=RSS",
         "published_date": "2026-08-17 19:29:22",
-        "category": "Energy"
-    },
-    {
-        "title": "Two women lose their lives in floods and landslides in Spain",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/to-kvinder-mister-livet-i-oversvoemmelser-og-jordskred-i-spanien?referrer=RSS",
-        "published_date": "2026-08-15 23:06:45",
         "category": "Energy"
     },
     {
@@ -413,11 +392,130 @@
         "category": "Economy"
     },
     {
-        "title": "Colombia's president asks Trump for tariff break after earthquake",
+        "title": "Man arrested in connection with the death of a 29-year-old woman in Greenland",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/colombias-praesident-anmoder-trump-om-toldpause-efter-jordskaelv?referrer=RSS",
-        "published_date": "2026-08-15 23:02:48",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/indland/mand-anholdt-i-forbindelse-med-29-aarig-kvindes-doed-i-groenland?referrer=RSS",
+        "published_date": "2026-08-23 22:23:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barcelona and Andreas Christensen hold a playroom in the premiere",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/barcelona-og-andreas-christensen-holder-legestue-i-premieren?referrer=RSS",
+        "published_date": "2026-08-23 21:32:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Suddenly there was a camel at the wedding: Now Diana tells the touching story behind it",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/fynskemennesker/ingen-forstod-hvorfor-der-stod-en-kamel-til-brylluppet-nu-fortaeller-diana-historien?rss",
+        "published_date": "2026-08-23 21:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about American politics - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-256?referrer=RSS",
+        "published_date": "2026-08-23 20:23:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The war in the Middle East continues - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krigen-i-mellemoesten-fortsaetter--foelg-med-her-53?referrer=RSS",
+        "published_date": "2026-08-23 20:22:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Here you get the latest news about Danish politics",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/her-faar-du-seneste-nyt-om-dansk-politik-62?referrer=RSS",
+        "published_date": "2026-08-23 20:18:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "The wolf is an invasive pest that should be eradicated in Denmark",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/ulven-er-et-invasivt-skadedyr-som-boer-udryddes-i-danmark?referrer=RSS",
+        "published_date": "2026-08-23 19:57:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Poll: Tokayev-loyal party wins big in Kazakhstan",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/maaling-tokajev-loyalt-parti-vinder-stort-i-kasakhstan?referrer=RSS",
+        "published_date": "2026-08-23 19:50:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire in the workshop building in S\u00f8nder Omme Prison",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brand-i-vaerkstedsbygning-i-soender-omme-faengsel",
+        "published_date": "2026-08-23 18:45:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "30 dead in waste landslides in Guinea",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/30-doede-i-affaldsskred-i-guinea",
+        "published_date": "2026-08-23 18:15:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "The deceased summer house king's heirs are selling the treasure of a property: - It was the apple of our eye",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/varde/afdoed-sommerhuskonges-arvinger-saelger-klenodie-af-en-ejendom-den-var-vores-oejesten?rss",
+        "published_date": "2026-08-23 18:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "King Harald's health worsened",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kong-haralds-helbredstilstand-forvaerret",
+        "published_date": "2026-08-23 18:00:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eight bodies recovered off Tunisia after migrant boat sinks",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/otte-lig-bjaerget-ud-tunesien-efter-migrantbaads-forlis",
+        "published_date": "2026-08-23 15:25:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Convicted of running shadow hotels in seven locations in Copenhagen",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/doemt-drive-skyggehotel-syv-steder-i-koebenhavn",
+        "published_date": "2026-08-23 14:21:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ethiopian breaks world record in half marathon",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/etiopier-slaar-verdensrekord-paa-halvmaraton",
+        "published_date": "2026-08-23 13:31:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Parties in the Norwegian air strike have agreed to meet",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/parter-i-norsk-flystrejke-har-aftalt-moede",
+        "published_date": "2026-08-23 13:01:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "From tomorrow there will be advertisements in ChatGPT",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fra-i-morgen-kommer-der-reklamer-i-chatgpt",
+        "published_date": "2026-08-23 12:20:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thorning wins another silver medal at the WC in para dressage",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/thorning-vinder-endnu-en-soelvmedalje-ved-vm-i-paradressur",
+        "published_date": "2026-08-23 11:17:40",
+        "category": "Local Events"
     },
     {
         "title": "18-year-old remanded in custody for sword attack in Sweden",
@@ -431,132 +529,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/ung-mand-er-saaret-af-politiets-skud-i-haderslev?referrer=RSS",
         "published_date": "2026-08-23 11:01:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today, 5,000 Copenhageners walk around the artificial peninsula Lynetteholm",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/i-dag-gaar-5-000-koebenhavnere-rundt-om-den-kunstige-halvoe-lynetteholm",
-        "published_date": "2026-08-23 11:01:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "18-year-old has been remanded in custody for sword attack in Sweden",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/18-aarig-er-blevet-varetaegtsfaengslet-svaerdangreb-i-sverige",
-        "published_date": "2026-08-23 10:52:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police have fired shots at a 24-year-old man in Haderslev",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-har-affyret-skud-mod-24-aarig-mand-i-haderslev",
-        "published_date": "2026-08-23 10:42:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Company convicted in case of shadow hotel in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/selskab-doemt-i-sag-om-skyggehotel-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-08-23 10:21:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Which vegetable should I eat today?\": DR advertisement for documentary about children and porn arouses wonder",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/hvilken-groentsag-skal-jeg-have-op-i-mig-i-dag-dr-reklame-for-dokumentar-om-boern-og-porno-vaekker-undren?referrer=RSS",
-        "published_date": "2026-08-23 10:19:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Researcher uses crafts to sharpen concentration: \"Creative activities can improve your working life\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/vores-liv/forsker-bruger-haandvaerk-til-at-skaerpe-koncentrationen-de-kreative-aktiviteter-kan-forbedre-dit-arbejdsliv?referrer=RSS",
-        "published_date": "2026-08-23 10:08:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nursing home inherits millions and hires Birthe Kj\u00e6r: - It's big for us",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/faaborg-midtfyn/plejehjem-arver-millionbeloeb-og-hyrer-birthe-kjaer-det-er-stort-for-os?rss",
-        "published_date": "2026-08-23 10:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Folkem\u00f8de M\u00f8n broke the attendance record",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/regionale/sjaelland/folkemoede-moen-slog-publikumsrekord",
-        "published_date": "2026-08-23 09:44:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "50,000 took a free ride on the new light rail",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/50-000-tog-en-gratis-tur-med-ny-letbane",
-        "published_date": "2026-08-23 08:12:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man was in mortal danger after stabbing in garden colony last night",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-var-i-livsfare-efter-knivstikkeri-i-havekoloni-i-aftes",
-        "published_date": "2026-08-23 07:17:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "30 firefighters are working to put out an extensive fire at an environmental facility in Hj\u00f8rring",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/30-brandmaend-arbejder-paa-slukke-omfattende-brand-ved-miljoeanlaeg-i-hjoerring",
-        "published_date": "2026-08-23 06:49:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Residents get faeces left in the shower cubicle: - We just want it resolved",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/bolig/beboere-faar-affoeringsrester-op-i-brusekabinen-vi-vil-jo-bare-gerne-have-det-loest?rss",
-        "published_date": "2026-08-23 05:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fall from property in Herning does not indicate anything criminal - the arrested have been released",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fald-fra-ejendom-i-herning-tyder-ikke-paa-noget-kriminelt-anholdte-er-loesladt",
-        "published_date": "2026-08-23 04:54:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Boxer with World Cup record shot dead outside his home in South Africa",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/bokser-med-vm-rekord-skuddraebt-uden-for-sit-hjem-i-sydafrika?referrer=RSS",
-        "published_date": "2026-08-22 23:03:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Boxer with World Cup record shot dead outside his home in South Africa",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bokser-med-vm-rekord-skuddraebt-uden-sit-hjem-i-sydafrika",
-        "published_date": "2026-08-22 22:46:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "New signings save Mourinho's Real Madrid in the season opener",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/nyindkoeb-redder-mourinhos-real-madrid-i-saesonpremieren?referrer=RSS",
-        "published_date": "2026-08-22 21:32:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several people arrested after 27-year-old man's fall from property",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/flere-personer-anholdt-efter-27-aarig-mands-fald-fra-ejendom?referrer=RSS",
-        "published_date": "2026-08-22 20:39:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "World Cup profiles bring Bayern victory in the German Supercup",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/vm-profiler-skaffer-bayern-sejren-i-tysk-supercup?referrer=RSS",
-        "published_date": "2026-08-22 20:30:47",
         "category": "Local Events"
     }
 ]
