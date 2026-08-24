@@ -1,5 +1,12 @@
 [
     {
+        "title": "Two UN soldiers have been killed in South Sudan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fn-soldater-er-draebt-i-sydsudan",
+        "published_date": "2026-08-24 17:13:13",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Ulrik Bie: Germany is the sick man of Europe - but must not be underestimated",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/oekonomi/ulrik-bie-tyskland-er-europas-syge-mand--men-maa-ikke-undervurderes?referrer=RSS",
@@ -105,25 +112,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Fort Europe is a pitiful illusion \u2013 migration will always take place",
+        "title": "Charged with threats to life after unrest in front of Netto",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/fort-europa-er-en-ynkelig-illusion--migration-vil-altid-finde-sted?referrer=RSS",
-        "published_date": "2026-08-16 20:45:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Dragsted longs for Frederiksen's rhetoric about Ceuta: Pinagtigt",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/dragsted-langer-ud-efter-frederiksens-retorik-om-ceuta-pinagtigt?referrer=RSS",
-        "published_date": "2026-08-16 20:27:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "LATEST: Europe's battle with wildfires continues",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260816/latest-europes-battle-with-wildfires-continues",
-        "published_date": "2026-08-16 12:56:48",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/indland/sigtet-for-trusler-paa-livet-efter-uro-foran-netto?referrer=RSS",
+        "published_date": "2026-08-24 21:08:46",
+        "category": "Military"
     },
     {
         "title": "South Korea: US cancels joint military exercise due to Iran war",
@@ -252,20 +245,6 @@
         "category": "Military"
     },
     {
-        "title": "Trump wants to cut back on military exercises with South Korea",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-vil-skaere-ned-paa-militaeroevelser-med-sydkorea?referrer=RSS",
-        "published_date": "2026-08-16 22:11:45",
-        "category": "Military"
-    },
-    {
-        "title": "Trump wants to cut back on military exercises with South Korea",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-vil-skaere-ned-paa-militaeroevelser-med-sydkorea",
-        "published_date": "2026-08-16 22:05:25",
-        "category": "Military"
-    },
-    {
         "title": "Energy company reported to the police for a spill of almost 70,000 liters of oil",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/energiselskab-politianmeldt-et-spild-paa-naesten-70-000-liter-olie",
@@ -285,6 +264,13 @@
         "url": "https://www.berlingske.dk/politik/kampagneleder-stopper-i-sf-i-protest-over-haandtering-af-metoo-sag?referrer=RSS",
         "published_date": "2026-08-17 19:29:22",
         "category": "Energy"
+    },
+    {
+        "title": "The US will cut off 'all economic lifelines' to Iran",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-vil-afskaere-alle-oekonomiske-livliner-til-iran",
+        "published_date": "2026-08-24 17:41:27",
+        "category": "Economy"
     },
     {
         "title": "Iran warns countries against supporting Trump's economic war",
@@ -385,150 +371,143 @@
         "category": "Economy"
     },
     {
-        "title": "American tourists are everywhere, and there are more and more of them",
+        "title": "A man has been found dead in the Guden\u00e5en near Silkeborg",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentar/amerikanske-turister-er-allevegne-og-der-bliver-flere-og-flere-af-dem?referrer=RSS",
-        "published_date": "2026-08-16 19:41:47",
-        "category": "Economy"
-    },
-    {
-        "title": "Copenhagen climate mayor calls for 30 km/h speed limit across city",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260824/copenhagen-climate-mayor-calls-for-30-km-h-speed-limit-across-city",
-        "published_date": "2026-08-24 11:22:33",
+        "url": "https://www.berlingske.dk/indland/mand-er-fundet-doed-i-gudenaaen-ved-silkeborg?referrer=RSS",
+        "published_date": "2026-08-24 23:00:46",
         "category": "Local Events"
     },
     {
-        "title": "The wish cloud receives a capital injection of DKK 100 million",
+        "title": "Eto'o backs up Infantino: He has done nothing wrong",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/oenskeskyen-faar-en-kapitalindsproejtning-paa-100-millioner-kroner?referrer=RSS",
-        "published_date": "2026-08-24 11:13:43",
+        "url": "https://www.berlingske.dk/sport/etoo-bakker-op-om-infantino-han-har-ikke-gjort-noget-forkert?referrer=RSS",
+        "published_date": "2026-08-24 22:41:55",
         "category": "Local Events"
     },
     {
-        "title": "Swedish teenager ran away from home and was offered to commit murder",
+        "title": "The Supreme Court of the United States gives Trump a preliminary ruling in the case of mail-in ballots",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/svensk-teenager-stak-af-hjemmefra-og-fik-tilbud-om-at-begaa-drab?referrer=RSS",
-        "published_date": "2026-08-24 11:06:45",
+        "url": "https://www.berlingske.dk/internationalt/usas-hoejesteret-giver-trump-foreloebigt-medhold-i-sag-om-brevstemmer?referrer=RSS",
+        "published_date": "2026-08-24 22:41:46",
         "category": "Local Events"
     },
     {
-        "title": "Norwegian crown prince visits his father in hospital",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/norsk-kronprins-besoeger-sin-far-paa-hospitalet?referrer=RSS",
-        "published_date": "2026-08-24 11:03:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor wants to lower the speed limit in Copenhagen: \"She must have drunk from the night pot\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/borgmester-vil-saenke-fartgraensen-i-koebenhavn-hun-maa-have-drukket-af-natpotten?referrer=RSS",
-        "published_date": "2026-08-24 10:58:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Escalation of Norwegian air strike postponed until Wednesday",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eskalering-af-norsk-flystrejke-udsaettes-til-onsdag?referrer=RSS",
-        "published_date": "2026-08-24 10:50:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Municipality sentenced for leaking health information",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/kommune-doemt-for-at-laekke-helbredsoplysninger?referrer=RSS",
-        "published_date": "2026-08-24 10:50:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The best coffee becomes harder to get after heavy rain",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/den-bedste-kaffe-bliver-svaerere-at-faa-efter-voldsom-regn?referrer=RSS",
-        "published_date": "2026-08-24 10:32:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "S\u00f8ren Frank had to pinch his arm: Hold on, you get a lot for your money here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/gastronomi/soeren-frank-maatte-knibe-sig-i-armen-hold-op-hvor-faar-man-meget-for-pengene-her?referrer=RSS",
-        "published_date": "2026-08-24 10:31:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "A few minutes of stair climbing can \"be quite rewarding\" and extend your life.Professor explains why",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/vores-liv/faa-minutters-trappegang-kan-vaere-ganske-givende-og-forlaenge-din-levetid-professor-forklarer-hvorfor?referrer=RSS",
-        "published_date": "2026-08-24 10:25:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reports on the IUD case will come on Friday",
+        "title": "The police are appealing for specific witnesses after a man was found dead in Guden\u00e5en",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rapporter-om-spiralsagen-kommer-fredag",
-        "published_date": "2026-08-24 09:44:53",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-fundet-doed-i-gudenaaen",
+        "published_date": "2026-08-24 22:12:15",
         "category": "Local Events"
     },
     {
-        "title": "Unemployed people on Fan\u00f8 can in the future get help to get a job on the island",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ledige-paa-fanoe-kan-i-fremtiden-faa-hjaelp-til-komme-i-job-paa-oeen",
-        "published_date": "2026-08-24 09:17:01",
+        "title": "Report: Armed groups recruit children on Facebook and TikTok",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rapport-vaebnede-grupper-rekrutterer-boern-paa-facebook-og-tiktok?referrer=RSS",
+        "published_date": "2026-08-24 21:38:45",
         "category": "Local Events"
     },
     {
-        "title": "Today in Denmark: A roundup of the latest news on Monday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260824/today-in-denmark-a-roundup-of-the-latest-news-on-monday-58",
-        "published_date": "2026-08-24 08:27:18",
+        "title": "The trains run again between Esbjerg and Kolding",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/togene-koerer-igen-mellem-esbjerg-og-kolding?referrer=RSS",
+        "published_date": "2026-08-24 21:30:46",
         "category": "Local Events"
     },
     {
-        "title": "24-year-old shot by the police: Will not be remanded in custody",
+        "title": "Chelsea gets Xabi Alonso debut win in lively London clash",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/chelsea-skaffer-xabi-alonso-debutsejr-i-livligt-london-opgoer?referrer=RSS",
+        "published_date": "2026-08-24 21:02:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "August Holmgren misses the US Open after defeat",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/august-holmgren-misser-us-open-efter-nederlag?referrer=RSS",
+        "published_date": "2026-08-24 20:58:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Copenhagen Municipality pours money out the window \u2013 and creates more traffic problems",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/koebenhavns-kommune-haelder-penge-ud-ad-vinduet--og-skaber-flere-trafikale-problemer?referrer=RSS",
+        "published_date": "2026-08-24 20:34:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chainsaws, pheasants and full houses: Lille Bys cinema has found the perfect recipe for success",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/24-aarig-skudt-af-politiet-bliver-ikke-varetaegtsfaengslet?rss",
-        "published_date": "2026-08-24 08:18:02",
+        "url": "https://jv.dk/vejen/motorsave-fasaner-og-fulde-huse-lille-biograf-har-fundet-den-perfekte-opskrift-paa-succes?rss",
+        "published_date": "2026-08-24 19:09:00",
         "category": "Local Events"
     },
     {
-        "title": "Man stabbed in Herning is now dead",
+        "title": "Saudi Arabia and France join forces to establish new amusement parks",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-stukket-med-kniv-i-herning-er-nu-doed",
-        "published_date": "2026-08-24 07:07:44",
+        "url": "https://www.dr.dk/nyheder/seneste/saudi-arabien-og-frankrig-gaar-sammen-om-etablering-af-nye-forlystelsesparker",
+        "published_date": "2026-08-24 18:55:09",
         "category": "Local Events"
     },
     {
-        "title": "The municipality switched off the warning light at the children's home: a few months later it came on again",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/kommunen-slukkede-advarselslampen-paa-boernehus-faa-maaneder-senere-lyste-den-igen?rss",
-        "published_date": "2026-08-24 07:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Michael Maze is the new Swedish table tennis national coach",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/michael-maze-er-ny-svensk-bordtennislandstraener",
-        "published_date": "2026-08-24 06:00:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Transport giant's bankruptcy dragged a number of companies down with it: Here is the status",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/transportkaempes-konkurs-trak-en-raekke-selskaber-med-sig-i-faldet-her-er-status?rss",
-        "published_date": "2026-08-24 05:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Birgitte bets millions on her yarn company: - I am not aware of that",
+        "title": "Watch the match here: Odense Bulldogs test their form against R\u00f8dovre",
         "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/birgitte-satser-millionbeloeb-paa-sit-garnfirma-det-ligger-jeg-ikke-vaagen-over?rss",
-        "published_date": "2026-08-24 05:00:00",
+        "url": "https://fyens.dk/sport/se-kampen-her-odense-bulldogs-tester-formen-ude-mod-roedovre?rss",
+        "published_date": "2026-08-24 18:20:03",
         "category": "Local Events"
     },
     {
-        "title": "Tens of thousands are being evacuated during wildfires in Nevada",
+        "title": "Trains between Kolding and Esbjerg remain silent - operations will resume late Monday evening",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/titusindvis-evakueres-under-skovbrand-i-nevada",
-        "published_date": "2026-08-24 03:43:22",
+        "url": "https://www.dr.dk/nyheder/seneste/tog-mellem-kolding-og-esbjerg-holder-stille",
+        "published_date": "2026-08-24 18:17:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US has removed Syria from the list of states that support terrorism",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-har-fjernet-syrien-fra-liste-over-stater-der-stoetter-terrorisme",
+        "published_date": "2026-08-24 18:04:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "30 are reported killed in dog attacks in Haiti",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/30-meldes-draebt-i-bandeangreb-i-haiti",
+        "published_date": "2026-08-24 16:51:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three ministers are traveling with the royal couple on a state visit to Belgium",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-ministre-rejser-med-kongeparret-paa-statsbesoeg-i-belgien",
+        "published_date": "2026-08-24 16:24:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark gives 100 million to Sudan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danmark-giver-100-millioner-til-sudan",
+        "published_date": "2026-08-24 16:13:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "400 pigs dead after animal transporter tips over in northern Denmark",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260824/400-pigs-dead-after-animal-transporter-tips-over-in-northern-denmark",
+        "published_date": "2026-08-24 14:45:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 24-year-old, who was shot by the police on Sunday, is charged with attempted murder",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/24-aarig-der-soendag-blev-skudt-af-politiet-er-sigtet-drabsforsoeg",
+        "published_date": "2026-08-24 14:44:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Publisher must recall anti-inflammatory cookbook",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/forlag-skal-tilbagekalde-antiinflammatorisk-kogebog",
+        "published_date": "2026-08-24 14:26:19",
         "category": "Local Events"
     }
 ]
