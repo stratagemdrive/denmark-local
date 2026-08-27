@@ -1,5 +1,12 @@
 [
     {
+        "title": "What changes in Denmark in September 2026?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260826/what-changes-in-denmark-in-september-2026",
+        "published_date": "2026-08-26 14:34:09",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Europe is losing the battle for self-driving cars \u2013 here are four solutions",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/synspunkter/europa-er-ved-at-tabe-kampen-om-de-selvkoerende-biler--her-er-fire-loesninger?referrer=RSS",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Drone explodes near Europe's largest nuclear power plant, killing one",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/drone-eksploderer-naer-europas-stoerst-atomkraftvaerk-og-draeber-en",
-        "published_date": "2026-08-18 14:15:09",
-        "category": "Diplomacy"
+        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1870?referrer=RSS",
+        "published_date": "2026-08-27 04:05:45",
+        "category": "Military"
+    },
+    {
+        "title": "Law closes residence for conscripted Ukrainian men",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/lov-lukker-for-ophold-til-militaerpligtige-ukrainske-maend?referrer=RSS",
+        "published_date": "2026-08-27 04:00:46",
+        "category": "Military"
     },
     {
         "title": "Trump will deploy the military against an unexpected enemy",
@@ -259,11 +273,18 @@
         "category": "Military"
     },
     {
-        "title": "The fired minister demands elections in Ukraine despite the war against Russia",
+        "title": "Large decrease in the number of hours with negative electricity prices",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fyret-minister-kraever-valg-i-ukraine-trods-krigen-mod-rusland?referrer=RSS",
-        "published_date": "2026-08-18 20:41:45",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/business/stort-fald-i-antallet-af-timer-med-negative-elpriser?referrer=RSS",
+        "published_date": "2026-08-27 03:31:47",
+        "category": "Energy"
+    },
+    {
+        "title": "Energinet must have a new director",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/energinet-skal-have-ny-direktoer",
+        "published_date": "2026-08-26 11:45:10",
+        "category": "Energy"
     },
     {
         "title": "Thomas Egebo is stepping down as director of Energinet",
@@ -298,13 +319,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/energiselskab-politianmeldt-et-spild-paa-naesten-70-000-liter-olie",
         "published_date": "2026-08-21 09:58:16",
-        "category": "Energy"
-    },
-    {
-        "title": "Iraq approves special arrangement for oil exports for three months",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/irak-godkender-saerlig-ordning-for-olieeksport-i-tre-maaneder?referrer=RSS",
-        "published_date": "2026-08-18 23:09:45",
         "category": "Energy"
     },
     {
@@ -357,25 +371,123 @@
         "category": "Economy"
     },
     {
-        "title": "Strong earthquake in Colombia costs the country billions",
+        "title": "Nepal and China report 1000 missing after floods",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kraftigt-jordskaelv-i-colombia-koster-landet-milliarder?referrer=RSS",
-        "published_date": "2026-08-18 22:40:47",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/nepal-og-kina-melder-om-1000-savnede-efter-oversvoemmelser?referrer=RSS",
+        "published_date": "2026-08-27 03:51:47",
+        "category": "Local Events"
     },
     {
-        "title": "New forecast: Danish economy performing better than expected",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260818/new-forecast-danish-economy-performing-better-than-expected",
-        "published_date": "2026-08-18 13:43:14",
-        "category": "Economy"
+        "title": "60 firefighters are working to extinguish a large industrial fire in Brande",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/60-brandfolk-arbejder-paa-at-slukke-stor-industribrand-i-brande?referrer=RSS",
+        "published_date": "2026-08-27 03:47:45",
+        "category": "Local Events"
     },
     {
-        "title": "The chairman of the Economic Council stops",
+        "title": "World-renowned Japanese artist has died - aged 97",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/verdenskendt-japansk-kunstner-er-doed-97-aar?referrer=RSS",
+        "published_date": "2026-08-27 03:03:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Car drives into crowd in France: One person is reported dead",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/de-oekonomiske-raads-formand-stopper",
-        "published_date": "2026-08-18 12:20:52",
-        "category": "Economy"
+        "url": "https://www.dr.dk/nyheder/seneste/bil-koerer-ind-i-folkemaengde-i-frankrig-en-person-meldes-draebt",
+        "published_date": "2026-08-27 03:00:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reviewers call Joof's new film a complete folk comedy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/anmeldere-kalder-joofs-nye-film-for-en-gennemfoert-folkekomedie?referrer=RSS",
+        "published_date": "2026-08-27 02:47:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Industrial fire in Brande created an explosion hazard",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dele-af-motorvej-spaerret-som-foelge-af-brand-i-industrivirksomhed-i-brande",
+        "published_date": "2026-08-27 01:38:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Postponed trial of 9/11 suspect expected in June 2028",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/udskudt-retssag-mod-911-mistaenkte-ventes-i-juni-2028?referrer=RSS",
+        "published_date": "2026-08-27 01:29:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "OVERVIEW: Hundreds of foreigners are missing after floods in Nepal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/overblik-hundredvis-af-udlaendinge-er-savnet-efter-oversvoemmelser-i-nepal?referrer=RSS",
+        "published_date": "2026-08-27 01:29:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US promises millions in emergency aid after floods in Nepal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-lover-millioner-i-noedhjaelp-efter-oversvoemmelser-i-nepal?referrer=RSS",
+        "published_date": "2026-08-27 01:04:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forest fires across Algeria claim 12 lives",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skovbrande-paa-tvaers-af-algeriet-koster-12-livet",
+        "published_date": "2026-08-26 23:36:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "'It' and 'Rocky Horror Picture Show' actor Tim Curry has died",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skuespilleren-tim-curry-fra-it-og-rocky-horror-picture-show-er-doed",
+        "published_date": "2026-08-26 17:27:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wolt must be sentenced for three offences, the Competition Council believes",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/wolt-skal-doemmes-tre-lovovertraedelser-mener-konkurrenceraadet",
+        "published_date": "2026-08-26 16:04:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Princess M\u00e4rtha Louise's husband has received a new kidney",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/prinsesse-martha-louises-mand-har-faaet-en-ny-nyre",
+        "published_date": "2026-08-26 13:50:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The bridge race over the Storeb\u00e6lt is returning",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/broloebet-over-storebaelt-vender-tilbage",
+        "published_date": "2026-08-26 13:22:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meta enters into multibillion-dollar settlement with US states in case of dependence on platforms",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/meta-indgaar-milliardforlig-med-amerikanske-delstater-i-sag-om-afhaengighed-af-platforme",
+        "published_date": "2026-08-26 13:15:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "German airport employee dies of malaria after infection from mosquitoes",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tysk-lufthavnsansat-doed-af-malaria-efter-smitte-fra-moskitoer",
+        "published_date": "2026-08-26 12:53:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several hundred tourists have been reported missing after floods in Nepal",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-hundrede-turister-er-meldt-savnet-efter-oversvoemmelser-i-nepal",
+        "published_date": "2026-08-26 12:13:50",
+        "category": "Local Events"
     },
     {
         "title": "Police: At least eight people died in floods in Nepal",
@@ -396,125 +508,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/udenlandsk-mand-blev-draebt-hoejst-en-uge-inden-ligfundet?referrer=RSS",
         "published_date": "2026-08-26 10:59:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "16-year-old charged with planning attack on a kindergarten in Norway",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/16-aarig-sigtet-for-at-planlaegge-angreb-mod-en-boernehave-i-norge?referrer=RSS",
-        "published_date": "2026-08-26 10:59:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Need for 100 employees at new Danish Crown factory challenges job center",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/behov-100-medarbejdere-paa-ny-danish-crown-fabrik-udfordrer-jobcenter",
-        "published_date": "2026-08-26 10:53:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Demand for up to four years in prison for forced labor in nail salons",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/krav-om-op-til-fire-aars-faengsel-for-tvangsarbejde-i-neglesaloner?referrer=RSS",
-        "published_date": "2026-08-26 10:52:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Police Complaints Authority is looking for witnesses after the car chase in Haderslev",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiklagemyndighed-soeger-vidner-efter-biljagt-i-haderslev",
-        "published_date": "2026-08-26 10:44:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish expression of the day: hold da op",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260826/danish-expression-of-the-day-hold-da-op",
-        "published_date": "2026-08-26 10:14:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Viaplay removes advertising cases in Copenhagen after police action",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/viaplay-fjerner-reklamekufferter-i-koebenhavn-efter-politiaktion",
-        "published_date": "2026-08-26 09:24:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Classmates threw themselves into the fight for expelled Bardia: Now the family can stay in Denmark",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/odense/klassekammerater-kastede-sig-ind-i-kampen-for-udviste-bardia-nu-kan-familien-blive-i-danmark?rss",
-        "published_date": "2026-08-26 09:22:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Game of Thrones star takes role in new Harry Potter series",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/game-og-thrones-stjerne-overtager-rolle-i-ny-harry-potter-serie",
-        "published_date": "2026-08-26 08:35:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Violent flooding has washed away villages in Nepal",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/voldsom-oversvoemmelse-har-skyllet-landsbyer-vaek-i-nepal",
-        "published_date": "2026-08-26 07:21:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish police arrest man in connection with sword attack at school",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/svensk-politi-anholder-mand-i-forbindelse-med-svaerdangreb-paa-skole",
-        "published_date": "2026-08-26 06:39:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "The publicity stunt caused the police to move to N\u00f8rreport in Copenhagen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/reklame-stunt-fik-politiet-til-rykke-ud-paa-noerreport-i-koebenhavn",
-        "published_date": "2026-08-26 06:37:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least 14 newborns die in hospital fire in Pakistan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mindst-14-nyfoedte-mister-livet-i-hospitalsbrand-i-pakistan",
-        "published_date": "2026-08-26 06:19:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lina got an offer that would make most people think twice",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/assens/lina-fik-et-tilbud-der-ville-faa-de-fleste-til-at-taenke-sig-om-en-ekstra-gang?rss",
-        "published_date": "2026-08-26 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Preparedness guides adults to talk to children about crises",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/beredskab-guider-voksne-til-tale-med-boern-om-kriser",
-        "published_date": "2026-08-26 05:55:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parking fees issued in bundles recently: This is what parking looks like for big festivals",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/toender/p-afgifter-udstedt-i-bundter-paa-det-seneste-saadan-ser-det-ud-med-parkeringen-til-stor-festival?rss",
-        "published_date": "2026-08-26 05:11:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police are looking for witnesses to the stabbing in Br\u00f8ndby",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-soeger-vidner-efter-knivstiv-i-broendby",
-        "published_date": "2026-08-26 04:52:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US has killed four after attacking a suspected smuggling boat",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-har-draebt-fire-efter-angreb-mod-formodet-smuglerbaad",
-        "published_date": "2026-08-26 04:14:22",
         "category": "Local Events"
     }
 ]
