@@ -1,5 +1,54 @@
 [
     {
+        "title": "FCM keeps a playground after a shock start and is ready for Europe",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fcm-holder-legestue-efter-chokstart-og-er-europa-klar?referrer=RSS",
+        "published_date": "2026-08-27 20:43:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Delaney: They can also play Conference League football",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/delaney-de-kan-ogsaa-spille-fodbold-i-conference-league?referrer=RSS",
+        "published_date": "2026-08-27 20:23:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "FCN book a ticket to Europe with victory in Switzerland",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fcn-booker-billet-til-europa-med-sejr-i-schweiz?referrer=RSS",
+        "published_date": "2026-08-27 20:07:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "New Benfica victory sends AGF into the Conference League",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/ny-benfica-sejr-sender-agf-i-conference-league?referrer=RSS",
+        "published_date": "2026-08-27 20:04:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU demands Meta 'protect our kids' after US settlement",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260827/eu-demands-meta-to-protect-our-kids-after-us-settlement",
+        "published_date": "2026-08-27 16:13:17",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU chief to visit Greenland in September to boost ties",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260827/eu-chief-to-visit-greenland-in-september-to-boost-ties",
+        "published_date": "2026-08-27 14:24:14",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Germany hosts Denmark, Austria ahead of EU budget battle",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260827/germany-hosts-denmark-austria-ahead-of-eu-budget-battle",
+        "published_date": "2026-08-27 13:57:40",
+        "category": "Diplomacy"
+    },
+    {
         "title": "What changes in Denmark in September 2026?",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260826/what-changes-in-denmark-in-september-2026",
@@ -88,55 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/fransk-badmintonpar-bryder-europaeisk-vm-guldtoerke-i-double?referrer=RSS",
         "published_date": "2026-08-23 10:12:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "2-year-old Peter lay exhausted and deathly ill in bed: He said one word his father will never forget",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/peter-laa-afkraeftet-i-sengen-saa-sagde-han-et-ord-david-aldrig-glemmer?rss",
-        "published_date": "2026-08-22 19:05:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Heatwave-hit Europe logs over 30,000 excess summer deaths",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260822/heatwave-hit-europe-logs-over-30000-excess-summer-deaths",
-        "published_date": "2026-08-22 10:53:02",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Candidate from Guyana takes lead in informal vote for new UN chief",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kandidat-fra-guyana-tager-foering-i-uformel-afstemning-om-ny-fn-chef?referrer=RSS",
-        "published_date": "2026-08-21 22:42:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "While the rest of the EU makes the sign of the cross, the locals remain hostages in the migrant drama",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mens-resten-af-eu-goer-korsets-tegn-er-de-lokale-fortsat-gidsler-i-migrantdrama?referrer=RSS",
-        "published_date": "2026-08-20 19:58:11",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Europaplads may be on the way in Copenhagen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/europaplads-kan-vaere-paa-vej-i-koebenhavn",
-        "published_date": "2026-08-19 15:32:19",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Europe supports sanctioned ICC president, emphasizes von der Leyen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/europa-stoetter-sanktioneret-icc-praesident-understreger-von-der-leyen",
-        "published_date": "2026-08-19 11:54:53",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Zelenskyy confirms prisoner exchange",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-bekraefter-fangeudveksling-2",
-        "published_date": "2026-08-19 10:41:28",
         "category": "Diplomacy"
     },
     {
@@ -245,34 +245,6 @@
         "category": "Military"
     },
     {
-        "title": "Ukraine's parliament approves new defense minister",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ukraines-parlament-godkender-ny-forsvarsminister?referrer=RSS",
-        "published_date": "2026-08-19 10:58:49",
-        "category": "Military"
-    },
-    {
-        "title": "Ukraine's parliament appoints new defense minister",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraines-parlament-udpeger-ny-forsvarsminister",
-        "published_date": "2026-08-19 10:54:59",
-        "category": "Military"
-    },
-    {
-        "title": "Zelenskyy fires deputy head of presidential office while corruption case continues",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/zelenskyj-fyrer-vicechef-for-praesidentkontor-mens-korruptionssag-koerer?referrer=RSS",
-        "published_date": "2026-08-19 10:41:49",
-        "category": "Military"
-    },
-    {
-        "title": "Russian drone attack kills four in Ukraine, governor says",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/russisk-droneangreb-draeber-fire-i-ukraine-siger-guvernoer",
-        "published_date": "2026-08-19 07:05:55",
-        "category": "Military"
-    },
-    {
         "title": "Large decrease in the number of hours with negative electricity prices",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/stort-fald-i-antallet-af-timer-med-negative-elpriser?referrer=RSS",
@@ -371,143 +343,143 @@
         "category": "Economy"
     },
     {
-        "title": "Nepal and China report 1000 missing after floods",
+        "title": "Mette-Marit has left the hospital after visiting the hospitalized King Harald",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nepal-og-kina-melder-om-1000-savnede-efter-oversvoemmelser?referrer=RSS",
-        "published_date": "2026-08-27 03:51:47",
+        "url": "https://www.berlingske.dk/internationalt/mette-marit-har-forladt-hospitalet-efter-besoeg-hos-indlagte-kong-harald?referrer=RSS",
+        "published_date": "2026-08-27 20:37:44",
         "category": "Local Events"
     },
     {
-        "title": "60 firefighters are working to extinguish a large industrial fire in Brande",
+        "title": "Trump orders name change of Lake Ontario",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/60-brandfolk-arbejder-paa-at-slukke-stor-industribrand-i-brande?referrer=RSS",
-        "published_date": "2026-08-27 03:47:45",
+        "url": "https://www.berlingske.dk/internationalt/trump-beordrer-navneaendring-af-ontariosoeen?referrer=RSS",
+        "published_date": "2026-08-27 20:33:44",
         "category": "Local Events"
     },
     {
-        "title": "World-renowned Japanese artist has died - aged 97",
+        "title": "Over 100 companies are issuing serious warnings about upcoming cyber threats",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/verdenskendt-japansk-kunstner-er-doed-97-aar?referrer=RSS",
-        "published_date": "2026-08-27 03:03:46",
+        "url": "https://www.berlingske.dk/business/over-100-virksomheder-udsender-alvorlig-advarsel-om-kommende-cybertrusler?referrer=RSS",
+        "published_date": "2026-08-27 20:26:06",
         "category": "Local Events"
     },
     {
-        "title": "Car drives into crowd in France: One person is reported dead",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bil-koerer-ind-i-folkemaengde-i-frankrig-en-person-meldes-draebt",
-        "published_date": "2026-08-27 03:00:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reviewers call Joof's new film a complete folk comedy",
+        "title": "Major clubs must meet league teams in the cup tournament",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/anmeldere-kalder-joofs-nye-film-for-en-gennemfoert-folkekomedie?referrer=RSS",
-        "published_date": "2026-08-27 02:47:50",
+        "url": "https://www.berlingske.dk/sport/storklubber-skal-moede-seriehold-i-pokalturneringen?referrer=RSS",
+        "published_date": "2026-08-27 20:14:44",
         "category": "Local Events"
     },
     {
-        "title": "Industrial fire in Brande created an explosion hazard",
+        "title": "'The Last Viking' wins the Svend Prize",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dele-af-motorvej-spaerret-som-foelge-af-brand-i-industrivirksomhed-i-brande",
-        "published_date": "2026-08-27 01:38:25",
+        "url": "https://www.dr.dk/nyheder/seneste/den-sidste-viking-vinder-svend-prisen",
+        "published_date": "2026-08-27 19:58:44",
         "category": "Local Events"
     },
     {
-        "title": "Postponed trial of 9/11 suspect expected in June 2028",
+        "title": "The last viking goes on a victory tour to the Svend Prisen",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/udskudt-retssag-mod-911-mistaenkte-ventes-i-juni-2028?referrer=RSS",
-        "published_date": "2026-08-27 01:29:53",
+        "url": "https://www.berlingske.dk/danmark/den-sidste-viking-tager-paa-sejrstogt-til-svend-prisen?referrer=RSS",
+        "published_date": "2026-08-27 19:45:56",
         "category": "Local Events"
     },
     {
-        "title": "OVERVIEW: Hundreds of foreigners are missing after floods in Nepal",
+        "title": "FACTS: Double victory for The Last Viking",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/overblik-hundredvis-af-udlaendinge-er-savnet-efter-oversvoemmelser-i-nepal?referrer=RSS",
-        "published_date": "2026-08-27 01:29:47",
+        "url": "https://www.berlingske.dk/danmark/fakta-dobbeltsejr-til-den-sidste-viking?referrer=RSS",
+        "published_date": "2026-08-27 19:45:50",
         "category": "Local Events"
     },
     {
-        "title": "The US promises millions in emergency aid after floods in Nepal",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-lover-millioner-i-noedhjaelp-efter-oversvoemmelser-i-nepal?referrer=RSS",
-        "published_date": "2026-08-27 01:04:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forest fires across Algeria claim 12 lives",
+        "title": "Trump renames Lake Ontario Lake America",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skovbrande-paa-tvaers-af-algeriet-koster-12-livet",
-        "published_date": "2026-08-26 23:36:16",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-omdoeber-ontariosoeen-til-amerikasoeen",
+        "published_date": "2026-08-27 18:41:01",
         "category": "Local Events"
     },
     {
-        "title": "'It' and 'Rocky Horror Picture Show' actor Tim Curry has died",
+        "title": "The travel advice for Israel is relaxed",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skuespilleren-tim-curry-fra-it-og-rocky-horror-picture-show-er-doed",
-        "published_date": "2026-08-26 17:27:01",
+        "url": "https://www.dr.dk/nyheder/seneste/rejsevejledningen-israel-lempes",
+        "published_date": "2026-08-27 15:22:24",
         "category": "Local Events"
     },
     {
-        "title": "Wolt must be sentenced for three offences, the Competition Council believes",
+        "title": "Danish government predicts higher property prices next year",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260827/danish-government-predicts-higher-property-prices-next-year",
+        "published_date": "2026-08-27 15:04:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "3,000 registered for a protest meeting against the new fertilizer law",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/wolt-skal-doemmes-tre-lovovertraedelser-mener-konkurrenceraadet",
-        "published_date": "2026-08-26 16:04:21",
+        "url": "https://www.dr.dk/nyheder/seneste/3-000-tilmeldt-protestmoede-mod-ny-goedskningslov",
+        "published_date": "2026-08-27 14:48:08",
         "category": "Local Events"
     },
     {
-        "title": "Princess M\u00e4rtha Louise's husband has received a new kidney",
+        "title": "School student assaulted with kicks, punches and pepper spray",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/prinsesse-martha-louises-mand-har-faaet-en-ny-nyre",
-        "published_date": "2026-08-26 13:50:25",
+        "url": "https://www.dr.dk/nyheder/seneste/skoleelev-overfaldet-med-spark-slag-og-peberspray",
+        "published_date": "2026-08-27 14:16:13",
         "category": "Local Events"
     },
     {
-        "title": "The bridge race over the Storeb\u00e6lt is returning",
+        "title": "The police publish photos of homicide victims from Guden\u00e5en",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/broloebet-over-storebaelt-vender-tilbage",
-        "published_date": "2026-08-26 13:22:04",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-offentliggoer-fotos-af-drabsoffer-fra-gudenaaen",
+        "published_date": "2026-08-27 13:55:41",
         "category": "Local Events"
     },
     {
-        "title": "Meta enters into multibillion-dollar settlement with US states in case of dependence on platforms",
+        "title": "How much of Denmark's VAT cut on food will be reflected in prices?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260827/how-much-of-denmarks-vat-cut-on-food-will-be-reflected-in-prices",
+        "published_date": "2026-08-27 13:50:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Activists are charged with hanging up banners at Agriculture & Food",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/meta-indgaar-milliardforlig-med-amerikanske-delstater-i-sag-om-afhaengighed-af-platforme",
-        "published_date": "2026-08-26 13:15:40",
+        "url": "https://www.dr.dk/nyheder/seneste/aktivister-sigtes-haenge-banner-op-hos-landbrug-foedevarer",
+        "published_date": "2026-08-27 12:57:33",
         "category": "Local Events"
     },
     {
-        "title": "German airport employee dies of malaria after infection from mosquitoes",
+        "title": "See the highlights: Team Fjelsted raced from North Jutland in the Speedway League",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/speedway/se-hoejdepunkterne-team-fjelsted-koerte-fra-nordjyder-i-speedwayligaen?rss",
+        "published_date": "2026-08-27 12:40:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia warns Britain",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tysk-lufthavnsansat-doed-af-malaria-efter-smitte-fra-moskitoer",
-        "published_date": "2026-08-26 12:53:35",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-advarer-storbritannien",
+        "published_date": "2026-08-27 11:11:52",
         "category": "Local Events"
     },
     {
-        "title": "Several hundred tourists have been reported missing after floods in Nepal",
+        "title": "Danish PM confident VAT cut on food will be passed to consumers",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260827/danish-pm-confident-vat-cut-on-food-will-be-passed-to-consumers",
+        "published_date": "2026-08-27 10:44:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heavy rain on the way: 50 millimeters may fall locally",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/112/voldsomt-regnvejr-paa-vej-lokalt-kan-der-falde-50-millimeter?rss",
+        "published_date": "2026-08-27 10:18:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "DSB lost customers in the first six months of the year",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-hundrede-turister-er-meldt-savnet-efter-oversvoemmelser-i-nepal",
-        "published_date": "2026-08-26 12:13:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police: At least eight people died in floods in Nepal",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/politi-mindst-otte-personer-doede-i-oversvoemmelser-i-nepal?referrer=RSS",
-        "published_date": "2026-08-26 11:08:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Violence, arguments and drunkenness preceded the death of a woman in a terraced house in Tranbjerg",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/vold-skaenderier-og-druk-gik-forud-for-kvindes-doed-i-raekkehus-i-tranbjerg?referrer=RSS",
-        "published_date": "2026-08-26 10:59:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The foreign man was killed no more than a week before the body was found",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/udenlandsk-mand-blev-draebt-hoejst-en-uge-inden-ligfundet?referrer=RSS",
-        "published_date": "2026-08-26 10:59:46",
+        "url": "https://www.dr.dk/nyheder/seneste/dsb-mistede-kunder-i-aarets-foerste-seks-maaneder",
+        "published_date": "2026-08-27 10:08:14",
         "category": "Local Events"
     }
 ]
