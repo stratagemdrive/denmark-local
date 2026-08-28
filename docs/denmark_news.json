@@ -238,13 +238,6 @@
         "category": "Military"
     },
     {
-        "title": "Several people are reported killed in a Russian attack on Ukraine's capital",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/flere-meldes-draebt-i-russisk-angreb-paa-ukraines-hovedstad?referrer=RSS",
-        "published_date": "2026-08-19 22:54:46",
-        "category": "Military"
-    },
-    {
         "title": "Large decrease in the number of hours with negative electricity prices",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/stort-fald-i-antallet-af-timer-med-negative-elpriser?referrer=RSS",
@@ -336,11 +329,102 @@
         "category": "Economy"
     },
     {
-        "title": "Trump warns of 'economic D-Day' against Iran",
+        "title": "Greenland to present report on forced contraceptions",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260828/greenland-to-present-report-on-forced-contraceptions",
+        "published_date": "2026-08-28 08:21:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "PFA customers received pension returns of DKK 52 billion in the first half of the year",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/pfa-kunder-fik-pensionsafkast-paa-52-milliarder-kroner-i-foerste-halvaar?referrer=RSS",
+        "published_date": "2026-08-28 06:10:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norway waits for news about King Harald after a quiet night",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/norge-venter-paa-nyt-om-kong-harald-efter-rolig-nat?referrer=RSS",
+        "published_date": "2026-08-28 06:04:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "FCK coach calls for offensive reinforcements",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fck-traener-efterlyser-offensive-forstaerkninger?referrer=RSS",
+        "published_date": "2026-08-28 06:00:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five indicted for blackmailing a man for 21 million with pruning shears",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/fem-tiltalt-for-at-afpresse-mand-for-21-millioner-med-grensaks?referrer=RSS",
+        "published_date": "2026-08-28 06:00:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Parking license in Copenhagen should cost DKK 30,000, Alternativet believes: \"We can't all have a car\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/p-licens-i-koebenhavn-skal-koste-30000-kroner-mener-alternativetvi-kan-ikke-alle-sammen-have-en-bil?referrer=RSS",
+        "published_date": "2026-08-28 05:58:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nepal's army struggles to rescue 100 people trapped in tunnel",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/nepals-haer-kaemper-for-at-redde-100-mennesker-fanget-i-tunnel?referrer=RSS",
+        "published_date": "2026-08-28 05:56:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"All of Norway's grandfather\" is seriously ill.Now the nation fears losing its unifying voice",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hele-norges-bedstefar-er-alvorligt-syg-nu-frygter-nationen-at-miste-sin-samlende-stemme?referrer=RSS",
+        "published_date": "2026-08-28 05:48:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Emily Pedersen opens terrifically despite limited training",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/emily-pedersen-aabner-forrygende-trods-begraenset-traening?referrer=RSS",
+        "published_date": "2026-08-28 05:45:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Open Thomas Frank looks towards the next coaching chapter",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/aaben-thomas-frank-loefter-blikket-mod-naeste-traenerkapitel?referrer=RSS",
+        "published_date": "2026-08-28 05:33:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "It should cost DKK 30,000 for a parking license in Copenhagen, Alternativet believes",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-varsler-oekonomisk-d-dag-mod-iran",
-        "published_date": "2026-08-19 23:56:11",
-        "category": "Economy"
+        "url": "https://www.dr.dk/nyheder/seneste/det-skal-koste-30-000-kroner-en-parkeringslicens-i-koebenhavn-mener-alternativet",
+        "published_date": "2026-08-28 05:32:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Huge mapping of millions of sibling pairs: First-borns and second-borns risk completely different diseases",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/vores-liv/kaempe-kortlaegning-af-millioner-af-soeskendepar-foerstefoedte-og-andenfoedte-risikerer-helt-forskellige-sygdomme?referrer=RSS",
+        "published_date": "2026-08-28 05:17:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICE enters into a contract for the purchase of impact gloves for millions",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ice-indgaar-kontrakt-om-indkoeb-af-stoedhandsker-til-millionbeloeb",
+        "published_date": "2026-08-28 03:35:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Tate brothers remain incarcerated in Miami",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tate-broedrene-forbliver-faengslet-i-miami",
+        "published_date": "2026-08-28 00:46:54",
+        "category": "Local Events"
     },
     {
         "title": "Mette-Marit has left the hospital after visiting the hospitalized King Harald",
@@ -382,104 +466,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/den-sidste-viking-tager-paa-sejrstogt-til-svend-prisen?referrer=RSS",
         "published_date": "2026-08-27 19:45:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "FACTS: Double victory for The Last Viking",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/fakta-dobbeltsejr-til-den-sidste-viking?referrer=RSS",
-        "published_date": "2026-08-27 19:45:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump renames Lake Ontario Lake America",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-omdoeber-ontariosoeen-til-amerikasoeen",
-        "published_date": "2026-08-27 18:41:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The travel advice for Israel is relaxed",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rejsevejledningen-israel-lempes",
-        "published_date": "2026-08-27 15:22:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish government predicts higher property prices next year",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260827/danish-government-predicts-higher-property-prices-next-year",
-        "published_date": "2026-08-27 15:04:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "3,000 registered for a protest meeting against the new fertilizer law",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/3-000-tilmeldt-protestmoede-mod-ny-goedskningslov",
-        "published_date": "2026-08-27 14:48:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "School student assaulted with kicks, punches and pepper spray",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skoleelev-overfaldet-med-spark-slag-og-peberspray",
-        "published_date": "2026-08-27 14:16:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police publish photos of homicide victims from Guden\u00e5en",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-offentliggoer-fotos-af-drabsoffer-fra-gudenaaen",
-        "published_date": "2026-08-27 13:55:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "How much of Denmark's VAT cut on food will be reflected in prices?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260827/how-much-of-denmarks-vat-cut-on-food-will-be-reflected-in-prices",
-        "published_date": "2026-08-27 13:50:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Activists are charged with hanging up banners at Agriculture & Food",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/aktivister-sigtes-haenge-banner-op-hos-landbrug-foedevarer",
-        "published_date": "2026-08-27 12:57:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "See the highlights: Team Fjelsted raced from North Jutland in the Speedway League",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/speedway/se-hoejdepunkterne-team-fjelsted-koerte-fra-nordjyder-i-speedwayligaen?rss",
-        "published_date": "2026-08-27 12:40:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia warns Britain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-advarer-storbritannien",
-        "published_date": "2026-08-27 11:11:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish PM confident VAT cut on food will be passed to consumers",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260827/danish-pm-confident-vat-cut-on-food-will-be-passed-to-consumers",
-        "published_date": "2026-08-27 10:44:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heavy rain on the way: 50 millimeters may fall locally",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/112/voldsomt-regnvejr-paa-vej-lokalt-kan-der-falde-50-millimeter?rss",
-        "published_date": "2026-08-27 10:18:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "DSB lost customers in the first six months of the year",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dsb-mistede-kunder-i-aarets-foerste-seks-maaneder",
-        "published_date": "2026-08-27 10:08:14",
         "category": "Local Events"
     }
 ]
