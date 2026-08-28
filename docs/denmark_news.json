@@ -1,5 +1,26 @@
 [
     {
+        "title": "This is how the US will pass judgment on its allies: Trump has four buttons to press",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/saadan-vil-usa-faelde-dom-over-sine-allierede-trump-faar-fire-knapper-at-trykke-paa?referrer=RSS",
+        "published_date": "2026-08-28 19:16:05",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Midterms: What Americans in Europe need to know about changes to mail-in voting",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260828/midterms-what-americans-in-europe-need-to-know-about-changes-to-mail-in-voting",
+        "published_date": "2026-08-28 13:22:28",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "What's the difference between Schengen and EU free movement rules?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260828/whats-the-difference-between-schengen-and-eu-free-movement-rules",
+        "published_date": "2026-08-28 11:36:32",
+        "category": "Diplomacy"
+    },
+    {
         "title": "FCM keeps a playground after a shock start and is ready for Europe",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/fcm-holder-legestue-efter-chokstart-og-er-europa-klar?referrer=RSS",
@@ -119,25 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Syria's foreign minister: Contact with Israel has been cut off",
+        "title": "The Danish champion gets a dream start to the ice hockey season",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/syriens-udenrigsminister-kontakten-med-israel-er-afbrudt?referrer=RSS",
-        "published_date": "2026-08-23 10:55:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Syria's foreign minister: Contact with Israel has been cut off",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/syriens-udenrigsminister-kontakten-med-israel-er-afbrudt",
-        "published_date": "2026-08-23 10:27:19",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "French badminton pair breaks European WC gold drought in doubles",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fransk-badmintonpar-bryder-europaeisk-vm-guldtoerke-i-double?referrer=RSS",
-        "published_date": "2026-08-23 10:12:44",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/sport/dansk-mester-faar-droemmestart-paa-ishockeysaesonen?referrer=RSS",
+        "published_date": "2026-08-28 20:21:44",
+        "category": "Military"
     },
     {
         "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
@@ -231,13 +238,6 @@
         "category": "Military"
     },
     {
-        "title": "South Korea calls emergency meeting on North Korean missile launch",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/sydkorea-indkalder-til-hastemoede-om-nordkoreansk-missilaffyring?referrer=RSS",
-        "published_date": "2026-08-20 10:52:45",
-        "category": "Military"
-    },
-    {
         "title": "Large decrease in the number of hours with negative electricity prices",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/stort-fald-i-antallet-af-timer-med-negative-elpriser?referrer=RSS",
@@ -322,150 +322,143 @@
         "category": "Economy"
     },
     {
-        "title": "Iran calls new US sanctions economic terror",
+        "title": "PSG saves points after wild comeback in extra time",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iran-kalder-nye-amerikanske-sanktioner-for-oekonomisk-terror?referrer=RSS",
-        "published_date": "2026-08-20 19:33:45",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/sport/psg-redder-point-efter-vildt-comeback-i-tillaegstiden?referrer=RSS",
+        "published_date": "2026-08-28 21:08:45",
+        "category": "Local Events"
     },
     {
-        "title": "Greenland to present report on forced contraceptions",
+        "title": "Haaland and Cherki deliver a goal celebration in Manchester City's victory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/haaland-og-cherki-leverer-maalfest-i-manchester-citys-sejr?referrer=RSS",
+        "published_date": "2026-08-28 21:05:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dolly Parton was the world's most streamed artist the day after her death",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/dolly-parton-var-verdens-mest-streamede-kunstner-dagen-efter-sin-doed?referrer=RSS",
+        "published_date": "2026-08-28 20:59:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bayern Munich shows master class in the season opener",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/bayern-muenchen-viser-mesterklasse-i-saesonaabneren?referrer=RSS",
+        "published_date": "2026-08-28 20:32:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fee warriors win: Google pays billions to stop lawsuit",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/gebyrkrigere-sejrer-google-betaler-milliardbeloeb-for-at-stoppe-retssag?referrer=RSS",
+        "published_date": "2026-08-28 20:00:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man in critical condition after car accident in Midtjylland",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-i-kritisk-tilstand-efter-bilulykke-i-midtjylland?referrer=RSS",
+        "published_date": "2026-08-28 19:46:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thousands accompanied King Harald on his last journey to the castle",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tusinder-fulgte-kong-harald-paa-hans-sidste-rejse-til-slottet?referrer=RSS",
+        "published_date": "2026-08-28 19:40:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "People are misusing and forging disability cards like never before - this is how we get rid of fraud",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/folk-misbruger-og-forfalsker-handicapkort-som-aldrig-foer--saadan-faar-vi-bugt-med-snyderiet?referrer=RSS",
+        "published_date": "2026-08-28 19:26:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "A lot of water on the Fynske Motorvej causes problems",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/meget-vand-paa-fynske-motorvej-giver-problemer",
+        "published_date": "2026-08-28 17:58:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four plead guilty to arson attack on Jewish ambulance service in London",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-erkender-sig-skyldige-i-brandangreb-paa-joedisk-ambulancetjeneste-i-london",
+        "published_date": "2026-08-28 15:09:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Accused of attack on Hadsten School accepts extended imprisonment",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sigtede-angreb-mod-hadsten-skole-accepterer-forlaenget-faengsling",
+        "published_date": "2026-08-28 14:08:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two ministers from the Moderates seek leave from the Folketing",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ministre-fra-moderaterne-soeger-orlov-fra-folketinget",
+        "published_date": "2026-08-28 13:48:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish government increases budgetary surplus by 8.5 billion kroner",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260828/greenland-to-present-report-on-forced-contraceptions",
-        "published_date": "2026-08-28 08:21:10",
+        "url": "https://www.thelocal.dk/20260828/danish-government-increases-budgetary-surplus-by-8-5-billion-kroner",
+        "published_date": "2026-08-28 13:36:30",
         "category": "Local Events"
     },
     {
-        "title": "PFA customers received pension returns of DKK 52 billion in the first half of the year",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/pfa-kunder-fik-pensionsafkast-paa-52-milliarder-kroner-i-foerste-halvaar?referrer=RSS",
-        "published_date": "2026-08-28 06:10:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norway waits for news about King Harald after a quiet night",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/norge-venter-paa-nyt-om-kong-harald-efter-rolig-nat?referrer=RSS",
-        "published_date": "2026-08-28 06:04:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "FCK coach calls for offensive reinforcements",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fck-traener-efterlyser-offensive-forstaerkninger?referrer=RSS",
-        "published_date": "2026-08-28 06:00:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five indicted for blackmailing a man for 21 million with pruning shears",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/fem-tiltalt-for-at-afpresse-mand-for-21-millioner-med-grensaks?referrer=RSS",
-        "published_date": "2026-08-28 06:00:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parking license in Copenhagen should cost DKK 30,000, Alternativet believes: \"We can't all have a car\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/p-licens-i-koebenhavn-skal-koste-30000-kroner-mener-alternativetvi-kan-ikke-alle-sammen-have-en-bil?referrer=RSS",
-        "published_date": "2026-08-28 05:58:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nepal's army struggles to rescue 100 people trapped in tunnel",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nepals-haer-kaemper-for-at-redde-100-mennesker-fanget-i-tunnel?referrer=RSS",
-        "published_date": "2026-08-28 05:56:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"All of Norway's grandfather\" is seriously ill.Now the nation fears losing its unifying voice",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hele-norges-bedstefar-er-alvorligt-syg-nu-frygter-nationen-at-miste-sin-samlende-stemme?referrer=RSS",
-        "published_date": "2026-08-28 05:48:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Emily Pedersen opens terrifically despite limited training",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/emily-pedersen-aabner-forrygende-trods-begraenset-traening?referrer=RSS",
-        "published_date": "2026-08-28 05:45:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Open Thomas Frank looks towards the next coaching chapter",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/aaben-thomas-frank-loefter-blikket-mod-naeste-traenerkapitel?referrer=RSS",
-        "published_date": "2026-08-28 05:33:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "It should cost DKK 30,000 for a parking license in Copenhagen, Alternativet believes",
+        "title": "Teenager suspected of complicity in murder during Swedish sword attack",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/det-skal-koste-30-000-kroner-en-parkeringslicens-i-koebenhavn-mener-alternativet",
-        "published_date": "2026-08-28 05:32:07",
+        "url": "https://www.dr.dk/nyheder/seneste/teenager-mistaenkt-medvirken-til-drab-under-svensk-svaerdangreb",
+        "published_date": "2026-08-28 13:29:43",
         "category": "Local Events"
     },
     {
-        "title": "Huge mapping of millions of sibling pairs: First-borns and second-borns risk completely different diseases",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/vores-liv/kaempe-kortlaegning-af-millioner-af-soeskendepar-foerstefoedte-og-andenfoedte-risikerer-helt-forskellige-sygdomme?referrer=RSS",
-        "published_date": "2026-08-28 05:17:16",
+        "title": "Last year, Maria was beaten for hiring Tessa: Get really close to the festival manager, who can't sing",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/sidste-aar-fik-maria-taesk-for-at-hyre-tessa-kom-helt-taet-paa-festivalchefen-der-ikke-kan-synge?rss",
+        "published_date": "2026-08-28 12:04:00",
         "category": "Local Events"
     },
     {
-        "title": "ICE enters into a contract for the purchase of impact gloves for millions",
+        "title": "67-year-old gets life imprisonment for war crimes in Rwanda",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ice-indgaar-kontrakt-om-indkoeb-af-stoedhandsker-til-millionbeloeb",
-        "published_date": "2026-08-28 03:35:50",
+        "url": "https://www.dr.dk/nyheder/seneste/67-aarig-faar-livsvarigt-faengsel-krigsforbrydelser-i-rwanda",
+        "published_date": "2026-08-28 11:11:29",
         "category": "Local Events"
     },
     {
-        "title": "The Tate brothers remain incarcerated in Miami",
+        "title": "Danish word of the day: kondolerer",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260828/danish-word-of-the-day-kondolerer",
+        "published_date": "2026-08-28 10:54:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Take That takes over Tinderbox",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tate-broedrene-forbliver-faengslet-i-miami",
-        "published_date": "2026-08-28 00:46:54",
+        "url": "https://www.dr.dk/nyheder/seneste/take-that-indtager-tinderbox",
+        "published_date": "2026-08-28 09:53:05",
         "category": "Local Events"
     },
     {
-        "title": "Mette-Marit has left the hospital after visiting the hospitalized King Harald",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mette-marit-har-forladt-hospitalet-efter-besoeg-hos-indlagte-kong-harald?referrer=RSS",
-        "published_date": "2026-08-27 20:37:44",
+        "title": "Danish royals mourn passing of Norway's King Harald",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260828/danish-royals-mourn-passing-of-norways-king-harald",
+        "published_date": "2026-08-28 09:38:34",
         "category": "Local Events"
     },
     {
-        "title": "Trump orders name change of Lake Ontario",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-beordrer-navneaendring-af-ontariosoeen?referrer=RSS",
-        "published_date": "2026-08-27 20:33:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Over 100 companies are issuing serious warnings about upcoming cyber threats",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/over-100-virksomheder-udsender-alvorlig-advarsel-om-kommende-cybertrusler?referrer=RSS",
-        "published_date": "2026-08-27 20:26:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Major clubs must meet league teams in the cup tournament",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/storklubber-skal-moede-seriehold-i-pokalturneringen?referrer=RSS",
-        "published_date": "2026-08-27 20:14:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The Last Viking' wins the Svend Prize",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/den-sidste-viking-vinder-svend-prisen",
-        "published_date": "2026-08-27 19:58:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The last viking goes on a victory tour to the Svend Prisen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/den-sidste-viking-tager-paa-sejrstogt-til-svend-prisen?referrer=RSS",
-        "published_date": "2026-08-27 19:45:56",
+        "title": "Today in Denmark: A roundup of the latest news on Friday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260828/today-in-denmark-a-roundup-of-the-latest-news-on-friday-59",
+        "published_date": "2026-08-28 08:34:09",
         "category": "Local Events"
     }
 ]
