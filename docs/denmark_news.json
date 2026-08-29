@@ -1,5 +1,12 @@
 [
     {
+        "title": "Chemical spill with hydrochloric acid in Nibe",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kemikalieudslip-med-saltsyre-i-nibe",
+        "published_date": "2026-08-29 08:56:11",
+        "category": "Diplomacy"
+    },
+    {
         "title": "A close race is expected in the Icelandic vote on negotiations with the EU",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/der-ventes-taet-loeb-i-islandsk-afstemning-om-forhandlinger-med-eu?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "'Be patient': Social Democrat MP sees no new Danish citizenships until late 2027",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260825/be-patient-social-democrat-mp-sees-no-new-citizenships-until-late-2027",
-        "published_date": "2026-08-25 11:49:28",
-        "category": "Diplomacy"
+        "title": "Popular sacked Ukrainian defense minister to advise Italy's defense minister",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/populaer-fyret-ukrainsk-forsvarsminister-skal-raadgive-italiens-minister",
+        "published_date": "2026-08-29 06:01:24",
+        "category": "Military"
     },
     {
         "title": "The Danish champion gets a dream start to the ice hockey season",
@@ -231,13 +238,6 @@
         "category": "Military"
     },
     {
-        "title": "Two military vehicles have collided on Bornholm",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/militaere-koeretoejer-er-stoedt-sammen-paa-bornholm",
-        "published_date": "2026-08-21 08:25:18",
-        "category": "Military"
-    },
-    {
         "title": "The US has entered into a historic oil deal with Venezuela",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usa-har-indgaaet-historisk-olieaftale-med-venezuela?referrer=RSS",
@@ -294,13 +294,6 @@
         "category": "Energy"
     },
     {
-        "title": "Energy company reported to the police for a spill of almost 70,000 liters of oil",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/energiselskab-politianmeldt-et-spild-paa-naesten-70-000-liter-olie",
-        "published_date": "2026-08-21 09:58:16",
-        "category": "Energy"
-    },
-    {
         "title": "The US will cut off 'all economic lifelines' to Iran",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/usa-vil-afskaere-alle-oekonomiske-livliner-til-iran",
@@ -322,11 +315,116 @@
         "category": "Economy"
     },
     {
-        "title": "Danish households more positive about the economy",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260821/danish-households-more-positive-about-the-economy",
-        "published_date": "2026-08-21 11:37:11",
-        "category": "Economy"
+        "title": "Holb\u00e6k B&I put things in place against N\u00e6sby BK",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sport/holbaek-b-i-satte-tingene-paa-plads-mod-naesby-bk?rss",
+        "published_date": "2026-08-29 16:23:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "All points for the guests: FC Midtjylland struck away against OB Q",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sport/alle-point-til-gaesterne-fc-midtjylland-slog-til-paa-udebane-mod-ob-q?rss",
+        "published_date": "2026-08-29 15:22:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "King Haakon takes the oath on Tuesday as the new king of Norway",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kong-haakon-aflaegger-ed-tirsdag-som-ny-konge-af-norge?referrer=RSS",
+        "published_date": "2026-08-29 15:19:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pogacar exits the Vuelta after crashing on the 8th stage",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/pogacar-udgaar-af-vueltaen-efter-styrt-paa-8-etape?referrer=RSS",
+        "published_date": "2026-08-29 15:19:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Danish trio is in the top 10 in a golf tournament with great Danish traditions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dansk-trio-er-i-top-10-i-golfturnering-med-store-danske-traditioner?referrer=RSS",
+        "published_date": "2026-08-29 15:03:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thomas Bernt: LEGO cheers \u2013 Denmark is failing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentar/thomas-bernt-lego-jubler--danmark-fejler?referrer=RSS",
+        "published_date": "2026-08-29 14:43:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Media: Friend of the royal family and former Funen landowner dead",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/odense/medie-ven-af-kongefamilien-og-tidligere-fynsk-godsejer-er-doed?rss",
+        "published_date": "2026-08-29 14:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Governor wants to rename airport in honor of Dolly Parton",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/guvernoer-vil-omdoebe-lufthavn-til-aere-for-dolly-parton?referrer=RSS",
+        "published_date": "2026-08-29 14:24:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The big bank's chief executive teases Wall Street with harsh words",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/storbankens-topchef-driller-wall-street-med-svaere-ord?referrer=RSS",
+        "published_date": "2026-08-29 14:15:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Half of foreign tourist buses violate VAT rules",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/halvdelen-af-udenlandske-turistbusser-overtraeder-momsregler?referrer=RSS",
+        "published_date": "2026-08-29 14:14:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The crisis in AaB continues after a goalless affair against bottom teams",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/krisen-i-aab-fortsaetter-efter-maalloes-affaere-mod-bundhold?referrer=RSS",
+        "published_date": "2026-08-29 14:01:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "I already turn down the car radio when I parallel park.But in Hollywood, women my age live a completely different life",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/jeg-skruer-allerede-ned-for-bilradioen-naar-jeg-parallelparkerer-men-i-hollywood-lever-kvinder-paa-min-alder-et-helt-andet-liv?referrer=RSS",
+        "published_date": "2026-08-29 13:59:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "National team back leads in big Team Esbjerg victory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/landsholdsback-foerer-an-i-stor-team-esbjerg-sejr?referrer=RSS",
+        "published_date": "2026-08-29 13:38:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "From today, traffic across the \u00d8resund will be difficult",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fra-i-dag-vil-trafikken-over-oeresund-vaere-besvaeret",
+        "published_date": "2026-08-29 08:30:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mette and Simon are getting married in a parking garage: - We are borrowing the caretaker's room",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sydfyn/mette-og-simon-skal-giftes-i-en-parkeringskaelder-vi-laaner-vicevaertens-rum?rss",
+        "published_date": "2026-08-29 08:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jens thought there would be a bidding war: House sales have come to a complete standstill",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/bolig/jens-troede-der-ville-blive-budkrig-hussalg-er-gaaet-helt-i-staa?rss",
+        "published_date": "2026-08-29 05:00:00",
+        "category": "Local Events"
     },
     {
         "title": "Trump sends condolences to Norway after King Harald's death",
@@ -354,118 +452,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/britisk-hoejrefloejskommentator-anholdt-af-ice-i-lufthavn?referrer=RSS",
         "published_date": "2026-08-28 23:00:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge declares confessions in 9/11 case invalid after torture",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/dommer-erklaerer-tilstaaelser-i-sag-om-911-for-ugyldige-efter-tortur?referrer=RSS",
-        "published_date": "2026-08-28 22:56:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "PSG saves points after wild comeback in extra time",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/psg-redder-point-efter-vildt-comeback-i-tillaegstiden?referrer=RSS",
-        "published_date": "2026-08-28 21:08:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Haaland and Cherki deliver a goal celebration in Manchester City's victory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/haaland-og-cherki-leverer-maalfest-i-manchester-citys-sejr?referrer=RSS",
-        "published_date": "2026-08-28 21:05:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dolly Parton was the world's most streamed artist the day after her death",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/dolly-parton-var-verdens-mest-streamede-kunstner-dagen-efter-sin-doed?referrer=RSS",
-        "published_date": "2026-08-28 20:59:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bayern Munich shows master class in the season opener",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/bayern-muenchen-viser-mesterklasse-i-saesonaabneren?referrer=RSS",
-        "published_date": "2026-08-28 20:32:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fee warriors win: Google pays billions to stop lawsuit",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/gebyrkrigere-sejrer-google-betaler-milliardbeloeb-for-at-stoppe-retssag?referrer=RSS",
-        "published_date": "2026-08-28 20:00:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man in critical condition after car accident in Midtjylland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-i-kritisk-tilstand-efter-bilulykke-i-midtjylland?referrer=RSS",
-        "published_date": "2026-08-28 19:46:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Thousands accompanied King Harald on his last journey to the castle",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tusinder-fulgte-kong-harald-paa-hans-sidste-rejse-til-slottet?referrer=RSS",
-        "published_date": "2026-08-28 19:40:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "People are misusing and forging disability cards like never before - this is how we get rid of fraud",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/folk-misbruger-og-forfalsker-handicapkort-som-aldrig-foer--saadan-faar-vi-bugt-med-snyderiet?referrer=RSS",
-        "published_date": "2026-08-28 19:26:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "A lot of water on the Fynske Motorvej causes problems",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/meget-vand-paa-fynske-motorvej-giver-problemer",
-        "published_date": "2026-08-28 17:58:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four plead guilty to arson attack on Jewish ambulance service in London",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-erkender-sig-skyldige-i-brandangreb-paa-joedisk-ambulancetjeneste-i-london",
-        "published_date": "2026-08-28 15:09:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Accused of attack on Hadsten School accepts extended imprisonment",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sigtede-angreb-mod-hadsten-skole-accepterer-forlaenget-faengsling",
-        "published_date": "2026-08-28 14:08:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two ministers from the Moderates seek leave from the Folketing",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ministre-fra-moderaterne-soeger-orlov-fra-folketinget",
-        "published_date": "2026-08-28 13:48:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish government increases budgetary surplus by 8.5 billion kroner",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260828/danish-government-increases-budgetary-surplus-by-8-5-billion-kroner",
-        "published_date": "2026-08-28 13:36:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Teenager suspected of complicity in murder during Swedish sword attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/teenager-mistaenkt-medvirken-til-drab-under-svensk-svaerdangreb",
-        "published_date": "2026-08-28 13:29:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Last year, Maria was beaten for hiring Tessa: Get really close to the festival manager, who can't sing",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/sidste-aar-fik-maria-taesk-for-at-hyre-tessa-kom-helt-taet-paa-festivalchefen-der-ikke-kan-synge?rss",
-        "published_date": "2026-08-28 12:04:00",
         "category": "Local Events"
     }
 ]
