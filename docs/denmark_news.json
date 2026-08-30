@@ -1,5 +1,19 @@
 [
     {
+        "title": "Iceland's prime minister will comply with the population's EU no",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/islands-statsminister-vil-rette-sig-efter-befolkningens-eu-nej?referrer=RSS",
+        "published_date": "2026-08-30 14:52:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Iceland votes 'No' to resuming EU talks",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260830/iceland-votes-no-to-resuming-eu-talks",
+        "published_date": "2026-08-30 12:01:37",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The daughter's voice was the last sound Henrik heard: And it never came back",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/esbjerg/datterens-stemme-var-den-sidste-lyd-henrik-hoerte-og-den-kom-aldrig-tilbage?rss",
@@ -123,20 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/aktier/selvkoerende-google-taxaer-faar-europaeisk-debut-i-muenchen?referrer=RSS",
         "published_date": "2026-08-26 10:58:07",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Late senator's sister takes election victory ahead of mid-term elections",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/afdoed-senators-soester-tager-valgsejr-frem-mod-midtvejsvalget",
-        "published_date": "2026-08-26 02:11:39",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "'We're heading for catastrophe': The summer climate change hit Europe",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260825/were-heading-for-catastrophe-the-summer-climate-change-hit-europe",
-        "published_date": "2026-08-25 17:51:09",
         "category": "Diplomacy"
     },
     {
@@ -322,11 +322,116 @@
         "category": "Economy"
     },
     {
-        "title": "School project received 900,000 development kroner to teach young people to be \"activists\": \"Grotesque lack of respect for taxpayers\"",
+        "title": "\"See you, mother hen\": It was 24-year-old Magnus' last farewell to his mother",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/aabenraa/ses-hoenemor-det-blev-24-aarige-magnus-sidste-farvel-til-sin-mor?rss",
+        "published_date": "2026-08-30 15:58:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Berlingske believes: A merger between Venstre and the Liberal Alliance would give a stronger blue block",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/skoleprojekt-fik-900000-udviklingskroner-til-at-laere-unge-at-vaere-aktivister-grotesk-mangel-paa-respekt-for-skatteyderne?referrer=RSS",
-        "published_date": "2026-08-22 10:04:05",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/ledere/berlingske-mener-en-fusion-mellem-venstre-og-liberal-alliance-ville-give-en-staerkere-blaa-blok?referrer=RSS",
+        "published_date": "2026-08-30 14:58:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "An elderly couple has lost their lives after a traffic accident on Friday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/aeldre-aegtepar-har-mistet-livet-efter-trafikulykke-fredag?referrer=RSS",
+        "published_date": "2026-08-30 14:56:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danes win WC gold in solo kayak",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/dansker-vinder-vm-guld-i-enerkajak",
+        "published_date": "2026-08-30 14:53:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forward-rushing Democrat now apologizes for controversial synagogue remark - but his opponent doesn't buy it at all",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fremadstormende-demokrat-undskylder-nu-omstridt-synagoge-bemaerkning--men-hans-modstander-koeber-den-slet-ikke?referrer=RSS",
+        "published_date": "2026-08-30 14:39:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "On Monday, they'll know if it's over for Musik i Lejet: \"It's borderline embarrassing to be shamed\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mandag-ved-de-om-det-er-forbi-for-musik-i-lejet-det-er-graenseoverskridende-at-blive-udskammet?referrer=RSS",
+        "published_date": "2026-08-30 14:25:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least seven people have died after a shipwreck off Cyprus",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mindst-syv-personer-er-omkommet-efter-skibsforlis-ud-for-cypern?referrer=RSS",
+        "published_date": "2026-08-30 14:24:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about American politics - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-266?referrer=RSS",
+        "published_date": "2026-08-30 14:10:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hvidovre is still undefeated after a dramatic finish",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/hvidovre-er-fortsat-ubesejret-efter-dramatisk-afslutning?referrer=RSS",
+        "published_date": "2026-08-30 14:04:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Silkeborg and FCM share a heated exchange of blows",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/silkeborg-og-fcm-deler-i-haesblaesende-slagudveksling?referrer=RSS",
+        "published_date": "2026-08-30 14:04:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lyngby throw away the victory in the last minute against OB",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/lyngby-smider-sejren-vaek-i-sidste-minut-mod-ob?referrer=RSS",
+        "published_date": "2026-08-30 14:04:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Landboforening reports great support for the protest meeting",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/landboforening-melder-om-stor-opbakning-til-protestmoede",
+        "published_date": "2026-08-30 10:28:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three arrested for violent assault in Horsens",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-anholdt-voldeligt-overfald-i-horsens",
+        "published_date": "2026-08-30 08:53:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "17-year-old unaccompanied driver has driven into two houses",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/17-aarig-uledsaget-bilist-er-koert-ind-i-huse",
+        "published_date": "2026-08-30 08:39:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Copenhagen tradition canceled due to rain",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/koebenhavnertradition-aflyst-paa-grund-af-regnvejr",
+        "published_date": "2026-08-30 08:27:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorist charged with reckless driving after u-turn in the \u00d8resund tunnel",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bilist-sigtet-vanvidskoersel-efter-u-vending-i-oeresundstunnelen",
+        "published_date": "2026-08-30 07:27:05",
+        "category": "Local Events"
     },
     {
         "title": "State media: North Korea's defense minister has been fired",
@@ -354,118 +459,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/voldeligt-overfald-udloeser-stor-politiaktion-i-horsens",
         "published_date": "2026-08-29 21:57:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tom Cruise reprises lead role in sequel to 90s blockbuster",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tom-cruise-genoptager-hovedrolle-i-efterfoelger-til-filmhit-fra-90erne?referrer=RSS",
-        "published_date": "2026-08-29 21:55:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two substitutes come in and get Juventus three points",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/to-indskiftere-kommer-ind-og-skaffer-juventus-tre-point?referrer=RSS",
-        "published_date": "2026-08-29 21:16:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "British right-wing provocateur expelled by the US",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/britisk-hoejrefloejsprovokatoer-udvist-af-usa",
-        "published_date": "2026-08-29 21:09:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "How Iranian drones changed the war \u2013 with help from China",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hvordan-iranske-droner-aendrede-krigen--med-hjaelp-fra-kina?referrer=RSS",
-        "published_date": "2026-08-29 20:58:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Danish duo is in the top 10 in a golf tournament with great Danish traditions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-duo-er-i-top-10-i-golfturnering-med-store-danske-traditioner?referrer=RSS",
-        "published_date": "2026-08-29 20:14:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark is a geopolitical mini-put.Therefore, we need more knowledge about the world than we might think",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/danmark-er-en-geopolitisk-miniput-derfor-har-vi-mere-brug-for-viden-om-verden-end-vi-maaske-tror?referrer=RSS",
-        "published_date": "2026-08-29 20:13:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Priest couple lives in tower building haunted by both spirit and spirits",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/praestepar-bor-i-taarnbygning-der-er-hjemsoegt-af-baade-aand-og-aander?rss",
-        "published_date": "2026-08-29 19:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Middelfart went to HIK and left with all the points",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/middelfart-tog-til-hik-og-tog-derfra-med-alle-pointene?rss",
-        "published_date": "2026-08-29 17:22:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Holb\u00e6k B&I put things in place against N\u00e6sby BK",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/holbaek-b-i-satte-tingene-paa-plads-mod-naesby-bk?rss",
-        "published_date": "2026-08-29 16:23:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "All points for the guests: FC Midtjylland struck away against OB Q",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/alle-point-til-gaesterne-fc-midtjylland-slog-til-paa-udebane-mod-ob-q?rss",
-        "published_date": "2026-08-29 15:22:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "King Haakon takes the oath on Tuesday as the new king of Norway",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kong-haakon-aflaegger-ed-tirsdag-som-ny-konge-af-norge?referrer=RSS",
-        "published_date": "2026-08-29 15:19:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pogacar exits the Vuelta after crashing on the 8th stage",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/pogacar-udgaar-af-vueltaen-efter-styrt-paa-8-etape?referrer=RSS",
-        "published_date": "2026-08-29 15:19:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Danish trio is in the top 10 in a golf tournament with great Danish traditions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-trio-er-i-top-10-i-golfturnering-med-store-danske-traditioner?referrer=RSS",
-        "published_date": "2026-08-29 15:03:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Thomas Bernt: LEGO cheers \u2013 Denmark is failing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentar/thomas-bernt-lego-jubler--danmark-fejler?referrer=RSS",
-        "published_date": "2026-08-29 14:43:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: Friend of the royal family and former Funen landowner dead",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/odense/medie-ven-af-kongefamilien-og-tidligere-fynsk-godsejer-er-doed?rss",
-        "published_date": "2026-08-29 14:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Governor wants to rename airport in honor of Dolly Parton",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/guvernoer-vil-omdoebe-lufthavn-til-aere-for-dolly-parton?referrer=RSS",
-        "published_date": "2026-08-29 14:24:46",
         "category": "Local Events"
     }
 ]
