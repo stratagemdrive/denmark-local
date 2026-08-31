@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The US attacks Iran for the first time in a month",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-angriber-iran-for-foerste-gang-i-en-maaned?referrer=RSS",
+        "published_date": "2026-08-30 21:36:48",
+        "category": "Military"
+    },
+    {
         "title": "Niger's military junta declares itself in control after uprising by soldiers",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/nigers-militaerjunta-erklaerer-sig-i-kontrol-efter-opstand-fra-soldater?referrer=RSS",
@@ -245,13 +252,6 @@
         "category": "Military"
     },
     {
-        "title": "A young furniture designer produces drones that attack Russia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-ung-moebeldesigner-producerer-droner-der-hamrer-loes-paa-rusland?referrer=RSS",
-        "published_date": "2026-08-22 19:12:14",
-        "category": "Military"
-    },
-    {
         "title": "The US has entered into a historic oil deal with Venezuela",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usa-har-indgaaet-historisk-olieaftale-med-venezuela?referrer=RSS",
@@ -315,11 +315,81 @@
         "category": "Economy"
     },
     {
-        "title": "Iran warns countries against supporting Trump's economic war",
+        "title": "Iran carries out counter-attacks on US bases in Jordan",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iran-advarer-lande-om-at-stoette-trumps-oekonomiske-krig?referrer=RSS",
-        "published_date": "2026-08-22 22:48:44",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/iran-udfoerer-modangreb-paa-amerikanske-baser-i-jordan?referrer=RSS",
+        "published_date": "2026-08-31 00:08:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "15 are feared missing after sudden flooding in the Grand Canyon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/15-frygtes-savnet-efter-pludselig-oversvoemmelse-i-grand-canyon?referrer=RSS",
+        "published_date": "2026-08-30 23:49:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Platini joins criticism: Infantino must step down",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/platini-tilslutter-sig-kritik-infantino-skal-gaa-af?referrer=RSS",
+        "published_date": "2026-08-30 22:58:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "American world number seven wins lucrative golf title ahead of Norwegian",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/amerikansk-verdensetter-vinder-lukrativ-golftitel-foran-nordmand?referrer=RSS",
+        "published_date": "2026-08-30 22:41:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "School principal saved 900 students from floods in Nepal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/skoleleder-reddede-900-elever-fra-oversvoemmelser-i-nepal?referrer=RSS",
+        "published_date": "2026-08-30 22:01:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US attacks Iran for the first time in a month",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-angriber-foerste-gang-i-en-maaned-iran",
+        "published_date": "2026-08-30 21:58:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Calculations from the Ministry of Finance show a decrease in citizens with Danish ancestry",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/beregning-fra-finansministeriet-viser-fald-i-borgere-med-dansk-herkomst?referrer=RSS",
+        "published_date": "2026-08-30 21:36:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "FCN exhibits Br\u00f8ndby and wins first place",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fcn-udstiller-broendby-og-erobrer-foerstepladsen?referrer=RSS",
+        "published_date": "2026-08-30 21:22:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The war in the Middle East continues - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krigen-i-mellemoesten-fortsaetter--foelg-med-her-63?referrer=RSS",
+        "published_date": "2026-08-30 20:52:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "NFL star resumes career after two years of retirement",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/nfl-stjerne-genoptager-karrieren-efter-to-aars-pension?referrer=RSS",
+        "published_date": "2026-08-30 20:45:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rain, rain, rain: DMI warns of cloudbursts",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/regn-regn-regn-dmi-varsler-skybrud?rss",
+        "published_date": "2026-08-30 18:49:06",
+        "category": "Local Events"
     },
     {
         "title": "\"See you, mother hen\": It was 24-year-old Magnus' last farewell to his mother",
@@ -382,83 +452,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/hvidovre-er-fortsat-ubesejret-efter-dramatisk-afslutning?referrer=RSS",
         "published_date": "2026-08-30 14:04:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Silkeborg and FCM share a heated exchange of blows",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/silkeborg-og-fcm-deler-i-haesblaesende-slagudveksling?referrer=RSS",
-        "published_date": "2026-08-30 14:04:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lyngby throw away the victory in the last minute against OB",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/lyngby-smider-sejren-vaek-i-sidste-minut-mod-ob?referrer=RSS",
-        "published_date": "2026-08-30 14:04:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Landboforening reports great support for the protest meeting",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/landboforening-melder-om-stor-opbakning-til-protestmoede",
-        "published_date": "2026-08-30 10:28:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three arrested for violent assault in Horsens",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-anholdt-voldeligt-overfald-i-horsens",
-        "published_date": "2026-08-30 08:53:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "17-year-old unaccompanied driver has driven into two houses",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/17-aarig-uledsaget-bilist-er-koert-ind-i-huse",
-        "published_date": "2026-08-30 08:39:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen tradition canceled due to rain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/koebenhavnertradition-aflyst-paa-grund-af-regnvejr",
-        "published_date": "2026-08-30 08:27:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorist charged with reckless driving after u-turn in the \u00d8resund tunnel",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bilist-sigtet-vanvidskoersel-efter-u-vending-i-oeresundstunnelen",
-        "published_date": "2026-08-30 07:27:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "State media: North Korea's defense minister has been fired",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/statsmedie-nordkoreas-forsvarsminister-er-blevet-fyret?referrer=RSS",
-        "published_date": "2026-08-30 00:17:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Netanyahu condemns settlement violence in Palestinian village",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/netanyahu-fordoemmer-bosaetteres-vold-i-palaestinensisk-landsby?referrer=RSS",
-        "published_date": "2026-08-30 00:17:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Canada puts up sign at Lake Ontario in response to Trump",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/canada-saetter-skilt-op-ved-ontariosoeen-som-modsvar-til-trump?referrer=RSS",
-        "published_date": "2026-08-29 22:49:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Violent assault triggers major police action in Horsens",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/voldeligt-overfald-udloeser-stor-politiaktion-i-horsens",
-        "published_date": "2026-08-29 21:57:18",
         "category": "Local Events"
     }
 ]
