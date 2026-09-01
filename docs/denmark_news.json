@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "India's Prime Minister calls for an end to the war in Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/indiens-premierminister-opfordrer-til-standse-krigen-i-ukraine",
+        "published_date": "2026-08-31 20:10:00",
+        "category": "Military"
+    },
+    {
         "title": "Five days of air raids in Kyiv: Ukraine is struggling to find a response to the new Russian threat",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/fem-doegn-med-luftalarmer-i-kyiv-ukraine-kaemper-med-at-finde-modsvar-paa-den-nye-russiske-trussel?referrer=RSS",
@@ -238,13 +245,6 @@
         "category": "Military"
     },
     {
-        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1864?referrer=RSS",
-        "published_date": "2026-08-23 20:20:56",
-        "category": "Military"
-    },
-    {
         "title": "Vance on oil island attack video: Trump sends message to Iran",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/vance-om-video-af-angreb-paa-olieoe-trump-sender-en-besked-til-iran?referrer=RSS",
@@ -329,10 +329,115 @@
         "category": "Economy"
     },
     {
+        "title": "Two people are dead after a stabbing in Times Square",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/to-personer-er-doede-efter-knivstikkeri-paa-times-square?referrer=RSS",
+        "published_date": "2026-09-01 01:10:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jury finds ex-gang leader guilty in 2Pac murder case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/jury-kender-tidligere-bandeleder-skyldig-i-sag-om-drab-paa-2pac?referrer=RSS",
+        "published_date": "2026-09-01 00:52:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Possible air threat in Latvia has been cleared",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mulig-lufttrussel-i-letland-er-afblaest",
+        "published_date": "2026-09-01 00:46:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Amazon sued for charging too high ad rates for years",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/amazon-sagsoegt-for-at-opkraeve-for-hoeje-annoncepriser-i-aarevis?referrer=RSS",
+        "published_date": "2026-09-01 00:14:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kushner takes aim at football politics after collapsed Fifa plan",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kushner-skyder-paa-fodboldpolitik-efter-kollapset-fifa-plan?referrer=RSS",
+        "published_date": "2026-08-31 23:43:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Stabbing blocks Times Square in New York",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/knivstikkeri-spaerrer-times-square-i-new-york",
+        "published_date": "2026-08-31 23:31:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men have been arrested after a stabbing in front of a pub in Aalborg",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/to-maend-er-anholdt-efter-knivstikkeri-foran-vaertshus-i-aalborg?referrer=RSS",
+        "published_date": "2026-08-31 23:22:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Media: Secretary of the US Army has resigned",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/medier-minister-for-den-amerikanske-haer-har-sagt-op?referrer=RSS",
+        "published_date": "2026-08-31 22:45:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tauson collapses in early US Open exit",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tauson-falder-sammen-i-tidligt-us-open-exit?referrer=RSS",
+        "published_date": "2026-08-31 22:39:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Clara Tauson out of the US Open",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/tennis/clara-tauson-ude-af-us-open",
+        "published_date": "2026-08-31 22:38:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Supreme Court gives the green light to Trump's billion-dollar ballroom",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hoejesteret-giver-groent-lys-til-trumps-milliarddyre-balsal?referrer=RSS",
+        "published_date": "2026-08-31 21:44:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Exuberant Barcelona breaks Vallecano with great goals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sprudlende-barcelona-knaekker-vallecano-med-flotte-maal?referrer=RSS",
+        "published_date": "2026-08-31 21:40:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump pushes Apple to change name of lake amid trade dispute",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-presser-apple-til-at-aendre-navn-paa-soe-midt-i-handelsstrid?referrer=RSS",
+        "published_date": "2026-08-31 21:40:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two arrested after stabbing at pub in Aalborg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/anholdt-efter-knivstikkeri-ved-vaertshus-i-aalborg",
+        "published_date": "2026-08-31 20:42:31",
+        "category": "Local Events"
+    },
+    {
         "title": "After a dramatic performance in a car park: Five accused of blackmailing a man for 21 million with pruning shears",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/112/efter-dramatisk-optrin-paa-p-plads-fem-tiltalt-for-at-afpresse-mand-for-21-millioner-med-grensaks?rss",
         "published_date": "2026-08-31 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two people died in floods in the Grand Canyon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/personer-doede-under-oversvoemmelser-i-grand-canyon",
+        "published_date": "2026-08-31 18:27:01",
         "category": "Local Events"
     },
     {
@@ -361,111 +466,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/danmark-genaabner-ambassade-i-syrien-efter-14-aar",
         "published_date": "2026-08-31 16:48:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire in Polish drone factory is being investigated as terrorism",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brand-i-polsk-dronefabrik-efterforskes-som-terror",
-        "published_date": "2026-08-31 16:44:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scientists are holding their breath before a violent climate phenomenon hits the world's largest rainforest",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/videnskab/forskere-holder-vejret-foer-voldsomt-klimafaenomen-rammer-verdens-stoerste-regnskov?referrer=RSS",
-        "published_date": "2026-08-31 16:37:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Blue book about the soccer player Lionel Messi",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/blaa-bog-om-fodboldspilleren-lionel-messi?referrer=RSS",
-        "published_date": "2026-08-31 16:13:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark set to host annual 'citizenship day' for thousands of new Danes",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260831/denmark-set-to-host-annual-citizenship-day-for-thousands-of-new-danes",
-        "published_date": "2026-08-31 16:12:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police warn of queues before the tractor demonstration",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-advarer-om-koe-inden-traktordemonstration",
-        "published_date": "2026-08-31 15:32:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "New type of rabies found in Danish hares",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-type-kaninpest-fundet-i-danske-harer",
-        "published_date": "2026-08-31 15:01:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fishing for blue mussels in the Limfjord is restricted",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fiskeri-efter-blaamuslinger-i-limfjorden-begraenses",
-        "published_date": "2026-08-31 15:00:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "France and Sweden sign defense agreement",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/frankrig-og-sverige-underskriver-forsvarsaftale",
-        "published_date": "2026-08-31 14:49:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Charges against truck driver after fatal accident with police trainee dropped",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sigtelse-mod-lastbilschauffoer-efter-doedsulykke-med-politielev-droppet",
-        "published_date": "2026-08-31 13:51:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mother and daughter get a combined 23 years in prison",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mor-og-datter-faar-tilsammen-23-aars-faengsel",
-        "published_date": "2026-08-31 13:21:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of confirmed Ebola cases reaches 6,000 in DR Congo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-bekraeftede-ebola-tilfaelde-naar-6-000-i-dr-congo",
-        "published_date": "2026-08-31 13:06:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Father sentenced to six years in prison for fatal violence against infant",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/far-idoemmes-seks-aars-faengsel-doedsvold-mod-spaedbarn",
-        "published_date": "2026-08-31 12:19:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "OPINION: The Danish flag-obsession is more 'hyggelig' than threatening",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260831/opinion-the-danish-flag-obsession-is-hyggelig-not-threatening",
-        "published_date": "2026-08-31 12:11:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today's first cloudburst registered",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dagens-foerste-skybrud-registreret",
-        "published_date": "2026-08-31 11:52:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Plumbers get ten years in prison for monitoring cocaine transport",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vvs-er-faar-ti-aars-faengsel-overvaage-kokain-transport",
-        "published_date": "2026-08-31 10:08:22",
         "category": "Local Events"
     }
 ]
