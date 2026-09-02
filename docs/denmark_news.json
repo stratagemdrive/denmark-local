@@ -1,5 +1,26 @@
 [
     {
+        "title": "Ryanair to cut winter flights in Europe to save on fuel costs",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260902/ryanair-to-cut-winter-flights-in-europe-to-save-on-fuel-costs",
+        "published_date": "2026-09-02 15:48:42",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Suddenly, Modi lashed out at a grim Putin:\u00a0\"We will have to move away from endless war\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/pludselig-slog-modi-til-over-for-en-bister-putinvi-bliver-noedt-til-at-rykke-fra-endeloes-krig?referrer=RSS",
+        "published_date": "2026-09-02 14:22:05",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "In March, the new Statens Natural History Museum will open",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/til-marts-aabner-det-nye-statens-naturhistoriske-museum",
+        "published_date": "2026-09-02 08:23:01",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Suspected perpetrator behind the murder of Charlie Kirk pleads not guilty",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/formodet-gerningsmand-bag-drab-paa-charlie-kirk-naegter-sig-skyldig?referrer=RSS",
@@ -119,25 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Spain asks Frontex for help in handling migrants in Ceuta",
+        "title": "Five western municipalities will not accept Ukrainian refugees",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/spanien-beder-frontex-om-hjaelp-til-at-haandtere-migranter-i-ceuta?referrer=RSS",
-        "published_date": "2026-08-29 00:56:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "This is how the US will pass judgment on its allies: Trump has four buttons to press",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/saadan-vil-usa-faelde-dom-over-sine-allierede-trump-faar-fire-knapper-at-trykke-paa?referrer=RSS",
-        "published_date": "2026-08-28 19:16:05",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Midterms: What Americans in Europe need to know about changes to mail-in voting",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260828/midterms-what-americans-in-europe-need-to-know-about-changes-to-mail-in-voting",
-        "published_date": "2026-08-28 13:22:28",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/politik/fem-vestegnskommuner-skal-ikke-modtage-ukrainske-flygtninge?referrer=RSS",
+        "published_date": "2026-09-02 14:06:44",
+        "category": "Military"
     },
     {
         "title": "Iran reports attack on US military base in Jordan",
@@ -238,11 +245,18 @@
         "category": "Military"
     },
     {
-        "title": "The beach at R\u00f8m\u00f8 is cordoned off while the defense conducts exercises",
+        "title": "Three men are imprisoned after the largest find of nitrous oxide in Denmark",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tre-maend-faengsles-efter-stoerste-fund-af-lattergas-i-danmark?referrer=RSS",
+        "published_date": "2026-09-02 14:34:46",
+        "category": "Energy"
+    },
+    {
+        "title": "The police seize 14 pallets of nitrous oxide",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/strand-paa-roemoe-spaerres-af-mens-forsvaret-laver-oevelser",
-        "published_date": "2026-08-25 10:12:56",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-beslaglaegger-14-paller-lattergas",
+        "published_date": "2026-09-02 07:14:43",
+        "category": "Energy"
     },
     {
         "title": "New Storstr\u00f8msbro is expected to open to train traffic earlier than expected",
@@ -315,11 +329,11 @@
         "category": "Energy"
     },
     {
-        "title": "A large majority of electricity customers want to do away with prepayment",
+        "title": "Twice Messerschmidt took issue with Vanoplagh: \"It's not right, Alex\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/dine-penge/stort-flertal-af-elkunder-vil-af-med-forudbetaling?referrer=RSS",
-        "published_date": "2026-08-25 10:32:15",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/politik/to-gange-gik-messerschmidt-i-rette-med-vanopslaghdet-er-jo-ikke-rigtigt-alex?referrer=RSS",
+        "published_date": "2026-09-02 14:07:32",
+        "category": "Economy"
     },
     {
         "title": "Berlingske believes: It is the Parliament, not the minister, who must decide how we look after the water environment",
@@ -336,143 +350,143 @@
         "category": "Economy"
     },
     {
-        "title": "World number two wins over teenager at US Open after injury",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/verdenstoer-vinder-over-teenager-ved-us-open-efter-skade?referrer=RSS",
-        "published_date": "2026-09-02 00:29:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Manchester City sign Argentinian from Chelsea in billion dollar deal",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/manchester-city-henter-argentiner-fra-chelsea-i-milliardhandel?referrer=RSS",
-        "published_date": "2026-09-02 00:05:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court in Honduras drops case against Trump-pardoned ex-president",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/domstol-i-honduras-dropper-sag-mod-trump-benaadet-ekspraesident?referrer=RSS",
-        "published_date": "2026-09-01 23:23:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least four are reported killed at a wedding during the US attack on Iran",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mindst-fire-meldes-draebt-ved-bryllup-under-amerikansk-angreb-paa-iran?referrer=RSS",
-        "published_date": "2026-09-01 22:54:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Putin accuses Germany of planting evidence of drone strikes",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/putin-anklager-tyskland-for-at-plante-beviser-for-droneangreb?referrer=RSS",
-        "published_date": "2026-09-01 21:52:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "92 people have repaid money from food checks",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/92-personer-har-tilbagebetalt-penge-fra-foedevarecheck?referrer=RSS",
-        "published_date": "2026-09-01 21:34:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dairy chairman: Farmers cheat with subsidies for controversial feed",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/maelkeformand-landmaend-snyder-med-tilskud-til-omstridt-foderstof?referrer=RSS",
-        "published_date": "2026-09-01 20:39:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young man hit and stabbed in the arm during a major fight in Glostrup",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-paakoert-og-stukket-i-armen-ved-stoerre-slagsmaal-i-glostrup",
-        "published_date": "2026-09-01 19:24:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US avoids shutting down the state apparatus",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-undgaar-nedlukning-af-statsapparatet",
-        "published_date": "2026-09-01 19:22:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three people sentenced to a total of more than ten years in prison for threatening witnesses and serious violence",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-personer-idoemt-sammenlagt-mere-end-ti-aars-faengsel-vidnetrusler-og-grov-vold",
-        "published_date": "2026-09-01 16:05:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Putin promises Iran support for the war against the US",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/putin-lover-iran-stoette-til-krigen-mod-usa",
-        "published_date": "2026-09-01 15:15:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "ATP delivers a return of 14.5 percent.But going forward, the focus must be on something else, says the CEO",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/atp-leverer-afkast-paa-145-procent-men-fremover-skal-fokus-vaere-paa-noget-andet-siger-topchef?referrer=RSS",
-        "published_date": "2026-09-01 15:10:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Putin promises necessary support to Iran during the war against the US",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/putin-lover-noedvendig-stoette-til-iran-under-krigen-mod-usa?referrer=RSS",
-        "published_date": "2026-09-01 15:01:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two convicted of indecent handling of corpses",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/doemt-usoemmelig-omgang-med-lig",
-        "published_date": "2026-09-01 15:00:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young Ukrainian woman ordered brutal assault in Airbnb villa",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/ung-ukrainsk-kvinde-bestilte-raat-overfald-i-airbnb-villa?referrer=RSS",
-        "published_date": "2026-09-01 14:57:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The war in the Middle East continues - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/krigen-i-mellemoesten-fortsaetter--foelg-med-her-66?referrer=RSS",
-        "published_date": "2026-09-01 14:46:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "You are kicking a social culture that is already down, S\u00f8ren Frank",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/du-sparker-til-en-social-kultur-der-allerede-ligger-ned-soeren-frank?referrer=RSS",
-        "published_date": "2026-09-01 14:45:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "How the make up of the Danish population could change by 2100",
+        "title": "Danish expression of the day: ellers tak",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260901/how-the-make-up-of-the-danish-population-could-change-by-2100",
-        "published_date": "2026-09-01 14:42:21",
+        "url": "https://www.thelocal.dk/20260902/danish-expression-of-the-day-ellers-tak",
+        "published_date": "2026-09-02 15:45:10",
         "category": "Local Events"
     },
     {
-        "title": "Two men burned the body of a murdered man in a wooded area",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/to-maend-braendte-liget-af-draebt-mand-af-i-skovomraade?referrer=RSS",
-        "published_date": "2026-09-01 14:34:46",
+        "title": "How to find a new hobby in Copenhagen this autumn",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260902/how-to-find-a-new-hobby-in-copenhagen-this-autumn",
+        "published_date": "2026-09-02 15:26:30",
         "category": "Local Events"
     },
     {
-        "title": "When 300 tractors drove in, the bourgeois division became visible.In front of angry farmers, St\u00f8jberg took aim at his old party",
+        "title": "Business update: The car giant is flirting with a 40-hour work week - without a pay rise",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/da-300-traktorer-koerte-ind-blev-den-borgerlige-splittelse-synlig-foran-vrede-landmaend-rettede-stoejberg-skytset-mod-sit-gamle-parti?referrer=RSS",
-        "published_date": "2026-09-01 14:34:10",
+        "url": "https://www.berlingske.dk/virksomheder/business-update-bilgigant-flirter-med-40-timers-arbejdsuge--uden-loenstigning?referrer=RSS",
+        "published_date": "2026-09-02 14:27:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish police must help at King Harald's funeral",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/dansk-politi-skal-hjaelpe-til-ved-kong-haralds-begravelse?referrer=RSS",
+        "published_date": "2026-09-02 14:24:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "US after accusation of wedding attack: We do not attack civilians",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-efter-anklage-om-bryllupsangreb-vi-angriber-ikke-civile?referrer=RSS",
+        "published_date": "2026-09-02 14:17:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tiger Woods pleads guilty to reckless driving",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tiger-woods-erkender-sig-skyldig-i-hensynsloes-koersel?referrer=RSS",
+        "published_date": "2026-09-02 14:02:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "20 people are believed to have gone down with the sunken ferry off Cyprus",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/20-personer-menes-vaere-gaaet-ned-med-forlist-faerge-ved-cypern",
+        "published_date": "2026-09-02 13:55:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "German media: Two suspects with Russian connections named in drone case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tyske-medier-to-mistaenkte-med-russiske-forbindelser-udpeget-i-dronesag?referrer=RSS",
+        "published_date": "2026-09-02 13:43:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Despite lukewarm reviews: Danish Netflix film is number two on the global list",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/trods-lunkne-anmeldelser-dansk-netflix-film-er-nummer-to-paa-global-liste?referrer=RSS",
+        "published_date": "2026-09-02 13:40:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Italian salami recalled",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/italiensk-salami-tilbagekaldes",
+        "published_date": "2026-09-02 12:38:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "22 die in bus accident in Egypt",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/22-mister-livet-i-busulykke-i-egypten",
+        "published_date": "2026-09-02 12:32:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "One in seven patients referred to hospital in Denmark is turned away",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260902/one-in-seven-patients-referred-to-hospital-in-denmark-is-turned-away",
+        "published_date": "2026-09-02 12:11:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "How do you feel about Danish citizenships potentially being frozen for another year?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260902/how-do-you-feel-about-danish-citizenships-potentially-being-frozen-for-another-year",
+        "published_date": "2026-09-02 11:12:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "45-year-old arrested in huge case: Charged with laundering 32 million kroner",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/esbjerg/45-aarig-anholdt-i-kaempe-sag-sigtet-for-hvidvask-af-32-millioner-kroner?rss",
+        "published_date": "2026-09-02 09:08:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four Rema 1000 stores receive fines for not having hidden tobacco products",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-rema-1000-butikker-faar-boeder-ikke-have-skjult-tobaksprodukter",
+        "published_date": "2026-09-02 08:33:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Speaker of the Storting expects a greater role for Crown Princess Ingrid",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/stortingets-formand-forventer-stoerre-rolle-til-kronprinsesse-ingrid",
+        "published_date": "2026-09-02 08:24:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "17.5 kilos of Legoland history is put up for auction",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/billund/17-5-kilo-legoland-historie-saettes-paa-auktion?rss",
+        "published_date": "2026-09-02 08:17:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260902/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-69",
+        "published_date": "2026-09-02 08:13:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Anni and four others defy the party line - the hinterland warns of division: - It is disloyal",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/anni-og-fire-andre-trodser-partilinjen-baglandet-advarer-om-splittelse-det-er-illoyalt?rss",
+        "published_date": "2026-09-02 08:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "German railway station reopens after minor explosion",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mindre-eksplosion-paa-tysk-banegaard-politiet-beder-folk-holde-sig-vaek",
+        "published_date": "2026-09-02 07:04:25",
         "category": "Local Events"
     }
 ]
