@@ -1,5 +1,12 @@
 [
     {
+        "title": "Suspected perpetrator behind the murder of Charlie Kirk pleads not guilty",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/formodet-gerningsmand-bag-drab-paa-charlie-kirk-naegter-sig-skyldig?referrer=RSS",
+        "published_date": "2026-09-02 00:29:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Denmark reopens embassy in Syria after 14-year closure",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260901/denmark-reopens-embassy-in-syria-after-14-year-closure",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "What's the difference between Schengen and EU free movement rules?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260828/whats-the-difference-between-schengen-and-eu-free-movement-rules",
-        "published_date": "2026-08-28 11:36:32",
-        "category": "Diplomacy"
+        "title": "Iran reports attack on US military base in Jordan",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-melder-om-angreb-paa-amerikansk-militaerbase-i-jordan?referrer=RSS",
+        "published_date": "2026-09-01 22:30:45",
+        "category": "Military"
+    },
+    {
+        "title": "Putin: Russia is advancing and will win the war",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/putin-rusland-rykker-frem-og-vil-vinde-krigen?referrer=RSS",
+        "published_date": "2026-09-01 22:20:48",
+        "category": "Military"
     },
     {
         "title": "India's Prime Minister calls for an end to the war in Ukraine",
@@ -228,13 +242,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/strand-paa-roemoe-spaerres-af-mens-forsvaret-laver-oevelser",
         "published_date": "2026-08-25 10:12:56",
-        "category": "Military"
-    },
-    {
-        "title": "Charged with threats to life after unrest in front of Netto",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/sigtet-for-trusler-paa-livet-efter-uro-foran-netto?referrer=RSS",
-        "published_date": "2026-08-24 21:08:46",
         "category": "Military"
     },
     {
@@ -329,11 +336,81 @@
         "category": "Economy"
     },
     {
-        "title": "The US will cut off 'all economic lifelines' to Iran",
+        "title": "World number two wins over teenager at US Open after injury",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/verdenstoer-vinder-over-teenager-ved-us-open-efter-skade?referrer=RSS",
+        "published_date": "2026-09-02 00:29:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Manchester City sign Argentinian from Chelsea in billion dollar deal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/manchester-city-henter-argentiner-fra-chelsea-i-milliardhandel?referrer=RSS",
+        "published_date": "2026-09-02 00:05:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court in Honduras drops case against Trump-pardoned ex-president",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/domstol-i-honduras-dropper-sag-mod-trump-benaadet-ekspraesident?referrer=RSS",
+        "published_date": "2026-09-01 23:23:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least four are reported killed at a wedding during the US attack on Iran",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mindst-fire-meldes-draebt-ved-bryllup-under-amerikansk-angreb-paa-iran?referrer=RSS",
+        "published_date": "2026-09-01 22:54:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Putin accuses Germany of planting evidence of drone strikes",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/putin-anklager-tyskland-for-at-plante-beviser-for-droneangreb?referrer=RSS",
+        "published_date": "2026-09-01 21:52:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "92 people have repaid money from food checks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/92-personer-har-tilbagebetalt-penge-fra-foedevarecheck?referrer=RSS",
+        "published_date": "2026-09-01 21:34:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dairy chairman: Farmers cheat with subsidies for controversial feed",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/maelkeformand-landmaend-snyder-med-tilskud-til-omstridt-foderstof?referrer=RSS",
+        "published_date": "2026-09-01 20:39:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man hit and stabbed in the arm during a major fight in Glostrup",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-vil-afskaere-alle-oekonomiske-livliner-til-iran",
-        "published_date": "2026-08-24 17:41:27",
-        "category": "Economy"
+        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-paakoert-og-stukket-i-armen-ved-stoerre-slagsmaal-i-glostrup",
+        "published_date": "2026-09-01 19:24:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US avoids shutting down the state apparatus",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-undgaar-nedlukning-af-statsapparatet",
+        "published_date": "2026-09-01 19:22:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three people sentenced to a total of more than ten years in prison for threatening witnesses and serious violence",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-personer-idoemt-sammenlagt-mere-end-ti-aars-faengsel-vidnetrusler-og-grov-vold",
+        "published_date": "2026-09-01 16:05:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Putin promises Iran support for the war against the US",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/putin-lover-iran-stoette-til-krigen-mod-usa",
+        "published_date": "2026-09-01 15:15:36",
+        "category": "Local Events"
     },
     {
         "title": "ATP delivers a return of 14.5 percent.But going forward, the focus must be on something else, says the CEO",
@@ -396,83 +473,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/da-300-traktorer-koerte-ind-blev-den-borgerlige-splittelse-synlig-foran-vrede-landmaend-rettede-stoejberg-skytset-mod-sit-gamle-parti?referrer=RSS",
         "published_date": "2026-09-01 14:34:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "She became famous for dating men for money.Now she has the lead role in a new Danish film",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/hun-blev-beroemt-for-at-date-maend-for-penge-nu-har-hun-hovedrollen-i-ny-dansk-film?referrer=RSS",
-        "published_date": "2026-09-01 14:20:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five young people detained after explosion at school",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/fem-unge-tilbageholdt-efter-spraengning-ved-skole?referrer=RSS",
-        "published_date": "2026-09-01 14:08:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five convicted of serious money laundering",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fem-doemt-grov-hvidvask",
-        "published_date": "2026-09-01 13:24:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "German police have found explosives at a substation in the state of Brandenburg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tysk-politi-har-fundet-spraengstof-ved-transformerstation-i-delstaten-brandenburg",
-        "published_date": "2026-09-01 12:59:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "16,000 children will go on an 'educational trip' in Odense",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/16-000-boern-skal-paa-dannelsesrejse-i-odense",
-        "published_date": "2026-09-01 12:11:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Keir Starmer resigns from the British Parliament",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/keir-starmer-traekker-sig-fra-det-britiske-parlament",
-        "published_date": "2026-09-01 11:42:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why were there so many tractors in central Copenhagen on Tuesday?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260901/why-are-there-so-many-tractors-in-central-copenhagen-on-tuesday",
-        "published_date": "2026-09-01 11:18:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police assistant convicted of defamation",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiassistent-doemt-blufaerdighedskraenkelse",
-        "published_date": "2026-09-01 10:43:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Eight women exposed to human trafficking at nail salons",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/otte-kvinder-udsat-menneskehandel-ved-neglesaloner",
-        "published_date": "2026-09-01 10:30:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Archaeologists find 20 skeletons from the Middle Ages in the middle of Frederiksberg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/arkaeologer-finder-20-skeletter-fra-middelalderen-midt-paa-frederiksberg",
-        "published_date": "2026-09-01 09:17:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260901/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-62",
-        "published_date": "2026-09-01 08:26:33",
         "category": "Local Events"
     }
 ]
