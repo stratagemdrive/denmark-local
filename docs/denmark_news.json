@@ -1,5 +1,26 @@
 [
     {
+        "title": "Ukraine asks UN to support no-fly zone in Russian airspace",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ukraine-beder-fn-om-at-stoette-flyveforbud-i-russisk-luftrum?referrer=RSS",
+        "published_date": "2026-09-03 00:34:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Thousands demonstrate with flags and whistles in the streets of Ceuta",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tusindvis-demonstrerer-med-flag-og-floejter-i-ceutas-gader?referrer=RSS",
+        "published_date": "2026-09-02 21:47:55",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Proud HB K\u00f8ge players put Denmark on the European map",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/stolte-hb-koege-spillere-saetter-danmark-paa-europakortet?referrer=RSS",
+        "published_date": "2026-09-02 21:19:50",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Ryanair to cut winter flights in Europe to save on fuel costs",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260902/ryanair-to-cut-winter-flights-in-europe-to-save-on-fuel-costs",
@@ -119,27 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Iceland votes on whether to resume EU membership talks",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260829/iceland-votes-on-whether-to-resume-eu-membership-talks",
-        "published_date": "2026-08-29 13:01:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Chemical spill with hydrochloric acid in Nibe",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kemikalieudslip-med-saltsyre-i-nibe",
-        "published_date": "2026-08-29 08:56:11",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "A close race is expected in the Icelandic vote on negotiations with the EU",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/der-ventes-taet-loeb-i-islandsk-afstemning-om-forhandlinger-med-eu?referrer=RSS",
-        "published_date": "2026-08-29 03:32:46",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Five western municipalities will not accept Ukrainian refugees",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/fem-vestegnskommuner-skal-ikke-modtage-ukrainske-flygtninge?referrer=RSS",
@@ -238,11 +238,11 @@
         "category": "Military"
     },
     {
-        "title": "The Germans should be \"ashamed\": Harsh accusations against seven Ukrainians are ripping open an old wound",
+        "title": "Norway seizes Russian ship in Svalbard",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tyskerne-burde-skamme-sig-barske-anklager-mod-syv-ukrainere-ripper-op-i-gammelt-saar?referrer=RSS",
-        "published_date": "2026-08-25 20:16:02",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/internationalt/norge-beslaglaegger-russisk-skib-paa-svalbard?referrer=RSS",
+        "published_date": "2026-09-02 22:19:48",
+        "category": "Energy"
     },
     {
         "title": "Three men are imprisoned after the largest find of nitrous oxide in Denmark",
@@ -322,13 +322,6 @@
         "category": "Energy"
     },
     {
-        "title": "Bod\u00f8/Glimt is ready for a new adventure in the Champions League",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/bodoeglimt-er-klar-til-nyt-eventyr-i-champions-league?referrer=RSS",
-        "published_date": "2026-08-25 22:01:45",
-        "category": "Energy"
-    },
-    {
         "title": "Twice Messerschmidt took issue with Vanoplagh: \"It's not right, Alex\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/to-gange-gik-messerschmidt-i-rette-med-vanopslaghdet-er-jo-ikke-rigtigt-alex?referrer=RSS",
@@ -348,6 +341,83 @@
         "url": "https://www.berlingske.dk/internationalt/trumps-oekonomiske-d-dag-mod-iran-er-foreloebig-en-fuser-det-er-der-isaer-en-grund-til-frygten-for-kina?referrer=RSS",
         "published_date": "2026-08-31 17:04:05",
         "category": "Economy"
+    },
+    {
+        "title": "Woman lost 17 family members in natural disaster in Nepal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kvinde-mistede-17-familiemedlemmer-i-naturkatastrofe-i-nepal?referrer=RSS",
+        "published_date": "2026-09-03 00:34:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump discusses decline in US tourism with travel industry",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-droefter-nedgang-i-usas-turisme-med-rejsebranchen?referrer=RSS",
+        "published_date": "2026-09-02 23:21:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "New York shuts down artificial intelligence in public schools",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/new-york-lukker-ned-for-kunstig-intelligens-i-offentlige-skoler?referrer=RSS",
+        "published_date": "2026-09-02 23:18:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cyclist is in critical condition after overtaking on Amager",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/cyklist-er-i-kritisk-tilstand-efter-overhaling-paa-amager?referrer=RSS",
+        "published_date": "2026-09-02 22:42:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish-Faroese film with Pilou Asb\u00e6k receives rave reviews",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dansk-faeroesk-film-med-pilou-asbaek-faar-anmelderroser?referrer=RSS",
+        "published_date": "2026-09-02 21:47:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "See the highlights: Nordjyder runs from Grindsted in the Speedway league",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/speedway/se-matchen-her-nordjyderne-tager-en-sejr-over-grindsted?rss",
+        "published_date": "2026-09-02 21:45:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "FCM sells Super League top scorer to Salah's club",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fcm-saelger-superligatopscorer-til-salahs-klub?referrer=RSS",
+        "published_date": "2026-09-02 21:40:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Is VAT differentiation a bad idea?",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/politik/reels/er-momsdifferentiering-en-daarlig-ide",
+        "published_date": "2026-09-02 18:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "New president appointed in Estonia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-praesident-udpeget-i-estland",
+        "published_date": "2026-09-02 17:17:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "North Jutland festival sold out in 55 minutes",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nordjysk-festival-udsolgt-paa-55-minutter",
+        "published_date": "2026-09-02 16:26:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump proposes naming the Strait of Hormuz after himself",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-foreslaar-navngive-hormuzstraedet-efter-sig-selv",
+        "published_date": "2026-09-02 16:08:54",
+        "category": "Local Events"
     },
     {
         "title": "Danish expression of the day: ellers tak",
@@ -410,83 +480,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/trods-lunkne-anmeldelser-dansk-netflix-film-er-nummer-to-paa-global-liste?referrer=RSS",
         "published_date": "2026-09-02 13:40:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Italian salami recalled",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/italiensk-salami-tilbagekaldes",
-        "published_date": "2026-09-02 12:38:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "22 die in bus accident in Egypt",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/22-mister-livet-i-busulykke-i-egypten",
-        "published_date": "2026-09-02 12:32:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "One in seven patients referred to hospital in Denmark is turned away",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260902/one-in-seven-patients-referred-to-hospital-in-denmark-is-turned-away",
-        "published_date": "2026-09-02 12:11:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "How do you feel about Danish citizenships potentially being frozen for another year?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260902/how-do-you-feel-about-danish-citizenships-potentially-being-frozen-for-another-year",
-        "published_date": "2026-09-02 11:12:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "45-year-old arrested in huge case: Charged with laundering 32 million kroner",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/45-aarig-anholdt-i-kaempe-sag-sigtet-for-hvidvask-af-32-millioner-kroner?rss",
-        "published_date": "2026-09-02 09:08:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four Rema 1000 stores receive fines for not having hidden tobacco products",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-rema-1000-butikker-faar-boeder-ikke-have-skjult-tobaksprodukter",
-        "published_date": "2026-09-02 08:33:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Speaker of the Storting expects a greater role for Crown Princess Ingrid",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stortingets-formand-forventer-stoerre-rolle-til-kronprinsesse-ingrid",
-        "published_date": "2026-09-02 08:24:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "17.5 kilos of Legoland history is put up for auction",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/17-5-kilo-legoland-historie-saettes-paa-auktion?rss",
-        "published_date": "2026-09-02 08:17:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260902/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-69",
-        "published_date": "2026-09-02 08:13:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anni and four others defy the party line - the hinterland warns of division: - It is disloyal",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/anni-og-fire-andre-trodser-partilinjen-baglandet-advarer-om-splittelse-det-er-illoyalt?rss",
-        "published_date": "2026-09-02 08:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "German railway station reopens after minor explosion",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mindre-eksplosion-paa-tysk-banegaard-politiet-beder-folk-holde-sig-vaek",
-        "published_date": "2026-09-02 07:04:25",
         "category": "Local Events"
     }
 ]
