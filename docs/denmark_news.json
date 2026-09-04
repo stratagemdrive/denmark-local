@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ren\u00e9 is security approved: Nato has said good for the local sausage man",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/toender/rene-er-sikkerhedsgodkendt-nato-har-sagt-god-for-lokal-poelsemand?rss",
+        "published_date": "2026-09-03 19:14:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "A pressured S\u00e1nchez took the podium - but survives \"here and now\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/en-presset-sanchez-indtog-talerstolen--men-overleverher-og-nu?referrer=RSS",
@@ -130,13 +137,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260831/gardener-discovers-denmarks-largest-viking-hoard-while-digging-patio",
         "published_date": "2026-08-31 09:36:32",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iceland's prime minister will comply with the population's EU no",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/islands-statsminister-vil-rette-sig-efter-befolkningens-eu-nej?referrer=RSS",
-        "published_date": "2026-08-30 14:52:44",
         "category": "Diplomacy"
     },
     {
@@ -301,6 +301,13 @@
         "category": "Energy"
     },
     {
+        "title": "Bordeaux is relegated to the sixth best tier in France",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/bordeaux-sendes-ned-i-sjettebedste-raekke-i-frankrig?referrer=RSS",
+        "published_date": "2026-09-03 21:18:47",
+        "category": "Economy"
+    },
+    {
         "title": "Twice Messerschmidt took issue with Vanoplagh: \"It's not right, Alex\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/to-gange-gik-messerschmidt-i-rette-med-vanopslaghdet-er-jo-ikke-rigtigt-alex?referrer=RSS",
@@ -322,10 +329,108 @@
         "category": "Economy"
     },
     {
+        "title": "Trump Names New Acting Secretary of the United States Army",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-udpeger-ny-fungerende-minister-for-usas-haer?referrer=RSS",
+        "published_date": "2026-09-03 23:28:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba introduces several market reforms under pressure from the United States",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/cuba-indfoerer-flere-markedsreformer-under-pres-fra-usa?referrer=RSS",
+        "published_date": "2026-09-03 22:54:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump's triumphal arch will begin within two weeks, says interior minister",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trumps-triumfbue-paabegyndes-inden-uger-siger-indenrigsminister",
+        "published_date": "2026-09-03 22:28:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "US investigates accusation of attack on Iranian wedding",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-undersoeger-anklage-om-angreb-paa-iransk-bryllup",
+        "published_date": "2026-09-03 22:13:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Volkswagen will cut 100,000 jobs before the end of the year",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/volkswagen-vil-nedlaegge-100000-stillinger-inden-aartiets-udgang?referrer=RSS",
+        "published_date": "2026-09-03 22:04:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tauson gets another early exit in the US Open with defeat in doubles",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tauson-faar-ny-tidlig-exit-i-us-open-med-nederlag-i-double?referrer=RSS",
+        "published_date": "2026-09-03 20:48:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "32,366 fingerprints in the police database have been affected by system errors",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/32366-fingeraftryk-i-politiets-database-har-vaeret-ramt-af-systemfejl?referrer=RSS",
+        "published_date": "2026-09-03 20:40:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Third-seeded Canadian sent out of US Open",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tredjeseedet-canadier-sendt-ud-af-us-open?referrer=RSS",
+        "published_date": "2026-09-03 20:12:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "US investigates Iranian accusation of attack on wedding party",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-undersoeger-iransk-anklage-om-angreb-paa-bryllupsfest?referrer=RSS",
+        "published_date": "2026-09-03 20:08:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Well-placed FCK beats FCN and takes first place",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/veloplagte-fck-slaar-fcn-og-laegger-sig-paa-foerstepladsen?referrer=RSS",
+        "published_date": "2026-09-03 20:01:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "GOG fights for points in a close duel against TTH Holstebro",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/gog-kaemper-sig-til-point-i-taet-duel-mod-tth-holstebro?referrer=RSS",
+        "published_date": "2026-09-03 20:01:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six months and a million kroner to shoot one wolf: - Unbelievably amateurish",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/varde/seks-maaneder-og-en-million-kroner-for-at-skyde-en-ulv-utroligt-amatoeragtigt?rss",
+        "published_date": "2026-09-03 18:04:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Danish parliament passes new work permit law for certain nationalities",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260903/danish-parliament-passes-new-work-permit-law-for-certain-nationalities",
         "published_date": "2026-09-03 15:31:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of missing in Nepal and Tibet is being adjusted upwards",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-savnede-i-nepal-og-tibet-opjusteres",
+        "published_date": "2026-09-03 15:08:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Controversial Flextrafik supplier filed for bankruptcy",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/omstridt-flextrafik-leverandoer-begaeret-konkurs",
+        "published_date": "2026-09-03 15:01:39",
         "category": "Local Events"
     },
     {
@@ -361,104 +466,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/synspunkter/i-kampen-mod-islam-smider-stoejberg-sine-egne-kristne-vaerdier-under-bussen?referrer=RSS",
         "published_date": "2026-09-03 14:33:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "North Jutland man from the mink industry is convicted of money laundering",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/nordjysk-mand-fra-minkbranchen-doemmes-for-hvidvask?referrer=RSS",
-        "published_date": "2026-09-03 14:10:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Football's cross-border consumption party breaks records again",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fodboldens-graenseoverskridende-forbrugsfest-slaar-rekord-igen?referrer=RSS",
-        "published_date": "2026-09-03 13:58:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another person sentenced for money laundering with mink fur",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/endnu-en-person-doemt-hvidvask-med-minkskind",
-        "published_date": "2026-09-03 13:44:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swede charged with contact fraud for DKK 1.2 million",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/svensker-sigtet-kontaktbedrageri-1-2-millioner-kroner",
-        "published_date": "2026-09-03 13:11:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "First portrait painting of King Frederik on the way",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/foerste-portraetmaleri-af-kong-frederik-paa-vej",
-        "published_date": "2026-09-03 12:55:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish intelligence warns Russia 'actively preparing' sabotage plans",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260903/danish-intelligence-warns-russia-actively-preparing-sabotage-plans",
-        "published_date": "2026-09-03 12:48:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "What's in the 2027 budget for Copenhagen municipality?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260903/whats-in-the-2027-budget-for-copenhagen-municipality",
-        "published_date": "2026-09-03 11:10:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wammen calls an emergency meeting after errors in the criminal record",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/wammen-indkalder-til-hastemoede-efter-fejl-i-kriminalregisteret",
-        "published_date": "2026-09-03 10:59:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Successful brewery changes name - and drops the bottles: - It's a natural part of our journey",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/mad/populaert-bryghus-skifter-navn-og-dropper-flaskerne-det-er-en-naturlig-del-af-vores-rejse?rss",
-        "published_date": "2026-09-03 10:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why does the new fertilizer act create debate?",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/politik/reels/hvorfor-skaber-den-nye-goedskningslov-debat",
-        "published_date": "2026-09-03 09:19:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Boat found off Canary Islands - 80 believed to have lost their lives",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/baad-fundet-ud-de-kanariske-oeer-80-menes-have-mistet-livet",
-        "published_date": "2026-09-03 09:04:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Thursday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260903/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-55",
-        "published_date": "2026-09-03 08:26:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Taxi driving in self-driving cars will be possible in London",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/taxakoersel-i-selvkoerende-bil-bliver-muligt-i-london",
-        "published_date": "2026-09-03 06:40:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police practice with full equipment on Bornholm today",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-oever-med-fuldt-udstyr-paa-bornholm-i-dag",
-        "published_date": "2026-09-03 06:02:49",
         "category": "Local Events"
     }
 ]
