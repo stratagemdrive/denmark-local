@@ -1,5 +1,54 @@
 [
     {
+        "title": "Five EU countries aim to send rejected migrants to 'return hubs' by 2027",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260904/five-eu-countries-aim-to-send-rejected-migrants-to-return-hubs-by-2027",
+        "published_date": "2026-09-04 15:24:01",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "In the middle of a huge crisis between the USA and Denmark: 50,000 American soldiers get a Danish medal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/midt-i-kaempe-krise-mellem-usa-og-danmark-50000-amerikanske-soldater-faar-dansk-medalje?referrer=RSS",
+        "published_date": "2026-09-04 14:15:29",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Denmark draws up an extradition agreement with Morocco",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/danmark-laver-udleveringsaftale-med-marokko?referrer=RSS",
+        "published_date": "2026-09-04 14:12:45",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Could Europe's border queues get longer this month as key EES date passes?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260904/could-europes-border-queues-get-longer-this-month-as-key-ees-date-passes",
+        "published_date": "2026-09-04 13:13:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Danish migration minister: First non-EU deportation centre ready 'next year'",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260904/danish-migration-minister-first-non-eu-deportation-centre-ready-next-year",
+        "published_date": "2026-09-04 12:03:16",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Will the European Union take up the climate fight after brutal heatwaves?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260904/will-the-european-union-take-up-the-climate-fight-after-brutal-heatwaves",
+        "published_date": "2026-09-04 10:10:40",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Rare summit in Esbjerg: The king, Manchester United billionaire and top politicians gather on one quay",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/esbjerg/sjaeldent-topmoede-i-esbjerg-kongen-manchester-united-milliardaer-og-toppolitikere-samles-paa-en-kaj?rss",
+        "published_date": "2026-09-04 05:09:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Ren\u00e9 is security approved: Nato has said good for the local sausage man",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/toender/rene-er-sikkerhedsgodkendt-nato-har-sagt-god-for-lokal-poelsemand?rss",
@@ -91,53 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Statistics show that more young people than older people go to museums",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-unge-end-aeldre-gaar-paa-museum-viser-opgoerelse",
-        "published_date": "2026-09-01 07:38:33",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Denmark reopens embassy in Syria after 14 years",
+        "title": "Latest news about the war in Ukraine - follow the developments here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/danmark-genaabner-ambassade-i-syrien-efter-14-aar?referrer=RSS",
-        "published_date": "2026-08-31 17:00:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Ship suspected of being part of the shadow fleet boarded by the EU mission",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skib-mistaenkt-vaere-del-af-skyggeflaaden-bordet-af-eu-mission",
-        "published_date": "2026-08-31 16:29:39",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "After 14 years: Now L\u00f8kke reopens Denmark's embassy in Syria",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/efter-14-aarnu-genaabner-loekke-danmarks-ambassade-i-syrien?referrer=RSS",
-        "published_date": "2026-08-31 16:26:04",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Pedro S\u00e1nchez: Israel and Russia took advantage of the Ceuta crisis",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pedro-sanchez-israel-og-rusland-udnyttede-ceuta-krisen",
-        "published_date": "2026-08-31 10:27:09",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "'Warning to Europe': How Iceland's 'No' vote is a blow to the EU",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260831/warning-to-europe-how-icelands-no-vote-is-a-blow-to-the-eu",
-        "published_date": "2026-08-31 10:12:13",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Gardener discovers Denmark's largest Viking hoard while digging patio",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260831/gardener-discovers-denmarks-largest-viking-hoard-while-digging-patio",
-        "published_date": "2026-08-31 09:36:32",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine--foelg-udviklingen-her-76?referrer=RSS",
+        "published_date": "2026-09-04 14:10:24",
+        "category": "Military"
     },
     {
         "title": "Portuguese authorities found five tons of cocaine on a Maersk ship",
@@ -224,18 +231,18 @@
         "category": "Military"
     },
     {
-        "title": "Latest news about the war in Ukraine and the situation in Russia - stay tuned here",
+        "title": "Business update: Car giant lays off 100,000 - the stock market rejoices",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine-og-situationen-i-rusland--foelg-med-her-1870?referrer=RSS",
-        "published_date": "2026-08-27 04:05:45",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/business/business-update-bilgigant-fyrer-100000--aktiemarkedet-jubler?referrer=RSS",
+        "published_date": "2026-09-04 14:20:51",
+        "category": "Energy"
     },
     {
-        "title": "Law closes residence for conscripted Ukrainian men",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/lov-lukker-for-ophold-til-militaerpligtige-ukrainske-maend?referrer=RSS",
-        "published_date": "2026-08-27 04:00:46",
-        "category": "Military"
+        "title": "Hundreds of vehicles sent a greeting to the minister: Here is Rabjerg's reaction",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/varde/demonstration-er-i-gang-store-maskiner-holder-langs-hovedvej?rss",
+        "published_date": "2026-09-04 11:49:50",
+        "category": "Energy"
     },
     {
         "title": "Norway seizes Russian ship in Svalbard",
@@ -294,13 +301,6 @@
         "category": "Energy"
     },
     {
-        "title": "Large decrease in the number of hours with negative electricity prices",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/stort-fald-i-antallet-af-timer-med-negative-elpriser?referrer=RSS",
-        "published_date": "2026-08-27 03:31:47",
-        "category": "Energy"
-    },
-    {
         "title": "Bordeaux is relegated to the sixth best tier in France",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/bordeaux-sendes-ned-i-sjettebedste-raekke-i-frankrig?referrer=RSS",
@@ -329,6 +329,132 @@
         "category": "Economy"
     },
     {
+        "title": "Joe's gay lover is a monster - and that's just the beginning",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/joes-homoelsker-er-et-monster--og-det-er-bare-begyndelsen?referrer=RSS",
+        "published_date": "2026-09-04 14:31:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about Danish politics",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik-1?referrer=RSS",
+        "published_date": "2026-09-04 14:19:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about American politics - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-275?referrer=RSS",
+        "published_date": "2026-09-04 14:14:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 53-year-old man has died in an accident at work",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/53-aarig-mand-er-omkommet-i-arbejdsulykke?referrer=RSS",
+        "published_date": "2026-09-04 14:12:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "An employee at a pharmacy stole medicine and misused information about patients",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/ansat-paa-apotek-stjal-medicin-og-misbrugte-oplysninger-om-patienter?referrer=RSS",
+        "published_date": "2026-09-04 14:09:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "S\u00f8nderjyske sign a new goalkeeper after a terrible start",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/soenderjyske-henter-ny-maalmand-efter-skraekstart?referrer=RSS",
+        "published_date": "2026-09-04 14:09:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "71-year-old woman will be jailed for abuse by her husband",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/71-aarig-kvinde-faar-faengsel-mishandling-af-sin-mand",
+        "published_date": "2026-09-04 14:06:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lorry driver drove into railway bridge: - Of course he is shaken",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/lastbilchauffoer-koerte-ind-i-jernbanebro-han-er-selvfoelgelig-rystet?rss",
+        "published_date": "2026-09-04 11:00:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "The exit deadline for people from Iran or Lebanon will be resumed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/udrejsefrist-personer-fra-iran-eller-libanon-genoptages",
+        "published_date": "2026-09-04 10:52:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Suddenly the Fyn star appeared at the hospice: - He touched us all",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/odense/fynsk-stjerne-overrasker-beboer-paa-hospice?rss",
+        "published_date": "2026-09-04 10:30:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Adoptees receive help to find biological family",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/adopterede-faar-hjaelp-til-finde-biologisk-familie",
+        "published_date": "2026-09-04 09:46:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kiosk owner lost in the Supreme Court: Now the case goes to Strasbourg",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/soenderborg/kioskejer-fra-augustenborg-tabte-i-hoejesteret-nu-gaar-sagen-til-strasbourg?rss",
+        "published_date": "2026-09-04 09:04:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police urge residents in Frederiks to close doors and windows",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-opfordrer-beboere-i-frederiks-til-lukke-doere-og-vinduer",
+        "published_date": "2026-09-04 08:44:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Friday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260904/today-in-denmark-a-roundup-of-the-latest-news-on-friday-60",
+        "published_date": "2026-09-04 08:03:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lack of cars challenges flexible traffic on the third day in several parts of the country",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/indland/mangel-paa-biler-udfordrer-flextrafik-paa-tredje-doegn-i-flere-landsdele?rss",
+        "published_date": "2026-09-04 08:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "32-year-old suffered severe injuries when he was hit by a freight train - now he risks prison",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/32-aarig-fik-voldsomme-skader-da-han-blev-ramt-af-godstog-nu-risikerer-han-faengsel?rss",
+        "published_date": "2026-09-04 07:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Novo Nordisk Foundation will build a quantum factory in Copenhagen",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/novo-nordisk-fonden-vil-bygge-kvantefabrik-i-koebenhavn",
+        "published_date": "2026-09-04 06:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump has appointed a new acting secretary of the country's army",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-har-udpeget-ny-fungerende-minister-landets-haer",
+        "published_date": "2026-09-04 03:58:57",
+        "category": "Local Events"
+    },
+    {
         "title": "Trump Names New Acting Secretary of the United States Army",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-udpeger-ny-fungerende-minister-for-usas-haer?referrer=RSS",
@@ -340,132 +466,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/cuba-indfoerer-flere-markedsreformer-under-pres-fra-usa?referrer=RSS",
         "published_date": "2026-09-03 22:54:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump's triumphal arch will begin within two weeks, says interior minister",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trumps-triumfbue-paabegyndes-inden-uger-siger-indenrigsminister",
-        "published_date": "2026-09-03 22:28:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "US investigates accusation of attack on Iranian wedding",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-undersoeger-anklage-om-angreb-paa-iransk-bryllup",
-        "published_date": "2026-09-03 22:13:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Volkswagen will cut 100,000 jobs before the end of the year",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/volkswagen-vil-nedlaegge-100000-stillinger-inden-aartiets-udgang?referrer=RSS",
-        "published_date": "2026-09-03 22:04:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tauson gets another early exit in the US Open with defeat in doubles",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tauson-faar-ny-tidlig-exit-i-us-open-med-nederlag-i-double?referrer=RSS",
-        "published_date": "2026-09-03 20:48:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "32,366 fingerprints in the police database have been affected by system errors",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/32366-fingeraftryk-i-politiets-database-har-vaeret-ramt-af-systemfejl?referrer=RSS",
-        "published_date": "2026-09-03 20:40:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Third-seeded Canadian sent out of US Open",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tredjeseedet-canadier-sendt-ud-af-us-open?referrer=RSS",
-        "published_date": "2026-09-03 20:12:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "US investigates Iranian accusation of attack on wedding party",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-undersoeger-iransk-anklage-om-angreb-paa-bryllupsfest?referrer=RSS",
-        "published_date": "2026-09-03 20:08:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Well-placed FCK beats FCN and takes first place",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/veloplagte-fck-slaar-fcn-og-laegger-sig-paa-foerstepladsen?referrer=RSS",
-        "published_date": "2026-09-03 20:01:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "GOG fights for points in a close duel against TTH Holstebro",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/gog-kaemper-sig-til-point-i-taet-duel-mod-tth-holstebro?referrer=RSS",
-        "published_date": "2026-09-03 20:01:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six months and a million kroner to shoot one wolf: - Unbelievably amateurish",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/varde/seks-maaneder-og-en-million-kroner-for-at-skyde-en-ulv-utroligt-amatoeragtigt?rss",
-        "published_date": "2026-09-03 18:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish parliament passes new work permit law for certain nationalities",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260903/danish-parliament-passes-new-work-permit-law-for-certain-nationalities",
-        "published_date": "2026-09-03 15:31:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of missing in Nepal and Tibet is being adjusted upwards",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-savnede-i-nepal-og-tibet-opjusteres",
-        "published_date": "2026-09-03 15:08:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Controversial Flextrafik supplier filed for bankruptcy",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/omstridt-flextrafik-leverandoer-begaeret-konkurs",
-        "published_date": "2026-09-03 15:01:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unwanted swamp beavers have been spotted several times on R\u00f8m\u00f8",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/uoensket-sumpbaever-er-flere-gange-blevet-spottet-paa-roemoe?referrer=RSS",
-        "published_date": "2026-09-03 14:43:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Berlingske believes: Take the consequence and put up a sign at the city border that says \"skid, motorist\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/berlingske-mener-tag-dog-konsekvensen-og-saet-et-skilt-op-ved-bygraensen-hvor-der-staar-skrid-bilist?referrer=RSS",
-        "published_date": "2026-09-03 14:39:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Showdown with gender-segregated swimming in Copenhagen - and it will also be men who have to supervise",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/opgoer-med-koensopdelt-svoemning-i-koebenhavn--og-det-bliver-ogsaa-maend-der-skal-foere-tilsyn?referrer=RSS",
-        "published_date": "2026-09-03 14:37:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dolly Parton's star on Hollywood's 'Walk of Fame' is being restored",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dolly-partons-stjerne-paa-hollywoods-walk-fame-restaureres",
-        "published_date": "2026-09-03 14:34:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "In the fight against Islam, St\u00f8jberg throws his own Christian values \u200b\u200bunder the bus",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/i-kampen-mod-islam-smider-stoejberg-sine-egne-kristne-vaerdier-under-bussen?referrer=RSS",
-        "published_date": "2026-09-03 14:33:52",
         "category": "Local Events"
     }
 ]
