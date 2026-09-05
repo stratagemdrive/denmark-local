@@ -1,5 +1,26 @@
 [
     {
+        "title": "Government parties propose openness in the Afghanistan investigation",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/regeringspartier-indstiller-til-aabenhed-i-afghanistan-udredning?referrer=RSS",
+        "published_date": "2026-09-05 11:42:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "On the Agenda: What's happening in Denmark this week?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260905/on-the-agenda-whats-happening-in-denmark-this-week-7",
+        "published_date": "2026-09-05 08:55:56",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU to help cities clamp down on tourist rentals",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260905/eu-to-help-cities-clamp-down-on-tourist-rentals",
+        "published_date": "2026-09-05 08:38:52",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The airport in Greenland, threatened with closure, may have to be used by Nato",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/lukningstruet-lufthavn-i-groenland-skal-maaske-bruges-af-nato",
@@ -119,25 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "In March, the new Statens Natural History Museum will open",
+        "title": "Military plane crashed at air show near Athens",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/til-marts-aabner-det-nye-statens-naturhistoriske-museum",
-        "published_date": "2026-09-02 08:23:01",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/militaerfly-styrtet-ned-ved-luftshow-naer-athen",
+        "published_date": "2026-09-05 13:23:35",
+        "category": "Military"
     },
     {
-        "title": "Suspected perpetrator behind the murder of Charlie Kirk pleads not guilty",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/formodet-gerningsmand-bag-drab-paa-charlie-kirk-naegter-sig-skyldig?referrer=RSS",
-        "published_date": "2026-09-02 00:29:44",
-        "category": "Diplomacy"
+        "title": "The Norwegian Defense Forces sends F35 aircraft on the wings on the occasion of Flag Day",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/forsvaret-sender-f35-fly-paa-vingerne-i-anledning-af-flagdag",
+        "published_date": "2026-09-05 09:12:12",
+        "category": "Military"
     },
     {
-        "title": "Denmark reopens embassy in Syria after 14-year closure",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260901/denmark-reopens-embassy-in-syria-after-14-year-closure",
-        "published_date": "2026-09-01 13:37:01",
-        "category": "Diplomacy"
+        "title": "Several people are reported dead after an explosion at a military barracks in Bolivia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-meldes-draebt-efter-eksplosion-paa-en-militaerkaserne-i-bolivia",
+        "published_date": "2026-09-05 03:57:04",
+        "category": "Military"
     },
     {
         "title": "Several are reported killed in Israeli airstrikes in Lebanon",
@@ -336,6 +357,118 @@
         "category": "Economy"
     },
     {
+        "title": "Man rescued from tunnel ten days after floods in Nepal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mand-reddet-ud-af-tunnel-ti-dage-efter-oversvoemmelser-i-nepal?referrer=RSS",
+        "published_date": "2026-09-05 13:30:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "UK government condemns demonstration at Dover",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/storbritanniens-regering-fordoemmer-demonstration-ved-dover",
+        "published_date": "2026-09-05 13:30:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police removed protesters by force after blocking the street",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politi-fjernede-demonstranter-med-magt-efter-blokering-af-gade?referrer=RSS",
+        "published_date": "2026-09-05 13:20:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Big talent shines with two dream goals in big FCN comeback",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/stortalent-brillerer-med-to-droemmemaal-i-stort-fcn-comeback?referrer=RSS",
+        "published_date": "2026-09-05 13:08:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Antonsen misses the final in China after grueling drama",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/antonsen-misser-finalen-i-kina-efter-opslidende-drama?referrer=RSS",
+        "published_date": "2026-09-05 13:01:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Putin orders: No attacks on Kyiv for three days",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/putin-beordrer-ingen-angreb-paa-kyiv-i-tre-dage",
+        "published_date": "2026-09-05 12:45:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "A random stop led the police to a large hash find",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/et-tilfaeldigt-stop-foerte-politiet-til-stort-hashfund?referrer=RSS",
+        "published_date": "2026-09-05 12:24:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Over a kilometer long queue for King Harald's coffin",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/over-en-kilometer-lang-koe-til-kong-haralds-kiste?referrer=RSS",
+        "published_date": "2026-09-05 11:39:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Only when Laura ran down from the balcony did she see how young the victim was: \"There really is a hard culture among the young\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/foerst-da-laura-loeb-ned-fra-altanen-saa-hun-hvor-ungt-offeret-var-der-er-virkelig-en-haard-kultur-blandt-de-unge?referrer=RSS",
+        "published_date": "2026-09-05 11:36:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Witkoff and Kushner have landed in Moscow ahead of peace talks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/witkoff-og-kushner-er-landet-i-moskva-forud-for-fredsforhandlinger?referrer=RSS",
+        "published_date": "2026-09-05 11:17:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Permanent veterans' home in Slagelse is inaugurated on flag day for deployed personnel",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/permanent-veteranhjem-i-slagelse-indvies-paa-flagdagen-for-udsendte?referrer=RSS",
+        "published_date": "2026-09-05 11:13:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Over a kilometer long queue for King Harald's coffin",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/over-en-kilometer-lang-koe-til-kong-haralds-kiste",
+        "published_date": "2026-09-05 10:56:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police stopped the car and found 137 kilos of hashish",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-stoppede-bil-og-fandt-137-kilo-hash",
+        "published_date": "2026-09-05 08:23:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tvind sells out after 43 years - but spends money in the luxury villa of the missing manager: Will Amdi come back?",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/billund/tvind-saelger-ud-efter-43-aar-men-skyder-penge-i-forsvundet-leders-luksusvilla-kommer-amdi-tilbage?rss",
+        "published_date": "2026-09-05 07:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shooting incident in V\u00e6rl\u00f8se last night - no injuries",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skudepisode-i-vaerloese-i-aftes-ingen-tilskadekomne",
+        "published_date": "2026-09-05 06:34:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Train buses are deployed on the section between Copenhagen and Helsing\u00f8r",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/togbusser-indsaettes-paa-straekning-mellem-koebenhavn-og-helsingoer",
+        "published_date": "2026-09-05 06:19:43",
+        "category": "Local Events"
+    },
+    {
         "title": "Mourinho after first Real defeat: I don't understand",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/mourinho-efter-foerste-real-nederlag-jeg-forstaar-det-ikke?referrer=RSS",
@@ -361,118 +494,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/froholdt-har-faaet-hjernerystelse-i-fc-porto-sejr?referrer=RSS",
         "published_date": "2026-09-04 22:25:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The invention of the party speaker Soundboks becomes a feature film",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/opfindelsen-af-festhoejttaleren-soundboks-bliver-til-spillefilm?referrer=RSS",
-        "published_date": "2026-09-04 21:18:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three minutes of magic from Gakpo and Isak gives Liverpool victory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tre-minutters-magi-fra-gakpo-og-isak-skaffer-liverpool-sejr?referrer=RSS",
-        "published_date": "2026-09-04 20:58:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "She admits to having killed her three children - now Lindsay Clancy's trial is declared invalid",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hun-erkender-at-have-draebt-sine-tre-boern--nu-erklaeres-lindsay-clancys-retssag-ugyldig?referrer=RSS",
-        "published_date": "2026-09-04 20:29:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lyngby beats the top team and picks up the first win of the season",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12375860#liveblog-embed",
-        "published_date": "2026-09-04 18:52:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge to declare lawsuit against Lindsay Clancy void",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dommer-vil-erklaere-retssag-mod-lindsay-clancy-ugyldig",
-        "published_date": "2026-09-04 16:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "L\u00f8kke makes an extradition agreement with Morocco",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/loekke-laver-udleveringsaftale-med-marokko",
-        "published_date": "2026-09-04 14:37:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Joe's gay lover is a monster - and that's just the beginning",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/joes-homoelsker-er-et-monster--og-det-er-bare-begyndelsen?referrer=RSS",
-        "published_date": "2026-09-04 14:31:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news about Danish politics",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik-1?referrer=RSS",
-        "published_date": "2026-09-04 14:19:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news about American politics - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-275?referrer=RSS",
-        "published_date": "2026-09-04 14:14:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 53-year-old man has died in an accident at work",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/53-aarig-mand-er-omkommet-i-arbejdsulykke?referrer=RSS",
-        "published_date": "2026-09-04 14:12:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "An employee at a pharmacy stole medicine and misused information about patients",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/ansat-paa-apotek-stjal-medicin-og-misbrugte-oplysninger-om-patienter?referrer=RSS",
-        "published_date": "2026-09-04 14:09:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "S\u00f8nderjyske sign a new goalkeeper after a terrible start",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/soenderjyske-henter-ny-maalmand-efter-skraekstart?referrer=RSS",
-        "published_date": "2026-09-04 14:09:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "71-year-old woman will be jailed for abuse by her husband",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/71-aarig-kvinde-faar-faengsel-mishandling-af-sin-mand",
-        "published_date": "2026-09-04 14:06:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shock: Head coach finished after just one game",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/toender/chok-cheftraener-faerdig-efter-blot-en-kamp?rss",
-        "published_date": "2026-09-04 12:16:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lorry driver drove into railway bridge: - Of course he is shaken",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/lastbilchauffoer-koerte-ind-i-jernbanebro-han-er-selvfoelgelig-rystet?rss",
-        "published_date": "2026-09-04 11:00:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "The exit deadline for people from Iran or Lebanon will be resumed",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/udrejsefrist-personer-fra-iran-eller-libanon-genoptages",
-        "published_date": "2026-09-04 10:52:31",
         "category": "Local Events"
     }
 ]
