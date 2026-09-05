@@ -1,5 +1,19 @@
 [
     {
+        "title": "The airport in Greenland, threatened with closure, may have to be used by Nato",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lukningstruet-lufthavn-i-groenland-skal-maaske-bruges-af-nato",
+        "published_date": "2026-09-04 19:54:24",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The airport in Greenland, threatened with closure, may have to be used by Nato",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/lukningstruet-lufthavn-i-groenland-skal-maaske-bruges-af-nato?referrer=RSS",
+        "published_date": "2026-09-04 19:44:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Five EU countries aim to send rejected migrants to 'return hubs' by 2027",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260904/five-eu-countries-aim-to-send-rejected-migrants-to-return-hubs-by-2027",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "For the first time, Novo Nordisk is launching its Wegovy pill in an EU country",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/foerste-gang-lancerer-novo-nordisk-sin-wegovy-pille-i-et-eu-land",
-        "published_date": "2026-09-01 12:10:14",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "European inflation rises significantly",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/europaeisk-inflation-stiger-markant",
-        "published_date": "2026-09-01 09:46:54",
-        "category": "Diplomacy"
+        "title": "Several are reported killed in Israeli airstrikes in Lebanon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/flere-meldes-draebt-i-israelske-luftangreb-i-libanon?referrer=RSS",
+        "published_date": "2026-09-04 23:38:45",
+        "category": "Military"
     },
     {
         "title": "Latest news about the war in Ukraine - follow the developments here",
@@ -329,6 +336,76 @@
         "category": "Economy"
     },
     {
+        "title": "Mourinho after first Real defeat: I don't understand",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/mourinho-efter-foerste-real-nederlag-jeg-forstaar-det-ikke?referrer=RSS",
+        "published_date": "2026-09-05 00:13:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US has used lasers to shoot down drones at the border with Mexico",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-har-brugt-laser-til-at-skyde-droner-ned-ved-graense-til-mexico?referrer=RSS",
+        "published_date": "2026-09-04 23:35:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "A large disco ball hit a man in the head at a company party in Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/stor-diskokugle-ramte-mand-i-hovedet-til-firmafest-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-09-04 23:04:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Froholdt has suffered a concussion in the FC Porto victory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/froholdt-har-faaet-hjernerystelse-i-fc-porto-sejr?referrer=RSS",
+        "published_date": "2026-09-04 22:25:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The invention of the party speaker Soundboks becomes a feature film",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/opfindelsen-af-festhoejttaleren-soundboks-bliver-til-spillefilm?referrer=RSS",
+        "published_date": "2026-09-04 21:18:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three minutes of magic from Gakpo and Isak gives Liverpool victory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tre-minutters-magi-fra-gakpo-og-isak-skaffer-liverpool-sejr?referrer=RSS",
+        "published_date": "2026-09-04 20:58:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "She admits to having killed her three children - now Lindsay Clancy's trial is declared invalid",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hun-erkender-at-have-draebt-sine-tre-boern--nu-erklaeres-lindsay-clancys-retssag-ugyldig?referrer=RSS",
+        "published_date": "2026-09-04 20:29:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lyngby beats the top team and picks up the first win of the season",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12375860#liveblog-embed",
+        "published_date": "2026-09-04 18:52:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Judge to declare lawsuit against Lindsay Clancy void",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dommer-vil-erklaere-retssag-mod-lindsay-clancy-ugyldig",
+        "published_date": "2026-09-04 16:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "L\u00f8kke makes an extradition agreement with Morocco",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/loekke-laver-udleveringsaftale-med-marokko",
+        "published_date": "2026-09-04 14:37:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Joe's gay lover is a monster - and that's just the beginning",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/skaerm/joes-homoelsker-er-et-monster--og-det-er-bare-begyndelsen?referrer=RSS",
@@ -378,6 +455,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Shock: Head coach finished after just one game",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/toender/chok-cheftraener-faerdig-efter-blot-en-kamp?rss",
+        "published_date": "2026-09-04 12:16:26",
+        "category": "Local Events"
+    },
+    {
         "title": "Lorry driver drove into railway bridge: - Of course he is shaken",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/112/lastbilchauffoer-koerte-ind-i-jernbanebro-han-er-selvfoelgelig-rystet?rss",
@@ -389,83 +473,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/udrejsefrist-personer-fra-iran-eller-libanon-genoptages",
         "published_date": "2026-09-04 10:52:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Suddenly the Fyn star appeared at the hospice: - He touched us all",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/odense/fynsk-stjerne-overrasker-beboer-paa-hospice?rss",
-        "published_date": "2026-09-04 10:30:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Adoptees receive help to find biological family",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/adopterede-faar-hjaelp-til-finde-biologisk-familie",
-        "published_date": "2026-09-04 09:46:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kiosk owner lost in the Supreme Court: Now the case goes to Strasbourg",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/kioskejer-fra-augustenborg-tabte-i-hoejesteret-nu-gaar-sagen-til-strasbourg?rss",
-        "published_date": "2026-09-04 09:04:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police urge residents in Frederiks to close doors and windows",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-opfordrer-beboere-i-frederiks-til-lukke-doere-og-vinduer",
-        "published_date": "2026-09-04 08:44:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Friday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260904/today-in-denmark-a-roundup-of-the-latest-news-on-friday-60",
-        "published_date": "2026-09-04 08:03:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lack of cars challenges flexible traffic on the third day in several parts of the country",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/indland/mangel-paa-biler-udfordrer-flextrafik-paa-tredje-doegn-i-flere-landsdele?rss",
-        "published_date": "2026-09-04 08:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "32-year-old suffered severe injuries when he was hit by a freight train - now he risks prison",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/32-aarig-fik-voldsomme-skader-da-han-blev-ramt-af-godstog-nu-risikerer-han-faengsel?rss",
-        "published_date": "2026-09-04 07:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Novo Nordisk Foundation will build a quantum factory in Copenhagen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/novo-nordisk-fonden-vil-bygge-kvantefabrik-i-koebenhavn",
-        "published_date": "2026-09-04 06:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump has appointed a new acting secretary of the country's army",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-har-udpeget-ny-fungerende-minister-landets-haer",
-        "published_date": "2026-09-04 03:58:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump Names New Acting Secretary of the United States Army",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-udpeger-ny-fungerende-minister-for-usas-haer?referrer=RSS",
-        "published_date": "2026-09-03 23:28:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba introduces several market reforms under pressure from the United States",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/cuba-indfoerer-flere-markedsreformer-under-pres-fra-usa?referrer=RSS",
-        "published_date": "2026-09-03 22:54:46",
         "category": "Local Events"
     }
 ]
