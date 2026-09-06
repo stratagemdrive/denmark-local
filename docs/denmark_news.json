@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sweden flirts with a new tax for the richest: Spotify billionaire will leave the country immediately",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/sverige-flirter-med-en-ny-skat-til-de-rigeste-spotify-milliardaer-vil-forlade-landet-omgaaende?referrer=RSS",
+        "published_date": "2026-09-05 19:38:05",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Government parties propose openness in the Afghanistan investigation",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/regeringspartier-indstiller-til-aabenhed-i-afghanistan-udredning?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Suddenly, Modi lashed out at a grim Putin:\u00a0\"We will have to move away from endless war\"",
+        "title": "Meeting between American envoys and Putin is over",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/pludselig-slog-modi-til-over-for-en-bister-putinvi-bliver-noedt-til-at-rykke-fra-endeloes-krig?referrer=RSS",
-        "published_date": "2026-09-02 14:22:05",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/moede-mellem-amerikanske-udsendinge-og-putin-er-slut?referrer=RSS",
+        "published_date": "2026-09-05 21:59:46",
+        "category": "Military"
     },
     {
         "title": "Military plane crashed at air show near Athens",
@@ -252,13 +259,6 @@
         "category": "Military"
     },
     {
-        "title": "The Danish champion gets a dream start to the ice hockey season",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-mester-faar-droemmestart-paa-ishockeysaesonen?referrer=RSS",
-        "published_date": "2026-08-28 20:21:44",
-        "category": "Military"
-    },
-    {
         "title": "Business update: Car giant lays off 100,000 - the stock market rejoices",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/business-update-bilgigant-fyrer-100000--aktiemarkedet-jubler?referrer=RSS",
@@ -322,13 +322,6 @@
         "category": "Energy"
     },
     {
-        "title": "Trump and Venezuela announce 'biggest oil deal in world history'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-haevder-have-indgaaet-historisk-olieaftale-med-venezuela",
-        "published_date": "2026-08-28 22:58:33",
-        "category": "Energy"
-    },
-    {
         "title": "Bordeaux is relegated to the sixth best tier in France",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/bordeaux-sendes-ned-i-sjettebedste-raekke-i-frankrig?referrer=RSS",
@@ -355,6 +348,111 @@
         "url": "https://www.berlingske.dk/internationalt/trumps-oekonomiske-d-dag-mod-iran-er-foreloebig-en-fuser-det-er-der-isaer-en-grund-til-frygten-for-kina?referrer=RSS",
         "published_date": "2026-08-31 17:04:05",
         "category": "Economy"
+    },
+    {
+        "title": "A TV presenter has been sentenced to death in a drug case in Egypt",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tv-vaert-er-doemt-til-doeden-i-narkosag-i-egypten?referrer=RSS",
+        "published_date": "2026-09-05 23:49:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran reports attack on six ships after US attacks",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-melder-om-angreb-paa-seks-skibe-efter-amerikanske-angreb",
+        "published_date": "2026-09-05 22:57:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prince William attends King Harald's funeral",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/prins-william-deltager-i-kong-haralds-begravelse?referrer=RSS",
+        "published_date": "2026-09-05 22:36:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rocket launched from Norway is in orbit around the Earth",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/raket-opsendt-fra-norge-er-i-kredsloeb-om-jorden?referrer=RSS",
+        "published_date": "2026-09-05 21:34:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "H\u00f8jlund scores in vain for Napoli in the collapse against Inter",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/hoejlund-scorer-forgaeves-for-napoli-i-kollaps-mod-inter?referrer=RSS",
+        "published_date": "2026-09-05 20:48:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about American politics - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-277?referrer=RSS",
+        "published_date": "2026-09-05 20:39:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about Danish politics",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/samfund/seneste-nyt-om-dansk-politik?referrer=RSS",
+        "published_date": "2026-09-05 20:38:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "N\u00e6sby BK gave the audience an experience in the victory over H\u00f8rsholm-Usser\u00f8d IK",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sport/naesby-bk-gav-publikum-en-oplevelse-i-sejren-over-hoersholm-usseroed-ik-2026-9-5?rss",
+        "published_date": "2026-09-05 20:21:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Austrian punishes last year's US Open finalist",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/oestriger-straffer-sidste-aars-us-open-finalist?referrer=RSS",
+        "published_date": "2026-09-05 19:21:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "One seriously injured after assault in Kolding",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/en-alvorligt-skadet-efter-overfald-i-kolding",
+        "published_date": "2026-09-05 18:30:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "One arrested for arson in Bramming",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/en-anholdt-paasat-brand-i-bramming",
+        "published_date": "2026-09-05 18:29:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hacker attack prompts Berlin to initiate crisis preparedness",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hackerangreb-faar-berlin-til-ivaerksaette-kriseberedskab",
+        "published_date": "2026-09-05 17:45:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Formula 1 Frenchman drives in pole position by less than a second",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/formel-1-franskmand-koerer-i-pole-position-med-under-et-sekund",
+        "published_date": "2026-09-05 15:30:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "At first people laughed at Jeanette's tips: Today, 142,000 follow her",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/erhverv/foerst-gjorde-folk-grin-med-jeanettes-tips-i-dag-foelger-142-000-med-hos-hende?rss",
+        "published_date": "2026-09-05 15:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Umbrella not allowed in Oslo for royal funeral",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/paraply-ikke-tilladt-i-oslo-til-kongelig-begravelse",
+        "published_date": "2026-09-05 14:43:07",
+        "category": "Local Events"
     },
     {
         "title": "Man rescued from tunnel ten days after floods in Nepal",
@@ -389,111 +487,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/antonsen-misser-finalen-i-kina-efter-opslidende-drama?referrer=RSS",
         "published_date": "2026-09-05 13:01:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Putin orders: No attacks on Kyiv for three days",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/putin-beordrer-ingen-angreb-paa-kyiv-i-tre-dage",
-        "published_date": "2026-09-05 12:45:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "A random stop led the police to a large hash find",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/et-tilfaeldigt-stop-foerte-politiet-til-stort-hashfund?referrer=RSS",
-        "published_date": "2026-09-05 12:24:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Over a kilometer long queue for King Harald's coffin",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/over-en-kilometer-lang-koe-til-kong-haralds-kiste?referrer=RSS",
-        "published_date": "2026-09-05 11:39:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Only when Laura ran down from the balcony did she see how young the victim was: \"There really is a hard culture among the young\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/foerst-da-laura-loeb-ned-fra-altanen-saa-hun-hvor-ungt-offeret-var-der-er-virkelig-en-haard-kultur-blandt-de-unge?referrer=RSS",
-        "published_date": "2026-09-05 11:36:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Witkoff and Kushner have landed in Moscow ahead of peace talks",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/witkoff-og-kushner-er-landet-i-moskva-forud-for-fredsforhandlinger?referrer=RSS",
-        "published_date": "2026-09-05 11:17:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Permanent veterans' home in Slagelse is inaugurated on flag day for deployed personnel",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/permanent-veteranhjem-i-slagelse-indvies-paa-flagdagen-for-udsendte?referrer=RSS",
-        "published_date": "2026-09-05 11:13:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Over a kilometer long queue for King Harald's coffin",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/over-en-kilometer-lang-koe-til-kong-haralds-kiste",
-        "published_date": "2026-09-05 10:56:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police stopped the car and found 137 kilos of hashish",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-stoppede-bil-og-fandt-137-kilo-hash",
-        "published_date": "2026-09-05 08:23:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tvind sells out after 43 years - but spends money in the luxury villa of the missing manager: Will Amdi come back?",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/tvind-saelger-ud-efter-43-aar-men-skyder-penge-i-forsvundet-leders-luksusvilla-kommer-amdi-tilbage?rss",
-        "published_date": "2026-09-05 07:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shooting incident in V\u00e6rl\u00f8se last night - no injuries",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skudepisode-i-vaerloese-i-aftes-ingen-tilskadekomne",
-        "published_date": "2026-09-05 06:34:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train buses are deployed on the section between Copenhagen and Helsing\u00f8r",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/togbusser-indsaettes-paa-straekning-mellem-koebenhavn-og-helsingoer",
-        "published_date": "2026-09-05 06:19:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mourinho after first Real defeat: I don't understand",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mourinho-efter-foerste-real-nederlag-jeg-forstaar-det-ikke?referrer=RSS",
-        "published_date": "2026-09-05 00:13:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US has used lasers to shoot down drones at the border with Mexico",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-har-brugt-laser-til-at-skyde-droner-ned-ved-graense-til-mexico?referrer=RSS",
-        "published_date": "2026-09-04 23:35:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "A large disco ball hit a man in the head at a company party in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/stor-diskokugle-ramte-mand-i-hovedet-til-firmafest-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-09-04 23:04:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Froholdt has suffered a concussion in the FC Porto victory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/froholdt-har-faaet-hjernerystelse-i-fc-porto-sejr?referrer=RSS",
-        "published_date": "2026-09-04 22:25:45",
         "category": "Local Events"
     }
 ]
