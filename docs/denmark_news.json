@@ -1,5 +1,33 @@
 [
     {
+        "title": "Greenland says no to EU membership despite billions of investment",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/groenland-siger-nej-til-eu-medlemskab-trods-milliardinvestering?referrer=RSS",
+        "published_date": "2026-09-07 23:58:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "UN rapporteur fears loss of evidence in Israeli clean-up in Gaza",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fn-rapportoer-frygter-tab-af-beviser-ved-israelsk-oprydning-i-gaza?referrer=RSS",
+        "published_date": "2026-09-07 23:32:52",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Media: British government to ban trade with Israeli settlements",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/medie-britisk-regering-vil-forbyde-handel-med-israelske-bosaettelser?referrer=RSS",
+        "published_date": "2026-09-07 23:26:45",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Trump shows a picture where Greenland is covered with the American flag",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-viser-billede-hvor-groenland-er-daekket-af-det-amerikanske-flag?referrer=RSS",
+        "published_date": "2026-09-07 22:33:45",
+        "category": "Diplomacy"
+    },
+    {
         "title": "EU chief says only Greenland and Denmark can decide Greenland's future",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260907/eu-pledges-200-million-euros-for-greenland-investment-package",
@@ -112,32 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Will the European Union take up the climate fight after brutal heatwaves?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260904/will-the-european-union-take-up-the-climate-fight-after-brutal-heatwaves",
-        "published_date": "2026-09-04 10:10:40",
-        "category": "Diplomacy"
+        "title": "Corruption charges prompt Ukraine's attorney general to resign",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/korruptionsanklager-faar-ukraines-rigsadvokat-til-traede-tilbage",
+        "published_date": "2026-09-07 23:47:07",
+        "category": "Military"
     },
     {
-        "title": "Rare summit in Esbjerg: The king, Manchester United billionaire and top politicians gather on one quay",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/sjaeldent-topmoede-i-esbjerg-kongen-manchester-united-milliardaer-og-toppolitikere-samles-paa-en-kaj?rss",
-        "published_date": "2026-09-04 05:09:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Ren\u00e9 is security approved: Nato has said good for the local sausage man",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/toender/rene-er-sikkerhedsgodkendt-nato-har-sagt-god-for-lokal-poelsemand?rss",
-        "published_date": "2026-09-03 19:14:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "A pressured S\u00e1nchez took the podium - but survives \"here and now\"",
+        "title": "Ukraine's attorney general resigns after corruption charges",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-presset-sanchez-indtog-talerstolen--men-overleverher-og-nu?referrer=RSS",
-        "published_date": "2026-09-03 14:28:39",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/ukraines-rigsadvokat-traeder-tilbage-efter-korruptionsanklager?referrer=RSS",
+        "published_date": "2026-09-07 22:18:46",
+        "category": "Military"
     },
     {
         "title": "Three men receive long prison sentences for drug dealing and weapons storage",
@@ -266,18 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "India's Prime Minister calls for an end to the war in Ukraine",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/indiens-premierminister-opfordrer-til-standse-krigen-i-ukraine",
-        "published_date": "2026-08-31 20:10:00",
-        "category": "Military"
-    },
-    {
-        "title": "Five days of air raids in Kyiv: Ukraine is struggling to find a response to the new Russian threat",
+        "title": "Argentina will initiate criminal proceedings against an oil company in the Falkland Islands",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fem-doegn-med-luftalarmer-i-kyiv-ukraine-kaemper-med-at-finde-modsvar-paa-den-nye-russiske-trussel?referrer=RSS",
-        "published_date": "2026-08-31 17:16:22",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/internationalt/argentina-vil-rejse-straffesag-mod-olieselskab-paa-falklandsoeerne?referrer=RSS",
+        "published_date": "2026-09-08 00:27:46",
+        "category": "Energy"
     },
     {
         "title": "The next few months can be expensive \u2013 a perfect storm will send electricity prices skyrocketing",
@@ -378,6 +385,69 @@
         "category": "Economy"
     },
     {
+        "title": "Russia resumes attacks on Kyiv after US visit",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rusland-genoptager-angreb-mod-kyiv-efter-amerikansk-besoeg?referrer=RSS",
+        "published_date": "2026-09-08 00:39:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thousands in Brazil take to the streets in support of right-wing candidate",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tusindvis-i-brasilien-gaar-paa-gaden-i-stoette-til-hoejrefloejskandidat?referrer=RSS",
+        "published_date": "2026-09-07 23:32:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chinese defeats six-time grand slam winner after new comeback",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kineser-besejrer-seksdobbelt-grand-slam-vinder-efter-nyt-comeback?referrer=RSS",
+        "published_date": "2026-09-07 23:17:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The reconciliation commission between Greenland and Denmark moves closer",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/forsoningskommission-mellem-groenland-og-danmark-rykker-taettere-paa?referrer=RSS",
+        "published_date": "2026-09-07 23:14:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mette Frederiksen reacts to the Trump card with Greenland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-reagerer-paa-trump-kort-med-groenland",
+        "published_date": "2026-09-07 23:13:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The roundabout was supposed to be in the middle of Benny's living room: now he wants even more asphalt",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/rundkoerslen-skulle-ligge-midt-i-bennys-stue-nu-udfordrer-han-baade-de-groenne-og-sit-eget-parti?rss",
+        "published_date": "2026-09-07 20:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 100 hours of Oasis recordings must go under the hammer",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mere-end-100-timers-oasis-optagelser-skal-under-hammeren",
+        "published_date": "2026-09-07 19:24:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump shares map where Greenland is part of the United States",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-deler-landkort-hvor-groenland-er-en-del-af-usa",
+        "published_date": "2026-09-07 19:15:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "2,500 gained access to other people's information by mistake",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/2-500-fik-ved-en-fejl-adgang-til-andres-oplysninger",
+        "published_date": "2026-09-07 18:23:01",
+        "category": "Local Events"
+    },
+    {
         "title": "OPINION: There are real people impacted by Denmark\u2019s cancelled citizenship bill",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260907/opinion-there-are-real-people-impacted-by-denmarks-cancelled-citizenship-bill",
@@ -452,69 +522,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/lastbilchauffoer-doemmes-alligevel-for-doedsulykke?referrer=RSS",
         "published_date": "2026-09-07 15:17:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young man convicted of defrauding 22 elderly people",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-doemt-svindel-af-22-aeldre",
-        "published_date": "2026-09-07 15:11:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marius Borg H\u00f8iby's remand is extended",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeibys-varetaegtsfaengsling-forlaenges",
-        "published_date": "2026-09-07 14:40:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Demands huge millions repaid: Companies owned by Funen's richest family sued",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/kraever-kaempe-millionbeloeb-tilbagebetalt-selskaber-ejet-af-fyns-rigeste-familie-sagsoegt?rss",
-        "published_date": "2026-09-07 14:23:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "French wine production among lowest in 30 years after heat waves",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fransk-vinproduktion-blandt-de-laveste-i-30-aar-efter-hedeboelger",
-        "published_date": "2026-09-07 13:41:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Number of Danish job ads rose in August for first time in five years",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260907/number-of-danish-job-ads-rose-in-august-for-first-time-in-five-years",
-        "published_date": "2026-09-07 12:06:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Monday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260907/today-in-denmark-a-roundup-of-the-latest-news-on-monday-60",
-        "published_date": "2026-09-07 08:18:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Water in basement may be possible cause of building collapse in New Delhi",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vand-i-kaelder-kan-vaere-mulig-aarsag-til-bygningskollaps-i-new-delhi",
-        "published_date": "2026-09-07 06:54:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Volcanic eruption still closes more Indonesian airports",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vulkanudbrud-lukker-stadig-flere-indonesiske-lufthavne",
-        "published_date": "2026-09-07 06:01:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Accident blocks the \u00d8resund Bridge",
-        "source": "DR",
-        "url": "https://www.dr.dk/trafik/6a9e45b82b489bc7ced27250",
-        "published_date": "2026-09-07 05:08:09",
         "category": "Local Events"
     }
 ]
