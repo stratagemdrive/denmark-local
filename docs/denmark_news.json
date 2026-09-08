@@ -1,5 +1,19 @@
 [
     {
+        "title": "Putin to Trump: Russia has no hostile plans against Europe",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/putin-til-trump-rusland-har-ingen-fjendtlige-planer-mod-europa?referrer=RSS",
+        "published_date": "2026-09-08 14:36:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Business update: Energy bills for Americans increase by six million per minute",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/nyhedsanalyse/business-update-energiregning-til-amerikanere-stiger-med-seks-millioner-i-minuttet?referrer=RSS",
+        "published_date": "2026-09-08 14:21:07",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Greenland says no to EU membership despite billions of investment",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/groenland-siger-nej-til-eu-medlemskab-trods-milliardinvestering?referrer=RSS",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Could Europe's border queues get longer this month as key EES date passes?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260904/could-europes-border-queues-get-longer-this-month-as-key-ees-date-passes",
-        "published_date": "2026-09-04 13:13:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Danish migration minister: First non-EU deportation centre ready 'next year'",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260904/danish-migration-minister-first-non-eu-deportation-centre-ready-next-year",
-        "published_date": "2026-09-04 12:03:16",
-        "category": "Diplomacy"
+        "title": "Germany sends air defense missiles to Ukraine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tyskland-sender-missiler-til-luftforsvar-til-ukraine?referrer=RSS",
+        "published_date": "2026-09-08 14:22:46",
+        "category": "Military"
     },
     {
         "title": "Corruption charges prompt Ukraine's attorney general to resign",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Putin: Russia is advancing and will win the war",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/putin-rusland-rykker-frem-og-vil-vinde-krigen?referrer=RSS",
-        "published_date": "2026-09-01 22:20:48",
-        "category": "Military"
-    },
-    {
         "title": "Argentina will initiate criminal proceedings against an oil company in the Falkland Islands",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/argentina-vil-rejse-straffesag-mod-olieselskab-paa-falklandsoeerne?referrer=RSS",
@@ -350,13 +350,6 @@
         "category": "Energy"
     },
     {
-        "title": "2,000 electricity customers were without power in South Zealand",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/2-000-elkunder-var-uden-stroem-paa-sydsjaelland",
-        "published_date": "2026-08-31 14:22:42",
-        "category": "Energy"
-    },
-    {
         "title": "Bordeaux is relegated to the sixth best tier in France",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/bordeaux-sendes-ned-i-sjettebedste-raekke-i-frankrig?referrer=RSS",
@@ -385,143 +378,143 @@
         "category": "Economy"
     },
     {
-        "title": "Russia resumes attacks on Kyiv after US visit",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rusland-genoptager-angreb-mod-kyiv-efter-amerikansk-besoeg?referrer=RSS",
-        "published_date": "2026-09-08 00:39:45",
+        "title": "TV participant rushed to the emergency room: Had to leave the program suddenly",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/odense/tv-deltager-koert-paa-skadestuen-maatte-forlade-program-pludseligt?rss",
+        "published_date": "2026-09-08 15:51:27",
         "category": "Local Events"
     },
     {
-        "title": "Thousands in Brazil take to the streets in support of right-wing candidate",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tusindvis-i-brasilien-gaar-paa-gaden-i-stoette-til-hoejrefloejskandidat?referrer=RSS",
-        "published_date": "2026-09-07 23:32:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chinese defeats six-time grand slam winner after new comeback",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kineser-besejrer-seksdobbelt-grand-slam-vinder-efter-nyt-comeback?referrer=RSS",
-        "published_date": "2026-09-07 23:17:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The reconciliation commission between Greenland and Denmark moves closer",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/forsoningskommission-mellem-groenland-og-danmark-rykker-taettere-paa?referrer=RSS",
-        "published_date": "2026-09-07 23:14:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mette Frederiksen reacts to the Trump card with Greenland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-reagerer-paa-trump-kort-med-groenland",
-        "published_date": "2026-09-07 23:13:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The roundabout was supposed to be in the middle of Benny's living room: now he wants even more asphalt",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/rundkoerslen-skulle-ligge-midt-i-bennys-stue-nu-udfordrer-han-baade-de-groenne-og-sit-eget-parti?rss",
-        "published_date": "2026-09-07 20:06:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 100 hours of Oasis recordings must go under the hammer",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mere-end-100-timers-oasis-optagelser-skal-under-hammeren",
-        "published_date": "2026-09-07 19:24:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump shares map where Greenland is part of the United States",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-deler-landkort-hvor-groenland-er-en-del-af-usa",
-        "published_date": "2026-09-07 19:15:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "2,500 gained access to other people's information by mistake",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/2-500-fik-ved-en-fejl-adgang-til-andres-oplysninger",
-        "published_date": "2026-09-07 18:23:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "OPINION: There are real people impacted by Denmark\u2019s cancelled citizenship bill",
+        "title": "Interview: Danish citizenship day made it clear how unfair it is for applicants in limbo",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260907/opinion-there-are-real-people-impacted-by-denmarks-cancelled-citizenship-bill",
-        "published_date": "2026-09-07 16:39:31",
+        "url": "https://www.thelocal.dk/20260908/interview-danish-citizenship-day-made-it-clear-how-unfair-it-is-for-applicants-in-limbo",
+        "published_date": "2026-09-08 15:02:38",
         "category": "Local Events"
     },
     {
-        "title": "28-year-old man remanded in custody in case of extensive trade in opioids",
+        "title": "Technical problem affects air traffic from the UK",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/28-aarig-mand-varetaegtsfaengslet-i-sag-om-omfattende-handel-med-opioider",
-        "published_date": "2026-09-07 16:08:44",
+        "url": "https://www.dr.dk/nyheder/seneste/teknisk-problem-paavirker-flytrafikken-fra-storbritannien",
+        "published_date": "2026-09-08 14:46:04",
         "category": "Local Events"
     },
     {
-        "title": "Sentence dropped - supplied machine gun and grenade to 15-year-old Swede",
+        "title": "Police work at Copenhagen South Station affects train traffic",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/dom-faldet-leverede-maskinpistol-og-granat-til-15-aarig-svensker?referrer=RSS",
-        "published_date": "2026-09-07 16:07:45",
+        "url": "https://www.berlingske.dk/indland/politiarbejde-paa-koebenhavn-syd-station-paavirker-togtrafik?referrer=RSS",
+        "published_date": "2026-09-08 14:39:44",
         "category": "Local Events"
     },
     {
-        "title": "The explosion at the West Jutland school was probably two acid bombs",
+        "title": "Britain accuses Israel of \"ethnic cleansing\" in the West Bank and imposes sanctions",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/eksplosion-ved-vestjysk-skole-var-formentlig-to-syrebomber?referrer=RSS",
-        "published_date": "2026-09-07 16:04:47",
+        "url": "https://www.berlingske.dk/internationalt/storbritannien-anklager-israel-for-etnisk-udrensning-paa-vestbredden-og-indfoerer-sanktioner?referrer=RSS",
+        "published_date": "2026-09-08 14:37:30",
         "category": "Local Events"
     },
     {
-        "title": "I went to Jakob Engel-Schmidt's school - I didn't learn a thing",
+        "title": "Swede sentenced for fire attack shortly after liquidation",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentar/jeg-har-vaeret-i-jakob-engel-schmidts-skole--jeg-laerte-ikke-et-kvaek?referrer=RSS",
-        "published_date": "2026-09-07 15:59:13",
+        "url": "https://www.berlingske.dk/indland/svensker-doemt-for-brandangreb-kort-efter-likvidering?referrer=RSS",
+        "published_date": "2026-09-08 14:30:48",
         "category": "Local Events"
     },
     {
-        "title": "Russia will now also close the German consulate",
+        "title": "Man remanded in custody for extensive stalking of ex-partner",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-varetaegtsfaengslet-for-omfattende-stalking-af-tidligere-partner?referrer=RSS",
+        "published_date": "2026-09-08 14:19:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "33-year-old acquitted of promoting terror with Facebook comment",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/33-aarig-frifundet-for-at-fremme-terror-med-facebookkommentar?referrer=RSS",
+        "published_date": "2026-09-08 14:16:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Board puts family reunification cases on hold after registry error",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/styrelse-saetter-sager-om-familiesammenfoering-i-bero-efter-registerfejl?referrer=RSS",
+        "published_date": "2026-09-08 14:13:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Liverpool replaces bank with Turkish airline",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/liverpool-skifter-bank-ud-med-tyrkisk-flyselskab?referrer=RSS",
+        "published_date": "2026-09-08 14:13:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Electric scooters were measured to be able to run 146 kilometers per hour",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-vil-nu-ogsaa-lukke-tysk-konsulat",
-        "published_date": "2026-09-07 15:44:25",
+        "url": "https://www.dr.dk/nyheder/seneste/el-loebehjul-blev-maalt-til-kunne-koere-146-kilometer-i-timen",
+        "published_date": "2026-09-08 13:30:58",
         "category": "Local Events"
     },
     {
-        "title": "Citizenship cases are put on hold after errors in the Criminal Register",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/sager-om-indfoedsret-saettes-i-bero-efter-fejl-i-kriminalregisteret?referrer=RSS",
-        "published_date": "2026-09-07 15:42:49",
+        "title": "S-train traffic stopped at Copenhagen South",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/s-togtrafik-standset-paa-koebenhavn-syd",
+        "published_date": "2026-09-08 12:51:15",
         "category": "Local Events"
     },
     {
-        "title": "TV 2 host Troels Mylenberg is terminally ill with cancer",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/tv-2-vaert-troels-mylenberg-er-uhelbredeligt-syg-af-kraeft?referrer=RSS",
-        "published_date": "2026-09-07 15:42:47",
+        "title": "A new president of the Supreme Court has been elected",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-praesident-hoejesteret-er-valgt",
+        "published_date": "2026-09-08 11:51:38",
         "category": "Local Events"
     },
     {
-        "title": "2,500 citizens got access to other people's personal data by mistake",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/2500-borgere-fik-ved-en-fejl-adgang-til-andres-personoplysninger?referrer=RSS",
-        "published_date": "2026-09-07 15:42:44",
+        "title": "'Crisis': Danish school students record worst ever results in reading and maths",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260908/crisis-danish-results-in-reading-and-maths-worst-ever-in-new-pisa-poll",
+        "published_date": "2026-09-08 11:09:20",
         "category": "Local Events"
     },
     {
-        "title": "Serbia's government asks president to dissolve parliament and call elections",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/serbiens-regering-beder-praesident-oploese-parlament-og-udskrive-valg?referrer=RSS",
-        "published_date": "2026-09-07 15:23:44",
+        "title": "Stevie Wonder gives a concert in Denmark for the first time in 12 years",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/stevie-wonder-giver-koncert-i-danmark-foerste-gang-i-12-aar",
+        "published_date": "2026-09-08 09:42:19",
         "category": "Local Events"
     },
     {
-        "title": "The lorry driver is nevertheless sentenced for fatal accident",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/lastbilchauffoer-doemmes-alligevel-for-doedsulykke?referrer=RSS",
-        "published_date": "2026-09-07 15:17:44",
+        "title": "40-year-old man arrested for indecency at school",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/40-aarig-mand-anholdt-blufaerdighedskraenkelser-ved-skole",
+        "published_date": "2026-09-08 08:59:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260908/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-63",
+        "published_date": "2026-09-08 08:41:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish exports set a record in July",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansk-eksport-satte-rekord-i-juli",
+        "published_date": "2026-09-08 06:17:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Niels has barely greeted the new neighbours: Now he sounds the alarm for his village",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/kerteminde/niels-ser-nabogaarden-forfalde-men-ejer-forsikrer-den-skal-renoveres-for-millioner?rss",
+        "published_date": "2026-09-08 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US has sunk another vessel in the Pacific Ocean",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-har-saenket-endnu-et-fartoej-i-stillehavet",
+        "published_date": "2026-09-08 03:44:49",
         "category": "Local Events"
     }
 ]
