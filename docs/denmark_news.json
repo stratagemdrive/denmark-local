@@ -1,5 +1,19 @@
 [
     {
+        "title": "Trump sees AfD victory as growing reluctance to immigration rules",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-ser-afd-sejr-som-voksende-modvilje-mod-immigrationsregler?referrer=RSS",
+        "published_date": "2026-09-09 00:31:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Serbian diplomats expelled after funeral of convicted war criminal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/serbiske-diplomater-udvist-efter-begravelse-af-doemt-krigsforbryder?referrer=RSS",
+        "published_date": "2026-09-08 22:33:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Putin to Trump: Russia has no hostile plans against Europe",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/putin-til-trump-rusland-har-ingen-fjendtlige-planer-mod-europa?referrer=RSS",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "In the middle of a huge crisis between the USA and Denmark: 50,000 American soldiers get a Danish medal",
+        "title": "The US military has bombed five Iranian oil tankers",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/midt-i-kaempe-krise-mellem-usa-og-danmark-50000-amerikanske-soldater-faar-dansk-medalje?referrer=RSS",
-        "published_date": "2026-09-04 14:15:29",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/usas-militaer-har-bombet-fem-iranske-olietankere?referrer=RSS",
+        "published_date": "2026-09-08 23:50:48",
+        "category": "Military"
     },
     {
-        "title": "Denmark draws up an extradition agreement with Morocco",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/danmark-laver-udleveringsaftale-med-marokko?referrer=RSS",
-        "published_date": "2026-09-04 14:12:45",
-        "category": "Diplomacy"
+        "title": "The ruling party pressures the Minister of Defense in the case of Arctic soldiers: The 'obsolete' principle must be reviewed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/regeringsparti-presser-forsvarsminister-i-sag-om-arktiske-soldater-foraeldet-princip-skal-have-et",
+        "published_date": "2026-09-08 17:00:00",
+        "category": "Military"
     },
     {
         "title": "Germany sends air defense missiles to Ukraine",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Five western municipalities will not accept Ukrainian refugees",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/fem-vestegnskommuner-skal-ikke-modtage-ukrainske-flygtninge?referrer=RSS",
-        "published_date": "2026-09-02 14:06:44",
-        "category": "Military"
-    },
-    {
-        "title": "Iran reports attack on US military base in Jordan",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iran-melder-om-angreb-paa-amerikansk-militaerbase-i-jordan?referrer=RSS",
-        "published_date": "2026-09-01 22:30:45",
-        "category": "Military"
-    },
-    {
         "title": "Argentina will initiate criminal proceedings against an oil company in the Falkland Islands",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/argentina-vil-rejse-straffesag-mod-olieselskab-paa-falklandsoeerne?referrer=RSS",
@@ -343,11 +343,11 @@
         "category": "Energy"
     },
     {
-        "title": "Vance on oil island attack video: Trump sends message to Iran",
+        "title": "Threatened with closure, LIV Golf applies for bankruptcy protection",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vance-om-video-af-angreb-paa-olieoe-trump-sender-en-besked-til-iran?referrer=RSS",
-        "published_date": "2026-08-31 16:42:48",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/sport/lukningstruede-liv-golf-soeger-om-konkursbeskyttelse?referrer=RSS",
+        "published_date": "2026-09-08 23:50:45",
+        "category": "Economy"
     },
     {
         "title": "Bordeaux is relegated to the sixth best tier in France",
@@ -371,17 +371,94 @@
         "category": "Economy"
     },
     {
-        "title": "Trump's economic D-Day against Iran is a fuse for now.There is a particular reason for this.The fear of China",
+        "title": "The US bans the import of several Canadian goods",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trumps-oekonomiske-d-dag-mod-iran-er-foreloebig-en-fuser-det-er-der-isaer-en-grund-til-frygten-for-kina?referrer=RSS",
-        "published_date": "2026-08-31 17:04:05",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/usa-forbyder-import-af-flere-canadiske-varer?referrer=RSS",
+        "published_date": "2026-09-09 00:15:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scientists fear paracetamol during pregnancy reduces children's genitals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/forskere-frygter-paracetamol-i-graviditeten-mindsker-boerns-koensorganer?referrer=RSS",
+        "published_date": "2026-09-08 23:07:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police fire warning shots during action near Ringsted",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-affyrer-varselsskud-under-aktion-naer-ringsted?referrer=RSS",
+        "published_date": "2026-09-08 22:52:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police have fired warning shots near Ringsted",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-har-afgivet-varselsskud-naer-ringsted",
+        "published_date": "2026-09-08 22:51:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "South Park changes name to South America in suppository for Trump",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/south-park-aendrer-navn-til-south-america-i-stikpille-til-trump?referrer=RSS",
+        "published_date": "2026-09-08 22:49:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tariff war between the US and Canada: Trump will ban the import of alcohol and dairy products",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-truer-canada-vil-lukke-vigtig-vej-ind-paa-det-amerikanske-marked",
+        "published_date": "2026-09-08 22:05:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "After almost 20 years in the Folketing: Liberal veteran to be a mayoral candidate in Silkeborg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efter-naesten-20-aar-i-folketinget-venstre-veteran-vaere-borgmesterkandidat-i-silkeborg",
+        "published_date": "2026-09-08 21:39:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump threatens to close important trade channel for Canadian goods",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-truer-med-at-lukke-vigtig-handelskanal-for-canadiske-varer?referrer=RSS",
+        "published_date": "2026-09-08 21:38:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cynical Real Madrid punish well-playing Inter's howlers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kyniske-real-madrid-straffer-velspillende-inters-broelere?referrer=RSS",
+        "published_date": "2026-09-08 21:04:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serbia will hold elections on October 25",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/serbien-skal-til-valg-den-25-oktober",
+        "published_date": "2026-09-08 19:24:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nine flights between Copenhagen and London cancelled",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ni-afgange-mellem-koebenhavn-og-london-aflyst",
+        "published_date": "2026-09-08 17:23:38",
+        "category": "Local Events"
     },
     {
         "title": "TV participant rushed to the emergency room: Had to leave the program suddenly",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/odense/tv-deltager-koert-paa-skadestuen-maatte-forlade-program-pludseligt?rss",
         "published_date": "2026-09-08 15:51:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel to close British consulate in Jerusalem",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-vil-lukke-britisk-konsulat-i-jerusalem",
+        "published_date": "2026-09-08 15:03:07",
         "category": "Local Events"
     },
     {
@@ -431,90 +508,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/33-aarig-frifundet-for-at-fremme-terror-med-facebookkommentar?referrer=RSS",
         "published_date": "2026-09-08 14:16:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Board puts family reunification cases on hold after registry error",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/styrelse-saetter-sager-om-familiesammenfoering-i-bero-efter-registerfejl?referrer=RSS",
-        "published_date": "2026-09-08 14:13:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Liverpool replaces bank with Turkish airline",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/liverpool-skifter-bank-ud-med-tyrkisk-flyselskab?referrer=RSS",
-        "published_date": "2026-09-08 14:13:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Electric scooters were measured to be able to run 146 kilometers per hour",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/el-loebehjul-blev-maalt-til-kunne-koere-146-kilometer-i-timen",
-        "published_date": "2026-09-08 13:30:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "S-train traffic stopped at Copenhagen South",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/s-togtrafik-standset-paa-koebenhavn-syd",
-        "published_date": "2026-09-08 12:51:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "A new president of the Supreme Court has been elected",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-praesident-hoejesteret-er-valgt",
-        "published_date": "2026-09-08 11:51:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Crisis': Danish school students record worst ever results in reading and maths",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260908/crisis-danish-results-in-reading-and-maths-worst-ever-in-new-pisa-poll",
-        "published_date": "2026-09-08 11:09:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Stevie Wonder gives a concert in Denmark for the first time in 12 years",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stevie-wonder-giver-koncert-i-danmark-foerste-gang-i-12-aar",
-        "published_date": "2026-09-08 09:42:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "40-year-old man arrested for indecency at school",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/40-aarig-mand-anholdt-blufaerdighedskraenkelser-ved-skole",
-        "published_date": "2026-09-08 08:59:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260908/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-63",
-        "published_date": "2026-09-08 08:41:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish exports set a record in July",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-eksport-satte-rekord-i-juli",
-        "published_date": "2026-09-08 06:17:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Niels has barely greeted the new neighbours: Now he sounds the alarm for his village",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/kerteminde/niels-ser-nabogaarden-forfalde-men-ejer-forsikrer-den-skal-renoveres-for-millioner?rss",
-        "published_date": "2026-09-08 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US has sunk another vessel in the Pacific Ocean",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-har-saenket-endnu-et-fartoej-i-stillehavet",
-        "published_date": "2026-09-08 03:44:49",
         "category": "Local Events"
     }
 ]
