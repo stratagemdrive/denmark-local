@@ -1,5 +1,12 @@
 [
     {
+        "title": "The intelligence service sounded the alarm the day before mass immigration in Ceuta",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/efterretningstjeneste-slog-alarm-dagen-foer-masseindvandring-i-ceuta?referrer=RSS",
+        "published_date": "2026-09-09 21:42:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Trump sees AfD victory as growing reluctance to immigration rules",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-ser-afd-sejr-som-voksende-modvilje-mod-immigrationsregler?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Five EU countries aim to send rejected migrants to 'return hubs' by 2027",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260904/five-eu-countries-aim-to-send-rejected-migrants-to-return-hubs-by-2027",
-        "published_date": "2026-09-04 15:24:01",
-        "category": "Diplomacy"
+        "title": "Emergency ramp activated on Trump's plane shortly before departure for party convention",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/noedrampe-udloest-paa-trumps-fly-kort-foer-afrejse-til-partikonvent?referrer=RSS",
+        "published_date": "2026-09-09 23:31:46",
+        "category": "Military"
     },
     {
         "title": "More conscripts stay in the Armed Forces, new analysis shows",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Portuguese authorities found five tons of cocaine on a Maersk ship",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/portugisiske-myndigheder-fandt-fem-ton-kokain-paa-maersk-skib?referrer=RSS",
-        "published_date": "2026-09-03 14:36:46",
-        "category": "Military"
-    },
-    {
         "title": "Argentina will initiate criminal proceedings against an oil company in the Falkland Islands",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/argentina-vil-rejse-straffesag-mod-olieselskab-paa-falklandsoeerne?referrer=RSS",
@@ -357,17 +357,115 @@
         "category": "Economy"
     },
     {
-        "title": "Berlingske believes: It is the Parliament, not the minister, who must decide how we look after the water environment",
+        "title": "87 are reported missing after a fatal fire on a ferry in the Philippines",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/berlingske-mener-det-er-folketinget-ikke-ministeren-der-skal-bestemme-hvordan-vi-passer-paa-vandmiljoeet?referrer=RSS",
-        "published_date": "2026-09-01 14:57:41",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/87-meldes-savnet-efter-doedelig-brand-paa-faerge-i-filippinerne?referrer=RSS",
+        "published_date": "2026-09-10 00:21:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "87 are reported missing after a fatal fire on a ferry in the Philippines",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/87-meldes-savnet-efter-doedelig-brand-paa-faerge-i-filippinerne",
+        "published_date": "2026-09-10 00:20:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Judge denies Tate brothers' plea for release from prison",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/dommer-afviser-tate-broedres-anmodning-om-loesladelse-fra-faengsel?referrer=RSS",
+        "published_date": "2026-09-09 23:06:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Judge denies Tate brothers' plea for release from prison",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dommer-afviser-tate-broedres-anmodning-om-loesladelse-fra-faengsel",
+        "published_date": "2026-09-09 22:58:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sweden's Prime Minister got his opponent in the red field before the debate even began: \"Today, Kristersson is deliberately spreading lies\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/sveriges-statsminister-fik-sin-modstander-i-det-roede-felt-foer-debatten-overhovedet-begyndte-i-dag-spreder-kristersson-bevidst-loegne?referrer=RSS",
+        "published_date": "2026-09-09 21:39:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Liverpool defeats Atl\u00e9tico despite initial difficulties",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/liverpool-besejrer-atletico-trods-startvanskeligheder?referrer=RSS",
+        "published_date": "2026-09-09 21:00:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rescue teams search for missing journalists at Indonesian volcano",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/redningshold-leder-efter-forsvundne-journalister-ved-indonesisk-vulkan?referrer=RSS",
+        "published_date": "2026-09-09 20:47:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Insufficient help for a deceased Dane in Crete and his wife",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/nyborg/mangelfuld-hjaelp-til-afdoed-dansker-paa-kreta-og-hans-hustru?rss",
+        "published_date": "2026-09-09 20:37:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norwegian Prime Minister: Zelenskyi's plane was almost hit by a drone",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/norsk-statsminister-zelenskyjs-fly-blev-naesten-ramt-af-en-drone?referrer=RSS",
+        "published_date": "2026-09-09 20:27:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mighty Barcelona defeat Skanderborg in CL premiere",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/maegtige-barcelona-knaekker-skanderborg-i-cl-premiere?referrer=RSS",
+        "published_date": "2026-09-09 20:27:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "S-trains are running again at Copenhagen South",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/s-togtrafik-stoppet-ved-koebenhavn-syd",
+        "published_date": "2026-09-09 17:50:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Natalie Harp and two others received $45,000 as a Christmas present from Donald Trump",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/natalie-harp-og-andre-fik-45-000-dollar-i-julegave-af-donald-trump",
+        "published_date": "2026-09-09 16:34:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Massive flight cancellations for the second day in a row in the UK",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/massive-flyaflysninger-anden-dag-i-traek-i-storbritannien",
+        "published_date": "2026-09-09 16:05:30",
+        "category": "Local Events"
     },
     {
         "title": "'It's outrageous': Danish citizenship applicants furious after being told 'be patient'",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260909/its-outrageous-danish-citizenship-applicants-furious-after-being-told-be-patient",
         "published_date": "2026-09-09 15:38:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Remanded for shooting during argument",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/varetaegtsfaengslet-skud-under-skaenderi",
+        "published_date": "2026-09-09 15:37:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Garbage men are on strike in Horsens Municipality",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skraldemaend-strejker-i-horsens-kommune",
+        "published_date": "2026-09-09 15:24:32",
         "category": "Local Events"
     },
     {
@@ -396,111 +494,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/nu-maa-forsvarsakademiets-eksperter-igen-give-interview-i-arbejdstiden?referrer=RSS",
         "published_date": "2026-09-09 13:51:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish volleyball men are optimistic despite the EC nightmare pool",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/danske-volleyherrer-er-optimistiske-trods-em-mareridtspulje?referrer=RSS",
-        "published_date": "2026-09-09 13:50:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish Netflix thriller tops global hit list",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dansk-netflix-thriller-topper-global-hitliste?referrer=RSS",
-        "published_date": "2026-09-09 13:44:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lord Mayor states: No re-election in Copenhagen after housing case",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/overborgmester-slaar-fast-intet-omvalg-i-koebenhavn-efter-boligsag?referrer=RSS",
-        "published_date": "2026-09-09 13:40:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish companies must give young people the chance to become skilled",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/danske-virksomheder-skal-give-de-unge-chancen-for-at-blive-faglaerte?referrer=RSS",
-        "published_date": "2026-09-09 13:33:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news about American politics - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-285?referrer=RSS",
-        "published_date": "2026-09-09 13:31:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Odense Municipality ends this year's fight against the oak processionary spider",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/odense-kommune-afslutter-aarets-bekaempelse-af-egeprocessionsspinderen?referrer=RSS",
-        "published_date": "2026-09-09 13:31:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The prosecutor's office phones are working again",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/anklagemyndighedens-telefoner-ude-af-drift",
-        "published_date": "2026-09-09 13:25:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish word of the day: grav\u00f8l",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260909/danish-word-of-the-day-gravol",
-        "published_date": "2026-09-09 11:57:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Serbia's president has dissolved parliament",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/serbiens-praesident-har-oploest-parlamentet",
-        "published_date": "2026-09-09 10:34:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260909/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-70",
-        "published_date": "2026-09-09 08:37:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Great practice will trigger shots and loud bangs",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stor-oevelse-vil-udloese-skud-og-hoeje-brag",
-        "published_date": "2026-09-09 07:04:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "69-year-old fired shots close to man's head during argument",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/69-aarig-affyrede-skud-taet-forbi-mands-hoved-under-skaenderi",
-        "published_date": "2026-09-09 06:30:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Port of Esbjerg is working on new US routes and a new container terminal at the Esbjerg plant",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/esbjerg-havn-arbejder-paa-nye-usa-ruter-og-ny-containerterminal-ved-esbjergvaerket?rss",
-        "published_date": "2026-09-09 05:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Funen hotel voted as Denmark's best: - We can't put our arms down at all",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/fynsk-hotel-kaaret-som-danmarks-bedste-vi-kan-slet-ikke-faa-armene-ned?rss",
-        "published_date": "2026-09-09 05:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "No direct regional trains between Copenhagen Airport and Slagelse",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ingen-direkte-regionaltog-mellem-koebenhavns-lufthavn-og-slagelse",
-        "published_date": "2026-09-09 04:06:47",
         "category": "Local Events"
     }
 ]
