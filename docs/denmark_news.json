@@ -1,5 +1,12 @@
 [
     {
+        "title": "Business update: The model is considered \"dangerous\".Now the EU has gained access to it",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/business-update-modellen-bliver-anset-somfarlig-nu-har-eu-faaet-adgang-til-den?referrer=RSS",
+        "published_date": "2026-09-10 14:40:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The intelligence service sounded the alarm the day before mass immigration in Ceuta",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/efterretningstjeneste-slog-alarm-dagen-foer-masseindvandring-i-ceuta?referrer=RSS",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The airport in Greenland, threatened with closure, may have to be used by Nato",
+        "title": "Latest news about the war in Ukraine - follow the developments here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/lukningstruet-lufthavn-i-groenland-skal-maaske-bruges-af-nato?referrer=RSS",
-        "published_date": "2026-09-04 19:44:46",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine--foelg-udviklingen-her-88?referrer=RSS",
+        "published_date": "2026-09-10 14:00:38",
+        "category": "Military"
+    },
+    {
+        "title": "Five are reported killed in northeastern Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fem-meldes-draebt-i-det-nordoestlige-ukraine",
+        "published_date": "2026-09-10 05:07:54",
+        "category": "Military"
     },
     {
         "title": "Emergency ramp activated on Trump's plane shortly before departure for party convention",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Several are reported killed in Israeli airstrikes in Lebanon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/flere-meldes-draebt-i-israelske-luftangreb-i-libanon?referrer=RSS",
-        "published_date": "2026-09-04 23:38:45",
-        "category": "Military"
-    },
-    {
-        "title": "Latest news about the war in Ukraine - follow the developments here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine--foelg-udviklingen-her-76?referrer=RSS",
-        "published_date": "2026-09-04 14:10:24",
-        "category": "Military"
-    },
-    {
         "title": "Argentina will initiate criminal proceedings against an oil company in the Falkland Islands",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/argentina-vil-rejse-straffesag-mod-olieselskab-paa-falklandsoeerne?referrer=RSS",
@@ -322,18 +322,11 @@
         "category": "Energy"
     },
     {
-        "title": "Three men are imprisoned after the largest find of nitrous oxide in Denmark",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/tre-maend-faengsles-efter-stoerste-fund-af-lattergas-i-danmark?referrer=RSS",
-        "published_date": "2026-09-02 14:34:46",
-        "category": "Energy"
-    },
-    {
-        "title": "The police seize 14 pallets of nitrous oxide",
+        "title": "Inflation rose to two percent in August",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-beslaglaegger-14-paller-lattergas",
-        "published_date": "2026-09-02 07:14:43",
-        "category": "Energy"
+        "url": "https://www.dr.dk/nyheder/seneste/inflationen-steg-til-procent-i-august",
+        "published_date": "2026-09-10 07:14:53",
+        "category": "Economy"
     },
     {
         "title": "Threatened with closure, LIV Golf applies for bankruptcy protection",
@@ -350,150 +343,143 @@
         "category": "Economy"
     },
     {
-        "title": "Twice Messerschmidt took issue with Vanoplagh: \"It's not right, Alex\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/to-gange-gik-messerschmidt-i-rette-med-vanopslaghdet-er-jo-ikke-rigtigt-alex?referrer=RSS",
-        "published_date": "2026-09-02 14:07:32",
-        "category": "Economy"
-    },
-    {
-        "title": "87 are reported missing after a fatal fire on a ferry in the Philippines",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/87-meldes-savnet-efter-doedelig-brand-paa-faerge-i-filippinerne?referrer=RSS",
-        "published_date": "2026-09-10 00:21:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "87 are reported missing after a fatal fire on a ferry in the Philippines",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/87-meldes-savnet-efter-doedelig-brand-paa-faerge-i-filippinerne",
-        "published_date": "2026-09-10 00:20:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge denies Tate brothers' plea for release from prison",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/dommer-afviser-tate-broedres-anmodning-om-loesladelse-fra-faengsel?referrer=RSS",
-        "published_date": "2026-09-09 23:06:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge denies Tate brothers' plea for release from prison",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dommer-afviser-tate-broedres-anmodning-om-loesladelse-fra-faengsel",
-        "published_date": "2026-09-09 22:58:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sweden's Prime Minister got his opponent in the red field before the debate even began: \"Today, Kristersson is deliberately spreading lies\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/sveriges-statsminister-fik-sin-modstander-i-det-roede-felt-foer-debatten-overhovedet-begyndte-i-dag-spreder-kristersson-bevidst-loegne?referrer=RSS",
-        "published_date": "2026-09-09 21:39:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Liverpool defeats Atl\u00e9tico despite initial difficulties",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/liverpool-besejrer-atletico-trods-startvanskeligheder?referrer=RSS",
-        "published_date": "2026-09-09 21:00:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rescue teams search for missing journalists at Indonesian volcano",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/redningshold-leder-efter-forsvundne-journalister-ved-indonesisk-vulkan?referrer=RSS",
-        "published_date": "2026-09-09 20:47:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Insufficient help for a deceased Dane in Crete and his wife",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/nyborg/mangelfuld-hjaelp-til-afdoed-dansker-paa-kreta-og-hans-hustru?rss",
-        "published_date": "2026-09-09 20:37:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norwegian Prime Minister: Zelenskyi's plane was almost hit by a drone",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/norsk-statsminister-zelenskyjs-fly-blev-naesten-ramt-af-en-drone?referrer=RSS",
-        "published_date": "2026-09-09 20:27:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mighty Barcelona defeat Skanderborg in CL premiere",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/maegtige-barcelona-knaekker-skanderborg-i-cl-premiere?referrer=RSS",
-        "published_date": "2026-09-09 20:27:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "S-trains are running again at Copenhagen South",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/s-togtrafik-stoppet-ved-koebenhavn-syd",
-        "published_date": "2026-09-09 17:50:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Natalie Harp and two others received $45,000 as a Christmas present from Donald Trump",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/natalie-harp-og-andre-fik-45-000-dollar-i-julegave-af-donald-trump",
-        "published_date": "2026-09-09 16:34:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Massive flight cancellations for the second day in a row in the UK",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/massive-flyaflysninger-anden-dag-i-traek-i-storbritannien",
-        "published_date": "2026-09-09 16:05:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "'It's outrageous': Danish citizenship applicants furious after being told 'be patient'",
+        "title": "Danish government to introduce 'total ban' on phones in school",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260909/its-outrageous-danish-citizenship-applicants-furious-after-being-told-be-patient",
-        "published_date": "2026-09-09 15:38:40",
+        "url": "https://www.thelocal.dk/20260910/danish-government-to-introduce-total-ban-on-phones-in-school",
+        "published_date": "2026-09-10 15:29:47",
         "category": "Local Events"
     },
     {
-        "title": "Remanded for shooting during argument",
+        "title": "Mette Frederiksen would like to be able to just fire her and solve the problems in the primary school",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/mette-frederiksen-ville-oenske-at-man-bare-kunne-fyre-hende-og-loese-problemerne-i-folkeskolen?referrer=RSS",
+        "published_date": "2026-09-10 14:37:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man stabbed in front of Herlev Gymnasium",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/varetaegtsfaengslet-skud-under-skaenderi",
-        "published_date": "2026-09-09 15:37:14",
+        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-stukket-med-kniv-foran-herlev-gymnasium",
+        "published_date": "2026-09-10 14:22:29",
         "category": "Local Events"
     },
     {
-        "title": "Garbage men are on strike in Horsens Municipality",
+        "title": "Sandahl rejects \"rumours\" categorically: If you ask the media, I have been on my way out for two years",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/sandahl-afviser-rygter-kategorisk-spoerger-man-medierne-har-jeg-vaeret-paa-vej-ud-i-to-aar?referrer=RSS",
+        "published_date": "2026-09-10 14:18:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two arrested in London: Suspected of assisting foreign intelligence",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skraldemaend-strejker-i-horsens-kommune",
-        "published_date": "2026-09-09 15:24:32",
+        "url": "https://www.dr.dk/nyheder/seneste/anholdt-i-london-mistaenkt-assistere-udenlandsk-efterretningstjeneste",
+        "published_date": "2026-09-10 14:07:08",
         "category": "Local Events"
     },
     {
-        "title": "\"Very hot\"\u00a0coffee and tea triples the risk of esophageal cancer, new study shows",
+        "title": "Latest news about American politics - stay tuned here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/meget-varmkaffe-og-te-tredobler-risikoen-for-kraeft-i-spiseroeret-viser-nyt-studie?referrer=RSS",
-        "published_date": "2026-09-09 14:27:47",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-287?referrer=RSS",
+        "published_date": "2026-09-10 13:57:16",
         "category": "Local Events"
     },
     {
-        "title": "The old movie stars overthrow Venice.A man in particular attracts attention",
+        "title": "The government will again legislate mobile phones out of school",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/de-gamle-filmstjerner-vaelter-venedig-isaer-en-mand-tiltraekker-sig-opmaerksomhed?referrer=RSS",
-        "published_date": "2026-09-09 14:26:36",
+        "url": "https://www.berlingske.dk/politik/regeringen-vil-igen-lovgive-mobiltelefoner-ud-af-skolen?referrer=RSS",
+        "published_date": "2026-09-10 13:52:47",
         "category": "Local Events"
     },
     {
-        "title": "The period of mourning is over: Flags in Norway are raised after King Harald's funeral",
+        "title": "Latest news about Danish politics - follow here",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/soergeperiode-er-slut-flag-i-norge-hejses-efter-kong-haralds-begravelse?referrer=RSS",
-        "published_date": "2026-09-09 14:22:49",
+        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-med-her-87?referrer=RSS",
+        "published_date": "2026-09-10 13:52:02",
         "category": "Local Events"
     },
     {
-        "title": "Now the Defense Academy's experts must again give interviews during working hours",
+        "title": "Prince Harry is back - but King Charles' letter goes beyond his special case",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/nu-maa-forsvarsakademiets-eksperter-igen-give-interview-i-arbejdstiden?referrer=RSS",
-        "published_date": "2026-09-09 13:51:06",
+        "url": "https://www.berlingske.dk/kultur/prins-harry-er-tilbage--men-kong-charles-brev-gaar-ud-over-hans-maerkesag?referrer=RSS",
+        "published_date": "2026-09-10 13:36:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shift on Copenhagen housing market as apartment prices start to fall",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260910/shift-on-copenhagen-housing-market-as-apartment-prices-start-to-fall",
+        "published_date": "2026-09-10 13:26:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several schools in Jutland have received empty threats of attacks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/flere-skoler-i-jylland-har-modtaget-tomme-trusler-om-angreb?referrer=RSS",
+        "published_date": "2026-09-10 13:25:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Berlingske's film critic blown away: \"Masterpiece\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/berlingskes-filmanmelder-blaest-bagovermestervaerk?referrer=RSS",
+        "published_date": "2026-09-10 13:25:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man with a knife at school in Odense is being investigated by the police",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-med-kniv-paa-skole-i-odense-efterforskes-af-politiet",
+        "published_date": "2026-09-10 13:25:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark's Queen Margrethe out of hospital",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260910/denmarks-queen-margrethe-out-of-hospital",
+        "published_date": "2026-09-10 13:18:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish expression of the day: klokken lort",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260910/danish-expression-of-the-day-klokken-lort",
+        "published_date": "2026-09-10 11:43:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least 20 have died in a ship fire in a Chinese port",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mindst-20-er-doede-i-skibsbrand-i-kinesisk-havn",
+        "published_date": "2026-09-10 11:28:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Law firm goes free in OW Bunker case",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/advokatfirma-gaar-fri-i-ow-bunker-sag",
+        "published_date": "2026-09-10 10:52:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "11-year-old posted threats against schools on TikTok",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/11-aarig-postede-trusler-mod-skoler-paa-tiktok",
+        "published_date": "2026-09-10 10:09:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Custody sentence overturned in the High Court",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/forvaringsdom-omstoedt-i-landsretten",
+        "published_date": "2026-09-10 10:01:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Danmarkskort is to help children from previous placement cases",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nyt-danmarkskort-skal-hjaelpe-boern-fra-tidligere-anbringelsessager",
+        "published_date": "2026-09-10 10:00:34",
         "category": "Local Events"
     }
 ]
