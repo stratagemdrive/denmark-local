@@ -1,5 +1,12 @@
 [
     {
+        "title": "Big tech to banking: Which companies spend the most on EU lobbying?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260911/big-tech-to-banking-which-companies-spend-the-most-on-eu-lobbying",
+        "published_date": "2026-09-11 13:02:18",
+        "category": "Diplomacy"
+    },
+    {
         "title": "European raid against illegal horse trading",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/europaeisk-razzia-mod-ulovlig-hestehandel",
@@ -130,13 +137,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260905/on-the-agenda-whats-happening-in-denmark-this-week-7",
         "published_date": "2026-09-05 08:55:56",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU to help cities clamp down on tourist rentals",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260905/eu-to-help-cities-clamp-down-on-tourist-rentals",
-        "published_date": "2026-09-05 08:38:52",
         "category": "Diplomacy"
     },
     {
@@ -280,6 +280,13 @@
         "category": "Military"
     },
     {
+        "title": "Legoland has put a unique model up for sale: Bids are pouring in",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/billund/lego-model-overgaar-sin-egen-vaerdi-bliver-solgt-for-mange-tusinde-kroner?rss",
+        "published_date": "2026-09-11 04:54:00",
+        "category": "Energy"
+    },
+    {
         "title": "Argentina will initiate criminal proceedings against an oil company in the Falkland Islands",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/argentina-vil-rejse-straffesag-mod-olieselskab-paa-falklandsoeerne?referrer=RSS",
@@ -313,6 +320,20 @@
         "url": "https://jv.dk/varde/demonstration-er-i-gang-store-maskiner-holder-langs-hovedvej?rss",
         "published_date": "2026-09-04 11:49:50",
         "category": "Energy"
+    },
+    {
+        "title": "Thousands of home owners face interest rates: One type of loan in particular is affected",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/oekonomi/tusindvis-af-boligejere-staar-til-rentesmaek-saerligt-en-laanetype-rammes?referrer=RSS",
+        "published_date": "2026-09-11 14:29:49",
+        "category": "Economy"
+    },
+    {
+        "title": "Five municipalities will be allowed to raise the tax next year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fem-kommuner-faar-lov-til-haeve-skatten-naeste-aar",
+        "published_date": "2026-09-11 13:07:51",
+        "category": "Economy"
     },
     {
         "title": "Double attack against Swedish opposition leader: Why are you so angry?",
@@ -350,143 +371,143 @@
         "category": "Economy"
     },
     {
-        "title": "Maduro's imprisoned wife will be under house arrest due to heart problems",
+        "title": "Train accident in Nyk\u00f8bing Zealand has claimed the life of a 55-year-old man",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/maduros-faengslede-hustru-vil-i-husarrest-grundet-hjerteproblemer?referrer=RSS",
-        "published_date": "2026-09-11 00:11:45",
+        "url": "https://www.berlingske.dk/indland/togulykke-i-nykoebing-sjaelland-har-kostet-55-aarig-mand-livet?referrer=RSS",
+        "published_date": "2026-09-11 14:39:43",
         "category": "Local Events"
     },
     {
-        "title": "Earthquake registered in Lebanon after attack against Hezbollah tunnels",
+        "title": "Cold meats and sausages are recalled due to an incorrect ingredient list",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/skaelv-registreret-i-libanon-efter-angreb-mod-hizbollah-tunneler?referrer=RSS",
-        "published_date": "2026-09-10 22:00:45",
+        "url": "https://www.berlingske.dk/danmark/koedpaalaeg-og-spegepoelser-tilbagekaldes-efter-forkert-ingrediensliste?referrer=RSS",
+        "published_date": "2026-09-11 14:36:47",
         "category": "Local Events"
     },
     {
-        "title": "Strong cod catches are expected to lead to increased growth in Greenland",
+        "title": "Municipalities still cannot collect child certificates: More and more critical",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/staerk-torskefangst-ventes-at-give-oeget-vaekst-i-groenland?referrer=RSS",
-        "published_date": "2026-09-10 21:19:45",
+        "url": "https://www.berlingske.dk/politik/kommuner-kan-stadig-ikke-hente-boerneattester-mere-og-mere-kritisk?referrer=RSS",
+        "published_date": "2026-09-11 14:27:44",
         "category": "Local Events"
     },
     {
-        "title": "Dorgu assists in United's beating of AGF's field men",
+        "title": "Hellemose: The motorcycles helped Mas on the single start",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dorgu-assisterer-i-uniteds-afklapsning-af-agfs-banemaend?referrer=RSS",
-        "published_date": "2026-09-10 21:05:48",
+        "url": "https://www.berlingske.dk/sport/hellemose-motorcyklerne-hjalp-mas-paa-enkeltstart?referrer=RSS",
+        "published_date": "2026-09-11 14:14:45",
         "category": "Local Events"
     },
     {
-        "title": "High school student was stabbed on the path system in Herlev",
+        "title": "Original drawings by Cirkeline will be exhibited on the 70th anniversary",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/gymnasieelev-blev-stukket-ned-paa-stisystem-i-herlev?referrer=RSS",
-        "published_date": "2026-09-10 20:50:44",
+        "url": "https://www.berlingske.dk/danmark/originaltegninger-af-cirkeline-udstilles-paa-70-aarsdagen?referrer=RSS",
+        "published_date": "2026-09-11 13:59:44",
         "category": "Local Events"
     },
     {
-        "title": "Police find shell casings after father and son heard gunshots on a fishing trip",
+        "title": "Now the Swedes send children to prison despite all warnings.\"Is there an adult present?\" asks the expert",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politi-finder-patronhylstre-efter-far-og-soen-hoerte-skud-paa-fisketur?referrer=RSS",
-        "published_date": "2026-09-10 20:47:46",
+        "url": "https://www.berlingske.dk/internationalt/nu-sender-svenskerne-boern-i-faengsel-trods-alle-advarsler-er-der-en-voksen-til-stede-spoerger-ekspert?referrer=RSS",
+        "published_date": "2026-09-11 13:53:15",
         "category": "Local Events"
     },
     {
-        "title": "Portuguese brothers crack GOG in the Champions League",
+        "title": "King Harald's older sister dies two weeks after her younger brother",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/portugisiske-broedre-knaekker-gog-i-champions-league?referrer=RSS",
-        "published_date": "2026-09-10 20:22:45",
+        "url": "https://www.berlingske.dk/kultur/kong-haralds-storesoester-doer-to-uger-efter-sin-lillebror?referrer=RSS",
+        "published_date": "2026-09-11 13:46:00",
         "category": "Local Events"
     },
     {
-        "title": "Several people died in a bus accident in Switzerland",
+        "title": "Mette Frederiksen remembers the almost 3,000 dead in attacks in the USA",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/mette-frederiksen-mindes-de-knap-3000-doede-ved-angreb-i-usa?referrer=RSS",
+        "published_date": "2026-09-11 13:37:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "He looks like a party leader who has lost his hunger.Could a ministerial post be Jimmie \u00c5kesson's way out?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/han-ligner-en-partileder-der-har-mistet-sulten-kan-en-ministerpost-vaere-jimmie-aakessons-vej-ud?referrer=RSS",
+        "published_date": "2026-09-11 13:27:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Large increase in the use of medical cannabis",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-doede-i-busulykke-i-schweiz",
-        "published_date": "2026-09-10 19:52:54",
+        "url": "https://www.dr.dk/nyheder/seneste/stor-stigning-i-brugen-af-medicinsk-cannabis",
+        "published_date": "2026-09-11 12:15:21",
         "category": "Local Events"
     },
     {
-        "title": "The National Police finds a further 16 decisions that have been deleted prematurely",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rigspolitiet-finder-yderligere-16-afgoerelser-der-er-blevet-slettet-tidligt",
-        "published_date": "2026-09-10 18:43:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "24 school children killed in fire in DR Congo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/24-skoleboern-omkommet-i-brand-i-dr-congo",
-        "published_date": "2026-09-10 17:50:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "After almost 100 years: Falck is losing fire stations in North Jutland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-naesten-100-aar-falck-mister-brandstationer-i-nordjylland",
-        "published_date": "2026-09-10 17:25:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Therefore, the police waited two days to tell about the bomb threat",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/bombetrussel-mod-skole-var-inspireret-af-terrorangreb-nu-er-der-nyt-fra-politiet?rss",
-        "published_date": "2026-09-10 16:41:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "19-year-old arrested in case of incident at school",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-anholdt-i-sag-om-haendelse-ved-skole",
-        "published_date": "2026-09-10 16:18:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Romanian police have arrested four in a murder case from Guden\u00e5en",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rumaensk-politi-har-anholdt-fire-i-drabssag-fra-gudenaaen",
-        "published_date": "2026-09-10 16:04:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish government to introduce 'total ban' on phones in school",
+        "title": "Seven surprising hazards to watch out for on autumn dog walks in Denmark",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260910/danish-government-to-introduce-total-ban-on-phones-in-school",
-        "published_date": "2026-09-10 15:29:47",
+        "url": "https://www.thelocal.dk/20260911/seven-surprising-hazards-to-watch-out-for-on-autumn-dog-walks",
+        "published_date": "2026-09-11 12:07:22",
         "category": "Local Events"
     },
     {
-        "title": "Mette Frederiksen would like to be able to just fire her and solve the problems in the primary school",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/mette-frederiksen-ville-oenske-at-man-bare-kunne-fyre-hende-og-loese-problemerne-i-folkeskolen?referrer=RSS",
-        "published_date": "2026-09-10 14:37:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young man stabbed in front of Herlev Gymnasium",
+        "title": "A person has died after being hit by a train in Nyk\u00f8bing Zealand",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-stukket-med-kniv-foran-herlev-gymnasium",
-        "published_date": "2026-09-10 14:22:29",
+        "url": "https://www.dr.dk/nyheder/seneste/person-er-doed-efter-togpaakoersel-i-nykoebing-sjaelland",
+        "published_date": "2026-09-11 12:00:08",
         "category": "Local Events"
     },
     {
-        "title": "Sandahl rejects \"rumours\" categorically: If you ask the media, I have been on my way out for two years",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/sandahl-afviser-rygter-kategorisk-spoerger-man-medierne-har-jeg-vaeret-paa-vej-ud-i-to-aar?referrer=RSS",
-        "published_date": "2026-09-10 14:18:02",
+        "title": "New shock poll for the Liberal Party, and the big farmer Lars also changes party: - I'd rather not talk about it",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/fyn/ny-chok-maaling-for-venstre-storbonden-lars-fra-nordfyn-skifter-ogsaa-til-stoejberg?rss",
+        "published_date": "2026-09-11 11:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Two arrested in London: Suspected of assisting foreign intelligence",
+        "title": "The police seize 1,651 puff bars in North Zealand",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/anholdt-i-london-mistaenkt-assistere-udenlandsk-efterretningstjeneste",
-        "published_date": "2026-09-10 14:07:08",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-beslaglaegger-1-651-puffbars-i-nordsjaelland",
+        "published_date": "2026-09-11 09:56:34",
         "category": "Local Events"
     },
     {
-        "title": "Latest news about American politics - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-287?referrer=RSS",
-        "published_date": "2026-09-10 13:57:16",
+        "title": "Denmark's national bank hikes key interest rate in line with ECB",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260911/denmarks-national-bank-hikes-key-interest-rate-in-line-with-ecb",
+        "published_date": "2026-09-11 09:19:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Friday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260911/today-in-denmark-a-roundup-of-the-latest-news-on-friday-61",
+        "published_date": "2026-09-11 08:51:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five have died after a bus accident yesterday in Switzerland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fem-er-doede-efter-busulykke-i-gaar-i-schweiz",
+        "published_date": "2026-09-11 08:30:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Traffic on the Storeb\u00e6ltsbroen will be rerouted next week",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trafikken-paa-storebaeltsbroen-omlaegges-i-naeste-uge",
+        "published_date": "2026-09-11 05:02:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "As an 11-year-old, Casper swept the floor in his parents' carpentry company: now he becomes the boss himself",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/erhverv/som-11-aarig-fejede-casper-gulvet-i-sine-foraeldres-toemrerfirma-nu-bliver-han-selv-chefen?rss",
+        "published_date": "2026-09-11 05:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hong Kong sentences two activists behind commemorations",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hongkong-doemmer-aktivister-bag-mindehoejtideligheder",
+        "published_date": "2026-09-11 03:51:51",
         "category": "Local Events"
     }
 ]
