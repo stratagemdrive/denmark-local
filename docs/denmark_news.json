@@ -1,5 +1,12 @@
 [
     {
+        "title": "Danish film wins two main prizes at the Venice film festival: \"It's Europe's answer to an Oscar\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/dansk-film-vinder-to-hovedpriser-ved-filmfestival-i-venedigdet-er-europas-svar-paa-en-oscar?referrer=RSS",
+        "published_date": "2026-09-12 20:47:57",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Europe eyes battle over 'pervert' AI glasses",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260912/europe-eyes-battle-over-pervert-ai-glasses",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Government parties propose openness in the Afghanistan investigation",
+        "title": "Ukraine reports at least nine dead after Russian attacks on Saturday",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/regeringspartier-indstiller-til-aabenhed-i-afghanistan-udredning?referrer=RSS",
-        "published_date": "2026-09-05 11:42:48",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/ukraine-melder-om-mindst-ni-draebte-efter-russiske-angreb-loerdag?referrer=RSS",
+        "published_date": "2026-09-12 23:30:46",
+        "category": "Military"
     },
     {
         "title": "South Korea: North Korea has launched a series of ballistic missiles",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Latest news about the war in Ukraine - follow the developments here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine--foelg-udviklingen-her-80?referrer=RSS",
-        "published_date": "2026-09-06 13:17:50",
-        "category": "Military"
-    },
-    {
         "title": "FCK coach: We played with the handbrake on",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/fck-traener-vi-spillede-med-haandbremsen-trukket?referrer=RSS",
@@ -312,13 +312,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/usa-har-angrebet-tre-iranske-olieskibe",
         "published_date": "2026-09-05 13:53:01",
-        "category": "Energy"
-    },
-    {
-        "title": "Business update: Car giant lays off 100,000 - the stock market rejoices",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/business-update-bilgigant-fyrer-100000--aktiemarkedet-jubler?referrer=RSS",
-        "published_date": "2026-09-04 14:20:51",
         "category": "Energy"
     },
     {
@@ -362,6 +355,76 @@
         "url": "https://www.berlingske.dk/sport/lukningstruede-liv-golf-soeger-om-konkursbeskyttelse?referrer=RSS",
         "published_date": "2026-09-08 23:50:45",
         "category": "Economy"
+    },
+    {
+        "title": "Rybakina wins the US Open for the first time in her career",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/rybakina-vinder-us-open-foerste-gang-i-karrieren",
+        "published_date": "2026-09-13 00:05:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tens of thousands demonstrate across Germany after AfD election victory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/titusindvis-demonstrerer-i-hele-tyskland-efter-afd-valgsejr?referrer=RSS",
+        "published_date": "2026-09-12 23:33:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "New world number 7 triumphs in the US Open for the first time",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/ny-verdensetter-triumferer-i-us-open-for-foerste-gang?referrer=RSS",
+        "published_date": "2026-09-12 22:43:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Excellent opening secures Real comfortable victory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fremragende-aabning-sikrer-real-komfortabel-sejr?referrer=RSS",
+        "published_date": "2026-09-12 21:05:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish speedway profile was happy despite the canceled grand prix",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dansk-speedwayprofil-var-lykkelig-trods-aflyst-grandprix?referrer=RSS",
+        "published_date": "2026-09-12 21:05:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "New signing's dream chop ensures Arsenal narrow victory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/nyindkoebs-droemmehug-sikrer-arsenal-smal-sejr?referrer=RSS",
+        "published_date": "2026-09-12 21:02:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swedish prime ministerial candidates speak warmly of more nuclear power",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/svenske-statsministerkandidater-taler-varmt-om-mere-atomkraft?referrer=RSS",
+        "published_date": "2026-09-12 20:38:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sorry speedway organizer: It was right to cancel",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/aergerlig-speedway-arrangoer-det-var-rigtigt-at-aflyse?referrer=RSS",
+        "published_date": "2026-09-12 20:32:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rain puts an abrupt end to the speedway grand prix in Vojens",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/regn-saetter-brat-stopper-speedway-grandprix-i-vojens",
+        "published_date": "2026-09-12 20:10:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Michelin chef replaces gourmet with meatballs: Now his food can end up on your dining table",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/soenderborg/michelin-kok-skifter-gourmet-ud-med-frikadeller-nu-kan-hans-mad-ende-paa-dit-spisebord?rss",
+        "published_date": "2026-09-12 19:37:00",
+        "category": "Local Events"
     },
     {
         "title": "Br\u00f8ndby IF had a day of celebration at OB Q's home ground",
@@ -431,76 +494,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kronikker/her-er-fem-raad-til-at-ruste-dig-til-den-nye-virkelighed-med-hybridkrig?referrer=RSS",
         "published_date": "2026-09-12 12:16:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "A man has been arrested in connection with several counterfeit 500 kroner notes",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-er-anholdt-i-sag-om-flere-falske-500-kronesedler?referrer=RSS",
-        "published_date": "2026-09-12 12:10:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two billion kroner and seven years: Join one of Denmark's most secret construction projects",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/arkitektur/to-milliarder-kroner-og-syv-aar-kom-med-ind-i-et-af-danmarks-hemmeligste-byggerier?referrer=RSS",
-        "published_date": "2026-09-12 11:58:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside Denmark: What my stay in a Danish 'h\u00f8jskole' taught me about Denmark",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260912/inside-denmark-what-my-stay-in-a-danish-hojskole-taught-me-about-denmark",
-        "published_date": "2026-09-12 11:01:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Social Democrats will toughen penalties for cheating at residences",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/socialdemokratiet-vil-skaerpe-straf-snyd-paa-bosteder",
-        "published_date": "2026-09-12 10:37:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mette Frederiksen will continue in the post both in this and the next election period",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mette-frederiksen-vil-fortsaette-paa-posten-baade-i-denne-og-naeste-valgperiode",
-        "published_date": "2026-09-12 10:08:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What's happening in Denmark this week?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260912/on-the-agenda-whats-happening-in-denmark-this-week-8",
-        "published_date": "2026-09-12 09:11:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Death toll rises to 35 after fire on ferry in Philippines",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/doedstal-stiger-til-35-efter-brand-paa-faerge-i-filippinerne",
-        "published_date": "2026-09-12 05:21:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ebola outbreak in DR Congo has now infected over 7,000",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ebolaudbrud-i-dr-congo-har-nu-smittet-over-7000",
-        "published_date": "2026-09-12 03:08:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark gets rid of S\u00f8rloth in the Nations League match in Oslo",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/danmark-slipper-for-soerloth-i-nations-league-opgoer-i-oslo?referrer=RSS",
-        "published_date": "2026-09-11 23:58:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Citizens in the city of Sydsj\u00e6lland can once again open doors and windows after a fire",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/borgere-i-sydsjaellandsk-by-kan-igen-aabne-doere-og-vinduer-efter-brand?referrer=RSS",
-        "published_date": "2026-09-11 23:52:47",
         "category": "Local Events"
     }
 ]
