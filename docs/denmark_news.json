@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "In the war-torn Ukraine, Lone Frank found a meaning in life: \"People die every day, they have a horrible everyday life, and yet they have a will to resist and strength\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kultur/i-det-krigshaergede-ukraine-fandt-lone-frank-en-mening-med-livet-folk-doer-hver-dag-de-har-en-haeslig-hverdag-og-alligevel-har-de-en-modstandsvilje-og-kraft?referrer=RSS",
+        "published_date": "2026-09-13 14:19:49",
+        "category": "Military"
+    },
+    {
         "title": "Ukraine reports at least nine dead after Russian attacks on Saturday",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/ukraine-melder-om-mindst-ni-draebte-efter-russiske-angreb-loerdag?referrer=RSS",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Suspected violation of Polish airspace turned out to be birds",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mistaenkt-kraenkelse-af-polsk-luftrum-viste-sig-at-vaere-fugle?referrer=RSS",
-        "published_date": "2026-09-06 13:44:58",
-        "category": "Military"
-    },
-    {
         "title": "FCK coach: We played with the handbrake on",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/fck-traener-vi-spillede-med-haandbremsen-trukket?referrer=RSS",
@@ -305,13 +305,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/de-naeste-maaneder-kan-blive-dyre--perfekt-storm-sender-elprisen-i-vejret?referrer=RSS",
         "published_date": "2026-09-07 15:30:31",
-        "category": "Energy"
-    },
-    {
-        "title": "The US has attacked three Iranian oil tankers",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-har-angrebet-tre-iranske-olieskibe",
-        "published_date": "2026-09-05 13:53:01",
         "category": "Energy"
     },
     {
@@ -357,143 +350,143 @@
         "category": "Economy"
     },
     {
+        "title": "Illness-stricken Mattias Skjelmose withdraws from the WC",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sygdomsramt-mattias-skjelmose-melder-fra-til-vm?referrer=RSS",
+        "published_date": "2026-09-13 14:42:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hijab is only a free choice if it is also free to take off the headscarf",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/hijab-er-kun-et-frit-valg-hvis-det-ogsaa-er-frit-at-tage-toerklaedet-af?referrer=RSS",
+        "published_date": "2026-09-13 14:38:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kosovo's parliament approves Albin Kurti's government",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kosovos-parlament-godkender-albin-kurtis-regering?referrer=RSS",
+        "published_date": "2026-09-13 14:35:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Poisonous gople found in Roskilde Fjord",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/giftig-gople-fundet-i-roskilde-fjord?referrer=RSS",
+        "published_date": "2026-09-13 14:29:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump wants Zelensky to stop attacks on Russia's diesel",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-vil-have-zelenskyj-til-at-stoppe-angreb-mod-ruslands-diesel?referrer=RSS",
+        "published_date": "2026-09-13 14:26:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Watch the match here: TM T\u00f8nder crosses blades with the in-form Team Sydhavs\u00f8erne",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/esbjerg/se-kampen-her-tm-toender-krydser-klinger-med-formstaerke-team-sydhavsoeerne?rss",
+        "published_date": "2026-09-13 14:20:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish volleyball men take their second win at the EC",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/danske-volleyherrer-tager-anden-sejr-ved-em?referrer=RSS",
+        "published_date": "2026-09-13 14:14:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Danes take revenge with a sure victory over the major winner",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dansker-tager-revanche-med-sikker-sejr-over-majorvinder?referrer=RSS",
+        "published_date": "2026-09-13 14:04:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crisis-stricken S\u00f8nderjyske saves a point by taking home from Lyngby",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kriseramte-soenderjyske-redder-et-point-med-hjem-fra-lyngby?referrer=RSS",
+        "published_date": "2026-09-13 14:01:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Silkeborg and Viborg split after a close duel",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/silkeborg-og-viborg-deler-efter-taet-duel?referrer=RSS",
+        "published_date": "2026-09-13 13:58:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bridge work will close the Great Belt Bridge briefly on weekdays next week",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/broarbejde-lukker-storebaeltsbroen-kortvarigt-paa-hverdage-i-naeste-uge",
+        "published_date": "2026-09-13 11:56:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Suspected drone closed airport in Lithuania",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mistanke-om-drone-lukkede-lufthavn-i-litauen",
+        "published_date": "2026-09-13 11:21:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "19-year-old man died after a traffic accident",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-mand-afgaaet-ved-doeden-efter-faerdselsuheld",
+        "published_date": "2026-09-13 11:17:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seven out of ten multiple sclerosis patients are now women",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/syv-ud-af-ti-sclerosepatienter-er-nu-kvinder",
+        "published_date": "2026-09-13 10:59:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish WWII drama wins top prize at Venice festival",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260913/danish-wwii-drama-wins-top-prize-at-venice-festival",
+        "published_date": "2026-09-13 09:32:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two Danes sail their way to WC bronze",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/danskere-sejler-sig-til-vm-bronze",
+        "published_date": "2026-09-13 07:03:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "19-year-old Yasmin showed her prom dress to her mother - the next day she was dead",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/assens/19-aarige-yasmin-viste-sin-gallakjole-frem-naeste-dag-blev-sannes-liv-revet-itu?rss",
+        "published_date": "2026-09-13 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "30-year-old Thea has multiple sclerosis and is a new mother: some days she can't stay awake",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sydfyn/30-aarige-thea-har-sklerose-og-er-nybagt-mor-nogle-dage-kan-hun-ikke-holde-sig-vaagen?rss",
+        "published_date": "2026-09-13 05:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lost contact with Indonesian passenger ship - 140 people still missing",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/indonesiske-myndigheder-leder-efter-passagerskib-med-mindst-240-ombord",
+        "published_date": "2026-09-13 03:55:41",
+        "category": "Local Events"
+    },
+    {
         "title": "Rybakina wins the US Open for the first time in her career",
         "source": "DR",
         "url": "https://www.dr.dk/sporten/seneste-sport/rybakina-vinder-us-open-foerste-gang-i-karrieren",
         "published_date": "2026-09-13 00:05:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tens of thousands demonstrate across Germany after AfD election victory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/titusindvis-demonstrerer-i-hele-tyskland-efter-afd-valgsejr?referrer=RSS",
-        "published_date": "2026-09-12 23:33:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "New world number 7 triumphs in the US Open for the first time",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ny-verdensetter-triumferer-i-us-open-for-foerste-gang?referrer=RSS",
-        "published_date": "2026-09-12 22:43:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Excellent opening secures Real comfortable victory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fremragende-aabning-sikrer-real-komfortabel-sejr?referrer=RSS",
-        "published_date": "2026-09-12 21:05:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish speedway profile was happy despite the canceled grand prix",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-speedwayprofil-var-lykkelig-trods-aflyst-grandprix?referrer=RSS",
-        "published_date": "2026-09-12 21:05:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "New signing's dream chop ensures Arsenal narrow victory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/nyindkoebs-droemmehug-sikrer-arsenal-smal-sejr?referrer=RSS",
-        "published_date": "2026-09-12 21:02:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish prime ministerial candidates speak warmly of more nuclear power",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/svenske-statsministerkandidater-taler-varmt-om-mere-atomkraft?referrer=RSS",
-        "published_date": "2026-09-12 20:38:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sorry speedway organizer: It was right to cancel",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/aergerlig-speedway-arrangoer-det-var-rigtigt-at-aflyse?referrer=RSS",
-        "published_date": "2026-09-12 20:32:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rain puts an abrupt end to the speedway grand prix in Vojens",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/regn-saetter-brat-stopper-speedway-grandprix-i-vojens",
-        "published_date": "2026-09-12 20:10:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Michelin chef replaces gourmet with meatballs: Now his food can end up on your dining table",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/michelin-kok-skifter-gourmet-ud-med-frikadeller-nu-kan-hans-mad-ende-paa-dit-spisebord?rss",
-        "published_date": "2026-09-12 19:37:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Br\u00f8ndby IF had a day of celebration at OB Q's home ground",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/broendby-if-havde-en-festdag-paa-ob-q-s-hjemmebane-2026-9-12?rss",
-        "published_date": "2026-09-12 15:22:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "DNA traces lead to two suspects in planned drone attack at German airport",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/dna-spor-foerer-til-to-mistaenkte-ved-planlagt-droneangreb-i-tysk-lufthavn?referrer=RSS",
-        "published_date": "2026-09-12 13:41:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Danish men's volleyball team continues their upward trend with an EC victory over the Netherlands",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/danske-volleyherrer-fortsaetter-optur-med-em-sejr-over-holland?referrer=RSS",
-        "published_date": "2026-09-12 13:41:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "French winegrowers predict lowest harvest in 30 years \u2013 champagne production to be halved",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/franske-vinboender-forudser-laveste-hoest-i-30-aar--champagneproduktionen-halveres?referrer=RSS",
-        "published_date": "2026-09-12 13:23:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tractors demonstrated against the fertilizer law at the S annual meeting",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/traktorer-demonstrerede-mod-goedskningslov-ved-s-aarsmoede?referrer=RSS",
-        "published_date": "2026-09-12 13:10:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nadim brings HB K\u00f8ge back on the winning track in Hj\u00f8rring",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/nadim-bringer-hb-koege-tilbage-paa-vindersporet-i-hjoerring?referrer=RSS",
-        "published_date": "2026-09-12 13:02:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "It is called a destiny choice.But the really difficult work will only hit Sweden after the election",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/det-kaldes-et-skaebnevalg-men-det-rigtigt-svaere-arbejde-rammer-foerst-sverige-efter-valget?referrer=RSS",
-        "published_date": "2026-09-12 13:02:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "BRICS countries call for restraint in the Middle East",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/briks-lande-opfordrer-til-tilbageholdenhed-i-mellemoesten?referrer=RSS",
-        "published_date": "2026-09-12 12:22:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "BRICS countries call for restraint in the Middle East",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/briks-lande-opfordrer-til-tilbageholdenhed-i-mellemoesten",
-        "published_date": "2026-09-12 12:22:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Here are five pieces of advice to prepare you for the new reality of hybrid warfare",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kronikker/her-er-fem-raad-til-at-ruste-dig-til-den-nye-virkelighed-med-hybridkrig?referrer=RSS",
-        "published_date": "2026-09-12 12:16:50",
         "category": "Local Events"
     }
 ]
