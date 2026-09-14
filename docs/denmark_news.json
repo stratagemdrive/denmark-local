@@ -1,5 +1,33 @@
 [
     {
+        "title": "EU Commission mulls revision of Schengen visa rules and fees",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260914/eu-commission-mulls-revision-of-schengen-visa-rules-and-fees",
+        "published_date": "2026-09-14 18:07:23",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Minister of Taxation called for a better mood at the consultation: Then Vansplagh called him a \"crazy driver\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/skatteministeren-efterlyste-bedre-humoer-paa-samraad-saa-kaldte-vanopslagh-hamvanvidsbilist?referrer=RSS",
+        "published_date": "2026-09-14 15:51:33",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "REVEALED: Number of residency permits issued in Europe reaches record high",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260914/revealed-number-of-residency-permits-issued-in-europe-reaches-record-high",
+        "published_date": "2026-09-14 12:32:14",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "How a Danish school library got kids back into reading",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260914/how-a-danish-library-got-kids-back-into-reading",
+        "published_date": "2026-09-14 12:26:56",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Danish film wins two main prizes at the Venice film festival: \"It's Europe's answer to an Oscar\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/skaerm/dansk-film-vinder-to-hovedpriser-ved-filmfestival-i-venedigdet-er-europas-svar-paa-en-oscar?referrer=RSS",
@@ -112,25 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "After criticism, a Danish ship was in Greenland during von der Leyen's visit",
+        "title": "Trump: Ukraine and Russia agree not to attack energy facilities",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/efter-kritik-var-dansk-skib-i-groenland-under-von-der-leyen-besoeg?referrer=RSS",
-        "published_date": "2026-09-06 21:03:47",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/trump-ukraine-og-rusland-enige-om-ikke-at-angribe-energianlaeg?referrer=RSS",
+        "published_date": "2026-09-14 16:31:44",
+        "category": "Military"
     },
     {
-        "title": "EU chief due in Greenland to boost Arctic ties",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260906/eu-chief-due-in-greenland-to-boost-arctic-ties",
-        "published_date": "2026-09-06 08:38:56",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The US ambassador to Israel accuses the British government of anti-Semitism",
+        "title": "Trump repeats: Ukraine must stop attacks on Russian refineries",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-s-ambassadoer-i-israel-anklager-den-britiske-regering-joedehad",
-        "published_date": "2026-09-06 03:11:47",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/trump-gentager-ukraine-skal-stoppe-angreb-paa-russiske-raffinaderier",
+        "published_date": "2026-09-14 07:00:32",
+        "category": "Military"
     },
     {
         "title": "In the war-torn Ukraine, Lone Frank found a meaning in life: \"People die every day, they have a horrible everyday life, and yet they have a will to resist and strength\"",
@@ -259,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "South Korea begins five-day military exercise with the US and Japan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sydkorea-indleder-fem-dages-militaeroevelse-med-usa-og-japan",
-        "published_date": "2026-09-07 04:21:50",
-        "category": "Military"
-    },
-    {
-        "title": "Wimbledon champion beats Ukrainian after five missed match points",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/wimbledon-mester-slaar-ukrainer-efter-fem-missede-matchbolde?referrer=RSS",
-        "published_date": "2026-09-06 21:25:45",
-        "category": "Military"
-    },
-    {
         "title": "FCK coach: We played with the handbrake on",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/fck-traener-vi-spillede-med-haandbremsen-trukket?referrer=RSS",
@@ -343,143 +350,143 @@
         "category": "Economy"
     },
     {
-        "title": "OVERVIEW: This is how the elections in Sweden will proceed in the coming weeks",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/overblik-saadan-forloeber-valget-i-sverige-i-de-kommende-uger?referrer=RSS",
-        "published_date": "2026-09-14 00:10:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Referee organization acknowledges error in Haaland's goal against United",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dommerorganisation-erkender-fejl-ved-haalands-maal-mod-united?referrer=RSS",
-        "published_date": "2026-09-14 00:00:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ulf Kristersson: The election results are still open",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ulf-kristersson-valgresultatet-ligger-fortsat-aabent?referrer=RSS",
-        "published_date": "2026-09-13 23:32:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "SD leader after decline: The loss of voters is obvious",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/sd-leder-efter-nedgang-tabet-af-vaelgere-er-aabenlyst?referrer=RSS",
-        "published_date": "2026-09-13 23:20:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israel minister to take citizenship from Gaza filmmakers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/israels-minister-vil-tage-statsborgerskab-fra-gaza-filmskabere?referrer=RSS",
-        "published_date": "2026-09-13 22:45:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "S leader on Swedish election horror: It looks like it will be close",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/s-leder-om-svensk-valggyser-det-ser-ud-til-at-blive-taet?referrer=RSS",
-        "published_date": "2026-09-13 22:39:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zverev extends American title drought in US Open final",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/zverev-forlaenger-amerikansk-titeltoerke-i-us-open-finale?referrer=RSS",
-        "published_date": "2026-09-13 21:58:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forecast shows deadlock between Sweden's two wings",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/prognose-viser-doedt-loeb-mellem-sveriges-to-floeje?referrer=RSS",
-        "published_date": "2026-09-13 21:33:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish ex-minister was minutes from drone attack",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/svensk-eksminister-var-faa-minutter-fra-droneangreb?referrer=RSS",
-        "published_date": "2026-09-13 20:13:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Referee admits mistake: FCN player should have had a red card",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dommer-erkender-fejl-fcn-spiller-skulle-have-roedt-kort?referrer=RSS",
-        "published_date": "2026-09-13 19:14:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The minister with 3 small children appreciates running and red wine:\u00a0However, each separately",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/ministeren-med-3-smaa-boern-saetter-pris-paa-loeb-og-roedvin-dog-gerne-hver-for-sig?rss",
-        "published_date": "2026-09-13 19:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Lion's Den investor bet on Dan and Lene: Now the growth comet gets 20,000 orders a year",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/toender/loevens-hule-investor-satsede-paa-dan-og-lene-nu-faar-vaekst-komet-20-000-ordrer-om-aaret?rss",
-        "published_date": "2026-09-13 17:46:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Skive and Middelfart shared the points in a close match",
+        "title": "Watch the match here: Bulldogs take on North Jutland in the Metal League",
         "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/skive-og-middelfart-delte-pointene-i-taet-opgoer?rss",
-        "published_date": "2026-09-13 17:22:04",
+        "url": "https://fyens.dk/sport/se-kampen-her-bulldogs-tager-imod-nordjyder-i-metal-ligaen?rss",
+        "published_date": "2026-09-14 18:20:02",
         "category": "Local Events"
     },
     {
-        "title": "Illness-stricken Mattias Skjelmose withdraws from the WC",
+        "title": "Prosecutors must pursue multiple cases demanding double punishment",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/sygdomsramt-mattias-skjelmose-melder-fra-til-vm?referrer=RSS",
-        "published_date": "2026-09-13 14:42:46",
+        "url": "https://www.berlingske.dk/indland/anklagere-skal-foere-flere-sager-med-krav-om-dobbelt-straf?referrer=RSS",
+        "published_date": "2026-09-14 16:28:46",
         "category": "Local Events"
     },
     {
-        "title": "Hijab is only a free choice if it is also free to take off the headscarf",
+        "title": "A young, female politician was the only one who dared to stand at the head of an ailing party.One particular detail may explain her success",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/hijab-er-kun-et-frit-valg-hvis-det-ogsaa-er-frit-at-tage-toerklaedet-af?referrer=RSS",
-        "published_date": "2026-09-13 14:38:48",
+        "url": "https://www.berlingske.dk/internationalt/ung-kvindelig-politiker-var-den-eneste-der-turde-stille-sig-i-spidsen-for-skrantende-parti-en-saerlig-detalje-kan-forklare-hendes-succes?referrer=RSS",
+        "published_date": "2026-09-14 16:22:55",
         "category": "Local Events"
     },
     {
-        "title": "Kosovo's parliament approves Albin Kurti's government",
+        "title": "The cross-country legend is lining up for the WC in the half-marathon in Copenhagen",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/langrendslegenede-stiller-op-til-vm-i-halvmaraton-i-koebenhavn",
+        "published_date": "2026-09-14 16:20:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Oasis announces new tour and again omits Denmark",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kosovos-parlament-godkender-albin-kurtis-regering?referrer=RSS",
-        "published_date": "2026-09-13 14:35:43",
+        "url": "https://www.berlingske.dk/internationalt/oasis-annoncerer-ny-turne-og-udelader-igen-danmark?referrer=RSS",
+        "published_date": "2026-09-14 16:10:47",
         "category": "Local Events"
     },
     {
-        "title": "Poisonous gople found in Roskilde Fjord",
+        "title": "Famous Islam researcher was accused of \"dubious research practices\" by two Danish researchers.There's just one problem",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/giftig-gople-fundet-i-roskilde-fjord?referrer=RSS",
-        "published_date": "2026-09-13 14:29:44",
+        "url": "https://www.berlingske.dk/kronikker/beroemt-islamforsker-blev-beskyldt-for-tvivlsom-forskningspraksis-af-to-danske-forskere-der-er-bare-et-problem?referrer=RSS",
+        "published_date": "2026-09-14 16:08:41",
         "category": "Local Events"
     },
     {
-        "title": "Trump wants Zelensky to stop attacks on Russia's diesel",
+        "title": "Former cross-country queen runs the half-marathon WC in Copenhagen",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-vil-have-zelenskyj-til-at-stoppe-angreb-mod-ruslands-diesel?referrer=RSS",
-        "published_date": "2026-09-13 14:26:44",
+        "url": "https://www.berlingske.dk/sport/tidligere-langrendsdronning-loeber-halvmaraton-vm-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-09-14 16:07:47",
         "category": "Local Events"
     },
     {
-        "title": "Watch the match here: TM T\u00f8nder crosses blades with the in-form Team Sydhavs\u00f8erne",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/se-kampen-her-tm-toender-krydser-klinger-med-formstaerke-team-sydhavsoeerne?rss",
-        "published_date": "2026-09-13 14:20:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish volleyball men take their second win at the EC",
+        "title": "More than one in ten pupils do not pass Danish and mathematics in the 9th grade",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/danske-volleyherrer-tager-anden-sejr-ved-em?referrer=RSS",
-        "published_date": "2026-09-13 14:14:44",
+        "url": "https://www.berlingske.dk/politik/mere-end-hver-tiende-elev-bestaar-ikke-dansk-og-matematik-i-9-klasse?referrer=RSS",
+        "published_date": "2026-09-14 16:03:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"You know about sports?\" Sydney Sweeney asks naked.Now the internet has gone crazy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kultur/du-kender-til-sport-spoerger-sydney-sweeney-noegen-nu-er-internettet-gaaet-amok?referrer=RSS",
+        "published_date": "2026-09-14 16:01:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swedish center party rejects cooperation with Ulf Kristersson",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/svensk-midterparti-afviser-samarbejde-med-ulf-kristersson?referrer=RSS",
+        "published_date": "2026-09-14 15:51:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crane overturned in the middle of Silkeborg - no one was injured",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kran-vaeltet-midt-i-silkeborg-ingen-er-kommet-til-skade",
+        "published_date": "2026-09-14 15:01:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Track on E45 blocked in both directions at Vejle",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/spor-paa-e45-spaerret-i-begge-retninger-ved-vejle",
+        "published_date": "2026-09-14 14:52:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Storting in Norway hit by a hacker attack",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/stortinget-i-norge-ramt-af-hackerangreb",
+        "published_date": "2026-09-14 14:22:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister of Justice: Criminal families must be treated like gangs",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/justitsminister-kriminelle-familier-skal-behandles-som-bander",
+        "published_date": "2026-09-14 13:50:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Stoltenberg drops international top post",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/stoltenberg-dropper-international-toppost",
+        "published_date": "2026-09-14 12:45:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish word of the day: gl\u00e6de",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260914/danish-word-of-the-day-glaede",
+        "published_date": "2026-09-14 12:34:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Copenhagen Half Marathon expands",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/copenhagen-half-marathon-udvider",
+        "published_date": "2026-09-14 11:43:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court blocks Trump's attempt to limit mail-in voting",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/domstol-blokerer-trumps-forsoeg-paa-begraense-brevstemmer",
+        "published_date": "2026-09-14 10:57:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hundreds sign petition to resume Danish citizenship application process",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260914/hundreds-sign-petition-to-resume-danish-citizenship-application-process",
+        "published_date": "2026-09-14 10:46:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "A motorist has reported stone throwing from a motorway bridge: Both headlights and radiator cap were damaged",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bilist-har-anmeldt-stenkast-fra-motorvejsbro-baade-forlygter-og-koelerhjelm-tog-skade",
+        "published_date": "2026-09-14 09:08:03",
         "category": "Local Events"
     }
 ]
