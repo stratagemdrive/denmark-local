@@ -1,5 +1,12 @@
 [
     {
+        "title": "NATO warplanes shoot down drone over Lithuanian airspace",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nato-kampfly-nedskyder-drone-over-litauens-luftrum",
+        "published_date": "2026-09-14 22:13:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "EU Commission mulls revision of Schengen visa rules and fees",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260914/eu-commission-mulls-revision-of-schengen-visa-rules-and-fees",
@@ -130,13 +137,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260907/eu-pledges-200-million-euros-for-greenland-investment-package",
         "published_date": "2026-09-07 14:46:32",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Climate crisis: How the supersized El Ni\u00f1o could hit Europe",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260907/climate-crisis-how-the-supersized-el-nino-could-hit-europe",
-        "published_date": "2026-09-07 11:19:23",
         "category": "Diplomacy"
     },
     {
@@ -350,6 +350,55 @@
         "category": "Economy"
     },
     {
+        "title": "The Supreme Court rejects Trump in the case of stricter postal voting rules",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hoejesteret-afviser-trump-i-sag-om-strammere-brevstemmeregler?referrer=RSS",
+        "published_date": "2026-09-15 00:46:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Supreme Court blocks Trump's plan to change the mail-in voting system before the midterm elections",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hoejesteret-blokerer-trumps-plan-om-aendre-brevstemme-system-foer-midtvejsvalg",
+        "published_date": "2026-09-15 00:26:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prominent Republicans return after extended illness",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fremtraedende-republikaner-vender-tilbage-efter-laengere-sygefravaer?referrer=RSS",
+        "published_date": "2026-09-14 23:58:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Macklemore removed from Ed Sheeran's tour after Gaza support",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/macklemore-fjernet-fra-ed-sheerans-turne-efter-gaza-stoette?referrer=RSS",
+        "published_date": "2026-09-14 23:46:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Harry and Meghan's children are switching schools due to security concerns",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/harry-og-meghans-boern-skifter-skole-paa-grund-af-sikkerhed?referrer=RSS",
+        "published_date": "2026-09-14 21:12:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Errors in the Criminal Register slow down students' internship plans",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/fejl-i-kriminalregisteret-bremser-studerendes-praktikplaner?referrer=RSS",
+        "published_date": "2026-09-14 20:48:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inter turns 0-2 to secure victory and continues to have maximum points",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/inter-vender-0-2-til-sikker-sejr-og-har-fortsat-maksimumpoint?referrer=RSS",
+        "published_date": "2026-09-14 20:48:45",
+        "category": "Local Events"
+    },
+    {
         "title": "Watch the match here: Bulldogs take on North Jutland in the Metal League",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/sport/se-kampen-her-bulldogs-tager-imod-nordjyder-i-metal-ligaen?rss",
@@ -438,55 +487,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/stortinget-i-norge-ramt-af-hackerangreb",
         "published_date": "2026-09-14 14:22:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister of Justice: Criminal families must be treated like gangs",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/justitsminister-kriminelle-familier-skal-behandles-som-bander",
-        "published_date": "2026-09-14 13:50:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Stoltenberg drops international top post",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stoltenberg-dropper-international-toppost",
-        "published_date": "2026-09-14 12:45:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish word of the day: gl\u00e6de",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260914/danish-word-of-the-day-glaede",
-        "published_date": "2026-09-14 12:34:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen Half Marathon expands",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/copenhagen-half-marathon-udvider",
-        "published_date": "2026-09-14 11:43:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court blocks Trump's attempt to limit mail-in voting",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/domstol-blokerer-trumps-forsoeg-paa-begraense-brevstemmer",
-        "published_date": "2026-09-14 10:57:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hundreds sign petition to resume Danish citizenship application process",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260914/hundreds-sign-petition-to-resume-danish-citizenship-application-process",
-        "published_date": "2026-09-14 10:46:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "A motorist has reported stone throwing from a motorway bridge: Both headlights and radiator cap were damaged",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bilist-har-anmeldt-stenkast-fra-motorvejsbro-baade-forlygter-og-koelerhjelm-tog-skade",
-        "published_date": "2026-09-14 09:08:03",
         "category": "Local Events"
     }
 ]
