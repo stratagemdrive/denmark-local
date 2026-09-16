@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Russia calls passenger trains in Ukraine legitimate targets",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-kalder-passagertog-i-ukraine-legitime-maal",
+        "published_date": "2026-09-15 17:22:14",
+        "category": "Military"
+    },
+    {
         "title": "Trump: Ukraine and Russia agree not to attack energy facilities",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-ukraine-og-rusland-enige-om-ikke-at-angribe-energianlaeg?referrer=RSS",
@@ -252,34 +259,6 @@
         "category": "Military"
     },
     {
-        "title": "Corruption charges prompt Ukraine's attorney general to resign",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/korruptionsanklager-faar-ukraines-rigsadvokat-til-traede-tilbage",
-        "published_date": "2026-09-07 23:47:07",
-        "category": "Military"
-    },
-    {
-        "title": "Ukraine's attorney general resigns after corruption charges",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ukraines-rigsadvokat-traeder-tilbage-efter-korruptionsanklager?referrer=RSS",
-        "published_date": "2026-09-07 22:18:46",
-        "category": "Military"
-    },
-    {
-        "title": "Three men receive long prison sentences for drug dealing and weapons storage",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-maend-faar-lange-faengselsstraffe-narkohandel-og-vaabenlager",
-        "published_date": "2026-09-07 16:06:36",
-        "category": "Military"
-    },
-    {
-        "title": "200 kilometers of barbed wire fencing is complete at the Finnish border with Russia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/200-kilometer-hegn-med-pigtraad-staar-faerdigt-ved-finsk-graense-til-rusland?referrer=RSS",
-        "published_date": "2026-09-07 15:58:46",
-        "category": "Military"
-    },
-    {
         "title": "Poland will tax oil companies and lower fuel prices",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/polen-vil-beskatte-olieselskaber-og-saenke-braendstofprisen",
@@ -298,20 +277,6 @@
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/billund/lego-model-overgaar-sin-egen-vaerdi-bliver-solgt-for-mange-tusinde-kroner?rss",
         "published_date": "2026-09-11 04:54:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Argentina will initiate criminal proceedings against an oil company in the Falkland Islands",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/argentina-vil-rejse-straffesag-mod-olieselskab-paa-falklandsoeerne?referrer=RSS",
-        "published_date": "2026-09-08 00:27:46",
-        "category": "Energy"
-    },
-    {
-        "title": "The next few months can be expensive \u2013 a perfect storm will send electricity prices skyrocketing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/de-naeste-maaneder-kan-blive-dyre--perfekt-storm-sender-elprisen-i-vejret?referrer=RSS",
-        "published_date": "2026-09-07 15:30:31",
         "category": "Energy"
     },
     {
@@ -357,10 +322,129 @@
         "category": "Economy"
     },
     {
+        "title": "Arteta wants to protect the Arsenal comet: we have to be very careful",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/arteta-vil-beskytte-arsenal-komet-vi-skal-vaere-meget-forsigtige?referrer=RSS",
+        "published_date": "2026-09-16 00:01:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "NHL club: Russian star asked to participate in Putin video",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/nhl-klub-russisk-stjerne-blev-bedt-om-at-deltage-i-putin-video?referrer=RSS",
+        "published_date": "2026-09-16 00:01:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "OpenAI boss: The world has reason to fear artificial intelligence",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/openai-chef-verden-har-grund-til-at-frygte-kunstig-intelligens?referrer=RSS",
+        "published_date": "2026-09-15 23:54:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maduro-allied ex-minister confesses to money laundering",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/maduro-allieret-eksminister-tilstaar-hvidvask-af-penge?referrer=RSS",
+        "published_date": "2026-09-15 23:54:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lukas Graham withdraws from Ed Sheeran's tour",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/lukas-graham-traekker-sig-fra-ed-sheerans-turne?referrer=RSS",
+        "published_date": "2026-09-15 22:42:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young Spaniard gets Real Madrid the win after scare",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/ung-spanier-skaffer-real-madrid-sejren-efter-forskraekkelse?referrer=RSS",
+        "published_date": "2026-09-15 21:43:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US war against Iran has cost 246 billion kroner",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-s-krig-mod-iran-har-kostet-246-milliarder-kroner",
+        "published_date": "2026-09-15 21:31:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ed Sheeran denies being behind firing rapper from tour",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ed-sheeran-afviser-at-staa-bag-fyring-af-rapper-fra-turne?referrer=RSS",
+        "published_date": "2026-09-15 21:29:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "16-year-old sends Arsenal through in the League Cup with two goals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/16-aarig-sender-arsenal-videre-i-liga-cuppen-med-to-maal?referrer=RSS",
+        "published_date": "2026-09-15 21:08:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US war against Iran has cost 246 billion kroner",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usas-krig-mod-iran-har-kostet-246-milliarder-kroner?referrer=RSS",
+        "published_date": "2026-09-15 21:08:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kim Kardashian asked for and received symbolic compensation after robbery",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kim-kardashian-bad-om-og-fik-symbolsk-erstatning-efter-roeveri",
+        "published_date": "2026-09-15 19:02:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Will not demand the death penalty for the son in the case of the murder of the Reiner couple",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/vil-ikke-kraeve-doedstraf-til-soen-i-sag-om-drab-paa-reiner-parret",
+        "published_date": "2026-09-15 18:41:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Steve Bannon and Bernie Sanders want AI restrictions",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/steve-bannon-og-bernie-sanders-vil-have-ai-begraensninger",
+        "published_date": "2026-09-15 18:22:59",
+        "category": "Local Events"
+    },
+    {
         "title": "A million villa in an attractive neighborhood is illegally built: the Board of Appeal revokes the municipality's building permit",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/kolding/millionvilla-i-attraktivt-kvarter-er-ulovligt-opfoert-klagenaevn-ophaever-kommunens-byggetilladelse?rss",
         "published_date": "2026-09-15 17:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Air traffic at the airport in Malm\u00f6 resumed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/problem-med-fragtfly-stopper-flytrafikken-i-lufthavnen-i-malmoe",
+        "published_date": "2026-09-15 16:54:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark suffers another defeat at the EC in volleyball",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/danmark-lider-nyt-nederlag-ved-em-i-volley",
+        "published_date": "2026-09-15 16:39:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Risk of cloudbursts and thunder over Southeast Denmark",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/risiko-skybrud-og-torden-over-sydoestdanmark",
+        "published_date": "2026-09-15 16:11:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ringk\u00f8bing-Skjern Municipality will look into the problem with wolves along the school road",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ringkoebing-skjern-kommune-vil-se-paa-problem-med-ulve-langs-skolevejen",
+        "published_date": "2026-09-15 15:29:22",
         "category": "Local Events"
     },
     {
@@ -375,125 +459,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/lokale-skybrud-og-torden-rammer-den-oestlige-del-af-danmark?referrer=RSS",
         "published_date": "2026-09-15 15:02:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish companies increasingly use artificial intelligence",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/danske-virksomheder-bruger-i-stigende-grad-kunstig-intelligens?referrer=RSS",
-        "published_date": "2026-09-15 14:52:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two 16-year-old boys are charged with murder after a fatal stabbing in Tilst",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/to-16-aarige-drenge-sigtes-for-drab-efter-doedeligt-knivstik-i-tilst?referrer=RSS",
-        "published_date": "2026-09-15 14:52:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "'This should be unthinkable': Trump's son had lavish wedding party paid for by oligarch with close ties to Putin",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/det-her-burde-vaere-utaenkeligt-trumps-soen-fik-overdaadig-bryllupsfestbetalt-af-oligark-med-taette-forbindelser-til-putin?referrer=RSS",
-        "published_date": "2026-09-15 14:39:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Business update: Americans buy house for former minister in Greenland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/business-update-amerikanere-koeber-hus-til-tidligere-minister-i-groenland?referrer=RSS",
-        "published_date": "2026-09-15 14:34:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several infanticides could have been avoided in British case of nurse, investigation shows",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-spaedboernsdrab-kunne-vaere-undgaaet-i-britisk-sag-om-sygeplejerske-viser-undersoegelse",
-        "published_date": "2026-09-15 14:29:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "33-year-old man sentenced to four years in prison for arson in Randers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/33-aarig-mand-idoemt-fire-aars-faengsel-for-paasat-brand-i-randers?referrer=RSS",
-        "published_date": "2026-09-15 14:17:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish government mulls tourist tax in Copenhagen and Aarhus",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260915/danish-government-considering-tourist-tax-in-copenhagen-and-aarhus",
-        "published_date": "2026-09-15 13:50:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark's PM slams 'reckless action' of Russian frigate firing flares",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260915/denmarks-pm-slams-reckless-action-of-russian-frigate-firing-flares",
-        "published_date": "2026-09-15 11:37:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish PM 'optimistic' on Greenland talks with US",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260915/danish-pm-optimistic-on-greenland-talks-with-us",
-        "published_date": "2026-09-15 11:33:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "The violence case from Islands Brygge is expected to go to court next month",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/voldssag-fra-islands-brygge-ventes-komme-retten-naeste-maaned",
-        "published_date": "2026-09-15 08:59:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sweden does not expect to finish counting votes until Thursday",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sverige-forventer-foerst-vaere-faerdig-med-stemmeoptaelling-torsdag",
-        "published_date": "2026-09-15 08:39:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train traffic will resume after Monday's cancellations at Sor\u00f8",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/togtrafikken-genoptages-efter-mandagens-aflysninger-ved-soroe",
-        "published_date": "2026-09-15 08:27:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260915/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-64",
-        "published_date": "2026-09-15 08:23:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another Jutland city debuts as Royal Run host",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/endnu-en-jysk-debuterer-som-royal-run-vaert",
-        "published_date": "2026-09-15 08:11:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Netherlands hit by disruptions in train traffic: Suspected sabotage",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/holland-ramt-af-forstyrrelser-i-togtrafikken-mistanke-om-sabotage",
-        "published_date": "2026-09-15 07:51:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police investigating explosion: Object thrown through window",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterforsker-eksplosion-genstand-kastet-ind-ad-vinduet",
-        "published_date": "2026-09-15 06:53:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire at North Jutland junior high school: The teacher's residence has burned out",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brand-paa-nordjysk-ungdomsskole-laererbolig-er-braendt-ud",
-        "published_date": "2026-09-15 06:40:13",
         "category": "Local Events"
     }
 ]
