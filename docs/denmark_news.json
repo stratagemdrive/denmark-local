@@ -1,5 +1,19 @@
 [
     {
+        "title": "Trump threatens to end trade with Europe after Canada plan",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-truer-med-at-stoppe-handel-med-europa-efter-canada-plan?referrer=RSS",
+        "published_date": "2026-09-16 23:20:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Israel and Morocco will open embassies with each other",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/israel-og-marokko-vil-aabne-ambassader-hos-hinanden?referrer=RSS",
+        "published_date": "2026-09-16 21:29:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Did you move to Denmark last year? We want to hear from you",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260916/did-you-move-to-denmark-last-year-we-want-to-hear-from-you",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Europe eyes battle over 'pervert' AI glasses",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260912/europe-eyes-battle-over-pervert-ai-glasses",
-        "published_date": "2026-09-12 14:35:38",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Big tech to banking: Which companies spend the most on EU lobbying?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260911/big-tech-to-banking-which-companies-spend-the-most-on-eu-lobbying",
-        "published_date": "2026-09-11 13:02:18",
-        "category": "Diplomacy"
+        "title": "Netanyahu will introduce far-reaching laws after film critical of soldiers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/netanyahu-vil-fremsaette-vidtgaaende-love-efter-soldaterkritisk-film?referrer=RSS",
+        "published_date": "2026-09-17 00:19:45",
+        "category": "Military"
     },
     {
         "title": "The defense helicopter became the center of a major political war of words",
@@ -252,18 +259,11 @@
         "category": "Military"
     },
     {
-        "title": "The US military has bombed five Iranian oil tankers",
+        "title": "Congress in the United States adopts a comprehensive package of sanctions against Russia",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usas-militaer-har-bombet-fem-iranske-olietankere?referrer=RSS",
-        "published_date": "2026-09-08 23:50:48",
-        "category": "Military"
-    },
-    {
-        "title": "The ruling party pressures the Minister of Defense in the case of Arctic soldiers: The 'obsolete' principle must be reviewed",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/regeringsparti-presser-forsvarsminister-i-sag-om-arktiske-soldater-foraeldet-princip-skal-have-et",
-        "published_date": "2026-09-08 17:00:00",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/internationalt/kongressen-i-usa-vedtager-omfattende-sanktionspakke-mod-rusland?referrer=RSS",
+        "published_date": "2026-09-17 00:32:44",
+        "category": "Energy"
     },
     {
         "title": "Poland will tax oil companies and lower fuel prices",
@@ -285,6 +285,27 @@
         "url": "https://jv.dk/billund/lego-model-overgaar-sin-egen-vaerdi-bliver-solgt-for-mange-tusinde-kroner?rss",
         "published_date": "2026-09-11 04:54:00",
         "category": "Energy"
+    },
+    {
+        "title": "The US central bank raises interest rates for the first time in three years",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usas-centralbank-haever-renten-for-foerste-gang-i-tre-aar?referrer=RSS",
+        "published_date": "2026-09-16 21:35:52",
+        "category": "Economy"
+    },
+    {
+        "title": "Judges: More video court hearings will degrade trials",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/dommere-flere-videoretsmoeder-vil-forringe-retssager?referrer=RSS",
+        "published_date": "2026-09-16 21:18:46",
+        "category": "Economy"
+    },
+    {
+        "title": "The tax is lowered again in Gentofte",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skatten-saenkes-igen-i-gentofte",
+        "published_date": "2026-09-16 15:19:18",
+        "category": "Economy"
     },
     {
         "title": "Thousands of home owners face interest rates: One type of loan in particular is affected",
@@ -322,11 +343,46 @@
         "category": "Economy"
     },
     {
-        "title": "Threatened with closure, LIV Golf applies for bankruptcy protection",
+        "title": "Turkey releases arrestees after LGBT demonstration in Istanbul",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/lukningstruede-liv-golf-soeger-om-konkursbeskyttelse?referrer=RSS",
-        "published_date": "2026-09-08 23:50:45",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/tyrkiet-loeslader-anholdte-efter-lgbt-demonstration-i-istanbul?referrer=RSS",
+        "published_date": "2026-09-16 23:16:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 54-year-old man has died after hitting a person at Slagelse",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/54-aarig-mand-er-doed-efter-personpaakoersel-ved-slagelse?referrer=RSS",
+        "published_date": "2026-09-16 23:13:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Women are suing Epstein's estate to keep photos of them",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kvinder-sagsoeger-epsteins-doedsbo-for-at-opbevare-billeder-af-dem?referrer=RSS",
+        "published_date": "2026-09-16 22:45:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Great long shots and a Raphinha hat-trick ensure a great victory for Barcelona",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/flotte-langskud-og-raphinha-hattrick-sikrer-barcelona-storsejr?referrer=RSS",
+        "published_date": "2026-09-16 21:35:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "After fatal collision: Now the trains are running again",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/trafik/togtrafikken-indstillet-efter-personpaakoersel?rss",
+        "published_date": "2026-09-16 16:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of missing in Nepal after floods is around 6,000",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-savnede-i-nepal-efter-oversvoemmelser-runder-6-000",
+        "published_date": "2026-09-16 15:44:13",
+        "category": "Local Events"
     },
     {
         "title": "No trains from Ringsted towards Funen after hitting a person",
@@ -424,48 +480,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260916/new-analysis-shows-danish-firms-cutting-hires-due-to-ai",
         "published_date": "2026-09-16 13:20:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Novo enters into a collaboration with Anthropic",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/novo-indgaar-et-samarbejde-med-anthropic",
-        "published_date": "2026-09-16 12:33:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two men get four years in prison for gang rape in Aarhus",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maend-faar-fire-aars-faengsel-gruppevoldtaegt-i-aarhus",
-        "published_date": "2026-09-16 12:31:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Belarus releases prisoners in exchange for easing of US sanctions",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/belarus-frigiver-fanger-i-bytte-lempelse-af-amerikanske-sanktioner",
-        "published_date": "2026-09-16 11:22:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kosovo's former president sentenced to 25 years in prison for war crimes",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kosovos-tidligere-praesident-idoemt-25-aars-faengsel-krigsforbrydelser",
-        "published_date": "2026-09-16 10:33:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: Mayor signed that he wanted the municipal director fired",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/middelfart/medie-borgmester-skrev-under-paa-at-han-ville-have-kommunaldirektoer-fyret?rss",
-        "published_date": "2026-09-16 09:12:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hobby drone was to blame for police action: Was found near the Minister of Defence's address",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-undersoeger-mistaenkeligt-forhold-i-villaomraade-i-gladsaxe",
-        "published_date": "2026-09-16 09:12:06",
         "category": "Local Events"
     }
 ]
