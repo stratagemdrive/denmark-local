@@ -1,5 +1,26 @@
 [
     {
+        "title": "Iran is allowed to send top people to the UN General Assembly in the United States",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-faar-lov-at-sende-topfolk-til-fns-generalforsamling-i-usa?referrer=RSS",
+        "published_date": "2026-09-17 23:01:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Grabara provides an assist for Juventus on a difficult Danish night in Europe",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/grabara-leverer-assist-for-juventus-paa-tung-dansk-aften-i-europa?referrer=RSS",
+        "published_date": "2026-09-17 21:06:45",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Tomorrow, the EU will send DKK 24 billion to Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/i-morgen-sender-eu-24-milliarder-kroner-til-ukraine",
+        "published_date": "2026-09-17 19:07:20",
+        "category": "Diplomacy"
+    },
+    {
         "title": "EXPLAINED: What would change for kids and social media under new EU law?",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260917/explained-what-would-change-for-kids-and-social-media-under-new-eu-law",
@@ -119,25 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Defense Minister Bruus rejects Russia's claim about the provocative helicopter",
+        "title": "37 miners die in the custody of the authorities in Nigeria",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/forsvarsminister-bruus-afviser-ruslands-paastand-om-provokerende-helikopter?referrer=RSS",
-        "published_date": "2026-09-15 14:38:47",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/37-minearbejdere-doer-i-myndighedernes-varetaegt-i-nigeria?referrer=RSS",
+        "published_date": "2026-09-18 00:51:45",
+        "category": "Military"
     },
     {
-        "title": "NATO warplanes shoot down drone over Lithuanian airspace",
+        "title": "Trump announces progress in establishing military base in Poland",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nato-kampfly-nedskyder-drone-over-litauens-luftrum",
-        "published_date": "2026-09-14 22:13:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU disagreement over sanctions against Russia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-uenighed-om-sanktioner-mod-rusland",
-        "published_date": "2026-09-14 19:14:47",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/trump-melder-om-fremskridt-i-etablering-af-militaerbase-i-polen",
+        "published_date": "2026-09-17 17:41:12",
+        "category": "Military"
     },
     {
         "title": "The Minister of Defense will investigate a possible weapons factory on the Cheminova site",
@@ -259,13 +273,6 @@
         "category": "Military"
     },
     {
-        "title": "Emergency ramp activated on Trump's plane shortly before departure for party convention",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/noedrampe-udloest-paa-trumps-fly-kort-foer-afrejse-til-partikonvent?referrer=RSS",
-        "published_date": "2026-09-09 23:31:46",
-        "category": "Military"
-    },
-    {
         "title": "Congress in the United States adopts a comprehensive package of sanctions against Russia",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/kongressen-i-usa-vedtager-omfattende-sanktionspakke-mod-rusland?referrer=RSS",
@@ -350,6 +357,90 @@
         "category": "Economy"
     },
     {
+        "title": "Torture Convicted former head of Syrian prison gets 60 years in prison in the US",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/torturdoemt-eksleder-af-syrisk-faengsel-faar-60-aars-faengsel-i-usa?referrer=RSS",
+        "published_date": "2026-09-18 00:48:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russian NHL icon defends Putin video: I love my country",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/russisk-nhl-ikon-forsvarer-putin-video-jeg-elsker-mit-land?referrer=RSS",
+        "published_date": "2026-09-18 00:31:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Guerrillas in Colombia more than double drone strikes by 2026",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/guerillaer-i-colombia-mere-end-fordobler-droneangreb-i-2026?referrer=RSS",
+        "published_date": "2026-09-17 23:53:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump drops nominee to lead maligned immigration agency",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-dropper-kandidat-til-at-lede-udskaeldt-immigrationsmyndighed?referrer=RSS",
+        "published_date": "2026-09-17 23:49:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bus and light rail tickets in Aarhus cost DKK 15 from next year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bus-og-letbanebilletter-i-aarhus-koster-15-kroner-fra-naeste-aar",
+        "published_date": "2026-09-17 22:03:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bus and light rail tickets in Aarhus cost DKK 15 from next year",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/bus-og-letbanebilletter-i-aarhus-koster-15-kroner-fra-naeste-aar?referrer=RSS",
+        "published_date": "2026-09-17 21:31:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Smiths guitarist sells instruments for DKK 31.7 million",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/the-smiths-guitarist-saelger-instrumenter-for-317-millioner-kroner?referrer=RSS",
+        "published_date": "2026-09-17 20:37:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The minister wants a fivefold fine for cheating with the residence requirement",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/minister-vil-femdoble-boede-fusk-med-bopaelspligt",
+        "published_date": "2026-09-17 20:21:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danes eyes fine placement in lucrative golf tournament",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansker-oejner-fin-placering-i-lukrativ-golfturnering",
+        "published_date": "2026-09-17 19:08:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prince Harry in first public appearance since returning home",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/prins-harry-i-foerste-offentlige-optraeden-siden-hjemkomst",
+        "published_date": "2026-09-17 18:49:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "NBA champion regrets mistakes and sky-high ticket prices",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nba-mester-beklager-fejl-og-skyhoeje-billetpriser",
+        "published_date": "2026-09-17 17:22:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kasper Holten is stepping down as theater manager at Det Kongelige Teater",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kasper-holten-stopper-som-teaterchef-paa-det-kongelige-teater",
+        "published_date": "2026-09-17 16:48:40",
+        "category": "Local Events"
+    },
+    {
         "title": "Germany arrests Iraqi suspected of planning attack on church",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/tyskland-anholder-iraker-mistaenkt-for-at-planlaegge-angreb-mod-kirke?referrer=RSS",
@@ -403,90 +494,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/hun-fik-sit-sexliv-udstillet-online-og-alle-grinte-af-hende-saa-slog-hun-igen?referrer=RSS",
         "published_date": "2026-09-17 14:18:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six largest municipalities in a letter to the minister: Stopping child certificates is critical",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/seks-stoerste-kommuner-i-brev-til-minister-boerneatteststop-er-kritisk?referrer=RSS",
-        "published_date": "2026-09-17 14:07:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish word of the day: at genere",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260917/danish-word-of-the-day-at-genere",
-        "published_date": "2026-09-17 13:54:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ulf Kristersson has signed his resignation letter",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ulf-kristersson-har-underskrevet-sin-afskedsbegaering",
-        "published_date": "2026-09-17 12:17:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish Moderates plan to abolish school communication platform Aula",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260917/danish-moderates-plan-to-abolish-school-communication-platform-aula",
-        "published_date": "2026-09-17 11:08:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark updates salary levels for work permits from October 1st",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260917/denmark-updates-salary-levels-for-work-permits-from-october-1st",
-        "published_date": "2026-09-17 10:23:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Frandsen to the keys: Flatly denies serious accusation",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/toender/frandsen-til-tasterne-afviser-blankt-alvorlig-beskyldning?rss",
-        "published_date": "2026-09-17 10:08:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Great Belt Bridge will be closed briefly tonight and tomorrow",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/storebaeltsbroen-lukkes-kortvarigt-i-aften-og-i-morgen",
-        "published_date": "2026-09-17 08:57:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Thursday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260917/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-57",
-        "published_date": "2026-09-17 08:52:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marius Borg H\u00f8iby's appeal will go to court in February",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeibys-ankesag-skal-retten-til-februar",
-        "published_date": "2026-09-17 08:10:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danes are encouraged to investigate spiders",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danskere-opfordres-til-undersoege-edderkopper",
-        "published_date": "2026-09-17 06:55:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bavarian Nordic appoints a new CEO",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bavarian-nordic-udnaevner-ny-topchef",
-        "published_date": "2026-09-17 06:26:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unemployment rises for the fifth month in a row",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ledigheden-stiger-femte-maaned-i-traek",
-        "published_date": "2026-09-17 06:15:17",
         "category": "Local Events"
     }
 ]
