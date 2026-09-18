@@ -1,5 +1,12 @@
 [
     {
+        "title": "The technology is questionable and the criticism is harsh.Danish climate project sets out new \"course\" for Europe",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/teknologien-er-tvivlsom-og-kritikken-er-haard-dansk-klimaprojekt-udstikker-nykurs-for-europa?referrer=RSS",
+        "published_date": "2026-09-18 13:58:14",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Iran is allowed to send top people to the UN General Assembly in the United States",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/iran-faar-lov-at-sende-topfolk-til-fns-generalforsamling-i-usa?referrer=RSS",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Seven FCK fans convicted of aggravated assault on Br\u00f8ndby's fan coordinator",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/syv-fck-fans-doemt-for-groft-overfald-paa-broendbys-fankoordinator?referrer=RSS",
-        "published_date": "2026-09-15 15:05:47",
-        "category": "Diplomacy"
-    },
-    {
         "title": "37 miners die in the custody of the authorities in Nigeria",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/37-minearbejdere-doer-i-myndighedernes-varetaegt-i-nigeria?referrer=RSS",
@@ -259,20 +259,6 @@
         "category": "Military"
     },
     {
-        "title": "Latest news about the war in Ukraine - follow the developments here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-krigen-i-ukraine--foelg-udviklingen-her-88?referrer=RSS",
-        "published_date": "2026-09-10 14:00:38",
-        "category": "Military"
-    },
-    {
-        "title": "Five are reported killed in northeastern Ukraine",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fem-meldes-draebt-i-det-nordoestlige-ukraine",
-        "published_date": "2026-09-10 05:07:54",
-        "category": "Military"
-    },
-    {
         "title": "Congress in the United States adopts a comprehensive package of sanctions against Russia",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/kongressen-i-usa-vedtager-omfattende-sanktionspakke-mod-rusland?referrer=RSS",
@@ -299,6 +285,13 @@
         "url": "https://jv.dk/billund/lego-model-overgaar-sin-egen-vaerdi-bliver-solgt-for-mange-tusinde-kroner?rss",
         "published_date": "2026-09-11 04:54:00",
         "category": "Energy"
+    },
+    {
+        "title": "Should we fear killer robots?Renowned tech analyst sees other motives behind dire warnings",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/aktier/skal-vi-frygte-draeberrobotter-anerkendt-techanalytiker-ser-andre-motiver-bag-voldsomme-advarsler?referrer=RSS",
+        "published_date": "2026-09-18 13:42:54",
+        "category": "Economy"
     },
     {
         "title": "The US central bank raises interest rates for the first time in three years",
@@ -350,150 +343,143 @@
         "category": "Economy"
     },
     {
-        "title": "Inflation rose to two percent in August",
+        "title": "Watch disgusting video: Police-reported dairy farmer pollutes watercourses",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/erhverv/se-ulaekker-video-politianmeldt-maelkebonde-forurener-vandloeb?rss",
+        "published_date": "2026-09-18 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "King Harald's sarcophagus is shaped like a vessel",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kong-haralds-sarkofag-er-udformet-som-et-fartoej?referrer=RSS",
+        "published_date": "2026-09-18 14:32:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police resume issuing child certificates",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-genoptager-udstedelse-af-boerneattester?referrer=RSS",
+        "published_date": "2026-09-18 14:25:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The \"Oracle of Omaha\" steps down.This is how the legend Warren Buffett created his fortune of DKK 940 billion",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/oraklet-fra-omaha-traeder-tilbage-saadan-skabte-legenden-warren-buffett-sin-formue-paa-940-milliarder-kroner?referrer=RSS",
+        "published_date": "2026-09-18 14:23:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "He calls it \"the most controversial interview I've ever done\" - and for the Democrats it's extremely bad news",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/han-kalder-det-det-mest-kontroversielle-interview-jeg-nogensinde-har-lavet--og-for-demokraterne-er-det-saerdeles-skidt-nyt?referrer=RSS",
+        "published_date": "2026-09-18 14:16:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ronaldo will continue in the national team and will face Denmark",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/ronaldo-fortsaetter-paa-landsholdet-og-skal-moede-danmark?referrer=RSS",
+        "published_date": "2026-09-18 14:14:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Magdalena Andersson appointed as royal examiner in Sweden",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/inflationen-steg-til-procent-i-august",
-        "published_date": "2026-09-10 07:14:53",
-        "category": "Economy"
-    },
-    {
-        "title": "Torture Convicted former head of Syrian prison gets 60 years in prison in the US",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/torturdoemt-eksleder-af-syrisk-faengsel-faar-60-aars-faengsel-i-usa?referrer=RSS",
-        "published_date": "2026-09-18 00:48:48",
+        "url": "https://www.dr.dk/nyheder/seneste/magdalena-andersson-udpeget-som-kongelig-undersoeger-i-sverige",
+        "published_date": "2026-09-18 14:07:49",
         "category": "Local Events"
     },
     {
-        "title": "Russian NHL icon defends Putin video: I love my country",
+        "title": "Here is the story of how Elvis' and Priscilla's wedding album suddenly appeared in Lyngby",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/russisk-nhl-ikon-forsvarer-putin-video-jeg-elsker-mit-land?referrer=RSS",
-        "published_date": "2026-09-18 00:31:48",
+        "url": "https://www.berlingske.dk/eksistens/her-er-historien-om-hvordan-elvis-og-priscillas-bryllupsalbum-pludselig-dukkede-op-i-lyngby?referrer=RSS",
+        "published_date": "2026-09-18 14:07:39",
         "category": "Local Events"
     },
     {
-        "title": "Guerrillas in Colombia more than double drone strikes by 2026",
+        "title": "Ditte Okman stops at Radio IIII: \"Unfortunately, I got sick from going to work\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/guerillaer-i-colombia-mere-end-fordobler-droneangreb-i-2026?referrer=RSS",
-        "published_date": "2026-09-17 23:53:46",
+        "url": "https://www.berlingske.dk/kultur/ditte-okman-stopper-paa-radio-iiiijeg-er-desvaerre-blevet-syg-af-at-gaa-paa-arbejde?referrer=RSS",
+        "published_date": "2026-09-18 14:07:00",
         "category": "Local Events"
     },
     {
-        "title": "Trump drops nominee to lead maligned immigration agency",
+        "title": "This summer's blockbusters have made the Danes love the ancient times.But the associate professor fears that the subject of ancient history may be attacked as Troy",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-dropper-kandidat-til-at-lede-udskaeldt-immigrationsmyndighed?referrer=RSS",
-        "published_date": "2026-09-17 23:49:51",
+        "url": "https://www.berlingske.dk/synspunkter/sommerens-storfilm-har-faaet-danskerne-til-at-elske-oldtiden-men-lektor-frygter-at-faget-oldtidskundskab-kan-blive-angrebet-som-troja?referrer=RSS",
+        "published_date": "2026-09-18 13:50:31",
         "category": "Local Events"
     },
     {
-        "title": "Bus and light rail tickets in Aarhus cost DKK 15 from next year",
+        "title": "Camilla Erbs and a colleague were killed in a motorcycle accident: the police investigation is now complete",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/vejen/politiet-afslutter-undersoegelse-af-doedsulykke-motorcykel-kom-i-svingninger?rss",
+        "published_date": "2026-09-18 13:17:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several banks have technical problems",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bus-og-letbanebilletter-i-aarhus-koster-15-kroner-fra-naeste-aar",
-        "published_date": "2026-09-17 22:03:31",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-banker-har-tekniske-problemer",
+        "published_date": "2026-09-18 13:12:54",
         "category": "Local Events"
     },
     {
-        "title": "Bus and light rail tickets in Aarhus cost DKK 15 from next year",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/bus-og-letbanebilletter-i-aarhus-koster-15-kroner-fra-naeste-aar?referrer=RSS",
-        "published_date": "2026-09-17 21:31:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Smiths guitarist sells instruments for DKK 31.7 million",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/the-smiths-guitarist-saelger-instrumenter-for-317-millioner-kroner?referrer=RSS",
-        "published_date": "2026-09-17 20:37:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The minister wants a fivefold fine for cheating with the residence requirement",
+        "title": "There is no indication that the fire that destroyed the building was arson",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/minister-vil-femdoble-boede-fusk-med-bopaelspligt",
-        "published_date": "2026-09-17 20:21:09",
+        "url": "https://www.dr.dk/nyheder/indland/intet-tyder-paa-brand-der-raserede-brugs-var-paasat",
+        "published_date": "2026-09-18 12:52:35",
         "category": "Local Events"
     },
     {
-        "title": "Danes eyes fine placement in lucrative golf tournament",
+        "title": "Danish prison places in Kosovo are once again delayed",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansker-oejner-fin-placering-i-lukrativ-golfturnering",
-        "published_date": "2026-09-17 19:08:37",
+        "url": "https://www.dr.dk/nyheder/seneste/danske-faengselspladser-i-kosovo-er-endnu-en-gang-forsinket",
+        "published_date": "2026-09-18 12:50:27",
         "category": "Local Events"
     },
     {
-        "title": "Prince Harry in first public appearance since returning home",
+        "title": "Zara Larsson criticizes the White House for using her song",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/prins-harry-i-foerste-offentlige-optraeden-siden-hjemkomst",
-        "published_date": "2026-09-17 18:49:10",
+        "url": "https://www.dr.dk/nyheder/seneste/zara-larsson-kritiserer-det-hvide-hus-bruge-hendes-sang",
+        "published_date": "2026-09-18 12:31:43",
         "category": "Local Events"
     },
     {
-        "title": "NBA champion regrets mistakes and sky-high ticket prices",
+        "title": "Danish minister calls for residence fraud fine to be hiked to 100,000 kroner",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260918/danish-minister-calls-for-residence-fraud-fine-to-be-hiked-to-100000-kroner",
+        "published_date": "2026-09-18 11:17:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Friday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260918/today-in-denmark-a-roundup-of-the-latest-news-on-friday-62",
+        "published_date": "2026-09-18 08:32:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four new cities are set to host the Royal Run",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nba-mester-beklager-fejl-og-skyhoeje-billetpriser",
-        "published_date": "2026-09-17 17:22:42",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-nye-byer-skal-vaere-vaerter-royal-run",
+        "published_date": "2026-09-18 07:36:05",
         "category": "Local Events"
     },
     {
-        "title": "Kasper Holten is stepping down as theater manager at Det Kongelige Teater",
+        "title": "No more Pisa tests every three years",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kasper-holten-stopper-som-teaterchef-paa-det-kongelige-teater",
-        "published_date": "2026-09-17 16:48:40",
+        "url": "https://www.dr.dk/nyheder/seneste/slut-med-pisa-test-hvert-tredje-aar",
+        "published_date": "2026-09-18 07:20:35",
         "category": "Local Events"
     },
     {
-        "title": "Germany arrests Iraqi suspected of planning attack on church",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tyskland-anholder-iraker-mistaenkt-for-at-planlaegge-angreb-mod-kirke?referrer=RSS",
-        "published_date": "2026-09-17 15:20:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Slagelse Municipality finds 120 million and enters into a budget settlement",
+        "title": "The police lift the cordon on Dag Hammarskj\u00f6lds All\u00e9 in Copenhagen",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/slagelse-kommune-finder-120-millioner-og-indgaar-budgetforlig",
-        "published_date": "2026-09-17 15:19:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "The billionaire is Trump's close friend.With one call to Ed Sheeran, he started the avalanche",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kultur/milliardaeren-er-trumps-naere-ven-med-et-opkald-til-ed-sheeran-startede-han-lavinen?referrer=RSS",
-        "published_date": "2026-09-17 15:14:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "German police arrest Iraqi suspected of planning attack on church",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tysk-politi-anholder-iraker-mistaenkt-planlaegning-af-angreb-paa-kirke",
-        "published_date": "2026-09-17 15:01:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "SF and M have lost the battle for freedom.Then you can close the Aula",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/sf-og-m-har-tabt-kampen-om-friheden-saa-kan-man-jo-lukke-aula?referrer=RSS",
-        "published_date": "2026-09-17 14:59:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crisis exercise uncovers problems with an overview and assistance during a major crisis",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/kriseoevelse-afdaekker-problemer-med-overblik-og-bistand-under-stor-krise?referrer=RSS",
-        "published_date": "2026-09-17 14:42:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "She is a student at CBS - and she sees a character trait in her peers: We are too bad to fail",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/hun-er-studerende-paa-cbs--og-hun-ser-et-karaktertraek-hos-sine-jaevnaldrende-vi-er-for-daarlige-til-at-fejle?referrer=RSS",
-        "published_date": "2026-09-17 14:30:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "She had her sex life on display online and everyone laughed at her.Then she struck again",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hun-fik-sit-sexliv-udstillet-online-og-alle-grinte-af-hende-saa-slog-hun-igen?referrer=RSS",
-        "published_date": "2026-09-17 14:18:21",
+        "url": "https://www.dr.dk/nyheder/seneste/dag-hammarskjolds-alle-i-koebenhavn-er-spaerret-af-politiet-undersoeger-mistaenkeligt-forhold",
+        "published_date": "2026-09-18 07:17:27",
         "category": "Local Events"
     }
 ]
