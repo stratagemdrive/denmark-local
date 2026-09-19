@@ -1,5 +1,40 @@
 [
     {
+        "title": "Experts say Denmark wins with Trump-Greenland deal",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260919/denmark-emerges-smiling-from-trump-greenland-deal-experts-say",
+        "published_date": "2026-09-19 14:30:04",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Defense chief: Cooperation with the US under NATO auspices continues unabated",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/forsvarschef-samarbejde-med-usa-i-nato-regi-fortsaetter-ufortroedent?referrer=RSS",
+        "published_date": "2026-09-19 13:40:45",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Five stars: You've probably never heard of this artist.You have something to look forward to",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kunst/fem-stjerner-du-har-sikkert-aldrig-hoert-om-denne-kunstner-du-har-noget-at-glaede-dig-til?referrer=RSS",
+        "published_date": "2026-09-19 13:30:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU proposes new rules on recognition of qualifications for non-EU citizens",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260919/eu-proposes-new-rules-for-recognition-of-qualifications-from-non-eu-citizens",
+        "published_date": "2026-09-19 11:05:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "OPINION: Do Canadians really want closer ties with Europe?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260919/opinion-do-canadians-really-want-closer-ties-with-europe",
+        "published_date": "2026-09-19 10:54:19",
+        "category": "Diplomacy"
+    },
+    {
         "title": "OpenAI's chief executive will speak to the UN Security Council next week",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/openais-topchef-taler-i-naeste-uge-til-fns-sikkerhedsraad?referrer=RSS",
@@ -102,41 +137,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260916/did-you-move-to-denmark-last-year-we-want-to-hear-from-you",
         "published_date": "2026-09-16 15:02:21",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Digitalization minister welcomes EU ban on social media",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/digitaliseringsminister-hilser-eu-forbud-mod-sociale-medier-velkommen?referrer=RSS",
-        "published_date": "2026-09-16 14:47:48",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Could Canada become the first 'associate member' of the EU?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260916/could-canada-become-the-first-associate-member-of-the-eu",
-        "published_date": "2026-09-16 14:42:50",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Berlingske believes: This is how we give Trump a proper slap",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/berlingske-mener-saadan-giver-vi-trump-en-ordentlig-lussing?referrer=RSS",
-        "published_date": "2026-09-16 14:40:17",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Which nationalities got the most first-time Danish residence permits in 2025?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260916/which-nationalities-got-the-most-first-time-danish-residence-permits-in-2025",
-        "published_date": "2026-09-16 12:15:15",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "'Europe has power to act': EU to ban social media for under 13s",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260916/europe-has-power-to-act-eu-to-ban-social-media-for-under-13s",
-        "published_date": "2026-09-16 11:27:10",
         "category": "Diplomacy"
     },
     {
@@ -266,11 +266,11 @@
         "category": "Energy"
     },
     {
-        "title": "Legoland has put a unique model up for sale: Bids are pouring in",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/lego-model-overgaar-sin-egen-vaerdi-bliver-solgt-for-mange-tusinde-kroner?rss",
-        "published_date": "2026-09-11 04:54:00",
-        "category": "Energy"
+        "title": "Optimism and pessimism collide in Trump's economy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/oekonomi/optimisme-og-pessimisme-toerner-sammen-i-trumps-oekonomi?referrer=RSS",
+        "published_date": "2026-09-19 14:00:13",
+        "category": "Economy"
     },
     {
         "title": "Should we fear killer robots?Renowned tech analyst sees other motives behind dire warnings",
@@ -308,11 +308,109 @@
         "category": "Economy"
     },
     {
-        "title": "Five municipalities will be allowed to raise the tax next year",
+        "title": "Conservatives still point to Troels Lund Poulsen despite the Liberals' decline",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/konservative-peger-stadig-paa-troels-lund-poulsen-trods-venstres-nedtur?referrer=RSS",
+        "published_date": "2026-09-19 13:58:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aston Villa exacerbates Tottenham's crisis",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/aston-villa-forvaerrer-tottenhams-krise?referrer=RSS",
+        "published_date": "2026-09-19 13:40:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eyewitnesses report black smoke at Saudi airport",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/oejenvidner-melder-om-sort-roeg-ved-saudisk-lufthavn?referrer=RSS",
+        "published_date": "2026-09-19 13:11:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish doubles lose to Bulgarians after great drama",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dansk-double-taber-til-bulgarere-efter-stort-drama?referrer=RSS",
+        "published_date": "2026-09-19 12:40:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Annexed Ukrainian regions vote in Russian elections",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/annekterede-ukrainske-regioner-stemmer-til-russisk-valg?referrer=RSS",
+        "published_date": "2026-09-19 12:37:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shot fired at the front door in the Aarhus area",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fem-kommuner-faar-lov-til-haeve-skatten-naeste-aar",
-        "published_date": "2026-09-11 13:07:51",
-        "category": "Economy"
+        "url": "https://www.dr.dk/nyheder/seneste/skud-affyret-mod-hoveddoer-i-aarhus-omraadet",
+        "published_date": "2026-09-19 10:13:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Warning of strong winds on several bridges",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/advarsel-om-kraftig-blaest-paa-flere-broer-2",
+        "published_date": "2026-09-19 10:13:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inside Denmark: What was it that made you move to Denmark?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260919/inside-denmark-what-was-it-that-made-you-move-to-denmark",
+        "published_date": "2026-09-19 10:11:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the Agenda: What's happening in Denmark next week?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260919/on-the-agenda-whats-happening-in-denmark-this-week-9",
+        "published_date": "2026-09-19 09:40:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark hails 'binding' Greenland deal with Trump",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260919/trump-says-denmark-to-give-us-permanent-control-over-greenland-security",
+        "published_date": "2026-09-19 08:53:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Linet does not want to die in her own home: - My children must be able to live on here",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/soenderborg/linet-vil-ikke-doe-i-eget-hjem-mine-boern-skal-kunne-leve-videre-her?rss",
+        "published_date": "2026-09-19 08:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drones shut down Luxembourg's only airport",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/droner-lukkede-luxembourgs-eneste-lufthavn",
+        "published_date": "2026-09-19 05:54:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump meets with Venezuela's acting president",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-moedes-med-venezuelas-fungerende-praesident",
+        "published_date": "2026-09-19 05:53:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Data giant buys 21 properties - but Ulla and J\u00f8ren remain: - We cry",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/varde/datagigant-opkoeber-21-ejendomme-men-ulla-og-joeren-staar-tilbage-vi-graeder?rss",
+        "published_date": "2026-09-19 05:48:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US imposes extensive sanctions against Russia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-indfoerer-omfattende-sanktioner-mod-rusland-2",
+        "published_date": "2026-09-19 01:28:23",
+        "category": "Local Events"
     },
     {
         "title": "Shhh.Do not mention to Trump that it is the Kingdom of Denmark that has won",
@@ -347,111 +445,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/groenland-aftale-med-usa-og-danmark-er-inden-for-raekkevidde?referrer=RSS",
         "published_date": "2026-09-18 22:07:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Damsgaard shows good form in Brentford victory ahead of international matches",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/damsgaard-viser-god-form-i-brentford-sejr-forud-for-landskampe?referrer=RSS",
-        "published_date": "2026-09-18 20:58:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "27-year-old charged with gross data fraud with fake text messages",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/27-aarig-sigtet-groft-databedrageri-med-falske-sms-er",
-        "published_date": "2026-09-18 18:41:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man tied the dog Carlo to a lamppost and drove away, but Jesper saw the whole thing: - It hurts me deeply",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/mand-bandt-hunden-carlo-til-lygtepael-og-skred-men-jesper-saa-det-hele-det-stikker-dybt-i-mig?rss",
-        "published_date": "2026-09-18 15:59:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Watch disgusting video: Police-reported dairy farmer pollutes watercourses",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/se-ulaekker-video-politianmeldt-maelkebonde-forurener-vandloeb?rss",
-        "published_date": "2026-09-18 15:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "King Harald's sarcophagus is shaped like a vessel",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kong-haralds-sarkofag-er-udformet-som-et-fartoej?referrer=RSS",
-        "published_date": "2026-09-18 14:32:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police resume issuing child certificates",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-genoptager-udstedelse-af-boerneattester?referrer=RSS",
-        "published_date": "2026-09-18 14:25:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The \"Oracle of Omaha\" steps down.This is how the legend Warren Buffett created his fortune of DKK 940 billion",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/oraklet-fra-omaha-traeder-tilbage-saadan-skabte-legenden-warren-buffett-sin-formue-paa-940-milliarder-kroner?referrer=RSS",
-        "published_date": "2026-09-18 14:23:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "He calls it \"the most controversial interview I've ever done\" - and for the Democrats it's extremely bad news",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/han-kalder-det-det-mest-kontroversielle-interview-jeg-nogensinde-har-lavet--og-for-demokraterne-er-det-saerdeles-skidt-nyt?referrer=RSS",
-        "published_date": "2026-09-18 14:16:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ronaldo will continue in the national team and will face Denmark",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ronaldo-fortsaetter-paa-landsholdet-og-skal-moede-danmark?referrer=RSS",
-        "published_date": "2026-09-18 14:14:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Magdalena Andersson appointed as royal examiner in Sweden",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/magdalena-andersson-udpeget-som-kongelig-undersoeger-i-sverige",
-        "published_date": "2026-09-18 14:07:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Here is the story of how Elvis' and Priscilla's wedding album suddenly appeared in Lyngby",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/eksistens/her-er-historien-om-hvordan-elvis-og-priscillas-bryllupsalbum-pludselig-dukkede-op-i-lyngby?referrer=RSS",
-        "published_date": "2026-09-18 14:07:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ditte Okman stops at Radio IIII: \"Unfortunately, I got sick from going to work\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kultur/ditte-okman-stopper-paa-radio-iiiijeg-er-desvaerre-blevet-syg-af-at-gaa-paa-arbejde?referrer=RSS",
-        "published_date": "2026-09-18 14:07:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This summer's blockbusters have made the Danes love the ancient times.But the associate professor fears that the subject of ancient history may be attacked as Troy",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/sommerens-storfilm-har-faaet-danskerne-til-at-elske-oldtiden-men-lektor-frygter-at-faget-oldtidskundskab-kan-blive-angrebet-som-troja?referrer=RSS",
-        "published_date": "2026-09-18 13:50:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camilla Erbs and a colleague were killed in a motorcycle accident: the police investigation is now complete",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/vejen/politiet-afslutter-undersoegelse-af-doedsulykke-motorcykel-kom-i-svingninger?rss",
-        "published_date": "2026-09-18 13:17:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several banks have technical problems",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-banker-har-tekniske-problemer",
-        "published_date": "2026-09-18 13:12:54",
         "category": "Local Events"
     }
 ]
