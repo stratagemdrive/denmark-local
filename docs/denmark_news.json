@@ -1,5 +1,19 @@
 [
     {
+        "title": "Chile's ex-president withdraws from election campaign for top UN post",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/chiles-ekspraesident-traekker-sig-fra-valgkamp-om-fn-toppost?referrer=RSS",
+        "published_date": "2026-09-19 23:15:45",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "German general elected as new head of NATO's military committee",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tysk-general-valgt-som-ny-leder-af-natos-militaerkomite",
+        "published_date": "2026-09-19 15:56:58",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Experts say Denmark wins with Trump-Greenland deal",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260919/denmark-emerges-smiling-from-trump-greenland-deal-experts-say",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Israel and Morocco will open embassies with each other",
+        "title": "48 soldiers and militants are reported killed during new fighting in Yemen",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/israel-og-marokko-vil-aabne-ambassader-hos-hinanden?referrer=RSS",
-        "published_date": "2026-09-16 21:29:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Did you move to Denmark last year? We want to hear from you",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260916/did-you-move-to-denmark-last-year-we-want-to-hear-from-you",
-        "published_date": "2026-09-16 15:02:21",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/48-soldater-og-militante-meldes-draebt-under-nye-kampe-i-yemen?referrer=RSS",
+        "published_date": "2026-09-19 20:19:46",
+        "category": "Military"
     },
     {
         "title": "37 miners die in the custody of the authorities in Nigeria",
@@ -259,13 +266,6 @@
         "category": "Energy"
     },
     {
-        "title": "FCK coach: We played with the handbrake on",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fck-traener-vi-spillede-med-haandbremsen-trukket?referrer=RSS",
-        "published_date": "2026-09-11 21:33:47",
-        "category": "Energy"
-    },
-    {
         "title": "Optimism and pessimism collide in Trump's economy",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/oekonomi/optimisme-og-pessimisme-toerner-sammen-i-trumps-oekonomi?referrer=RSS",
@@ -301,11 +301,95 @@
         "category": "Economy"
     },
     {
-        "title": "Thousands of home owners face interest rates: One type of loan in particular is affected",
+        "title": "Macron on Greenland agreement: Exactly what we asked for",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/tusindvis-af-boligejere-staar-til-rentesmaek-saerligt-en-laanetype-rammes?referrer=RSS",
-        "published_date": "2026-09-11 14:29:49",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/macron-om-groenland-aftale-netop-det-vi-bad-om?referrer=RSS",
+        "published_date": "2026-09-19 23:50:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities in Gaza report four killed in Israeli attacks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/myndigheder-i-gaza-melder-fire-draebt-i-israelske-angreb?referrer=RSS",
+        "published_date": "2026-09-19 23:09:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andreas Christensen leaves with injury in Barcelona's win",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/andreas-christensen-udgaar-med-skade-i-barcelona-sejr?referrer=RSS",
+        "published_date": "2026-09-19 21:57:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ditte Okman's boss speaks publicly about the reason for her sick leave",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kultur/ditte-okmans-chef-fortaeller-offentligt-om-grunden-til-hendes-sygemelding?referrer=RSS",
+        "published_date": "2026-09-19 21:20:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lauded arrangement was carried in from the street and into Christiansborg.But now it is drowning in bureaucracy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/samfund/lovprist-ordning-blev-baaret-ind-fra-gaden-og-ind-paa-christiansborg-men-nu-drukner-den-i-bureaukrati?referrer=RSS",
+        "published_date": "2026-09-19 20:49:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish duo burst into Toulouse victory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/danskerduo-sprudler-i-toulouse-sejr?referrer=RSS",
+        "published_date": "2026-09-19 20:43:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Most young people want to use the culture pass to go to the cinema - what's the problem with that?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/de-fleste-unge-vil-bruge-kulturpasset-paa-at-gaa-i-biografen--hvad-er-problemet-med-det?referrer=RSS",
+        "published_date": "2026-09-19 20:04:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Demonstration in the Netherlands developed violently",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/demonstration-i-holland-udviklede-sig-voldsomt",
+        "published_date": "2026-09-19 20:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Specialist doctor sees how more people become addicted to social media - now he calls for a solution like in the casino",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/speciallaege-ser-hvordan-flere-bliver-afhaengige-af-sociale-medier--nu-opfordrer-han-til-en-loesning-som-paa-kasinoet?referrer=RSS",
+        "published_date": "2026-09-19 19:35:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump wants to appoint an AI czar",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-vil-udpege-en-ai-zar",
+        "published_date": "2026-09-19 17:37:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sussie was a few minutes away when her daughter was hit: - Everything was chaos",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/sussie-var-faa-minutter-vaek-da-hendes-datter-blev-paakoert-alt-var-kaos?rss",
+        "published_date": "2026-09-19 17:23:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mother criticized report after collision: Funen Police now apologizes",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/mor-rystet-over-melding-fra-politiet-efter-paakoersel-min-datter-har-braekket-flere-ribben?rss",
+        "published_date": "2026-09-19 15:00:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drone closure of Luxembourg airport under investigation",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dronelukning-af-lufthavnen-i-luxembourg-efterforskes",
+        "published_date": "2026-09-19 14:51:35",
+        "category": "Local Events"
     },
     {
         "title": "Conservatives still point to Troels Lund Poulsen despite the Liberals' decline",
@@ -354,97 +438,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/advarsel-om-kraftig-blaest-paa-flere-broer-2",
         "published_date": "2026-09-19 10:13:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside Denmark: What was it that made you move to Denmark?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260919/inside-denmark-what-was-it-that-made-you-move-to-denmark",
-        "published_date": "2026-09-19 10:11:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What's happening in Denmark next week?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260919/on-the-agenda-whats-happening-in-denmark-this-week-9",
-        "published_date": "2026-09-19 09:40:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark hails 'binding' Greenland deal with Trump",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260919/trump-says-denmark-to-give-us-permanent-control-over-greenland-security",
-        "published_date": "2026-09-19 08:53:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Linet does not want to die in her own home: - My children must be able to live on here",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/linet-vil-ikke-doe-i-eget-hjem-mine-boern-skal-kunne-leve-videre-her?rss",
-        "published_date": "2026-09-19 08:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drones shut down Luxembourg's only airport",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/droner-lukkede-luxembourgs-eneste-lufthavn",
-        "published_date": "2026-09-19 05:54:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump meets with Venezuela's acting president",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-moedes-med-venezuelas-fungerende-praesident",
-        "published_date": "2026-09-19 05:53:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Data giant buys 21 properties - but Ulla and J\u00f8ren remain: - We cry",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/varde/datagigant-opkoeber-21-ejendomme-men-ulla-og-joeren-staar-tilbage-vi-graeder?rss",
-        "published_date": "2026-09-19 05:48:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US imposes extensive sanctions against Russia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-indfoerer-omfattende-sanktioner-mod-rusland-2",
-        "published_date": "2026-09-19 01:28:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shhh.Do not mention to Trump that it is the Kingdom of Denmark that has won",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/usa/schhh-naevn-ikke-for-trump-at-det-er-kongeriget-danmark-der-har-sejret?referrer=RSS",
-        "published_date": "2026-09-18 23:39:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump: The USA, Denmark and Greenland have entered into an agreement on Greenland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-usa-danmark-og-groenland-har-indgaaet-aftale-om-groenland?referrer=RSS",
-        "published_date": "2026-09-18 23:28:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark: Agreement with Greenland and the USA is expected to be signed next week",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/danmark-aftale-med-groenland-og-usa-ventes-underskrevet-naeste-uge?referrer=RSS",
-        "published_date": "2026-09-18 22:36:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump bans several American news outlets from the White House",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-udelukker-flere-amerikanske-nyhedsmedier-fra-det-hvide-hus?referrer=RSS",
-        "published_date": "2026-09-18 22:32:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Greenland: Agreement with the USA and Denmark is within reach",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/groenland-aftale-med-usa-og-danmark-er-inden-for-raekkevidde?referrer=RSS",
-        "published_date": "2026-09-18 22:07:49",
         "category": "Local Events"
     }
 ]
