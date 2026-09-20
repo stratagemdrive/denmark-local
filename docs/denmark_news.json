@@ -1,5 +1,19 @@
 [
     {
+        "title": "War in Europe - follow the developments here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-udviklingen-her-5?referrer=RSS",
+        "published_date": "2026-09-20 14:16:53",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Analyst calls Trump's premise for an agreement on Greenland false: \"There is no military threat from China and Russia\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/analytiker-kalder-trumps-praemis-for-aftale-om-groenland-falsk-der-er-ingen-militaer-trussel-fra-kina-og-rusland?referrer=RSS",
+        "published_date": "2026-09-20 14:05:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Chile's ex-president withdraws from election campaign for top UN post",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/chiles-ekspraesident-traekker-sig-fra-valgkamp-om-fn-toppost?referrer=RSS",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Copenhagen's public transport among Europe's most expensive",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260917/copenhagens-public-transport-among-europes-most-expensive",
-        "published_date": "2026-09-17 13:39:42",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Trump threatens to end trade with Europe after Canada plan",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-truer-med-at-stoppe-handel-med-europa-efter-canada-plan?referrer=RSS",
-        "published_date": "2026-09-16 23:20:47",
-        "category": "Diplomacy"
+        "title": "Trump claims Arc de Triomphe to be 'state-of-the-art military complex'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-haevder-triumfbue-skal-vaere-topmoderne-militaerkompleks",
+        "published_date": "2026-09-20 13:31:54",
+        "category": "Military"
     },
     {
         "title": "48 soldiers and militants are reported killed during new fighting in Yemen",
@@ -231,11 +238,11 @@
         "category": "Military"
     },
     {
-        "title": "South Korea: North Korea has launched a series of ballistic missiles",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/sydkorea-nordkorea-har-affyret-en-raekke-ballistiske-missiler?referrer=RSS",
-        "published_date": "2026-09-12 00:43:45",
-        "category": "Military"
+        "title": "Low electricity prices continue",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lav-elpris-fortsaetter",
+        "published_date": "2026-09-20 10:31:41",
+        "category": "Energy"
     },
     {
         "title": "The US imposes extensive sanctions against Russia",
@@ -264,6 +271,13 @@
         "url": "https://www.dr.dk/nyheder/seneste/polen-vil-beskatte-olieselskaber-og-saenke-braendstofprisen",
         "published_date": "2026-09-15 13:45:22",
         "category": "Energy"
+    },
+    {
+        "title": "Private financial letterbox: How do you report old or inherited bonds to Tax?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/dine-penge/privatoekonomisk-brevkasse-hvordanindberetter-man-gamle-eller-arvede-obligationer-til-skat?referrer=RSS",
+        "published_date": "2026-09-20 12:38:13",
+        "category": "Economy"
     },
     {
         "title": "Optimism and pessimism collide in Trump's economy",
@@ -299,6 +313,83 @@
         "url": "https://www.dr.dk/nyheder/seneste/skatten-saenkes-igen-i-gentofte",
         "published_date": "2026-09-16 15:19:18",
         "category": "Economy"
+    },
+    {
+        "title": "Watch the match here: Herlev strikes with the Bulldogs in the Metal League",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sport/se-kampen-her-herlev-brager-sammen-med-bulldogs-i-metal-ligaen?rss",
+        "published_date": "2026-09-20 16:20:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Greenland, Denmark and the USA - follow developments and get the latest news",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/groenland-danmark-og-usa--foelg-udviklingen-og-faa-seneste-nyt-1?referrer=RSS",
+        "published_date": "2026-09-20 14:11:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cornelius leads FCK to victory over Br\u00f8ndby",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/cornelius-pander-fck-til-sejr-over-broendby?referrer=RSS",
+        "published_date": "2026-09-20 14:06:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "S\u00f8nderjyske breaks the bad streak with the first win of the season",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/soenderjyske-bryder-daarlig-stime-med-saesonens-foerste-sejr?referrer=RSS",
+        "published_date": "2026-09-20 13:59:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nyk\u00f8bing Falster enters the CL with victory over the German champion",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/nykoebing-falster-stempler-ind-i-cl-med-sejr-over-tysk-mester?referrer=RSS",
+        "published_date": "2026-09-20 13:41:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barcelona confirm thigh injury to Andreas Christensen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/barcelona-bekraefter-laarskade-til-andreas-christensen?referrer=RSS",
+        "published_date": "2026-09-20 13:16:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dansker was among the finalists in the competition for the world's best paella",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dansker-var-blandt-finalisterne-i-dysten-om-verdens-bedste-paella?referrer=RSS",
+        "published_date": "2026-09-20 13:09:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Coastal protection of North Zealand homes can destroy East Jutland's marine environment",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/kystsikring-af-nordsjaellandske-boliger-kan-oedelaegge-oestjysk-havmiljoe?referrer=RSS",
+        "published_date": "2026-09-20 12:22:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ida only lived to be 20 years old - she helped everyone and brought the whole family together: \"Can I perhaps live for the sake of others?\"",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/ida-blev-kun-20-aar-hun-hjalp-alle-og-samlede-hele-familien-kan-jeg-maaske-leve-for-andres-skyld?rss",
+        "published_date": "2026-09-20 08:04:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alfred and Filippa filmed their special wedding: It has now been viewed over 7 million times",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/kerteminde/alfred-og-filippa-fik-filmet-deres-saerlige-bryllup-nu-er-det-set-over-7-millioner-gange?rss",
+        "published_date": "2026-09-20 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "3000-year-old jewelry survived the plow: -\u00a0It's absolutely crazy",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/vejen/3000-aar-gamle-smykker-overlevede-ploven-det-er-fuldstaendig-vanvittigt?rss",
+        "published_date": "2026-09-20 05:03:00",
+        "category": "Local Events"
     },
     {
         "title": "Macron on Greenland agreement: Exactly what we asked for",
@@ -361,83 +452,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/synspunkter/speciallaege-ser-hvordan-flere-bliver-afhaengige-af-sociale-medier--nu-opfordrer-han-til-en-loesning-som-paa-kasinoet?referrer=RSS",
         "published_date": "2026-09-19 19:35:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump wants to appoint an AI czar",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-vil-udpege-en-ai-zar",
-        "published_date": "2026-09-19 17:37:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sussie was a few minutes away when her daughter was hit: - Everything was chaos",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/sussie-var-faa-minutter-vaek-da-hendes-datter-blev-paakoert-alt-var-kaos?rss",
-        "published_date": "2026-09-19 17:23:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mother criticized report after collision: Funen Police now apologizes",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/mor-rystet-over-melding-fra-politiet-efter-paakoersel-min-datter-har-braekket-flere-ribben?rss",
-        "published_date": "2026-09-19 15:00:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drone closure of Luxembourg airport under investigation",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dronelukning-af-lufthavnen-i-luxembourg-efterforskes",
-        "published_date": "2026-09-19 14:51:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Conservatives still point to Troels Lund Poulsen despite the Liberals' decline",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/konservative-peger-stadig-paa-troels-lund-poulsen-trods-venstres-nedtur?referrer=RSS",
-        "published_date": "2026-09-19 13:58:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aston Villa exacerbates Tottenham's crisis",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/aston-villa-forvaerrer-tottenhams-krise?referrer=RSS",
-        "published_date": "2026-09-19 13:40:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Eyewitnesses report black smoke at Saudi airport",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/oejenvidner-melder-om-sort-roeg-ved-saudisk-lufthavn?referrer=RSS",
-        "published_date": "2026-09-19 13:11:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish doubles lose to Bulgarians after great drama",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-double-taber-til-bulgarere-efter-stort-drama?referrer=RSS",
-        "published_date": "2026-09-19 12:40:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Annexed Ukrainian regions vote in Russian elections",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/annekterede-ukrainske-regioner-stemmer-til-russisk-valg?referrer=RSS",
-        "published_date": "2026-09-19 12:37:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shot fired at the front door in the Aarhus area",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skud-affyret-mod-hoveddoer-i-aarhus-omraadet",
-        "published_date": "2026-09-19 10:13:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Warning of strong winds on several bridges",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/advarsel-om-kraftig-blaest-paa-flere-broer-2",
-        "published_date": "2026-09-19 10:13:06",
         "category": "Local Events"
     }
 ]
