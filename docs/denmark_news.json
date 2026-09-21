@@ -63,6 +63,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "IN NUMBERS: How many Britons have residency permits across Europe?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260919/in-numbers-how-many-britons-have-residency-permits-across-europe",
+        "published_date": "2026-09-19 10:49:30",
+        "category": "Diplomacy"
+    },
+    {
         "title": "OpenAI's chief executive will speak to the UN Security Council next week",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/openais-topchef-taler-i-naeste-uge-til-fns-sikkerhedsraad?referrer=RSS",
@@ -130,13 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-300?referrer=RSS",
         "published_date": "2026-09-17 14:11:12",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Danes among Europe's ten oldest persons",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dansker-blandt-europas-ti-aeldste-personer?referrer=RSS",
-        "published_date": "2026-09-17 14:03:49",
         "category": "Diplomacy"
     },
     {
@@ -231,13 +231,6 @@
         "category": "Military"
     },
     {
-        "title": "Ukraine reports at least nine dead after Russian attacks on Saturday",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ukraine-melder-om-mindst-ni-draebte-efter-russiske-angreb-loerdag?referrer=RSS",
-        "published_date": "2026-09-12 23:30:46",
-        "category": "Military"
-    },
-    {
         "title": "Low electricity prices continue",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/lav-elpris-fortsaetter",
@@ -315,6 +308,118 @@
         "category": "Economy"
     },
     {
+        "title": "ICE officer shoots and injures man in Texas",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ice-betjent-skyder-og-saarer-mand-i-texas",
+        "published_date": "2026-09-21 00:25:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meloni wants to ban the burqa and niqab in Italian schools",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/meloni-vil-forbyde-burka-og-niqab-i-italienske-skoler?referrer=RSS",
+        "published_date": "2026-09-21 00:11:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "18 suspects in the assassination of Haiti's president have flown to the United States",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/18-mistaenkte-i-drab-paa-haitis-praesident-er-floejet-til-usa?referrer=RSS",
+        "published_date": "2026-09-20 21:48:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Enhedslisten politician goes to court with Mikkel Bj\u00f8rn: Gender-segregated swimming is not an attack on Danish values",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/enhedslisten-politiker-gaar-i-rette-med-mikkel-bjoern-koensopdelt-svoemning-er-ikke-et-angreb-paa-danske-vaerdier?referrer=RSS",
+        "published_date": "2026-09-20 21:37:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish national team players score in Portuguese top flight",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/danske-landsholdsspillere-scorer-i-portugisisk-topbrag?referrer=RSS",
+        "published_date": "2026-09-20 21:36:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Evenepoel understands the rival's frustration with the show of force",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/evenepoel-forstaar-rivalens-frustration-over-magtdemonstration?referrer=RSS",
+        "published_date": "2026-09-20 21:23:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish volleyball but must give lost against Italian supremacy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/danske-volleyballmaend-maa-give-fortabt-mod-italiensk-overmagt?referrer=RSS",
+        "published_date": "2026-09-20 20:56:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The far left has become a disturbing power factor in the West",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/den-yderste-venstrefloej-er-blevet-en-foruroligende-magtfaktor-i-vesten?referrer=RSS",
+        "published_date": "2026-09-20 20:51:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mette Helena bought her dream summer house \u2013 but she missed one piece of advice",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mette-helena-koebte-droemmesommerhuset-et-raad-savnede-hun-dog?referrer=RSS",
+        "published_date": "2026-09-20 20:40:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Satisfied Asgreen still dreams of a WC medal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tilfreds-asgreen-droemmer-stadig-om-vm-medalje?referrer=RSS",
+        "published_date": "2026-09-20 20:16:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several charged with serious violence after a fight in Nyborg Prison",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-sigtet-grov-vold-efter-slagsmaal-i-nyborg-faengsel",
+        "published_date": "2026-09-20 19:47:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mascha Vang opens the door to the million-dollar villa: Today she dreams of something completely different",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/mascha-vang-aabner-doeren-til-millionvillaen-i-dag-nu-droemmer-hun-om-noget-helt-andet?rss",
+        "published_date": "2026-09-20 19:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zelenskyj: I will meet with Trump in New York",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/zelenskyj-jeg-skal-skal-moedes-med-trump-i-new-york",
+        "published_date": "2026-09-20 18:43:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Macron receives Carney on small French archipelago off Canada",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/macron-tager-imod-carney-paa-lille-fransk-oe-gruppe-ved-canada",
+        "published_date": "2026-09-20 17:44:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Despite shocking exit polls, Merz will not step down",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trods-chokerende-exitpoll-vil-merz-ikke-gaa-af",
+        "published_date": "2026-09-20 16:38:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Funen Police confirm: One person has died after a tragic solo accident",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/fyns-politi-bekraefter-en-person-er-afgaaet-ved-doeden-efter-tragisk-solulykke?rss",
+        "published_date": "2026-09-20 16:30:24",
+        "category": "Local Events"
+    },
+    {
         "title": "Watch the match here: Herlev strikes with the Bulldogs in the Metal League",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/sport/se-kampen-her-herlev-brager-sammen-med-bulldogs-i-metal-ligaen?rss",
@@ -340,118 +445,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/soenderjyske-bryder-daarlig-stime-med-saesonens-foerste-sejr?referrer=RSS",
         "published_date": "2026-09-20 13:59:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nyk\u00f8bing Falster enters the CL with victory over the German champion",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/nykoebing-falster-stempler-ind-i-cl-med-sejr-over-tysk-mester?referrer=RSS",
-        "published_date": "2026-09-20 13:41:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barcelona confirm thigh injury to Andreas Christensen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/barcelona-bekraefter-laarskade-til-andreas-christensen?referrer=RSS",
-        "published_date": "2026-09-20 13:16:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dansker was among the finalists in the competition for the world's best paella",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dansker-var-blandt-finalisterne-i-dysten-om-verdens-bedste-paella?referrer=RSS",
-        "published_date": "2026-09-20 13:09:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coastal protection of North Zealand homes can destroy East Jutland's marine environment",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/kystsikring-af-nordsjaellandske-boliger-kan-oedelaegge-oestjysk-havmiljoe?referrer=RSS",
-        "published_date": "2026-09-20 12:22:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ida only lived to be 20 years old - she helped everyone and brought the whole family together: \"Can I perhaps live for the sake of others?\"",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/ida-blev-kun-20-aar-hun-hjalp-alle-og-samlede-hele-familien-kan-jeg-maaske-leve-for-andres-skyld?rss",
-        "published_date": "2026-09-20 08:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alfred and Filippa filmed their special wedding: It has now been viewed over 7 million times",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/kerteminde/alfred-og-filippa-fik-filmet-deres-saerlige-bryllup-nu-er-det-set-over-7-millioner-gange?rss",
-        "published_date": "2026-09-20 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "3000-year-old jewelry survived the plow: -\u00a0It's absolutely crazy",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/vejen/3000-aar-gamle-smykker-overlevede-ploven-det-er-fuldstaendig-vanvittigt?rss",
-        "published_date": "2026-09-20 05:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Macron on Greenland agreement: Exactly what we asked for",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/macron-om-groenland-aftale-netop-det-vi-bad-om?referrer=RSS",
-        "published_date": "2026-09-19 23:50:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities in Gaza report four killed in Israeli attacks",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/myndigheder-i-gaza-melder-fire-draebt-i-israelske-angreb?referrer=RSS",
-        "published_date": "2026-09-19 23:09:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Andreas Christensen leaves with injury in Barcelona's win",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/andreas-christensen-udgaar-med-skade-i-barcelona-sejr?referrer=RSS",
-        "published_date": "2026-09-19 21:57:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ditte Okman's boss speaks publicly about the reason for her sick leave",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kultur/ditte-okmans-chef-fortaeller-offentligt-om-grunden-til-hendes-sygemelding?referrer=RSS",
-        "published_date": "2026-09-19 21:20:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lauded arrangement was carried in from the street and into Christiansborg.But now it is drowning in bureaucracy",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/lovprist-ordning-blev-baaret-ind-fra-gaden-og-ind-paa-christiansborg-men-nu-drukner-den-i-bureaukrati?referrer=RSS",
-        "published_date": "2026-09-19 20:49:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish duo burst into Toulouse victory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/danskerduo-sprudler-i-toulouse-sejr?referrer=RSS",
-        "published_date": "2026-09-19 20:43:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Most young people want to use the culture pass to go to the cinema - what's the problem with that?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/de-fleste-unge-vil-bruge-kulturpasset-paa-at-gaa-i-biografen--hvad-er-problemet-med-det?referrer=RSS",
-        "published_date": "2026-09-19 20:04:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Demonstration in the Netherlands developed violently",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/demonstration-i-holland-udviklede-sig-voldsomt",
-        "published_date": "2026-09-19 20:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Specialist doctor sees how more people become addicted to social media - now he calls for a solution like in the casino",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/speciallaege-ser-hvordan-flere-bliver-afhaengige-af-sociale-medier--nu-opfordrer-han-til-en-loesning-som-paa-kasinoet?referrer=RSS",
-        "published_date": "2026-09-19 19:35:25",
         "category": "Local Events"
     }
 ]
