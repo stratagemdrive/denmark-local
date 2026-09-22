@@ -1,5 +1,33 @@
 [
     {
+        "title": "Trump in UN speech: The US will build two bases in Greenland",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/trump-i-fn-tale-usa-vil-bygge-to-baser-i-groenland?referrer=RSS",
+        "published_date": "2026-09-22 15:07:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Trump believes in agreement with Iran after the midterm elections",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-tror-paa-aftale-med-iran-efter-midtvejsvalget?referrer=RSS",
+        "published_date": "2026-09-22 14:57:45",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "COMPARE: How expensive are fuel prices around Europe right now?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260922/compare-how-expensive-are-fuel-prices-around-europe-right-now",
+        "published_date": "2026-09-22 14:07:14",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Shares in Denmark's Novo drop 7.7 percent after strategy announcement",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260922/shares-in-denmarks-novo-drop-7-7-percent-after-strategy-announcement",
+        "published_date": "2026-09-22 13:14:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "California goes on emergency alert ahead of severe weather phenomenon",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/californien-gaar-i-kriseberedskab-forud-for-voldsomt-vejrfaenomen?referrer=RSS",
@@ -112,34 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "OpenAI's chief executive will speak to the UN Security Council next week",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/openais-topchef-taler-i-naeste-uge-til-fns-sikkerhedsraad?referrer=RSS",
-        "published_date": "2026-09-19 00:34:48",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "US Greenland envoy: Agreement will prevent enemies from gaining a foothold",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usas-groenland-udsending-aftale-vil-forhindre-fjenders-fodfaeste?referrer=RSS",
-        "published_date": "2026-09-18 23:42:50",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The technology is questionable and the criticism is harsh.Danish climate project sets out new \"course\" for Europe",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/teknologien-er-tvivlsom-og-kritikken-er-haard-dansk-klimaprojekt-udstikker-nykurs-for-europa?referrer=RSS",
-        "published_date": "2026-09-18 13:58:14",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iran is allowed to send top people to the UN General Assembly in the United States",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iran-faar-lov-at-sende-topfolk-til-fns-generalforsamling-i-usa?referrer=RSS",
-        "published_date": "2026-09-17 23:01:49",
-        "category": "Diplomacy"
-    },
-    {
         "title": "UK to provide 'defensive military aid' to Saudi Arabia",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/storbritannien-vil-levere-defensiv-militaerhjaelp-til-saudi-arabien",
@@ -224,13 +224,6 @@
         "category": "Military"
     },
     {
-        "title": "Trump repeats: Ukraine must stop attacks on Russian refineries",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-gentager-ukraine-skal-stoppe-angreb-paa-russiske-raffinaderier",
-        "published_date": "2026-09-14 07:00:32",
-        "category": "Military"
-    },
-    {
         "title": "Low electricity prices continue",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/lav-elpris-fortsaetter",
@@ -264,6 +257,20 @@
         "url": "https://www.dr.dk/nyheder/seneste/polen-vil-beskatte-olieselskaber-og-saenke-braendstofprisen",
         "published_date": "2026-09-15 13:45:22",
         "category": "Energy"
+    },
+    {
+        "title": "Three men arrested for money laundering and tax evasion via companies",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tre-maend-anholdt-for-hvidvask-og-skattesnyd-via-selskaber?referrer=RSS",
+        "published_date": "2026-09-22 14:54:49",
+        "category": "Economy"
+    },
+    {
+        "title": "Business update: Novo has fought obesity on prescription \u2013 now hair loss may be next",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/business-update-novo-har-bekaempet-fedme-paa-recept--nu-kan-haartab-vaere-det-naeste?referrer=RSS",
+        "published_date": "2026-09-22 14:21:26",
+        "category": "Economy"
     },
     {
         "title": "The tax officials cannot hide behind the law",
@@ -322,143 +329,143 @@
         "category": "Economy"
     },
     {
-        "title": "Brigitte Bardot's belongings fetch millions at auction in Paris",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/brigitte-bardots-ejendele-indbringer-millioner-paa-auktion-i-paris?referrer=RSS",
-        "published_date": "2026-09-21 23:48:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Local CDU leader resigns after disastrous election in northern German state",
+        "title": "F-16 plane crashed at US base in Germany",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lokal-cdu-leder-traekker-sig-efter-katastrofevalg-i-nordoesttysk-delstat",
-        "published_date": "2026-09-21 23:39:45",
+        "url": "https://www.dr.dk/nyheder/seneste/f-16-fly-styrtet-ned-ved-amerikansk-base-i-tyskland",
+        "published_date": "2026-09-22 15:01:20",
         "category": "Local Events"
     },
     {
-        "title": "UK and US test torpedo from underwater drone",
+        "title": "Fighter jets have crashed at an American airbase in Germany",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/storbritannien-og-usa-tester-torpedo-fra-undervandsdrone?referrer=RSS",
-        "published_date": "2026-09-21 22:45:46",
+        "url": "https://www.berlingske.dk/internationalt/kampfly-er-styrtet-ned-ved-amerikansk-luftbase-i-tyskland?referrer=RSS",
+        "published_date": "2026-09-22 14:57:50",
         "category": "Local Events"
     },
     {
-        "title": "Canadian province sues OpenAI in US after school shooting",
+        "title": "Loved couple in case of terrorist approval jailed again",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kaerestepar-i-sag-om-terrorbilligelse-faengslet-igen",
+        "published_date": "2026-09-22 14:50:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "After four years of generative AI, we have lost the battle for the internet \u2013 are the language models stealing our votes?",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/canadisk-provins-sagsoeger-openai-i-usa-efter-skoleskyderi?referrer=RSS",
-        "published_date": "2026-09-21 22:42:51",
+        "url": "https://www.berlingske.dk/synspunkter/efter-fire-aar-med-generativ-ai-har-vi-tabt-kampen-om-internettet--stjaeler-sprogmodellerne-vores-stemmer?referrer=RSS",
+        "published_date": "2026-09-22 14:45:22",
         "category": "Local Events"
     },
     {
-        "title": "Chip company hits value of 1000 billion dollars",
+        "title": "If we want a better public school, we have to start in one place: Make it harder to become a teacher",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/chipselskab-rammer-vaerdi-paa-1000-milliarder-dollar?referrer=RSS",
-        "published_date": "2026-09-21 21:41:50",
+        "url": "https://www.berlingske.dk/synspunkter/vil-vi-have-en-bedre-folkeskole-skal-vi-begynde-et-sted-goer-det-svaerere-at-blive-laerer?referrer=RSS",
+        "published_date": "2026-09-22 14:44:59",
         "category": "Local Events"
     },
     {
-        "title": "State leader resigns after disastrous election in northern German state",
+        "title": "Traffic accident blocks the South motorway in the southbound direction",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/delstatsleder-traekker-sig-efter-katastrofevalg-i-nordoesttysk-delstat?referrer=RSS",
-        "published_date": "2026-09-21 21:16:46",
+        "url": "https://www.berlingske.dk/indland/trafikuheld-spaerrer-sydmotorvejen-i-sydgaaende-retning?referrer=RSS",
+        "published_date": "2026-09-22 14:35:46",
         "category": "Local Events"
     },
     {
-        "title": "Infantino opens for Fifa reforms after failed plan",
+        "title": "Brother's book about Princess Diana hits the top",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/infantino-aabner-for-fifa-reformer-efter-fejlslagen-plan?referrer=RSS",
-        "published_date": "2026-09-21 20:29:45",
+        "url": "https://www.berlingske.dk/internationalt/brors-bog-om-prinsesse-diana-stryger-til-tops?referrer=RSS",
+        "published_date": "2026-09-22 14:23:51",
         "category": "Local Events"
     },
     {
-        "title": "Video showed a man handing out money along with ballots.Now the election of a Swedish politician is being investigated",
+        "title": "In Indre By they bolted benches to the asphalt in disused car parks \u2013 after massive criticism, a new solution has been found",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/video-viste-en-mand-dele-penge-ud-sammen-med-stemmesedler-nu-efterforskesvalget-af-svensk-politiker?referrer=RSS",
-        "published_date": "2026-09-21 19:41:20",
+        "url": "https://www.berlingske.dk/indland/i-indre-by-boltede-de-baenke-fast-til-asfalten-paa-nedlagte-p-pladser--efter-massiv-kritik-er-ny-loesning-fundet?referrer=RSS",
+        "published_date": "2026-09-22 14:13:47",
         "category": "Local Events"
     },
     {
-        "title": "Do you call that nice?Gade has had enough of wild-on-will begging",
+        "title": "15 known guilty of terrorist attacks in Sri Lanka",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/15-kendt-skyldige-i-terrorangreb-i-sri-lanka",
+        "published_date": "2026-09-22 13:33:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "US, Denmark and Greenland to sign US security deal for Greenland",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260922/us-denmark-and-greenland-to-sign-us-security-deal-for-greenland",
+        "published_date": "2026-09-22 12:31:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire in an apartment in N\u00f8rrebro",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brand-breder-sig-i-lejlighed-paa-noerrebro",
+        "published_date": "2026-09-22 12:22:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Copenhagen to host International Citizen Days to encourage foreign residents to stay",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260922/copenhagen-to-host-international-citizen-days-to-encourage-foreign-residents-to-stay",
+        "published_date": "2026-09-22 11:31:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Metro traffic on the M3 is running again",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/metrotrafikken-paa-m3-er-midlertidigt-indstillet",
+        "published_date": "2026-09-22 10:06:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260922/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-65",
+        "published_date": "2026-09-22 08:28:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "A truck has hit two bridges in Aller\u00f8d",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lastbil-paakoerer-broer",
+        "published_date": "2026-09-22 07:26:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Formula 1 is shortening its races from next season",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/formel-1-forkorter-sine-loen-fra-naeste-saeson",
+        "published_date": "2026-09-22 06:52:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "39-year-old pleads guilty to murder of 37-year-old man",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/39-aarig-erkender-sig-skyldig-i-drab-paa-37-aarig-mand",
+        "published_date": "2026-09-22 06:22:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "An extra billion bill for SAS is expected",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ekstra-milliardregning-til-sas-ventes",
+        "published_date": "2026-09-22 06:19:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "The G7 countries call for the Houthi movement to stop attacks",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/g7-landene-opfordrer-til-houthibevaegelsen-indstiller-angreb",
+        "published_date": "2026-09-22 05:21:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "For seven months, Beth feared that someone had killed her son: Now she talks about the grief over Rasmus",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/kalder-i-det-paent-gade-har-faaet-nok-af-vild-med-vilje-bede-vi-har-trukket-nitten?rss",
-        "published_date": "2026-09-21 19:38:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Buried cable delays hundreds of flights to New York",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/overgravet-kabel-forsinker-hundredvis-af-fly-til-new-york",
-        "published_date": "2026-09-21 18:45:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "39-year-old man charged with murder: Here's what we know about the case",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/39-aarig-mand-sigtet-for-drab-her-er-hvad-vi-ved-om-sagen?rss",
-        "published_date": "2026-09-21 17:09:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "It should have been a \"referendum\" on Putin's war.It was a display of shameless cheating",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/det-skulle-have-vaeret-en-folkeafstemning-om-putins-krig-det-blev-en-opvisning-i-skamloes-snyd?referrer=RSS",
-        "published_date": "2026-09-21 16:21:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "State prosecutor wants boys convicted of hate crimes in Odense",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/statsadvokat-vil-have-drenge-doemt-for-hadforbrydelser-i-odense?referrer=RSS",
-        "published_date": "2026-09-21 16:05:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Baltic Sea is getting warmer and warmer",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/oestersoeen-bliver-varmere-og-varmere",
-        "published_date": "2026-09-21 16:03:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Novo share falls 7.7 percent after updated strategy",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/novo-aktien-falder-77-procent-efter-opdateret-strategi?referrer=RSS",
-        "published_date": "2026-09-21 15:58:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Have you also heard the rumor about Richard Gere and the hamster?An investigative journalist set out to get to the bottom of the story",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/har-du-ogsaa-hoert-rygtet-om-richard-gere-og-hamsteren-en-graverjournalist-satte-sig-for-at-komme-til-bunds-i-historien?referrer=RSS",
-        "published_date": "2026-09-21 15:52:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Trump administration has secretly sent more than 25,000 refugees to countries other than their homelands",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/i-al-hemmelighed-har-trump-administrationen-sendt-flere-end-25000-flygtninge-til-lande-der-ikke-er-deres-hjemlande?referrer=RSS",
-        "published_date": "2026-09-21 15:46:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "37-year-old's death in Esbjerg is being investigated as murder - 39-year-old arrested",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/37-aarigs-doed-i-esbjerg-efterforskes-som-drab-39-aarig-anholdt?referrer=RSS",
-        "published_date": "2026-09-21 15:19:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Novo was supposed to give the skeptics answers - but a \"fluffy\" plan gave new life to the mistrust",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/novo-skulle-give-skeptikerne-svar--men-en-fluffy-plan-gav-mistroen-nyt-liv?referrer=RSS",
-        "published_date": "2026-09-21 15:10:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Committee approves closing down psychiatric beds",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/udvalg-siger-god-nedlaegge-psykiatriske-sengepladser",
-        "published_date": "2026-09-21 14:19:12",
+        "url": "https://jv.dk/kolding/i-syv-maaneder-frygtede-beth-at-nogen-havde-draebt-hendes-soen-nu-fortaeller-hun-om-sorgen-over-rasmus?rss",
+        "published_date": "2026-09-22 05:01:00",
         "category": "Local Events"
     }
 ]
