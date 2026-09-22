@@ -1,5 +1,19 @@
 [
     {
+        "title": "California goes on emergency alert ahead of severe weather phenomenon",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/californien-gaar-i-kriseberedskab-forud-for-voldsomt-vejrfaenomen?referrer=RSS",
+        "published_date": "2026-09-22 00:47:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Local celebrity turned top politician.The \"good\" AfD man secures the party victory in yet another German state",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/lokal-beroemthed-blev-toppolitiker-den-flinke-afd-mand-sikrer-partiet-sejr-i-endnu-en-tysk-delstat?referrer=RSS",
+        "published_date": "2026-09-21 20:12:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Solbakken urges euphoric Norwegians to come to their senses",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/solbakken-maner-euforiske-nordmaend-til-besindighed?referrer=RSS",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Grabara provides an assist for Juventus on a difficult Danish night in Europe",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/grabara-leverer-assist-for-juventus-paa-tung-dansk-aften-i-europa?referrer=RSS",
-        "published_date": "2026-09-17 21:06:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Tomorrow, the EU will send DKK 24 billion to Ukraine",
+        "title": "UK to provide 'defensive military aid' to Saudi Arabia",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/i-morgen-sender-eu-24-milliarder-kroner-til-ukraine",
-        "published_date": "2026-09-17 19:07:20",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-vil-levere-defensiv-militaerhjaelp-til-saudi-arabien",
+        "published_date": "2026-09-22 01:00:14",
+        "category": "Military"
     },
     {
         "title": "Trump claims Arc de Triomphe to be 'state-of-the-art military complex'",
@@ -259,6 +266,13 @@
         "category": "Energy"
     },
     {
+        "title": "The tax officials cannot hide behind the law",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/skattemedarbejderne-kan-ikke-gemme-sig-bag-loven?referrer=RSS",
+        "published_date": "2026-09-21 20:16:12",
+        "category": "Economy"
+    },
+    {
         "title": "100-year-old law costs Danish crypto investors millions.Now the minister wants to end the problem",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/oekonomi/100-aar-gammel-lov-koster-danske-kryptoinvestorer-millioner-nu-vil-minister-problemet-til-livs?referrer=RSS",
@@ -306,6 +320,76 @@
         "url": "https://www.dr.dk/nyheder/seneste/skatten-saenkes-igen-i-gentofte",
         "published_date": "2026-09-16 15:19:18",
         "category": "Economy"
+    },
+    {
+        "title": "Brigitte Bardot's belongings fetch millions at auction in Paris",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/brigitte-bardots-ejendele-indbringer-millioner-paa-auktion-i-paris?referrer=RSS",
+        "published_date": "2026-09-21 23:48:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Local CDU leader resigns after disastrous election in northern German state",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lokal-cdu-leder-traekker-sig-efter-katastrofevalg-i-nordoesttysk-delstat",
+        "published_date": "2026-09-21 23:39:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "UK and US test torpedo from underwater drone",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/storbritannien-og-usa-tester-torpedo-fra-undervandsdrone?referrer=RSS",
+        "published_date": "2026-09-21 22:45:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Canadian province sues OpenAI in US after school shooting",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/canadisk-provins-sagsoeger-openai-i-usa-efter-skoleskyderi?referrer=RSS",
+        "published_date": "2026-09-21 22:42:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chip company hits value of 1000 billion dollars",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/chipselskab-rammer-vaerdi-paa-1000-milliarder-dollar?referrer=RSS",
+        "published_date": "2026-09-21 21:41:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "State leader resigns after disastrous election in northern German state",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/delstatsleder-traekker-sig-efter-katastrofevalg-i-nordoesttysk-delstat?referrer=RSS",
+        "published_date": "2026-09-21 21:16:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Infantino opens for Fifa reforms after failed plan",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/infantino-aabner-for-fifa-reformer-efter-fejlslagen-plan?referrer=RSS",
+        "published_date": "2026-09-21 20:29:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video showed a man handing out money along with ballots.Now the election of a Swedish politician is being investigated",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/video-viste-en-mand-dele-penge-ud-sammen-med-stemmesedler-nu-efterforskesvalget-af-svensk-politiker?referrer=RSS",
+        "published_date": "2026-09-21 19:41:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do you call that nice?Gade has had enough of wild-on-will begging",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/esbjerg/kalder-i-det-paent-gade-har-faaet-nok-af-vild-med-vilje-bede-vi-har-trukket-nitten?rss",
+        "published_date": "2026-09-21 19:38:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Buried cable delays hundreds of flights to New York",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/overgravet-kabel-forsinker-hundredvis-af-fly-til-new-york",
+        "published_date": "2026-09-21 18:45:50",
+        "category": "Local Events"
     },
     {
         "title": "39-year-old man charged with murder: Here's what we know about the case",
@@ -371,80 +455,10 @@
         "category": "Local Events"
     },
     {
-        "title": "The police are looking for witnesses in the murder case: The arrested will be produced in a constitutional hearing tomorrow",
+        "title": "Committee approves closing down psychiatric beds",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-soeger-vidner-i-drabssag-anholdt-fremstilles-i-grundlovsforhoer-i-morgen",
-        "published_date": "2026-09-21 14:07:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nordic broadcasters pull documentary on Russian spying amid fears AI could unmask sources",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260921/nordic-broadcasters-pull-documentary-on-russian-spying-amid-fears-ai-could-unmask-sources",
-        "published_date": "2026-09-21 13:49:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark's Liberals see record-low support in new poll",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260921/denmarks-liberals-see-record-low-support-in-new-poll",
-        "published_date": "2026-09-21 12:20:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Queen Margrethes II's Bridge will be closed to motorists for the coming nights",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dronning-margrethes-ii-s-bro-lukker-bilister-de-kommende-naetter",
-        "published_date": "2026-09-21 11:43:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Monday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260921/today-in-denmark-a-roundup-of-the-latest-news-on-monday-62",
-        "published_date": "2026-09-21 08:19:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "S-train affected by delays",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/s-tog-ramt-af-forsinkelser",
-        "published_date": "2026-09-21 07:08:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark's largest pig farmer gets the green light to grow",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/danmarks-stoerste-svinebonde-faar-groent-lys-til-at-vokse?rss",
-        "published_date": "2026-09-21 06:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The organization has received a record number of cats",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/organisation-har-faaet-indleveret-rekordmange-katte",
-        "published_date": "2026-09-21 05:52:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Track switching errors affect trains between N\u00e6stved and Helsing\u00f8r",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sporskiftefejl-paavirker-tog-mellem-naestved-og-helsingoer",
-        "published_date": "2026-09-21 05:35:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Natural fire approaches tourist town in Colombia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/naturbrand-naermer-sig-turistby-i-colombia",
-        "published_date": "2026-09-21 03:45:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE officer shoots and injures man in Texas",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ice-betjent-skyder-og-saarer-mand-i-texas",
-        "published_date": "2026-09-21 00:25:12",
+        "url": "https://www.dr.dk/nyheder/seneste/udvalg-siger-god-nedlaegge-psykiatriske-sengepladser",
+        "published_date": "2026-09-21 14:19:12",
         "category": "Local Events"
     }
 ]
