@@ -1,5 +1,19 @@
 [
     {
+        "title": "Agreement on Greenland arouses joy among Nordic neighbours",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/aftale-om-groenland-vaekker-glaede-hos-nordiske-naboer?referrer=RSS",
+        "published_date": "2026-09-23 00:26:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Macron in call: Choose the UN over the law of the jungle",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/macron-i-opfordring-vaelg-fn-frem-for-jungleloven?referrer=RSS",
+        "published_date": "2026-09-22 20:57:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Trump in UN speech: The US will build two bases in Greenland",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/trump-i-fn-tale-usa-vil-bygge-to-baser-i-groenland?referrer=RSS",
@@ -126,20 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "OPINION: Do Canadians really want closer ties with Europe?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260919/opinion-do-canadians-really-want-closer-ties-with-europe",
-        "published_date": "2026-09-19 10:54:19",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "IN NUMBERS: How many Britons have residency permits across Europe?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260919/in-numbers-how-many-britons-have-residency-permits-across-europe",
-        "published_date": "2026-09-19 10:49:30",
-        "category": "Diplomacy"
-    },
-    {
         "title": "UK to provide 'defensive military aid' to Saudi Arabia",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/storbritannien-vil-levere-defensiv-militaerhjaelp-til-saudi-arabien",
@@ -214,13 +214,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/rusland-kalder-passagertog-i-ukraine-legitime-maal",
         "published_date": "2026-09-15 17:22:14",
-        "category": "Military"
-    },
-    {
-        "title": "Trump: Ukraine and Russia agree not to attack energy facilities",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-ukraine-og-rusland-enige-om-ikke-at-angribe-energianlaeg?referrer=RSS",
-        "published_date": "2026-09-14 16:31:44",
         "category": "Military"
     },
     {
@@ -329,6 +322,104 @@
         "category": "Economy"
     },
     {
+        "title": "The UK will lead the way in the development of AI standards",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/storbritannien-vil-lede-an-i-udviklingen-af-ai-standarder?referrer=RSS",
+        "published_date": "2026-09-23 00:58:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "UK to lead global AI regulations",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-vil-stille-sig-i-spidsen-globale-ai-regler",
+        "published_date": "2026-09-23 00:46:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Face of controversial internet trend charged with rape in the US",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ansigt-paa-omdiskuteret-internettrend-tiltalt-for-voldtaegt-i-usa?referrer=RSS",
+        "published_date": "2026-09-22 23:45:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "France is investigating the use of intelligent glasses to film women",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/frankrig-undersoeger-brug-af-intelligente-briller-til-at-filme-kvinder?referrer=RSS",
+        "published_date": "2026-09-22 23:10:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump will henceforth call artificial intelligence superintelligence",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-vil-fremover-kalde-kunstig-intelligens-for-superintelligens?referrer=RSS",
+        "published_date": "2026-09-22 21:40:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "HB K\u00f8ge suffers a painful CL fate after a late penalty",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/hb-koege-lider-smertefuld-cl-skaebne-efter-sent-straffespark?referrer=RSS",
+        "published_date": "2026-09-22 21:03:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump had his \"space laser\" written into the agreement.What does the \u00bbGolden Dome\u00ab mean for Greenland?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/trump-fik-skrevet-sin-rumlaser-ind-i-aftalen-hvad-betyder-golden-dome-for-groenland?referrer=RSS",
+        "published_date": "2026-09-22 20:25:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 26-year-old man has died after a serious traffic accident near Kalundborg",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/en-26-aarig-mand-er-doed-efter-alvorlig-trafikulykke-naer-kalundborg?referrer=RSS",
+        "published_date": "2026-09-22 20:23:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Happy WC bronze winner thanks colleagues for tips",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/lykkelig-vm-bronzevinder-takker-kolleger-for-tips?referrer=RSS",
+        "published_date": "2026-09-22 20:13:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The government cancels the disability agreement from 2024",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/regeringen-ophaever-handicapaftale-fra-2024",
+        "published_date": "2026-09-22 18:52:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Boys lured men into an ambush before violent assaults: Now all four have been sentenced",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/drenge-lokkede-maend-i-baghold-foer-voldsomme-overfald-nu-er-de-alle-fire-doemt?rss",
+        "published_date": "2026-09-22 18:20:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swedish politician takes a break after suspicion of election fraud",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/svensk-politiker-tager-pause-efter-mistanke-om-valgsvindel",
+        "published_date": "2026-09-22 17:31:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tougher penalties for assaults on homosexuals",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skaerpede-straffe-overfald-af-homoseksuelle",
+        "published_date": "2026-09-22 15:49:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bought two party dresses for seven kroner: Now the store is looking for the customer",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/toender/koebte-to-festkjoler-for-syv-kroner-ved-en-fejl-nu-efterlyser-butikken-kunden?rss",
+        "published_date": "2026-09-22 15:49:26",
+        "category": "Local Events"
+    },
+    {
         "title": "F-16 plane crashed at US base in Germany",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/f-16-fly-styrtet-ned-ved-amerikansk-base-i-tyskland",
@@ -368,104 +459,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/trafikuheld-spaerrer-sydmotorvejen-i-sydgaaende-retning?referrer=RSS",
         "published_date": "2026-09-22 14:35:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brother's book about Princess Diana hits the top",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/brors-bog-om-prinsesse-diana-stryger-til-tops?referrer=RSS",
-        "published_date": "2026-09-22 14:23:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Indre By they bolted benches to the asphalt in disused car parks \u2013 after massive criticism, a new solution has been found",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/i-indre-by-boltede-de-baenke-fast-til-asfalten-paa-nedlagte-p-pladser--efter-massiv-kritik-er-ny-loesning-fundet?referrer=RSS",
-        "published_date": "2026-09-22 14:13:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "15 known guilty of terrorist attacks in Sri Lanka",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/15-kendt-skyldige-i-terrorangreb-i-sri-lanka",
-        "published_date": "2026-09-22 13:33:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "US, Denmark and Greenland to sign US security deal for Greenland",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260922/us-denmark-and-greenland-to-sign-us-security-deal-for-greenland",
-        "published_date": "2026-09-22 12:31:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire in an apartment in N\u00f8rrebro",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brand-breder-sig-i-lejlighed-paa-noerrebro",
-        "published_date": "2026-09-22 12:22:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen to host International Citizen Days to encourage foreign residents to stay",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260922/copenhagen-to-host-international-citizen-days-to-encourage-foreign-residents-to-stay",
-        "published_date": "2026-09-22 11:31:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Metro traffic on the M3 is running again",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/metrotrafikken-paa-m3-er-midlertidigt-indstillet",
-        "published_date": "2026-09-22 10:06:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260922/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-65",
-        "published_date": "2026-09-22 08:28:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "A truck has hit two bridges in Aller\u00f8d",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lastbil-paakoerer-broer",
-        "published_date": "2026-09-22 07:26:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Formula 1 is shortening its races from next season",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/formel-1-forkorter-sine-loen-fra-naeste-saeson",
-        "published_date": "2026-09-22 06:52:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "39-year-old pleads guilty to murder of 37-year-old man",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/39-aarig-erkender-sig-skyldig-i-drab-paa-37-aarig-mand",
-        "published_date": "2026-09-22 06:22:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "An extra billion bill for SAS is expected",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ekstra-milliardregning-til-sas-ventes",
-        "published_date": "2026-09-22 06:19:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "The G7 countries call for the Houthi movement to stop attacks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/g7-landene-opfordrer-til-houthibevaegelsen-indstiller-angreb",
-        "published_date": "2026-09-22 05:21:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "For seven months, Beth feared that someone had killed her son: Now she talks about the grief over Rasmus",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/i-syv-maaneder-frygtede-beth-at-nogen-havde-draebt-hendes-soen-nu-fortaeller-hun-om-sorgen-over-rasmus?rss",
-        "published_date": "2026-09-22 05:01:00",
         "category": "Local Events"
     }
 ]
