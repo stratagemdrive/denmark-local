@@ -1,5 +1,40 @@
 [
     {
+        "title": "The US delegation leaves the room during the Iranian president's speech",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usas-delegation-forlader-salen-under-irans-praesidents-tale?referrer=RSS",
+        "published_date": "2026-09-23 14:59:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Russian ambassador calls new Greenland agreement \"confrontational\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/russisk-ambassadoer-kalder-ny-groenland-aftale-for-konfrontatorisk?referrer=RSS",
+        "published_date": "2026-09-23 14:53:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Government parties lash out after Messerschmidt's \"foreign policy misfire\": He was wrong",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/regeringspartier-langer-ud-efter-messerschmidtsudenrigspolitiske-fejlskud-han-tog-fejl?referrer=RSS",
+        "published_date": "2026-09-23 14:35:25",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "European election observers not invited to the US midterm elections",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/europaeiske-valgobservatoerer-ikke-inviteret-til-midtvejsvalget-i-usa",
+        "published_date": "2026-09-23 14:34:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260923/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-72",
+        "published_date": "2026-09-23 08:33:38",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Agreement on Greenland arouses joy among Nordic neighbours",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/aftale-om-groenland-vaekker-glaede-hos-nordiske-naboer?referrer=RSS",
@@ -102,41 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/chiles-ekspraesident-traekker-sig-fra-valgkamp-om-fn-toppost?referrer=RSS",
         "published_date": "2026-09-19 23:15:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "German general elected as new head of NATO's military committee",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tysk-general-valgt-som-ny-leder-af-natos-militaerkomite",
-        "published_date": "2026-09-19 15:56:58",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Experts say Denmark wins with Trump-Greenland deal",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260919/denmark-emerges-smiling-from-trump-greenland-deal-experts-say",
-        "published_date": "2026-09-19 14:30:04",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Defense chief: Cooperation with the US under NATO auspices continues unabated",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/forsvarschef-samarbejde-med-usa-i-nato-regi-fortsaetter-ufortroedent?referrer=RSS",
-        "published_date": "2026-09-19 13:40:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Five stars: You've probably never heard of this artist.You have something to look forward to",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kunst/fem-stjerner-du-har-sikkert-aldrig-hoert-om-denne-kunstner-du-har-noget-at-glaede-dig-til?referrer=RSS",
-        "published_date": "2026-09-19 13:30:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU proposes new rules on recognition of qualifications for non-EU citizens",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260919/eu-proposes-new-rules-for-recognition-of-qualifications-from-non-eu-citizens",
-        "published_date": "2026-09-19 11:05:32",
         "category": "Diplomacy"
     },
     {
@@ -245,13 +245,6 @@
         "category": "Energy"
     },
     {
-        "title": "Poland will tax oil companies and lower fuel prices",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/polen-vil-beskatte-olieselskaber-og-saenke-braendstofprisen",
-        "published_date": "2026-09-15 13:45:22",
-        "category": "Energy"
-    },
-    {
         "title": "Three men arrested for money laundering and tax evasion via companies",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/tre-maend-anholdt-for-hvidvask-og-skattesnyd-via-selskaber?referrer=RSS",
@@ -322,6 +315,132 @@
         "category": "Economy"
     },
     {
+        "title": "Problems with calls: Telenor is down",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/112/problemer-med-opkald-telenor-er-nede?rss",
+        "published_date": "2026-09-23 15:29:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Problems with calls: Telenor is down",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/problemer-med-opkald-telenor-er-nede?rss",
+        "published_date": "2026-09-23 15:29:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "American singer extends tour and gives concert in Denmark",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/amerikansk-sanger-udvider-turne-og-giver-koncert-i-danmark?referrer=RSS",
+        "published_date": "2026-09-23 15:03:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "T\u00f8nder Municipality is investigating the case of Henrik Frandsen's property dealings",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/toender-kommune-undersoeger-sag-om-henrik-frandsens-ejendomshandel?referrer=RSS",
+        "published_date": "2026-09-23 14:44:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Martin \u00d8degaard has respect for the solid Danish national team",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/martin-oedegaard-har-respekt-for-solidt-dansk-landshold?referrer=RSS",
+        "published_date": "2026-09-23 14:41:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "INTERVIEW: 'There is a person behind each Danish citizenship application'",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260923/interview-there-is-a-person-behind-each-danish-citizenship-application",
+        "published_date": "2026-09-23 14:40:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "DBU chairman holds firm despite Infantino's letter: Trust is gone",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dbu-formand-holder-fast-trods-infantino-brev-tillid-er-vaek?referrer=RSS",
+        "published_date": "2026-09-23 14:27:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Business update:\u00a0Novo examines big change on US stock market",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/business-updatenovo-undersoeger-stor-aendring-paa-amerikansk-boers?referrer=RSS",
+        "published_date": "2026-09-23 14:24:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man stabbed at Br\u00f8ndby\u00f8ster Station",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-stukket-med-kniv-paa-broendbyoester-station",
+        "published_date": "2026-09-23 14:02:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Report of cargo ship on fire in the Strait of Hormuz",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/melding-om-fragtskib-i-brand-i-hormuzstraedet",
+        "published_date": "2026-09-23 13:28:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man dead in apartment fire in Trige",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-doed-i-lejlighedsbrand-i-trige",
+        "published_date": "2026-09-23 11:18:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"Serious danger to the patients\": Senior doctor receives harsh criticism and ban after heavy-handed operations",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/odense/alvorlig-fare-for-patienterne-overlaege-faar-haard-kritik-og-forbud-efter-haandhaendede-operationer?rss",
+        "published_date": "2026-09-23 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Banedanmark to railway neighbours: Get control of your trees",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/banedanmark-til-jernbanenaboer-faa-styr-paa-jeres-traeer",
+        "published_date": "2026-09-23 09:38:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "US, Greenland and Denmark sign security deal at UN",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260923/us-greenland-and-denmark-sign-security-deal-at-un",
+        "published_date": "2026-09-23 08:57:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Documents reveal fatal error before Ida's death: - They should have looked after my child",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/dokumenter-afsloerer-fatal-fejl-foer-idas-selvmord-de-skulle-have-passet-paa-mit-barn?rss",
+        "published_date": "2026-09-23 08:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Britain launches new space squadron",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-lancerer-ny-rumeskadrille",
+        "published_date": "2026-09-23 07:54:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Board launches new guidelines for cancer patients with late sequelae",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/styrelse-lancerer-nye-retningslinjer-kraeftpatienter-med-senfoelger",
+        "published_date": "2026-09-23 07:30:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Watch video: Sodding in cemetery revealed a mysterious staircase - enter hidden noble crypt",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/nordfyn/se-video-spadestik-paa-kirkegaard-afsloerede-en-mystisk-trappe-kom-med-ind-i-skjult-adelig-krypt?rss",
+        "published_date": "2026-09-23 06:00:00",
+        "category": "Local Events"
+    },
+    {
         "title": "The UK will lead the way in the development of AI standards",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/storbritannien-vil-lede-an-i-udviklingen-af-ai-standarder?referrer=RSS",
@@ -333,132 +452,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/storbritannien-vil-stille-sig-i-spidsen-globale-ai-regler",
         "published_date": "2026-09-23 00:46:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Face of controversial internet trend charged with rape in the US",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ansigt-paa-omdiskuteret-internettrend-tiltalt-for-voldtaegt-i-usa?referrer=RSS",
-        "published_date": "2026-09-22 23:45:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "France is investigating the use of intelligent glasses to film women",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/frankrig-undersoeger-brug-af-intelligente-briller-til-at-filme-kvinder?referrer=RSS",
-        "published_date": "2026-09-22 23:10:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump will henceforth call artificial intelligence superintelligence",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-vil-fremover-kalde-kunstig-intelligens-for-superintelligens?referrer=RSS",
-        "published_date": "2026-09-22 21:40:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "HB K\u00f8ge suffers a painful CL fate after a late penalty",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/hb-koege-lider-smertefuld-cl-skaebne-efter-sent-straffespark?referrer=RSS",
-        "published_date": "2026-09-22 21:03:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump had his \"space laser\" written into the agreement.What does the \u00bbGolden Dome\u00ab mean for Greenland?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/trump-fik-skrevet-sin-rumlaser-ind-i-aftalen-hvad-betyder-golden-dome-for-groenland?referrer=RSS",
-        "published_date": "2026-09-22 20:25:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 26-year-old man has died after a serious traffic accident near Kalundborg",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/en-26-aarig-mand-er-doed-efter-alvorlig-trafikulykke-naer-kalundborg?referrer=RSS",
-        "published_date": "2026-09-22 20:23:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Happy WC bronze winner thanks colleagues for tips",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/lykkelig-vm-bronzevinder-takker-kolleger-for-tips?referrer=RSS",
-        "published_date": "2026-09-22 20:13:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The government cancels the disability agreement from 2024",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/regeringen-ophaever-handicapaftale-fra-2024",
-        "published_date": "2026-09-22 18:52:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Boys lured men into an ambush before violent assaults: Now all four have been sentenced",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/drenge-lokkede-maend-i-baghold-foer-voldsomme-overfald-nu-er-de-alle-fire-doemt?rss",
-        "published_date": "2026-09-22 18:20:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish politician takes a break after suspicion of election fraud",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/svensk-politiker-tager-pause-efter-mistanke-om-valgsvindel",
-        "published_date": "2026-09-22 17:31:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tougher penalties for assaults on homosexuals",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skaerpede-straffe-overfald-af-homoseksuelle",
-        "published_date": "2026-09-22 15:49:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bought two party dresses for seven kroner: Now the store is looking for the customer",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/toender/koebte-to-festkjoler-for-syv-kroner-ved-en-fejl-nu-efterlyser-butikken-kunden?rss",
-        "published_date": "2026-09-22 15:49:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "F-16 plane crashed at US base in Germany",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/f-16-fly-styrtet-ned-ved-amerikansk-base-i-tyskland",
-        "published_date": "2026-09-22 15:01:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fighter jets have crashed at an American airbase in Germany",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kampfly-er-styrtet-ned-ved-amerikansk-luftbase-i-tyskland?referrer=RSS",
-        "published_date": "2026-09-22 14:57:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Loved couple in case of terrorist approval jailed again",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kaerestepar-i-sag-om-terrorbilligelse-faengslet-igen",
-        "published_date": "2026-09-22 14:50:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "After four years of generative AI, we have lost the battle for the internet \u2013 are the language models stealing our votes?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/efter-fire-aar-med-generativ-ai-har-vi-tabt-kampen-om-internettet--stjaeler-sprogmodellerne-vores-stemmer?referrer=RSS",
-        "published_date": "2026-09-22 14:45:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "If we want a better public school, we have to start in one place: Make it harder to become a teacher",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/vil-vi-have-en-bedre-folkeskole-skal-vi-begynde-et-sted-goer-det-svaerere-at-blive-laerer?referrer=RSS",
-        "published_date": "2026-09-22 14:44:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Traffic accident blocks the South motorway in the southbound direction",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/trafikuheld-spaerrer-sydmotorvejen-i-sydgaaende-retning?referrer=RSS",
-        "published_date": "2026-09-22 14:35:46",
         "category": "Local Events"
     }
 ]
