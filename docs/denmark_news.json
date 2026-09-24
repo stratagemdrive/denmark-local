@@ -1,5 +1,40 @@
 [
     {
+        "title": "Unearthed medieval church sheds light on Greenland's viking past",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260924/unearthed-medieval-church-sheds-light-on-greenlands-viking-past",
+        "published_date": "2026-09-24 15:21:38",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "NATO chief supports Danish assessment of Russian threats",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/nato-chef-bakker-op-om-dansk-vurdering-af-russiske-trusler?referrer=RSS",
+        "published_date": "2026-09-24 14:41:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Holger Dahl is happy about the renewal of SMK: The house is bewitched",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kunst/holger-dahl-glaeder-sig-over-fornyelse-af-smk-huset-er-forhekset?referrer=RSS",
+        "published_date": "2026-09-24 14:40:13",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Danish spy agency: Russian invasion of Nato country 'highly unlikely' but cannot be ruled out",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260924/danish-spy-agency-russian-invasion-of-nato-country-highly-unlikely-but-cannot-be-ruled-out",
+        "published_date": "2026-09-24 14:36:15",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Thursday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260924/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-58",
+        "published_date": "2026-09-24 08:54:07",
+        "category": "Diplomacy"
+    },
+    {
         "title": "FBI investigates security breach - intelligence data may have been stolen",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/fbi-efterforsker-sikkerhedsbrud-efterretningsdata-kan-vaere-stjaalet?referrer=RSS",
@@ -105,41 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Solbakken urges euphoric Norwegians to come to their senses",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/solbakken-maner-euforiske-nordmaend-til-besindighed?referrer=RSS",
-        "published_date": "2026-09-21 16:24:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Putin must sit back and enjoy himself.He gets help from two wings in Europe",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/putin-maa-sidde-og-fryde-sig-han-faar-hjaelp-fra-to-floeje-i-europa?referrer=RSS",
-        "published_date": "2026-09-21 16:11:53",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Job cuts at Denmark's Novo much larger than first expected",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260921/job-cuts-at-denmarks-novo-much-larger-than-first-expected",
-        "published_date": "2026-09-21 12:35:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iran's president will attend the UN General Assembly",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/irans-praesident-vil-deltage-i-fn-s-generalforsamling",
-        "published_date": "2026-09-21 09:46:27",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "War in Europe - follow the developments here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-udviklingen-her-5?referrer=RSS",
-        "published_date": "2026-09-20 14:16:53",
-        "category": "Diplomacy"
-    },
-    {
         "title": "UK to provide 'defensive military aid' to Saudi Arabia",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/storbritannien-vil-levere-defensiv-militaerhjaelp-til-saudi-arabien",
@@ -196,20 +196,6 @@
         "category": "Military"
     },
     {
-        "title": "The defense helicopter became the center of a major political war of words",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/forsvarets-helikopter-blev-centrum-for-storpolitisk-ordkrig?referrer=RSS",
-        "published_date": "2026-09-16 13:53:36",
-        "category": "Military"
-    },
-    {
-        "title": "Two Polish airports briefly suspended flights due to military operation",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/polske-lufthavne-suspenderer-flyvninger-paa-grund-af-militaer-operation",
-        "published_date": "2026-09-16 05:25:15",
-        "category": "Military"
-    },
-    {
         "title": "Low electricity prices continue",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/lav-elpris-fortsaetter",
@@ -236,6 +222,13 @@
         "url": "https://www.berlingske.dk/internationalt/kongressen-i-usa-vedtager-omfattende-sanktionspakke-mod-rusland?referrer=RSS",
         "published_date": "2026-09-17 00:32:44",
         "category": "Energy"
+    },
+    {
+        "title": "The Danish Business Authority removes 1.3 million illegal goods from online platforms",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/erhvervsstyrelsen-fjerner-13-millioner-ulovlige-varer-fra-onlineplatform?referrer=RSS",
+        "published_date": "2026-09-24 14:45:54",
+        "category": "Economy"
     },
     {
         "title": "Three men arrested for money laundering and tax evasion via companies",
@@ -301,11 +294,60 @@
         "category": "Economy"
     },
     {
-        "title": "The tax is lowered again in Gentofte",
+        "title": "Extradited Romanian is imprisoned in case of murdered man in Guden\u00e5en",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/udleveret-rumaener-er-faengslet-i-sag-om-draebt-mand-i-gudenaaen?referrer=RSS",
+        "published_date": "2026-09-24 15:28:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abbas: Israel threatens the lives and existence of the Palestinians",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/abbas-israel-truer-palaestinensernes-liv-og-eksistens?referrer=RSS",
+        "published_date": "2026-09-24 15:11:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Conservative podcasters turn their backs on Trump \u2013 and a Democrat storms forward",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/konservative-podcastere-vender-trump-ryggen--og-en-demokrat-stormer-frem?referrer=RSS",
+        "published_date": "2026-09-24 14:54:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Google ready with first steps towards AI data centers in space",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/google-klar-med-foerste-skridt-mod-ai-datacentre-i-rummet?referrer=RSS",
+        "published_date": "2026-09-24 14:45:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Teenager jailed for stabbing 16-year-old at train station",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/teenager-faengslet-for-at-stikke-16-aarig-med-kniv-paa-togstation?referrer=RSS",
+        "published_date": "2026-09-24 14:41:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barcelona takes on new debt to complete the construction of Camp Nou",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/barcelona-optager-ny-gaeld-for-at-faerdigbygge-camp-nou?referrer=RSS",
+        "published_date": "2026-09-24 14:27:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "What changes in Denmark in October 2026?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260924/what-changes-in-denmark-in-october-2026",
+        "published_date": "2026-09-24 11:10:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "The metro has had the busiest weekend ever with 1.4 million passengers",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skatten-saenkes-igen-i-gentofte",
-        "published_date": "2026-09-16 15:19:18",
-        "category": "Economy"
+        "url": "https://www.dr.dk/nyheder/seneste/metroen-har-haft-den-travleste-weekend-nogensinde-med-1-4-millioner-passagerer",
+        "published_date": "2026-09-24 04:54:23",
+        "category": "Local Events"
     },
     {
         "title": "US and China agree to extend pause in trade dispute",
@@ -389,62 +431,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/sofie-graaboel-og-sidse-babett-knudsen-vaelter-i-ros-for-roller-i-dobbeltfejl?referrer=RSS",
         "published_date": "2026-09-23 20:34:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark will give one billion to the global education fund",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danmark-vil-give-en-milliard-til-global-uddannelsesfond",
-        "published_date": "2026-09-23 19:35:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Indian sailor killed in attack on cargo ship in the Strait of Hormuz",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/indisk-soemand-draebt-i-angreb-paa-fragtskib-i-hormuzstraedet",
-        "published_date": "2026-09-23 18:08:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Watch the super final here: Four teams compete for the DM gold",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/speedway/se-superfinalen-her-fire-hold-koerer-om-dm-guldet?rss",
-        "published_date": "2026-09-23 17:40:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Watch the super final here: Four teams compete for the DM gold",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/speedway/se-superfinalen-her-fire-hold-koerer-om-dm-guldet?rss",
-        "published_date": "2026-09-23 17:40:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police warn against sharing videos in a murder case in Esbjerg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-advarer-mod-deling-af-videoer-i-drabssag-i-esbjerg",
-        "published_date": "2026-09-23 16:27:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Harvey Weinstein sentenced to 15 years in prison",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/harvey-weinstein-idoemt-15-aars-faengsel",
-        "published_date": "2026-09-23 16:15:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Problems with calls: Telenor is down",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/112/problemer-med-opkald-telenor-er-nede?rss",
-        "published_date": "2026-09-23 15:29:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Problems with calls: Telenor is down",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/problemer-med-opkald-telenor-er-nede?rss",
-        "published_date": "2026-09-23 15:29:37",
         "category": "Local Events"
     }
 ]
