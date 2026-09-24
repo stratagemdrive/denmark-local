@@ -1,5 +1,19 @@
 [
     {
+        "title": "FBI investigates security breach - intelligence data may have been stolen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fbi-efterforsker-sikkerhedsbrud-efterretningsdata-kan-vaere-stjaalet?referrer=RSS",
+        "published_date": "2026-09-23 22:40:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "US rejects global AI control as warnings ring out at UN summit",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-afviser-global-ai-kontrol-mens-advarslerne-runger-under-fn-topmoede?referrer=RSS",
+        "published_date": "2026-09-23 21:47:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The US delegation leaves the room during the Iranian president's speech",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usas-delegation-forlader-salen-under-irans-praesidents-tale?referrer=RSS",
@@ -126,20 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Analyst calls Trump's premise for an agreement on Greenland false: \"There is no military threat from China and Russia\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/analytiker-kalder-trumps-praemis-for-aftale-om-groenland-falsk-der-er-ingen-militaer-trussel-fra-kina-og-rusland?referrer=RSS",
-        "published_date": "2026-09-20 14:05:28",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Chile's ex-president withdraws from election campaign for top UN post",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/chiles-ekspraesident-traekker-sig-fra-valgkamp-om-fn-toppost?referrer=RSS",
-        "published_date": "2026-09-19 23:15:45",
-        "category": "Diplomacy"
-    },
-    {
         "title": "UK to provide 'defensive military aid' to Saudi Arabia",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/storbritannien-vil-levere-defensiv-militaerhjaelp-til-saudi-arabien",
@@ -207,13 +207,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/polske-lufthavne-suspenderer-flyvninger-paa-grund-af-militaer-operation",
         "published_date": "2026-09-16 05:25:15",
-        "category": "Military"
-    },
-    {
-        "title": "Russia calls passenger trains in Ukraine legitimate targets",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-kalder-passagertog-i-ukraine-legitime-maal",
-        "published_date": "2026-09-15 17:22:14",
         "category": "Military"
     },
     {
@@ -315,6 +308,132 @@
         "category": "Economy"
     },
     {
+        "title": "US and China agree to extend pause in trade dispute",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-og-kina-er-enige-om-at-forlaenge-pause-i-handelskonflikt?referrer=RSS",
+        "published_date": "2026-09-24 00:45:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meta launches glasses without a camera after widespread criticism",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/meta-lancerer-briller-uden-kamera-efter-bred-kritik",
+        "published_date": "2026-09-24 00:42:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meta launches glasses without a camera after widespread criticism",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/meta-lancerer-briller-uden-kamera-efter-bred-kritik?referrer=RSS",
+        "published_date": "2026-09-24 00:35:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuela's acting president promises to hold elections again",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/venezuelas-fungerende-praesident-lover-igen-at-afholde-valg?referrer=RSS",
+        "published_date": "2026-09-24 00:09:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "North Korea tests upgraded rocket launcher system",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/nordkorea-tester-opgraderet-raketkastersystem?referrer=RSS",
+        "published_date": "2026-09-24 00:06:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump shakes hands with Xi at unusual airport reception",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-trykker-haand-med-xi-ved-usaedvanlig-lufthavnsmodtagelse?referrer=RSS",
+        "published_date": "2026-09-23 23:34:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "AI agent gained access to Australian government website",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ai-agent-har-skaffet-sig-adgang-til-australsk-myndighedshjemmeside?referrer=RSS",
+        "published_date": "2026-09-23 22:05:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Golden rain over Vojens: The S\u00f8nderjyders secured the DM title at home",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/speedway/guldregn-over-vojens-soenderjyderne-vandt-dm-i-silende-regnvejr?rss",
+        "published_date": "2026-09-23 21:54:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Golden rain over Vojens: The S\u00f8nderjyders secured the DM title at home",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/speedway/guldregn-over-vojens-soenderjyderne-vandt-dm-i-silende-regnvejr?rss",
+        "published_date": "2026-09-23 21:54:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "National Bank Director urges the government to stop",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/nationalbankdirektoer-opfordrer-regeringen-til-at-holde-igen?referrer=RSS",
+        "published_date": "2026-09-23 21:18:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "AI CEO: Bad handling of AI can threaten humanity",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ai-direktoer-daarlig-haandtering-af-ai-kan-true-menneskeheden",
+        "published_date": "2026-09-23 21:08:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sofie Gr\u00e5b\u00f8l and Sidse Babett Knudsen are showered with praise for roles in \"Dobbletfejl\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/sofie-graaboel-og-sidse-babett-knudsen-vaelter-i-ros-for-roller-i-dobbeltfejl?referrer=RSS",
+        "published_date": "2026-09-23 20:34:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark will give one billion to the global education fund",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danmark-vil-give-en-milliard-til-global-uddannelsesfond",
+        "published_date": "2026-09-23 19:35:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Indian sailor killed in attack on cargo ship in the Strait of Hormuz",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/indisk-soemand-draebt-i-angreb-paa-fragtskib-i-hormuzstraedet",
+        "published_date": "2026-09-23 18:08:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Watch the super final here: Four teams compete for the DM gold",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/speedway/se-superfinalen-her-fire-hold-koerer-om-dm-guldet?rss",
+        "published_date": "2026-09-23 17:40:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Watch the super final here: Four teams compete for the DM gold",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/speedway/se-superfinalen-her-fire-hold-koerer-om-dm-guldet?rss",
+        "published_date": "2026-09-23 17:40:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police warn against sharing videos in a murder case in Esbjerg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-advarer-mod-deling-af-videoer-i-drabssag-i-esbjerg",
+        "published_date": "2026-09-23 16:27:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Harvey Weinstein sentenced to 15 years in prison",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/harvey-weinstein-idoemt-15-aars-faengsel",
+        "published_date": "2026-09-23 16:15:02",
+        "category": "Local Events"
+    },
+    {
         "title": "Problems with calls: Telenor is down",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/112/problemer-med-opkald-telenor-er-nede?rss",
@@ -326,132 +445,6 @@
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/112/problemer-med-opkald-telenor-er-nede?rss",
         "published_date": "2026-09-23 15:29:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "American singer extends tour and gives concert in Denmark",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/amerikansk-sanger-udvider-turne-og-giver-koncert-i-danmark?referrer=RSS",
-        "published_date": "2026-09-23 15:03:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "T\u00f8nder Municipality is investigating the case of Henrik Frandsen's property dealings",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/toender-kommune-undersoeger-sag-om-henrik-frandsens-ejendomshandel?referrer=RSS",
-        "published_date": "2026-09-23 14:44:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Martin \u00d8degaard has respect for the solid Danish national team",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/martin-oedegaard-har-respekt-for-solidt-dansk-landshold?referrer=RSS",
-        "published_date": "2026-09-23 14:41:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "INTERVIEW: 'There is a person behind each Danish citizenship application'",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260923/interview-there-is-a-person-behind-each-danish-citizenship-application",
-        "published_date": "2026-09-23 14:40:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "DBU chairman holds firm despite Infantino's letter: Trust is gone",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dbu-formand-holder-fast-trods-infantino-brev-tillid-er-vaek?referrer=RSS",
-        "published_date": "2026-09-23 14:27:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Business update:\u00a0Novo examines big change on US stock market",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/business-updatenovo-undersoeger-stor-aendring-paa-amerikansk-boers?referrer=RSS",
-        "published_date": "2026-09-23 14:24:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young man stabbed at Br\u00f8ndby\u00f8ster Station",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-stukket-med-kniv-paa-broendbyoester-station",
-        "published_date": "2026-09-23 14:02:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Report of cargo ship on fire in the Strait of Hormuz",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/melding-om-fragtskib-i-brand-i-hormuzstraedet",
-        "published_date": "2026-09-23 13:28:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man dead in apartment fire in Trige",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-doed-i-lejlighedsbrand-i-trige",
-        "published_date": "2026-09-23 11:18:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Serious danger to the patients\": Senior doctor receives harsh criticism and ban after heavy-handed operations",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/odense/alvorlig-fare-for-patienterne-overlaege-faar-haard-kritik-og-forbud-efter-haandhaendede-operationer?rss",
-        "published_date": "2026-09-23 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Banedanmark to railway neighbours: Get control of your trees",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/banedanmark-til-jernbanenaboer-faa-styr-paa-jeres-traeer",
-        "published_date": "2026-09-23 09:38:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "US, Greenland and Denmark sign security deal at UN",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260923/us-greenland-and-denmark-sign-security-deal-at-un",
-        "published_date": "2026-09-23 08:57:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Documents reveal fatal error before Ida's death: - They should have looked after my child",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/dokumenter-afsloerer-fatal-fejl-foer-idas-selvmord-de-skulle-have-passet-paa-mit-barn?rss",
-        "published_date": "2026-09-23 08:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Britain launches new space squadron",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-lancerer-ny-rumeskadrille",
-        "published_date": "2026-09-23 07:54:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Board launches new guidelines for cancer patients with late sequelae",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/styrelse-lancerer-nye-retningslinjer-kraeftpatienter-med-senfoelger",
-        "published_date": "2026-09-23 07:30:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Watch video: Sodding in cemetery revealed a mysterious staircase - enter hidden noble crypt",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/nordfyn/se-video-spadestik-paa-kirkegaard-afsloerede-en-mystisk-trappe-kom-med-ind-i-skjult-adelig-krypt?rss",
-        "published_date": "2026-09-23 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The UK will lead the way in the development of AI standards",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/storbritannien-vil-lede-an-i-udviklingen-af-ai-standarder?referrer=RSS",
-        "published_date": "2026-09-23 00:58:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "UK to lead global AI regulations",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-vil-stille-sig-i-spidsen-globale-ai-regler",
-        "published_date": "2026-09-23 00:46:56",
         "category": "Local Events"
     }
 ]
