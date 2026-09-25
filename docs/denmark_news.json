@@ -1,5 +1,33 @@
 [
     {
+        "title": "Macklemore launches support tour for the Palestinian people",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/macklemore-lancerer-stoetteturne-for-det-palaestinensiske-folk?referrer=RSS",
+        "published_date": "2026-09-25 00:18:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The US government will join Elon Musk in the case against the EU fine for X",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-s-regering-vil-slutte-sig-til-elon-musk-i-sag-mod-eu-boede-til-x",
+        "published_date": "2026-09-25 00:13:09",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The US government will join Musk's case against the EU fine for X",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usas-regering-vil-slutte-sig-til-musks-sag-mod-eu-boede-til-x?referrer=RSS",
+        "published_date": "2026-09-24 23:21:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Hollywood stars detained during demonstrations against Israel",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hollywood-stjerner-tilbageholdt-under-demonstrationer-mod-israel?referrer=RSS",
+        "published_date": "2026-09-24 22:48:48",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Unearthed medieval church sheds light on Greenland's viking past",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260924/unearthed-medieval-church-sheds-light-on-greenlands-viking-past",
@@ -25,6 +53,13 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260924/danish-spy-agency-russian-invasion-of-nato-country-highly-unlikely-but-cannot-be-ruled-out",
         "published_date": "2026-09-24 14:36:15",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Statens Museum for Art must renovate",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/statens-museum-kunst-skal-renovere",
+        "published_date": "2026-09-24 12:10:53",
         "category": "Diplomacy"
     },
     {
@@ -105,39 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Trump believes in agreement with Iran after the midterm elections",
+        "title": "France will send soldiers to important oil route in Saudi Arabia",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-tror-paa-aftale-med-iran-efter-midtvejsvalget?referrer=RSS",
-        "published_date": "2026-09-22 14:57:45",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/frankrig-vil-sende-soldater-til-vigtig-olierute-i-saudi-arabien?referrer=RSS",
+        "published_date": "2026-09-24 23:34:50",
+        "category": "Military"
     },
     {
-        "title": "COMPARE: How expensive are fuel prices around Europe right now?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260922/compare-how-expensive-are-fuel-prices-around-europe-right-now",
-        "published_date": "2026-09-22 14:07:14",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Shares in Denmark's Novo drop 7.7 percent after strategy announcement",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260922/shares-in-denmarks-novo-drop-7-7-percent-after-strategy-announcement",
-        "published_date": "2026-09-22 13:14:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "California goes on emergency alert ahead of severe weather phenomenon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/californien-gaar-i-kriseberedskab-forud-for-voldsomt-vejrfaenomen?referrer=RSS",
-        "published_date": "2026-09-22 00:47:51",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Local celebrity turned top politician.The \"good\" AfD man secures the party victory in yet another German state",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/lokal-beroemthed-blev-toppolitiker-den-flinke-afd-mand-sikrer-partiet-sejr-i-endnu-en-tysk-delstat?referrer=RSS",
-        "published_date": "2026-09-21 20:12:47",
-        "category": "Diplomacy"
+        "title": "France will send soldiers to important oil route in Saudi Arabia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/frankrig-vil-sende-soldater-til-vigtig-olierute-i-saudi-arabien",
+        "published_date": "2026-09-24 22:55:52",
+        "category": "Military"
     },
     {
         "title": "UK to provide 'defensive military aid' to Saudi Arabia",
@@ -189,13 +203,6 @@
         "category": "Military"
     },
     {
-        "title": "Netanyahu will introduce far-reaching laws after film critical of soldiers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/netanyahu-vil-fremsaette-vidtgaaende-love-efter-soldaterkritisk-film?referrer=RSS",
-        "published_date": "2026-09-17 00:19:45",
-        "category": "Military"
-    },
-    {
         "title": "Low electricity prices continue",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/lav-elpris-fortsaetter",
@@ -217,17 +224,17 @@
         "category": "Energy"
     },
     {
-        "title": "Congress in the United States adopts a comprehensive package of sanctions against Russia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kongressen-i-usa-vedtager-omfattende-sanktionspakke-mod-rusland?referrer=RSS",
-        "published_date": "2026-09-17 00:32:44",
-        "category": "Energy"
-    },
-    {
         "title": "The Danish Business Authority removes 1.3 million illegal goods from online platforms",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/erhvervsstyrelsen-fjerner-13-millioner-ulovlige-varer-fra-onlineplatform?referrer=RSS",
         "published_date": "2026-09-24 14:45:54",
+        "category": "Economy"
+    },
+    {
+        "title": "The Tax Agency collects DKK 539 million after company inspections",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skattestyrelsen-indkasserer-539-millioner-kroner-efter-virksomhedskontroller",
+        "published_date": "2026-09-24 09:34:31",
         "category": "Economy"
     },
     {
@@ -280,18 +287,95 @@
         "category": "Economy"
     },
     {
-        "title": "The US central bank raises interest rates for the first time in three years",
+        "title": "Meta shares rise after launch of AI assistant Muse",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usas-centralbank-haever-renten-for-foerste-gang-i-tre-aar?referrer=RSS",
-        "published_date": "2026-09-16 21:35:52",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/business/meta-aktien-stiger-efter-lancering-af-ai-assistenten-muse?referrer=RSS",
+        "published_date": "2026-09-25 00:44:53",
+        "category": "Local Events"
     },
     {
-        "title": "Judges: More video court hearings will degrade trials",
+        "title": "Disappointed national coach finds room for praise: We showed character",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/dommere-flere-videoretsmoeder-vil-forringe-retssager?referrer=RSS",
-        "published_date": "2026-09-16 21:18:46",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/sport/skuffet-landstraener-finder-plads-til-ros-vi-viste-karakter?referrer=RSS",
+        "published_date": "2026-09-25 00:44:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Amnesty wants Trump's controversial immigration agency shut down",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/amnesty-vil-have-trumps-omstridte-immigrationsmyndighed-lukket?referrer=RSS",
+        "published_date": "2026-09-24 23:50:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Macklemore announces 'Free Palestine' tour after breakup with Ed Sheeran",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/macklemore-annoncerer-fri-palaestina-turne-efter-brud-med-ed-sheeran",
+        "published_date": "2026-09-24 22:46:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The metro in Copenhagen breaks the passenger record in a single weekend",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/metroen-i-koebenhavn-slaar-passagerrekord-paa-en-enkelt-weekend?referrer=RSS",
+        "published_date": "2026-09-24 21:52:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "14-year-old on a motorcycle without a helmet ran away from the police in Aarhus",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/14-aarig-paa-motorcykel-uden-hjelm-stak-af-fra-politiet-i-aarhus?referrer=RSS",
+        "published_date": "2026-09-24 21:27:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Captain after defeat: We didn't finish the game",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/anfoerer-efter-nederlag-vi-spillede-ikke-kampen-faerdig?referrer=RSS",
+        "published_date": "2026-09-24 21:24:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "One killed and four injured in a knife attack in a monastery in Poland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/en-draebt-og-fire-saaret-ved-knivangreb-i-kloster-i-polen",
+        "published_date": "2026-09-24 19:13:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "U2 releases new album featuring Dolly Parton's final recording",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/u2-udsender-nyt-album-med-dolly-partons-sidste-optagelse",
+        "published_date": "2026-09-24 18:20:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ida planned her own funeral - in the farewell letter she wrote: \"I want to lie close to grandma\"",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sydjylland/ida-planlagde-sin-egen-begravelse-i-afskedsbrevet-skrev-hun-jeg-vil-gerne-ligge-taet-paa-mormor?rss",
+        "published_date": "2026-09-24 18:04:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Media have now gained access to the White House",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/medier-har-nu-faaet-adgang-til-det-hvide-hus",
+        "published_date": "2026-09-24 16:46:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "34-year-old man remanded in custody after deprivation of liberty and rape",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/34-aarig-mand-varetaegtsfaengslet-efter-frihedsberoevelse-og-voldtaegt",
+        "published_date": "2026-09-24 16:10:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abbas: Israel threatens the lives and existence of the Palestinians",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/abbas-israel-truer-palaestinensernes-liv-og-eksistens",
+        "published_date": "2026-09-24 15:30:55",
+        "category": "Local Events"
     },
     {
         "title": "Extradited Romanian is imprisoned in case of murdered man in Guden\u00e5en",
@@ -305,6 +389,13 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/abbas-israel-truer-palaestinensernes-liv-og-eksistens?referrer=RSS",
         "published_date": "2026-09-24 15:11:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "After stabbing in Br\u00f8ndby: Young man remanded in custody for four weeks",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efter-knivstikkeri-i-broendby-ung-mand-varetaegtsfaengsles-i-fire-uger",
+        "published_date": "2026-09-24 14:56:16",
         "category": "Local Events"
     },
     {
@@ -333,104 +424,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/barcelona-optager-ny-gaeld-for-at-faerdigbygge-camp-nou?referrer=RSS",
         "published_date": "2026-09-24 14:27:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "What changes in Denmark in October 2026?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260924/what-changes-in-denmark-in-october-2026",
-        "published_date": "2026-09-24 11:10:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The metro has had the busiest weekend ever with 1.4 million passengers",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/metroen-har-haft-den-travleste-weekend-nogensinde-med-1-4-millioner-passagerer",
-        "published_date": "2026-09-24 04:54:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "US and China agree to extend pause in trade dispute",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-og-kina-er-enige-om-at-forlaenge-pause-i-handelskonflikt?referrer=RSS",
-        "published_date": "2026-09-24 00:45:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Meta launches glasses without a camera after widespread criticism",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/meta-lancerer-briller-uden-kamera-efter-bred-kritik",
-        "published_date": "2026-09-24 00:42:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Meta launches glasses without a camera after widespread criticism",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/meta-lancerer-briller-uden-kamera-efter-bred-kritik?referrer=RSS",
-        "published_date": "2026-09-24 00:35:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuela's acting president promises to hold elections again",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/venezuelas-fungerende-praesident-lover-igen-at-afholde-valg?referrer=RSS",
-        "published_date": "2026-09-24 00:09:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "North Korea tests upgraded rocket launcher system",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nordkorea-tester-opgraderet-raketkastersystem?referrer=RSS",
-        "published_date": "2026-09-24 00:06:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump shakes hands with Xi at unusual airport reception",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-trykker-haand-med-xi-ved-usaedvanlig-lufthavnsmodtagelse?referrer=RSS",
-        "published_date": "2026-09-23 23:34:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "AI agent gained access to Australian government website",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ai-agent-har-skaffet-sig-adgang-til-australsk-myndighedshjemmeside?referrer=RSS",
-        "published_date": "2026-09-23 22:05:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Golden rain over Vojens: The S\u00f8nderjyders secured the DM title at home",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/speedway/guldregn-over-vojens-soenderjyderne-vandt-dm-i-silende-regnvejr?rss",
-        "published_date": "2026-09-23 21:54:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Golden rain over Vojens: The S\u00f8nderjyders secured the DM title at home",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/speedway/guldregn-over-vojens-soenderjyderne-vandt-dm-i-silende-regnvejr?rss",
-        "published_date": "2026-09-23 21:54:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "National Bank Director urges the government to stop",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/nationalbankdirektoer-opfordrer-regeringen-til-at-holde-igen?referrer=RSS",
-        "published_date": "2026-09-23 21:18:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "AI CEO: Bad handling of AI can threaten humanity",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ai-direktoer-daarlig-haandtering-af-ai-kan-true-menneskeheden",
-        "published_date": "2026-09-23 21:08:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sofie Gr\u00e5b\u00f8l and Sidse Babett Knudsen are showered with praise for roles in \"Dobbletfejl\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/sofie-graaboel-og-sidse-babett-knudsen-vaelter-i-ros-for-roller-i-dobbeltfejl?referrer=RSS",
-        "published_date": "2026-09-23 20:34:51",
         "category": "Local Events"
     }
 ]
