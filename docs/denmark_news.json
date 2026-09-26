@@ -1,5 +1,12 @@
 [
     {
+        "title": "Breakthroughs for the radical and far-right in Europe",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260926/breakthroughs-for-the-radical-and-far-right-in-europe",
+        "published_date": "2026-09-26 15:11:29",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Iran: We have offered the US a plan to reopen the Strait of Hormuz",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/iran-vi-har-tilbudt-usa-en-plan-for-genaabning-af-hormuzstraedet?referrer=RSS",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Government parties lash out after Messerschmidt's \"foreign policy misfire\": He was wrong",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/regeringspartier-langer-ud-efter-messerschmidtsudenrigspolitiske-fejlskud-han-tog-fejl?referrer=RSS",
-        "published_date": "2026-09-23 14:35:25",
-        "category": "Diplomacy"
-    },
-    {
         "title": "France will send soldiers to important oil route in Saudi Arabia",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/frankrig-vil-sende-soldater-til-vigtig-olierute-i-saudi-arabien?referrer=RSS",
@@ -201,6 +201,13 @@
         "url": "https://www.dr.dk/nyheder/seneste/60-dages-faengsel-efterlade-saed-i-kollegas-undertoej",
         "published_date": "2026-09-18 15:28:49",
         "category": "Energy"
+    },
+    {
+        "title": "Messerschmidt has a vision for 2035 and will focus on families",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/messerschmidt-har-en-vision-for-2035-og-vil-fokusere-paa-familier?referrer=RSS",
+        "published_date": "2026-09-26 14:46:47",
+        "category": "Economy"
     },
     {
         "title": "Media: English clubs investigate possible compensation in City case",
@@ -273,11 +280,123 @@
         "category": "Economy"
     },
     {
-        "title": "Should we fear killer robots?Renowned tech analyst sees other motives behind dire warnings",
+        "title": "The away team delivered the goods: N\u00e6sby BK traveled home from Ringsted IF with a victory in the bag",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sport/udeholdet-leverede-varen-naesby-bk-rejste-hjem-fra-ringsted-if-med-en-sejr-i-bagagen?rss",
+        "published_date": "2026-09-26 16:22:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "The City chairman is convinced that the club's innocence will be proven",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/aktier/skal-vi-frygte-draeberrobotter-anerkendt-techanalytiker-ser-andre-motiver-bag-voldsomme-advarsler?referrer=RSS",
-        "published_date": "2026-09-18 13:42:54",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/sport/city-formand-er-overbevist-om-at-klubbens-uskyld-vil-blive-bevist?referrer=RSS",
+        "published_date": "2026-09-26 14:36:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dead person found in K\u00f8ge \u00c5 was a wanted man",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/doed-person-fundet-i-koege-aa-var-efterlyst-mand?referrer=RSS",
+        "published_date": "2026-09-26 14:36:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "175 kilometers from Slotsholmen, 16 civil servants and a minister moved in.Gimmick or good day for Nakskov?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/175-kilometer-fra-slotsholmen-flyttede-16-embedsmaend-og-en-minister-ind-gimmick-eller-god-dag-for-nakskov?referrer=RSS",
+        "published_date": "2026-09-26 14:17:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Steeled national coach demands victory over Wales in the Park",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/staalsat-landstraener-kraever-sejr-over-wales-i-parken?referrer=RSS",
+        "published_date": "2026-09-26 14:14:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "The statistics are with Denmark",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/statistikken-er-med-danmark?referrer=RSS",
+        "published_date": "2026-09-26 14:14:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump has rejected Iran's seven-day plan proposal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-har-afvist-iransk-forslag-om-syvdagesplan?referrer=RSS",
+        "published_date": "2026-09-26 14:02:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The family has created huge success with the farm shop: customers come from far away in full buses",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/erhverv/familie-har-skabt-succes-med-gaardbutik-paa-kunder-kommer-langvejsfra-i-fyldte-busser?rss",
+        "published_date": "2026-09-26 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Germany nominates Munich as the host bid for the Summer Olympics",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tyskland-udpeger-muenchen-som-vaertsbud-til-sommer-ol?referrer=RSS",
+        "published_date": "2026-09-26 13:53:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "11 killed in explosion in Pakistan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/11-draebt-i-eksplosion-i-pakistan",
+        "published_date": "2026-09-26 13:51:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news from Danish politics - Danish People's Party holds annual meeting",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/seneste-nyt-fra-dansk-politik--dansk-folkeparti-holder-aarsmoede?referrer=RSS",
+        "published_date": "2026-09-26 13:48:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "The war in the Middle East continues - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krigen-i-mellemoesten-fortsaetter--foelg-med-her-109?referrer=RSS",
+        "published_date": "2026-09-26 13:40:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Citizen protests save popular venue from austerity",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/borgerprotester-redder-populaert-vaerested-fra-sparekniv",
+        "published_date": "2026-09-26 11:18:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police are investigating possible arson at the launch plane",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politi-undersoeger-mulig-ildspaasaettelse-ved-udspringsfly",
+        "published_date": "2026-09-26 08:48:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the Agenda: What's happening in Denmark next week?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260926/on-the-agenda-whats-happening-in-denmark-this-week-10",
+        "published_date": "2026-09-26 08:11:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Liberal mayoral candidate quits politics",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/venstre-borgmesterkandidat-i-november-stopper-i-politik",
+        "published_date": "2026-09-26 04:56:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man in his 20s hit and pulled under train",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-i-20-erne-paakoert-og-trukket-ind-under-tog",
+        "published_date": "2026-09-26 04:38:51",
+        "category": "Local Events"
     },
     {
         "title": "TikTok settles with Alabama in child addiction case",
@@ -287,136 +406,17 @@
         "category": "Local Events"
     },
     {
+        "title": "TikTok settles with the state of Alabama",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tiktok-indgaar-forlig-med-delstaten-alabama",
+        "published_date": "2026-09-26 00:52:32",
+        "category": "Local Events"
+    },
+    {
         "title": "Brazil's president bans online sports betting ahead of election",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/brasiliens-praesident-forbyder-online-sportsbetting-forud-for-valg?referrer=RSS",
         "published_date": "2026-09-25 23:52:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man wanted to cross tracks and ended up under train in M\u00f8rk\u00f8v",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-ville-krydse-skinner-og-havnede-under-tog-i-moerkoev?referrer=RSS",
-        "published_date": "2026-09-25 23:03:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swede charged with murder in case of missing Norwegian billionaire's wife",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/svensker-sigtet-for-drab-i-sag-om-forsvundet-norsk-milliardaerfrue?referrer=RSS",
-        "published_date": "2026-09-25 22:26:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "A young man is injured in a solo motorcycle accident on Funen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/yngre-mand-kommer-til-skade-i-solouheld-paa-motorcykel-paa-fyn?referrer=RSS",
-        "published_date": "2026-09-25 21:28:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three Berlingske journalists put Aula in the grave in podcast: In the middle of the discussion, the messages start to tick in",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/tre-berlingske-journalister-laegger-aula-i-graven-i-podcast-midt-i-diskussionen-begynder-beskederne-at-tikke-ind?referrer=RSS",
-        "published_date": "2026-09-25 21:23:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mbapp\u00e9 scores and goes off in Zidane's debut",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mbappe-scorer-og-udgaar-i-zidanes-debut?referrer=RSS",
-        "published_date": "2026-09-25 21:01:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The main board nominates a former V councilor as the new DGI chairman",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/hovedbestyrelse-indstiller-tidligere-v-raadmand-som-ny-dgi-formand?referrer=RSS",
-        "published_date": "2026-09-25 20:26:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Seven people have been killed by bears in Siberia in the past month",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/syv-personer-er-blevet-draebt-af-bjoerne-i-sibirien-den-seneste-maaned",
-        "published_date": "2026-09-25 19:31:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Ebola outbreak in DR Congo has spread to two new health zones",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ebolaudbruddet-i-dr-congo-har-spredt-sig-til-nye-sundhedszoner",
-        "published_date": "2026-09-25 18:24:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "40 missing after shipwreck in DR Congo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/40-savnes-efter-forlis-i-dr-congo",
-        "published_date": "2026-09-25 17:57:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "The farmer Martin \"wounds in the blind\": - The voters of the big city dictate how we should do in the countryside",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/landmanden-martin-saar-i-blinde-storbyens-vaelgere-dikterer-hvordan-vi-skal-goere-paa-landet?rss",
-        "published_date": "2026-09-25 17:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister will regulate the wolf in Denmark after a new count",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/minister-vil-regulere-ulven-i-danmark-efter-ny-optaelling?referrer=RSS",
-        "published_date": "2026-09-25 15:36:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ancelotti is half-satisfied after the 1-1 draw in Australia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ancelotti-er-mellemfornoejet-efter-1-1-kamp-i-australien?referrer=RSS",
-        "published_date": "2026-09-25 15:32:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Yesteryear\" is the year's most hyped book and a much-needed kick in the solar plexus to today's shrill influencer culture",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/litteratur/yesteryear-er-aarets-mest-hypede-bog-og-et-tiltraengt-spark-i-solar-plexus-paa-tidens-skingre-influencer-kultur?referrer=RSS",
-        "published_date": "2026-09-25 15:23:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish word of the day: spurgt",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260925/danish-word-of-the-day-spurgt",
-        "published_date": "2026-09-25 15:22:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "76-year-old driver is in critical condition after accident in Aalborg",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/76-aarig-bilist-er-i-kritisk-tilstand-efter-ulykke-i-aalborg?referrer=RSS",
-        "published_date": "2026-09-25 15:21:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "H\u00f8jbjerg regrets his criticism of partnership in midfield",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/hoejbjerg-beklager-sin-kritik-af-makkerskab-paa-midtbanen?referrer=RSS",
-        "published_date": "2026-09-25 15:17:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Novo Nordisk receives criticism and a fine for cooperation with Falck",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/novo-nordisk-faar-kritik-og-boede-for-samarbejde-med-falck?referrer=RSS",
-        "published_date": "2026-09-25 15:13:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train traffic is affected by police action near Copenhagen South",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/togtrafik-paavirkes-af-politi-aktion-ved-koebenhavn-syd?referrer=RSS",
-        "published_date": "2026-09-25 14:53:48",
         "category": "Local Events"
     }
 ]
