@@ -1,5 +1,26 @@
 [
     {
+        "title": "Iran: We have offered the US a plan to reopen the Strait of Hormuz",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-vi-har-tilbudt-usa-en-plan-for-genaabning-af-hormuzstraedet?referrer=RSS",
+        "published_date": "2026-09-25 23:03:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Iran in seven days plan: Strait of Hormuz can reopen if US accepts demands",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-om-syv-dages-plan-hormuzstraedet-kan-genaabne-hvis-usa-accepterer-krav",
+        "published_date": "2026-09-25 21:58:18",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Putin: We are not preparing for conflict with Europe",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/putin-vi-forbereder-ikke-konflikt-med-europa",
+        "published_date": "2026-09-25 19:37:15",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Sall Grover has fought for five years to keep her women's app free of legally transgender men.Now she gives lost",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kommentatorer/sall-grover-har-kaempet-i-fem-aar-for-at-holde-sin-kvinde-app-fri-for-maend-med-juridisk-koensskifte-nu-giver-hun-fortabt?referrer=RSS",
@@ -119,27 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "European election observers not invited to the US midterm elections",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/europaeiske-valgobservatoerer-ikke-inviteret-til-midtvejsvalget-i-usa",
-        "published_date": "2026-09-23 14:34:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260923/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-72",
-        "published_date": "2026-09-23 08:33:38",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Agreement on Greenland arouses joy among Nordic neighbours",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/aftale-om-groenland-vaekker-glaede-hos-nordiske-naboer?referrer=RSS",
-        "published_date": "2026-09-23 00:26:49",
-        "category": "Diplomacy"
-    },
-    {
         "title": "France will send soldiers to important oil route in Saudi Arabia",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/frankrig-vil-sende-soldater-til-vigtig-olierute-i-saudi-arabien?referrer=RSS",
@@ -175,20 +175,6 @@
         "category": "Military"
     },
     {
-        "title": "37 miners die in the custody of the authorities in Nigeria",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/37-minearbejdere-doer-i-myndighedernes-varetaegt-i-nigeria?referrer=RSS",
-        "published_date": "2026-09-18 00:51:45",
-        "category": "Military"
-    },
-    {
-        "title": "Trump announces progress in establishing military base in Poland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-melder-om-fremskridt-i-etablering-af-militaerbase-i-polen",
-        "published_date": "2026-09-17 17:41:12",
-        "category": "Military"
-    },
-    {
         "title": "Gastronomy The editor recommends: I myself eat street food here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/gastronomi/gastronomiredaktoeren-anbefaler-her-spiser-jeg-selv-street-food?referrer=RSS",
@@ -215,6 +201,13 @@
         "url": "https://www.dr.dk/nyheder/seneste/60-dages-faengsel-efterlade-saed-i-kollegas-undertoej",
         "published_date": "2026-09-18 15:28:49",
         "category": "Energy"
+    },
+    {
+        "title": "Media: English clubs investigate possible compensation in City case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/medier-engelske-klubber-undersoeger-mulig-kompensation-i-city-sag?referrer=RSS",
+        "published_date": "2026-09-26 00:56:46",
+        "category": "Economy"
     },
     {
         "title": "Creates crisis contact between authorities and business",
@@ -287,6 +280,83 @@
         "category": "Economy"
     },
     {
+        "title": "TikTok settles with Alabama in child addiction case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/tiktok-indgaar-forlig-med-alabama-i-sag-om-boerns-afhaengighed?referrer=RSS",
+        "published_date": "2026-09-26 00:52:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil's president bans online sports betting ahead of election",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/brasiliens-praesident-forbyder-online-sportsbetting-forud-for-valg?referrer=RSS",
+        "published_date": "2026-09-25 23:52:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man wanted to cross tracks and ended up under train in M\u00f8rk\u00f8v",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-ville-krydse-skinner-og-havnede-under-tog-i-moerkoev?referrer=RSS",
+        "published_date": "2026-09-25 23:03:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swede charged with murder in case of missing Norwegian billionaire's wife",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/svensker-sigtet-for-drab-i-sag-om-forsvundet-norsk-milliardaerfrue?referrer=RSS",
+        "published_date": "2026-09-25 22:26:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "A young man is injured in a solo motorcycle accident on Funen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/yngre-mand-kommer-til-skade-i-solouheld-paa-motorcykel-paa-fyn?referrer=RSS",
+        "published_date": "2026-09-25 21:28:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three Berlingske journalists put Aula in the grave in podcast: In the middle of the discussion, the messages start to tick in",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tre-berlingske-journalister-laegger-aula-i-graven-i-podcast-midt-i-diskussionen-begynder-beskederne-at-tikke-ind?referrer=RSS",
+        "published_date": "2026-09-25 21:23:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mbapp\u00e9 scores and goes off in Zidane's debut",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/mbappe-scorer-og-udgaar-i-zidanes-debut?referrer=RSS",
+        "published_date": "2026-09-25 21:01:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The main board nominates a former V councilor as the new DGI chairman",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/hovedbestyrelse-indstiller-tidligere-v-raadmand-som-ny-dgi-formand?referrer=RSS",
+        "published_date": "2026-09-25 20:26:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seven people have been killed by bears in Siberia in the past month",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/syv-personer-er-blevet-draebt-af-bjoerne-i-sibirien-den-seneste-maaned",
+        "published_date": "2026-09-25 19:31:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Ebola outbreak in DR Congo has spread to two new health zones",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ebolaudbruddet-i-dr-congo-har-spredt-sig-til-nye-sundhedszoner",
+        "published_date": "2026-09-25 18:24:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "40 missing after shipwreck in DR Congo",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/40-savnes-efter-forlis-i-dr-congo",
+        "published_date": "2026-09-25 17:57:18",
+        "category": "Local Events"
+    },
+    {
         "title": "The farmer Martin \"wounds in the blind\": - The voters of the big city dictate how we should do in the countryside",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/erhverv/landmanden-martin-saar-i-blinde-storbyens-vaelgere-dikterer-hvordan-vi-skal-goere-paa-landet?rss",
@@ -347,83 +417,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/togtrafik-paavirkes-af-politi-aktion-ved-koebenhavn-syd?referrer=RSS",
         "published_date": "2026-09-25 14:53:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expert: \"Screaming stupid\" by Pierre-Emile H\u00f8jbjerg",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/ekspert-himmelraabende-dumt-af-pierre-emile-hoejbjerg?referrer=RSS",
-        "published_date": "2026-09-25 14:48:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "59-year-old Swedish man charged in eight-year-old case about billionaire's wife",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/59-aarig-svensk-mand-sigtet-i-otte-aar-gammel-sag-om-milliardaerhustru",
-        "published_date": "2026-09-25 14:42:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police are looking for a man on a scooter after a shooting in Aarhus V",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-mand-paa-loebehjul-efter-skyderi-i-aarhus-v",
-        "published_date": "2026-09-25 14:04:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Charging cable thefts have cost six to seven million kroner in damages this year",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ladekabel-tyverier-har-kostet-seks-til-syv-millioner-kroner-i-skader-i-aar",
-        "published_date": "2026-09-25 13:25:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Debt Agency is happy about the self-service solution, which has reached DKK 1.2 billion in payments",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/gaeldsstyrelsen-jubler-over-selvbetjeningsloesning-der-har-rundet-1-2-milliarder-kroner-i",
-        "published_date": "2026-09-25 13:00:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "12-year-old on electric scooter injured in traffic accident",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/12-aarig-paa-elloebehjul-kvaestet-i-faerdselsulykke",
-        "published_date": "2026-09-25 12:24:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Live music: The big international artists you can see in Denmark in 2027",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260925/live-music-the-big-international-artists-you-can-see-in-denmark-in-2027",
-        "published_date": "2026-09-25 12:03:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five missing after explosion in Athens",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fem-savnes-efter-eksplosion-i-athen",
-        "published_date": "2026-09-25 11:38:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "122 Greenlandic women have received compensation in the spiral case",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/122-groenlandske-kvinder-har-faaet-erstatning-i-spiralsagen",
-        "published_date": "2026-09-25 09:04:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Friday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260925/today-in-denmark-a-roundup-of-the-latest-news-on-friday-63",
-        "published_date": "2026-09-25 08:49:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Amager beats Hellerup and Frederiksberg in expensive housing deals",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/amager-slaar-hellerup-og-frederiksberg-i-dyre-bolighandler",
-        "published_date": "2026-09-25 07:47:29",
         "category": "Local Events"
     }
 ]
