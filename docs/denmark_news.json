@@ -1,5 +1,12 @@
 [
     {
+        "title": "The EU is sending billions of dollars to crisis-hit populations in Africa",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/eu-sender-milliardbeloeb-til-kriseramte-befolkninger-i-afrika?referrer=RSS",
+        "published_date": "2026-09-26 20:59:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Breakthroughs for the radical and far-right in Europe",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260926/breakthroughs-for-the-radical-and-far-right-in-europe",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Russian ambassador calls new Greenland agreement \"confrontational\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/russisk-ambassadoer-kalder-ny-groenland-aftale-for-konfrontatorisk?referrer=RSS",
-        "published_date": "2026-09-23 14:53:47",
-        "category": "Diplomacy"
-    },
-    {
         "title": "France will send soldiers to important oil route in Saudi Arabia",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/frankrig-vil-sende-soldater-til-vigtig-olierute-i-saudi-arabien?referrer=RSS",
@@ -186,20 +186,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/lav-elpris-fortsaetter",
         "published_date": "2026-09-20 10:31:41",
-        "category": "Energy"
-    },
-    {
-        "title": "The US imposes extensive sanctions against Russia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-indfoerer-omfattende-sanktioner-mod-rusland-1?referrer=RSS",
-        "published_date": "2026-09-18 23:42:45",
-        "category": "Energy"
-    },
-    {
-        "title": "60 days in prison for leaving semen in colleague's underwear",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/60-dages-faengsel-efterlade-saed-i-kollegas-undertoej",
-        "published_date": "2026-09-18 15:28:49",
         "category": "Energy"
     },
     {
@@ -280,6 +266,76 @@
         "category": "Economy"
     },
     {
+        "title": "Mbapp\u00e9 is diagnosed with an overstretched left knee",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/mbappe-faar-diagnosticeret-en-overstraekning-af-venstre-knae?referrer=RSS",
+        "published_date": "2026-09-27 00:57:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Powerful storm sends US states on emergency alert",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kraftig-storm-sender-amerikanske-stater-i-kriseberedskab?referrer=RSS",
+        "published_date": "2026-09-27 00:51:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forced eviction of 87-year-old tenant leads to demonstration in Madrid",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tvangsfjernelse-af-87-aarig-lejer-foerer-til-demonstration-i-madrid?referrer=RSS",
+        "published_date": "2026-09-27 00:13:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump repeats promise of $5,000 to all Americans",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-gentager-loefte-om-5000-dollar-til-alle-amerikanere?referrer=RSS",
+        "published_date": "2026-09-26 23:57:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran is still waiting for an answer to the Straits of Hormuz Plan despite Trump's no",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-afventer-fortsat-svar-paa-hormuzstraedeplan-trods-trumps-nej?referrer=RSS",
+        "published_date": "2026-09-26 22:25:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spanish world champions sink England in goal-rich bang",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/spanske-verdensmestre-saenker-england-i-maalrigt-brag?referrer=RSS",
+        "published_date": "2026-09-26 20:49:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brite drives himself to a superb WC triumph in speedway",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/brite-koerer-sig-til-suveraen-vm-triumf-i-speedway?referrer=RSS",
+        "published_date": "2026-09-26 19:55:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Donald Trump has achieved exactly what he wanted - everyone who has read \"The Art of the Deal\" knows that",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/donald-trump-har-opnaaet-noejagtigt-hvad-han-ville--det-ved-alle-der-har-laest-the-art-of-the-deal?referrer=RSS",
+        "published_date": "2026-09-26 19:21:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Murder, human trafficking and prostitution.Seven years after her death, she is still the main character in conspiracy theories",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mord-menneskehandel-og-prostitution-syv-aar-efter-sin-doed-er-hun-stadig-hovedperson-i-konspirationsteorier?referrer=RSS",
+        "published_date": "2026-09-26 19:06:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Charger for electric car caught fire - house roof burned down",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lader-til-elbil-broed-i-brand-villatag-braendte-ned",
+        "published_date": "2026-09-26 17:36:09",
+        "category": "Local Events"
+    },
+    {
         "title": "The away team delivered the goods: N\u00e6sby BK traveled home from Ringsted IF with a victory in the bag",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/sport/udeholdet-leverede-varen-naesby-bk-rejste-hjem-fra-ringsted-if-med-en-sejr-i-bagagen?rss",
@@ -347,76 +403,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/11-draebt-i-eksplosion-i-pakistan",
         "published_date": "2026-09-26 13:51:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news from Danish politics - Danish People's Party holds annual meeting",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/seneste-nyt-fra-dansk-politik--dansk-folkeparti-holder-aarsmoede?referrer=RSS",
-        "published_date": "2026-09-26 13:48:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The war in the Middle East continues - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/krigen-i-mellemoesten-fortsaetter--foelg-med-her-109?referrer=RSS",
-        "published_date": "2026-09-26 13:40:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Citizen protests save popular venue from austerity",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/borgerprotester-redder-populaert-vaerested-fra-sparekniv",
-        "published_date": "2026-09-26 11:18:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police are investigating possible arson at the launch plane",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politi-undersoeger-mulig-ildspaasaettelse-ved-udspringsfly",
-        "published_date": "2026-09-26 08:48:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What's happening in Denmark next week?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260926/on-the-agenda-whats-happening-in-denmark-this-week-10",
-        "published_date": "2026-09-26 08:11:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Liberal mayoral candidate quits politics",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/venstre-borgmesterkandidat-i-november-stopper-i-politik",
-        "published_date": "2026-09-26 04:56:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man in his 20s hit and pulled under train",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-i-20-erne-paakoert-og-trukket-ind-under-tog",
-        "published_date": "2026-09-26 04:38:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "TikTok settles with Alabama in child addiction case",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/tiktok-indgaar-forlig-med-alabama-i-sag-om-boerns-afhaengighed?referrer=RSS",
-        "published_date": "2026-09-26 00:52:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "TikTok settles with the state of Alabama",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tiktok-indgaar-forlig-med-delstaten-alabama",
-        "published_date": "2026-09-26 00:52:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazil's president bans online sports betting ahead of election",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/brasiliens-praesident-forbyder-online-sportsbetting-forud-for-valg?referrer=RSS",
-        "published_date": "2026-09-25 23:52:48",
         "category": "Local Events"
     }
 ]
