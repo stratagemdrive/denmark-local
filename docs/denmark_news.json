@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "British police arrest five near military base used by US",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/britisk-politi-anholder-fem-naer-militaerbase-brugt-af-usa?referrer=RSS",
+        "published_date": "2026-09-27 15:21:46",
+        "category": "Military"
+    },
+    {
         "title": "France will send soldiers to important oil route in Saudi Arabia",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/frankrig-vil-sende-soldater-til-vigtig-olierute-i-saudi-arabien?referrer=RSS",
@@ -187,6 +194,13 @@
         "url": "https://www.dr.dk/nyheder/seneste/lav-elpris-fortsaetter",
         "published_date": "2026-09-20 10:31:41",
         "category": "Energy"
+    },
+    {
+        "title": "He claimed that Maersk's death cost Gentofte millions - now the LA comet is suddenly pulling ashore",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/han-haevdede-at-maersks-doed-kostede-gentofte-millioner--nu-traekker-la-komet-pludselig-i-land?referrer=RSS",
+        "published_date": "2026-09-27 14:25:29",
+        "category": "Economy"
     },
     {
         "title": "Messerschmidt has a vision for 2035 and will focus on families",
@@ -259,11 +273,116 @@
         "category": "Economy"
     },
     {
-        "title": "Optimism and pessimism collide in Trump's economy",
+        "title": "A goal-scoring affair ended without a winner: N\u00e6stved and Middelfart had to share",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sport/maalrig-affaere-endte-uden-vinder-naestved-og-middelfart-maatte-dele?rss",
+        "published_date": "2026-09-27 16:22:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Huge photo gallery from the HCA Marathon: Wild in the heat",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/odense/kaempe-fotogalleri-fra-hca-marathon-vilde-i-varmen?rss",
+        "published_date": "2026-09-27 16:12:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump on arrest near US base: 'They sought to do great damage'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-om-anholdelse-naer-amerikansk-base-de-soegte-goere-stor-skade",
+        "published_date": "2026-09-27 15:20:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Herning's ice masters stop Frederikshavn's rise with a slap",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/optimisme-og-pessimisme-toerner-sammen-i-trumps-oekonomi?referrer=RSS",
-        "published_date": "2026-09-19 14:00:13",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/sport/hernings-ismestre-stopper-frederikshavns-optur-med-lussing?referrer=RSS",
+        "published_date": "2026-09-27 15:14:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Suddenly three vans aroused suspicion in village - possible terrorist attack averted\u00a0at base with US bombers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/pludselig-vakte-tre-varevogne-mistanke-i-landsby--muligt-terrorangreb-afvaergetved-base-med-amerikanske-bombefly?referrer=RSS",
+        "published_date": "2026-09-27 15:12:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Missing girls from Br\u00f8nderslev found safe and sound",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/forsvundne-piger-fra-broenderslev-fundet-i-god-behold?referrer=RSS",
+        "published_date": "2026-09-27 15:05:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Can the national team stand up in the Park?Follow Denmark-Wales here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kan-landsholdet-rejse-sig-i-parken-foelg-danmark-wales-her?referrer=RSS",
+        "published_date": "2026-09-27 15:05:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "H\u00f8jbjerg and Hjulmand start against Wales",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/hoejbjerg-og-hjulmand-starter-mod-wales?referrer=RSS",
+        "published_date": "2026-09-27 15:01:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ten climbers missing after avalanche hits over 7,000 meter high mountain in Nepal",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ti-bjergbestigere-savnet-efter-lavine-rammer-over-7-000-meter-hoejt-bjerg-i-nepal",
+        "published_date": "2026-09-27 14:59:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "20-year-old Linnea from Copenhagen is the third best young waiter in the world",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/20-aarige-linnea-fra-koebenhavn-er-tredjebedste-unge-tjener-i-verden?referrer=RSS",
+        "published_date": "2026-09-27 14:58:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "19-year-old pleads not guilty to murder of 59-year-old acquaintance in Havdrup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/19-aarig-naegter-sig-skyldig-i-drab-paa-59-aarig-bekendt-i-havdrup?referrer=RSS",
+        "published_date": "2026-09-27 14:42:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark was 20 seconds from an EC medal in orienteering",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danmark-var-20-sekunder-fra-em-medalje-i-orienteringsloeb",
+        "published_date": "2026-09-27 14:31:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Social media is an obvious explanation for the fact that bullying is on the rise, says a teacher of 20 years.But there is also another more 'unpopular' point",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/sociale-medier-er-en-oplagt-forklaring-paa-at-mobning-er-i-vaekst-siger-laerer-gennem-20-aar-men-der-er-ogsaa-en-anden-mere-upopulaer-pointe?referrer=RSS",
+        "published_date": "2026-09-27 14:25:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "56-year-old remanded in absentia in a case of serious violence",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/56-aarig-varetaegtsfaengslet-absentia-i-sag-om-grov-vold",
+        "published_date": "2026-09-27 10:37:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Management in bankrupt company risks lawsuit and police report: Left huge mess shop",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/erhverv/ledelse-i-konkursramt-firma-risikerer-retssag-og-politianmeldelse-efterlod-kaempe-rodebutik?rss",
+        "published_date": "2026-09-27 05:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two girls who disappeared in Br\u00f8nderslev have been found safe and sound",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/piger-er-fortsat-forsvundet-fra-deres-hjem-i-broenderslev",
+        "published_date": "2026-09-27 03:30:33",
+        "category": "Local Events"
     },
     {
         "title": "Mbapp\u00e9 is diagnosed with an overstretched left knee",
@@ -291,118 +410,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-gentager-loefte-om-5000-dollar-til-alle-amerikanere?referrer=RSS",
         "published_date": "2026-09-26 23:57:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran is still waiting for an answer to the Straits of Hormuz Plan despite Trump's no",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iran-afventer-fortsat-svar-paa-hormuzstraedeplan-trods-trumps-nej?referrer=RSS",
-        "published_date": "2026-09-26 22:25:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spanish world champions sink England in goal-rich bang",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/spanske-verdensmestre-saenker-england-i-maalrigt-brag?referrer=RSS",
-        "published_date": "2026-09-26 20:49:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brite drives himself to a superb WC triumph in speedway",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/brite-koerer-sig-til-suveraen-vm-triumf-i-speedway?referrer=RSS",
-        "published_date": "2026-09-26 19:55:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Donald Trump has achieved exactly what he wanted - everyone who has read \"The Art of the Deal\" knows that",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/donald-trump-har-opnaaet-noejagtigt-hvad-han-ville--det-ved-alle-der-har-laest-the-art-of-the-deal?referrer=RSS",
-        "published_date": "2026-09-26 19:21:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Murder, human trafficking and prostitution.Seven years after her death, she is still the main character in conspiracy theories",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mord-menneskehandel-og-prostitution-syv-aar-efter-sin-doed-er-hun-stadig-hovedperson-i-konspirationsteorier?referrer=RSS",
-        "published_date": "2026-09-26 19:06:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Charger for electric car caught fire - house roof burned down",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lader-til-elbil-broed-i-brand-villatag-braendte-ned",
-        "published_date": "2026-09-26 17:36:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "The away team delivered the goods: N\u00e6sby BK traveled home from Ringsted IF with a victory in the bag",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/udeholdet-leverede-varen-naesby-bk-rejste-hjem-fra-ringsted-if-med-en-sejr-i-bagagen?rss",
-        "published_date": "2026-09-26 16:22:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "The City chairman is convinced that the club's innocence will be proven",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/city-formand-er-overbevist-om-at-klubbens-uskyld-vil-blive-bevist?referrer=RSS",
-        "published_date": "2026-09-26 14:36:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dead person found in K\u00f8ge \u00c5 was a wanted man",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/doed-person-fundet-i-koege-aa-var-efterlyst-mand?referrer=RSS",
-        "published_date": "2026-09-26 14:36:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "175 kilometers from Slotsholmen, 16 civil servants and a minister moved in.Gimmick or good day for Nakskov?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/175-kilometer-fra-slotsholmen-flyttede-16-embedsmaend-og-en-minister-ind-gimmick-eller-god-dag-for-nakskov?referrer=RSS",
-        "published_date": "2026-09-26 14:17:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Steeled national coach demands victory over Wales in the Park",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/staalsat-landstraener-kraever-sejr-over-wales-i-parken?referrer=RSS",
-        "published_date": "2026-09-26 14:14:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "The statistics are with Denmark",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/statistikken-er-med-danmark?referrer=RSS",
-        "published_date": "2026-09-26 14:14:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump has rejected Iran's seven-day plan proposal",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-har-afvist-iransk-forslag-om-syvdagesplan?referrer=RSS",
-        "published_date": "2026-09-26 14:02:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The family has created huge success with the farm shop: customers come from far away in full buses",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/familie-har-skabt-succes-med-gaardbutik-paa-kunder-kommer-langvejsfra-i-fyldte-busser?rss",
-        "published_date": "2026-09-26 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Germany nominates Munich as the host bid for the Summer Olympics",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tyskland-udpeger-muenchen-som-vaertsbud-til-sommer-ol?referrer=RSS",
-        "published_date": "2026-09-26 13:53:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "11 killed in explosion in Pakistan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/11-draebt-i-eksplosion-i-pakistan",
-        "published_date": "2026-09-26 13:51:42",
         "category": "Local Events"
     }
 ]
