@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bubbles, snacks and the pop star sang - the \"investment show\" filled the concert hall",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/eksistens/bobler-snacks-og-popstjernesang--investeringsshow-fyldte-koncertsalen?referrer=RSS",
+        "published_date": "2026-09-28 17:39:21",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Magnus Heunicke has an AI plan.If you ask the young people themselves, they only want some of it",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/magnus-heunicke-har-en-ai-plan-spoerger-man-de-unge-selv-vil-de-kun-have-noget-af-den?referrer=RSS",
+        "published_date": "2026-09-28 16:30:39",
+        "category": "Diplomacy"
+    },
+    {
         "title": "South Korea demands apology from Ukraine over POW case",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/sydkorea-kraever-undskyldning-fra-ukraine-i-sag-om-krigsfanger?referrer=RSS",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "FBI investigates security breach - intelligence data may have been stolen",
+        "title": "Several have been killed in Russian attacks in Ukraine",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fbi-efterforsker-sikkerhedsbrud-efterretningsdata-kan-vaere-stjaalet?referrer=RSS",
-        "published_date": "2026-09-23 22:40:50",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/flere-er-draebt-i-russiske-angreb-i-ukraine?referrer=RSS",
+        "published_date": "2026-09-28 15:57:48",
+        "category": "Military"
     },
     {
-        "title": "US rejects global AI control as warnings ring out at UN summit",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-afviser-global-ai-kontrol-mens-advarslerne-runger-under-fn-topmoede?referrer=RSS",
-        "published_date": "2026-09-23 21:47:00",
-        "category": "Diplomacy"
+        "title": "Iran denies involvement in terror plans against British military base",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-afviser-vaere-indblandet-i-terrorplaner-mod-britisk-militaerbase",
+        "published_date": "2026-09-28 12:52:27",
+        "category": "Military"
     },
     {
         "title": "Five are reported killed in Ukraine after attacks on several cities",
@@ -182,13 +196,6 @@
         "category": "Military"
     },
     {
-        "title": "Trump claims Arc de Triomphe to be 'state-of-the-art military complex'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-haevder-triumfbue-skal-vaere-topmoderne-militaerkompleks",
-        "published_date": "2026-09-20 13:31:54",
-        "category": "Military"
-    },
-    {
         "title": "Gastronomy The editor recommends: I myself eat street food here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/gastronomi/gastronomiredaktoeren-anbefaler-her-spiser-jeg-selv-street-food?referrer=RSS",
@@ -196,11 +203,18 @@
         "category": "Energy"
     },
     {
-        "title": "Low electricity prices continue",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lav-elpris-fortsaetter",
-        "published_date": "2026-09-20 10:31:41",
-        "category": "Energy"
+        "title": "The Finance Act is on the way - I expect these gifts for your personal finances",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/dine-penge/finansloven-er-paa-trapperne--jeg-forventer-disse-gaver-til-din-privatoekonomi?referrer=RSS",
+        "published_date": "2026-09-28 17:14:48",
+        "category": "Economy"
+    },
+    {
+        "title": "Mellemskat: Who could benefit from Denmark's plans to cut tax on high earners?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260928/mellemskat-who-could-benefit-from-denmarks-plans-to-cut-tax-on-high-earners",
+        "published_date": "2026-09-28 10:24:31",
+        "category": "Economy"
     },
     {
         "title": "He claimed that Maersk's death cost Gentofte millions - now the LA comet is suddenly pulling ashore",
@@ -273,150 +287,143 @@
         "category": "Economy"
     },
     {
-        "title": "Private financial letterbox: How do you report old or inherited bonds to Tax?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/dine-penge/privatoekonomisk-brevkasse-hvordanindberetter-man-gamle-eller-arvede-obligationer-til-skat?referrer=RSS",
-        "published_date": "2026-09-20 12:38:13",
-        "category": "Economy"
-    },
-    {
-        "title": "Protesters in Venezuela demand the return of opposition leaders",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/demonstranter-i-venezuela-kraever-oppositionsleders-hjemkomst?referrer=RSS",
-        "published_date": "2026-09-28 00:36:47",
+        "title": "Watch the match here: Aalborg takes on S\u00f8nderjyske in the Metal League",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sport/se-kampen-her-aalborg-tager-imod-soenderjyske-i-metal-ligaen?rss",
+        "published_date": "2026-09-28 18:20:03",
         "category": "Local Events"
     },
     {
-        "title": "The police are investigating a shooting incident in Tingbjerg - no injuries",
+        "title": "On Thursday it will happen - now artificial intelligence is smoking in space, and the perspectives are dizzying",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-undersoeger-skudepisode-i-tingbjerg-ingen-tilskadekomne?referrer=RSS",
-        "published_date": "2026-09-27 23:11:47",
+        "url": "https://www.berlingske.dk/videnskab/paa-torsdag-sker-det--nu-ryger-kunstig-intelligens-i-rummet-og-perspektiverne-er-svimlende?referrer=RSS",
+        "published_date": "2026-09-28 18:12:12",
         "category": "Local Events"
     },
     {
-        "title": "Irish players wore mourning bands and bowed their heads in the match against Israel",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/irske-spillere-bar-soergebaand-og-boejede-hovederne-i-kamp-mod-israel?referrer=RSS",
-        "published_date": "2026-09-27 22:27:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tandl\u00e6geforeningen: There may be a shortage of 800 dentists in 2035",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/tandlaegeforeningen-der-kan-mangle-800-tandlaeger-i-2035?referrer=RSS",
-        "published_date": "2026-09-27 22:11:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exhausted Danes approve of team performance at WC",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/udmattede-danskere-godkender-holdpraestation-ved-vm?referrer=RSS",
-        "published_date": "2026-09-27 22:08:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "McNulty is ready to be an assistant rider in the WC jersey",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mcnulty-er-klar-til-at-vaere-hjaelperytter-i-vm-troejen?referrer=RSS",
-        "published_date": "2026-09-27 21:36:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fell keeper coke costs Norway defeat against Portugal",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/faelt-keeperkoks-koster-norsk-nederlag-mod-portugal?referrer=RSS",
-        "published_date": "2026-09-27 20:51:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Greece creates a big surprise against Germany",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/graekenland-skaber-stor-overraskelse-ude-mod-tyskland?referrer=RSS",
-        "published_date": "2026-09-27 20:48:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Serbia's president resigns prematurely",
+        "title": "Three Egyptians sentenced for murder of Italian student in Cairo",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/serbiens-praesident-traeder-tilbage-foer-tid",
-        "published_date": "2026-09-27 19:44:01",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-egyptere-doemt-drab-paa-italiensk-studerende-i-kairo",
+        "published_date": "2026-09-28 18:07:40",
         "category": "Local Events"
     },
     {
-        "title": "Great Britain and Norway welcome new Greenland agreement",
+        "title": "SpaceX's mega rocket returned to Earth prematurely",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-og-norge-hilser-ny-groenland-aftale-velkommen",
-        "published_date": "2026-09-27 18:56:03",
+        "url": "https://www.dr.dk/nyheder/seneste/spacex-s-megaraket-vendt-tilbage-til-jorden-foer-tid",
+        "published_date": "2026-09-28 17:06:07",
         "category": "Local Events"
     },
     {
-        "title": "TV station in Ethiopia stops broadcasting after drone attack",
+        "title": "Film editor Sarah Iben Almbjerg hates lists.Especially this one.\"A Parade of Masculine Anti-Heroes\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/filmredaktoer-sarah-iben-almbjerg-hader-lister-isaer-denne-en-parade-af-maskuline-antihelte?referrer=RSS",
+        "published_date": "2026-09-28 17:04:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Copenhagen district is nearing the end of petrol cars",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/koebenhavnsk-bydel-naermer-sig-afsked-med-benzinbiler?referrer=RSS",
+        "published_date": "2026-09-28 16:36:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The giant rocket loaded with satellites is sent into orbit around the Earth",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kaemperaket-lastet-med-satellitter-er-sendt-i-kredsloeb-om-jorden?referrer=RSS",
+        "published_date": "2026-09-28 16:13:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Culture becomes irrelevant if gender becomes more important than quality",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/ledere/kulturen-bliver-ligegyldig-hvis-koen-bliver-vigtigere-end-kvalitet?referrer=RSS",
+        "published_date": "2026-09-28 16:00:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Major train challenges between the regions are expected to be on Tuesday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/store-togudfordringer-mellem-landsdelene-ventes-at-vare-til-tirsdag?referrer=RSS",
+        "published_date": "2026-09-28 16:00:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The employee was overwhelmed and left the cash register crying: Now Emma quits",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/soenderborg/medarbejder-gik-graedende-fra-kassen-nu-siger-emma-fra?rss",
+        "published_date": "2026-09-28 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Train The challenges at Sor\u00f8 and between the parts of the country will last until tomorrow",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tv-station-i-etiopien-stopper-sending-efter-droneangreb",
-        "published_date": "2026-09-27 18:27:18",
+        "url": "https://www.dr.dk/nyheder/seneste/banedanmark-arbejder-paa-faa-overblik-over-koereledningsskade-ved-soroe",
+        "published_date": "2026-09-28 14:50:05",
         "category": "Local Events"
     },
     {
-        "title": "All train departures on the Svendborg Line are canceled for 16 days",
+        "title": "The director of the scandal-ridden utility company has resigned",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/alle-togafgange-paa-svendborgbanen-aflyses-i-16-dage",
-        "published_date": "2026-09-27 17:32:14",
+        "url": "https://www.dr.dk/nyheder/seneste/direktoeren-i-skandaleramt-forsyningsselskab-har-sagt-op",
+        "published_date": "2026-09-28 14:17:05",
         "category": "Local Events"
     },
     {
-        "title": "A goal-scoring affair ended without a winner: N\u00e6stved and Middelfart had to share",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/maalrig-affaere-endte-uden-vinder-naestved-og-middelfart-maatte-dele?rss",
-        "published_date": "2026-09-27 16:22:14",
+        "title": "Man hospitalised after setting fire to self at Danish migration agency",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260928/man-hospitalised-after-setting-fire-to-self-at-danish-migration-agency",
+        "published_date": "2026-09-28 14:05:15",
         "category": "Local Events"
     },
     {
-        "title": "Huge photo gallery from the HCA Marathon: Wild in the heat",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/odense/kaempe-fotogalleri-fra-hca-marathon-vilde-i-varmen?rss",
-        "published_date": "2026-09-27 16:12:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump on arrest near US base: 'They sought to do great damage'",
+        "title": "33 are reported killed in airstrikes in Myanmar",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-om-anholdelse-naer-amerikansk-base-de-soegte-goere-stor-skade",
-        "published_date": "2026-09-27 15:20:04",
+        "url": "https://www.dr.dk/nyheder/seneste/33-meldes-draebt-i-luftangreb-i-myanmar",
+        "published_date": "2026-09-28 13:26:51",
         "category": "Local Events"
     },
     {
-        "title": "Herning's ice masters stop Frederikshavn's rise with a slap",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/hernings-ismestre-stopper-frederikshavns-optur-med-lussing?referrer=RSS",
-        "published_date": "2026-09-27 15:14:47",
+        "title": "Young man to be behind bars for attempted manslaughter",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-skal-bag-tremmer-forsoeg-paa-manddrab",
+        "published_date": "2026-09-28 11:20:49",
         "category": "Local Events"
     },
     {
-        "title": "Suddenly three vans aroused suspicion in village - possible terrorist attack averted\u00a0at base with US bombers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/pludselig-vakte-tre-varevogne-mistanke-i-landsby--muligt-terrorangreb-afvaergetved-base-med-amerikanske-bombefly?referrer=RSS",
-        "published_date": "2026-09-27 15:12:33",
+        "title": "Weight loss pills launched on the Danish market",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/vaegttabspille-lanceret-paa-det-danske-marked",
+        "published_date": "2026-09-28 11:19:53",
         "category": "Local Events"
     },
     {
-        "title": "Missing girls from Br\u00f8nderslev found safe and sound",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/forsvundne-piger-fra-broenderslev-fundet-i-god-behold?referrer=RSS",
-        "published_date": "2026-09-27 15:05:47",
+        "title": "The fire service was called out to smoke from a train in N\u00e6stved",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brandvaesenet-kaldt-ud-til-roeg-fra-tog-i-naestved",
+        "published_date": "2026-09-28 09:16:09",
         "category": "Local Events"
     },
     {
-        "title": "Can the national team stand up in the Park?Follow Denmark-Wales here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kan-landsholdet-rejse-sig-i-parken-foelg-danmark-wales-her?referrer=RSS",
-        "published_date": "2026-09-27 15:05:33",
+        "title": "Israel strips Dutch diplomats in the West Bank of diplomatic status",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-fratager-hollandske-diplomater-paa-vestbredden-diplomatstatus",
+        "published_date": "2026-09-28 09:02:02",
         "category": "Local Events"
     },
     {
-        "title": "H\u00f8jbjerg and Hjulmand start against Wales",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/hoejbjerg-og-hjulmand-starter-mod-wales?referrer=RSS",
-        "published_date": "2026-09-27 15:01:46",
+        "title": "Teenagers behind planning school attack remain in prison",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/teenagere-bag-planlaegning-af-skoleangreb-fortsat-faengslet",
+        "published_date": "2026-09-28 08:39:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Monday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260928/today-in-denmark-a-roundup-of-the-latest-news-on-monday-63",
+        "published_date": "2026-09-28 08:19:57",
         "category": "Local Events"
     }
 ]
