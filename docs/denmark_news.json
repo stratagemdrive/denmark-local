@@ -1,5 +1,12 @@
 [
     {
+        "title": "South Korea demands apology from Ukraine over POW case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/sydkorea-kraever-undskyldning-fra-ukraine-i-sag-om-krigsfanger?referrer=RSS",
+        "published_date": "2026-09-27 21:17:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The EU is sending billions of dollars to crisis-hit populations in Africa",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/eu-sender-milliardbeloeb-til-kriseramte-befolkninger-i-afrika?referrer=RSS",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The US delegation leaves the room during the Iranian president's speech",
+        "title": "Five are reported killed in Ukraine after attacks on several cities",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fem-meldes-draebt-i-ukraine-efter-angreb-mod-flere-byer",
+        "published_date": "2026-09-28 00:56:33",
+        "category": "Military"
+    },
+    {
+        "title": "Five are reported killed in Ukraine after attacks on several cities",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usas-delegation-forlader-salen-under-irans-praesidents-tale?referrer=RSS",
-        "published_date": "2026-09-23 14:59:48",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/fem-meldes-draebt-i-ukraine-efter-angreb-mod-flere-byer?referrer=RSS",
+        "published_date": "2026-09-27 23:20:47",
+        "category": "Military"
     },
     {
         "title": "British police arrest five near military base used by US",
@@ -172,13 +186,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/trump-haevder-triumfbue-skal-vaere-topmoderne-militaerkompleks",
         "published_date": "2026-09-20 13:31:54",
-        "category": "Military"
-    },
-    {
-        "title": "48 soldiers and militants are reported killed during new fighting in Yemen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/48-soldater-og-militante-meldes-draebt-under-nye-kampe-i-yemen?referrer=RSS",
-        "published_date": "2026-09-19 20:19:46",
         "category": "Military"
     },
     {
@@ -273,6 +280,90 @@
         "category": "Economy"
     },
     {
+        "title": "Protesters in Venezuela demand the return of opposition leaders",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/demonstranter-i-venezuela-kraever-oppositionsleders-hjemkomst?referrer=RSS",
+        "published_date": "2026-09-28 00:36:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are investigating a shooting incident in Tingbjerg - no injuries",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-undersoeger-skudepisode-i-tingbjerg-ingen-tilskadekomne?referrer=RSS",
+        "published_date": "2026-09-27 23:11:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Irish players wore mourning bands and bowed their heads in the match against Israel",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/irske-spillere-bar-soergebaand-og-boejede-hovederne-i-kamp-mod-israel?referrer=RSS",
+        "published_date": "2026-09-27 22:27:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tandl\u00e6geforeningen: There may be a shortage of 800 dentists in 2035",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/tandlaegeforeningen-der-kan-mangle-800-tandlaeger-i-2035?referrer=RSS",
+        "published_date": "2026-09-27 22:11:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Exhausted Danes approve of team performance at WC",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/udmattede-danskere-godkender-holdpraestation-ved-vm?referrer=RSS",
+        "published_date": "2026-09-27 22:08:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "McNulty is ready to be an assistant rider in the WC jersey",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/mcnulty-er-klar-til-at-vaere-hjaelperytter-i-vm-troejen?referrer=RSS",
+        "published_date": "2026-09-27 21:36:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fell keeper coke costs Norway defeat against Portugal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/faelt-keeperkoks-koster-norsk-nederlag-mod-portugal?referrer=RSS",
+        "published_date": "2026-09-27 20:51:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Greece creates a big surprise against Germany",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/graekenland-skaber-stor-overraskelse-ude-mod-tyskland?referrer=RSS",
+        "published_date": "2026-09-27 20:48:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serbia's president resigns prematurely",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/serbiens-praesident-traeder-tilbage-foer-tid",
+        "published_date": "2026-09-27 19:44:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Great Britain and Norway welcome new Greenland agreement",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-og-norge-hilser-ny-groenland-aftale-velkommen",
+        "published_date": "2026-09-27 18:56:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "TV station in Ethiopia stops broadcasting after drone attack",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tv-station-i-etiopien-stopper-sending-efter-droneangreb",
+        "published_date": "2026-09-27 18:27:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "All train departures on the Svendborg Line are canceled for 16 days",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/alle-togafgange-paa-svendborgbanen-aflyses-i-16-dage",
+        "published_date": "2026-09-27 17:32:14",
+        "category": "Local Events"
+    },
+    {
         "title": "A goal-scoring affair ended without a winner: N\u00e6stved and Middelfart had to share",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/sport/maalrig-affaere-endte-uden-vinder-naestved-og-middelfart-maatte-dele?rss",
@@ -326,90 +417,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/hoejbjerg-og-hjulmand-starter-mod-wales?referrer=RSS",
         "published_date": "2026-09-27 15:01:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ten climbers missing after avalanche hits over 7,000 meter high mountain in Nepal",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ti-bjergbestigere-savnet-efter-lavine-rammer-over-7-000-meter-hoejt-bjerg-i-nepal",
-        "published_date": "2026-09-27 14:59:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "20-year-old Linnea from Copenhagen is the third best young waiter in the world",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/20-aarige-linnea-fra-koebenhavn-er-tredjebedste-unge-tjener-i-verden?referrer=RSS",
-        "published_date": "2026-09-27 14:58:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "19-year-old pleads not guilty to murder of 59-year-old acquaintance in Havdrup",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/19-aarig-naegter-sig-skyldig-i-drab-paa-59-aarig-bekendt-i-havdrup?referrer=RSS",
-        "published_date": "2026-09-27 14:42:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark was 20 seconds from an EC medal in orienteering",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danmark-var-20-sekunder-fra-em-medalje-i-orienteringsloeb",
-        "published_date": "2026-09-27 14:31:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Social media is an obvious explanation for the fact that bullying is on the rise, says a teacher of 20 years.But there is also another more 'unpopular' point",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/sociale-medier-er-en-oplagt-forklaring-paa-at-mobning-er-i-vaekst-siger-laerer-gennem-20-aar-men-der-er-ogsaa-en-anden-mere-upopulaer-pointe?referrer=RSS",
-        "published_date": "2026-09-27 14:25:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "56-year-old remanded in absentia in a case of serious violence",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/56-aarig-varetaegtsfaengslet-absentia-i-sag-om-grov-vold",
-        "published_date": "2026-09-27 10:37:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Management in bankrupt company risks lawsuit and police report: Left huge mess shop",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/ledelse-i-konkursramt-firma-risikerer-retssag-og-politianmeldelse-efterlod-kaempe-rodebutik?rss",
-        "published_date": "2026-09-27 05:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two girls who disappeared in Br\u00f8nderslev have been found safe and sound",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/piger-er-fortsat-forsvundet-fra-deres-hjem-i-broenderslev",
-        "published_date": "2026-09-27 03:30:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mbapp\u00e9 is diagnosed with an overstretched left knee",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mbappe-faar-diagnosticeret-en-overstraekning-af-venstre-knae?referrer=RSS",
-        "published_date": "2026-09-27 00:57:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Powerful storm sends US states on emergency alert",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kraftig-storm-sender-amerikanske-stater-i-kriseberedskab?referrer=RSS",
-        "published_date": "2026-09-27 00:51:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forced eviction of 87-year-old tenant leads to demonstration in Madrid",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tvangsfjernelse-af-87-aarig-lejer-foerer-til-demonstration-i-madrid?referrer=RSS",
-        "published_date": "2026-09-27 00:13:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump repeats promise of $5,000 to all Americans",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-gentager-loefte-om-5000-dollar-til-alle-amerikanere?referrer=RSS",
-        "published_date": "2026-09-26 23:57:47",
         "category": "Local Events"
     }
 ]
