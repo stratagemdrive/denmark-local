@@ -1,5 +1,33 @@
 [
     {
+        "title": "Russia summons the Danish ambassador",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rusland-indkalder-dansk-ambassadoer?referrer=RSS",
+        "published_date": "2026-09-30 16:28:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU plans cross-border emergency comms system to replace radio",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260930/eu-plans-cross-border-emergency-comms-system-to-replace-radio",
+        "published_date": "2026-09-30 15:21:39",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "British Prime Minister floats the idea of \u200b\u200breturning to the EU",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/britisk-premierminister-lufter-ideen-om-vende-tilbage-til-eu",
+        "published_date": "2026-09-30 11:45:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Rejoining the EU is among options for future ties, says UK prime minister",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260930/rejoining-the-eu-is-among-options-for-future-ties-says-uk-prime-minister",
+        "published_date": "2026-09-30 10:45:17",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Dan J\u00f8rgensen warns of a hard winter in the energy sector in the EU",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/dan-joergensen-advarer-om-haard-vinter-paa-energiomraadet-i-eu?referrer=RSS",
@@ -112,32 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "NATO chief supports Danish assessment of Russian threats",
+        "title": "Burnham: Iran may have influenced incident at military base",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nato-chef-bakker-op-om-dansk-vurdering-af-russiske-trusler?referrer=RSS",
-        "published_date": "2026-09-24 14:41:50",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/burnham-iran-kan-have-haft-indflydelse-paa-haendelse-ved-militaerbase?referrer=RSS",
+        "published_date": "2026-09-30 16:22:46",
+        "category": "Military"
     },
     {
-        "title": "Holger Dahl is happy about the renewal of SMK: The house is bewitched",
+        "title": "Pro-Russian military bloggers rage over \"Operation Vivaldi\": \"It's time to tell the truth\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kunst/holger-dahl-glaeder-sig-over-fornyelse-af-smk-huset-er-forhekset?referrer=RSS",
-        "published_date": "2026-09-24 14:40:13",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Danish spy agency: Russian invasion of Nato country 'highly unlikely' but cannot be ruled out",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260924/danish-spy-agency-russian-invasion-of-nato-country-highly-unlikely-but-cannot-be-ruled-out",
-        "published_date": "2026-09-24 14:36:15",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The Statens Museum for Art must renovate",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/statens-museum-kunst-skal-renovere",
-        "published_date": "2026-09-24 12:10:53",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/prorussiske-militaerbloggere-raser-over-operation-vivaldi-det-er-paa-tide-at-fortaelle-sandheden?referrer=RSS",
+        "published_date": "2026-09-30 16:08:29",
+        "category": "Military"
     },
     {
         "title": "German military surveillance drone flies over Jutland",
@@ -210,11 +224,25 @@
         "category": "Military"
     },
     {
+        "title": "Danish energy prices in September highest since 2022",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260930/danish-energy-prices-in-september-highest-since-2022",
+        "published_date": "2026-09-30 14:04:28",
+        "category": "Energy"
+    },
+    {
         "title": "Gastronomy The editor recommends: I myself eat street food here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/gastronomi/gastronomiredaktoeren-anbefaler-her-spiser-jeg-selv-street-food?referrer=RSS",
         "published_date": "2026-09-25 14:57:00",
         "category": "Energy"
+    },
+    {
+        "title": "Danish economy performing better than expected",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260930/danish-economy-performing-better-than-expected",
+        "published_date": "2026-09-30 11:24:42",
+        "category": "Economy"
     },
     {
         "title": "City director describes conviction for financial fraud as conspiracy",
@@ -294,157 +322,143 @@
         "category": "Economy"
     },
     {
-        "title": "Three men arrested for money laundering and tax evasion via companies",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/tre-maend-anholdt-for-hvidvask-og-skattesnyd-via-selskaber?referrer=RSS",
-        "published_date": "2026-09-22 14:54:49",
-        "category": "Economy"
-    },
-    {
-        "title": "Business update: Novo has fought obesity on prescription \u2013 now hair loss may be next",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/business-update-novo-har-bekaempet-fedme-paa-recept--nu-kan-haartab-vaere-det-naeste?referrer=RSS",
-        "published_date": "2026-09-22 14:21:26",
-        "category": "Economy"
-    },
-    {
-        "title": "Defending NHL champions lose season opener in overtime",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/forsvarende-nhl-mestre-taber-saesonaabning-i-overtiden?referrer=RSS",
-        "published_date": "2026-09-30 01:26:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two people indicted for selling fake Novo medicine in the US",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/to-personer-tiltalt-for-at-saelge-falsk-novo-laegemiddel-i-usa?referrer=RSS",
-        "published_date": "2026-09-30 00:55:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "US Supreme Court refuses to halt execution of woman on death row",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usas-hoejesteret-afviser-at-standse-henrettelse-af-doedsdoemt-kvinde?referrer=RSS",
-        "published_date": "2026-09-29 23:43:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Supreme Court allows Trump to resume deportations to third countries",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hoejesteret-lader-trump-genoptage-deportationer-til-tredjelande",
-        "published_date": "2026-09-29 23:28:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zuckerberg on AI security: We've taken a good first step",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/zuckerberg-om-ai-sikkerhed-vi-har-taget-et-godt-foerste-skridt?referrer=RSS",
-        "published_date": "2026-09-29 22:31:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump wants to let the AI \u200b\u200bindustry manage itself instead of imposing regulations",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-vil-lade-ai-branchen-styre-sig-selv-i-stedet-for-at-indfoere-regler?referrer=RSS",
-        "published_date": "2026-09-29 22:17:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Matthew Perry's sister: He spent 46 million kroner to get well",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/matthew-perrys-soester-han-brugte-46-millioner-kroner-paa-at-blive-rask?referrer=RSS",
-        "published_date": "2026-09-29 21:36:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kane and Gordon punish the Czech Republic after sending off",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kane-og-gordon-straffer-tjekkiet-efter-udvisning?referrer=RSS",
-        "published_date": "2026-09-29 20:50:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Yamal bursts into Spain's World Cup celebrations at home",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/yamal-sprudler-i-spaniens-vm-fejring-paa-hjemmebane?referrer=RSS",
-        "published_date": "2026-09-29 20:44:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "How much does Novo need to earn in order not to be in crisis?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/hvor-meget-skal-novo-tjene-for-ikke-at-vaere-i-krise?referrer=RSS",
-        "published_date": "2026-09-29 20:40:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "17-year-old Gustav was killed in a car accident: Now mother and father talk about the grief and missing their son",
+        "title": "Watch the match here: Esbjerg lays down the ice for the match against Frederikshavn",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/17-aarige-gustav-blev-draebt-i-bilulykke-nu-fortaeller-mor-og-far-om-sorgen-og-savnet-af-deres-soen?rss",
-        "published_date": "2026-09-29 18:00:00",
+        "url": "https://jv.dk/sport/se-kampen-her-esbjerg-laegger-is-til-opgoeret-mod-frederikshavn?rss",
+        "published_date": "2026-09-30 17:50:03",
         "category": "Local Events"
     },
     {
-        "title": "Peter's daughter died of cancer at the age of 4: Now he has reached a high goal: - I didn't expect that",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/kerteminde/peters-datter-doede-af-kraeft-som-4-aarig-nu-har-han-samlet-meget-mere-ind-end-han-turde-haabe-paa?rss",
-        "published_date": "2026-09-29 17:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Skov Olsen is back in the national team after a special trip",
+        "title": "British PM: 'Indications' that Iran was involved in incident near air base",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/skov-olsen-er-tilbage-paa-landsholdet-efter-speciel-rejse?referrer=RSS",
-        "published_date": "2026-09-29 16:38:55",
+        "url": "https://www.berlingske.dk/internationalt/britisk-premierminister-indikationer-paa-at-iran-var-involveret-i-haendelse-naer-flybase?referrer=RSS",
+        "published_date": "2026-09-30 16:16:10",
         "category": "Local Events"
     },
     {
-        "title": "Premier League confirms decision: City is guilty",
+        "title": "Danes are behind the most watched film on Netflix",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/premier-league-bekraefter-afgoerelse-city-er-skyldig?referrer=RSS",
-        "published_date": "2026-09-29 16:38:51",
+        "url": "https://www.berlingske.dk/danmark/dansker-staar-bag-den-mest-sete-film-paa-netflix?referrer=RSS",
+        "published_date": "2026-09-30 16:13:50",
         "category": "Local Events"
     },
     {
-        "title": "Morocco has had its first female prime minister",
+        "title": "Infantino's home country withdraws support for the Fifa president",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/infantinos-hjemland-traekker-stoetten-til-fifa-praesidenten?referrer=RSS",
+        "published_date": "2026-09-30 16:10:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "National coach rejects starting place for Ronaldo against Denmark",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/landstraener-afviser-startplads-til-ronaldo-mod-danmark?referrer=RSS",
+        "published_date": "2026-09-30 16:03:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The majority in the Ethics Council recommends removing anonymous sperm and egg donation",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/flertal-i-etisk-raad-anbefaler-at-fjerne-anonym-saed-og-aegdonation?referrer=RSS",
+        "published_date": "2026-09-30 16:00:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crack in \"Project Jupiter\": Oracle downturn raises fears of AI problems",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/aktier/knas-i-project-jupiter-oracle-nedtur-vaekker-frygt-for-ai-problemer?referrer=RSS",
+        "published_date": "2026-09-30 15:43:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Riemer must make tough decisions: otherwise we will be run over",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/samfund/riemer-skal-traeffe-haarde-beslutninger-ellers-bliver-vi-koert-over?referrer=RSS",
+        "published_date": "2026-09-30 15:32:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Execution of Christa Pike postponed",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/marokko-har-faaet-den-foerste-kvindelige-premierminister",
-        "published_date": "2026-09-29 16:35:02",
+        "url": "https://www.dr.dk/nyheder/seneste/henrettelsen-af-christa-pike-udsat",
+        "published_date": "2026-09-30 15:12:01",
         "category": "Local Events"
     },
     {
-        "title": "Remigration is a fantasy.But it is also fantasy to think that the problems will disappear by themselves",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/remigration-er-en-fantasi-men-det-er-ogsaa-fantasi-at-tro-at-problemerne-forsvinder-af-sig-selv?referrer=RSS",
-        "published_date": "2026-09-29 16:23:11",
+        "title": "The year's hottest day measured in Bergen in Norway",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/aarets-varmeste-dag-maalt-i-bergen-i-norge",
+        "published_date": "2026-09-30 14:01:49",
         "category": "Local Events"
     },
     {
-        "title": "Morocco gets its first female prime minister",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/marokko-faar-sin-foerste-kvindelige-premierminister?referrer=RSS",
-        "published_date": "2026-09-29 16:13:45",
+        "title": "Rage over\u00a0Royal Run ticket sales:\u00a0But you can still run - with a bit of luck",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/haderslev/raser-over-billetsalg-til-royal-run-men-du-kan-stadig-loebe-med-med-lidt-held?rss",
+        "published_date": "2026-09-30 13:48:33",
         "category": "Local Events"
     },
     {
-        "title": "Uefa boss draws H.C.Andersen into talking about Infantino",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/uefa-boss-drager-hc-andersen-ind-i-tale-om-infantino?referrer=RSS",
-        "published_date": "2026-09-29 16:07:52",
+        "title": "'It's completely crazy now': Minister wants a joint sports policy framework",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/den-er-helt-gal-nu-minister-vil-have-en-faelles-idraetspolitisk-ramme",
+        "published_date": "2026-09-30 12:18:51",
         "category": "Local Events"
     },
     {
-        "title": "Here, the fine block glows so much in Copenhagen that it makes the mayor talk about \"anti-citizen behavior\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/her-gloeder-boedeblokken-saa-meget-i-koebenhavn-at-det-faar-borgmester-til-at-tale-om-borgerfjendsk-adfaerd?referrer=RSS",
-        "published_date": "2026-09-29 15:57:23",
+        "title": "Six people in diving accident in Norway",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-personer-savnes-efter-dykkerulykke-i-norge",
+        "published_date": "2026-09-30 12:11:23",
         "category": "Local Events"
     },
     {
-        "title": "Rooney: United don't deserve medals from City",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/rooney-united-fortjener-ikke-medaljer-fra-city?referrer=RSS",
-        "published_date": "2026-09-29 15:51:47",
+        "title": "Royal Run reports sold out",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/royal-run-melder-udsolgt",
+        "published_date": "2026-09-30 11:09:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mikkel Kessler invites to a press conference about 'big news from the world of professional boxing'",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mikkel-kessler-inviterer-til-pressemoede-om-stor-nyhed-fra-den-professionelle-bokseverden",
+        "published_date": "2026-09-30 09:28:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Provo artist is fined for insulting a prison guard",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/provokunstner-idoemmes-boede-kraenke-faengselsbetjent",
+        "published_date": "2026-09-30 09:21:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flight from Dubai to Tel Aviv diverted after emergency signal",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fly-fra-dubai-til-tel-aviv-omdirigeret-efter-noedsignal",
+        "published_date": "2026-09-30 09:11:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20260930/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-73",
+        "published_date": "2026-09-30 08:34:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another Romanian extradited in a murder case",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/endnu-en-rumaener-udleveret-i-drabssag",
+        "published_date": "2026-09-30 07:23:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police report a large home security exercise",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-melder-om-stor-hjemmevaernsoevelse",
+        "published_date": "2026-09-30 05:56:12",
         "category": "Local Events"
     }
 ]
