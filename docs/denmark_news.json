@@ -210,18 +210,18 @@
         "category": "Military"
     },
     {
-        "title": "UK to provide 'defensive military aid' to Saudi Arabia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-vil-levere-defensiv-militaerhjaelp-til-saudi-arabien",
-        "published_date": "2026-09-22 01:00:14",
-        "category": "Military"
-    },
-    {
         "title": "Gastronomy The editor recommends: I myself eat street food here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/gastronomi/gastronomiredaktoeren-anbefaler-her-spiser-jeg-selv-street-food?referrer=RSS",
         "published_date": "2026-09-25 14:57:00",
         "category": "Energy"
+    },
+    {
+        "title": "City director describes conviction for financial fraud as conspiracy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/city-direktoer-betegner-dom-for-oekonomisk-fusk-som-konspiration?referrer=RSS",
+        "published_date": "2026-09-29 23:43:47",
+        "category": "Economy"
     },
     {
         "title": "Freelancers want the Minister of Immigration to recognize that you can drill your teeth without anaesthetic",
@@ -308,11 +308,74 @@
         "category": "Economy"
     },
     {
-        "title": "The tax officials cannot hide behind the law",
+        "title": "Defending NHL champions lose season opener in overtime",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/skattemedarbejderne-kan-ikke-gemme-sig-bag-loven?referrer=RSS",
-        "published_date": "2026-09-21 20:16:12",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/sport/forsvarende-nhl-mestre-taber-saesonaabning-i-overtiden?referrer=RSS",
+        "published_date": "2026-09-30 01:26:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two people indicted for selling fake Novo medicine in the US",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/to-personer-tiltalt-for-at-saelge-falsk-novo-laegemiddel-i-usa?referrer=RSS",
+        "published_date": "2026-09-30 00:55:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "US Supreme Court refuses to halt execution of woman on death row",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usas-hoejesteret-afviser-at-standse-henrettelse-af-doedsdoemt-kvinde?referrer=RSS",
+        "published_date": "2026-09-29 23:43:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Supreme Court allows Trump to resume deportations to third countries",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hoejesteret-lader-trump-genoptage-deportationer-til-tredjelande",
+        "published_date": "2026-09-29 23:28:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zuckerberg on AI security: We've taken a good first step",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/zuckerberg-om-ai-sikkerhed-vi-har-taget-et-godt-foerste-skridt?referrer=RSS",
+        "published_date": "2026-09-29 22:31:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump wants to let the AI \u200b\u200bindustry manage itself instead of imposing regulations",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-vil-lade-ai-branchen-styre-sig-selv-i-stedet-for-at-indfoere-regler?referrer=RSS",
+        "published_date": "2026-09-29 22:17:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Matthew Perry's sister: He spent 46 million kroner to get well",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/matthew-perrys-soester-han-brugte-46-millioner-kroner-paa-at-blive-rask?referrer=RSS",
+        "published_date": "2026-09-29 21:36:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kane and Gordon punish the Czech Republic after sending off",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kane-og-gordon-straffer-tjekkiet-efter-udvisning?referrer=RSS",
+        "published_date": "2026-09-29 20:50:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Yamal bursts into Spain's World Cup celebrations at home",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/yamal-sprudler-i-spaniens-vm-fejring-paa-hjemmebane?referrer=RSS",
+        "published_date": "2026-09-29 20:44:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "How much does Novo need to earn in order not to be in crisis?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/hvor-meget-skal-novo-tjene-for-ikke-at-vaere-i-krise?referrer=RSS",
+        "published_date": "2026-09-29 20:40:34",
+        "category": "Local Events"
     },
     {
         "title": "17-year-old Gustav was killed in a car accident: Now mother and father talk about the grief and missing their son",
@@ -382,76 +445,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/rooney-united-fortjener-ikke-medaljer-fra-city?referrer=RSS",
         "published_date": "2026-09-29 15:51:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "He investigated the mink case, which cost 30 billion - now he warns of the risk of a repetition",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/han-granskede-minksagen-der-kostede-30-milliarder--nu-advarer-han-om-risikoen-for-en-gentagelse?referrer=RSS",
-        "published_date": "2026-09-29 15:36:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Restriction for cattle in Esbjerg after diarrhea outbreak",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/restriktion-kvaeg-i-esbjerg-efter-diarreudbrud",
-        "published_date": "2026-09-29 14:30:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "What do we know so far about the Danish government's new budget?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260929/what-do-we-know-so-far-about-the-danish-governments-new-budget",
-        "published_date": "2026-09-29 14:23:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bomber crashed in Russia - six dead",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bombefly-styrtet-ned-i-rusland-seks-doede",
-        "published_date": "2026-09-29 13:53:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Telecom companies must block fraudulent calls from abroad",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/teleselskaber-skal-blokere-svindel-opkald-fra-udlandet",
-        "published_date": "2026-09-29 13:33:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man found tied with strips and painted with red paint",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-fundet-bundet-med-strips-og-malet-med-roed-maling",
-        "published_date": "2026-09-29 13:14:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "B&O publishes key figures ahead of time after the leak of a confidential document",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/b-o-udsender-noegletal-foer-tid-efter-laek-af-fortroligt-dokument",
-        "published_date": "2026-09-29 12:15:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The world's largest ship passes the Great Belt Bridge",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/verdens-stoerste-skib-passerer-storebaeltsbroen",
-        "published_date": "2026-09-29 11:13:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Belarus wants the United States in the agreement",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/belarus-vil-have-usa-med-i-aftale",
-        "published_date": "2026-09-29 10:28:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark and Germany agree on a stop to bottom trawling fishing in Flensburg Fjord",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danmark-og-tyskland-er-enige-om-stop-bundslaebende-fiskeri-i-flensborg-fjord",
-        "published_date": "2026-09-29 09:40:12",
         "category": "Local Events"
     }
 ]
