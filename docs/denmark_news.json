@@ -1,5 +1,19 @@
 [
     {
+        "title": "'We won't change approach': EU wants actions from UK, rather than words",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261001/we-wont-change-approach-eu-wants-actions-from-uk-rather-than-words",
+        "published_date": "2026-10-01 15:42:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Iran summons British ambassador for talks after incident at military base",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/iran-indkalder-britisk-ambassadoer-til-samtale-efter-haendelse-ved-militaerbase",
+        "published_date": "2026-10-01 14:44:11",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Russia summons the Danish ambassador",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/rusland-indkalder-dansk-ambassadoer?referrer=RSS",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Hollywood stars detained during demonstrations against Israel",
+        "title": "British-Iranian man arrested in military base case",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hollywood-stjerner-tilbageholdt-under-demonstrationer-mod-israel?referrer=RSS",
-        "published_date": "2026-09-24 22:48:48",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/britisk-iransk-mand-er-anholdt-i-sag-om-militaerbase?referrer=RSS",
+        "published_date": "2026-10-01 17:08:49",
+        "category": "Military"
     },
     {
-        "title": "Unearthed medieval church sheds light on Greenland's viking past",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260924/unearthed-medieval-church-sheds-light-on-greenlands-viking-past",
-        "published_date": "2026-09-24 15:21:38",
-        "category": "Diplomacy"
+        "title": "Reporters: The defense admits mistakes about shots near airliners",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/ordfoerere-forsvaret-indroemmer-fejl-om-skud-naer-passagerfly?referrer=RSS",
+        "published_date": "2026-10-01 17:05:44",
+        "category": "Military"
     },
     {
         "title": "Burnham: Iran may have influenced incident at military base",
@@ -222,6 +236,13 @@
         "url": "https://www.dr.dk/nyheder/seneste/frankrig-vil-sende-soldater-til-vigtig-olierute-i-saudi-arabien",
         "published_date": "2026-09-24 22:55:52",
         "category": "Military"
+    },
+    {
+        "title": "Oil shock hits SAS like a sledgehammer: Hiring stops and route cancellations on the way",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/oliechok-rammer-sas-som-en-forhammer-ansaettelsesstop-og-ruteaflysninger-paa-vej?referrer=RSS",
+        "published_date": "2026-10-01 15:04:03",
+        "category": "Energy"
     },
     {
         "title": "Danish energy prices in September highest since 2022",
@@ -322,143 +343,143 @@
         "category": "Economy"
     },
     {
-        "title": "California roller coaster closes after reports of brain injuries",
+        "title": "If Tom Jensen really sees \"communist ghosts everywhere\", I have a few questions for Enhedslisten",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rutsjebane-i-californien-lukker-efter-meldinger-om-hjerneskader?referrer=RSS",
-        "published_date": "2026-10-01 01:24:46",
+        "url": "https://www.berlingske.dk/synspunkter/hvis-tom-jensen-virkelig-ser-kommunistiske-spoegelser-overalt-har-jeg-et-par-spoergsmaal-til-enhedslisten?referrer=RSS",
+        "published_date": "2026-10-01 16:55:45",
         "category": "Local Events"
     },
     {
-        "title": "Organizer cancels Kanye West concerts in Russia",
+        "title": "Minister of Justice will ban prosecutors from wearing religious symbols",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/arrangoer-aflyser-kanye-west-koncerter-i-rusland?referrer=RSS",
-        "published_date": "2026-10-01 01:21:46",
+        "url": "https://www.berlingske.dk/politik/justitsminister-vil-forbyde-anklagere-at-baere-religioese-symboler?referrer=RSS",
+        "published_date": "2026-10-01 16:52:44",
         "category": "Local Events"
     },
     {
-        "title": "Musk will be at the head of the US government project on warfare",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/musk-skal-staa-i-spidsen-for-amerikansk-regeringsprojekt-om-krigsfoerelse?referrer=RSS",
-        "published_date": "2026-10-01 00:27:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supreme Court clears way for execution of woman in Tennessee",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hoejesteret-baner-vej-for-henrettelse-af-kvinde-i-tennessee?referrer=RSS",
-        "published_date": "2026-10-01 00:14:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supreme Court Overturns Stay of Execution in Tennessee",
+        "title": "The \u00d8resund Bridge will be closed from 8 p.m. tonight: Preparedness exercise will be held",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hoejesteret-ophaever-udsaettelse-af-henrettelse-i-tennessee",
-        "published_date": "2026-09-30 23:40:49",
+        "url": "https://www.dr.dk/nyheder/seneste/oeresundsbroen-spaerres-fra-klokken-20-i-aften-afholder-beredskabsoevelse",
+        "published_date": "2026-10-01 16:39:38",
         "category": "Local Events"
     },
     {
-        "title": "Pennsylvania records fifth measles-related death this year",
+        "title": "Confident Sauerland: I can get Kessler a World Cup match",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/pennsylvania-registrerer-femte-doedsfald-relateret-til-maeslinger-i-aar?referrer=RSS",
-        "published_date": "2026-09-30 23:29:46",
+        "url": "https://www.berlingske.dk/sport/selvsikker-sauerland-jeg-kan-skaffe-kessler-en-vm-kamp?referrer=RSS",
+        "published_date": "2026-10-01 15:41:45",
         "category": "Local Events"
     },
     {
-        "title": "Haaland is suing Norwegian for commercial exploitation during the World Cup",
+        "title": "Lula skips the last televised debate before the presidential election",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/haaland-sagsoeger-norwegian-for-kommerciel-udnyttelse-under-vm?referrer=RSS",
-        "published_date": "2026-09-30 23:14:45",
+        "url": "https://www.berlingske.dk/internationalt/lula-skipper-sidste-tv-debat-inden-praesidentvalg?referrer=RSS",
+        "published_date": "2026-10-01 15:38:45",
         "category": "Local Events"
     },
     {
-        "title": "At least seven killed in shooting attack on bus in Syria",
+        "title": "Denmark's biggest pig farmer just got it right: His huge pig project sheds new light on the government's pig ban",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mindst-syv-draebt-i-skudangreb-paa-bus-i-syrien?referrer=RSS",
-        "published_date": "2026-09-30 22:30:45",
+        "url": "https://www.berlingske.dk/business/danmarks-stoerste-svinebonde-naaede-det-lige-akkurat-hans-enorme-svineprojekt-kaster-nyt-lys-over-regeringens-grisestop?referrer=RSS",
+        "published_date": "2026-10-01 15:35:57",
         "category": "Local Events"
     },
     {
-        "title": "Residents are evacuated as a result of an apartment fire in Odense",
+        "title": "Berlingske believes: Dear wonderful children and young people, your prime minister thinks you are idiots",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/beboere-evakueres-som-foelge-af-lejlighedsbrand-i-odense?referrer=RSS",
-        "published_date": "2026-09-30 22:12:45",
+        "url": "https://www.berlingske.dk/ledere/berlingske-mener-kaere-vidunderlige-boern-og-unge-jeres-statsminister-tror-i-er-idioter?referrer=RSS",
+        "published_date": "2026-10-01 15:03:52",
         "category": "Local Events"
     },
     {
-        "title": "Several residents evacuated after apartment fire in Odense",
+        "title": "Netanyahu: Pilot was radicalized before attack on plane",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/netanyahu-pilot-blev-radikaliseret-forud-for-overfald-paa-fly?referrer=RSS",
+        "published_date": "2026-10-01 14:47:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "21-year-old man gets a suspended sentence for accident that claimed the life of 17-year-old friend",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-beboere-evakueret-efter-lejlighedsbrand-i-odense",
-        "published_date": "2026-09-30 22:12:25",
+        "url": "https://www.dr.dk/nyheder/seneste/21-aarig-mand-faar-betinget-faengsel-ulykke-der-kostede-17-aarig-ven-livet",
+        "published_date": "2026-10-01 14:14:55",
         "category": "Local Events"
     },
     {
-        "title": "S will close the radio channel and move the millions to other media",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/s-vil-lukke-radiokanal-og-flytte-millionerne-til-andre-medier?referrer=RSS",
-        "published_date": "2026-09-30 21:48:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Google restricts access to AI model for security reasons",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/google-begraenser-adgang-til-ai-model-af-sikkerhedshensyn?referrer=RSS",
-        "published_date": "2026-09-30 21:09:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Italy again extends strengthened border control of travelers from Spain",
+        "title": "Save the Children: On average, seven children have died of Ebola every day in DR Congo since May",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/italien-forlaenger-igen-styrket-graensekontrol-af-rejsende-fra-spanien",
-        "published_date": "2026-09-30 18:49:10",
+        "url": "https://www.dr.dk/nyheder/seneste/red-barnet-i-gennemsnit-er-syv-boern-doede-af-ebola-hver-dag-i-dr-congo-siden-maj",
+        "published_date": "2026-10-01 13:46:11",
         "category": "Local Events"
     },
     {
-        "title": "Watch the match here: Esbjerg lays down the ice for the match against Frederikshavn",
+        "title": "Woman fined 200,000 kroner for puppy factory",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kvinde-faar-boede-paa-200-000-kroner-hvalpefabrik",
+        "published_date": "2026-10-01 13:03:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rosendahl fires the CEO and temporarily installs an owner",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rosendahl-fyrer-topchef-og-indsaetter-midlertidigt-ejer",
+        "published_date": "2026-10-01 11:52:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Train traffic suspended between Herning and Struer",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/togtrafik-indstillet-mellem-holstebro-og-struer",
+        "published_date": "2026-10-01 11:43:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bornholms Tidende gets a new editor-in-chief",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bornholms-tidende-faar-ny-chefredaktoer",
+        "published_date": "2026-10-01 11:42:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "9 lies.That's great, Mads",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/politik/reels/9-loegne-det-er-flot-mads",
+        "published_date": "2026-10-01 10:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish ethics council recommends abolishing anonymous sperm and egg donation",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261001/danish-ethics-council-recommends-abolishing-anonymous-sperm-and-egg-donation",
+        "published_date": "2026-10-01 09:45:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Thursday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261001/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-59",
+        "published_date": "2026-10-01 08:33:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "The king and queen are visiting from Vietnam",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kongen-og-dronningen-faar-besoeg-fra-vietnam",
+        "published_date": "2026-10-01 08:27:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 51-year-old man died in a work accident at the port: Now documents reveal what went wrong",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sport/se-kampen-her-esbjerg-laegger-is-til-opgoeret-mod-frederikshavn?rss",
-        "published_date": "2026-09-30 17:50:03",
+        "url": "https://jv.dk/esbjerg/en-51-aarig-mand-doede-i-en-arbejdsulykke-paa-havnen-nu-afsloerer-dokumenter-hvad-der-gik-galt?rss",
+        "published_date": "2026-10-01 05:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Six convicted of murder after migrant shipwreck",
+        "title": "Politician on sick leave withdraws from politics altogether",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/seks-doemt-drab-efter-migrantforlis",
-        "published_date": "2026-09-30 16:42:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "British PM: 'Indications' that Iran was involved in incident near air base",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/britisk-premierminister-indikationer-paa-at-iran-var-involveret-i-haendelse-naer-flybase?referrer=RSS",
-        "published_date": "2026-09-30 16:16:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danes are behind the most watched film on Netflix",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dansker-staar-bag-den-mest-sete-film-paa-netflix?referrer=RSS",
-        "published_date": "2026-09-30 16:13:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Infantino's home country withdraws support for the Fifa president",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/infantinos-hjemland-traekker-stoetten-til-fifa-praesidenten?referrer=RSS",
-        "published_date": "2026-09-30 16:10:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "National coach rejects starting place for Ronaldo against Denmark",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/landstraener-afviser-startplads-til-ronaldo-mod-danmark?referrer=RSS",
-        "published_date": "2026-09-30 16:03:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The majority in the Ethics Council recommends removing anonymous sperm and egg donation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/flertal-i-etisk-raad-anbefaler-at-fjerne-anonym-saed-og-aegdonation?referrer=RSS",
-        "published_date": "2026-09-30 16:00:49",
+        "url": "https://www.dr.dk/nyheder/seneste/sygemeldt-politiker-traekker-sig-helt-fra-politik",
+        "published_date": "2026-10-01 04:59:00",
         "category": "Local Events"
     }
 ]
