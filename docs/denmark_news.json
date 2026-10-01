@@ -322,10 +322,108 @@
         "category": "Economy"
     },
     {
+        "title": "California roller coaster closes after reports of brain injuries",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rutsjebane-i-californien-lukker-efter-meldinger-om-hjerneskader?referrer=RSS",
+        "published_date": "2026-10-01 01:24:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Organizer cancels Kanye West concerts in Russia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/arrangoer-aflyser-kanye-west-koncerter-i-rusland?referrer=RSS",
+        "published_date": "2026-10-01 01:21:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Musk will be at the head of the US government project on warfare",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/musk-skal-staa-i-spidsen-for-amerikansk-regeringsprojekt-om-krigsfoerelse?referrer=RSS",
+        "published_date": "2026-10-01 00:27:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Supreme Court clears way for execution of woman in Tennessee",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hoejesteret-baner-vej-for-henrettelse-af-kvinde-i-tennessee?referrer=RSS",
+        "published_date": "2026-10-01 00:14:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Supreme Court Overturns Stay of Execution in Tennessee",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hoejesteret-ophaever-udsaettelse-af-henrettelse-i-tennessee",
+        "published_date": "2026-09-30 23:40:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pennsylvania records fifth measles-related death this year",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/pennsylvania-registrerer-femte-doedsfald-relateret-til-maeslinger-i-aar?referrer=RSS",
+        "published_date": "2026-09-30 23:29:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Haaland is suing Norwegian for commercial exploitation during the World Cup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/haaland-sagsoeger-norwegian-for-kommerciel-udnyttelse-under-vm?referrer=RSS",
+        "published_date": "2026-09-30 23:14:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least seven killed in shooting attack on bus in Syria",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mindst-syv-draebt-i-skudangreb-paa-bus-i-syrien?referrer=RSS",
+        "published_date": "2026-09-30 22:30:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Residents are evacuated as a result of an apartment fire in Odense",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/beboere-evakueres-som-foelge-af-lejlighedsbrand-i-odense?referrer=RSS",
+        "published_date": "2026-09-30 22:12:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several residents evacuated after apartment fire in Odense",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-beboere-evakueret-efter-lejlighedsbrand-i-odense",
+        "published_date": "2026-09-30 22:12:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "S will close the radio channel and move the millions to other media",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/s-vil-lukke-radiokanal-og-flytte-millionerne-til-andre-medier?referrer=RSS",
+        "published_date": "2026-09-30 21:48:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Google restricts access to AI model for security reasons",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/google-begraenser-adgang-til-ai-model-af-sikkerhedshensyn?referrer=RSS",
+        "published_date": "2026-09-30 21:09:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Italy again extends strengthened border control of travelers from Spain",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/italien-forlaenger-igen-styrket-graensekontrol-af-rejsende-fra-spanien",
+        "published_date": "2026-09-30 18:49:10",
+        "category": "Local Events"
+    },
+    {
         "title": "Watch the match here: Esbjerg lays down the ice for the match against Frederikshavn",
         "source": "JydskeVestkysten",
         "url": "https://jv.dk/sport/se-kampen-her-esbjerg-laegger-is-til-opgoeret-mod-frederikshavn?rss",
         "published_date": "2026-09-30 17:50:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six convicted of murder after migrant shipwreck",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/seks-doemt-drab-efter-migrantforlis",
+        "published_date": "2026-09-30 16:42:20",
         "category": "Local Events"
     },
     {
@@ -361,104 +459,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/flertal-i-etisk-raad-anbefaler-at-fjerne-anonym-saed-og-aegdonation?referrer=RSS",
         "published_date": "2026-09-30 16:00:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crack in \"Project Jupiter\": Oracle downturn raises fears of AI problems",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/aktier/knas-i-project-jupiter-oracle-nedtur-vaekker-frygt-for-ai-problemer?referrer=RSS",
-        "published_date": "2026-09-30 15:43:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Riemer must make tough decisions: otherwise we will be run over",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/riemer-skal-traeffe-haarde-beslutninger-ellers-bliver-vi-koert-over?referrer=RSS",
-        "published_date": "2026-09-30 15:32:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Execution of Christa Pike postponed",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/henrettelsen-af-christa-pike-udsat",
-        "published_date": "2026-09-30 15:12:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The year's hottest day measured in Bergen in Norway",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/aarets-varmeste-dag-maalt-i-bergen-i-norge",
-        "published_date": "2026-09-30 14:01:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rage over\u00a0Royal Run ticket sales:\u00a0But you can still run - with a bit of luck",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/raser-over-billetsalg-til-royal-run-men-du-kan-stadig-loebe-med-med-lidt-held?rss",
-        "published_date": "2026-09-30 13:48:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "'It's completely crazy now': Minister wants a joint sports policy framework",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/den-er-helt-gal-nu-minister-vil-have-en-faelles-idraetspolitisk-ramme",
-        "published_date": "2026-09-30 12:18:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six people in diving accident in Norway",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-personer-savnes-efter-dykkerulykke-i-norge",
-        "published_date": "2026-09-30 12:11:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Royal Run reports sold out",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/royal-run-melder-udsolgt",
-        "published_date": "2026-09-30 11:09:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mikkel Kessler invites to a press conference about 'big news from the world of professional boxing'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mikkel-kessler-inviterer-til-pressemoede-om-stor-nyhed-fra-den-professionelle-bokseverden",
-        "published_date": "2026-09-30 09:28:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Provo artist is fined for insulting a prison guard",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/provokunstner-idoemmes-boede-kraenke-faengselsbetjent",
-        "published_date": "2026-09-30 09:21:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flight from Dubai to Tel Aviv diverted after emergency signal",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fly-fra-dubai-til-tel-aviv-omdirigeret-efter-noedsignal",
-        "published_date": "2026-09-30 09:11:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260930/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-73",
-        "published_date": "2026-09-30 08:34:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another Romanian extradited in a murder case",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/endnu-en-rumaener-udleveret-i-drabssag",
-        "published_date": "2026-09-30 07:23:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police report a large home security exercise",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-melder-om-stor-hjemmevaernsoevelse",
-        "published_date": "2026-09-30 05:56:12",
         "category": "Local Events"
     }
 ]
