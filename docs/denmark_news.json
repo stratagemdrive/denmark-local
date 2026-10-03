@@ -1,5 +1,12 @@
 [
     {
+        "title": "War in Europe - follow the developments here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-udviklingen-her-30?referrer=RSS",
+        "published_date": "2026-10-03 13:24:53",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The G7 will release up to 100 million barrels of diesel and crude oil",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/g7-vil-frigive-op-til-100-millioner-toender-diesel-og-raaolie?referrer=RSS",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Sall Grover has fought for five years to keep her women's app free of legally transgender men.Now she gives lost",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/sall-grover-har-kaempet-i-fem-aar-for-at-holde-sin-kvinde-app-fri-for-maend-med-juridisk-koensskifte-nu-giver-hun-fortabt?referrer=RSS",
-        "published_date": "2026-09-25 14:50:22",
-        "category": "Diplomacy"
-    },
-    {
         "title": "South Korea reports ballistic missile fired from North Korea",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/sydkorea-melder-om-ballistisk-missil-affyret-fra-nordkorea?referrer=RSS",
@@ -259,13 +259,6 @@
         "category": "Energy"
     },
     {
-        "title": "Gastronomy The editor recommends: I myself eat street food here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/gastronomi/gastronomiredaktoeren-anbefaler-her-spiser-jeg-selv-street-food?referrer=RSS",
-        "published_date": "2026-09-25 14:57:00",
-        "category": "Energy"
-    },
-    {
         "title": "The state earns 70 million a year from vilified tax interest - now the minister steps in",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/staten-tjener-70-millioner-om-aaret-paa-udskaeldte-skatterenter--nu-skrider-minister-ind?referrer=RSS",
@@ -336,150 +329,143 @@
         "category": "Economy"
     },
     {
-        "title": "Creates crisis contact between authorities and business",
+        "title": "Berlingske believes: Of course, prosecutors should not wear headscarves",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/ledere/berlingske-mener-selvfoelgelig-skal-anklagere-ikke-gaa-med-toerklaede?referrer=RSS",
+        "published_date": "2026-10-03 14:43:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire broke out in a storage hall at a sugar factory in Nakskov",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/brand-opstaaet-i-lagerhal-paa-sukkerfabrik-i-nakskov?referrer=RSS",
+        "published_date": "2026-10-03 14:32:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "He became one of Denmark's most powerful men overnight.Now Morten Skov has developed a taste for it",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/han-blev-en-af-danmarks-mest-magtfulde-maend-over-natten-nu-har-morten-skov-faaet-smag-for-det?referrer=RSS",
+        "published_date": "2026-10-03 14:19:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "A wormhole has opened in Ish\u00f8j.On the other side, one of life's biggest questions awaits",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kunst/et-ormehul-har-aabnet-sig-i-ishoej-paa-den-anden-side-venter-et-af-livets-helt-store-spoergsmaal?referrer=RSS",
+        "published_date": "2026-10-03 13:44:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about Danish politics - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-med-her-111?referrer=RSS",
+        "published_date": "2026-10-03 13:37:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about American politics - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-326?referrer=RSS",
+        "published_date": "2026-10-03 13:33:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "The protests over the housing crisis continue in Spain",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/opretter-krisekontakt-mellem-myndigheder-og-erhvervsliv",
-        "published_date": "2026-09-25 14:26:53",
-        "category": "Economy"
+        "url": "https://www.dr.dk/nyheder/seneste/protesterne-over-boligkrisen-fortsaetter-i-spanien",
+        "published_date": "2026-10-03 13:22:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "As a youngster, Naser Khader was offered 2,000 votes for his influence \u2013 now he warns of clan loyalty that can pressure democracy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/som-ung-blev-naser-khader-tilbudt-2000-stemmer-for-sin-indflydelse--nu-advarer-han-om-klanloyalitet-der-kan-presse-demokratiet?referrer=RSS",
+        "published_date": "2026-10-03 13:19:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dead whale at Klitm\u00f8ller must be left on the beach",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/doed-hval-ved-klitmoeller-skal-blive-liggende-paa-stranden-1?referrer=RSS",
+        "published_date": "2026-10-03 13:16:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pumpkin weighing 1,198 kilos is this year's giant pumpkin",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/graeskar-paa-1-198-kilo-er-aarets-kaempegraeskar",
+        "published_date": "2026-10-03 12:26:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inside Denmark: Why I'm secretly looking forward to the winter months in Denmark",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261003/inside-denmark-why-im-secretly-looking-forward-to-the-winter-months-in-denmark",
+        "published_date": "2026-10-03 11:40:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Faulty train causes delays on several S-train lines",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fejlramt-tog-skaber-forsinkelser-paa-flere-s-togslinjer",
+        "published_date": "2026-10-03 10:41:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "SAS aircraft had to turn around when a drone alert closed an airport in Lithuania",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sas-fly-maatte-vende-om-da-drone-alarm-lukkede-lufthavn-i-litauen",
+        "published_date": "2026-10-03 09:13:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the Agenda: What's happening in Denmark next week?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261003/on-the-agenda-whats-happening-in-denmark-this-week-11",
+        "published_date": "2026-10-03 08:54:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "The beached whale at Klitm\u00f8ller must remain",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/strandet-hval-ved-klitmoeller-skal-blive-liggende",
+        "published_date": "2026-10-03 06:34:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "10 injured after car hits crowd in Australian city",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/10-saaret-efter-bil-ramte-menneskemaengde-i-australsk",
+        "published_date": "2026-10-03 06:30:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four people charged with the murder of a 37-year-old man in Greenland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-personer-sigtet-drab-paa-37-aarig-mand-i-groenland",
+        "published_date": "2026-10-03 03:31:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Governor wants loophole in law closed after Cornell case",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/guvernoer-vil-have-smuthul-i-loven-lukket-efter-cornell-sag",
+        "published_date": "2026-10-03 03:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five people killed in Israeli attack in Gaza City",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fem-personer-draebt-i-israelsk-angreb-i-gaza",
+        "published_date": "2026-10-03 01:32:52",
+        "category": "Local Events"
     },
     {
         "title": "Authorities report five killed in Israeli attack in Gaza City",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/myndigheder-melder-fem-draebt-i-israelsk-angreb-i-gaza-by?referrer=RSS",
         "published_date": "2026-10-03 01:20:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "New York governor to close legal loophole after Cornell case",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/new-yorks-guvernoer-vil-lukke-juridisk-smuthul-efter-cornell-sag?referrer=RSS",
-        "published_date": "2026-10-02 23:51:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The municipality of Greenland stops the sale of alcohol",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/groenlandsk-kommune-stopper-salg-af-alkohol",
-        "published_date": "2026-10-02 23:20:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "American woman is on ventilator after failed execution",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amerikansk-kvinde-ligger-i-respirator-efter-mislykket-henrettelse?referrer=RSS",
-        "published_date": "2026-10-02 23:08:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zidane suffers first point loss as France coach",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/zidane-lider-foerste-pointtab-som-frankrigs-landstraener?referrer=RSS",
-        "published_date": "2026-10-02 20:59:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "140 pigs have died after an accident with an overturned pig transport",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/140-grise-er-doede-efter-ulykke-med-vaeltet-grisetransport?referrer=RSS",
-        "published_date": "2026-10-02 20:29:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ringk\u00f8bingvej reopened after overturned pig transport - 140 pigs died",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ringkoebingvej-genaabnet-efter-vaeltet-grisetransport-140-grise-doede",
-        "published_date": "2026-10-02 20:26:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two Iranians charged with terror plots against Jews in Manchester",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/to-iranere-sigtes-for-terrorplaner-mod-joeder-i-manchester?referrer=RSS",
-        "published_date": "2026-10-02 20:20:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Efficient Aalborg gives Rungsted new claws on its own ice",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/effektive-aalborg-giver-rungsted-nye-kloe-paa-egen-is?referrer=RSS",
-        "published_date": "2026-10-02 20:08:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 16-year-old girl has been seriously injured in an accident on an electric bicycle in Risskov",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/16-aarig-pige-er-kommet-alvorligt-til-skade-i-ulykke-paa-elcykel-i-risskov",
-        "published_date": "2026-10-02 20:04:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "The government will spend 150 million on trained personnel in day care",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/regering-vil-bruge-150-millioner-paa-uddannet-personale-i-dagtilbud?referrer=RSS",
-        "published_date": "2026-10-02 19:50:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "British police charge man with terror plans aimed at Nigel Farage",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/britisk-politi-sigter-mand-terrorplaner-rettet-mod-nigel-farage",
-        "published_date": "2026-10-02 18:53:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish speedway star wins EC for the third time",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-speedwaystjerne-vinder-em-tredje-gang",
-        "published_date": "2026-10-02 18:29:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Watch PrimeTime Boxing from Odense here: Elias Faour against undefeated Czech",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/se-primetime-boxing-fra-odense-her-elias-faour-mod-ubesejret-tjekke?rss",
-        "published_date": "2026-10-02 18:20:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "100 million will be set aside for public transport - and for Bornholm to be able to get Rejsekort",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/100-millioner-afsaettes-til-udviklingen-af-kollektiv-trafik-og-til-bornholm-kan-faa-rejsekort",
-        "published_date": "2026-10-02 16:50:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The portrait everyone has an opinion on:\u00a0\u00bbIs the nose too narrow?Is one eye drooping?And what about the strange background?'",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/portraettet-alle-har-en-mening-omer-naesen-for-smal-haenger-det-ene-oeje-og-hvad-med-den-maerkelige-baggrund?referrer=RSS",
-        "published_date": "2026-10-02 16:07:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish ice hockey manager loses international top post",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dansk-ishockeychef-mister-international-toppost?referrer=RSS",
-        "published_date": "2026-10-02 16:05:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media say police will charge them with terror endorsement for Palestine post on 'armed resistance'",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/medie-siger-at-politiet-vil-sigte-dem-for-terrorbilligelse-for-palaestina-indlaeg-om-vaebnet-modstand?referrer=RSS",
-        "published_date": "2026-10-02 15:52:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Massive queues on the Sydmotorvejen between Far\u00f8broerne and N\u00f8rre Alslev have paralyzed Friday traffic",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/massiv-koe-paa-sydmotorvejen-mellem-faroebroerne-og-noerre-alslev-har-lammet-fredagstrafikken",
-        "published_date": "2026-10-02 15:50:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The music festival South of the Sun will take a break in 2027",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/musikfestivalen-syd-for-solen-holder-pause-i-2027?referrer=RSS",
-        "published_date": "2026-10-02 15:37:46",
         "category": "Local Events"
     }
 ]
