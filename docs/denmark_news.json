@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "South Korea reports ballistic missile fired from North Korea",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/sydkorea-melder-om-ballistisk-missil-affyret-fra-nordkorea?referrer=RSS",
+        "published_date": "2026-10-03 00:15:44",
+        "category": "Military"
+    },
+    {
+        "title": "Three bridges are completely or partially closed in Kyiv after attacks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tre-broer-er-helt-eller-delvist-lukket-i-kyiv-efter-angreb?referrer=RSS",
+        "published_date": "2026-10-02 21:08:46",
+        "category": "Military"
+    },
+    {
         "title": "Suddenly the details gushed out of the army chief: openness about mother drone, car chase and Ukrainians is a dramatic shift",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/pludselig-fossede-detaljerne-ud-af-haerchefen-aabenhed-om-moderdrone-biljagt-og-ukrainere-er-dramatisk-skift?referrer=RSS",
@@ -228,20 +242,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/britisk-politi-anholder-fem-naer-militaerbase-brugt-af-usa?referrer=RSS",
         "published_date": "2026-09-27 15:21:46",
-        "category": "Military"
-    },
-    {
-        "title": "France will send soldiers to important oil route in Saudi Arabia",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/frankrig-vil-sende-soldater-til-vigtig-olierute-i-saudi-arabien?referrer=RSS",
-        "published_date": "2026-09-24 23:34:50",
-        "category": "Military"
-    },
-    {
-        "title": "France will send soldiers to important oil route in Saudi Arabia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/frankrig-vil-sende-soldater-til-vigtig-olierute-i-saudi-arabien",
-        "published_date": "2026-09-24 22:55:52",
         "category": "Military"
     },
     {
@@ -343,10 +343,108 @@
         "category": "Economy"
     },
     {
+        "title": "Authorities report five killed in Israeli attack in Gaza City",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/myndigheder-melder-fem-draebt-i-israelsk-angreb-i-gaza-by?referrer=RSS",
+        "published_date": "2026-10-03 01:20:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "New York governor to close legal loophole after Cornell case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/new-yorks-guvernoer-vil-lukke-juridisk-smuthul-efter-cornell-sag?referrer=RSS",
+        "published_date": "2026-10-02 23:51:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The municipality of Greenland stops the sale of alcohol",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/groenlandsk-kommune-stopper-salg-af-alkohol",
+        "published_date": "2026-10-02 23:20:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "American woman is on ventilator after failed execution",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/amerikansk-kvinde-ligger-i-respirator-efter-mislykket-henrettelse?referrer=RSS",
+        "published_date": "2026-10-02 23:08:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zidane suffers first point loss as France coach",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/zidane-lider-foerste-pointtab-som-frankrigs-landstraener?referrer=RSS",
+        "published_date": "2026-10-02 20:59:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "140 pigs have died after an accident with an overturned pig transport",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/140-grise-er-doede-efter-ulykke-med-vaeltet-grisetransport?referrer=RSS",
+        "published_date": "2026-10-02 20:29:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ringk\u00f8bingvej reopened after overturned pig transport - 140 pigs died",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ringkoebingvej-genaabnet-efter-vaeltet-grisetransport-140-grise-doede",
+        "published_date": "2026-10-02 20:26:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two Iranians charged with terror plots against Jews in Manchester",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/to-iranere-sigtes-for-terrorplaner-mod-joeder-i-manchester?referrer=RSS",
+        "published_date": "2026-10-02 20:20:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Efficient Aalborg gives Rungsted new claws on its own ice",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/effektive-aalborg-giver-rungsted-nye-kloe-paa-egen-is?referrer=RSS",
+        "published_date": "2026-10-02 20:08:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 16-year-old girl has been seriously injured in an accident on an electric bicycle in Risskov",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/16-aarig-pige-er-kommet-alvorligt-til-skade-i-ulykke-paa-elcykel-i-risskov",
+        "published_date": "2026-10-02 20:04:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The government will spend 150 million on trained personnel in day care",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/regering-vil-bruge-150-millioner-paa-uddannet-personale-i-dagtilbud?referrer=RSS",
+        "published_date": "2026-10-02 19:50:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "British police charge man with terror plans aimed at Nigel Farage",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/britisk-politi-sigter-mand-terrorplaner-rettet-mod-nigel-farage",
+        "published_date": "2026-10-02 18:53:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish speedway star wins EC for the third time",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dansk-speedwaystjerne-vinder-em-tredje-gang",
+        "published_date": "2026-10-02 18:29:50",
+        "category": "Local Events"
+    },
+    {
         "title": "Watch PrimeTime Boxing from Odense here: Elias Faour against undefeated Czech",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/sport/se-primetime-boxing-fra-odense-her-elias-faour-mod-ubesejret-tjekke?rss",
         "published_date": "2026-10-02 18:20:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "100 million will be set aside for public transport - and for Bornholm to be able to get Rejsekort",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/100-millioner-afsaettes-til-udviklingen-af-kollektiv-trafik-og-til-bornholm-kan-faa-rejsekort",
+        "published_date": "2026-10-02 16:50:45",
         "category": "Local Events"
     },
     {
@@ -382,104 +480,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/musikfestivalen-syd-for-solen-holder-pause-i-2027?referrer=RSS",
         "published_date": "2026-10-02 15:37:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The world's best leave the Danish handball champions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/verdens-bedste-forlader-de-danske-haandboldmestre?referrer=RSS",
-        "published_date": "2026-10-02 15:12:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Syd For Solen pauses for thought",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/syd-solen-holder-taenkepause",
-        "published_date": "2026-10-02 15:10:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Student riots seem out of control: \"It's the hour of truth in France\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/studenteroproer-synes-ude-af-kontrol-det-er-sandhedens-time-i-frankrig?referrer=RSS",
-        "published_date": "2026-10-02 15:03:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen Festival will not return in 2027",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kultur/koebenhavnerfestival-vender-ikke-tilbage-i-2027?referrer=RSS",
-        "published_date": "2026-10-02 14:56:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police have fired shots in Aalborg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-har-affyret-skud-i-aalborg",
-        "published_date": "2026-10-02 14:34:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "OpenAI confirms another hacker attack against Australian authority",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/openai-bekraefter-endnu-et-hackerangreb-mod-australsk-myndighed",
-        "published_date": "2026-10-02 14:17:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "14 songs you need to know to fit in on a Danish dance floor",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261002/14-songs-you-need-to-know-to-fit-in-on-a-danish-dance-floor",
-        "published_date": "2026-10-02 12:52:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Person found dead after fire in Nyborg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/person-fundet-doed-efter-brand-i-nyborg",
-        "published_date": "2026-10-02 12:49:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lego sued in the US: Big investment has ended up in a patent dispute",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/lego-sagsoegt-i-usa-stor-satsning-er-havnet-i-patentstrid?rss",
-        "published_date": "2026-10-02 12:44:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pig transport overturned at Videb\u00e6k",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/grisetransport-vaeltet-ved-videbaek",
-        "published_date": "2026-10-02 12:30:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nibe Festival 2027 sold out earlier than ever",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nibe-festival-2027-udsolgt-tidligere-end-nogensinde",
-        "published_date": "2026-10-02 12:23:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norway's King Haakon has opened the Storting for the first time as king",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norges-kong-haakon-har-aabnet-stortinget-foerste-gang-som-konge",
-        "published_date": "2026-10-02 12:11:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hacker attack at DTU could affect up to 200,000 people",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261002/hacker-attack-at-dtu-could-affect-up-to-200000-people",
-        "published_date": "2026-10-02 11:57:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Funen YouTube brothers get huge fines for video about vodka smuggling",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/youtube-broedre-faar-boede-paa-140-000-kroner-for-video-om-vodkasmugling?rss",
-        "published_date": "2026-10-02 11:50:00",
         "category": "Local Events"
     }
 ]
