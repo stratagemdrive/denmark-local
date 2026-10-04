@@ -1,5 +1,12 @@
 [
     {
+        "title": "Houthis blame Saudi Arabia for airstrikes in Sanaa",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/houthier-beskylder-saudi-arabien-for-luftangreb-i-sanaa?referrer=RSS",
+        "published_date": "2026-10-03 20:34:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "War in Europe - follow the developments here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-udviklingen-her-30?referrer=RSS",
@@ -116,27 +123,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20260926/breakthroughs-for-the-radical-and-far-right-in-europe",
         "published_date": "2026-09-26 15:11:29",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iran: We have offered the US a plan to reopen the Strait of Hormuz",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iran-vi-har-tilbudt-usa-en-plan-for-genaabning-af-hormuzstraedet?referrer=RSS",
-        "published_date": "2026-09-25 23:03:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iran in seven days plan: Strait of Hormuz can reopen if US accepts demands",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-om-syv-dages-plan-hormuzstraedet-kan-genaabne-hvis-usa-accepterer-krav",
-        "published_date": "2026-09-25 21:58:18",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Putin: We are not preparing for conflict with Europe",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/putin-vi-forbereder-ikke-konflikt-med-europa",
-        "published_date": "2026-09-25 19:37:15",
         "category": "Diplomacy"
     },
     {
@@ -322,11 +308,102 @@
         "category": "Economy"
     },
     {
-        "title": "Media: English clubs investigate possible compensation in City case",
+        "title": "Latvia's ruling party is a resounding winner of the election",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/medier-engelske-klubber-undersoeger-mulig-kompensation-i-city-sag?referrer=RSS",
-        "published_date": "2026-09-26 00:56:46",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/letlands-regeringsparti-bliver-suveraen-vinder-af-valg?referrer=RSS",
+        "published_date": "2026-10-04 01:59:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cornell chancellor promises openness after alleged gang-rape",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/cornells-rektor-lover-aabenhed-efter-paastaaet-gruppevoldtaegt?referrer=RSS",
+        "published_date": "2026-10-04 00:45:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "America's top intelligence chief to lead AI task force",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usas-oeverste-efterretningschef-skal-lede-ai-arbejdsgruppe?referrer=RSS",
+        "published_date": "2026-10-04 00:18:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "New American working group to investigate artificial intelligence",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-amerikansk-arbejdsgruppe-skal-undersoege-kunstig-intelligens",
+        "published_date": "2026-10-03 23:27:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man transferred to Rigshospitalet after shooting in Kastrup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/mand-er-overfoert-til-rigshospitalet-efter-skud-i-kastrup?referrer=RSS",
+        "published_date": "2026-10-03 23:01:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man hit by gunfire in Kastrup",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-ramt-af-skud-i-kastrup",
+        "published_date": "2026-10-03 21:42:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Freddie Mercury's notebook sold for nearly DKK 2.5 million",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/freddie-mercurys-notesbog-solgt-for-knap-25-millioner-kroner?referrer=RSS",
+        "published_date": "2026-10-03 20:43:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lamine Yamal conjures again in Spain's victory over the Czech Republic",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/lamine-yamal-tryller-igen-i-spansk-sejr-over-tjekkiet?referrer=RSS",
+        "published_date": "2026-10-03 20:43:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pheasant hunting is more than hunting \u2013 it is nature care all year round",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/fasanjagt-er-mere-end-jagt--det-er-naturpleje-aaret-rundt?referrer=RSS",
+        "published_date": "2026-10-03 20:03:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ireland's press conference interrupted after questions from Israeli journalists",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/irlands-pressemoede-afbrudt-efter-spoergsmaal-fra-israelske-journalister?referrer=RSS",
+        "published_date": "2026-10-03 19:55:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Demonstrations continue in Northern Irish city",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fortsatte-demonstrationer-i-nordirsk",
+        "published_date": "2026-10-03 19:38:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crying, paranoia and an offer of Fox News to Greenland: Here is the previously unknown story of an agreement that almost crumbled",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/graad-paranoia-og-et-tilbud-om-fox-news-til-groenland-her-er-den-hidtil-ukendte-historie-om-en-aftale-der-naer-var-smuldret?referrer=RSS",
+        "published_date": "2026-10-03 19:29:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kate has contracted a mysterious illness after working 50 hours a week",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/vejen/kate-har-faaet-mystisk-sygdom-efter-at-have-knoklet-50-timer-om-ugen-ny-forskning-stoetter-hende?rss",
+        "published_date": "2026-10-03 19:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Coast Guard searches for missing private plane off US coast",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kystvagt-leder-efter-forsvundet-privatfly-ud-usa",
+        "published_date": "2026-10-03 15:48:12",
+        "category": "Local Events"
     },
     {
         "title": "Berlingske believes: Of course, prosecutors should not wear headscarves",
@@ -350,6 +427,13 @@
         "category": "Local Events"
     },
     {
+        "title": "The state is putting historic waterfront homes up for sale for millions",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/aabenraa/staten-saetter-historiske-vandkantsboliger-til-salg?rss",
+        "published_date": "2026-10-03 14:06:00",
+        "category": "Local Events"
+    },
+    {
         "title": "A wormhole has opened in Ish\u00f8j.On the other side, one of life's biggest questions awaits",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kunst/et-ormehul-har-aabnet-sig-i-ishoej-paa-den-anden-side-venter-et-af-livets-helt-store-spoergsmaal?referrer=RSS",
@@ -361,111 +445,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-med-her-111?referrer=RSS",
         "published_date": "2026-10-03 13:37:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news about American politics - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-326?referrer=RSS",
-        "published_date": "2026-10-03 13:33:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "The protests over the housing crisis continue in Spain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/protesterne-over-boligkrisen-fortsaetter-i-spanien",
-        "published_date": "2026-10-03 13:22:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "As a youngster, Naser Khader was offered 2,000 votes for his influence \u2013 now he warns of clan loyalty that can pressure democracy",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/som-ung-blev-naser-khader-tilbudt-2000-stemmer-for-sin-indflydelse--nu-advarer-han-om-klanloyalitet-der-kan-presse-demokratiet?referrer=RSS",
-        "published_date": "2026-10-03 13:19:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dead whale at Klitm\u00f8ller must be left on the beach",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/doed-hval-ved-klitmoeller-skal-blive-liggende-paa-stranden-1?referrer=RSS",
-        "published_date": "2026-10-03 13:16:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pumpkin weighing 1,198 kilos is this year's giant pumpkin",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/graeskar-paa-1-198-kilo-er-aarets-kaempegraeskar",
-        "published_date": "2026-10-03 12:26:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside Denmark: Why I'm secretly looking forward to the winter months in Denmark",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261003/inside-denmark-why-im-secretly-looking-forward-to-the-winter-months-in-denmark",
-        "published_date": "2026-10-03 11:40:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Faulty train causes delays on several S-train lines",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fejlramt-tog-skaber-forsinkelser-paa-flere-s-togslinjer",
-        "published_date": "2026-10-03 10:41:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "SAS aircraft had to turn around when a drone alert closed an airport in Lithuania",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sas-fly-maatte-vende-om-da-drone-alarm-lukkede-lufthavn-i-litauen",
-        "published_date": "2026-10-03 09:13:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What's happening in Denmark next week?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261003/on-the-agenda-whats-happening-in-denmark-this-week-11",
-        "published_date": "2026-10-03 08:54:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "The beached whale at Klitm\u00f8ller must remain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/strandet-hval-ved-klitmoeller-skal-blive-liggende",
-        "published_date": "2026-10-03 06:34:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "10 injured after car hits crowd in Australian city",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/10-saaret-efter-bil-ramte-menneskemaengde-i-australsk",
-        "published_date": "2026-10-03 06:30:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four people charged with the murder of a 37-year-old man in Greenland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-personer-sigtet-drab-paa-37-aarig-mand-i-groenland",
-        "published_date": "2026-10-03 03:31:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Governor wants loophole in law closed after Cornell case",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/guvernoer-vil-have-smuthul-i-loven-lukket-efter-cornell-sag",
-        "published_date": "2026-10-03 03:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five people killed in Israeli attack in Gaza City",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fem-personer-draebt-i-israelsk-angreb-i-gaza",
-        "published_date": "2026-10-03 01:32:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities report five killed in Israeli attack in Gaza City",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/myndigheder-melder-fem-draebt-i-israelsk-angreb-i-gaza-by?referrer=RSS",
-        "published_date": "2026-10-03 01:20:45",
         "category": "Local Events"
     }
 ]
