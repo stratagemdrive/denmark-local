@@ -1,5 +1,12 @@
 [
     {
+        "title": "War in Europe - follow the developments here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-udviklingen-her-32?referrer=RSS",
+        "published_date": "2026-10-04 14:51:37",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Houthis blame Saudi Arabia for airstrikes in Sanaa",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/houthier-beskylder-saudi-arabien-for-luftangreb-i-sanaa?referrer=RSS",
@@ -116,13 +123,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/eu-sender-milliardbeloeb-til-kriseramte-befolkninger-i-afrika?referrer=RSS",
         "published_date": "2026-09-26 20:59:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Breakthroughs for the radical and far-right in Europe",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260926/breakthroughs-for-the-radical-and-far-right-in-europe",
-        "published_date": "2026-09-26 15:11:29",
         "category": "Diplomacy"
     },
     {
@@ -301,150 +301,143 @@
         "category": "Economy"
     },
     {
-        "title": "Messerschmidt has a vision for 2035 and will focus on families",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/messerschmidt-har-en-vision-for-2035-og-vil-fokusere-paa-familier?referrer=RSS",
-        "published_date": "2026-09-26 14:46:47",
-        "category": "Economy"
-    },
-    {
-        "title": "Latvia's ruling party is a resounding winner of the election",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/letlands-regeringsparti-bliver-suveraen-vinder-af-valg?referrer=RSS",
-        "published_date": "2026-10-04 01:59:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cornell chancellor promises openness after alleged gang-rape",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/cornells-rektor-lover-aabenhed-efter-paastaaet-gruppevoldtaegt?referrer=RSS",
-        "published_date": "2026-10-04 00:45:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "America's top intelligence chief to lead AI task force",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usas-oeverste-efterretningschef-skal-lede-ai-arbejdsgruppe?referrer=RSS",
-        "published_date": "2026-10-04 00:18:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "New American working group to investigate artificial intelligence",
+        "title": "Up to 500 high schools in France will be closed tomorrow",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ny-amerikansk-arbejdsgruppe-skal-undersoege-kunstig-intelligens",
-        "published_date": "2026-10-03 23:27:06",
+        "url": "https://www.dr.dk/nyheder/seneste/op-til-500-gymnasier-i-frankrig-holder-lukket-i-morgen",
+        "published_date": "2026-10-04 15:28:49",
         "category": "Local Events"
     },
     {
-        "title": "Man transferred to Rigshospitalet after shooting in Kastrup",
+        "title": "Several hundred high schools in France are suspending classes",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/mand-er-overfoert-til-rigshospitalet-efter-skud-i-kastrup?referrer=RSS",
-        "published_date": "2026-10-03 23:01:46",
+        "url": "https://www.berlingske.dk/internationalt/flere-hundrede-gymnasier-i-frankrig-indstiller-undervisning?referrer=RSS",
+        "published_date": "2026-10-04 15:26:45",
         "category": "Local Events"
     },
     {
-        "title": "Man hit by gunfire in Kastrup",
+        "title": "Evenepoel takes EC gold after a horror finish and goal photo",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/evenepoel-tager-em-guld-efter-gyserafslutning-og-maalfoto?referrer=RSS",
+        "published_date": "2026-10-04 15:23:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heavy fire in engine house in North Jutland spreads smoke",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/kraftig-brand-i-maskinhus-i-nordjylland-spreder-roeg?referrer=RSS",
+        "published_date": "2026-10-04 15:10:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about American politics - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-328?referrer=RSS",
+        "published_date": "2026-10-04 15:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about Danish politics - follow the development here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-1?referrer=RSS",
+        "published_date": "2026-10-04 14:53:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "War in the Middle East - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krigen-i-mellemoesten-fortsaetter--foelg-med-her-125--124?referrer=RSS",
+        "published_date": "2026-10-04 14:50:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sarah Iben invited to a big 50th birthday party: But the response she got took away the festive spirit",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/eksistens/sarah-iben-inviterede-til-stor-50-aars-foedselsdag-men-responsen-hun-fik-fjernede-festlysten?referrer=RSS",
+        "published_date": "2026-10-04 14:46:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Put a unified departure center for criminals deported in Greenland instead of Denmark",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/laeg-et-samlet-udrejsecenter-for-kriminelle-udviste-i-groenland-i-stedet-for-i-danmark?referrer=RSS",
+        "published_date": "2026-10-04 14:41:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Huge UK music festival sells out in 42 minutes",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-ramt-af-skud-i-kastrup",
-        "published_date": "2026-10-03 21:42:52",
+        "url": "https://www.dr.dk/nyheder/seneste/kaempe-britisk-musikfestival-melder-alt-udsolgt-paa-42-minutter",
+        "published_date": "2026-10-04 14:40:47",
         "category": "Local Events"
     },
     {
-        "title": "Freddie Mercury's notebook sold for nearly DKK 2.5 million",
+        "title": "Fortuna Hj\u00f8rring had a party day at OB Q's home ground",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sport/fortuna-hjoerring-havde-en-festdag-paa-ob-q-s-hjemmebane-2026-10-4?rss",
+        "published_date": "2026-10-04 14:21:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "He lived for a candy in Thailand.Then a dead girl was found rolled up in a suitcase",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/freddie-mercurys-notesbog-solgt-for-knap-25-millioner-kroner?referrer=RSS",
-        "published_date": "2026-10-03 20:43:49",
+        "url": "https://www.berlingske.dk/internationalt/han-levede-for-en-slik-i-thailand-saa-blev-en-doed-pige-fundet-rullet-sammen-i-en-kuffert?referrer=RSS",
+        "published_date": "2026-10-04 14:20:22",
         "category": "Local Events"
     },
     {
-        "title": "Lamine Yamal conjures again in Spain's victory over the Czech Republic",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/lamine-yamal-tryller-igen-i-spansk-sejr-over-tjekkiet?referrer=RSS",
-        "published_date": "2026-10-03 20:43:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pheasant hunting is more than hunting \u2013 it is nature care all year round",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/fasanjagt-er-mere-end-jagt--det-er-naturpleje-aaret-rundt?referrer=RSS",
-        "published_date": "2026-10-03 20:03:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ireland's press conference interrupted after questions from Israeli journalists",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/irlands-pressemoede-afbrudt-efter-spoergsmaal-fra-israelske-journalister?referrer=RSS",
-        "published_date": "2026-10-03 19:55:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Demonstrations continue in Northern Irish city",
+        "title": "24 people injured in fire at campsite on Lake Garda",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fortsatte-demonstrationer-i-nordirsk",
-        "published_date": "2026-10-03 19:38:37",
+        "url": "https://www.dr.dk/nyheder/seneste/24-personer-skadet-i-brand-paa-campingplads-ved-gardasoeen",
+        "published_date": "2026-10-04 13:28:49",
         "category": "Local Events"
     },
     {
-        "title": "Crying, paranoia and an offer of Fox News to Greenland: Here is the previously unknown story of an agreement that almost crumbled",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/graad-paranoia-og-et-tilbud-om-fox-news-til-groenland-her-er-den-hidtil-ukendte-historie-om-en-aftale-der-naer-var-smuldret?referrer=RSS",
-        "published_date": "2026-10-03 19:29:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kate has contracted a mysterious illness after working 50 hours a week",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/vejen/kate-har-faaet-mystisk-sygdom-efter-at-have-knoklet-50-timer-om-ugen-ny-forskning-stoetter-hende?rss",
-        "published_date": "2026-10-03 19:06:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coast Guard searches for missing private plane off US coast",
+        "title": "Two died after floods in northern Spain",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kystvagt-leder-efter-forsvundet-privatfly-ud-usa",
-        "published_date": "2026-10-03 15:48:12",
+        "url": "https://www.dr.dk/nyheder/seneste/doede-efter-oversvoemmelser-i-det-nordlige-spanien",
+        "published_date": "2026-10-04 12:25:56",
         "category": "Local Events"
     },
     {
-        "title": "Berlingske believes: Of course, prosecutors should not wear headscarves",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/berlingske-mener-selvfoelgelig-skal-anklagere-ikke-gaa-med-toerklaede?referrer=RSS",
-        "published_date": "2026-10-03 14:43:33",
+        "title": "Russia attacks bridge in Kyiv while German chancellor is visiting",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-angriber-bro-i-kyiv-mens-tysk-kansler-er-paa-besoeg",
+        "published_date": "2026-10-04 11:05:27",
         "category": "Local Events"
     },
     {
-        "title": "Fire broke out in a storage hall at a sugar factory in Nakskov",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/brand-opstaaet-i-lagerhal-paa-sukkerfabrik-i-nakskov?referrer=RSS",
-        "published_date": "2026-10-03 14:32:46",
+        "title": "Verstappen wins chaos-ridden grand prix in Bahrain",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/verstappen-vinder-kaosramt-grand-prix-i-bahrain",
+        "published_date": "2026-10-04 10:39:38",
         "category": "Local Events"
     },
     {
-        "title": "He became one of Denmark's most powerful men overnight.Now Morten Skov has developed a taste for it",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/han-blev-en-af-danmarks-mest-magtfulde-maend-over-natten-nu-har-morten-skov-faaet-smag-for-det?referrer=RSS",
-        "published_date": "2026-10-03 14:19:50",
+        "title": "SAS plane makes an emergency landing in Zurich after smoke from a faulty oven",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sas-fly-sikkerhedslander-i-zurich-efter-roeg-fra-defekt-ovn",
+        "published_date": "2026-10-04 07:54:18",
         "category": "Local Events"
     },
     {
-        "title": "The state is putting historic waterfront homes up for sale for millions",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/aabenraa/staten-saetter-historiske-vandkantsboliger-til-salg?rss",
-        "published_date": "2026-10-03 14:06:00",
+        "title": "Two killed by gunshots and one seriously injured in south-eastern Norway",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tre-personer-er-skudt-i-det-sydoestlige-norge",
+        "published_date": "2026-10-04 07:10:04",
         "category": "Local Events"
     },
     {
-        "title": "A wormhole has opened in Ish\u00f8j.On the other side, one of life's biggest questions awaits",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kunst/et-ormehul-har-aabnet-sig-i-ishoej-paa-den-anden-side-venter-et-af-livets-helt-store-spoergsmaal?referrer=RSS",
-        "published_date": "2026-10-03 13:44:47",
+        "title": "South Korea's president wants hacker attacks investigated",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sydkoreas-praesident-vil-have-hackerangreb-undersoegt",
+        "published_date": "2026-10-04 06:12:39",
         "category": "Local Events"
     },
     {
-        "title": "Latest news about Danish politics - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-med-her-111?referrer=RSS",
-        "published_date": "2026-10-03 13:37:26",
+        "title": "Latvia's ruling party wins the election",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/letlands-regeringsparti-vinder-valget",
+        "published_date": "2026-10-04 05:10:10",
         "category": "Local Events"
     }
 ]
