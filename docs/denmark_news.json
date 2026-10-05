@@ -119,13 +119,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The EU is sending billions of dollars to crisis-hit populations in Africa",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eu-sender-milliardbeloeb-til-kriseramte-befolkninger-i-afrika?referrer=RSS",
-        "published_date": "2026-09-26 20:59:46",
-        "category": "Diplomacy"
-    },
-    {
         "title": "South Korea reports ballistic missile fired from North Korea",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/sydkorea-melder-om-ballistisk-missil-affyret-fra-nordkorea?referrer=RSS",
@@ -301,6 +294,125 @@
         "category": "Economy"
     },
     {
+        "title": "Lawyer: Woman from Cornell case has been subjected to numerous threats",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/advokat-kvinde-fra-cornell-sag-er-blevet-udsat-for-adskillige-trusler?referrer=RSS",
+        "published_date": "2026-10-05 01:01:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "National coach opens the door for Ronaldo despite trouble",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/landstraener-aabner-doeren-for-ronaldo-trods-ballade?referrer=RSS",
+        "published_date": "2026-10-05 00:33:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula and Bolsonaro are going to duel for the presidency in Brazil",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/lula-og-bolsonaro-skal-ud-i-duel-om-praesidentpost-i-brasilien?referrer=RSS",
+        "published_date": "2026-10-05 00:21:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Egypt charges arrested journalist with joining terrorist group",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/egypten-sigter-anholdt-journalist-for-tilslutning-til-terrorgruppe?referrer=RSS",
+        "published_date": "2026-10-04 23:58:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sources: US removes bombers from British base after suspicious incident",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kilder-usa-fjerner-bombefly-fra-britisk-base-efter-mistaenkelig-haendelse?referrer=RSS",
+        "published_date": "2026-10-04 23:03:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "National coach dropped his rotation plan due to injuries",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/landstraener-droppede-sin-rotationsplan-grundet-skader?referrer=RSS",
+        "published_date": "2026-10-04 22:57:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil's presidential election must be decided in the second round - a direct duel between Bolsonaro and Lula",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flavio-bolsonaro-laegger-sig-i-spidsen-mens-stemmerne-taelles-ved-brasiliens-praesidentvalg",
+        "published_date": "2026-10-04 22:30:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel wore black armbands in controversial clash against Ireland",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/israel-bar-sorte-armbind-i-omstridt-opgoer-mod-irland?referrer=RSS",
+        "published_date": "2026-10-04 21:00:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Late penalty secures Denmark an important win in Wales",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sent-straffespark-sikrer-danmark-en-vigtig-sejr-i-wales?referrer=RSS",
+        "published_date": "2026-10-04 20:48:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Greece keeps Germany out of contention in goalless draw",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/graekenland-holder-tyskland-fra-fadet-i-maalloest-opgoer?referrer=RSS",
+        "published_date": "2026-10-04 20:48:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Portugal gets the shovel under tired Norwegians",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/portugal-faar-skovlen-under-traette-nordmaend?referrer=RSS",
+        "published_date": "2026-10-04 20:48:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Explosions near tanker off Yemen",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eksplosioner-taet-paa-tankskib-ud-yemen",
+        "published_date": "2026-10-04 19:48:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The millions were in the account - but J\u00f8rgen could not bear to stay at home",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/esbjerg/millionerne-stod-paa-kontoen-men-joergen-kunne-ikke-holde-ud-at-gaa-hjemme?rss",
+        "published_date": "2026-10-04 19:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police believe that there is a conflict behind the double murder in Norway",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-mener-der-ligger-en-konflikt-bag-dobbeltdrab-i-norge",
+        "published_date": "2026-10-04 18:44:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Henning saw Esbjerg's landmark in a new light - and hated what he saw: - It gave them a damn bad impression",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/esbjerg/henning-saa-esbjergs-vartegn-i-nyt-lys-og-hadede-hvad-han-saa-det-gav-fandeme-et-daarligt-indtryk?rss",
+        "published_date": "2026-10-04 17:47:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dane close to golf triumph in Scotland",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/dansker-taet-paa-golftriumf-i-skotland",
+        "published_date": "2026-10-04 17:01:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire in Bilka in Hiller\u00f8d extinguished - shop water damaged",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brand-i-bilka-i-hilleroed",
+        "published_date": "2026-10-04 15:56:55",
+        "category": "Local Events"
+    },
+    {
         "title": "Up to 500 high schools in France will be closed tomorrow",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/op-til-500-gymnasier-i-frankrig-holder-lukket-i-morgen",
@@ -319,125 +431,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/evenepoel-tager-em-guld-efter-gyserafslutning-og-maalfoto?referrer=RSS",
         "published_date": "2026-10-04 15:23:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heavy fire in engine house in North Jutland spreads smoke",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/kraftig-brand-i-maskinhus-i-nordjylland-spreder-roeg?referrer=RSS",
-        "published_date": "2026-10-04 15:10:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news about American politics - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-om-amerikansk-politik--foelg-med-her-328?referrer=RSS",
-        "published_date": "2026-10-04 15:00:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news about Danish politics - follow the development here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-1?referrer=RSS",
-        "published_date": "2026-10-04 14:53:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "War in the Middle East - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/krigen-i-mellemoesten-fortsaetter--foelg-med-her-125--124?referrer=RSS",
-        "published_date": "2026-10-04 14:50:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sarah Iben invited to a big 50th birthday party: But the response she got took away the festive spirit",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/eksistens/sarah-iben-inviterede-til-stor-50-aars-foedselsdag-men-responsen-hun-fik-fjernede-festlysten?referrer=RSS",
-        "published_date": "2026-10-04 14:46:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Put a unified departure center for criminals deported in Greenland instead of Denmark",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/laeg-et-samlet-udrejsecenter-for-kriminelle-udviste-i-groenland-i-stedet-for-i-danmark?referrer=RSS",
-        "published_date": "2026-10-04 14:41:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Huge UK music festival sells out in 42 minutes",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kaempe-britisk-musikfestival-melder-alt-udsolgt-paa-42-minutter",
-        "published_date": "2026-10-04 14:40:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fortuna Hj\u00f8rring had a party day at OB Q's home ground",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/fortuna-hjoerring-havde-en-festdag-paa-ob-q-s-hjemmebane-2026-10-4?rss",
-        "published_date": "2026-10-04 14:21:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "He lived for a candy in Thailand.Then a dead girl was found rolled up in a suitcase",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/han-levede-for-en-slik-i-thailand-saa-blev-en-doed-pige-fundet-rullet-sammen-i-en-kuffert?referrer=RSS",
-        "published_date": "2026-10-04 14:20:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "24 people injured in fire at campsite on Lake Garda",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/24-personer-skadet-i-brand-paa-campingplads-ved-gardasoeen",
-        "published_date": "2026-10-04 13:28:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two died after floods in northern Spain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/doede-efter-oversvoemmelser-i-det-nordlige-spanien",
-        "published_date": "2026-10-04 12:25:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia attacks bridge in Kyiv while German chancellor is visiting",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rusland-angriber-bro-i-kyiv-mens-tysk-kansler-er-paa-besoeg",
-        "published_date": "2026-10-04 11:05:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Verstappen wins chaos-ridden grand prix in Bahrain",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/verstappen-vinder-kaosramt-grand-prix-i-bahrain",
-        "published_date": "2026-10-04 10:39:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "SAS plane makes an emergency landing in Zurich after smoke from a faulty oven",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sas-fly-sikkerhedslander-i-zurich-efter-roeg-fra-defekt-ovn",
-        "published_date": "2026-10-04 07:54:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two killed by gunshots and one seriously injured in south-eastern Norway",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-personer-er-skudt-i-det-sydoestlige-norge",
-        "published_date": "2026-10-04 07:10:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "South Korea's president wants hacker attacks investigated",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sydkoreas-praesident-vil-have-hackerangreb-undersoegt",
-        "published_date": "2026-10-04 06:12:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latvia's ruling party wins the election",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/letlands-regeringsparti-vinder-valget",
-        "published_date": "2026-10-04 05:10:10",
         "category": "Local Events"
     }
 ]
