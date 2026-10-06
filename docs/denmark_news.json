@@ -1,5 +1,40 @@
 [
     {
+        "title": "Last night the third ship was hit: Deadly drone attacks ravage the Black Sea",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/i-nat-blev-det-tredje-skib-ramt-doedelige-droneangreb-haerger-sortehavet?referrer=RSS",
+        "published_date": "2026-10-06 15:28:03",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Two Danish cities will be European Capital of Culture in 2032",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danske-byer-vil-vaere-europaeisk-kulturhovedstad-i-2032",
+        "published_date": "2026-10-06 14:55:40",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Czech Republic withdraws from Eurovision",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tjekkiet-traekker-sig-fra-eurovision",
+        "published_date": "2026-10-06 11:19:01",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Are the EU's new rules on AI enough to protect Europeans?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261006/are-the-eus-new-rules-on-ai-enough-to-protect-europeans",
+        "published_date": "2026-10-06 09:08:09",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Jysk expands in Eastern Europe",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/jysk-udvider-i-oesteuropa",
+        "published_date": "2026-10-06 06:01:09",
+        "category": "Diplomacy"
+    },
+    {
         "title": "War in Europe - follow the developments here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-udviklingen-her-32?referrer=RSS",
@@ -105,11 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Magnus Heunicke has an AI plan.If you ask the young people themselves, they only want some of it",
+        "title": "First, the spy chief was accused of abducting children in Denmark.Now he is shaking Germany again",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/magnus-heunicke-har-en-ai-plan-spoerger-man-de-unge-selv-vil-de-kun-have-noget-af-den?referrer=RSS",
-        "published_date": "2026-09-28 16:30:39",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/foerst-blev-spionchefen-anklaget-for-at-bortfoere-boern-i-danmark-nu-ryster-han-tyskland-igen?referrer=RSS",
+        "published_date": "2026-10-06 16:20:57",
+        "category": "Military"
+    },
+    {
+        "title": "Police arrest new man in case of suspicious activity at military base",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-anholder-ny-mand-i-sag-om-mistaenkelig-aktivitet-ved-militaerbase",
+        "published_date": "2026-10-06 13:30:09",
+        "category": "Military"
+    },
+    {
+        "title": "Ukraine sends 650 drones towards Moscow",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ukraine-sender-650-droner-mod-moskva",
+        "published_date": "2026-10-06 04:10:07",
+        "category": "Military"
     },
     {
         "title": "Trump approves shooting of man behind Fort Hood massacre",
@@ -210,18 +259,11 @@
         "category": "Military"
     },
     {
-        "title": "Several have been killed in Russian attacks in Ukraine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/flere-er-draebt-i-russiske-angreb-i-ukraine?referrer=RSS",
-        "published_date": "2026-09-28 15:57:48",
-        "category": "Military"
-    },
-    {
-        "title": "Iran denies involvement in terror plans against British military base",
+        "title": "The Nobel Prize in Physics goes to research into ghost particles",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/iran-afviser-vaere-indblandet-i-terrorplaner-mod-britisk-militaerbase",
-        "published_date": "2026-09-28 12:52:27",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/nobelprisen-i-fysik-gaar-til-forskning-i-spoegelsespartikler",
+        "published_date": "2026-10-06 10:05:31",
+        "category": "Energy"
     },
     {
         "title": "Oil shock hits SAS like a sledgehammer: Hiring stops and route cancellations on the way",
@@ -280,150 +322,143 @@
         "category": "Economy"
     },
     {
-        "title": "Mellemskat: Who could benefit from Denmark's plans to cut tax on high earners?",
+        "title": "Pharmacies sharpen attention when dispensing medicine after a CPR leak",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/apoteker-skaerper-opmaerksomheden-ved-medicinudlevering-efter-cpr-laek?referrer=RSS",
+        "published_date": "2026-10-06 16:55:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mette Frederiksen has shopped for meat sauce.Experts cast doubt on her calculation",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/virksomheder/mette-frederiksen-har-handlet-ind-til-koedsovs-ekspert-saar-tvivl-om-hendes-regnestykke?referrer=RSS",
+        "published_date": "2026-10-06 16:43:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Influencer calls the comedian's question \"tasteless\": \"I think it's completely crazy from Lasse Rimmer\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/samfund/influencer-kalder-komikers-spoergsmaal-for-usmageligt-jeg-synes-at-det-er-fuldstaendig-vanvittigt-af-lasse-rimmer?referrer=RSS",
+        "published_date": "2026-10-06 16:38:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "A run-over moose is exhibited during Culture Night in Copenhagen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/paakoert-elg-udstilles-under-kulturnatten-i-koebenhavn?referrer=RSS",
+        "published_date": "2026-10-06 16:19:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish national registry hack only discovered after unusually large invoice",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20260928/mellemskat-who-could-benefit-from-denmarks-plans-to-cut-tax-on-high-earners",
-        "published_date": "2026-09-28 10:24:31",
-        "category": "Economy"
+        "url": "https://www.thelocal.dk/20261006/danish-identity-number-breach-only-discovered-after-unusually-large-invoice",
+        "published_date": "2026-10-06 16:02:25",
+        "category": "Local Events"
     },
     {
-        "title": "Separatists take electoral victory in Canada's largest province",
+        "title": "Fake engagements, fabricated pregnancies and love intrigues: the royal family is massively exploited on social media",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/separatister-tager-valgsejr-i-canadas-stoerste-provins?referrer=RSS",
-        "published_date": "2026-10-06 01:49:48",
+        "url": "https://www.berlingske.dk/kongehus/falske-forlovelser-opdigtede-graviditeter-og-kaerlighedsintriger-kongehuset-udnyttes-massivt-paa-sociale-medier?referrer=RSS",
+        "published_date": "2026-10-06 15:47:03",
         "category": "Local Events"
     },
     {
-        "title": "Trump wants to give all Americans access to tax-free diesel",
+        "title": "Victim is out of danger after stabbing in Greve",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-vil-give-alle-amerikanere-adgang-til-afgiftsfri-diesel?referrer=RSS",
-        "published_date": "2026-10-06 01:35:49",
+        "url": "https://www.berlingske.dk/indland/offer-er-uden-for-livsfare-efter-knivstikkeri-i-greve?referrer=RSS",
+        "published_date": "2026-10-06 15:34:46",
         "category": "Local Events"
     },
     {
-        "title": "New investor will work to save golf tour threatened with closure",
+        "title": "Berlingske believes: The opening speech had one winner \u2013 Pelle Dragsted",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ny-investor-vil-arbejde-for-at-redde-lukningstruet-golftour?referrer=RSS",
-        "published_date": "2026-10-06 01:02:45",
+        "url": "https://www.berlingske.dk/ledere/berlingske-mener-aabningstalen-havde-en-vinder--pelle-dragsted?referrer=RSS",
+        "published_date": "2026-10-06 15:32:12",
         "category": "Local Events"
     },
     {
-        "title": "57-year-old man dead after stabbing in Hammerum",
+        "title": "Mads Pedersen closes the season after three race days in a row",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/57-aarig-mand-doed-efter-knivstikkeri-i-hammerum?referrer=RSS",
-        "published_date": "2026-10-06 00:59:48",
+        "url": "https://www.berlingske.dk/sport/mads-pedersen-lukker-saesonen-efter-tre-loebsdage-i-traek?referrer=RSS",
+        "published_date": "2026-10-06 15:28:49",
         "category": "Local Events"
     },
     {
-        "title": "Houthis report attack on airport in Saudi Arabia's capital",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/houthier-melder-om-angreb-paa-lufthavn-i-saudi-arabiens-hovedstad?referrer=RSS",
-        "published_date": "2026-10-05 23:49:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "New York sounds alarm over outbreak of measles",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/new-york-slaar-alarm-over-udbrud-af-maeslinger?referrer=RSS",
-        "published_date": "2026-10-05 23:26:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "57-year-old man dead after stabbing near Herning",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-undersoeger-mistaenkeligt-forhold-naer-herning",
-        "published_date": "2026-10-05 23:05:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump: Moved bombers from British base due to threats",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-flyttede-bombefly-fra-britisk-base-paa-grund-af-trusler",
-        "published_date": "2026-10-05 22:13:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "British bestselling author and former politician has died at his home",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/britisk-succesforfatter-og-tidligere-politiker-er-doed-i-sit-hjem?referrer=RSS",
-        "published_date": "2026-10-05 21:48:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump hails right-wing candidate after election victory in Brazil",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-hylder-hoejrefloejskandidat-efter-valgsejr-i-brasilien?referrer=RSS",
-        "published_date": "2026-10-05 21:13:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "A young man has died in a Swedish bus accident",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ung-mand-er-doed-i-svensk-busulykke",
-        "published_date": "2026-10-05 19:55:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Henrik Frandsen after the storm: At home on the island, it's about axes and chainsaws",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/henrik-frandsen-efter-stormen-hjemme-paa-oeen-staar-den-paa-oekse-og-motorsav?rss",
-        "published_date": "2026-10-05 19:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Queen Margrethe's postcard sold for DKK 6,500",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dronning-margrethes-postkort-solgt-6-500-kroner",
-        "published_date": "2026-10-05 18:40:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Princess M\u00e4rtha Louise and her husband are suing for millions",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/prinsesse-martha-louise-og-hendes-mand-sagsoeger-millioner",
-        "published_date": "2026-10-05 18:23:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several seriously injured in Swedish bus accident",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-alvorligt-tilskadekomne-i-svensk-busulykke",
-        "published_date": "2026-10-05 16:53:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rundet\u00e5rn's historic observatory reopens",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rundetaarns-historiske-observatorium-genaabner",
-        "published_date": "2026-10-05 15:24:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "1.2 tonne pumpkin breaks Danish record at Tivoli",
+        "title": "KEY POINTS: How Denmark\u2019s planned new laws will affect foreigners",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261005/1-2-tonne-pumpkin-breaks-danish-record-at-tivoli-gardens",
-        "published_date": "2026-10-05 14:26:19",
+        "url": "https://www.thelocal.dk/20261006/key-points-how-bills-to-be-passed-by-danish-parliament-will-affect-foreigners",
+        "published_date": "2026-10-06 14:37:19",
         "category": "Local Events"
     },
     {
-        "title": "What you need to know about Denmark's national registry hack",
+        "title": "'We must dare to hold on to what we are': Denmark's PM unveils planned bills",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261005/explained-what-you-need-to-know-about-the-danish-cpr-hack",
-        "published_date": "2026-10-05 13:47:01",
+        "url": "https://www.thelocal.dk/20261006/we-must-dare-to-hold-on-to-what-we-are-denmarks-pm-unveils-planned-bills",
+        "published_date": "2026-10-06 13:30:54",
         "category": "Local Events"
     },
     {
-        "title": "Trump's former press secretary gets a new job",
+        "title": "Citizen tip leads to arrest of wanted homicide suspect",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trumps-tidligere-pressesekretaer-faar-nyt-job",
-        "published_date": "2026-10-05 13:39:50",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-43-aarig-mistaenkt-drab-i-hammerum",
+        "published_date": "2026-10-06 13:21:08",
         "category": "Local Events"
     },
     {
-        "title": "Marius Borg H\u00f8iby is remanded in custody for another four weeks",
+        "title": "86,000 take to the streets in France",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-varetaegtsfaengsles-i-yderligere-fire-uger",
-        "published_date": "2026-10-05 13:28:05",
+        "url": "https://www.dr.dk/nyheder/seneste/86-000-gaar-paa-gaden-i-frankrig",
+        "published_date": "2026-10-06 12:27:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "The seaplane lands on the minister's table",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/vandflyveren-lander-paa-ministerens-bord",
+        "published_date": "2026-10-06 12:22:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "TELL US: What do you miss about 'home' that you can't do in Denmark?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261006/tell-us-what-do-you-miss-about-home-that-you-cant-do-in-denmark",
+        "published_date": "2026-10-06 10:05:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kenya records first Ebola case",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kenya-registrerer-det-foerste-ebola-tilfaelde",
+        "published_date": "2026-10-06 09:09:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261006/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-67",
+        "published_date": "2026-10-06 08:52:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel increases its preparedness ahead of Memorial Day",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-oeger-sit-beredskab-forud-mindedag",
+        "published_date": "2026-10-06 08:21:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "37-year-old imprisoned in a case of attempted murder after blowing up a house",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/37-aarig-mand-sigtet-drabsforsoeg-efter-spraengning-i-hus",
+        "published_date": "2026-10-06 07:41:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Yemen's government forces claim to have retaken the strategic port city from the Houthis",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/yemens-regeringsstyrker-haevder-have-taget-strategisk-havneby-tilbage-fra-houthierne",
+        "published_date": "2026-10-06 07:25:46",
         "category": "Local Events"
     }
 ]
