@@ -1,5 +1,12 @@
 [
     {
+        "title": "The Prime Minister waited in vain for politicians in the Europe Committee",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/statsministeren-ventede-forgaeves-paa-politikere-i-europa-udvalget?referrer=RSS",
+        "published_date": "2026-10-07 16:43:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Last night the third ship was hit: Deadly drone attacks ravage the Black Sea",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/i-nat-blev-det-tredje-skib-ramt-doedelige-droneangreb-haerger-sortehavet?referrer=RSS",
@@ -126,13 +133,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Dan J\u00f8rgensen warns of a hard winter in the energy sector in the EU",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/dan-joergensen-advarer-om-haard-vinter-paa-energiomraadet-i-eu?referrer=RSS",
-        "published_date": "2026-09-29 16:38:46",
-        "category": "Diplomacy"
-    },
-    {
         "title": "First, the spy chief was accused of abducting children in Denmark.Now he is shaking Germany again",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/foerst-blev-spionchefen-anklaget-for-at-bortfoere-boern-i-danmark-nu-ryster-han-tyskland-igen?referrer=RSS",
@@ -231,11 +231,11 @@
         "category": "Military"
     },
     {
-        "title": "German military surveillance drone flies over Jutland",
+        "title": "Energy Agency will accelerate release of 100 million barrels of oil",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tysk-militaer-overvaagningsdrone-flyver-over-jylland",
-        "published_date": "2026-09-29 08:24:05",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/energiagentur-vil-fremskynde-frigivelse-af-100-millioner-toender-olie",
+        "published_date": "2026-10-07 15:43:19",
+        "category": "Energy"
     },
     {
         "title": "Ten evacuated from oil tanker in the Strait of Hormuz",
@@ -287,150 +287,143 @@
         "category": "Economy"
     },
     {
-        "title": "Freelancers want the Minister of Immigration to recognize that you can drill your teeth without anaesthetic",
+        "title": "Politicians rage after \"ridiculous lenient sentence\": \"The law must be tightened, better today than tomorrow\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/loesgaenger-vil-have-udlaendingeminister-til-at-anerkende-at-man-kan-bore-i-taender-uden-bedoevelse?referrer=RSS",
-        "published_date": "2026-09-29 16:12:26",
-        "category": "Economy"
-    },
-    {
-        "title": "Messi says goodbye to the national team with both goals and assists",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/messi-siger-farvel-til-landsholdet-med-baade-maal-og-assist?referrer=RSS",
-        "published_date": "2026-10-07 01:42:46",
+        "url": "https://www.berlingske.dk/politik/politikere-raser-efter-latterlig-mild-dom-loven-skal-strammes-hellere-i-dag-end-i-morgen?referrer=RSS",
+        "published_date": "2026-10-07 17:30:37",
         "category": "Local Events"
     },
     {
-        "title": "Kosovo's parliament elects a president and averts a new election",
+        "title": "WHO cannot do full risk assessment of suspected plague death in Russia",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kosovos-parlament-vaelger-praesident-og-afvaerger-et-nyvalg",
-        "published_date": "2026-10-07 01:11:42",
+        "url": "https://www.dr.dk/nyheder/seneste/who-kan-ikke-lave-fuld-risikovurdering-af-mistaenkt-pestdoed-i-rusland",
+        "published_date": "2026-10-07 17:30:26",
         "category": "Local Events"
     },
     {
-        "title": "Crisis-hit Haiti postpones presidential election indefinitely",
+        "title": "FCM coach sees glimmer of light in jumble of injuries",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kriseramt-haiti-udskyder-praesidentvalg-paa-ubestemt-tid?referrer=RSS",
-        "published_date": "2026-10-07 01:07:46",
+        "url": "https://www.berlingske.dk/sport/fcm-traener-ser-lysglimt-i-virvar-af-skader?referrer=RSS",
+        "published_date": "2026-10-07 17:28:43",
         "category": "Local Events"
     },
     {
-        "title": "Police have shot a man at a castle in Sweden",
+        "title": "Here are the lessons of the CPR scandal: Mette Frederiksen and Lars L\u00f8kke govern a state in disarray",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/politi-har-skudt-en-mand-ved-slot-i-sverige?referrer=RSS",
-        "published_date": "2026-10-07 00:29:46",
+        "url": "https://www.berlingske.dk/kommentar/her-er-laeren-af-cpr-skandalen-mette-frederiksen-og-lars-loekke-regerer-en-stat-i-oploesning?referrer=RSS",
+        "published_date": "2026-10-07 17:24:44",
         "category": "Local Events"
     },
     {
-        "title": "Kane on the record evening for England: It surpasses my wildest dream",
+        "title": "Swedish Christian Zedig went to Copenhagen and never came home again \u2013 on Wednesday, the killer at Islands Brygge was sentenced",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kane-om-rekordaften-for-england-det-overgaar-min-vildeste-droem?referrer=RSS",
-        "published_date": "2026-10-06 23:45:45",
+        "url": "https://www.berlingske.dk/indland/svenske-christian-zedig-tog-til-koebenhavn-og-kom-aldrig-hjem-igen--onsdag-fik-drabsmand-paa-islands-brygge-sin-straf?referrer=RSS",
+        "published_date": "2026-10-07 17:10:18",
         "category": "Local Events"
     },
     {
-        "title": "American movie star from Hollywood's golden age has died",
+        "title": "Outwardly, she looks healthy.But she suffers from an overlooked hormonal disease that affects thousands of women",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/vores-liv/udadtil-ser-hun-rask-ud-men-hun-lider-af-en-overset-hormonsygdom-der-rammer-tusinder-af-kvinder?referrer=RSS",
+        "published_date": "2026-10-07 16:54:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Copenhageners laundered millions and possessed 210 kilos of hashish",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/koebenhavner-hvidvaskede-millioner-og-besad-210-kilo-hash?referrer=RSS",
+        "published_date": "2026-10-07 16:49:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Tough but smart': Danish Social Liberal Party outlines goals for citizenship talks",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261007/tough-but-smart-danish-social-liberal-party-outlines-goals-for-citizenship-talks",
+        "published_date": "2026-10-07 16:18:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "The teenage girls stole, gave blowjobs and took drugs.Now they are even more raw",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/teenagepigerne-stjal-gav-blowjobs-og-tog-stoffer-nu-er-de-endnu-mere-raa?referrer=RSS",
+        "published_date": "2026-10-07 16:08:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "WHO: Cannot do full risk assessment of suspected plague death in Russia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/who-kan-ikke-lave-en-fuld-risikovurdering-af-mistaenkt-pestdoed-i-rusland?referrer=RSS",
+        "published_date": "2026-10-07 16:05:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Florence Bergeaud-Blackler attacks Berlingske: \"What is at stake is completely clear\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/florence-bergeaud-blackler-i-angreb-paa-berlingskehvad-der-er-paa-spil-er-helt-tydeligt?referrer=RSS",
+        "published_date": "2026-10-07 16:05:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pupils evacuated from school: 20 police cars and officers with machine guns moved out",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/politi-massivt-til-stede-ved-gymnasium-i-odense?rss",
+        "published_date": "2026-10-07 14:49:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mackerel tubes are being recalled due to the risk of metal pieces",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/amerikansk-filmstjerne-fra-hollywoods-guldalder-er-doed",
-        "published_date": "2026-10-06 23:43:41",
+        "url": "https://www.dr.dk/nyheder/seneste/makreltuber-tilbagekaldes-paa-grund-af-risiko-metalstykker",
+        "published_date": "2026-10-07 14:47:17",
         "category": "Local Events"
     },
     {
-        "title": "Kosovo's parliament elects a president and averts a new election",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kosovos-parlament-vaelger-praesident-og-afvaerger-et-nyvalg?referrer=RSS",
-        "published_date": "2026-10-06 23:36:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "American arrested for live streaming Canadian mass shooting",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amerikaner-anholdt-for-at-livestreame-canadisk-masseskyderi?referrer=RSS",
-        "published_date": "2026-10-06 22:43:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "American movie star from Hollywood's golden age has died",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amerikansk-filmstjerne-fra-hollywoods-guldalder-er-doed?referrer=RSS",
-        "published_date": "2026-10-06 22:39:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "American woman is conscious after botched execution",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/amerikansk-kvinde-er-ved-bevidsthed-efter-mislykket-henrettelse?referrer=RSS",
-        "published_date": "2026-10-06 21:27:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Substitute secures Spain narrow victory and promotion in Split",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/indskifter-sikrer-spanien-smal-sejr-og-avancement-i-split?referrer=RSS",
-        "published_date": "2026-10-06 20:52:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kane becomes double goalscorer in his record match",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kane-bliver-dobbelt-maalscorer-i-sin-rekordkamp?referrer=RSS",
-        "published_date": "2026-10-06 20:38:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Grammy-nominated r'n'b singer has died",
+        "title": "43-year-old man remanded in custody in a murder case from Hammerum",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/grammy-nomineret-r-n-b-sanger-er-doed",
-        "published_date": "2026-10-06 19:30:09",
+        "url": "https://www.dr.dk/nyheder/seneste/43-aarig-mand-varetaegtsfaengslet-i-drabssag-fra-hammerum",
+        "published_date": "2026-10-07 14:27:32",
         "category": "Local Events"
     },
     {
-        "title": "Dead moose's trachea and head are displayed until Kulturnatten",
+        "title": "Petition against data center reaches goal in one week",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/doed-elgs-luftroer-og-hoved-vises-frem-til-kulturnatten",
-        "published_date": "2026-10-06 17:36:28",
+        "url": "https://www.dr.dk/nyheder/seneste/underskriftsindsamling-mod-datacenter-naar-maalet-paa-en-uge",
+        "published_date": "2026-10-07 14:07:25",
         "category": "Local Events"
     },
     {
-        "title": "Swedish police fire shots at man at Stockholm Palace",
+        "title": "Apples are recalled due to risk of pest attack",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/svensk-politi-affyrer-skud-mod-mand-ved-stockholms-slot",
-        "published_date": "2026-10-06 17:21:26",
+        "url": "https://www.dr.dk/nyheder/seneste/aebler-tilbagekaldes-efter-risiko-skadedyrsangreb",
+        "published_date": "2026-10-07 14:04:08",
         "category": "Local Events"
     },
     {
-        "title": "The Serum Institute sees no reason for plague concern in Denmark",
+        "title": "10 arrested in case of money laundering",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/seruminstitut-ser-ingen-grund-til-pest-bekymring-i-danmark",
-        "published_date": "2026-10-06 17:06:00",
+        "url": "https://www.dr.dk/nyheder/seneste/10-anholdt-i-sag-om-hvidvask",
+        "published_date": "2026-10-07 13:55:10",
         "category": "Local Events"
     },
     {
-        "title": "Pharmacies sharpen attention when dispensing medicine after a CPR leak",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/apoteker-skaerper-opmaerksomheden-ved-medicinudlevering-efter-cpr-laek?referrer=RSS",
-        "published_date": "2026-10-06 16:55:44",
+        "title": "Fault alarm triggered a massive emergency call to a school in Odense",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-massivt-til-stede-ved-skole-i-odense",
+        "published_date": "2026-10-07 13:37:19",
         "category": "Local Events"
     },
     {
-        "title": "Mette Frederiksen has shopped for meat sauce.Experts cast doubt on her calculation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/mette-frederiksen-har-handlet-ind-til-koedsovs-ekspert-saar-tvivl-om-hendes-regnestykke?referrer=RSS",
-        "published_date": "2026-10-06 16:43:33",
+        "title": "Half a month of rain set to fall this week in parts of Denmark",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261007/half-a-month-of-rain-set-to-fall-this-week-in-parts-of-denmark",
+        "published_date": "2026-10-07 12:08:49",
         "category": "Local Events"
     },
     {
-        "title": "Influencer calls the comedian's question \"tasteless\": \"I think it's completely crazy from Lasse Rimmer\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/influencer-kalder-komikers-spoergsmaal-for-usmageligt-jeg-synes-at-det-er-fuldstaendig-vanvittigt-af-lasse-rimmer?referrer=RSS",
-        "published_date": "2026-10-06 16:38:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "A run-over moose is exhibited during Culture Night in Copenhagen",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/paakoert-elg-udstilles-under-kulturnatten-i-koebenhavn?referrer=RSS",
-        "published_date": "2026-10-06 16:19:46",
+        "title": "Two prison officers from Kosovo accused of violence have been released",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/voldssigtede-faengselsbetjente-fra-kosovo-er-blevet-loesladt",
+        "published_date": "2026-10-07 11:51:16",
         "category": "Local Events"
     }
 ]
