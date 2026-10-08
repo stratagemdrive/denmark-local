@@ -280,11 +280,60 @@
         "category": "Economy"
     },
     {
-        "title": "City director describes conviction for financial fraud as conspiracy",
+        "title": "Belgian city introduces curfew after violent climate protests",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/belgisk-storby-indfoerer-udgangsforbud-efter-voldsomme-skoleprotester",
+        "published_date": "2026-10-08 02:14:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Criminal granny thrills reviewers in raunchy family film",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/city-direktoer-betegner-dom-for-oekonomisk-fusk-som-konspiration?referrer=RSS",
-        "published_date": "2026-09-29 23:43:47",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/danmark/kriminel-mormor-begejstrer-anmeldere-i-fraek-familiefilm?referrer=RSS",
+        "published_date": "2026-10-08 01:08:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ronaldo pays tribute to Messi after farewell to the Argentina national team",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/ronaldo-hylder-messi-efter-farvel-til-argentinas-landshold?referrer=RSS",
+        "published_date": "2026-10-07 22:31:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sequel to Danish youth film gets praise from reviewers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/efterfoelger-til-dansk-ungdomsfilm-faar-ros-af-anmelderne?referrer=RSS",
+        "published_date": "2026-10-07 21:15:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tanker reported hit by several projectiles in the Persian Gulf",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/tankskib-meldes-ramt-af-flere-projektiler-i-den-persiske-golf?referrer=RSS",
+        "published_date": "2026-10-07 21:15:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tanker reported hit by several projectiles in the Persian Gulf",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tankskib-meldes-ramt-ad-flere-projektiler-i-den-persiske-golf",
+        "published_date": "2026-10-07 20:59:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dolberg has had knee surgery: Big setback",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dolberg-er-blevet-opereret-i-knaeet-stort-tilbageslag?referrer=RSS",
+        "published_date": "2026-10-07 20:47:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lawyer: Woman's respirator was close to being turned off after attempted execution",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/advokat-kvindes-respirator-var-taet-paa-at-blive-slukket-efter-henrettelsesforsoeg?referrer=RSS",
+        "published_date": "2026-10-07 19:59:47",
+        "category": "Local Events"
     },
     {
         "title": "Politicians rage after \"ridiculous lenient sentence\": \"The law must be tightened, better today than tomorrow\"",
@@ -368,62 +417,6 @@
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/112/politi-massivt-til-stede-ved-gymnasium-i-odense?rss",
         "published_date": "2026-10-07 14:49:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mackerel tubes are being recalled due to the risk of metal pieces",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/makreltuber-tilbagekaldes-paa-grund-af-risiko-metalstykker",
-        "published_date": "2026-10-07 14:47:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "43-year-old man remanded in custody in a murder case from Hammerum",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/43-aarig-mand-varetaegtsfaengslet-i-drabssag-fra-hammerum",
-        "published_date": "2026-10-07 14:27:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petition against data center reaches goal in one week",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/underskriftsindsamling-mod-datacenter-naar-maalet-paa-en-uge",
-        "published_date": "2026-10-07 14:07:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Apples are recalled due to risk of pest attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/aebler-tilbagekaldes-efter-risiko-skadedyrsangreb",
-        "published_date": "2026-10-07 14:04:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "10 arrested in case of money laundering",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/10-anholdt-i-sag-om-hvidvask",
-        "published_date": "2026-10-07 13:55:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fault alarm triggered a massive emergency call to a school in Odense",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-massivt-til-stede-ved-skole-i-odense",
-        "published_date": "2026-10-07 13:37:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Half a month of rain set to fall this week in parts of Denmark",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261007/half-a-month-of-rain-set-to-fall-this-week-in-parts-of-denmark",
-        "published_date": "2026-10-07 12:08:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two prison officers from Kosovo accused of violence have been released",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/voldssigtede-faengselsbetjente-fra-kosovo-er-blevet-loesladt",
-        "published_date": "2026-10-07 11:51:16",
         "category": "Local Events"
     }
 ]
