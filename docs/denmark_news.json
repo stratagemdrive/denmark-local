@@ -1,5 +1,12 @@
 [
     {
+        "title": "A record number of ships are sailing through the Arctic to reach Asia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rekordmange-skibe-sejler-gennem-arktis-for-at-naa-asien?referrer=RSS",
+        "published_date": "2026-10-08 22:36:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Number of small parcels at Danish customs plummets after new EU rule",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20261008/number-of-small-parcels-at-danish-customs-plummets-after-new-eu-rule",
@@ -112,6 +119,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Putin was visited by former German chancellor on his birthday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/putin-fik-besoeg-af-tidligere-tysk-kansler-paa-sin-foedselsdag?referrer=RSS",
+        "published_date": "2026-10-09 01:38:45",
+        "category": "Military"
+    },
+    {
+        "title": "Hegseth: Execution of major sentenced to death becomes public",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hegseth-henrettelse-af-doedsdoemt-major-bliver-offentlig?referrer=RSS",
+        "published_date": "2026-10-08 22:33:46",
+        "category": "Military"
+    },
+    {
         "title": "The Kremlin has intensified attacks on civilians: \"For them, a bus with passengers is an attractive target\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/kreml-har-intensiveret-angrebene-paa-civilefor-dem-er-en-bus-med-passagerer-et-attraktivt-maal?referrer=RSS",
@@ -203,6 +224,13 @@
         "category": "Military"
     },
     {
+        "title": "Venezuelan judge: I was threatened to exclude Nobel laureate",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/venezuelansk-dommer-jeg-blev-truet-til-udelukke-nobelprismodtager",
+        "published_date": "2026-10-09 02:32:43",
+        "category": "Energy"
+    },
+    {
         "title": "- They took the whole crap in one weekend: Now Niels shoots gas cannons to defend his pumpkins",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/erhverv/de-tog-hele-lortet-paa-en-weekend-nu-skyder-niels-med-gaskanoner-for-at-forsvare-sine-graeskar?rss",
@@ -243,6 +271,69 @@
         "url": "https://www.berlingske.dk/virksomheder/staten-tjener-70-millioner-om-aaret-paa-udskaeldte-skatterenter--nu-skrider-minister-ind?referrer=RSS",
         "published_date": "2026-10-02 16:03:49",
         "category": "Economy"
+    },
+    {
+        "title": "Bolsonaro gets support from number three in Brazilian elections",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/bolsonaro-faar-opbakning-fra-nummer-tre-ved-brasiliansk-valg?referrer=RSS",
+        "published_date": "2026-10-09 02:33:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuelan referee: I was threatened to exclude Machado",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/venezuelansk-dommer-jeg-blev-truet-til-at-udelukke-machado?referrer=RSS",
+        "published_date": "2026-10-09 02:27:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man injured after shooting incident with ICE in New York",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mand-er-saaret-efter-skudepisode-med-ice-i-new-york?referrer=RSS",
+        "published_date": "2026-10-09 00:56:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor: ICE agents shoot man in New York while child was in car",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/borgmester-ice-agenter-skoed-mand-i-new-york-mens-barn-befandt-sig-i-bilen",
+        "published_date": "2026-10-09 00:54:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vance attacks companies' use of foreign labor",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/vance-angriber-virksomheders-brug-af-udenlandsk-arbejdskraft?referrer=RSS",
+        "published_date": "2026-10-09 00:32:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump gives Elon Musk prestigious honor",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-giver-elon-musk-prestigefyldt-haedersbevisning?referrer=RSS",
+        "published_date": "2026-10-08 23:52:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The trade union warns against the deterioration of senior pensions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/fagbevaegelsen-advarer-mod-forringelse-af-seniorpension?referrer=RSS",
+        "published_date": "2026-10-08 21:29:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "TV 2 participant reports Pia Kj\u00e6rsgaard for violence",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tv-2-deltager-anmelder-pia-kjaersgaard-for-vold?referrer=RSS",
+        "published_date": "2026-10-08 21:03:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kindergarten is reportedly hit by missile debris in Saudi Arabia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/boernehave-meldes-ramt-af-missilvragdele-i-saudi-arabien",
+        "published_date": "2026-10-08 19:18:44",
+        "category": "Local Events"
     },
     {
         "title": "S\u00f8ren Gade suspects party members of character assassination of him",
@@ -319,69 +410,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/alle-tog-holder-stille-i-norge-paa-grund-af-mobilproblemer",
         "published_date": "2026-10-08 16:15:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "It is not known when the moose will come to Gribskov",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/uvist-hvornaar-elgen-kommer-til-gribskov",
-        "published_date": "2026-10-08 16:06:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jesper M\u00f8ller reinstates his place in Uefa's top",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/jesper-moeller-genopstiller-til-plads-i-uefas-top?referrer=RSS",
-        "published_date": "2026-10-08 15:59:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two Latvian men arrested at British air base",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lettiske-maend-anholdt-paa-britisk-flybase",
-        "published_date": "2026-10-08 15:15:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish Climate Council calls for flights from Denmark to be more expensive",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261008/danish-climate-council-calls-for-flights-from-denmark-to-be-more-expensive",
-        "published_date": "2026-10-08 15:07:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Philippine ex-president healthy enough to stand trial at ICC",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/filippinsk-ekspraesident-frisk-nok-til-retssag-ved-icc",
-        "published_date": "2026-10-08 14:45:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Admits search warrants against former Prince Andrew were illegal",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/erkender-ransagningskendelser-mod-tidligere-prins-andrew-var-ulovlige",
-        "published_date": "2026-10-08 14:01:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Person found guilty of breaking the rules for inverted anklets",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/person-kendes-skyldig-i-bryde-reglerne-omvendt-fodlaenke",
-        "published_date": "2026-10-08 13:40:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Word of the day: tidsoptimist",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261008/word-of-the-day-tidsoptimist",
-        "published_date": "2026-10-08 13:22:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish opposition parties slam decision to push through paused citizenships",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261008/danish-opposition-parties-slam-decision-to-push-through-paused-citizenships",
-        "published_date": "2026-10-08 13:21:47",
         "category": "Local Events"
     }
 ]
