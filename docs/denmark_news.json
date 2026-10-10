@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bayern Munich stumbles after historic lightning strike",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/bayern-muenchen-snubler-efter-historisk-lynscoring?referrer=RSS",
+        "published_date": "2026-10-10 15:35:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Eritrea asks UN to intervene in conflict with Ethiopia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/eritrea-beder-fn-gribe-ind-i-konflikt-med-etiopien?referrer=RSS",
+        "published_date": "2026-10-10 15:16:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "ICC member states express deep concern over US sanctions",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/icc-medlemslande-udtrykker-dyb-bekymring-over-usas-sanktioner?referrer=RSS",
@@ -84,32 +98,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The G7 will release up to 100 million barrels of diesel and crude oil",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/g7-vil-frigive-op-til-100-millioner-toender-diesel-og-raaolie?referrer=RSS",
-        "published_date": "2026-10-02 15:16:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The government gets support for demanding a lower EU budget",
+        "title": "Witkoff has held a meeting about the Ukraine war in Miami",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/regeringen-faar-opbakning-til-kraeve-lavere-eu-budget",
-        "published_date": "2026-10-02 13:02:32",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "This autumn\u2019s latest exhibition openings in Denmark",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261002/this-autumns-latest-exhibition-openings-in-denmark",
-        "published_date": "2026-10-02 11:11:29",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU nations to hold emergency meeting on diesel prices amid US pressure",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261002/eu-nations-to-hold-emergency-meeting-on-soaring-diesel-prices-amid-us-pressure",
-        "published_date": "2026-10-02 10:59:32",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/witkoff-har-holdt-moede-om-ukraine-krigen-i-miami",
+        "published_date": "2026-10-10 03:45:00",
+        "category": "Military"
     },
     {
         "title": "Putin was visited by former German chancellor on his birthday",
@@ -196,11 +189,11 @@
         "category": "Military"
     },
     {
-        "title": "Suddenly the details gushed out of the army chief: openness about mother drone, car chase and Ukrainians is a dramatic shift",
+        "title": "Trump promises a collapse in the price of oil after an agreement with Russia - but an expert shakes his head: \"It sounds like big numbers, but it's not\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/pludselig-fossede-detaljerne-ud-af-haerchefen-aabenhed-om-moderdrone-biljagt-og-ukrainere-er-dramatisk-skift?referrer=RSS",
-        "published_date": "2026-10-02 15:15:53",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/oekonomi/trump-lover-kollaps-i-olieprisen-efter-aftale-med-rusland--men-ekspert-ryster-paa-hovedet-det-lyder-som-store-tal-men-det-er-det-ikke?referrer=RSS",
+        "published_date": "2026-10-10 15:30:10",
+        "category": "Energy"
     },
     {
         "title": "Brazil sues Shell over deadly 2024 floods",
@@ -259,11 +252,144 @@
         "category": "Energy"
     },
     {
+        "title": "Private finance letterbox:\u00a0Do you use a foreign investment platform?It can end in a tax nightmare",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/dine-penge/privatoekonomisk-brevkassebruger-du-en-udenlandsk-investeringsplatform-det-kan-ende-i-et-skattemaessigt-mareridt?referrer=RSS",
+        "published_date": "2026-10-10 15:51:57",
+        "category": "Economy"
+    },
+    {
         "title": "The state earns 70 million a year from vilified tax interest - now the minister steps in",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/staten-tjener-70-millioner-om-aaret-paa-udskaeldte-skatterenter--nu-skrider-minister-ind?referrer=RSS",
         "published_date": "2026-10-02 16:03:49",
         "category": "Economy"
+    },
+    {
+        "title": "Dream start gets Chelsea back on the winning track with a big win",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/droemmestart-faar-chelsea-tilbage-paa-vinderspor-med-storsejr?referrer=RSS",
+        "published_date": "2026-10-10 15:57:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death row woman sent from hospital to prison in Tennessee",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/doedsdoemt-kvinde-sendes-fra-hospital-til-faengsel-i-tennessee?referrer=RSS",
+        "published_date": "2026-10-10 15:54:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Yussuf Poulsen scores again in dramatic HSV win",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/yussuf-poulsen-scorer-igen-i-dramatisk-hsv-sejr?referrer=RSS",
+        "published_date": "2026-10-10 15:48:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Christa Pike has been discharged and sent back to prison after the botched execution",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/christa-pike-er-blevet-udskrevet-og-sendt-tilbage-til-faengsel-efter-mislykket-henrettelse",
+        "published_date": "2026-10-10 15:45:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aalborg wins with difficulty over KIF Kolding",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/aalborg-vinder-med-besvaer-over-kif-kolding?referrer=RSS",
+        "published_date": "2026-10-10 15:44:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Antonsen is ready for the finals in Finland after a roller-coaster ride",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/antonsen-er-finaleklar-i-finland-efter-rutsjebanetur?referrer=RSS",
+        "published_date": "2026-10-10 15:32:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eyewitnesses report explosions at airport in Saudi Arabia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/oejenvidner-melder-om-eksplosioner-i-lufthavn-i-saudi-arabien?referrer=RSS",
+        "published_date": "2026-10-10 15:22:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Verstappen drives in pole position for the second weekend in a row",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/verstappen-koerer-i-pole-position-anden-weekend-i-traek",
+        "published_date": "2026-10-10 14:52:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Still opening over 200 a year: Shop factory with a well-known billionaire behind it earns the cash",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/haderslev/aabner-stadig-over-200-om-aaret-butiksfabrik-med-kendt-milliardaer-i-ryggen-tjener-kassen?rss",
+        "published_date": "2026-10-10 14:27:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Palestinian elections postponed until next year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/palaestinensisk-valg-udsaettes-til-naeste-aar",
+        "published_date": "2026-10-10 13:13:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inside Denmark: The CPR number hack shows the downside of a high-trust society",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261010/inside-denmark-the-cpr-number-hack-shows-the-downside-of-a-high-trust-society",
+        "published_date": "2026-10-10 11:19:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "A fourth person is imprisoned in the case of bodies in Guden\u00e5en",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/en-fjerde-person-er-faengslet-i-sag-om-lig-i-gudenaaen",
+        "published_date": "2026-10-10 11:11:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "NFL legend Mike Ditka has died at the age of 86",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nfl-legenden-mike-ditka-er-doed-i-en-alder-af-86-aar",
+        "published_date": "2026-10-10 10:48:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the Agenda: What's happening in Denmark next week?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261010/on-the-agenda-whats-happening-in-denmark-next-week-6",
+        "published_date": "2026-10-10 10:40:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "17-year-old accused of serious violence in case of stabbing in April 2025",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/17-aarig-anholdt-efter-formodet-drabsforsoeg-der-skete-over-et-aar-siden",
+        "published_date": "2026-10-10 08:21:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "More reviews about ketchup throwing in Aalborg",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-anmeldelser-om-ketchup-kast-i-aalborg",
+        "published_date": "2026-10-10 08:03:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The municipality gets millions to help fired employees from FMC R\u00f8nland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kommune-faar-millioner-til-hjaelpe-fyrede-medarbejdere-fra-fmc-roenland",
+        "published_date": "2026-10-10 06:47:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brian must invest nine million in a new piggery: - I don't know if I dare",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/erhverv/en-svaer-beslutning-til-ni-millioner-brian-maa-bygge-en-svinestald-mere-jeg-ved-ikke-om-jeg-toer?rss",
+        "published_date": "2026-10-10 06:00:00",
+        "category": "Local Events"
     },
     {
         "title": "Danish women get a draw in Canada and burn penalty kicks",
@@ -277,132 +403,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-beder-hoejesteret-genoplive-hans-sag-mod-hillary-clinton?referrer=RSS",
         "published_date": "2026-10-10 01:15:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three Mexican men found guilty of killing Australian surfers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tre-mexicanske-maend-kendt-skyldige-i-drab-paa-australske-surfere?referrer=RSS",
-        "published_date": "2026-10-10 00:23:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "AI model submitted false homicide tip to US police",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ai-model-indsendte-falsk-tip-om-drab-til-amerikansk-politi?referrer=RSS",
-        "published_date": "2026-10-09 23:13:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Water is entering Copenhagen Airport after a leaking water pipe",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vandet-staar-ind-i-koebenhavns-lufthavn-efter-laekket-vandroer",
-        "published_date": "2026-10-09 21:40:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vance will not watch the live stream of the planned execution in the United States",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vance-vil-ikke-se-livestream-af-planlagt-henrettelse-i-usa?referrer=RSS",
-        "published_date": "2026-10-09 21:39:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump promises Russian diesel to needy Americans",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-lover-russisk-diesel-til-traengte-amerikanere?referrer=RSS",
-        "published_date": "2026-10-09 20:46:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dortmund throw away victory in great drama",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dortmund-smider-sejr-vaek-i-stort-drama?referrer=RSS",
-        "published_date": "2026-10-09 20:37:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zelenskyj: Trump's diesel deal gives Putin money to wage war for",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/zelenskyj-trumps-dieselaftale-giver-putin-penge-at-foere-krig-for?referrer=RSS",
-        "published_date": "2026-10-09 20:33:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Katie Zacharia will be Trump's new spokeswoman",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/katie-zacharia-bliver-trumps-nye-talskvinde",
-        "published_date": "2026-10-09 20:13:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two boys died - she survived with 12 scars: - It's something I have to carry around for the rest of my life",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/toender/to-drenge-doede-hun-overlevede-med-12-ar-det-er-noget-jeg-skal-baere-rundt-paa-resten-af-livet?rss",
-        "published_date": "2026-10-09 19:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former adviser offered job as press secretary for the White House",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-raadgiver-tilbydes-job-som-pressesekretaer-det-hvide-hus",
-        "published_date": "2026-10-09 19:00:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tsunami warning canceled after strong earthquake in Panama",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tsunamivarsel-efter-kraftigt-jordskaelv-i-panama",
-        "published_date": "2026-10-09 18:25:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ed Sheeran has found the replacement for Lukas Graham",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ed-sheeran-har-fundet-erstatningen-for-lukas-graham?referrer=RSS",
-        "published_date": "2026-10-09 17:04:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US is reintroducing the \"crazy\" execution that made people vomit in Denmark",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/usa-genindfoerer-vanvittig-henrettelse-der-i-danmark-fik-folk-til-at-braekke-sig?referrer=RSS",
-        "published_date": "2026-10-09 17:02:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ghost driver overturned on highway and caused accident",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/spoegelsesbilist-vendte-om-paa-motorvej-og-udloeste-uheld",
-        "published_date": "2026-10-09 17:01:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ghost driver turns around on highway and causes accident",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/spoegelsesbilist-vender-om-paa-motorvej-og-udloeser-uheld?referrer=RSS",
-        "published_date": "2026-10-09 16:50:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICC member states worried about US sanctions",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/icc-medlemslande-bekymrede-over-usa-s-sanktioner",
-        "published_date": "2026-10-09 16:48:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train operations will be affected for a long time after the fire in the safety cabin",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/togdrift-vil-vaere-paavirket-i-lang-tid-frem-efter-brand-i-sikringshytte?referrer=RSS",
-        "published_date": "2026-10-09 16:35:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Plane has to make an emergency landing in Miami after severe turbulence - nine injured",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fly-maa-noedlande-i-miami-efter-kraftig-turbulens-ni-kvaestet",
-        "published_date": "2026-10-09 16:16:15",
         "category": "Local Events"
     }
 ]
