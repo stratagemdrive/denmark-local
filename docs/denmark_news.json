@@ -1,5 +1,12 @@
 [
     {
+        "title": "US and UN condemn deadly airport attack in Saudi Arabia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-og-fn-fordoemmer-doedbringende-lufthavnsangreb-i-saudi-arabien?referrer=RSS",
+        "published_date": "2026-10-11 00:43:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Bayern Munich stumbles after historic lightning strike",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/bayern-muenchen-snubler-efter-historisk-lynscoring?referrer=RSS",
@@ -98,6 +105,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Trump: Ukraine needs a new president",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-ukraine-har-brug-for-en-ny-praesident?referrer=RSS",
+        "published_date": "2026-10-10 20:18:47",
+        "category": "Military"
+    },
+    {
         "title": "Witkoff has held a meeting about the Ukraine war in Miami",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/witkoff-har-holdt-moede-om-ukraine-krigen-i-miami",
@@ -175,18 +189,11 @@
         "category": "Military"
     },
     {
-        "title": "South Korea reports ballistic missile fired from North Korea",
+        "title": "Four have died after hurricane in the southeastern United States",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/sydkorea-melder-om-ballistisk-missil-affyret-fra-nordkorea?referrer=RSS",
-        "published_date": "2026-10-03 00:15:44",
-        "category": "Military"
-    },
-    {
-        "title": "Three bridges are completely or partially closed in Kyiv after attacks",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/tre-broer-er-helt-eller-delvist-lukket-i-kyiv-efter-angreb?referrer=RSS",
-        "published_date": "2026-10-02 21:08:46",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/internationalt/fire-er-doede-efter-orkan-i-det-sydoestlige-usa?referrer=RSS",
+        "published_date": "2026-10-10 23:31:45",
+        "category": "Energy"
     },
     {
         "title": "Trump promises a collapse in the price of oil after an agreement with Russia - but an expert shakes his head: \"It sounds like big numbers, but it's not\"",
@@ -259,11 +266,95 @@
         "category": "Economy"
     },
     {
-        "title": "The state earns 70 million a year from vilified tax interest - now the minister steps in",
+        "title": "A person has died after a fire in Vejle",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/staten-tjener-70-millioner-om-aaret-paa-udskaeldte-skatterenter--nu-skrider-minister-ind?referrer=RSS",
-        "published_date": "2026-10-02 16:03:49",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/indland/person-er-doed-efter-brand-i-vejle?referrer=RSS",
+        "published_date": "2026-10-11 01:18:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "American fighter jet attacks cargo ship in the Gulf of Oman",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/amerikansk-kampfly-angriber-fragtskib-i-omanbugten?referrer=RSS",
+        "published_date": "2026-10-11 01:15:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danes throw the gold at the WC in ironman ten kilometers from the finish line",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dansker-smider-guldet-ved-vm-i-ironman-ti-kilometer-fra-maal?referrer=RSS",
+        "published_date": "2026-10-11 00:34:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "12 people killed after attack on international airport in Riyadh",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/12-personer-draebt-efter-angreb-paa-international-lufthavn-i-riyadh?referrer=RSS",
+        "published_date": "2026-10-10 23:28:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least 12 people killed after third attack on airport in Saudi Arabia in a week",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mindst-12-personer-draebt-og-mere-end-300-saaret-efter-angreb-paa-lufthavn-i-saudi-arabien",
+        "published_date": "2026-10-10 22:32:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "1039 companies have had their security tightened after the CPR leak",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/1039-virksomheder-har-faaet-indskaerpet-sikkerhed-efter-cpr-laek?referrer=RSS",
+        "published_date": "2026-10-10 21:29:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vinicius Junior tears opponent by the hair and sees red in victory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/vinicius-junior-river-modstander-i-haaret-og-ser-roedt-i-sejr?referrer=RSS",
+        "published_date": "2026-10-10 21:01:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "H\u00f8jlund abuses penalty kick in Napoli win",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/hoejlund-misbruger-straffespark-i-napoli-sejr?referrer=RSS",
+        "published_date": "2026-10-10 20:42:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia enables diesel exports to the US by lifting export bans",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rusland-muliggoer-dieseleksport-til-usa-ved-fjerne-eksportforbud",
+        "published_date": "2026-10-10 19:02:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eight killed in mass shooting in Pennsylvania",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/otte-draebt-i-masseskyderi-i-pennsylvania",
+        "published_date": "2026-10-10 18:09:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man killed by tiger at British zoo",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-draebt-af-tiger-i-britisk-zoo",
+        "published_date": "2026-10-10 17:30:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Greenlanders do not have to pay back wrongful benefits",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/groenlaendere-slipper-betale-fejl-ydelse-tilbage",
+        "published_date": "2026-10-10 17:16:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several injured after new attack on Saudi airport",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/flere-saarede-efter-nyt-angreb-paa-saudisk-lufthavn",
+        "published_date": "2026-10-10 16:49:18",
+        "category": "Local Events"
     },
     {
         "title": "Dream start gets Chelsea back on the winning track with a big win",
@@ -312,97 +403,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/oejenvidner-melder-om-eksplosioner-i-lufthavn-i-saudi-arabien?referrer=RSS",
         "published_date": "2026-10-10 15:22:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Verstappen drives in pole position for the second weekend in a row",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/verstappen-koerer-i-pole-position-anden-weekend-i-traek",
-        "published_date": "2026-10-10 14:52:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Still opening over 200 a year: Shop factory with a well-known billionaire behind it earns the cash",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/aabner-stadig-over-200-om-aaret-butiksfabrik-med-kendt-milliardaer-i-ryggen-tjener-kassen?rss",
-        "published_date": "2026-10-10 14:27:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Palestinian elections postponed until next year",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/palaestinensisk-valg-udsaettes-til-naeste-aar",
-        "published_date": "2026-10-10 13:13:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside Denmark: The CPR number hack shows the downside of a high-trust society",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261010/inside-denmark-the-cpr-number-hack-shows-the-downside-of-a-high-trust-society",
-        "published_date": "2026-10-10 11:19:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "A fourth person is imprisoned in the case of bodies in Guden\u00e5en",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/en-fjerde-person-er-faengslet-i-sag-om-lig-i-gudenaaen",
-        "published_date": "2026-10-10 11:11:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "NFL legend Mike Ditka has died at the age of 86",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nfl-legenden-mike-ditka-er-doed-i-en-alder-af-86-aar",
-        "published_date": "2026-10-10 10:48:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What's happening in Denmark next week?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261010/on-the-agenda-whats-happening-in-denmark-next-week-6",
-        "published_date": "2026-10-10 10:40:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "17-year-old accused of serious violence in case of stabbing in April 2025",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/17-aarig-anholdt-efter-formodet-drabsforsoeg-der-skete-over-et-aar-siden",
-        "published_date": "2026-10-10 08:21:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "More reviews about ketchup throwing in Aalborg",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-anmeldelser-om-ketchup-kast-i-aalborg",
-        "published_date": "2026-10-10 08:03:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "The municipality gets millions to help fired employees from FMC R\u00f8nland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kommune-faar-millioner-til-hjaelpe-fyrede-medarbejdere-fra-fmc-roenland",
-        "published_date": "2026-10-10 06:47:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brian must invest nine million in a new piggery: - I don't know if I dare",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/en-svaer-beslutning-til-ni-millioner-brian-maa-bygge-en-svinestald-mere-jeg-ved-ikke-om-jeg-toer?rss",
-        "published_date": "2026-10-10 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish women get a draw in Canada and burn penalty kicks",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/danske-kvinder-faar-uafgjort-i-canada-og-braender-straffespark?referrer=RSS",
-        "published_date": "2026-10-10 01:53:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump asks the Supreme Court to revive his case against Hillary Clinton",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-beder-hoejesteret-genoplive-hans-sag-mod-hillary-clinton?referrer=RSS",
-        "published_date": "2026-10-10 01:15:45",
         "category": "Local Events"
     }
 ]
