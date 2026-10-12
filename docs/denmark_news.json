@@ -119,11 +119,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Houthis blame Saudi Arabia for airstrikes in Sanaa",
+        "title": "North Korea launches several ballistic missiles towards the sea near Japan",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/houthier-beskylder-saudi-arabien-for-luftangreb-i-sanaa?referrer=RSS",
-        "published_date": "2026-10-03 20:34:49",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/nordkorea-sender-flere-ballistiske-missiler-mod-hav-naer-japan?referrer=RSS",
+        "published_date": "2026-10-12 01:49:45",
+        "category": "Military"
     },
     {
         "title": "Military Coalition reports new attacks against airport in Riyadh",
@@ -287,6 +287,27 @@
         "category": "Energy"
     },
     {
+        "title": "Judge blocks Trump from showing tax-funded ads",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/dommer-blokerer-for-trumps-visning-af-skattefinansierede-reklamer?referrer=RSS",
+        "published_date": "2026-10-12 00:52:45",
+        "category": "Economy"
+    },
+    {
+        "title": "Judge puts an end to taxpayer-funded Trump ads",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dommer-saetter-stopper-skatteyderbetalte-trump-reklamer",
+        "published_date": "2026-10-12 00:38:58",
+        "category": "Economy"
+    },
+    {
+        "title": "Haaland after victory under boos at Anfield: I am so proud",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/haaland-efter-sejr-under-buhraab-paa-anfield-jeg-er-saa-stolt?referrer=RSS",
+        "published_date": "2026-10-12 00:09:46",
+        "category": "Economy"
+    },
+    {
         "title": "First, Lars L\u00f8kke threw civility overboard, and then the pill came to DF's voters",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/foerst-smed-lars-loekke-borgerligheden-overbord-og-saa-kom-stikpillen-til-dfs-vaelgere?referrer=RSS",
@@ -299,6 +320,69 @@
         "url": "https://www.berlingske.dk/dine-penge/privatoekonomisk-brevkassebruger-du-en-udenlandsk-investeringsplatform-det-kan-ende-i-et-skattemaessigt-mareridt?referrer=RSS",
         "published_date": "2026-10-10 15:51:57",
         "category": "Economy"
+    },
+    {
+        "title": "Netanyahu wants to prosecute actors in critical documentary",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/netanyahu-vil-retsforfoelge-medvirkende-i-kritisk-dokumentarfilm?referrer=RSS",
+        "published_date": "2026-10-12 01:05:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three young men are released after a stabbing in Frederikshavn",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tre-yngre-maend-loeslades-efter-knivstikkeri-i-frederikshavn?referrer=RSS",
+        "published_date": "2026-10-11 23:11:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several airports in Saudi Arabia hit by attacks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/flere-lufthavne-i-saudi-arabien-ramt-af-angreb?referrer=RSS",
+        "published_date": "2026-10-11 22:34:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "One killed and 11 injured in new attack on airport in Saudi Arabia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/en-draebt-og-11-saaret-i-nyt-angreb-paa-lufthavn-i-saudi-arabien",
+        "published_date": "2026-10-11 22:31:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reviewers call the new DR series good advertising for agriculture",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/anmeldere-kalder-ny-dr-serie-for-god-reklame-for-landbruget?referrer=RSS",
+        "published_date": "2026-10-11 21:30:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "SAH volunteer is in hospital after violent episode",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sah-frivillig-er-paa-hospitalet-efter-voldelig-episode?referrer=RSS",
+        "published_date": "2026-10-11 21:15:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Party members and opponents criticize Trump's diesel deal with Russia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/partifaeller-og-modstandere-kritiserer-trumps-dieselaftale-med-rusland?referrer=RSS",
+        "published_date": "2026-10-11 21:12:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "OB refuses to call a manager of materials of clothes, boots and trousers a \"Kit Manager\"",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/ob/ob-naegter-at-kalde-en-forvalter-af-materiale-af-toej-stoevler-og-bukser-for-kit-manager?rss",
+        "published_date": "2026-10-11 21:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Burnham: Russia interfered in Brexit vote",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/burnham-rusland-blandede-sig-i-brexit-afstemning?referrer=RSS",
+        "published_date": "2026-10-11 20:46:46",
+        "category": "Local Events"
     },
     {
         "title": "For 75 years, Rasmus has loved pancakes: now you can meet him where the troll lives",
@@ -375,69 +459,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/polsk-politi-har-anholdt-mand-efter-trusler-mod-donald-tusk",
         "published_date": "2026-10-11 15:21:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "11 killed in bus accident in Turkey",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/11-draebt-i-busulykke-i-tyrkiet",
-        "published_date": "2026-10-11 13:59:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Over 100 migrants lose their lives in boat capsizing",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/over-100-migranter-mister-livet-i-baadforlis",
-        "published_date": "2026-10-11 11:29:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police action briefly blocked the motorway close to Copenhagen Airport",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiaktion-spaerrede-kortvarigt-motorvej-taet-ved-koebenhavns-lufthavn",
-        "published_date": "2026-10-11 11:05:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shops notice large sales of yeast after alcohol ban in South Greenland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/butikker-bemaerker-stort-salg-af-gaer-efter-alkoholstop-i-sydgroenland",
-        "published_date": "2026-10-11 09:56:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Danes were heading for WC gold - but then the heat stroke hit",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/dansker-havde-kurs-mod-vm-guld-men-saa-ramte-hedeslaget",
-        "published_date": "2026-10-11 06:13:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mike was smeared in concrete and suffered a skull fracture after a work accident: - I have become a different person",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/mike-blev-smurt-ind-i-beton-og-fik-kraniebrud-efter-arbejdsulykke-jeg-er-blevet-en-anden-person?rss",
-        "published_date": "2026-10-11 05:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wanted family man found safe and sound",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/familiefar-efterlyst-ikke-set-siden-loerdag-morgen",
-        "published_date": "2026-10-11 04:59:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "American fighter jet attacks cargo ship in the Gulf of Oman",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/amerikansk-kampfly-angriber-fragtskib-i-omanbugten",
-        "published_date": "2026-10-11 03:19:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "A person has died after a fire in Vejle",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/person-er-doed-efter-brand-i-vejle?referrer=RSS",
-        "published_date": "2026-10-11 01:18:46",
         "category": "Local Events"
     }
 ]
