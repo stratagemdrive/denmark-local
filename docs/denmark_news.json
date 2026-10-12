@@ -1,5 +1,33 @@
 [
     {
+        "title": "Liberals change policy: Will not cut development aid anyway",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/venstre-aendrer-politik-vil-ikke-skaere-i-udviklingsbistanden-alligevel?referrer=RSS",
+        "published_date": "2026-10-12 19:04:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "'Status quo not good enough': UK and EU set new date for key summit",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261012/status-quo-not-good-enough-uk-and-eu-set-new-date-for-key-summit",
+        "published_date": "2026-10-12 18:58:09",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "EU countries approve training mission in Lebanon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-lande-godkender-traeningsmission-i-libanon",
+        "published_date": "2026-10-12 15:33:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Economists from elite American universities receive the Nobel Prize in Economics",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/oekonomer-fra-amerikanske-eliteuniversiteter-modtager-nobel-prisen-i-oekonomi",
+        "published_date": "2026-10-12 10:13:03",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Proposed EU budget cut back in search for Christmas deal",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20261011/proposed-eu-budget-cut-back-in-search-for-christmas-deal",
@@ -112,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "War in Europe - follow the developments here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-udviklingen-her-32?referrer=RSS",
-        "published_date": "2026-10-04 14:51:37",
-        "category": "Diplomacy"
-    },
-    {
         "title": "North Korea launches several ballistic missiles towards the sea near Japan",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/nordkorea-sender-flere-ballistiske-missiler-mod-hav-naer-japan?referrer=RSS",
@@ -217,6 +238,27 @@
         "category": "Military"
     },
     {
+        "title": "Exuberant first half secures AGF's first win of the season",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sprudlende-foerste-halvleg-sikrer-agf-foerste-saesonsejr?referrer=RSS",
+        "published_date": "2026-10-12 18:55:44",
+        "category": "Energy"
+    },
+    {
+        "title": "Rising energy prices mean cost of district heating will go up in Denmark next year",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261012/rising-energy-prices-mean-cost-of-district-heating-will-go-up-in-denmark-next-year",
+        "published_date": "2026-10-12 13:08:55",
+        "category": "Energy"
+    },
+    {
+        "title": "Saudi Arabia's energy minister warns of retaliation after Houthi attacks",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/saudi-arabiens-energiminister-varsler-modsvar-efter-houthi-angreb",
+        "published_date": "2026-10-12 08:00:42",
+        "category": "Energy"
+    },
+    {
         "title": "Four have died after hurricane in the southeastern United States",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/fire-er-doede-efter-orkan-i-det-sydoestlige-usa?referrer=RSS",
@@ -287,6 +329,13 @@
         "category": "Energy"
     },
     {
+        "title": "Today in Denmark: A roundup of the latest news on Monday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261012/today-in-denmark-a-roundup-of-the-latest-news-on-monday-65",
+        "published_date": "2026-10-12 08:34:15",
+        "category": "Economy"
+    },
+    {
         "title": "Judge blocks Trump from showing tax-funded ads",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/dommer-blokerer-for-trumps-visning-af-skattefinansierede-reklamer?referrer=RSS",
@@ -322,143 +371,143 @@
         "category": "Economy"
     },
     {
-        "title": "Netanyahu wants to prosecute actors in critical documentary",
+        "title": "TV 2: New information after heated debate between Pia Kj\u00e6rsgaard and Muslim influencer",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/netanyahu-vil-retsforfoelge-medvirkende-i-kritisk-dokumentarfilm?referrer=RSS",
-        "published_date": "2026-10-12 01:05:45",
+        "url": "https://www.berlingske.dk/skaerm/tv-2-nye-oplysninger-efter-ophedet-debat-mellem-pia-kjaersgaard-og-muslimsk-influencer?referrer=RSS",
+        "published_date": "2026-10-12 19:34:46",
         "category": "Local Events"
     },
     {
-        "title": "Three young men are released after a stabbing in Frederikshavn",
+        "title": "FACTS: Germany's major conservative party is under pressure",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/tre-yngre-maend-loeslades-efter-knivstikkeri-i-frederikshavn?referrer=RSS",
-        "published_date": "2026-10-11 23:11:46",
+        "url": "https://www.berlingske.dk/internationalt/fakta-tysklands-store-konservative-parti-er-under-pres?referrer=RSS",
+        "published_date": "2026-10-12 19:33:45",
         "category": "Local Events"
     },
     {
-        "title": "Several airports in Saudi Arabia hit by attacks",
+        "title": "Minister's resignation creates rift between German governing parties",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/flere-lufthavne-i-saudi-arabien-ramt-af-angreb?referrer=RSS",
-        "published_date": "2026-10-11 22:34:48",
+        "url": "https://www.berlingske.dk/internationalt/ministerafgang-skaber-splid-mellem-tyske-regeringspartier?referrer=RSS",
+        "published_date": "2026-10-12 19:14:46",
         "category": "Local Events"
     },
     {
-        "title": "One killed and 11 injured in new attack on airport in Saudi Arabia",
+        "title": "Dear government, you have forgotten the students who cannot work",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/kaere-regering-i-har-glemt-de-studerende-der-ikke-kan-arbejde?referrer=RSS",
+        "published_date": "2026-10-12 19:07:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Poland suspects Russia of being behind Starlink fire",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/en-draebt-og-11-saaret-i-nyt-angreb-paa-lufthavn-i-saudi-arabien",
-        "published_date": "2026-10-11 22:31:43",
+        "url": "https://www.dr.dk/nyheder/seneste/polen-mistaenker-rusland-staa-bag-starlink-brand",
+        "published_date": "2026-10-12 18:54:50",
         "category": "Local Events"
     },
     {
-        "title": "Reviewers call the new DR series good advertising for agriculture",
+        "title": "Summer houses are cheaper in autumn: This is where the experts would go hunting",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/anmeldere-kalder-ny-dr-serie-for-god-reklame-for-landbruget?referrer=RSS",
-        "published_date": "2026-10-11 21:30:47",
+        "url": "https://www.berlingske.dk/dine-penge/sommerhuse-er-billigere-i-efteraaret-her-ville-eksperterne-gaa-paa-jagt?referrer=RSS",
+        "published_date": "2026-10-12 18:39:19",
         "category": "Local Events"
     },
     {
-        "title": "SAH volunteer is in hospital after violent episode",
+        "title": "Pia Kj\u00e6rsgaard will be a TV presenter on a new programme",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/sah-frivillig-er-paa-hospitalet-efter-voldelig-episode?referrer=RSS",
-        "published_date": "2026-10-11 21:15:45",
+        "url": "https://www.berlingske.dk/kultur/pia-kjaersgaard-bliver-tv-vaert-paa-nyt-program?referrer=RSS",
+        "published_date": "2026-10-12 18:28:56",
         "category": "Local Events"
     },
     {
-        "title": "Party members and opponents criticize Trump's diesel deal with Russia",
+        "title": "We must keep anti-democrats out of Denmark.But political judgment of taste must not decide people's citizenship",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/partifaeller-og-modstandere-kritiserer-trumps-dieselaftale-med-rusland?referrer=RSS",
-        "published_date": "2026-10-11 21:12:47",
+        "url": "https://www.berlingske.dk/kronikker/vi-skal-holde-antidemokrater-ude-af-danmark-men-politisk-smagsdommeri-maa-ikke-afgoere-folks-statsborgerskab?referrer=RSS",
+        "published_date": "2026-10-12 18:17:10",
         "category": "Local Events"
     },
     {
-        "title": "OB refuses to call a manager of materials of clothes, boots and trousers a \"Kit Manager\"",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/ob/ob-naegter-at-kalde-en-forvalter-af-materiale-af-toej-stoevler-og-bukser-for-kit-manager?rss",
-        "published_date": "2026-10-11 21:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Burnham: Russia interfered in Brexit vote",
+        "title": "Preparing 1,694 shelters can cost up to three billion",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/burnham-rusland-blandede-sig-i-brexit-afstemning?referrer=RSS",
-        "published_date": "2026-10-11 20:46:46",
+        "url": "https://www.berlingske.dk/politik/klargoering-af-1694-beskyttelsesrum-kan-koste-op-mod-tre-milliarder?referrer=RSS",
+        "published_date": "2026-10-12 18:08:48",
         "category": "Local Events"
     },
     {
-        "title": "For 75 years, Rasmus has loved pancakes: now you can meet him where the troll lives",
+        "title": "Paris' oldest market hall burnt down",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/paris-aeldste-markedshal-udbraendt",
+        "published_date": "2026-10-12 17:44:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "29 countries condemn Iran after incident at air base in England",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/29-lande-fordoemmer-iran-efter-haendelse-ved-flybase-i-england",
+        "published_date": "2026-10-12 16:10:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pope Leo will be hospitalized tomorrow after finding a lung nodule",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pave-leo-indlaegges-i-morgen-efter-fund-af-lungeknude",
+        "published_date": "2026-10-12 12:59:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "28-year-old sentenced to suspended prison for cheapening acts of terrorism on TikTok",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/28-aarig-idoemt-betinget-faengsel-paa-tiktok-billige-terrorhandlinger",
+        "published_date": "2026-10-12 12:34:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Microsoft-owned company has shared sensitive information about Grindr users",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/microsoft-ejet-selskab-har-videregivet-foelsomme-oplysninger-om-grindr-brugere",
+        "published_date": "2026-10-12 12:10:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "LISTED: The best places in Denmark to celebrate Halloween this year",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261012/the-best-places-to-celebrate-halloween-in-denmark",
+        "published_date": "2026-10-12 12:09:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of early retirees under the age of 40 is falling",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-foertidspensionister-under-40-aar-falder",
+        "published_date": "2026-10-12 11:40:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "22-year-old Hungarian accepts extension of detention",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/22-aarig-ungarer-accepterer-forlaengelse-af-varetaegtsfaengsling",
+        "published_date": "2026-10-12 11:15:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "135 people detained after major police action at Polish schools",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/135-personer-tilbageholdt-efter-stor-politiaktion-paa-polske-skoler",
+        "published_date": "2026-10-12 10:52:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Principal and school teacher shot in France",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rektor-og-skolelaerer-skudt-i-frankrig",
+        "published_date": "2026-10-12 09:42:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The pig drama continues: There was another surprise in the mailbox",
         "source": "JydskeVestkysten",
-        "url": "https://jv.dk/sydjylland/i-75-aar-har-rasmus-elsket-pandekager-nu-kan-du-moede-ham-der-hvor-trolden-bor?rss",
-        "published_date": "2026-10-11 18:06:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Houthi movement claims responsibility for deadly airport attack",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/houthibevaegelsen-tager-ansvar-for-doedeligt-lufthavnsangreb?referrer=RSS",
-        "published_date": "2026-10-11 16:22:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Houthis claim responsibility for the airport attack that killed 12 yesterday",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/houthierne-tager-ansvar-lufthavnsangreb-med-12-draebte-i-gaar",
-        "published_date": "2026-10-11 16:11:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "She survived her execution and was thrown back into prison.The question now is whether she will let go completely or whether a new method must be used",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hun-overlevede-sin-henrettelse-og-blev-smidt-tilbage-i-faengslet-spoergsmaalet-er-nu-om-hun-helt-slipper-eller-en-ny-metode-skal-tages-i-brug?referrer=RSS",
-        "published_date": "2026-10-11 15:57:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Br\u00f8ndby breaks sad streak with victory in goal celebration against Lyngby",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/broendby-bryder-trist-stime-med-sejr-i-maalfest-mod-lyngby?referrer=RSS",
-        "published_date": "2026-10-11 15:56:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kasper St\u00f8vring: The right-wing's use of language has often been scandalized - but now the whistle has taken on a different sound",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/kasper-stoevring-hoejrefloejens-sprogbrug-er-ofte-blevet-skandaliseret--men-nu-har-piben-faaet-en-anden-lyd?referrer=RSS",
-        "published_date": "2026-10-11 15:41:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "At 26, Fabian Hedin became a billionaire \u2013 went from Minecraft to AI",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/som-26-aarig-blev-fabian-hedin-milliardaer--gik-fra-minecraft-til-ai?referrer=RSS",
-        "published_date": "2026-10-11 15:38:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Romanian big club beats Team Esbjerg in the Champions League",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/rumaensk-storklub-slaar-team-esbjerg-i-champions-league?referrer=RSS",
-        "published_date": "2026-10-11 15:37:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reports of another attack at Saudi airport",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/meldinger-om-endnu-et-angreb-i-saudisk-lufthavn",
-        "published_date": "2026-10-11 15:31:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Swedish S-chairman asks for more time for government negotiations",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/svensk-s-formand-beder-om-mere-tid-til-regeringsforhandlinger?referrer=RSS",
-        "published_date": "2026-10-11 15:31:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Polish police have arrested a man after threats against Donald Tusk",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/polsk-politi-har-anholdt-mand-efter-trusler-mod-donald-tusk",
-        "published_date": "2026-10-11 15:21:48",
+        "url": "https://jv.dk/esbjerg/grise-dramaet-fortsaetter-i-postkassen-laa-der-endnu-en-overraskelse?rss",
+        "published_date": "2026-10-12 09:30:45",
         "category": "Local Events"
     }
 ]
