@@ -1,5 +1,26 @@
 [
     {
+        "title": "Newspapers criticize Trump's diesel deal and highlight Europe's hypocrisy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/aviser-kritiserer-trumps-dieselaftale-og-fremhaever-europas-hykleri?referrer=RSS",
+        "published_date": "2026-10-13 02:33:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Trump considers firing ambassador to Greece: We are not happy",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-overvejer-fyring-af-ambassadoer-i-graekenland-vi-er-ikke-glade?referrer=RSS",
+        "published_date": "2026-10-12 22:52:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Trump considers firing ambassador to Greece: We are not happy",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-overvejer-fyring-af-ambassadoer-i-graekenland-vi-er-ikke-glade",
+        "published_date": "2026-10-12 22:15:35",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Liberals change policy: Will not cut development aid anyway",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/venstre-aendrer-politik-vil-ikke-skaere-i-udviklingsbistanden-alligevel?referrer=RSS",
@@ -119,25 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The Czech Republic withdraws from Eurovision",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tjekkiet-traekker-sig-fra-eurovision",
-        "published_date": "2026-10-06 11:19:01",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Are the EU's new rules on AI enough to protect Europeans?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261006/are-the-eus-new-rules-on-ai-enough-to-protect-europeans",
-        "published_date": "2026-10-06 09:08:09",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Jysk expands in Eastern Europe",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/jysk-udvider-i-oesteuropa",
-        "published_date": "2026-10-06 06:01:09",
-        "category": "Diplomacy"
+        "title": "New action plan to strengthen equality for conscripts",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/ny-handleplan-skal-styrke-ligestillingen-for-vaernepligtige?referrer=RSS",
+        "published_date": "2026-10-13 03:01:47",
+        "category": "Military"
     },
     {
         "title": "North Korea launches several ballistic missiles towards the sea near Japan",
@@ -371,6 +378,69 @@
         "category": "Economy"
     },
     {
+        "title": "Congress leader: Public execution can become a tool for terrorists",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kongresleder-offentlig-henrettelse-kan-blive-redskab-for-terrorister?referrer=RSS",
+        "published_date": "2026-10-13 02:36:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Media: Program behind CPR leak was created by artificial intelligence",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/medie-program-bag-cpr-laek-var-skabt-af-kunstig-intelligens?referrer=RSS",
+        "published_date": "2026-10-13 02:33:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man dies on slide in American amusement park",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mand-mister-livet-i-rutsjebane-i-amerikansk-forlystelsespark?referrer=RSS",
+        "published_date": "2026-10-13 00:54:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ex-president forms alliance with rebel group in DR Congo",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ekspraesident-danner-alliance-med-oproersgruppe-i-dr-congo?referrer=RSS",
+        "published_date": "2026-10-13 00:39:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Musk donates billions to help the right before midterm elections",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/musk-donerer-milliarder-for-at-hjaelpe-hoejrefloejen-foer-midtvejsvalg?referrer=RSS",
+        "published_date": "2026-10-13 00:11:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two are reported killed in an airstrike on a high-rise building in a Ukrainian suburb",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/to-meldes-draebt-i-luftangreb-paa-hoejhus-i-ukrainsk-forstad?referrer=RSS",
+        "published_date": "2026-10-12 22:55:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish goalscorer by dream goal: It enters the top 3",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dansk-maalscorer-efter-droemmemaal-det-kommer-ind-paa-top-3?referrer=RSS",
+        "published_date": "2026-10-12 22:52:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Breaking Bad' actor dead aged 34",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/breaking-bad-skuespiller-doed-34-aar-gammel",
+        "published_date": "2026-10-12 21:43:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Actress Selma Blair arrested in case of violence on a plane",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skuespiller-selma-blair-anholdt-i-sag-om-vold-paa-fly",
+        "published_date": "2026-10-12 19:59:57",
+        "category": "Local Events"
+    },
+    {
         "title": "TV 2: New information after heated debate between Pia Kj\u00e6rsgaard and Muslim influencer",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/skaerm/tv-2-nye-oplysninger-efter-ophedet-debat-mellem-pia-kjaersgaard-og-muslimsk-influencer?referrer=RSS",
@@ -445,69 +515,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/29-lande-fordoemmer-iran-efter-haendelse-ved-flybase-i-england",
         "published_date": "2026-10-12 16:10:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pope Leo will be hospitalized tomorrow after finding a lung nodule",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pave-leo-indlaegges-i-morgen-efter-fund-af-lungeknude",
-        "published_date": "2026-10-12 12:59:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "28-year-old sentenced to suspended prison for cheapening acts of terrorism on TikTok",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/28-aarig-idoemt-betinget-faengsel-paa-tiktok-billige-terrorhandlinger",
-        "published_date": "2026-10-12 12:34:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Microsoft-owned company has shared sensitive information about Grindr users",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/microsoft-ejet-selskab-har-videregivet-foelsomme-oplysninger-om-grindr-brugere",
-        "published_date": "2026-10-12 12:10:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "LISTED: The best places in Denmark to celebrate Halloween this year",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261012/the-best-places-to-celebrate-halloween-in-denmark",
-        "published_date": "2026-10-12 12:09:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of early retirees under the age of 40 is falling",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-foertidspensionister-under-40-aar-falder",
-        "published_date": "2026-10-12 11:40:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "22-year-old Hungarian accepts extension of detention",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/22-aarig-ungarer-accepterer-forlaengelse-af-varetaegtsfaengsling",
-        "published_date": "2026-10-12 11:15:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "135 people detained after major police action at Polish schools",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/135-personer-tilbageholdt-efter-stor-politiaktion-paa-polske-skoler",
-        "published_date": "2026-10-12 10:52:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Principal and school teacher shot in France",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rektor-og-skolelaerer-skudt-i-frankrig",
-        "published_date": "2026-10-12 09:42:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "The pig drama continues: There was another surprise in the mailbox",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/grise-dramaet-fortsaetter-i-postkassen-laa-der-endnu-en-overraskelse?rss",
-        "published_date": "2026-10-12 09:30:45",
         "category": "Local Events"
     }
 ]
