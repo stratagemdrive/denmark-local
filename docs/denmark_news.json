@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Zelenskyj will meet with Burnham in London on Wednesday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/zelenskyj-moedes-onsdag-med-burnham-i-london?referrer=RSS",
+        "published_date": "2026-10-13 22:14:45",
+        "category": "Military"
+    },
+    {
         "title": "New action plan to strengthen equality for conscripts",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/ny-handleplan-skal-styrke-ligestillingen-for-vaernepligtige?referrer=RSS",
@@ -221,13 +228,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-godkender-skydning-af-manden-bag-fort-hood-massakren?referrer=RSS",
         "published_date": "2026-10-06 02:11:46",
-        "category": "Military"
-    },
-    {
-        "title": "Trump: Ukraine is to blame for rising petrol prices - not Hormuz",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-ukraine-er-skyld-i-stigende-benzinpriser-ikke-hormuz?referrer=RSS",
-        "published_date": "2026-10-05 20:54:44",
         "category": "Military"
     },
     {
@@ -322,6 +322,13 @@
         "category": "Energy"
     },
     {
+        "title": "The US's second largest bank is fined billions for breaking the law",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usas-naeststoerste-bank-faar-milliardboede-for-lovbrud?referrer=RSS",
+        "published_date": "2026-10-14 00:44:45",
+        "category": "Economy"
+    },
+    {
         "title": "Today in Denmark: A roundup of the latest news on Monday",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20261012/today-in-denmark-a-roundup-of-the-latest-news-on-monday-65",
@@ -362,6 +369,90 @@
         "url": "https://www.berlingske.dk/dine-penge/privatoekonomisk-brevkassebruger-du-en-udenlandsk-investeringsplatform-det-kan-ende-i-et-skattemaessigt-mareridt?referrer=RSS",
         "published_date": "2026-10-10 15:51:57",
         "category": "Economy"
+    },
+    {
+        "title": "Saudi Arabia reports four injured after shooting down drones",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/saudi-arabien-melder-om-fire-saarede-efter-nedskydning-af-droner?referrer=RSS",
+        "published_date": "2026-10-14 00:19:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cornell bans parties after alleged gang-rape",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/cornell-indfoerer-festforbud-efter-paastaaet-gruppevoldtaegt?referrer=RSS",
+        "published_date": "2026-10-13 23:36:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister calls parties after cyber incident at Fehmarn",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/minister-indkalder-partier-efter-cyberhaendelse-ved-femern?referrer=RSS",
+        "published_date": "2026-10-13 23:28:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Viking captain sticks to world star after Norwegian sensation",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/viking-anfoerer-stikker-til-verdensstjerne-efter-norsk-sensation?referrer=RSS",
+        "published_date": "2026-10-13 23:13:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark's oldest person breaks the record at 112 years and 218 days",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/danmarks-aeldste-person-slaar-rekord-med-112-aar-og-218-dage?referrer=RSS",
+        "published_date": "2026-10-13 22:11:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ministers: It must cost money to destroy our nature - that's why we are raising the fines",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/ministre-det-skal-koste-at-oedelaegge-vores-natur--derfor-haever-vi-boederne?referrer=RSS",
+        "published_date": "2026-10-13 21:52:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Saudi employee charged with planting eavesdropping equipment at OpenAI",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/saudisk-medarbejder-sigtet-plante-aflytningsudstyr-hos-openai",
+        "published_date": "2026-10-13 21:37:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "OpenAI employee arrested for planting eavesdropping equipment",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/openai-medarbejder-anholdt-for-at-plante-aflytningsudstyr?referrer=RSS",
+        "published_date": "2026-10-13 21:25:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norwegian champions get a draw in a wild game against Bayern Munich",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/norske-mestre-faar-uafgjort-i-vild-kamp-mod-bayern-muenchen?referrer=RSS",
+        "published_date": "2026-10-13 21:10:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pope Leo has been diagnosed with lung cancer",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pave-leo-har-faaet-konstateret-lungekraeft",
+        "published_date": "2026-10-13 20:58:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Volvo is recalling 5,500 cars in Denmark after a fault with the headrest",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/volvo-tilbagekalder-5-500-biler-i-danmark-efter-fejl-ved-nakkestoette",
+        "published_date": "2026-10-13 20:03:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Pope's operation has gone well",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pavens-operation-er-gaaet-godt",
+        "published_date": "2026-10-13 18:36:31",
+        "category": "Local Events"
     },
     {
         "title": "Volvo is recalling 234,000 cars due to faulty head restraints",
@@ -417,90 +508,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/politi-rykkede-ud-til-nabostridighed-i-koebenhavn",
         "published_date": "2026-10-13 14:41:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark to slash work permit salary threshold for some applicants by almost 20,000 kroner",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261013/denmark-slashes-work-permit-salary-threshold-for-some-applicants-by-almost-20000-kroner",
-        "published_date": "2026-10-13 13:50:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jeppe sends 60,000 piglets to Poland: - I'm one of the bad ones",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/vejen/jeppe-sender-60-000-smaagrise-til-polen-jeg-er-en-af-de-slemme?rss",
-        "published_date": "2026-10-13 13:49:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Over 9,000 Ebola cases in DR Congo",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/over-9-000-ebola-tilfaelde-i-dr-congo",
-        "published_date": "2026-10-13 13:30:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "MI5 chief warns of intensified Iranian attacks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mi5-chef-advarer-om-intensiverede-iranske-angreb",
-        "published_date": "2026-10-13 13:18:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Apartment prices in Copenhagen still falling as prices in Aarhus hit new record",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261013/apartment-prices-in-copenhagen-still-falling-as-prices-in-aarhus-hit-new-record",
-        "published_date": "2026-10-13 13:07:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trains stand still on Vestfyn",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tog-holder-stille-paa-fyn",
-        "published_date": "2026-10-13 12:55:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish supermarkets are on the hook after cyberattacks in France",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danske-supermarkeder-er-paa-stikkerne-efter-cyberangreb-i-frankrig",
-        "published_date": "2026-10-13 11:52:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nuremberg Airport briefly suspends flights after 'airborne emergency'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nurnbergs-lufthavn-indstiller-flytrafikken-efter-noedsituation-i-luften",
-        "published_date": "2026-10-13 10:58:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rwanda is bringing Formula 1 back to Africa",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/rwanda-bringer-formel-1-tilbage-til-afrika",
-        "published_date": "2026-10-13 10:33:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The motor register is temporarily closed 'due to an error'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/motorregistret-er-midlertidigt-lukket-ned-paa-grund-af-en-fejl",
-        "published_date": "2026-10-13 10:20:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 26-year-old had four rifles and 40 kilos of cocaine lying around at home",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/26-aarig-havde-fire-rifler-og-40-kilo-kokain-liggende-derhjemme",
-        "published_date": "2026-10-13 10:16:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261013/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-68",
-        "published_date": "2026-10-13 08:29:32",
         "category": "Local Events"
     }
 ]
