@@ -140,6 +140,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Trump: I would not have sent the military into Greenland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-jeg-ville-ikke-have-sendt-militaer-ind-i-groenland",
+        "published_date": "2026-10-15 00:16:52",
+        "category": "Military"
+    },
+    {
+        "title": "Trump: I would not have sent the military into Greenland",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-jeg-ville-ikke-have-sendt-militaer-ind-i-groenland?referrer=RSS",
+        "published_date": "2026-10-14 23:03:48",
+        "category": "Military"
+    },
+    {
+        "title": "Four people are reported killed during Israeli attacks in Gaza",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fire-personer-meldes-draebt-under-israelske-angreb-i-gaza?referrer=RSS",
+        "published_date": "2026-10-14 21:29:44",
+        "category": "Military"
+    },
+    {
         "title": "Zelenskyj will meet with Burnham in London on Wednesday",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/zelenskyj-moedes-onsdag-med-burnham-i-london?referrer=RSS",
@@ -200,13 +221,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/kreml-har-intensiveret-angrebene-paa-civilefor-dem-er-en-bus-med-passagerer-et-attraktivt-maal?referrer=RSS",
         "published_date": "2026-10-08 17:30:12",
-        "category": "Military"
-    },
-    {
-        "title": "First, the spy chief was accused of abducting children in Denmark.Now he is shaking Germany again",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/foerst-blev-spionchefen-anklaget-for-at-bortfoere-boern-i-danmark-nu-ryster-han-tyskland-igen?referrer=RSS",
-        "published_date": "2026-10-06 16:20:57",
         "category": "Military"
     },
     {
@@ -287,13 +301,6 @@
         "category": "Energy"
     },
     {
-        "title": "Ten evacuated from oil tanker in the Strait of Hormuz",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ti-evakueret-fra-olietankskib-i-hormuzstraedet",
-        "published_date": "2026-10-06 18:02:01",
-        "category": "Energy"
-    },
-    {
         "title": "Netflix pressured by competitors - lays off 1,000 employees",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/netflix-presset-af-konkurrenter-fyrer-1-000-ansatte",
@@ -348,6 +355,76 @@
         "url": "https://www.berlingske.dk/dine-penge/privatoekonomisk-brevkassebruger-du-en-udenlandsk-investeringsplatform-det-kan-ende-i-et-skattemaessigt-mareridt?referrer=RSS",
         "published_date": "2026-10-10 15:51:57",
         "category": "Economy"
+    },
+    {
+        "title": "Britain ready to give money for Chernobyl repairs",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-klar-til-give-penge-til-reparationer-af-tjernobyl",
+        "published_date": "2026-10-15 01:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hidden footage shows Reform UK members making racist remarks",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/skjulte-optagelser-viser-reform-uk-medlemmer-udtale-sig-racistisk?referrer=RSS",
+        "published_date": "2026-10-15 00:45:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Britain gives millions for repairs at Chernobyl",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/storbritannien-giver-millioner-til-reparation-ved-tjernobyl?referrer=RSS",
+        "published_date": "2026-10-15 00:32:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Media: Fifa changes rules after controversial World Cup ban",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/medie-fifa-aendrer-regler-efter-kontroversiel-vm-karantaene?referrer=RSS",
+        "published_date": "2026-10-14 23:48:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mourinho calls timing of Vinicius suspension shameless",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/mourinho-kalder-timing-af-vinicius-karantaene-for-skamloes?referrer=RSS",
+        "published_date": "2026-10-14 23:30:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump's new spokeswoman's legal background has come under the spotlight",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trumps-nye-talskvindes-advokatbaggrund-er-kommet-i-soegelyset?referrer=RSS",
+        "published_date": "2026-10-14 23:27:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three late scores earn Real Madrid victory in Rome",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tre-sene-scoringer-skaffer-real-madrid-sejr-i-rom?referrer=RSS",
+        "published_date": "2026-10-14 21:04:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Manchester City are beaten by PSG on their own turf",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/manchester-city-faar-hug-af-psg-paa-eget-graes?referrer=RSS",
+        "published_date": "2026-10-14 21:04:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reviews of AI-generated child and youth abuse material are on the rise",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/anmeldelser-om-ai-genereret-overgrebsmateriale-af-boern-og-unge-stiger?referrer=RSS",
+        "published_date": "2026-10-14 20:52:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "States sue OpenAI to guide children in self-harm",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/delstater-sagsoeger-openai-vejlede-boern-i-selvskade",
+        "published_date": "2026-10-14 20:10:19",
+        "category": "Local Events"
     },
     {
         "title": "Protesters set fire to Albania's Ministry of Education",
@@ -417,76 +494,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/midlertidig-graensekontrol-mod-tyskland-forlaenges-med-et-halvt-aar",
         "published_date": "2026-10-14 14:55:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Business update:\u00a0Danish rival tries to buy Old Irish Pub",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/dine-penge/business-updatedansk-rival-forsoeger-at-koebe-old-irish-pub?referrer=RSS",
-        "published_date": "2026-10-14 14:50:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Pope is eating and can walk again after lung surgery",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/paven-spiser-og-kan-gaa-igen-efter-lungeoperation?referrer=RSS",
-        "published_date": "2026-10-14 14:42:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Full train traffic over Vestfyn will not resume until Monday",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fuld-togtrafik-over-vestfyn-genoptages-foerst-mandag",
-        "published_date": "2026-10-14 13:36:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The city council veteran is leaving the Liberal Party for the Conservatives",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/byraadsveteran-forlader-venstre-konservative",
-        "published_date": "2026-10-14 13:31:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "14-year-old Villads rides lightning-fast electric scooters: he should be allowed to do that, his father believes",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/14-aarige-villads-koerer-paa-ulovlige-lynhurtige-elloebehjul-det-skal-han-have-lov-til-ifoelge-hans-far?rss",
-        "published_date": "2026-10-14 12:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elderly man killed by stabbing: We know that - and we don't have an answer to that",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/aeldre-mand-draebt-af-knivstik-det-ved-vi-og-det-mangler-vi-svar-paa?rss",
-        "published_date": "2026-10-14 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mobile police station moved to area after assault on women",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mobil-politistation-rykkes-til-omraade-efter-overfald-paa-kvinder",
-        "published_date": "2026-10-14 11:49:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three Danish films have been shortlisted for a major award ceremony",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-danske-film-er-blevet-shortlistet-til-stor-prisuddeling",
-        "published_date": "2026-10-14 10:37:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "'112 years, 218 days': Woman from Struer becomes oldest ever Dane",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261014/woman-from-struer-officially-becomes-oldest-dane-in-history",
-        "published_date": "2026-10-14 09:52:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 65-year-old man has died after a stabbing in Odense",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/65-aarig-mand-er-doed-efter-knivstikkeri-i-odense",
-        "published_date": "2026-10-14 09:04:06",
         "category": "Local Events"
     }
 ]
