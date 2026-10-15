@@ -1,5 +1,19 @@
 [
     {
+        "title": "Trump says 'massive' oil, gas and mineral exploration to begin in Greenland",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261015/trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland",
+        "published_date": "2026-10-15 08:05:35",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Russia's energy is Europe's!Trump must not take it",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/politik/reels/ruslands-energi-er-europaeisk-energi",
+        "published_date": "2026-10-15 07:48:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Temporary border control with Germany is extended by half a year",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/midlertidig-graensekontrol-mod-tyskland-forlaenges-med-et-halvt-aar?referrer=RSS",
@@ -123,20 +137,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20261011/proposed-eu-budget-cut-back-in-search-for-christmas-deal",
         "published_date": "2026-10-11 17:17:41",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "French author: Native white Europeans are subjected to racism in the schoolyard",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fransk-forfatter-indfoedte-hvide-europaeere-udsaettes-for-racisme-i-skolegaarden?referrer=RSS",
-        "published_date": "2026-10-11 15:38:10",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The UN Secretary General condemns the attack on the airport in Saudi Arabia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fn-s-generalsekretaer-fordoemmer-angreb-paa-lufthavn-i-saudi-arabien",
-        "published_date": "2026-10-11 06:29:28",
         "category": "Diplomacy"
     },
     {
@@ -301,6 +301,20 @@
         "category": "Energy"
     },
     {
+        "title": "Uncertainty about agricultural figures hits in the middle of the season: Can be expensive for both farmers, taxpayers - and the aquatic environment",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/usikkerhed-om-landbrugstal-rammer-midt-i-saesonen-kan-blive-dyrt-for-baade-landmaend-skatteborgere--og-vandmiljoeet?referrer=RSS",
+        "published_date": "2026-10-15 14:33:00",
+        "category": "Economy"
+    },
+    {
+        "title": "The Clausen family asks everyone to sell their shares: Danfoss employees can score huge profits",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/soenderborg/clausen-familien-beder-alle-saelge-deres-aktier-danfoss-ansatte-kan-score-kaempe-gevinst?rss",
+        "published_date": "2026-10-15 05:11:00",
+        "category": "Economy"
+    },
+    {
         "title": "Netflix pressured by competitors - lays off 1,000 employees",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/netflix-presset-af-konkurrenter-fyrer-1-000-ansatte",
@@ -357,143 +371,143 @@
         "category": "Economy"
     },
     {
-        "title": "Britain ready to give money for Chernobyl repairs",
+        "title": "Danish word of the day: bagklog",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261015/danish-word-of-the-day-bagklog",
+        "published_date": "2026-10-15 15:20:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Houthi movement has fired missiles at the presidential palace in Yemen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/houthibevaegelsen-har-affyret-missiler-mod-praesidentpaladset-i-yemen?referrer=RSS",
+        "published_date": "2026-10-15 15:10:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Girl fell out of fun on the Hill",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-klar-til-give-penge-til-reparationer-af-tjernobyl",
-        "published_date": "2026-10-15 01:00:00",
+        "url": "https://www.dr.dk/nyheder/seneste/pige-faldt-ud-af-forlystelse-paa-bakken",
+        "published_date": "2026-10-15 15:08:11",
         "category": "Local Events"
     },
     {
-        "title": "Hidden footage shows Reform UK members making racist remarks",
+        "title": "Eight-year-old girl hospitalized with injuries after falling from amusement ride at Bakken",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/skjulte-optagelser-viser-reform-uk-medlemmer-udtale-sig-racistisk?referrer=RSS",
-        "published_date": "2026-10-15 00:45:46",
+        "url": "https://www.berlingske.dk/indland/otteaarig-pige-indlagt-med-skader-efter-fald-fra-forlystelse-paa-bakken?referrer=RSS",
+        "published_date": "2026-10-15 15:01:46",
         "category": "Local Events"
     },
     {
-        "title": "Britain gives millions for repairs at Chernobyl",
+        "title": "How to access mental health treatment in Denmark",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261015/how-to-access-mental-health-treatment-in-denmark",
+        "published_date": "2026-10-15 14:58:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Infantino apologizes to Fifa's governing body",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/storbritannien-giver-millioner-til-reparation-ved-tjernobyl?referrer=RSS",
-        "published_date": "2026-10-15 00:32:45",
+        "url": "https://www.berlingske.dk/sport/infantino-undskylder-over-for-fifas-ledende-organ?referrer=RSS",
+        "published_date": "2026-10-15 14:57:54",
         "category": "Local Events"
     },
     {
-        "title": "Media: Fifa changes rules after controversial World Cup ban",
+        "title": "Apple and Nvidia donate $25 million each to Trump's ballroom",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/medie-fifa-aendrer-regler-efter-kontroversiel-vm-karantaene?referrer=RSS",
-        "published_date": "2026-10-14 23:48:46",
+        "url": "https://www.berlingske.dk/internationalt/apple-og-nvidia-donerer-25-millioner-dollar-hver-til-trumps-balsal?referrer=RSS",
+        "published_date": "2026-10-15 14:50:49",
         "category": "Local Events"
     },
     {
-        "title": "Mourinho calls timing of Vinicius suspension shameless",
+        "title": "The last Danish men's doubles backs out of the Denmark Open",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mourinho-kalder-timing-af-vinicius-karantaene-for-skamloes?referrer=RSS",
-        "published_date": "2026-10-14 23:30:46",
+        "url": "https://www.berlingske.dk/sport/sidste-danske-herredouble-bakker-ud-af-denmark-open?referrer=RSS",
+        "published_date": "2026-10-15 14:44:51",
         "category": "Local Events"
     },
     {
-        "title": "Trump's new spokeswoman's legal background has come under the spotlight",
+        "title": "Trump drops live streaming of planned execution",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trumps-nye-talskvindes-advokatbaggrund-er-kommet-i-soegelyset?referrer=RSS",
-        "published_date": "2026-10-14 23:27:48",
+        "url": "https://www.berlingske.dk/internationalt/trump-dropper-livestreaming-af-planlagt-henrettelse?referrer=RSS",
+        "published_date": "2026-10-15 14:41:44",
         "category": "Local Events"
     },
     {
-        "title": "Three late scores earn Real Madrid victory in Rome",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tre-sene-scoringer-skaffer-real-madrid-sejr-i-rom?referrer=RSS",
-        "published_date": "2026-10-14 21:04:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Manchester City are beaten by PSG on their own turf",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/manchester-city-faar-hug-af-psg-paa-eget-graes?referrer=RSS",
-        "published_date": "2026-10-14 21:04:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reviews of AI-generated child and youth abuse material are on the rise",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/anmeldelser-om-ai-genereret-overgrebsmateriale-af-boern-og-unge-stiger?referrer=RSS",
-        "published_date": "2026-10-14 20:52:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "States sue OpenAI to guide children in self-harm",
+        "title": "Israel closes the import of commercial goods to Gaza",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/delstater-sagsoeger-openai-vejlede-boern-i-selvskade",
-        "published_date": "2026-10-14 20:10:19",
+        "url": "https://www.dr.dk/nyheder/seneste/israel-lukker-import-af-kommercielle-varer-til-gaza",
+        "published_date": "2026-10-15 14:24:51",
         "category": "Local Events"
     },
     {
-        "title": "Protesters set fire to Albania's Ministry of Education",
+        "title": "Houthis have attacked Saudi Arabian airport 20 times in October",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/houthier-har-angrebet-saudiarabisk-lufthavn-20-gange-i-oktober?referrer=RSS",
+        "published_date": "2026-10-15 14:16:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Black authors are repeatedly accused of AI cheating: \"We all come under suspicion\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/litteratur/sorte-forfattere-anklages-paa-stribe-for-ai-fusk-vi-kommer-alle-under-mistanke?referrer=RSS",
+        "published_date": "2026-10-15 14:12:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel: Import of commercial goods to Gaza stops",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/israel-import-af-kommercielle-varer-til-gaza-stopper?referrer=RSS",
+        "published_date": "2026-10-15 13:54:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Everything you need to know about Denmark\u2019s new work permit rules",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261015/everything-you-need-to-know-about-denmarks-new-work-permit-rules",
+        "published_date": "2026-10-15 13:53:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Did you see something?Police are looking for witnesses to the \"suspicious\" large fire",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/112/saa-du-noget-politiet-soeger-vidner-efter-voldsom-brand?rss",
+        "published_date": "2026-10-15 12:38:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Train problems in Hamburg leave Danes on the platform",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/demonstranter-saetter-ild-til-albaniens-undervisningsministerium",
-        "published_date": "2026-10-14 15:33:36",
+        "url": "https://www.dr.dk/nyheder/seneste/togproblemer-i-hamborg-efterlader-danskere-paa-perronen",
+        "published_date": "2026-10-15 11:29:11",
         "category": "Local Events"
     },
     {
-        "title": "61-year-old charged with Facebook threats against Thisted's mayor",
+        "title": "Former Northern Ireland party leader sentenced to 15 years in prison for child abuse",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/61-aarig-sigtet-facebook-trusler-mod-thistedborgmester",
-        "published_date": "2026-10-14 15:32:47",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-nordirsk-partileder-idoemt-15-aars-faengsel-overgreb-paa-boern",
+        "published_date": "2026-10-15 11:16:09",
         "category": "Local Events"
     },
     {
-        "title": "Russia: Diesel Contracts with USA to be signed soon",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rusland-dieselkontrakter-med-usa-underskrives-snart?referrer=RSS",
-        "published_date": "2026-10-14 15:27:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "61-year-old man charged with threats against mayor on Facebook",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/61-aarig-mand-sigtet-for-trusler-mod-borgmester-paa-facebook?referrer=RSS",
-        "published_date": "2026-10-14 15:27:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Well-known debate editor supports remigration: \"I'm with it, regardless of whether it's 50,000 or 100,000\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/kendt-debatredaktoer-stoetter-remigration-jeg-er-med-paa-det-uanset-om-det-er-50000-eller-100000?referrer=RSS",
-        "published_date": "2026-10-14 15:20:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexico will tighten controls on social media and streaming services",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mexico-vil-skaerpe-kontrollen-med-sociale-medier-og-streamingtjenester?referrer=RSS",
-        "published_date": "2026-10-14 15:17:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Land registry system imposes restrictions after unusual activity",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/tinglysningssystem-indfoerer-begraensninger-efter-usaedvanlig-aktivitet?referrer=RSS",
-        "published_date": "2026-10-14 15:14:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Growing number of Iranians receive death penalty: Iranian woman sentenced to death for blasphemy",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/voksende-antal-iranere-modtager-doedsstraf-iransk-kvinde-doedsdoemt-for-blasfemi?referrer=RSS",
-        "published_date": "2026-10-14 15:13:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "81-year-old man charged with murder after stabbing in Odense",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/81-aarig-mand-sigtet-for-drab-efter-knivstikkeri-i-odense?referrer=RSS",
-        "published_date": "2026-10-14 15:05:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Temporary border control with Germany is extended by half a year",
+        "title": "Former North Zealand city council politician convicted of money laundering",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/midlertidig-graensekontrol-mod-tyskland-forlaenges-med-et-halvt-aar",
-        "published_date": "2026-10-14 14:55:28",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-nordsjaellandsk-byraadspolitiker-doemt-hvidvask-af-millioner",
+        "published_date": "2026-10-15 11:10:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Riksdag votes no to Andersson as prime minister",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/riksdagen-stemmer-nej-til-andersson-som-statsminister",
+        "published_date": "2026-10-15 10:56:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Too Good To Go expands range",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/too-good-go-udvider-sortiment",
+        "published_date": "2026-10-15 09:31:00",
         "category": "Local Events"
     }
 ]
