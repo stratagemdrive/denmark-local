@@ -1,5 +1,12 @@
 [
     {
+        "title": "War in Europe - follow the developments here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-udviklingen-her-56?referrer=RSS",
+        "published_date": "2026-10-16 13:35:08",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Zelenskyj: Spoke to Mette Frederiksen about continued Russian attack",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/zelenskyj-talte-med-mette-frederiksen-om-fortsatte-russisk-angreb?referrer=RSS",
@@ -130,13 +137,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20261012/status-quo-not-good-enough-uk-and-eu-set-new-date-for-key-summit",
         "published_date": "2026-10-12 18:58:09",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "EU countries approve training mission in Lebanon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-lande-godkender-traeningsmission-i-libanon",
-        "published_date": "2026-10-12 15:33:32",
         "category": "Diplomacy"
     },
     {
@@ -301,13 +301,6 @@
         "category": "Energy"
     },
     {
-        "title": "- They took the whole crap in one weekend: Now Niels shoots gas cannons to defend his pumpkins",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/erhverv/de-tog-hele-lortet-paa-en-weekend-nu-skyder-niels-med-gaskanoner-for-at-forsvare-sine-graeskar?rss",
-        "published_date": "2026-10-08 12:06:38",
-        "category": "Energy"
-    },
-    {
         "title": "Uncertainty about agricultural figures hits in the middle of the season: Can be expensive for both farmers, taxpayers - and the aquatic environment",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/usikkerhed-om-landbrugstal-rammer-midt-i-saesonen-kan-blive-dyrt-for-baade-landmaend-skatteborgere--og-vandmiljoeet?referrer=RSS",
@@ -378,143 +371,143 @@
         "category": "Economy"
     },
     {
-        "title": "Protesters and police clash in Argentina's capital",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/demonstranter-og-politi-stoeder-sammen-i-argentinas-hovedstad?referrer=RSS",
-        "published_date": "2026-10-15 23:42:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Greenland's parliament proposes to ban deep-sea mining",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/groenlands-parlament-foreslaar-at-forbyde-dybhavsminedrift?referrer=RSS",
-        "published_date": "2026-10-15 23:24:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: Three children killed in school shooting in American city",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/medier-tre-boern-draebt-i-skoleskyderi-i-amerikansk-by?referrer=RSS",
-        "published_date": "2026-10-15 22:46:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israeli advertising agency accused of spying on people online",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/israelsk-reklamebureau-anklages-for-spionage-mod-personer-paa-nettet?referrer=RSS",
-        "published_date": "2026-10-15 21:33:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Broadcasts around the clock: Streamer breaks Denmark's record in subscribers",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/sender-doegnet-rundt-streamer-slaar-danmarksrekord-i-abonnenter?referrer=RSS",
-        "published_date": "2026-10-15 21:26:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Returned national team back shines in Danes meeting",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tilbagevendt-landsholdsback-lyner-i-danskermoede?referrer=RSS",
-        "published_date": "2026-10-15 21:08:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "S\u00f8nderthon 2.0 sets a Danish record",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/soenderthon-2-0-saetter-danmarksrekord",
-        "published_date": "2026-10-15 21:08:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Substitute saves the evening for FC Nordsj\u00e6lland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/indskifter-redder-aftenen-for-fc-nordsjaelland?referrer=RSS",
-        "published_date": "2026-10-15 21:02:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bus and freight train collide in France near the Channel Tunnel",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bus-og-godstog-kolliderer-i-frankrig-naer-kanaltunnelen",
-        "published_date": "2026-10-15 19:44:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Amar from \u00d8lgod didn't hesitate for a second when he got a completely unique opportunity: Suddenly he was in South Korea",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/varde/amar-fra-oelgod-toevede-ikke-et-sekund-da-han-fik-helt-unik-mulighed-pludselig-stod-han-i-sydkorea?rss",
-        "published_date": "2026-10-15 18:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Maduro and his wife plead not guilty to torture charges",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maduro-og-hans-kone-naegter-sig-skyldige-i-torturanklager",
-        "published_date": "2026-10-15 16:27:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish word of the day: bagklog",
+        "title": "Return centres, taxes and a hunt: What changes in Denmark in November 2026",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261015/danish-word-of-the-day-bagklog",
-        "published_date": "2026-10-15 15:20:15",
+        "url": "https://www.thelocal.dk/20261016/return-centres-taxes-and-a-hunt-what-changes-in-denmark-in-november-2026",
+        "published_date": "2026-10-16 15:02:22",
         "category": "Local Events"
     },
     {
-        "title": "The Houthi movement has fired missiles at the presidential palace in Yemen",
+        "title": "Lidegaard prevailed, but refused to repeat his words.Messerschmidt followed the plan and gave up",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/houthibevaegelsen-har-affyret-missiler-mod-praesidentpaladset-i-yemen?referrer=RSS",
-        "published_date": "2026-10-15 15:10:48",
+        "url": "https://www.berlingske.dk/politik/lidegaard-sejrede-men-naegtede-at-gentage-sine-ord-messerschmidt-fulgte-planen-og-gav-op?referrer=RSS",
+        "published_date": "2026-10-16 14:43:02",
         "category": "Local Events"
     },
     {
-        "title": "Girl fell out of fun on the Hill",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pige-faldt-ud-af-forlystelse-paa-bakken",
-        "published_date": "2026-10-15 15:08:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Eight-year-old girl hospitalized with injuries after falling from amusement ride at Bakken",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/otteaarig-pige-indlagt-med-skader-efter-fald-fra-forlystelse-paa-bakken?referrer=RSS",
-        "published_date": "2026-10-15 15:01:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "How to access mental health treatment in Denmark",
+        "title": "Social Liberal Party leader acquitted of defamation against Danish People\u2019s Party",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261015/how-to-access-mental-health-treatment-in-denmark",
-        "published_date": "2026-10-15 14:58:52",
+        "url": "https://www.thelocal.dk/20261016/social-liberal-party-leader-acquitted-of-defamation-against-danish-peoples-party",
+        "published_date": "2026-10-16 14:40:01",
         "category": "Local Events"
     },
     {
-        "title": "Infantino apologizes to Fifa's governing body",
+        "title": "The skirt hunter's \"goal\" was to sleep with 5,000 women.Behind the goal hid a very dark side",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/infantino-undskylder-over-for-fifas-ledende-organ?referrer=RSS",
-        "published_date": "2026-10-15 14:57:54",
+        "url": "https://www.berlingske.dk/internationalt/skoertejaegerens-maal-var-at-gaa-i-seng-med-5000-kvinder-bag-maalet-gemte-sig-en-meget-sort-side?referrer=RSS",
+        "published_date": "2026-10-16 14:37:20",
         "category": "Local Events"
     },
     {
-        "title": "Apple and Nvidia donate $25 million each to Trump's ballroom",
+        "title": "Denmark's longest living person was a member of the Danish Nazi Party",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/apple-og-nvidia-donerer-25-millioner-dollar-hver-til-trumps-balsal?referrer=RSS",
-        "published_date": "2026-10-15 14:50:49",
+        "url": "https://www.berlingske.dk/danmark/danmarks-laengstlevende-var-medlem-af-dansk-nazistparti?referrer=RSS",
+        "published_date": "2026-10-16 14:30:47",
         "category": "Local Events"
     },
     {
-        "title": "The last Danish men's doubles backs out of the Denmark Open",
+        "title": "Business Update:\u00a0China to Limit Exports of AI \u2013 Wants to Protect Technologies from Competition",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/sidste-danske-herredouble-bakker-ud-af-denmark-open?referrer=RSS",
-        "published_date": "2026-10-15 14:44:51",
+        "url": "https://www.berlingske.dk/virksomheder/business-updatekina-vil-begraense-eksport-af-ai--vil-beskytte-teknologier-mod-konkurrence?referrer=RSS",
+        "published_date": "2026-10-16 14:08:46",
         "category": "Local Events"
     },
     {
-        "title": "Trump drops live streaming of planned execution",
+        "title": "Analysis: Organic food is 26 percent cheaper in Lidl",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-dropper-livestreaming-af-planlagt-henrettelse?referrer=RSS",
-        "published_date": "2026-10-15 14:41:44",
+        "url": "https://www.berlingske.dk/business/analyse-oekologiske-foedevarer-er-26-procent-billigere-i-lidl?referrer=RSS",
+        "published_date": "2026-10-16 14:08:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men imprisoned for serious violence and robberies in supermarkets",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maend-faengslet-grov-vold-og-roeverier-i-supermarkeder",
+        "published_date": "2026-10-16 13:57:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The moderates give up closing Aula",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/moderaterne-opgiver-at-lukke-aula?referrer=RSS",
+        "published_date": "2026-10-16 13:40:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about Danish politics - follow the development here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-22?referrer=RSS",
+        "published_date": "2026-10-16 13:29:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men imprisoned for serious violence and robberies in supermarkets",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/to-maend-faengslet-for-grov-vold-og-roeverier-i-supermarkeder?referrer=RSS",
+        "published_date": "2026-10-16 13:26:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "How to get vaccinated against the flu in Denmark",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261016/how-to-get-vaccinated-against-the-flu-in-denmark",
+        "published_date": "2026-10-16 13:06:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Technical error at Nets has led to duplicate transactions",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/teknisk-fejl-hos-nets-har-foert-til-dobbelttransaktioner",
+        "published_date": "2026-10-16 13:05:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fehmarn Belt construction partially resumed after cyber attack",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/femern-baelt-byggeri-delvist-genoptaget-efter-cyberangreb",
+        "published_date": "2026-10-16 13:03:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chinese sentenced to prison and deportation for smishing",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kinesere-idoemt-faengsel-og-udvisning-smishing",
+        "published_date": "2026-10-16 12:34:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "A person has died after being hit by a train in Hellerup - train stops",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/person-er-doed-efter-paakoersel-af-tog-i-hellerup-tog-holder-stille",
+        "published_date": "2026-10-16 12:17:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Why you'll need to remember your ETA when renewing a passport",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261016/why-eu-nationals-need-to-remember-their-eta-when-renewing-passports",
+        "published_date": "2026-10-16 11:52:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "19-year-old Norwegian gets 20 years in prison for murder plans in Great Britain",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-nordmand-faar-20-aars-faengsel-drabsplaner-i-storbritannien",
+        "published_date": "2026-10-16 11:38:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Say goodbye to daylight: Clocks to go back in Denmark next week",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261016/say-goodbye-to-evening-daylight-clocks-go-back-in-denmark-on-sunday",
+        "published_date": "2026-10-16 11:14:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish word of the day: alts\u00e5",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261016/danish-word-of-the-day-altsa",
+        "published_date": "2026-10-16 10:34:24",
         "category": "Local Events"
     }
 ]
