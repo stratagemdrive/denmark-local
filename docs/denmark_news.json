@@ -1,5 +1,19 @@
 [
     {
+        "title": "Zelenskyj: Spoke to Mette Frederiksen about continued Russian attack",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/zelenskyj-talte-med-mette-frederiksen-om-fortsatte-russisk-angreb?referrer=RSS",
+        "published_date": "2026-10-15 21:36:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Four remanded in custody in Norway for NATO fraud",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-varetaegtsfaengsles-i-norge-nato-fusk",
+        "published_date": "2026-10-15 17:58:42",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Trump says 'massive' oil, gas and mineral exploration to begin in Greenland",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20261015/trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Economists from elite American universities receive the Nobel Prize in Economics",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/oekonomer-fra-amerikanske-eliteuniversiteter-modtager-nobel-prisen-i-oekonomi",
-        "published_date": "2026-10-12 10:13:03",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Proposed EU budget cut back in search for Christmas deal",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261011/proposed-eu-budget-cut-back-in-search-for-christmas-deal",
-        "published_date": "2026-10-11 17:17:41",
-        "category": "Diplomacy"
+        "title": "Sources: Trump administration curtailed Ukraine's use of satellite system",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kilder-trump-administrationen-nedsatte-ukraines-brug-af-satellitsystem?referrer=RSS",
+        "published_date": "2026-10-16 00:31:48",
+        "category": "Military"
     },
     {
         "title": "Trump: I would not have sent the military into Greenland",
@@ -224,6 +231,13 @@
         "category": "Military"
     },
     {
+        "title": "Elyounoussi and Cornelius give FCK an optimal start to league play",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/elyounoussi-og-cornelius-giver-fck-optimal-start-paa-ligaspil?referrer=RSS",
+        "published_date": "2026-10-15 21:02:55",
+        "category": "Energy"
+    },
+    {
         "title": "Exuberant first half secures AGF's first win of the season",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/sprudlende-foerste-halvleg-sikrer-agf-foerste-saesonsejr?referrer=RSS",
@@ -291,13 +305,6 @@
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/erhverv/de-tog-hele-lortet-paa-en-weekend-nu-skyder-niels-med-gaskanoner-for-at-forsvare-sine-graeskar?rss",
         "published_date": "2026-10-08 12:06:38",
-        "category": "Energy"
-    },
-    {
-        "title": "Energy Agency will accelerate release of 100 million barrels of oil",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/energiagentur-vil-fremskynde-frigivelse-af-100-millioner-toender-olie",
-        "published_date": "2026-10-07 15:43:19",
         "category": "Energy"
     },
     {
@@ -371,6 +378,83 @@
         "category": "Economy"
     },
     {
+        "title": "Protesters and police clash in Argentina's capital",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/demonstranter-og-politi-stoeder-sammen-i-argentinas-hovedstad?referrer=RSS",
+        "published_date": "2026-10-15 23:42:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Greenland's parliament proposes to ban deep-sea mining",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/groenlands-parlament-foreslaar-at-forbyde-dybhavsminedrift?referrer=RSS",
+        "published_date": "2026-10-15 23:24:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Media: Three children killed in school shooting in American city",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/medier-tre-boern-draebt-i-skoleskyderi-i-amerikansk-by?referrer=RSS",
+        "published_date": "2026-10-15 22:46:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israeli advertising agency accused of spying on people online",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/israelsk-reklamebureau-anklages-for-spionage-mod-personer-paa-nettet?referrer=RSS",
+        "published_date": "2026-10-15 21:33:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Broadcasts around the clock: Streamer breaks Denmark's record in subscribers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/sender-doegnet-rundt-streamer-slaar-danmarksrekord-i-abonnenter?referrer=RSS",
+        "published_date": "2026-10-15 21:26:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Returned national team back shines in Danes meeting",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tilbagevendt-landsholdsback-lyner-i-danskermoede?referrer=RSS",
+        "published_date": "2026-10-15 21:08:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "S\u00f8nderthon 2.0 sets a Danish record",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/soenderthon-2-0-saetter-danmarksrekord",
+        "published_date": "2026-10-15 21:08:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Substitute saves the evening for FC Nordsj\u00e6lland",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/indskifter-redder-aftenen-for-fc-nordsjaelland?referrer=RSS",
+        "published_date": "2026-10-15 21:02:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bus and freight train collide in France near the Channel Tunnel",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bus-og-godstog-kolliderer-i-frankrig-naer-kanaltunnelen",
+        "published_date": "2026-10-15 19:44:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Amar from \u00d8lgod didn't hesitate for a second when he got a completely unique opportunity: Suddenly he was in South Korea",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/varde/amar-fra-oelgod-toevede-ikke-et-sekund-da-han-fik-helt-unik-mulighed-pludselig-stod-han-i-sydkorea?rss",
+        "published_date": "2026-10-15 18:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maduro and his wife plead not guilty to torture charges",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maduro-og-hans-kone-naegter-sig-skyldige-i-torturanklager",
+        "published_date": "2026-10-15 16:27:58",
+        "category": "Local Events"
+    },
+    {
         "title": "Danish word of the day: bagklog",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20261015/danish-word-of-the-day-bagklog",
@@ -431,83 +515,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-dropper-livestreaming-af-planlagt-henrettelse?referrer=RSS",
         "published_date": "2026-10-15 14:41:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israel closes the import of commercial goods to Gaza",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israel-lukker-import-af-kommercielle-varer-til-gaza",
-        "published_date": "2026-10-15 14:24:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Houthis have attacked Saudi Arabian airport 20 times in October",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/houthier-har-angrebet-saudiarabisk-lufthavn-20-gange-i-oktober?referrer=RSS",
-        "published_date": "2026-10-15 14:16:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Black authors are repeatedly accused of AI cheating: \"We all come under suspicion\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/litteratur/sorte-forfattere-anklages-paa-stribe-for-ai-fusk-vi-kommer-alle-under-mistanke?referrer=RSS",
-        "published_date": "2026-10-15 14:12:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israel: Import of commercial goods to Gaza stops",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/israel-import-af-kommercielle-varer-til-gaza-stopper?referrer=RSS",
-        "published_date": "2026-10-15 13:54:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Everything you need to know about Denmark\u2019s new work permit rules",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261015/everything-you-need-to-know-about-denmarks-new-work-permit-rules",
-        "published_date": "2026-10-15 13:53:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Did you see something?Police are looking for witnesses to the \"suspicious\" large fire",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/112/saa-du-noget-politiet-soeger-vidner-efter-voldsom-brand?rss",
-        "published_date": "2026-10-15 12:38:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train problems in Hamburg leave Danes on the platform",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/togproblemer-i-hamborg-efterlader-danskere-paa-perronen",
-        "published_date": "2026-10-15 11:29:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former Northern Ireland party leader sentenced to 15 years in prison for child abuse",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-nordirsk-partileder-idoemt-15-aars-faengsel-overgreb-paa-boern",
-        "published_date": "2026-10-15 11:16:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former North Zealand city council politician convicted of money laundering",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-nordsjaellandsk-byraadspolitiker-doemt-hvidvask-af-millioner",
-        "published_date": "2026-10-15 11:10:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Riksdag votes no to Andersson as prime minister",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/riksdagen-stemmer-nej-til-andersson-som-statsminister",
-        "published_date": "2026-10-15 10:56:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Too Good To Go expands range",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/too-good-go-udvider-sortiment",
-        "published_date": "2026-10-15 09:31:00",
         "category": "Local Events"
     }
 ]
