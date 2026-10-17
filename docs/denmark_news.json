@@ -1,5 +1,12 @@
 [
     {
+        "title": "Now the time has come: Europe must fight Putin on its own",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/ledere/nu-er-tiden-kommet-europa-maa-bekaempe-putin-paa-egen-haand?referrer=RSS",
+        "published_date": "2026-10-16 19:29:26",
+        "category": "Diplomacy"
+    },
+    {
         "title": "War in Europe - follow the developments here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-udviklingen-her-56?referrer=RSS",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "'Status quo not good enough': UK and EU set new date for key summit",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261012/status-quo-not-good-enough-uk-and-eu-set-new-date-for-key-summit",
-        "published_date": "2026-10-12 18:58:09",
-        "category": "Diplomacy"
+        "title": "Moldova condemns Russia after five drone incursions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/moldova-fordoemmer-rusland-efter-fem-droners-indtraengen?referrer=RSS",
+        "published_date": "2026-10-17 00:19:46",
+        "category": "Military"
+    },
+    {
+        "title": "30 people are reported killed in a drone attack on a cattle market in Sudan",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/30-mennesker-meldes-draebt-i-droneangreb-paa-kvaegmarked-i-sudan?referrer=RSS",
+        "published_date": "2026-10-16 22:17:47",
+        "category": "Military"
     },
     {
         "title": "Sources: Trump administration curtailed Ukraine's use of satellite system",
@@ -214,20 +228,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/putin-fik-besoeg-af-tidligere-tysk-kansler-paa-sin-foedselsdag?referrer=RSS",
         "published_date": "2026-10-09 01:38:45",
-        "category": "Military"
-    },
-    {
-        "title": "Hegseth: Execution of major sentenced to death becomes public",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hegseth-henrettelse-af-doedsdoemt-major-bliver-offentlig?referrer=RSS",
-        "published_date": "2026-10-08 22:33:46",
-        "category": "Military"
-    },
-    {
-        "title": "The Kremlin has intensified attacks on civilians: \"For them, a bus with passengers is an attractive target\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kreml-har-intensiveret-angrebene-paa-civilefor-dem-er-en-bus-med-passagerer-et-attraktivt-maal?referrer=RSS",
-        "published_date": "2026-10-08 17:30:12",
         "category": "Military"
     },
     {
@@ -371,6 +371,69 @@
         "category": "Economy"
     },
     {
+        "title": "Trump calls the Greenland agreement the biggest real estate deal ever",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-kalder-groenlandsaftale-for-stoerste-ejendomshandel-nogensinde?referrer=RSS",
+        "published_date": "2026-10-16 23:51:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump pays tribute to family man for saving lives during school shooting",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-hylder-familiefar-for-at-redde-liv-under-skoleskyderi?referrer=RSS",
+        "published_date": "2026-10-16 23:05:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The ice league's bottom plug takes a shock victory in Aalborg",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/isligaens-bundprop-tager-choksejr-i-aalborg?referrer=RSS",
+        "published_date": "2026-10-16 20:29:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "From talent to main award in two years: Annika is honored with the P3 Award",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/fra-talent-til-hovedpris-paa-to-aar-annika-haedres-med-p3-prisen?referrer=RSS",
+        "published_date": "2026-10-16 20:18:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US has the biggest deficit on its finances in five years",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-har-stoerste-underskud-paa-sine-finanser-i-fem-aar?referrer=RSS",
+        "published_date": "2026-10-16 19:48:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "We do not give our terminally ill fellow citizens a dignified death - we give them a long and painful death",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/vi-giver-ikke-vores-terminalt-syge-medborgere-en-vaerdig-doed--vi-giver-dem-en-lang-og-smertefuld-doed?referrer=RSS",
+        "published_date": "2026-10-16 19:34:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "She had barely taken office before Trump fired her - correspondent calls it \"another fire\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/knap-var-hun-tiltraadt-foer-trump-fyrede-hende--korrespondent-kalder-det-endnu-en-ildebrand?referrer=RSS",
+        "published_date": "2026-10-16 19:19:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Settlers attack Palestinians in the West Bank",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bosaettere-angriber-palaestinensere-paa-vestbredden",
+        "published_date": "2026-10-16 16:49:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "New demonstration in Albania",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-demonstration-i-albanien",
+        "published_date": "2026-10-16 15:24:20",
+        "category": "Local Events"
+    },
+    {
         "title": "Return centres, taxes and a hunt: What changes in Denmark in November 2026",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20261016/return-centres-taxes-and-a-hunt-what-changes-in-denmark-in-november-2026",
@@ -445,69 +508,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/indland/to-maend-faengslet-for-grov-vold-og-roeverier-i-supermarkeder?referrer=RSS",
         "published_date": "2026-10-16 13:26:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "How to get vaccinated against the flu in Denmark",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261016/how-to-get-vaccinated-against-the-flu-in-denmark",
-        "published_date": "2026-10-16 13:06:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Technical error at Nets has led to duplicate transactions",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/teknisk-fejl-hos-nets-har-foert-til-dobbelttransaktioner",
-        "published_date": "2026-10-16 13:05:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fehmarn Belt construction partially resumed after cyber attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/femern-baelt-byggeri-delvist-genoptaget-efter-cyberangreb",
-        "published_date": "2026-10-16 13:03:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chinese sentenced to prison and deportation for smishing",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kinesere-idoemt-faengsel-og-udvisning-smishing",
-        "published_date": "2026-10-16 12:34:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "A person has died after being hit by a train in Hellerup - train stops",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/person-er-doed-efter-paakoersel-af-tog-i-hellerup-tog-holder-stille",
-        "published_date": "2026-10-16 12:17:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why you'll need to remember your ETA when renewing a passport",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261016/why-eu-nationals-need-to-remember-their-eta-when-renewing-passports",
-        "published_date": "2026-10-16 11:52:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "19-year-old Norwegian gets 20 years in prison for murder plans in Great Britain",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/19-aarig-nordmand-faar-20-aars-faengsel-drabsplaner-i-storbritannien",
-        "published_date": "2026-10-16 11:38:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Say goodbye to daylight: Clocks to go back in Denmark next week",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261016/say-goodbye-to-evening-daylight-clocks-go-back-in-denmark-on-sunday",
-        "published_date": "2026-10-16 11:14:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish word of the day: alts\u00e5",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261016/danish-word-of-the-day-altsa",
-        "published_date": "2026-10-16 10:34:24",
         "category": "Local Events"
     }
 ]
