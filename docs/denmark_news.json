@@ -1,5 +1,12 @@
 [
     {
+        "title": "US Secretary of State: Settler attack on photographer is disturbing",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-s-udenrigsminister-bosaetteroverfald-mod-fotograf-er-foruroligende",
+        "published_date": "2026-10-18 04:47:17",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Rubio calls settler assault on photographer disturbing",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/rubio-kalder-bosaetteroverfald-mod-fotograf-for-foruroligende?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Newspapers criticize Trump's diesel deal and highlight Europe's hypocrisy",
+        "title": "Media: At least seven dead in fire at Canadian military base",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/aviser-kritiserer-trumps-dieselaftale-og-fremhaever-europas-hykleri?referrer=RSS",
-        "published_date": "2026-10-13 02:33:50",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/medie-mindst-syv-doede-i-brand-paa-canadisk-militaerbase?referrer=RSS",
+        "published_date": "2026-10-18 11:49:44",
+        "category": "Military"
     },
     {
         "title": "Moldova condemns Russia after five drone incursions",
@@ -217,13 +224,6 @@
         "category": "Military"
     },
     {
-        "title": "Witkoff has held a meeting about the Ukraine war in Miami",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/witkoff-har-holdt-moede-om-ukraine-krigen-i-miami",
-        "published_date": "2026-10-10 03:45:00",
-        "category": "Military"
-    },
-    {
         "title": "Covers Trump's new covance over private billion deals?\"We have never before been in a place where it was so clear that he has definitively chosen Putin's side\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/daekker-trumps-nye-kovending-over-private-milliardaftaler-vi-har-aldrig-foer-vaeret-et-sted-hvor-det-stod-saa-klart-at-han-endegyldigt-har-valgt-putins-side?referrer=RSS",
@@ -280,11 +280,11 @@
         "category": "Energy"
     },
     {
-        "title": "Brazil sues Shell over deadly 2024 floods",
+        "title": "304 companies, 22,000 jobs and 280 billion kroner.But almost none of it remained in Denmark",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/brasilien-sagsoeger-shell-for-doedelige-oversvoemmelser-i-2024?referrer=RSS",
-        "published_date": "2026-10-10 01:21:45",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/kommentatorer/304-virksomheder-22000-job-og-280-milliarder-kroner-men-naesten-intet-af-det-blev-i-danmark?referrer=RSS",
+        "published_date": "2026-10-18 12:10:24",
+        "category": "Economy"
     },
     {
         "title": "77-year-old charged with reckless driving on Storeb\u00e6ltsbroen: Turned around at tollbooth",
@@ -364,6 +364,111 @@
         "category": "Economy"
     },
     {
+        "title": "Watch the match here: The two relegators from the Men's League are fighting for important points",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/sport/se-kampen-her-de-to-nedrykkere-fra-herreligaen-kaemper-om-vigtige-point?rss",
+        "published_date": "2026-10-18 15:20:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Air alarm in Nordfyn Municipality is a mistake",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/luftalarm-i-nordfyns-kommune-er-en-fejl",
+        "published_date": "2026-10-18 14:05:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lightning goal and red card pave the way for a big S\u00f8nderjyske victory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/lynmaal-og-roedt-kort-baner-vejen-for-stor-soenderjyske-sejr?referrer=RSS",
+        "published_date": "2026-10-18 14:01:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lithuania accuses Russia of attempting to set fire to Starlink equipment",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/litauen-beskylder-rusland-for-forsoeg-paa-brandstiftelse-af-starlink-udstyr?referrer=RSS",
+        "published_date": "2026-10-18 13:55:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "NFH suffer third defeat in a row in the Champions League",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/nfh-lider-tredje-nederlag-paa-stribe-i-champions-league?referrer=RSS",
+        "published_date": "2026-10-18 13:41:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "A wheelchair left at the boat bridge led to a search",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/efterladt-koerestol-ved-baadebro-foerte-til-eftersoegning?referrer=RSS",
+        "published_date": "2026-10-18 13:22:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "France's youth burn the streets in the hope of doom: \"You push things as far into the dark as you can\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/frankrigs-ungdom-braender-gaderne-af-i-haab-om-undergangen-man-skubber-tingene-saa-langt-ud-i-moerket-som-man-kan?referrer=RSS",
+        "published_date": "2026-10-18 13:16:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Press photographers were beaten with police batons during the demonstration",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/pressefotografer-blev-slaaet-med-politistave-under-demonstration?referrer=RSS",
+        "published_date": "2026-10-18 13:10:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Michael Ziegler has spent his autumn vacation driving a Citro\u00ebn Jumpy to a secret address in Kyiv",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/michael-ziegler-har-brugt-sin-efteraarsferie-paa-at-koere-en-citroen-jumpy-til-en-hemmelig-adresse-i-kyiv?referrer=RSS",
+        "published_date": "2026-10-18 11:53:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "He thought it was the great love of his life.But seven years later, Andi S\u00f8rensen's world blew up",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/eksistens/han-troede-det-var-hans-livs-store-kaerlighed-men-syv-aar-senere-sprang-andi-soerensens-verden-i-luften?referrer=RSS",
+        "published_date": "2026-10-18 11:52:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran's parliament approves a new defense minister",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/irans-parlament-godkender-en-ny-forsvarsminister",
+        "published_date": "2026-10-18 08:56:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police are looking for witnesses after wild car chase: Man charged with reckless driving",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sydfyn/politiet-soeger-vidner-efter-vild-biljagt-mand-sigtet-for-vanvidskoersel?rss",
+        "published_date": "2026-10-18 06:18:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "German police investigate hole in fence at Leipzig airport",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tysk-politi-undersoeger-hul-i-hegn-ved-leipzig-lufthavn",
+        "published_date": "2026-10-18 06:16:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lithuania briefly issued a red air alert for citizens in parts of the country",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/litauen-udsendte-kortvarigt-roed-luftalarm-borgere-i-dele-af-landet",
+        "published_date": "2026-10-18 05:26:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "DMI's warning about increased water levels ceases",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dmi-s-varsel-om-forhoejet-vandstand-ophoerer",
+        "published_date": "2026-10-18 04:31:02",
+        "category": "Local Events"
+    },
+    {
         "title": "Pellegrini chastises the referees after Barcelona itch at home",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/pellegrini-revser-dommerne-efter-barcelona-kloe-paa-hjemmebane?referrer=RSS",
@@ -396,111 +501,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/bil-koerer-ind-paa-bane-under-fodboldkamp-i-kansas-to-er-draebt?referrer=RSS",
         "published_date": "2026-10-17 23:24:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "1200 people arrested after riots in several French cities",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/1200-personer-anholdt-efter-uroligheder-i-flere-franske-byer?referrer=RSS",
-        "published_date": "2026-10-17 22:43:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "EL will give 50,000 kroner to low-income families to buy an electric car",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/el-vil-give-50000-kroner-til-lavindkomstfamilier-for-at-koebe-elbil?referrer=RSS",
-        "published_date": "2026-10-17 22:05:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "DMI turns down for warning of increased water level",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dmi-skruer-ned-for-varsel-om-forhoejet-vandstand?referrer=RSS",
-        "published_date": "2026-10-17 21:19:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danes surpass Verstappen in Portuguese race",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/danskere-overgaar-verstappen-i-portugisisk-racerloeb?referrer=RSS",
-        "published_date": "2026-10-17 20:22:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Behind the excessively long lists, people with dementia and their relatives sit and wait.Ministers must act now",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/bag-de-alt-for-lange-lister-sidder-demensramte-og-deres-paaroerende-og-venter-ministrene-skal-handle-nu?referrer=RSS",
-        "published_date": "2026-10-17 19:43:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police clash with protesters in Italian cities",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/politi-stoeder-sammen-med-demonstranter-i-italienske-byer?referrer=RSS",
-        "published_date": "2026-10-17 19:04:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Romania shoots down two drones in their airspace",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rumaenien-nedskyder-droner-i-deres-luftrum",
-        "published_date": "2026-10-17 17:22:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Middelfart shared the points with FC Roskilde in a genuine top-of-the-table clash",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/middelfart-delte-pointene-med-fc-roskilde-i-vaskeaegte-topopgoer?rss",
-        "published_date": "2026-10-17 17:22:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Pope discharged after treatment for a cancerous nodule in the lung",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/paven-udskrevet-efter-behandling-for-kraeftknude-i-lungen?referrer=RSS",
-        "published_date": "2026-10-17 13:56:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark emigrated from a meeting in the currency fund during Russian speech",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/danmark-udvandrede-fra-moede-i-valutafond-under-russisk-tale?referrer=RSS",
-        "published_date": "2026-10-17 13:43:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ugly mishap overshadows Chelsea winger's goal display against Everton",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/grimt-uheld-overskygger-chelsea-kants-maalshow-mod-everton?referrer=RSS",
-        "published_date": "2026-10-17 13:43:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Troels Lund should be the government's biggest critic.But the situation is too serious for \"teasing\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/troels-lund-burde-vaere-regeringens-stoerste-kritiker-men-situationen-er-for-alvorlig-til-drillerier?referrer=RSS",
-        "published_date": "2026-10-17 13:41:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vejle maintains its grip on promotion place with victory over AaB",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/vejle-fastholder-grebet-om-oprykningsplads-med-sejr-over-aab?referrer=RSS",
-        "published_date": "2026-10-17 13:33:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Are Danish media going bankrupt?The tech giants have changed our habits \u2013 but the media must also look inward",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/er-danske-medier-ved-at-spille-fallit-techgiganterne-har-aendret-vores-vaner--men-medierne-skal-ogsaa-se-indad?referrer=RSS",
-        "published_date": "2026-10-17 13:24:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tobias Aagaard misses out on a WC medal in the omnium",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tobias-aagaard-misser-vm-medalje-i-omnium?referrer=RSS",
-        "published_date": "2026-10-17 13:13:49",
         "category": "Local Events"
     }
 ]
