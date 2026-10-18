@@ -1,5 +1,12 @@
 [
     {
+        "title": "Rubio calls settler assault on photographer disturbing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rubio-kalder-bosaetteroverfald-mod-fotograf-for-foruroligende?referrer=RSS",
+        "published_date": "2026-10-18 00:13:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Now the time has come: Europe must fight Putin on its own",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/ledere/nu-er-tiden-kommet-europa-maa-bekaempe-putin-paa-egen-haand?referrer=RSS",
@@ -130,13 +137,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/aviser-kritiserer-trumps-dieselaftale-og-fremhaever-europas-hykleri?referrer=RSS",
         "published_date": "2026-10-13 02:33:50",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Trump considers firing ambassador to Greece: We are not happy",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-overvejer-fyring-af-ambassadoer-i-graekenland-vi-er-ikke-glade?referrer=RSS",
-        "published_date": "2026-10-12 22:52:47",
         "category": "Diplomacy"
     },
     {
@@ -287,20 +287,6 @@
         "category": "Energy"
     },
     {
-        "title": "The British maintain pressure on Putin despite Trump's change of course",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/briterne-fastholder-pres-paa-putin-trods-trumps-kursskifte?referrer=RSS",
-        "published_date": "2026-10-09 23:13:50",
-        "category": "Energy"
-    },
-    {
-        "title": "Over 17 hours of low electricity prices await on Saturday",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/loerdag-venter-over-17-timer-med-lave-elpriser?referrer=RSS",
-        "published_date": "2026-10-09 16:13:45",
-        "category": "Energy"
-    },
-    {
         "title": "77-year-old charged with reckless driving on Storeb\u00e6ltsbroen: Turned around at tollbooth",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/112/77-aarig-spoegelsesbilist-sigtet-for-vanvidskoersel-paa-storebaeltsbroen-risikerer-at-miste-bilen?rss",
@@ -378,6 +364,97 @@
         "category": "Economy"
     },
     {
+        "title": "Pellegrini chastises the referees after Barcelona itch at home",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/pellegrini-revser-dommerne-efter-barcelona-kloe-paa-hjemmebane?referrer=RSS",
+        "published_date": "2026-10-18 00:16:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Car drives into field during football game in Kansas: Two killed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bil-koerer-ind-paa-bane-under-fodboldkamp-i-kansas-er-draebt",
+        "published_date": "2026-10-17 23:46:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young woman dead after shooting in sports hall in Stockholm",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ung-kvinde-doed-efter-skyderi-i-sportshal-i-stockholm",
+        "published_date": "2026-10-17 23:38:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young woman dead after shooting in sports hall in Stockholm",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ung-kvinde-doed-efter-skyderi-i-sportshal-i-stockholm?referrer=RSS",
+        "published_date": "2026-10-17 23:24:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Car drives into field during football game in Kansas: Two killed",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/bil-koerer-ind-paa-bane-under-fodboldkamp-i-kansas-to-er-draebt?referrer=RSS",
+        "published_date": "2026-10-17 23:24:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "1200 people arrested after riots in several French cities",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/1200-personer-anholdt-efter-uroligheder-i-flere-franske-byer?referrer=RSS",
+        "published_date": "2026-10-17 22:43:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "EL will give 50,000 kroner to low-income families to buy an electric car",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/el-vil-give-50000-kroner-til-lavindkomstfamilier-for-at-koebe-elbil?referrer=RSS",
+        "published_date": "2026-10-17 22:05:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "DMI turns down for warning of increased water level",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dmi-skruer-ned-for-varsel-om-forhoejet-vandstand?referrer=RSS",
+        "published_date": "2026-10-17 21:19:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danes surpass Verstappen in Portuguese race",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/danskere-overgaar-verstappen-i-portugisisk-racerloeb?referrer=RSS",
+        "published_date": "2026-10-17 20:22:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Behind the excessively long lists, people with dementia and their relatives sit and wait.Ministers must act now",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/bag-de-alt-for-lange-lister-sidder-demensramte-og-deres-paaroerende-og-venter-ministrene-skal-handle-nu?referrer=RSS",
+        "published_date": "2026-10-17 19:43:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police clash with protesters in Italian cities",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/politi-stoeder-sammen-med-demonstranter-i-italienske-byer?referrer=RSS",
+        "published_date": "2026-10-17 19:04:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Romania shoots down two drones in their airspace",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rumaenien-nedskyder-droner-i-deres-luftrum",
+        "published_date": "2026-10-17 17:22:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Middelfart shared the points with FC Roskilde in a genuine top-of-the-table clash",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sport/middelfart-delte-pointene-med-fc-roskilde-i-vaskeaegte-topopgoer?rss",
+        "published_date": "2026-10-17 17:22:17",
+        "category": "Local Events"
+    },
+    {
         "title": "The Pope discharged after treatment for a cancerous nodule in the lung",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/paven-udskrevet-efter-behandling-for-kraeftknude-i-lungen?referrer=RSS",
@@ -424,97 +501,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/tobias-aagaard-misser-vm-medalje-i-omnium?referrer=RSS",
         "published_date": "2026-10-17 13:13:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Spanish underdog gets the better of Zverev and books a ticket to the final",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/spansk-underdog-faar-has-paa-zverev-og-booker-finalebillet?referrer=RSS",
-        "published_date": "2026-10-17 13:02:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gigantic pump-sluice can be premiered tonight",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/gigantisk-pumpe-sluse-kan-faa-premiere-i-nat",
-        "published_date": "2026-10-17 11:44:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside Denmark: Why don't Danes eat goose on Mortensaften?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261017/inside-denmark-why-dont-danes-eat-goose-on-mortensaften",
-        "published_date": "2026-10-17 11:42:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Egypt's president will step down in 2030",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/egyptens-praesident-fratraeder-posten-i-2030",
-        "published_date": "2026-10-17 11:17:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Demonstrations can affect traffic in Copenhagen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/demonstrationer-kan-paavirke-trafikken-i-koebenhavn",
-        "published_date": "2026-10-17 11:04:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Pope is being discharged after treatment for a cancerous tumor in his lung",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/paven-udskrives-efter-behandling-af-kraeftknude-i-lungen",
-        "published_date": "2026-10-17 10:44:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three men arrested with cocaine and a gun in the car",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tre-maend-anholdt-med-kokain-og-pistol-i-bilen",
-        "published_date": "2026-10-17 09:52:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "77-year-old charged with reckless driving: U-turned on Storeb\u00e6ltsbroen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/77-aarig-sigtet-vanvidskoersel-vendte-om-paa-storebaeltsbroen",
-        "published_date": "2026-10-17 08:22:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deforestation in the Amazon has fallen to an all-time low",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/afskovning-i-amazonas-er-faldet-til-det-hidtil-laveste-niveau",
-        "published_date": "2026-10-17 08:15:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Volunteers for the Foreningen Roskilde Festival must henceforth pay a fee",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/frivillige-foreningen-roskilde-festival-skal-fremover-betale-kontingent",
-        "published_date": "2026-10-17 08:13:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Company behind party bus charged with illegal route driving",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/selskab-bag-partybus-sigtet-ulovlig-rutekoersel",
-        "published_date": "2026-10-17 07:34:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man smashed cars with golf club",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-smadrede-biler-med-golfkoelle",
-        "published_date": "2026-10-17 07:26:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elderly woman killed by stabbing at nursing home in Germany",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/aeldre-kvinde-draebt-af-knivstik-paa-plejehjem-i-tyskland",
-        "published_date": "2026-10-17 05:36:14",
         "category": "Local Events"
     }
 ]
