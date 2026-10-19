@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Fire at Canadian military base occurred inside training ground",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/brand-paa-canadisk-militaerbase-opstod-inde-i-oevelsesterraenet?referrer=RSS",
+        "published_date": "2026-10-18 22:36:47",
+        "category": "Military"
+    },
+    {
+        "title": "Four died and 39 injured in yesterday's fire at a Canadian military base",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-doede-og-39-saarede-i-gaarsdagens-brand-paa-canadisk-militaerbase",
+        "published_date": "2026-10-18 21:58:00",
+        "category": "Military"
+    },
+    {
         "title": "Media: At least seven dead in fire at Canadian military base",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/medie-mindst-syv-doede-i-brand-paa-canadisk-militaerbase?referrer=RSS",
@@ -217,13 +231,6 @@
         "category": "Military"
     },
     {
-        "title": "Trump: Ukraine needs a new president",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-ukraine-har-brug-for-en-ny-praesident?referrer=RSS",
-        "published_date": "2026-10-10 20:18:47",
-        "category": "Military"
-    },
-    {
         "title": "Covers Trump's new covance over private billion deals?\"We have never before been in a place where it was so clear that he has definitively chosen Putin's side\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/daekker-trumps-nye-kovending-over-private-milliardaftaler-vi-har-aldrig-foer-vaeret-et-sted-hvor-det-stod-saa-klart-at-han-endegyldigt-har-valgt-putins-side?referrer=RSS",
@@ -266,18 +273,18 @@
         "category": "Energy"
     },
     {
-        "title": "Four have died after hurricane in the southeastern United States",
+        "title": "Are we getting enough for our tax dollars?",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fire-er-doede-efter-orkan-i-det-sydoestlige-usa?referrer=RSS",
-        "published_date": "2026-10-10 23:31:45",
-        "category": "Energy"
+        "url": "https://www.berlingske.dk/laesere/faar-vi-nok-for-vores-skattekroner?referrer=RSS",
+        "published_date": "2026-10-18 21:31:30",
+        "category": "Economy"
     },
     {
-        "title": "Trump promises a collapse in the price of oil after an agreement with Russia - but an expert shakes his head: \"It sounds like big numbers, but it's not\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/oekonomi/trump-lover-kollaps-i-olieprisen-efter-aftale-med-rusland--men-ekspert-ryster-paa-hovedet-det-lyder-som-store-tal-men-det-er-det-ikke?referrer=RSS",
-        "published_date": "2026-10-10 15:30:10",
-        "category": "Energy"
+        "title": "Lars Fruergaard scores a new job",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/lars-fruergaard-scorer-nyt-job",
+        "published_date": "2026-10-18 16:32:34",
+        "category": "Economy"
     },
     {
         "title": "304 companies, 22,000 jobs and 280 billion kroner.But almost none of it remained in Denmark",
@@ -357,11 +364,60 @@
         "category": "Economy"
     },
     {
-        "title": "Private finance letterbox:\u00a0Do you use a foreign investment platform?It can end in a tax nightmare",
+        "title": "Kenya records eighth case of Ebola",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/dine-penge/privatoekonomisk-brevkassebruger-du-en-udenlandsk-investeringsplatform-det-kan-ende-i-et-skattemaessigt-mareridt?referrer=RSS",
-        "published_date": "2026-10-10 15:51:57",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/kenya-registrerer-ottende-tilfaelde-af-ebola?referrer=RSS",
+        "published_date": "2026-10-19 00:13:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The chairman of the Liberal Party is upset about S\u00f8ren Gade's exit from the Folketing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/venstres-formand-aergrer-sig-over-soeren-gades-exit-fra-folketinget?referrer=RSS",
+        "published_date": "2026-10-19 00:09:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "FCK coach is upset about the start of the second half against AGF",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fck-traener-aergrer-sig-over-start-paa-anden-halvleg-mod-agf?referrer=RSS",
+        "published_date": "2026-10-19 00:06:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flight from Tel Aviv makes emergency landing after possible bomb threat",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fly-fra-tel-aviv-noedlander-efter-mulig-bombetrussel?referrer=RSS",
+        "published_date": "2026-10-18 23:47:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spain warns of dangerous weather in Valencia and Mallorca",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/spanien-varsler-farligt-vejr-i-valencia-og-paa-mallorca?referrer=RSS",
+        "published_date": "2026-10-18 23:27:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump: I will not drive Russia off the negotiating table",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-jeg-vil-ikke-drive-rusland-vaek-fra-forhandlingsbordet?referrer=RSS",
+        "published_date": "2026-10-18 21:33:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four spectacular goals push Real Madrid towards important victory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fire-spektakulaere-maal-skubber-real-madrid-mod-vigtig-sejr?referrer=RSS",
+        "published_date": "2026-10-18 21:07:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "S\u00f8ren Gade stops in the Folketing",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/soeren-gade-stopper-i-folketinget?referrer=RSS",
+        "published_date": "2026-10-18 20:59:45",
+        "category": "Local Events"
     },
     {
         "title": "Watch the match here: The two relegators from the Men's League are fighting for important points",
@@ -445,62 +501,6 @@
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/sydfyn/politiet-soeger-vidner-efter-vild-biljagt-mand-sigtet-for-vanvidskoersel?rss",
         "published_date": "2026-10-18 06:18:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "German police investigate hole in fence at Leipzig airport",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tysk-politi-undersoeger-hul-i-hegn-ved-leipzig-lufthavn",
-        "published_date": "2026-10-18 06:16:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lithuania briefly issued a red air alert for citizens in parts of the country",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/litauen-udsendte-kortvarigt-roed-luftalarm-borgere-i-dele-af-landet",
-        "published_date": "2026-10-18 05:26:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "DMI's warning about increased water levels ceases",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dmi-s-varsel-om-forhoejet-vandstand-ophoerer",
-        "published_date": "2026-10-18 04:31:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pellegrini chastises the referees after Barcelona itch at home",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/pellegrini-revser-dommerne-efter-barcelona-kloe-paa-hjemmebane?referrer=RSS",
-        "published_date": "2026-10-18 00:16:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Car drives into field during football game in Kansas: Two killed",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bil-koerer-ind-paa-bane-under-fodboldkamp-i-kansas-er-draebt",
-        "published_date": "2026-10-17 23:46:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young woman dead after shooting in sports hall in Stockholm",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ung-kvinde-doed-efter-skyderi-i-sportshal-i-stockholm",
-        "published_date": "2026-10-17 23:38:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young woman dead after shooting in sports hall in Stockholm",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ung-kvinde-doed-efter-skyderi-i-sportshal-i-stockholm?referrer=RSS",
-        "published_date": "2026-10-17 23:24:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Car drives into field during football game in Kansas: Two killed",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/bil-koerer-ind-paa-bane-under-fodboldkamp-i-kansas-to-er-draebt?referrer=RSS",
-        "published_date": "2026-10-17 23:24:46",
         "category": "Local Events"
     }
 ]
