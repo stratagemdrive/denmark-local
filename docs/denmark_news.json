@@ -224,6 +224,13 @@
         "category": "Military"
     },
     {
+        "title": "Tottenham takes first league win of the season against promotion",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tottenham-tager-foerste-ligasejr-i-saesonen-mod-oprykker?referrer=RSS",
+        "published_date": "2026-10-19 22:07:00",
+        "category": "Energy"
+    },
+    {
         "title": "Covers Trump's new covance over private billion deals?\"We have never before been in a place where it was so clear that he has definitively chosen Putin's side\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/daekker-trumps-nye-kovending-over-private-milliardaftaler-vi-har-aldrig-foer-vaeret-et-sted-hvor-det-stod-saa-klart-at-han-endegyldigt-har-valgt-putins-side?referrer=RSS",
@@ -264,6 +271,13 @@
         "url": "https://www.dr.dk/nyheder/seneste/saudi-arabiens-energiminister-varsler-modsvar-efter-houthi-angreb",
         "published_date": "2026-10-12 08:00:42",
         "category": "Energy"
+    },
+    {
+        "title": "Martin \u00c5gerup: We spend billions on more bureaucracy \u2013 but what do we get out of it?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentatorer/martin-aagerup-vi-bruger-milliarder-paa-mere-bureaukrati--men-hvad-faar-vi-ud-af-det?referrer=RSS",
+        "published_date": "2026-10-19 21:38:33",
+        "category": "Economy"
     },
     {
         "title": "Business update: After price drop and new strategy, Novo's management is criticized - has not bought shares itself for two years",
@@ -336,25 +350,74 @@
         "category": "Economy"
     },
     {
-        "title": "Judge blocks Trump from showing tax-funded ads",
+        "title": "Australian politician hospitalized in critical condition after suspected attack",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/dommer-blokerer-for-trumps-visning-af-skattefinansierede-reklamer?referrer=RSS",
-        "published_date": "2026-10-12 00:52:45",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/australsk-politiker-indlagt-i-kritisk-tilstand-efter-formodet-angreb?referrer=RSS",
+        "published_date": "2026-10-20 00:19:45",
+        "category": "Local Events"
     },
     {
-        "title": "Judge puts an end to taxpayer-funded Trump ads",
+        "title": "Media: US Defense Secretary visits Netanyahu in Israel",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/medie-usas-forsvarsminister-besoeger-netanyahu-i-israel?referrer=RSS",
+        "published_date": "2026-10-20 00:05:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pro-Palestinian Columbia activist asks Supreme Court to take up his case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/propalaestinensisk-columbia-aktivist-beder-hoejesteret-tage-hans-sag-op?referrer=RSS",
+        "published_date": "2026-10-19 23:06:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man suspected of wanting to eavesdrop on OpenAI must remain in custody",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mand-mistaenkt-for-at-ville-aflytte-openai-skal-forblive-anholdt?referrer=RSS",
+        "published_date": "2026-10-19 22:36:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Japan sends space probe to Mars to study the planet's moons",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/japan-sender-rumsonde-mod-mars-for-at-undersoege-planetens-maaner?referrer=RSS",
+        "published_date": "2026-10-19 22:06:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Support for Trump is lower than ever",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/opbakningen-til-trump-er-lavere-end-nogensinde?referrer=RSS",
+        "published_date": "2026-10-19 22:06:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "If this argument against nuclear power in Denmark held water, we would not have a Great Belt Bridge today",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/hvis-dette-argument-mod-atomkraft-i-danmark-holdt-vand-ville-vi-ikke-have-en-storebaeltsbro-i-dag?referrer=RSS",
+        "published_date": "2026-10-19 21:39:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Donald Trump's support from voters is lower than ever before",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dommer-saetter-stopper-skatteyderbetalte-trump-reklamer",
-        "published_date": "2026-10-12 00:38:58",
-        "category": "Economy"
+        "url": "https://www.dr.dk/nyheder/seneste/donald-trumps-opbakning-fra-vaelgere-er-lavere-end-nogensinde-foer",
+        "published_date": "2026-10-19 21:09:52",
+        "category": "Local Events"
     },
     {
-        "title": "Haaland after victory under boos at Anfield: I am so proud",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/haaland-efter-sejr-under-buhraab-paa-anfield-jeg-er-saa-stolt?referrer=RSS",
-        "published_date": "2026-10-12 00:09:46",
-        "category": "Economy"
+        "title": "Trump is open to meeting with Xi and Putin",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/trump-er-aaben-moedes-med-xi-og-putin",
+        "published_date": "2026-10-19 20:00:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Norwegian World Cup drum has been sold for DKK 920,000 at auction",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/norsk-vm-tromme-er-solgt-920-000-kroner-paa-auktion",
+        "published_date": "2026-10-19 19:10:58",
+        "category": "Local Events"
     },
     {
         "title": "Police were 'hopelessly outnumbered' when chaos erupted: 'It's like a self-feeding monster'",
@@ -424,76 +487,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/synspunkter/drenge-bliver-trukket-ind-i-en-kvindehadsk-og-antidemokratisk-verden-online--ofte-uden-at-opdage-det-fordi-indpakningen-er-uskyldig?referrer=RSS",
         "published_date": "2026-10-19 15:41:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lidl recalls smoked trout after finding listeria",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/lidl-tilbagekalder-roeget-oerred-efter-fund-af-listeria?referrer=RSS",
-        "published_date": "2026-10-19 15:38:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Health workers report 80 killed in drone attack in Sudan",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/sundhedspersonale-melder-om-80-draebte-i-droneangreb-i-sudan?referrer=RSS",
-        "published_date": "2026-10-19 15:35:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Labour minister mulls obligatory Danish classes for foreign workers before arrival",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261019/labour-minister-mulls-obligatory-danish-classes-for-foreign-workers-before-arrival",
-        "published_date": "2026-10-19 14:12:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Study: Young men in Denmark shown misogynist content within minutes on social media",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261019/study-young-men-in-denmark-see-misogynist-content-after-minutes-on-social-media",
-        "published_date": "2026-10-19 13:09:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three seconds before the fatal accident, the locomotive driver began to brake: New report reveals the process",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/aabenraa/tre-sekunder-foer-doedsulykke-begyndte-lokomotivfoerer-at-bremse-ny-rapport-afsloerer-forloebet?rss",
-        "published_date": "2026-10-19 12:43:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen Police asks the DUP to investigate attacks on photographers",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/koebenhavns-politi-beder-dup-om-undersoege-slag-mod-fotografer",
-        "published_date": "2026-10-19 11:34:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What's happening in Denmark this week?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261019/on-the-agenda-whats-happening-in-denmark-this-week-12",
-        "published_date": "2026-10-19 11:02:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why you shouldn't take Danish libraries for granted",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261019/why-you-shouldnt-take-danish-libraries-for-granted",
-        "published_date": "2026-10-19 10:47:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "SAS plane had to turn around due to 'technical indication'",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sas-fly-maatte-vende-om-paa-grund-af-teknisk-indikation",
-        "published_date": "2026-10-19 09:32:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Australian politician seriously injured in attack near his office",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/australsk-politiker-alvorligt-saaret-i-angreb-taet-paa-sit-kontor",
-        "published_date": "2026-10-19 09:06:55",
         "category": "Local Events"
     }
 ]
