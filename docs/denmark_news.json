@@ -1,5 +1,19 @@
 [
     {
+        "title": "War in Europe - follow the developments here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-udviklingen-her-61?referrer=RSS",
+        "published_date": "2026-10-20 15:18:29",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The EU Commission with a new strategy for the Arctic: No to new oil and gas drilling in the Arctic",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/eu-kommissionen-med-ny-strategi-for-arktis-nej-til-nye-olie-og-gasboringer-i-arktis?referrer=RSS",
+        "published_date": "2026-10-20 15:08:15",
+        "category": "Diplomacy"
+    },
+    {
         "title": "US Secretary of State: Settler attack on photographer is disturbing",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/usa-s-udenrigsminister-bosaetteroverfald-mod-fotograf-er-foruroligende",
@@ -126,20 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Europe's airports and airlines demand EES rethink as 'unacceptable' delays continue",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261013/europes-airports-and-airlines-demand-ees-rethink-as-unacceptable-delays-continue",
-        "published_date": "2026-10-13 10:22:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Man dies in roller coaster accident in USA",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-doer-i-rutsjebaneulykke-i-usa",
-        "published_date": "2026-10-13 05:00:29",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Fire at Canadian military base occurred inside training ground",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/brand-paa-canadisk-militaerbase-opstod-inde-i-oevelsesterraenet?referrer=RSS",
@@ -217,13 +217,6 @@
         "category": "Military"
     },
     {
-        "title": "North Korea launches several ballistic missiles towards the sea near Japan",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nordkorea-sender-flere-ballistiske-missiler-mod-hav-naer-japan?referrer=RSS",
-        "published_date": "2026-10-12 01:49:45",
-        "category": "Military"
-    },
-    {
         "title": "Tottenham takes first league win of the season against promotion",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/tottenham-tager-foerste-ligasejr-i-saesonen-mod-oprykker?referrer=RSS",
@@ -256,20 +249,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/sprudlende-foerste-halvleg-sikrer-agf-foerste-saesonsejr?referrer=RSS",
         "published_date": "2026-10-12 18:55:44",
-        "category": "Energy"
-    },
-    {
-        "title": "Rising energy prices mean cost of district heating will go up in Denmark next year",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261012/rising-energy-prices-mean-cost-of-district-heating-will-go-up-in-denmark-next-year",
-        "published_date": "2026-10-12 13:08:55",
-        "category": "Energy"
-    },
-    {
-        "title": "Saudi Arabia's energy minister warns of retaliation after Houthi attacks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/saudi-arabiens-energiminister-varsler-modsvar-efter-houthi-angreb",
-        "published_date": "2026-10-12 08:00:42",
         "category": "Energy"
     },
     {
@@ -343,11 +322,123 @@
         "category": "Economy"
     },
     {
-        "title": "Today in Denmark: A roundup of the latest news on Monday",
+        "title": "Latest news from the USA and American politics - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-fra-usa-og-amerikansk-politik--foelg-med-her-10?referrer=RSS",
+        "published_date": "2026-10-20 15:24:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tivoli removes poster of Muslim influencer",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/tivoli-fjerner-plakat-af-muslimsk-influencer?referrer=RSS",
+        "published_date": "2026-10-20 15:19:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about Danish politics - follow the development here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-28?referrer=RSS",
+        "published_date": "2026-10-20 15:11:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Muslim debater's statements on the death penalty for homosexuals receive harsh criticism:\u00a0\"Deeply humiliating\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/muslimsk-debattoers-udtalelser-om-doedsstraf-til-homoseksuelle-faar-haard-kritikdybt-beskaemmende?referrer=RSS",
+        "published_date": "2026-10-20 15:09:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man loses Danish drivers license following speeding fine in Switzerland",
         "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261012/today-in-denmark-a-roundup-of-the-latest-news-on-monday-65",
-        "published_date": "2026-10-12 08:34:15",
-        "category": "Economy"
+        "url": "https://www.thelocal.dk/20261020/man-loses-danish-drivers-license-following-speeding-fine-in-switzerland",
+        "published_date": "2026-10-20 15:02:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "The government abandons stricter requirements for senior pensions",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/regeringen-opgiver-strammere-krav-til-seniorpension?referrer=RSS",
+        "published_date": "2026-10-20 14:49:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Is Musk merging Tesla and SpaceX?Investors can get smarter tonight",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/aktier/slaar-musk-tesla-og-spacex-sammen-i-aften-kan-investorerne-blive-klogere?referrer=RSS",
+        "published_date": "2026-10-20 14:45:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish police probe claims of violence towards journalists",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261020/danish-police-probe-claims-of-violence-towards-journalists",
+        "published_date": "2026-10-20 14:29:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "How should foreigners in Denmark prepare for a crisis?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261020/how-can-foreigners-in-denmark-prepare-for-a-crisis",
+        "published_date": "2026-10-20 13:38:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "New figures show Danish property market slowing down",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261020/new-figures-show-danish-property-market-slowing-down",
+        "published_date": "2026-10-20 12:22:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261020/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-69",
+        "published_date": "2026-10-20 08:30:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Plans for data centers put on hold",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/planer-om-datacentre-sat-paa-hold",
+        "published_date": "2026-10-20 07:59:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fired trustee gets more than 150,000 kroner: Dismissal was too violent",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/112/fyret-tillidsmand-faar-over-150-000-kroner-bortvisningen-var-uberettiget?rss",
+        "published_date": "2026-10-20 07:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The state buys land: Will expand three nature national parks",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/staten-koeber-jord-vil-udvide-tre-naturnationalparker",
+        "published_date": "2026-10-20 06:23:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "In the middle of a historic quarter: Thomas and Mia's new house is only 2.5 meters wide",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/bolig/midt-i-historisk-kvarter-thomas-og-mias-nye-hus-er-kun-2-5-meter-bredt?rss",
+        "published_date": "2026-10-20 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Problems have again hit train operations over Funen - train buses deployed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/problemer-har-igen-ramt-togdriften-over-fyn-togbusser-indsat",
+        "published_date": "2026-10-20 05:37:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Japan sends space probe to Mars to study the planet's moon",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/japan-sender-rumsonde-mod-mars-undersoege-planetens-maane",
+        "published_date": "2026-10-20 05:34:52",
+        "category": "Local Events"
     },
     {
         "title": "Australian politician hospitalized in critical condition after suspected attack",
@@ -368,125 +459,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/propalaestinensisk-columbia-aktivist-beder-hoejesteret-tage-hans-sag-op?referrer=RSS",
         "published_date": "2026-10-19 23:06:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man suspected of wanting to eavesdrop on OpenAI must remain in custody",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mand-mistaenkt-for-at-ville-aflytte-openai-skal-forblive-anholdt?referrer=RSS",
-        "published_date": "2026-10-19 22:36:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Japan sends space probe to Mars to study the planet's moons",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/japan-sender-rumsonde-mod-mars-for-at-undersoege-planetens-maaner?referrer=RSS",
-        "published_date": "2026-10-19 22:06:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Support for Trump is lower than ever",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/opbakningen-til-trump-er-lavere-end-nogensinde?referrer=RSS",
-        "published_date": "2026-10-19 22:06:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "If this argument against nuclear power in Denmark held water, we would not have a Great Belt Bridge today",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/hvis-dette-argument-mod-atomkraft-i-danmark-holdt-vand-ville-vi-ikke-have-en-storebaeltsbro-i-dag?referrer=RSS",
-        "published_date": "2026-10-19 21:39:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Donald Trump's support from voters is lower than ever before",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/donald-trumps-opbakning-fra-vaelgere-er-lavere-end-nogensinde-foer",
-        "published_date": "2026-10-19 21:09:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump is open to meeting with Xi and Putin",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-er-aaben-moedes-med-xi-og-putin",
-        "published_date": "2026-10-19 20:00:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Norwegian World Cup drum has been sold for DKK 920,000 at auction",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norsk-vm-tromme-er-solgt-920-000-kroner-paa-auktion",
-        "published_date": "2026-10-19 19:10:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police were 'hopelessly outnumbered' when chaos erupted: 'It's like a self-feeding monster'",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/politi-var-i-haabloest-undertal-da-kaos-broed-uddet-er-som-et-selvfoedende-monster?referrer=RSS",
-        "published_date": "2026-10-19 17:12:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: Uefa gives Infantino two weeks to release documents",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/medie-uefa-giver-infantino-to-uger-til-at-frigive-dokumenter?referrer=RSS",
-        "published_date": "2026-10-19 17:04:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several cities in northern France introduce curfews",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/flere-byer-i-det-nordlige-frankrig-indfoerer-udgangsforbud?referrer=RSS",
-        "published_date": "2026-10-19 16:52:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Children often see this misogynistic content.Here are three things to be aware of if your child is on TikTok",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/boern-ser-ofte-dette-kvindehadske-indhold-her-er-tre-ting-du-skal-vaere-opmaerksom-paa-hvis-dit-barn-er-paa-tiktok?referrer=RSS",
-        "published_date": "2026-10-19 16:44:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "If these systems are hacked, Danes can \"actually die\".And they may very well be, say experts",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/hvis-disse-systemer-bliver-hacket-kan-danskere-faktisk-doe-og-det-kan-de-meget-vel-blive-mener-eksperter?referrer=RSS",
-        "published_date": "2026-10-19 16:26:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kenyan cult leader found guilty in case of mass suicide of children",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kenyansk-sektleder-fundet-skyldig-i-sag-om-boerns-masseselvmord?referrer=RSS",
-        "published_date": "2026-10-19 16:18:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Meloni has held a security meeting about unrest in Italy",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/meloni-har-holdt-sikkerhedsmoede-om-uroligheder-i-italien",
-        "published_date": "2026-10-19 16:15:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Blood clots end NFL star's season",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/blodpropper-saetter-stopper-nfl-stjernes-saeson",
-        "published_date": "2026-10-19 15:55:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nine charged after demonstrations on Saturday",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ni-sigtet-efter-demonstrationer-i-loerdags",
-        "published_date": "2026-10-19 15:46:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Boys are being drawn into a misogynistic and anti-democratic world online \u2013 often without realizing it because the packaging is innocent",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/drenge-bliver-trukket-ind-i-en-kvindehadsk-og-antidemokratisk-verden-online--ofte-uden-at-opdage-det-fordi-indpakningen-er-uskyldig?referrer=RSS",
-        "published_date": "2026-10-19 15:41:33",
         "category": "Local Events"
     }
 ]
