@@ -1,5 +1,12 @@
 [
     {
+        "title": "Demands from Nato can pave the way for a new Little Belt Bridge",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/fyn/krav-fra-nato-kan-bane-vej-for-ny-lillebaeltsbro?rss",
+        "published_date": "2026-10-20 19:00:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "War in Europe - follow the developments here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-udviklingen-her-61?referrer=RSS",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "EU Council will make smart glasses' recordings more clear",
+        "title": "Hegseth: The US does not have a limited satellite system for Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hegseth-usa-har-ikke-begraenset-satellitsystem-ukraine",
+        "published_date": "2026-10-20 22:19:41",
+        "category": "Military"
+    },
+    {
+        "title": "Hegseth: The US does not have a limited satellite system for Ukraine",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/eu-raad-vil-goere-smartbrillers-optagelser-mere-tydelige?referrer=RSS",
-        "published_date": "2026-10-13 17:02:45",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/hegseth-usa-har-ikke-begraenset-satellitsystem-for-ukraine?referrer=RSS",
+        "published_date": "2026-10-20 21:02:49",
+        "category": "Military"
     },
     {
         "title": "Fire at Canadian military base occurred inside training ground",
@@ -245,13 +259,6 @@
         "category": "Energy"
     },
     {
-        "title": "Exuberant first half secures AGF's first win of the season",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/sprudlende-foerste-halvleg-sikrer-agf-foerste-saesonsejr?referrer=RSS",
-        "published_date": "2026-10-12 18:55:44",
-        "category": "Energy"
-    },
-    {
         "title": "Martin \u00c5gerup: We spend billions on more bureaucracy \u2013 but what do we get out of it?",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kommentatorer/martin-aagerup-vi-bruger-milliarder-paa-mere-bureaukrati--men-hvad-faar-vi-ud-af-det?referrer=RSS",
@@ -322,6 +329,83 @@
         "category": "Economy"
     },
     {
+        "title": "The US has revoked more than 300,000 visas during Trump's second term",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-har-ophaevet-flere-end-300000-visa-i-trumps-anden-periode?referrer=RSS",
+        "published_date": "2026-10-21 00:22:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Source: Trump's special envoy to meet with Putin on Wednesday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kilde-trumps-saerlige-udsending-skal-moedes-med-putin-onsdag?referrer=RSS",
+        "published_date": "2026-10-20 23:56:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "55 arrested after demonstrations against housing crisis in Portugal",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/55-anholdt-efter-demonstrationer-mod-boligkrise-i-portugal?referrer=RSS",
+        "published_date": "2026-10-20 22:28:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Musk's aerospace company beats expectations with AI advancement",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/musks-rumfartsselskab-slaar-forventninger-med-ai-fremgang?referrer=RSS",
+        "published_date": "2026-10-20 22:28:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The back door suddenly wouldn't open and I didn't get off at my station.It's actually a very good picture of why we have to let DSB's monopoly run off the rails",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/togdoeren-ville-pludselig-ikke-aabne-og-jeg-kom-ikke-af-paa-min-station-det-er-egentlig-et-meget-godt-billede-paa-hvorfor-vi-skal-lade-dsbs-monopol-koere-af-sporet?referrer=RSS",
+        "published_date": "2026-10-20 22:08:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Netflix disappoints investors with weak forecast",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/netflix-skuffer-investorer-med-svag-prognose?referrer=RSS",
+        "published_date": "2026-10-20 21:43:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hard tackling costs Hjulmand a red card in a CL match",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/haard-tackling-koster-hjulmand-roedt-kort-i-cl-kamp?referrer=RSS",
+        "published_date": "2026-10-20 21:13:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Teenager inspires Liverpool to big comeback",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/teenager-inspirerer-liverpool-til-stort-comeback?referrer=RSS",
+        "published_date": "2026-10-20 21:06:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "PSG defy injuries and comeback attempts in victory over Barcelona",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/psg-trodser-skader-og-comebackforsoeg-i-sejr-over-barcelona?referrer=RSS",
+        "published_date": "2026-10-20 21:06:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men have been arrested again in connection with an incident at a British base",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maend-er-igen-anholdt-i-sag-om-haendelse-ved-britisk-base",
+        "published_date": "2026-10-20 18:33:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Track 1 at Copenhagen Central Station is closed due to smoke from train brakes",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/spor-paa-koebenhavns-hovedbanegaard-er-spaerret-efter-roeg-fra-togbremser",
+        "published_date": "2026-10-20 16:42:35",
+        "category": "Local Events"
+    },
+    {
         "title": "Latest news from the USA and American politics - stay tuned here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/seneste-nyt-fra-usa-og-amerikansk-politik--foelg-med-her-10?referrer=RSS",
@@ -382,83 +466,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20261020/how-can-foreigners-in-denmark-prepare-for-a-crisis",
         "published_date": "2026-10-20 13:38:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "New figures show Danish property market slowing down",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261020/new-figures-show-danish-property-market-slowing-down",
-        "published_date": "2026-10-20 12:22:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261020/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-69",
-        "published_date": "2026-10-20 08:30:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Plans for data centers put on hold",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/planer-om-datacentre-sat-paa-hold",
-        "published_date": "2026-10-20 07:59:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fired trustee gets more than 150,000 kroner: Dismissal was too violent",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/fyret-tillidsmand-faar-over-150-000-kroner-bortvisningen-var-uberettiget?rss",
-        "published_date": "2026-10-20 07:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The state buys land: Will expand three nature national parks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/staten-koeber-jord-vil-udvide-tre-naturnationalparker",
-        "published_date": "2026-10-20 06:23:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "In the middle of a historic quarter: Thomas and Mia's new house is only 2.5 meters wide",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/bolig/midt-i-historisk-kvarter-thomas-og-mias-nye-hus-er-kun-2-5-meter-bredt?rss",
-        "published_date": "2026-10-20 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Problems have again hit train operations over Funen - train buses deployed",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/problemer-har-igen-ramt-togdriften-over-fyn-togbusser-indsat",
-        "published_date": "2026-10-20 05:37:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Japan sends space probe to Mars to study the planet's moon",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/japan-sender-rumsonde-mod-mars-undersoege-planetens-maane",
-        "published_date": "2026-10-20 05:34:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Australian politician hospitalized in critical condition after suspected attack",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/australsk-politiker-indlagt-i-kritisk-tilstand-efter-formodet-angreb?referrer=RSS",
-        "published_date": "2026-10-20 00:19:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: US Defense Secretary visits Netanyahu in Israel",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/medie-usas-forsvarsminister-besoeger-netanyahu-i-israel?referrer=RSS",
-        "published_date": "2026-10-20 00:05:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pro-Palestinian Columbia activist asks Supreme Court to take up his case",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/propalaestinensisk-columbia-aktivist-beder-hoejesteret-tage-hans-sag-op?referrer=RSS",
-        "published_date": "2026-10-19 23:06:45",
         "category": "Local Events"
     }
 ]
