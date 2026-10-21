@@ -1,5 +1,33 @@
 [
     {
+        "title": "How Denmark became the sperm donation capital of the\u00a0world",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261021/how-denmark-became-the-sperm-donation-capital-of-the-world",
+        "published_date": "2026-10-21 14:54:36",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Queen Mary participates in the UN climate summit in Turkey",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dronning-mary-deltager-i-fn-s-klimatopmoede-i-tyrkiet",
+        "published_date": "2026-10-21 14:01:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "MEPs urge EU ministers to act and bring an end to seasonal clock changes",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261021/meps-urge-eu-ministers-to-act-and-bring-end-to-seasonal-clock-changes",
+        "published_date": "2026-10-21 13:44:53",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The EU increases the pressure on international partners for contributions to Ukraine",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-oeger-presset-paa-internationale-partnere-bidrag-til-ukraine",
+        "published_date": "2026-10-21 08:25:25",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Demands from Nato can pave the way for a new Little Belt Bridge",
         "source": "Fyens Stiftstidende",
         "url": "https://fyens.dk/fyn/krav-fra-nato-kan-bane-vej-for-ny-lillebaeltsbro?rss",
@@ -112,32 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Ukraine and three other countries are taking the next step towards EU membership",
+        "title": "Russia says it is ready to resume negotiations with the US and Ukraine",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ukraine-og-tre-andre-lande-tager-naeste-skridt-mod-eu-medlemskab?referrer=RSS",
-        "published_date": "2026-10-13 17:38:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Enter the hacker's workshop.This is how artificial intelligence has changed the rules of the game",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/kom-med-ind-i-hackerens-vaerksted-saadan-har-kunstig-intelligens-aendret-spillereglerne?referrer=RSS",
-        "published_date": "2026-10-13 17:28:16",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "He researches ADHD and was diagnosed himself in the 30s.Now he has advice for anyone considering medicine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/vores-liv/han-forsker-i-adhd-og-blev-selv-udredt-i-30erne-nu-har-han-et-raad-til-alle-der-overvejer-medicin?referrer=RSS",
-        "published_date": "2026-10-13 17:27:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Trump fires his controversial ambassador to Greece",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-fyrer-sin-omstridte-ambassadoer-i-graekenland?referrer=RSS",
-        "published_date": "2026-10-13 17:05:47",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/rusland-melder-klar-til-at-genoptage-forhandlinger-med-usa-og-ukraine?referrer=RSS",
+        "published_date": "2026-10-21 14:53:46",
+        "category": "Military"
     },
     {
         "title": "Hegseth: The US does not have a limited satellite system for Ukraine",
@@ -224,13 +231,6 @@
         "category": "Military"
     },
     {
-        "title": "New action plan to strengthen equality for conscripts",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/ny-handleplan-skal-styrke-ligestillingen-for-vaernepligtige?referrer=RSS",
-        "published_date": "2026-10-13 03:01:47",
-        "category": "Military"
-    },
-    {
         "title": "Tottenham takes first league win of the season against promotion",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/tottenham-tager-foerste-ligasejr-i-saesonen-mod-oprykker?referrer=RSS",
@@ -257,6 +257,20 @@
         "url": "https://www.berlingske.dk/sport/elyounoussi-og-cornelius-giver-fck-optimal-start-paa-ligaspil?referrer=RSS",
         "published_date": "2026-10-15 21:02:55",
         "category": "Energy"
+    },
+    {
+        "title": "Pelle Dragsted's tax hammer will hit successful companies: \"The proposal is pure poison\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/pelle-dragsteds-skattehammer-skal-ramme-succesfulde-virksomheder-forslaget-er-den-rene-gift?referrer=RSS",
+        "published_date": "2026-10-21 15:27:56",
+        "category": "Economy"
+    },
+    {
+        "title": "New multi-million dollar project to strengthen the quality of vocational training",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nyt-millionprojekt-skal-styrke-kvaliteten-paa-erhvervsuddannelserne",
+        "published_date": "2026-10-21 07:41:39",
+        "category": "Economy"
     },
     {
         "title": "Martin \u00c5gerup: We spend billions on more bureaucracy \u2013 but what do we get out of it?",
@@ -329,6 +343,132 @@
         "category": "Economy"
     },
     {
+        "title": "The moderates support a bill to ban mandate buying",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/moderaterne-bakker-op-om-lovforslag-om-at-forbyde-mandatkoeb?referrer=RSS",
+        "published_date": "2026-10-21 15:26:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "They stubbornly defended saving on the downtrodden's pension.Now the government has abandoned the plans",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/de-forsvarede-haardnakket-at-spare-paa-de-nedslidtes-pension-nu-har-regeringen-opgivet-planerne?referrer=RSS",
+        "published_date": "2026-10-21 15:25:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish Industry warns of serious security holes on websites",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dansk-industri-advarer-om-alvorlige-sikkerhedshuller-paa-hjemmesider?referrer=RSS",
+        "published_date": "2026-10-21 15:19:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Majority of bishops are considering moving the big day of prayer to autumn",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/flertal-af-biskopper-overvejer-at-rykke-store-bededag-til-efteraaret?referrer=RSS",
+        "published_date": "2026-10-21 15:13:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Promising Danes lift themselves to three EC medals",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/lovende-dansker-loefter-sig-til-tre-em-medaljer?referrer=RSS",
+        "published_date": "2026-10-21 15:01:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Train passengers can once again see departure and arrival times after the buried cable",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/togpassagerer-kan-igen-se-afgangs-og-ankomsttider-efter-overgravet-kabel?referrer=RSS",
+        "published_date": "2026-10-21 14:58:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish Industry warns of serious security holes on websites - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/dansk-industri-advarer-om-alvorlige-sikkerhedshuller-paa-hjemmesider-foelg-med-her?referrer=RSS",
+        "published_date": "2026-10-21 14:49:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "DMI's website is out of order",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dmi-s-hjemmeside-er-ude-af-drift",
+        "published_date": "2026-10-21 14:11:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 150 people killed in drone attacks in South Sudan",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mere-end-150-personer-draebt-i-droneangreb-i-sydsudan",
+        "published_date": "2026-10-21 13:40:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Hungarian central bank governor arrested",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-ungarsk-centralbankchef-anholdt",
+        "published_date": "2026-10-21 13:34:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish employment rose by almost 30,000 people in a year",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261021/danish-employment-rose-by-almost-30000-people-in-a-year",
+        "published_date": "2026-10-21 12:50:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Denmark arrests two men for spying",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261021/denmark-arrests-two-men-for-spying",
+        "published_date": "2026-10-21 11:06:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Stephen Hubbard has been released after four years in Russia",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/stephen-hubbard-er-blevet-loesladt-efter-fire-aar-i-rusland",
+        "published_date": "2026-10-21 10:00:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261021/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-76",
+        "published_date": "2026-10-21 08:44:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gold coins and bullion seized at the border",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/guldmoenter-og-guldbarrer-beslaglagt-ved-graensen",
+        "published_date": "2026-10-21 07:12:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "New car dealer with sensational offers: Write to him and score a free car",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/haderslev/ny-bilforhandler-med-opsigtsvaekkende-tilbud-skriv-til-ham-og-scor-en-gratis-bil?rss",
+        "published_date": "2026-10-21 05:21:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sex & Society opens a new counseling service on women's health",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/sex-samfund-aabner-nyt-raadgivningstilbud-om-kvindesundhed",
+        "published_date": "2026-10-21 04:20:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Burkina Faso reintroduces the death penalty",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/burkina-faso-genindfoerer-doedsstraf",
+        "published_date": "2026-10-21 04:01:41",
+        "category": "Local Events"
+    },
+    {
         "title": "The US has revoked more than 300,000 visas during Trump's second term",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usa-har-ophaevet-flere-end-300000-visa-i-trumps-anden-periode?referrer=RSS",
@@ -340,132 +480,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/kilde-trumps-saerlige-udsending-skal-moedes-med-putin-onsdag?referrer=RSS",
         "published_date": "2026-10-20 23:56:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "55 arrested after demonstrations against housing crisis in Portugal",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/55-anholdt-efter-demonstrationer-mod-boligkrise-i-portugal?referrer=RSS",
-        "published_date": "2026-10-20 22:28:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Musk's aerospace company beats expectations with AI advancement",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/musks-rumfartsselskab-slaar-forventninger-med-ai-fremgang?referrer=RSS",
-        "published_date": "2026-10-20 22:28:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The back door suddenly wouldn't open and I didn't get off at my station.It's actually a very good picture of why we have to let DSB's monopoly run off the rails",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/togdoeren-ville-pludselig-ikke-aabne-og-jeg-kom-ikke-af-paa-min-station-det-er-egentlig-et-meget-godt-billede-paa-hvorfor-vi-skal-lade-dsbs-monopol-koere-af-sporet?referrer=RSS",
-        "published_date": "2026-10-20 22:08:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Netflix disappoints investors with weak forecast",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/netflix-skuffer-investorer-med-svag-prognose?referrer=RSS",
-        "published_date": "2026-10-20 21:43:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hard tackling costs Hjulmand a red card in a CL match",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/haard-tackling-koster-hjulmand-roedt-kort-i-cl-kamp?referrer=RSS",
-        "published_date": "2026-10-20 21:13:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Teenager inspires Liverpool to big comeback",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/teenager-inspirerer-liverpool-til-stort-comeback?referrer=RSS",
-        "published_date": "2026-10-20 21:06:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "PSG defy injuries and comeback attempts in victory over Barcelona",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/psg-trodser-skader-og-comebackforsoeg-i-sejr-over-barcelona?referrer=RSS",
-        "published_date": "2026-10-20 21:06:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two men have been arrested again in connection with an incident at a British base",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/maend-er-igen-anholdt-i-sag-om-haendelse-ved-britisk-base",
-        "published_date": "2026-10-20 18:33:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Track 1 at Copenhagen Central Station is closed due to smoke from train brakes",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/spor-paa-koebenhavns-hovedbanegaard-er-spaerret-efter-roeg-fra-togbremser",
-        "published_date": "2026-10-20 16:42:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news from the USA and American politics - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-fra-usa-og-amerikansk-politik--foelg-med-her-10?referrer=RSS",
-        "published_date": "2026-10-20 15:24:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tivoli removes poster of Muslim influencer",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/tivoli-fjerner-plakat-af-muslimsk-influencer?referrer=RSS",
-        "published_date": "2026-10-20 15:19:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news about Danish politics - follow the development here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-28?referrer=RSS",
-        "published_date": "2026-10-20 15:11:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Muslim debater's statements on the death penalty for homosexuals receive harsh criticism:\u00a0\"Deeply humiliating\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/muslimsk-debattoers-udtalelser-om-doedsstraf-til-homoseksuelle-faar-haard-kritikdybt-beskaemmende?referrer=RSS",
-        "published_date": "2026-10-20 15:09:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man loses Danish drivers license following speeding fine in Switzerland",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261020/man-loses-danish-drivers-license-following-speeding-fine-in-switzerland",
-        "published_date": "2026-10-20 15:02:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The government abandons stricter requirements for senior pensions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/regeringen-opgiver-strammere-krav-til-seniorpension?referrer=RSS",
-        "published_date": "2026-10-20 14:49:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Is Musk merging Tesla and SpaceX?Investors can get smarter tonight",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/aktier/slaar-musk-tesla-og-spacex-sammen-i-aften-kan-investorerne-blive-klogere?referrer=RSS",
-        "published_date": "2026-10-20 14:45:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish police probe claims of violence towards journalists",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261020/danish-police-probe-claims-of-violence-towards-journalists",
-        "published_date": "2026-10-20 14:29:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "How should foreigners in Denmark prepare for a crisis?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261020/how-can-foreigners-in-denmark-prepare-for-a-crisis",
-        "published_date": "2026-10-20 13:38:31",
         "category": "Local Events"
     }
 ]
