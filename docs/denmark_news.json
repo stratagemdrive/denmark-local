@@ -1,5 +1,12 @@
 [
     {
+        "title": "The European Parliament awards the ICC an honorary award",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/europa-parlamentet-tildeler-icc-aerespris",
+        "published_date": "2026-10-22 10:24:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "How Denmark became the sperm donation capital of the\u00a0world",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20261021/how-denmark-became-the-sperm-donation-capital-of-the-world",
@@ -119,18 +126,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Temporary border control with Germany is extended by half a year",
+        "title": "Industry association defends Novo's medical records: \"When you say influence, it's true\"",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/midlertidig-graensekontrol-mod-tyskland-forlaenges-med-et-halvt-aar?referrer=RSS",
-        "published_date": "2026-10-14 14:42:48",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Aspiring Danes in long and agonising wait for citizenship",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261014/aspiring-danes-in-long-and-agonising-wait-for-citizenship",
-        "published_date": "2026-10-14 10:58:14",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/virksomheder/brancheforening-forsvarer-novos-laege-kartotek-naar-du-siger-paavirke-er-det-jo-rigtigt?referrer=RSS",
+        "published_date": "2026-10-22 14:46:15",
+        "category": "Military"
     },
     {
         "title": "Russia says it is ready to resume negotiations with the US and Ukraine",
@@ -217,6 +217,13 @@
         "category": "Military"
     },
     {
+        "title": "Spain releases millions of barrels of oil from emergency storage",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/spanien-frigiver-millioner-af-toender-olie-fra-noedlagre",
+        "published_date": "2026-10-22 13:25:44",
+        "category": "Energy"
+    },
+    {
         "title": "United coach does not fear his own future despite worsening crisis",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/united-traener-frygter-ikke-egen-fremtid-trods-forvaerret-krise?referrer=RSS",
@@ -257,6 +264,13 @@
         "url": "https://www.berlingske.dk/sport/elyounoussi-og-cornelius-giver-fck-optimal-start-paa-ligaspil?referrer=RSS",
         "published_date": "2026-10-15 21:02:55",
         "category": "Energy"
+    },
+    {
+        "title": "We are scared out of our wits.But what does it really cost when the network goes down?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kommentar/vi-er-skraemt-fra-vid-og-sans-men-hvad-koster-det-egentlig-naar-nettet-gaar-ned?referrer=RSS",
+        "published_date": "2026-10-22 15:36:57",
+        "category": "Economy"
     },
     {
         "title": "Pelle Dragsted's tax hammer will hit successful companies: \"The proposal is pure poison\"",
@@ -329,150 +343,143 @@
         "category": "Economy"
     },
     {
-        "title": "Netflix pressured by competitors - lays off 1,000 employees",
+        "title": "\"An eco-spelt-eating woman\".Gade makes a big mockery of Troels Lund's necessary journey.Now the fronts are pulled up",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/en-oekospelt-spisende-kvinde-gade-goer-tykt-nar-af-troels-lunds-noedvendige-rejse-nu-traekkes-fronterne-op?referrer=RSS",
+        "published_date": "2026-10-22 15:41:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "DMI warns of wind gusts of storm force on Sunday",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/dmi-varsler-vindstoed-af-stormstyrke-soendag?referrer=RSS",
+        "published_date": "2026-10-22 15:35:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Note to the rape charge was the passing on of the Bandidos",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/bemaerkning-til-voldtaegtssigtet-var-viderefoersel-af-bandidos?referrer=RSS",
+        "published_date": "2026-10-22 15:29:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two men sentenced to prison for carrying on the Bandidos",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/netflix-presset-af-konkurrenter-fyrer-1-000-ansatte",
-        "published_date": "2026-10-14 14:41:42",
-        "category": "Economy"
-    },
-    {
-        "title": "North Korea will get ready to resume sonic warfare",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/nordkorea-vil-goere-sig-klar-til-at-genoptage-lydkrig?referrer=RSS",
-        "published_date": "2026-10-22 00:40:48",
+        "url": "https://www.dr.dk/nyheder/seneste/maend-idoemt-faengsel-viderefoere-bandidos",
+        "published_date": "2026-10-22 15:25:45",
         "category": "Local Events"
     },
     {
-        "title": "One person is reported killed in an attack on an airport in Saudi Arabia",
+        "title": "Viborg HK strengthens itself with national team suitors",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-meldes-draebt-i-angreb-paa-lufthavn-i-saudi-arabien?referrer=RSS",
-        "published_date": "2026-10-22 00:09:48",
+        "url": "https://www.berlingske.dk/sport/viborg-hk-forstaerker-sig-med-landsholdsbejler?referrer=RSS",
+        "published_date": "2026-10-22 15:12:50",
         "category": "Local Events"
     },
     {
-        "title": "Billionaire settlement takes a big bite out of Facebook owner's profits",
+        "title": "Scientists estimate that most coral reefs are in danger of collapse before the year 2075",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/milliardforlig-tager-stor-bid-af-facebook-ejers-overskud?referrer=RSS",
-        "published_date": "2026-10-21 23:26:49",
+        "url": "https://www.berlingske.dk/internationalt/forskere-vurderer-at-de-fleste-koralrev-er-i-fare-for-kollaps-inden-aar-2075?referrer=RSS",
+        "published_date": "2026-10-22 14:58:45",
         "category": "Local Events"
     },
     {
-        "title": "The Pope will not have further cancer treatment after surgery",
+        "title": "Enhedslisten will never, ever be a liberal party \u2013 for two significant reasons",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/paven-skal-ikke-have-yderligere-kraeftbehandling-efter-operation?referrer=RSS",
-        "published_date": "2026-10-21 23:13:48",
+        "url": "https://www.berlingske.dk/synspunkter/enhedslisten-vil-aldrig-nogensinde-vaere-et-liberalt-parti--af-to-markante-aarsager?referrer=RSS",
+        "published_date": "2026-10-22 14:58:10",
         "category": "Local Events"
     },
     {
-        "title": "Meta sentenced to pay 25 billion dollars to the state",
+        "title": "Martin Krasnik's new book has made me realize that Enhedslisten is more liberal than most bourgeois parties",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/meta-doemt-til-at-betale-25-milliarder-dollar-til-delstat?referrer=RSS",
-        "published_date": "2026-10-21 22:56:49",
+        "url": "https://www.berlingske.dk/synspunkter/martin-krasniks-nye-bog-har-faaet-mig-til-at-indse-at-enhedslisten-er-mere-liberal-end-de-fleste-borgerlige-partier?referrer=RSS",
+        "published_date": "2026-10-22 14:49:07",
         "category": "Local Events"
     },
     {
-        "title": "The National Operative Staff is activated at the lowest level",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/den-nationale-operative-stab-er-aktiveret-paa-laveste-niveau?referrer=RSS",
-        "published_date": "2026-10-21 22:14:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Glee returns 11 years after its last episode",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/glee-vender-tilbage-11-aar-efter-sidste-afsnit?referrer=RSS",
-        "published_date": "2026-10-21 21:56:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tesla defies expectations - the stock rises",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/tesla-trodser-forventningerne-aktien-stiger?referrer=RSS",
-        "published_date": "2026-10-21 21:36:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aalborg defeats the Slovenians and takes first place",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/aalborg-besejrer-slovenere-og-stryger-paa-foerstepladsen?referrer=RSS",
-        "published_date": "2026-10-21 21:28:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Meta is fined billions by New Mexico",
+        "title": "96 percent of the world's coral reefs are critically endangered, researchers estimate",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/meta-faar-milliardboede-af-new-mexico",
-        "published_date": "2026-10-21 18:05:57",
+        "url": "https://www.dr.dk/nyheder/seneste/96-procent-af-verdens-koralrev-er-kritisk-truede-vurderer-forskere",
+        "published_date": "2026-10-22 14:47:40",
         "category": "Local Events"
     },
     {
-        "title": "Four injured in explosion in Athens",
+        "title": "The focus on incapacity is sharpened after errors in the Cornelius case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fokus-paa-inhabilitet-skaerpes-efter-fejl-i-cornelius-sag?referrer=RSS",
+        "published_date": "2026-10-22 14:24:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danske Bank to carry out third round of job cuts this year",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261022/danske-bank-to-carry-out-third-round-of-job-cuts-this-year",
+        "published_date": "2026-10-22 14:20:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "WHO does not fear widespread infection with the Shamonda virus",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fire-saaret-i-eksplosion-i-athen",
-        "published_date": "2026-10-21 17:38:40",
+        "url": "https://www.dr.dk/nyheder/seneste/who-frygter-ikke-udbredt-smitte-med-shamonda-virus",
+        "published_date": "2026-10-22 14:14:57",
         "category": "Local Events"
     },
     {
-        "title": "Circus director Hanne Berdino has died",
+        "title": "Salling publishes list of goods for crisis emergency stocks",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/cirkusdirektrice-hanne-berdino-er-doed",
-        "published_date": "2026-10-21 17:09:18",
+        "url": "https://www.dr.dk/nyheder/seneste/salling-offentliggoer-liste-over-varer-til-krise-noedlagre",
+        "published_date": "2026-10-22 13:58:55",
         "category": "Local Events"
     },
     {
-        "title": "Pia Kj\u00e6rsgaard reports to the police High School participant Afrah al-Jabouri",
+        "title": "Official Danish immigration website Ny i Danmark down for hours",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261022/official-danish-immigration-website-ny-i-danmark-temporarily-down",
+        "published_date": "2026-10-22 13:49:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tuktuk confiscated after drunk driving",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pia-kjaersgaard-politianmelder-hoejskolen-deltager-afrah-al-jabouri",
-        "published_date": "2026-10-21 16:08:23",
+        "url": "https://www.dr.dk/nyheder/seneste/tuktuk-konfiskeret-efter-vanvidspromille",
+        "published_date": "2026-10-22 11:57:09",
         "category": "Local Events"
     },
     {
-        "title": "The moderates support a bill to ban mandate buying",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/moderaterne-bakker-op-om-lovforslag-om-at-forbyde-mandatkoeb?referrer=RSS",
-        "published_date": "2026-10-21 15:26:45",
+        "title": "Poor eyesight prevents Judi Dench from acting",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/daarligt-syn-forhindrer-judi-dench-i-spille-skuespil",
+        "published_date": "2026-10-22 11:56:39",
         "category": "Local Events"
     },
     {
-        "title": "They stubbornly defended saving on the downtrodden's pension.Now the government has abandoned the plans",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/de-forsvarede-haardnakket-at-spare-paa-de-nedslidtes-pension-nu-har-regeringen-opgivet-planerne?referrer=RSS",
-        "published_date": "2026-10-21 15:25:58",
+        "title": "Suspected Russian spy arrested in Germany",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mistaenkt-russisk-spion-anholdt-i-tyskland",
+        "published_date": "2026-10-22 11:48:22",
         "category": "Local Events"
     },
     {
-        "title": "Danish Industry warns of serious security holes on websites",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/dansk-industri-advarer-om-alvorlige-sikkerhedshuller-paa-hjemmesider?referrer=RSS",
-        "published_date": "2026-10-21 15:19:45",
+        "title": "Danish People's Party call for applicant to be removed from citizenship bill",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261022/danish-peoples-party-call-for-applicant-to-be-removed-from-citizenship-bill",
+        "published_date": "2026-10-22 11:31:30",
         "category": "Local Events"
     },
     {
-        "title": "Majority of bishops are considering moving the big day of prayer to autumn",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/flertal-af-biskopper-overvejer-at-rykke-store-bededag-til-efteraaret?referrer=RSS",
-        "published_date": "2026-10-21 15:13:51",
+        "title": "Danske Bank is cutting 106 positions",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/danske-bank-nedlaegger-106-stillinger",
+        "published_date": "2026-10-22 10:43:25",
         "category": "Local Events"
     },
     {
-        "title": "Promising Danes lift themselves to three EC medals",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/lovende-dansker-loefter-sig-til-tre-em-medaljer?referrer=RSS",
-        "published_date": "2026-10-21 15:01:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train passengers can once again see departure and arrival times after the buried cable",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/togpassagerer-kan-igen-se-afgangs-og-ankomsttider-efter-overgravet-kabel?referrer=RSS",
-        "published_date": "2026-10-21 14:58:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish Industry warns of serious security holes on websites - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/dansk-industri-advarer-om-alvorlige-sikkerhedshuller-paa-hjemmesider-foelg-med-her?referrer=RSS",
-        "published_date": "2026-10-21 14:49:49",
+        "title": "Man sentenced to 13 years in prison for shooting death and indecent handling of a corpse",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-idoemt-13-aars-faengsel-skuddrab-og-usoemmelig-omgang-med-lig",
+        "published_date": "2026-10-22 10:13:11",
         "category": "Local Events"
     }
 ]
