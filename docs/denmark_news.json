@@ -133,13 +133,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Drop the myth about the bad negotiator: Here is the trade union bosses' plea for equal pay",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/dine-penge/drop-myten-om-den-daarlige-forhandler-her-er-fagbossernes-opsang-om-ligeloen?referrer=RSS",
-        "published_date": "2026-10-13 17:47:13",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Russia says it is ready to resume negotiations with the US and Ukraine",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/rusland-melder-klar-til-at-genoptage-forhandlinger-med-usa-og-ukraine?referrer=RSS",
@@ -224,11 +217,18 @@
         "category": "Military"
     },
     {
-        "title": "Zelenskyj will meet with Burnham in London on Wednesday",
+        "title": "United coach does not fear his own future despite worsening crisis",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/zelenskyj-moedes-onsdag-med-burnham-i-london?referrer=RSS",
-        "published_date": "2026-10-13 22:14:45",
-        "category": "Military"
+        "url": "https://www.berlingske.dk/sport/united-traener-frygter-ikke-egen-fremtid-trods-forvaerret-krise?referrer=RSS",
+        "published_date": "2026-10-22 00:44:51",
+        "category": "Energy"
+    },
+    {
+        "title": "Britain approves gas field in the North Sea",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-godkender-gasfelt-i-nordsoeen",
+        "published_date": "2026-10-21 07:15:50",
+        "category": "Energy"
     },
     {
         "title": "Tottenham takes first league win of the season against promotion",
@@ -336,11 +336,95 @@
         "category": "Economy"
     },
     {
-        "title": "The US's second largest bank is fined billions for breaking the law",
+        "title": "North Korea will get ready to resume sonic warfare",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usas-naeststoerste-bank-faar-milliardboede-for-lovbrud?referrer=RSS",
-        "published_date": "2026-10-14 00:44:45",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/nordkorea-vil-goere-sig-klar-til-at-genoptage-lydkrig?referrer=RSS",
+        "published_date": "2026-10-22 00:40:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "One person is reported killed in an attack on an airport in Saudi Arabia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/en-meldes-draebt-i-angreb-paa-lufthavn-i-saudi-arabien?referrer=RSS",
+        "published_date": "2026-10-22 00:09:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Billionaire settlement takes a big bite out of Facebook owner's profits",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/milliardforlig-tager-stor-bid-af-facebook-ejers-overskud?referrer=RSS",
+        "published_date": "2026-10-21 23:26:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Pope will not have further cancer treatment after surgery",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/paven-skal-ikke-have-yderligere-kraeftbehandling-efter-operation?referrer=RSS",
+        "published_date": "2026-10-21 23:13:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meta sentenced to pay 25 billion dollars to the state",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/meta-doemt-til-at-betale-25-milliarder-dollar-til-delstat?referrer=RSS",
+        "published_date": "2026-10-21 22:56:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The National Operative Staff is activated at the lowest level",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/den-nationale-operative-stab-er-aktiveret-paa-laveste-niveau?referrer=RSS",
+        "published_date": "2026-10-21 22:14:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Glee returns 11 years after its last episode",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/glee-vender-tilbage-11-aar-efter-sidste-afsnit?referrer=RSS",
+        "published_date": "2026-10-21 21:56:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tesla defies expectations - the stock rises",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/tesla-trodser-forventningerne-aktien-stiger?referrer=RSS",
+        "published_date": "2026-10-21 21:36:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aalborg defeats the Slovenians and takes first place",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/aalborg-besejrer-slovenere-og-stryger-paa-foerstepladsen?referrer=RSS",
+        "published_date": "2026-10-21 21:28:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meta is fined billions by New Mexico",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/meta-faar-milliardboede-af-new-mexico",
+        "published_date": "2026-10-21 18:05:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four injured in explosion in Athens",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fire-saaret-i-eksplosion-i-athen",
+        "published_date": "2026-10-21 17:38:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Circus director Hanne Berdino has died",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/cirkusdirektrice-hanne-berdino-er-doed",
+        "published_date": "2026-10-21 17:09:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pia Kj\u00e6rsgaard reports to the police High School participant Afrah al-Jabouri",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/pia-kjaersgaard-politianmelder-hoejskolen-deltager-afrah-al-jabouri",
+        "published_date": "2026-10-21 16:08:23",
+        "category": "Local Events"
     },
     {
         "title": "The moderates support a bill to ban mandate buying",
@@ -389,97 +473,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/dansk-industri-advarer-om-alvorlige-sikkerhedshuller-paa-hjemmesider-foelg-med-her?referrer=RSS",
         "published_date": "2026-10-21 14:49:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "DMI's website is out of order",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dmi-s-hjemmeside-er-ude-af-drift",
-        "published_date": "2026-10-21 14:11:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 150 people killed in drone attacks in South Sudan",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mere-end-150-personer-draebt-i-droneangreb-i-sydsudan",
-        "published_date": "2026-10-21 13:40:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former Hungarian central bank governor arrested",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-ungarsk-centralbankchef-anholdt",
-        "published_date": "2026-10-21 13:34:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish employment rose by almost 30,000 people in a year",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261021/danish-employment-rose-by-almost-30000-people-in-a-year",
-        "published_date": "2026-10-21 12:50:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark arrests two men for spying",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261021/denmark-arrests-two-men-for-spying",
-        "published_date": "2026-10-21 11:06:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Stephen Hubbard has been released after four years in Russia",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/stephen-hubbard-er-blevet-loesladt-efter-fire-aar-i-rusland",
-        "published_date": "2026-10-21 10:00:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261021/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-76",
-        "published_date": "2026-10-21 08:44:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gold coins and bullion seized at the border",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/guldmoenter-og-guldbarrer-beslaglagt-ved-graensen",
-        "published_date": "2026-10-21 07:12:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "New car dealer with sensational offers: Write to him and score a free car",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/ny-bilforhandler-med-opsigtsvaekkende-tilbud-skriv-til-ham-og-scor-en-gratis-bil?rss",
-        "published_date": "2026-10-21 05:21:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sex & Society opens a new counseling service on women's health",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/sex-samfund-aabner-nyt-raadgivningstilbud-om-kvindesundhed",
-        "published_date": "2026-10-21 04:20:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Burkina Faso reintroduces the death penalty",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/burkina-faso-genindfoerer-doedsstraf",
-        "published_date": "2026-10-21 04:01:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US has revoked more than 300,000 visas during Trump's second term",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-har-ophaevet-flere-end-300000-visa-i-trumps-anden-periode?referrer=RSS",
-        "published_date": "2026-10-21 00:22:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Source: Trump's special envoy to meet with Putin on Wednesday",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kilde-trumps-saerlige-udsending-skal-moedes-med-putin-onsdag?referrer=RSS",
-        "published_date": "2026-10-20 23:56:45",
         "category": "Local Events"
     }
 ]
