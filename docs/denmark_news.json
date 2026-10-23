@@ -126,6 +126,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Trump: Musk's satellite system is working again in Ukraine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-musks-satellitsystem-virker-igen-i-ukraine?referrer=RSS",
+        "published_date": "2026-10-22 23:21:50",
+        "category": "Military"
+    },
+    {
         "title": "Industry association defends Novo's medical records: \"When you say influence, it's true\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/brancheforening-forsvarer-novos-laege-kartotek-naar-du-siger-paavirke-er-det-jo-rigtigt?referrer=RSS",
@@ -193,27 +200,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/kilder-trump-administrationen-nedsatte-ukraines-brug-af-satellitsystem?referrer=RSS",
         "published_date": "2026-10-16 00:31:48",
-        "category": "Military"
-    },
-    {
-        "title": "Trump: I would not have sent the military into Greenland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/trump-jeg-ville-ikke-have-sendt-militaer-ind-i-groenland",
-        "published_date": "2026-10-15 00:16:52",
-        "category": "Military"
-    },
-    {
-        "title": "Trump: I would not have sent the military into Greenland",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-jeg-ville-ikke-have-sendt-militaer-ind-i-groenland?referrer=RSS",
-        "published_date": "2026-10-14 23:03:48",
-        "category": "Military"
-    },
-    {
-        "title": "Four people are reported killed during Israeli attacks in Gaza",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/fire-personer-meldes-draebt-under-israelske-angreb-i-gaza?referrer=RSS",
-        "published_date": "2026-10-14 21:29:44",
         "category": "Military"
     },
     {
@@ -343,6 +329,83 @@
         "category": "Economy"
     },
     {
+        "title": "Verdict in the case of Maradona's death falls in December",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/dom-i-sagen-om-maradonas-doed-falder-i-december?referrer=RSS",
+        "published_date": "2026-10-23 00:59:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "IT security challenged: Minister announces digital recovery plan",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/it-sikkerhed-udfordret-minister-varsler-digital-genopretningsplan?referrer=RSS",
+        "published_date": "2026-10-23 00:56:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Impatient protestors demand recall of elections in Venezuela",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/utaalmodige-demonstranter-kraever-valgudskrivelse-i-venezuela?referrer=RSS",
+        "published_date": "2026-10-23 00:32:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "New York bans horse-drawn carriages in Central Park",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/new-york-vedtager-forbud-mod-hestevognskoersel-i-central-park?referrer=RSS",
+        "published_date": "2026-10-23 00:01:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "German tourist seriously injured in ATV accident",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/tysk-turist-er-kommet-alvorligt-til-skade-i-atv-ulykke?referrer=RSS",
+        "published_date": "2026-10-22 23:27:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are investigating a shooting at an apartment in Viby J",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-efterforsker-skud-mod-lejlighed-i-viby-j",
+        "published_date": "2026-10-22 23:23:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are investigating a shooting at an apartment in Viby J",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-efterforsker-skud-mod-lejlighed-i-viby-j?referrer=RSS",
+        "published_date": "2026-10-22 23:15:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least 16 people died in powerful earthquake in Tibet",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mindst-16-personer-doede-i-kraftigt-jordskaelv-i-tibet?referrer=RSS",
+        "published_date": "2026-10-22 22:06:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The politicians have gone into a \"beef self-swing\".But Copenhagen's elderly would actually like more vegetables",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/politikerne-er-gaaet-i-oksekoeds-selvsving-men-koebenhavns-aeldre-vil-faktisk-gerne-have-flere-groentsager?referrer=RSS",
+        "published_date": "2026-10-22 21:49:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "16 dead after powerful earthquake in Tibet",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/16-doede-efter-kraftigt-jordskaelv-i-tibet",
+        "published_date": "2026-10-22 21:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "FCK coach highlights goalscorer after difficult start",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fck-traener-fremhaever-maalscorer-efter-svaer-start?referrer=RSS",
+        "published_date": "2026-10-22 21:17:50",
+        "category": "Local Events"
+    },
+    {
         "title": "\"An eco-spelt-eating woman\".Gade makes a big mockery of Troels Lund's necessary journey.Now the fronts are pulled up",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/en-oekospelt-spisende-kvinde-gade-goer-tykt-nar-af-troels-lunds-noedvendige-rejse-nu-traekkes-fronterne-op?referrer=RSS",
@@ -403,83 +466,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/96-procent-af-verdens-koralrev-er-kritisk-truede-vurderer-forskere",
         "published_date": "2026-10-22 14:47:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "The focus on incapacity is sharpened after errors in the Cornelius case",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fokus-paa-inhabilitet-skaerpes-efter-fejl-i-cornelius-sag?referrer=RSS",
-        "published_date": "2026-10-22 14:24:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danske Bank to carry out third round of job cuts this year",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261022/danske-bank-to-carry-out-third-round-of-job-cuts-this-year",
-        "published_date": "2026-10-22 14:20:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "WHO does not fear widespread infection with the Shamonda virus",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/who-frygter-ikke-udbredt-smitte-med-shamonda-virus",
-        "published_date": "2026-10-22 14:14:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salling publishes list of goods for crisis emergency stocks",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/salling-offentliggoer-liste-over-varer-til-krise-noedlagre",
-        "published_date": "2026-10-22 13:58:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Official Danish immigration website Ny i Danmark down for hours",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261022/official-danish-immigration-website-ny-i-danmark-temporarily-down",
-        "published_date": "2026-10-22 13:49:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tuktuk confiscated after drunk driving",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tuktuk-konfiskeret-efter-vanvidspromille",
-        "published_date": "2026-10-22 11:57:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Poor eyesight prevents Judi Dench from acting",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/daarligt-syn-forhindrer-judi-dench-i-spille-skuespil",
-        "published_date": "2026-10-22 11:56:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Suspected Russian spy arrested in Germany",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mistaenkt-russisk-spion-anholdt-i-tyskland",
-        "published_date": "2026-10-22 11:48:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish People's Party call for applicant to be removed from citizenship bill",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261022/danish-peoples-party-call-for-applicant-to-be-removed-from-citizenship-bill",
-        "published_date": "2026-10-22 11:31:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danske Bank is cutting 106 positions",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/danske-bank-nedlaegger-106-stillinger",
-        "published_date": "2026-10-22 10:43:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man sentenced to 13 years in prison for shooting death and indecent handling of a corpse",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-idoemt-13-aars-faengsel-skuddrab-og-usoemmelig-omgang-med-lig",
-        "published_date": "2026-10-22 10:13:11",
         "category": "Local Events"
     }
 ]
