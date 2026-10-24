@@ -126,18 +126,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "War in Europe - follow the developments here",
+        "title": "Ukraine reports normal connection to important satellite system",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-udviklingen-her-56?referrer=RSS",
-        "published_date": "2026-10-16 13:35:08",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "British travellers warned to avoid scam websites offering Etias visa waiver",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261016/british-travellers-warned-to-avoid-scam-websites-offering-etias-visa-waiver",
-        "published_date": "2026-10-16 12:05:00",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/ukraine-melder-om-normal-forbindelse-til-vigtigt-satellitsystem?referrer=RSS",
+        "published_date": "2026-10-24 13:49:44",
+        "category": "Military"
     },
     {
         "title": "Ukraine and Russia exchange 270 prisoners of war",
@@ -336,6 +329,125 @@
         "category": "Economy"
     },
     {
+        "title": "Stormy weather can close the Great Belt Bridge for several hours",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/stormvejr-kan-lukke-storebaeltsbroen-i-flere-timer?referrer=RSS",
+        "published_date": "2026-10-24 14:02:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Claus Hjort wants to be excluded if more people go against the Liberal leadership",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/claus-hjort-vil-have-eksklusion-hvis-flere-gaar-imod-venstre-ledelsen?referrer=RSS",
+        "published_date": "2026-10-24 13:59:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five stars: Now the Americans will be beaten on their home turf",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/skaerm/fem-stjerner-nu-faar-amerikanerne-bank-paa-deres-hjemmebane?referrer=RSS",
+        "published_date": "2026-10-24 13:56:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Esbjerg breaks a long winning streak against top teams after a big mistake",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/esbjerg-bryder-lang-sejrstoerke-mod-tophold-efter-stor-fejl?referrer=RSS",
+        "published_date": "2026-10-24 13:32:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two goals from Nicolas Jackson break Manchester City's winning streak",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/to-maal-af-nicolas-jackson-bryder-manchester-citys-sejrsstime?referrer=RSS",
+        "published_date": "2026-10-24 13:28:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hitler's famous \"Eagle's nest\" is burned - motorcyclist arrested",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hitlers-beroemteoernerede-er-braendt--motorcyklist-anholdt?referrer=RSS",
+        "published_date": "2026-10-24 13:26:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "A late strike secures FC Midtjylland a surprising victory in Br\u00f8ndby",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sent-droen-sikrer-fc-midtjylland-overraskende-sejr-i-broendby?referrer=RSS",
+        "published_date": "2026-10-24 13:05:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "American takes first World Cup win in weather-affected season premiere",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/amerikaner-tager-foerste-world-cup-sejr-i-vejrpaavirket-saesonpremiere?referrer=RSS",
+        "published_date": "2026-10-24 12:45:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israeli forces evict hundreds of families after shooting incident",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/israelske-styrker-fordriver-hundredvis-af-familier-efter-skudepisode?referrer=RSS",
+        "published_date": "2026-10-24 12:41:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inside Denmark: Why mixing English into Danish can actually be a sign of fluency",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261024/inside-denmark-why-mixing-english-into-danish-can-actually-be-a-sign-of-fluency",
+        "published_date": "2026-10-24 12:00:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "After 30 years, the DM in plowing returns to the South Sea Islands",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efter-30-aar-vender-dm-i-ploejning-tilbage-til-sydhavsoeerne",
+        "published_date": "2026-10-24 12:00:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the Agenda: What's happening in Denmark next week?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261024/on-the-agenda-whats-happening-in-denmark-next-week-7",
+        "published_date": "2026-10-24 11:48:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "The clock must be reset tonight - there will be refreshments on changed train departures",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/vintertid-i-morgen-paavirker-togene-der-vil-vaere-forfriskninger",
+        "published_date": "2026-10-24 10:22:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Copenhagen Airport expects periods of queues at the weekend",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/koebenhavns-lufthavn-forventer-perioder-med-koe-i-weekenden",
+        "published_date": "2026-10-24 07:01:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Christian helped a woman who had fallen in the snow: He then received a fine of DKK 510",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/esbjerg/christian-hjalp-en-kvinde-der-var-faldet-i-sneen-saa-fik-han-en-boede-paa-510-kroner?rss",
+        "published_date": "2026-10-24 05:33:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Employees in a kindergarten are charged with violence against a four-year-old: Now there is something new in the case",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/kolding/ansatte-i-boernehave-er-tiltalt-for-vold-mod-fireaarig-nu-er-der-nyt-i-sagen?rss",
+        "published_date": "2026-10-24 05:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US is removing some Canadian tariffs ahead of the midterm elections",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/usa-fjerner-nogle-canadiske-toldsatser-forud-midtvejsvalget",
+        "published_date": "2026-10-24 02:43:18",
+        "category": "Local Events"
+    },
+    {
         "title": "The US encourages Cubans to cooperate with the CIA",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usa-opfordrer-cubanere-til-at-samarbejde-med-cia?referrer=RSS",
@@ -354,125 +466,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/usa-fjerner-nogle-canadiske-toldsatser-forud-for-midtvejsvalget?referrer=RSS",
         "published_date": "2026-10-24 00:40:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump will block Democratic election victory in Alaska in advance",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-vil-forhaandsblokere-demokratisk-valgsejr-i-alaska?referrer=RSS",
-        "published_date": "2026-10-23 23:59:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Adolf Hitler's old fortress is in flames",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/adolf-hitlers-gamle-faestning-staar-i-flammer?referrer=RSS",
-        "published_date": "2026-10-23 22:20:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several boats and buildings are burning in the harbor in Aar\u00f8sund",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/flere-baade-og-bygninger-braender-paa-havn-i-aaroesund?referrer=RSS",
-        "published_date": "2026-10-23 21:33:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Seven people reported missing after building collapse in Kenya",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/syv-personer-meldt-savnet-efter-bygningskollaps-i-kenya",
-        "published_date": "2026-10-23 21:28:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Seven people reported missing after building collapse in Kenya",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/syv-personer-meldt-savnet-efter-bygningskollaps-i-kenya?referrer=RSS",
-        "published_date": "2026-10-23 21:22:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Men suspected of espionage against a North Jutland company have been released",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/maend-mistaenkt-for-spionage-mod-nordjysk-firma-er-loesladt?referrer=RSS",
-        "published_date": "2026-10-23 21:15:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Defensive coke costs Nottingham Forest dearly against promotion",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/forsvarskoks-koster-nottingham-forest-dyrt-mod-oprykker?referrer=RSS",
-        "published_date": "2026-10-23 21:01:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several boats and buildings are burning in the harbor in Aar\u00f8sund",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-baade-og-bygninger-braender-paa-havn-i-aaroesund",
-        "published_date": "2026-10-23 20:24:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark's largest campsite sued a holiday home owner: - They have bet the whole store and lost",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/danmarks-stoerste-campingplads-sagsoegte-sommerhusejer-de-har-satset-hele-butikken-og-tabt?rss",
-        "published_date": "2026-10-23 18:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Macron calls the shooting in France a racist terrorist attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/macron-kalder-skyderi-i-frankrig-racistisk-terrorangreb",
-        "published_date": "2026-10-23 18:40:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Emilie loses her summer house by the water after a dispute with a campsite: - It will be hugely expensive for us",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/haderslev/sommerhusejer-taber-en-formue-efter-strid-med-campingplads-det-bliver-enormt-dyrt-for-os?rss",
-        "published_date": "2026-10-23 17:40:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several authorities' websites are temporarily unavailable",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flere-myndigheders-hjemmesider-er-midlertidigt-utilgaengelige",
-        "published_date": "2026-10-23 16:39:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Waterworks out with a call: Boil your water",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vandvaerk-ude-med-opfordring-kog-jeres-vand",
-        "published_date": "2026-10-23 16:05:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Party founders close the Green Democrats party",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/partistifter-lukker-partiet-groenne-demokrater?referrer=RSS",
-        "published_date": "2026-10-23 15:15:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "40,000 turkeys are killed after highly contagious bird flu was found",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/40000-kalkuner-aflives-efter-fund-af-meget-smitsom-fugleinfluenza?referrer=RSS",
-        "published_date": "2026-10-23 15:12:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Windy weather on Sunday cancels several ferry departures to and from Bornholm",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/blaesevejr-soendag-aflyser-flere-faergeafgange-til-og-fra-bornholm",
-        "published_date": "2026-10-23 15:06:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mads Mikkelsen receives a French order for his artistic work",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/mads-mikkelsen-modtager-fransk-orden-for-sit-kunstneriske-virke?referrer=RSS",
-        "published_date": "2026-10-23 14:57:44",
         "category": "Local Events"
     }
 ]
