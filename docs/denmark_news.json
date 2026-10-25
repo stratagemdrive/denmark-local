@@ -1,5 +1,12 @@
 [
     {
+        "title": "War in Europe - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-med-her-1?referrer=RSS",
+        "published_date": "2026-10-25 14:21:39",
+        "category": "Diplomacy"
+    },
+    {
         "title": "EU parliament approves more safeguards for travellers in Europe",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20261023/eu-parliament-approves-more-safeguards-for-travellers-in-europe",
@@ -110,6 +117,13 @@
         "url": "https://www.berlingske.dk/internationalt/rubio-kalder-bosaetteroverfald-mod-fotograf-for-foruroligende?referrer=RSS",
         "published_date": "2026-10-18 00:13:47",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Russia is awarded the first World Cup since the invasion of Ukraine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/rusland-faar-foerste-vm-tildelt-siden-invasionen-af-ukraine?referrer=RSS",
+        "published_date": "2026-10-25 13:11:44",
+        "category": "Military"
     },
     {
         "title": "Musk closed loophole: Ukraine used satellite network to kill",
@@ -238,20 +252,6 @@
         "category": "Energy"
     },
     {
-        "title": "Covers Trump's new covance over private billion deals?\"We have never before been in a place where it was so clear that he has definitively chosen Putin's side\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/daekker-trumps-nye-kovending-over-private-milliardaftaler-vi-har-aldrig-foer-vaeret-et-sted-hvor-det-stod-saa-klart-at-han-endegyldigt-har-valgt-putins-side?referrer=RSS",
-        "published_date": "2026-10-17 13:24:17",
-        "category": "Energy"
-    },
-    {
-        "title": "The consumption of electricity is increasing - while the consumption of oil and gas is falling",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/forbruget-af-el-stiger-imens-falder-forbrug-af-olie-og-gas",
-        "published_date": "2026-10-17 05:21:12",
-        "category": "Energy"
-    },
-    {
         "title": "We are scared out of our wits.But what does it really cost when the network goes down?",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kommentar/vi-er-skraemt-fra-vid-og-sans-men-hvad-koster-det-egentlig-naar-nettet-gaar-ned?referrer=RSS",
@@ -308,11 +308,88 @@
         "category": "Economy"
     },
     {
-        "title": "77-year-old charged with reckless driving on Storeb\u00e6ltsbroen: Turned around at tollbooth",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/112/77-aarig-spoegelsesbilist-sigtet-for-vanvidskoersel-paa-storebaeltsbroen-risikerer-at-miste-bilen?rss",
-        "published_date": "2026-10-17 10:17:35",
-        "category": "Economy"
+        "title": "100 years before \u00bbGame of Thrones\u00ab and \u00bbVikings\u00ab, Danish artist couples were obsessed with kings, heroes and myths.But does their art hold up today?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kunst/100-aar-foer-game-of-thrones-og-vikings-var-dansk-kunstnerpar-besat-af-konger-helte-og-myter-men-holder-deres-kunst-i-dag?referrer=RSS",
+        "published_date": "2026-10-25 14:35:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sheffield Wednesday sacks Danish head coach",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/sheffield-wednesday-fyrer-dansk-cheftraener?referrer=RSS",
+        "published_date": "2026-10-25 14:34:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news from the USA and American politics - stay tuned here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-fra-usa-og-amerikansk-politik--foelg-med-her-18?referrer=RSS",
+        "published_date": "2026-10-25 14:20:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about Danish politics - follow the development here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-37?referrer=RSS",
+        "published_date": "2026-10-25 14:10:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "27,000 turkeys must be killed after bird flu was found",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/27000-kalkuner-skal-aflives-efter-fund-af-fugleinfluenza?referrer=RSS",
+        "published_date": "2026-10-25 13:59:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula and Bolsonaro have voted in close Brazilian elections",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/lula-og-bolsonaro-har-stemt-ved-taet-brasiliansk-valg?referrer=RSS",
+        "published_date": "2026-10-25 13:56:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "27,000 turkeys must be killed on Lolland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/27-000-kalkuner-skal-aflives-paa-lolland",
+        "published_date": "2026-10-25 13:49:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Disease rumors hit China and North Korea.Who takes power if the great leader dies?",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/sygdomsrygter-rammer-kina-og-nordkorea-hvem-tager-magten-hvis-den-store-leder-doer?referrer=RSS",
+        "published_date": "2026-10-25 13:30:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazilians open the alpine season with a superb victory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/brasilianer-aabner-alpinsaesonen-med-suveraen-sejr?referrer=RSS",
+        "published_date": "2026-10-25 13:04:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "12-year-old seriously injured in fireworks accident",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/12-aarig-alvorlig-skadet-ved-fyrvaerkeriulykke",
+        "published_date": "2026-10-25 12:51:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "5.9 magnitude earthquake hits Tibet just days after strong earthquake",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/jordskaelv-med-styrke-paa-5-9-rammer-tibet-faa-dage-efter-kraftigt-jordskaelv",
+        "published_date": "2026-10-25 12:39:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Specialist doctors move out to East Zealand and the islands",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/speciallaeger-rykker-ud-paa-oestsjaelland-og-oeerne",
+        "published_date": "2026-10-25 12:18:58",
+        "category": "Local Events"
     },
     {
         "title": "Obama calls Trump's first two years cruel and incompetent",
@@ -368,90 +445,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/synspunkter/problemet-er-ikke-islam-problemet-er-homofobien-selv?referrer=RSS",
         "published_date": "2026-10-24 20:45:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump has voted early for the midterm elections in the United States",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-har-stemt-tidligt-til-midtvejsvalget-i-usa?referrer=RSS",
-        "published_date": "2026-10-24 20:36:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israelis demonstrate against the government three days before elections",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/israelere-demonstrerer-mod-regering-tre-dage-inden-valg?referrer=RSS",
-        "published_date": "2026-10-24 19:55:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Houthi movement attacks Saudi airports again",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/houthibevaegelsen-angriber-igen-saudiske-lufthavne",
-        "published_date": "2026-10-24 19:41:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Stormy weather can close the Great Belt Bridge for several hours",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/stormvejr-kan-lukke-storebaeltsbroen-i-flere-timer?referrer=RSS",
-        "published_date": "2026-10-24 14:02:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Claus Hjort wants to be excluded if more people go against the Liberal leadership",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/claus-hjort-vil-have-eksklusion-hvis-flere-gaar-imod-venstre-ledelsen?referrer=RSS",
-        "published_date": "2026-10-24 13:59:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five stars: Now the Americans will be beaten on their home turf",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/skaerm/fem-stjerner-nu-faar-amerikanerne-bank-paa-deres-hjemmebane?referrer=RSS",
-        "published_date": "2026-10-24 13:56:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Esbjerg breaks a long winning streak against top teams after a big mistake",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/esbjerg-bryder-lang-sejrstoerke-mod-tophold-efter-stor-fejl?referrer=RSS",
-        "published_date": "2026-10-24 13:32:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two goals from Nicolas Jackson break Manchester City's winning streak",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/to-maal-af-nicolas-jackson-bryder-manchester-citys-sejrsstime?referrer=RSS",
-        "published_date": "2026-10-24 13:28:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hitler's famous \"Eagle's nest\" is burned - motorcyclist arrested",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hitlers-beroemteoernerede-er-braendt--motorcyklist-anholdt?referrer=RSS",
-        "published_date": "2026-10-24 13:26:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "A late strike secures FC Midtjylland a surprising victory in Br\u00f8ndby",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/sent-droen-sikrer-fc-midtjylland-overraskende-sejr-i-broendby?referrer=RSS",
-        "published_date": "2026-10-24 13:05:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "American takes first World Cup win in weather-affected season premiere",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/amerikaner-tager-foerste-world-cup-sejr-i-vejrpaavirket-saesonpremiere?referrer=RSS",
-        "published_date": "2026-10-24 12:45:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israeli forces evict hundreds of families after shooting incident",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/israelske-styrker-fordriver-hundredvis-af-familier-efter-skudepisode?referrer=RSS",
-        "published_date": "2026-10-24 12:41:45",
         "category": "Local Events"
     }
 ]
