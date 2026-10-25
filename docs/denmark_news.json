@@ -112,18 +112,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Now the time has come: Europe must fight Putin on its own",
+        "title": "Musk closed loophole: Ukraine used satellite network to kill",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/nu-er-tiden-kommet-europa-maa-bekaempe-putin-paa-egen-haand?referrer=RSS",
-        "published_date": "2026-10-16 19:29:26",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/musk-lukkede-smuthul-ukraine-brugte-satellitnetvaerk-til-at-draebe?referrer=RSS",
+        "published_date": "2026-10-24 23:42:49",
+        "category": "Military"
     },
     {
-        "title": "The verdict: Would your life change if the UK rejoined the EU?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261016/the-verdict-would-your-life-change-if-the-uk-rejoined-the-eu",
-        "published_date": "2026-10-16 18:36:08",
-        "category": "Diplomacy"
+        "title": "Helle Thomsen: Neither the attack nor the defense was good",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/helle-thomsen-hverken-angrebet-eller-forsvaret-var-godt?referrer=RSS",
+        "published_date": "2026-10-24 19:37:49",
+        "category": "Military"
     },
     {
         "title": "Ukraine reports normal connection to important satellite system",
@@ -200,20 +200,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/medie-mindst-syv-doede-i-brand-paa-canadisk-militaerbase?referrer=RSS",
         "published_date": "2026-10-18 11:49:44",
-        "category": "Military"
-    },
-    {
-        "title": "Moldova condemns Russia after five drone incursions",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/moldova-fordoemmer-rusland-efter-fem-droners-indtraengen?referrer=RSS",
-        "published_date": "2026-10-17 00:19:46",
-        "category": "Military"
-    },
-    {
-        "title": "30 people are reported killed in a drone attack on a cattle market in Sudan",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/30-mennesker-meldes-draebt-i-droneangreb-paa-kvaegmarked-i-sudan?referrer=RSS",
-        "published_date": "2026-10-16 22:17:47",
         "category": "Military"
     },
     {
@@ -329,6 +315,83 @@
         "category": "Economy"
     },
     {
+        "title": "Obama calls Trump's first two years cruel and incompetent",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/obama-kalder-trumps-to-foerste-aar-for-grusomme-og-inkompetente?referrer=RSS",
+        "published_date": "2026-10-24 23:35:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Italian wins qualification for Sunday's Formula 1 Grand Prix in Austin",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/italiener-vinder-kvalifikation-til-soendagens-formel-1-grandprix-i-austin",
+        "published_date": "2026-10-24 22:32:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holb\u00e6k B&I grabbed all the points away from home against N\u00e6sby BK",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sport/holbaek-b-i-snuppede-alle-pointene-paa-udebane-mod-naesby-bk?rss",
+        "published_date": "2026-10-24 22:21:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kn\u00e6k Cancer collects over DKK 135 million",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/knaek-cancer-indsamler-over-135-millioner-kroner?referrer=RSS",
+        "published_date": "2026-10-24 22:02:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The ministries get more power - and that makes democracy less transparent",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/ministerierne-faar-mere-magt--og-det-goer-demokratiet-mindre-gennemsigtigt?referrer=RSS",
+        "published_date": "2026-10-24 21:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "St\u00f8jberg reacts to significant criticism from the President of the Supreme Court: \"I would do it again\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/stoejberg-reagerer-paa-markant-kritik-fra-hoejesterets-praesident-jeg-ville-goere-det-igen?referrer=RSS",
+        "published_date": "2026-10-24 20:59:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "A vengeful mother overthrew the Serbian government.Now a fateful choice awaits",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/en-haevngerrig-mor-vaeltede-den-serbiske-regering-nu-venter-et-skaebnevalg?referrer=RSS",
+        "published_date": "2026-10-24 20:50:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "The problem is not Islam, the problem is homophobia itself",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/problemet-er-ikke-islam-problemet-er-homofobien-selv?referrer=RSS",
+        "published_date": "2026-10-24 20:45:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump has voted early for the midterm elections in the United States",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-har-stemt-tidligt-til-midtvejsvalget-i-usa?referrer=RSS",
+        "published_date": "2026-10-24 20:36:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israelis demonstrate against the government three days before elections",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/israelere-demonstrerer-mod-regering-tre-dage-inden-valg?referrer=RSS",
+        "published_date": "2026-10-24 19:55:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Houthi movement attacks Saudi airports again",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/houthibevaegelsen-angriber-igen-saudiske-lufthavne",
+        "published_date": "2026-10-24 19:41:51",
+        "category": "Local Events"
+    },
+    {
         "title": "Stormy weather can close the Great Belt Bridge for several hours",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/danmark/stormvejr-kan-lukke-storebaeltsbroen-i-flere-timer?referrer=RSS",
@@ -389,83 +452,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/israelske-styrker-fordriver-hundredvis-af-familier-efter-skudepisode?referrer=RSS",
         "published_date": "2026-10-24 12:41:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside Denmark: Why mixing English into Danish can actually be a sign of fluency",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261024/inside-denmark-why-mixing-english-into-danish-can-actually-be-a-sign-of-fluency",
-        "published_date": "2026-10-24 12:00:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "After 30 years, the DM in plowing returns to the South Sea Islands",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-30-aar-vender-dm-i-ploejning-tilbage-til-sydhavsoeerne",
-        "published_date": "2026-10-24 12:00:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What's happening in Denmark next week?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261024/on-the-agenda-whats-happening-in-denmark-next-week-7",
-        "published_date": "2026-10-24 11:48:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "The clock must be reset tonight - there will be refreshments on changed train departures",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/vintertid-i-morgen-paavirker-togene-der-vil-vaere-forfriskninger",
-        "published_date": "2026-10-24 10:22:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen Airport expects periods of queues at the weekend",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/koebenhavns-lufthavn-forventer-perioder-med-koe-i-weekenden",
-        "published_date": "2026-10-24 07:01:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Christian helped a woman who had fallen in the snow: He then received a fine of DKK 510",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/christian-hjalp-en-kvinde-der-var-faldet-i-sneen-saa-fik-han-en-boede-paa-510-kroner?rss",
-        "published_date": "2026-10-24 05:33:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Employees in a kindergarten are charged with violence against a four-year-old: Now there is something new in the case",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/kolding/ansatte-i-boernehave-er-tiltalt-for-vold-mod-fireaarig-nu-er-der-nyt-i-sagen?rss",
-        "published_date": "2026-10-24 05:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US is removing some Canadian tariffs ahead of the midterm elections",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-fjerner-nogle-canadiske-toldsatser-forud-midtvejsvalget",
-        "published_date": "2026-10-24 02:43:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US encourages Cubans to cooperate with the CIA",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-opfordrer-cubanere-til-at-samarbejde-med-cia?referrer=RSS",
-        "published_date": "2026-10-24 01:10:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "DR Congo begins vaccine trials amid historic Ebola outbreak",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/dr-congo-indleder-vaccineforsoeg-midt-i-historisk-ebolaudbrud?referrer=RSS",
-        "published_date": "2026-10-24 01:10:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US is removing some Canadian tariffs ahead of the midterm elections",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-fjerner-nogle-canadiske-toldsatser-forud-for-midtvejsvalget?referrer=RSS",
-        "published_date": "2026-10-24 00:40:46",
         "category": "Local Events"
     }
 ]
