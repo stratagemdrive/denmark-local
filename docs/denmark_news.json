@@ -112,13 +112,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Rubio calls settler assault on photographer disturbing",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rubio-kalder-bosaetteroverfald-mod-fotograf-for-foruroligende?referrer=RSS",
-        "published_date": "2026-10-18 00:13:47",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Russia is awarded the first World Cup since the invasion of Ukraine",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/rusland-faar-foerste-vm-tildelt-siden-invasionen-af-ukraine?referrer=RSS",
@@ -308,6 +301,118 @@
         "category": "Economy"
     },
     {
+        "title": "Lula beats Bolsonaro and gets re-elected as president of Brazil",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/lula-slaar-bolsonaro-og-faar-genvalg-som-praesident-i-brasilien?referrer=RSS",
+        "published_date": "2026-10-26 00:27:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Lula beats Bolsonaro and wins the election in Brazil",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/praesident-lula-slaar-bolsonaro-og-vinder-valget-i-brasilien",
+        "published_date": "2026-10-26 00:21:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Netanyahu warns Iran against interfering with Israeli elections",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/netanyahu-advarer-iran-mod-at-forstyrre-valget-i-israel?referrer=RSS",
+        "published_date": "2026-10-26 00:17:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula narrowly leads Bolsonaro in horror count in Brazil",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/lula-foerer-snaevert-over-bolsonaro-i-gyseroptaelling-i-brasilien?referrer=RSS",
+        "published_date": "2026-10-25 23:40:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump calls Norway a \"shit country\" in speech",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-kalder-norge-for-et-lorteland-i-tale?referrer=RSS",
+        "published_date": "2026-10-25 22:25:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mbapp\u00e9 secures Real Madrid El Clasico triumph shortly before time",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/mbappe-sikrer-real-madrid-el-clasico-triumf-kort-foer-tid?referrer=RSS",
+        "published_date": "2026-10-25 22:08:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Antonelli is stumbling close to the World Cup title after a show of strength",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/antonelli-er-snublende-naer-vm-titel-efter-magtdemonstration?referrer=RSS",
+        "published_date": "2026-10-25 22:08:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Antonelli is stumbling close to the World Cup title after a show of strength",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/antonelli-er-snublende-naer-vm-titel-efter-magtdemonstration",
+        "published_date": "2026-10-25 21:47:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Police are warning residents in areas at risk of being under water",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politi-advarer-beboere-i-omraader-der-risikerer-at-staa-under-vand?referrer=RSS",
+        "published_date": "2026-10-25 21:03:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The left's Amanda Heitmann will loyally follow the party's political line",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/venstres-amanda-heitmann-vil-loyalt-foelge-partiets-politiske-linje?referrer=RSS",
+        "published_date": "2026-10-25 20:52:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil's Supreme Court extends polling station opening hours by two hours",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/brasiliens-hoejesteret-udvider-valgsteders-aabningstid-med-to-timer?referrer=RSS",
+        "published_date": "2026-10-25 20:39:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Extended opening hours at polling stations in Brazil",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/udvidet-aabningstider-paa-valgsteder-i-brasilien",
+        "published_date": "2026-10-25 20:16:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serbia reaches highest turnout in 34 years",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/serbien-naar-hoejeste-valgdeltagelse-i-34-aar",
+        "published_date": "2026-10-25 19:13:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tivoli honors Queen Margrethe for 25 years of effort",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tivoli-haedrer-dronning-margrethe-25-aars-indsats",
+        "published_date": "2026-10-25 17:34:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Companies should investigate systems for data breaches",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/virksomheder-boer-undersoege-systemer-efter-datalaek",
+        "published_date": "2026-10-25 17:05:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuelan opposition leader is back in his homeland",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/venezuelansk-oppositionsleder-er-tilbage-i-sit-hjemland",
+        "published_date": "2026-10-25 16:44:12",
+        "category": "Local Events"
+    },
+    {
         "title": "100 years before \u00bbGame of Thrones\u00ab and \u00bbVikings\u00ab, Danish artist couples were obsessed with kings, heroes and myths.But does their art hold up today?",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kunst/100-aar-foer-game-of-thrones-og-vikings-var-dansk-kunstnerpar-besat-af-konger-helte-og-myter-men-holder-deres-kunst-i-dag?referrer=RSS",
@@ -333,118 +438,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-37?referrer=RSS",
         "published_date": "2026-10-25 14:10:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "27,000 turkeys must be killed after bird flu was found",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/27000-kalkuner-skal-aflives-efter-fund-af-fugleinfluenza?referrer=RSS",
-        "published_date": "2026-10-25 13:59:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lula and Bolsonaro have voted in close Brazilian elections",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/lula-og-bolsonaro-har-stemt-ved-taet-brasiliansk-valg?referrer=RSS",
-        "published_date": "2026-10-25 13:56:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "27,000 turkeys must be killed on Lolland",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/27-000-kalkuner-skal-aflives-paa-lolland",
-        "published_date": "2026-10-25 13:49:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Disease rumors hit China and North Korea.Who takes power if the great leader dies?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/sygdomsrygter-rammer-kina-og-nordkorea-hvem-tager-magten-hvis-den-store-leder-doer?referrer=RSS",
-        "published_date": "2026-10-25 13:30:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazilians open the alpine season with a superb victory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/brasilianer-aabner-alpinsaesonen-med-suveraen-sejr?referrer=RSS",
-        "published_date": "2026-10-25 13:04:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "12-year-old seriously injured in fireworks accident",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/12-aarig-alvorlig-skadet-ved-fyrvaerkeriulykke",
-        "published_date": "2026-10-25 12:51:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "5.9 magnitude earthquake hits Tibet just days after strong earthquake",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/jordskaelv-med-styrke-paa-5-9-rammer-tibet-faa-dage-efter-kraftigt-jordskaelv",
-        "published_date": "2026-10-25 12:39:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Specialist doctors move out to East Zealand and the islands",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/speciallaeger-rykker-ud-paa-oestsjaelland-og-oeerne",
-        "published_date": "2026-10-25 12:18:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Obama calls Trump's first two years cruel and incompetent",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/obama-kalder-trumps-to-foerste-aar-for-grusomme-og-inkompetente?referrer=RSS",
-        "published_date": "2026-10-24 23:35:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Italian wins qualification for Sunday's Formula 1 Grand Prix in Austin",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/italiener-vinder-kvalifikation-til-soendagens-formel-1-grandprix-i-austin",
-        "published_date": "2026-10-24 22:32:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Holb\u00e6k B&I grabbed all the points away from home against N\u00e6sby BK",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/sport/holbaek-b-i-snuppede-alle-pointene-paa-udebane-mod-naesby-bk?rss",
-        "published_date": "2026-10-24 22:21:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kn\u00e6k Cancer collects over DKK 135 million",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/knaek-cancer-indsamler-over-135-millioner-kroner?referrer=RSS",
-        "published_date": "2026-10-24 22:02:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The ministries get more power - and that makes democracy less transparent",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/ministerierne-faar-mere-magt--og-det-goer-demokratiet-mindre-gennemsigtigt?referrer=RSS",
-        "published_date": "2026-10-24 21:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "St\u00f8jberg reacts to significant criticism from the President of the Supreme Court: \"I would do it again\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/stoejberg-reagerer-paa-markant-kritik-fra-hoejesterets-praesident-jeg-ville-goere-det-igen?referrer=RSS",
-        "published_date": "2026-10-24 20:59:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "A vengeful mother overthrew the Serbian government.Now a fateful choice awaits",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/en-haevngerrig-mor-vaeltede-den-serbiske-regering-nu-venter-et-skaebnevalg?referrer=RSS",
-        "published_date": "2026-10-24 20:50:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The problem is not Islam, the problem is homophobia itself",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/problemet-er-ikke-islam-problemet-er-homofobien-selv?referrer=RSS",
-        "published_date": "2026-10-24 20:45:33",
         "category": "Local Events"
     }
 ]
