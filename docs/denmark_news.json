@@ -1,5 +1,12 @@
 [
     {
+        "title": "As Trump shouts fraud, EU breathes a sigh of relief: 'Brazil's democracy has won'",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/mens-trump-raaber-om-svindel-aander-eu-lettet-opbrasiliens-demokrati-har-vundet?referrer=RSS",
+        "published_date": "2026-10-26 16:30:41",
+        "category": "Diplomacy"
+    },
+    {
         "title": "War in Europe - follow here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-med-her-1?referrer=RSS",
@@ -105,11 +112,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "US Secretary of State: Settler attack on photographer is disturbing",
+        "title": "US Marine is indicted for killing Japanese woman",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/usa-s-udenrigsminister-bosaetteroverfald-mod-fotograf-er-foruroligende",
-        "published_date": "2026-10-18 04:47:17",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/amerikansk-marinesoldat-er-tiltalt-drab-paa-japansk-kvinde",
+        "published_date": "2026-10-26 07:40:47",
+        "category": "Military"
     },
     {
         "title": "Russia is awarded the first World Cup since the invasion of Ukraine",
@@ -203,13 +210,6 @@
         "category": "Military"
     },
     {
-        "title": "Media: At least seven dead in fire at Canadian military base",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/medie-mindst-syv-doede-i-brand-paa-canadisk-militaerbase?referrer=RSS",
-        "published_date": "2026-10-18 11:49:44",
-        "category": "Military"
-    },
-    {
         "title": "The leading team Herning continues its dominance in the ice hockey league",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/foererholdet-herning-fortsaetter-dominansen-i-ishockeyligaen?referrer=RSS",
@@ -287,157 +287,143 @@
         "category": "Economy"
     },
     {
-        "title": "Lars Fruergaard scores a new job",
+        "title": "Rammstein's frontman visits Denmark in his own name",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/rammsteins-frontmand-gaester-danmark-i-eget-navn?referrer=RSS",
+        "published_date": "2026-10-26 16:39:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Agriculture sues the board: Pig stop lacks legal authority",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/landbruget-staevner-styrelse-svinestop-mangler-lovhjemmel?referrer=RSS",
+        "published_date": "2026-10-26 16:36:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "After surgery, the Pope is expected to visit South America",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lars-fruergaard-scorer-nyt-job",
-        "published_date": "2026-10-18 16:32:34",
-        "category": "Economy"
-    },
-    {
-        "title": "304 companies, 22,000 jobs and 280 billion kroner.But almost none of it remained in Denmark",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/304-virksomheder-22000-job-og-280-milliarder-kroner-men-naesten-intet-af-det-blev-i-danmark?referrer=RSS",
-        "published_date": "2026-10-18 12:10:24",
-        "category": "Economy"
-    },
-    {
-        "title": "Lula beats Bolsonaro and gets re-elected as president of Brazil",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/lula-slaar-bolsonaro-og-faar-genvalg-som-praesident-i-brasilien?referrer=RSS",
-        "published_date": "2026-10-26 00:27:50",
+        "url": "https://www.dr.dk/nyheder/seneste/efter-operation-forventes-paven-besoege-sydamerika",
+        "published_date": "2026-10-26 16:23:08",
         "category": "Local Events"
     },
     {
-        "title": "President Lula beats Bolsonaro and wins the election in Brazil",
+        "title": "American documentary will have its Danish premiere next month",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/amerikansk-dokumentarhit-faar-dansk-premiere-i-naeste-maaned?referrer=RSS",
+        "published_date": "2026-10-26 16:15:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Berlingske believes: Netanyahu should not be part of Israel's future",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/ledere/berlingske-mener-netanyahu-boer-ikke-vaere-en-del-af-israels-fremtid?referrer=RSS",
+        "published_date": "2026-10-26 16:08:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "33-year-old arrested in action against illegal drugs",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/praesident-lula-slaar-bolsonaro-og-vinder-valget-i-brasilien",
-        "published_date": "2026-10-26 00:21:15",
+        "url": "https://www.dr.dk/nyheder/seneste/33-aarig-anholdt-i-aktion-mod-ulovlig-medicin",
+        "published_date": "2026-10-26 15:52:57",
         "category": "Local Events"
     },
     {
-        "title": "Netanyahu warns Iran against interfering with Israeli elections",
+        "title": "He died before he could finish writing the book.Still, it is a masterpiece",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/netanyahu-advarer-iran-mod-at-forstyrre-valget-i-israel?referrer=RSS",
-        "published_date": "2026-10-26 00:17:48",
+        "url": "https://www.berlingske.dk/litteratur/han-doede-foer-han-naaede-at-skrive-bogen-faerdig-alligevel-er-den-et-mestervaerk?referrer=RSS",
+        "published_date": "2026-10-26 15:50:56",
         "category": "Local Events"
     },
     {
-        "title": "Lula narrowly leads Bolsonaro in horror count in Brazil",
+        "title": "After concerns at Rigshospitalet, an investigation is launched",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/lula-foerer-snaevert-over-bolsonaro-i-gyseroptaelling-i-brasilien?referrer=RSS",
-        "published_date": "2026-10-25 23:40:48",
+        "url": "https://www.berlingske.dk/samfund/efter-bekymringer-paa-rigshospitalet-saettes-undersoegelse-i-gang?referrer=RSS",
+        "published_date": "2026-10-26 15:42:55",
         "category": "Local Events"
     },
     {
-        "title": "Trump calls Norway a \"shit country\" in speech",
+        "title": "Dramatic development in the case of the pig ban: Agriculture & Food is suing the state",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-kalder-norge-for-et-lorteland-i-tale?referrer=RSS",
-        "published_date": "2026-10-25 22:25:47",
+        "url": "https://www.berlingske.dk/virksomheder/dramatisk-udvikling-i-sagen-om-grisestoppet-landbrug-foedevarer-staevner-staten?referrer=RSS",
+        "published_date": "2026-10-26 15:36:01",
         "category": "Local Events"
     },
     {
-        "title": "Mbapp\u00e9 secures Real Madrid El Clasico triumph shortly before time",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/mbappe-sikrer-real-madrid-el-clasico-triumf-kort-foer-tid?referrer=RSS",
-        "published_date": "2026-10-25 22:08:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Antonelli is stumbling close to the World Cup title after a show of strength",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/antonelli-er-snublende-naer-vm-titel-efter-magtdemonstration?referrer=RSS",
-        "published_date": "2026-10-25 22:08:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Antonelli is stumbling close to the World Cup title after a show of strength",
+        "title": "Slovakia will develop cooperation with Russia",
         "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/antonelli-er-snublende-naer-vm-titel-efter-magtdemonstration",
-        "published_date": "2026-10-25 21:47:29",
+        "url": "https://www.dr.dk/nyheder/seneste/slovakiet-vil-udvikle-paa-samarbejdet-med-rusland",
+        "published_date": "2026-10-26 15:34:43",
         "category": "Local Events"
     },
     {
-        "title": "Police are warning residents in areas at risk of being under water",
+        "title": "Copenhagen Airport continues to warn of periods of longer waiting times",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politi-advarer-beboere-i-omraader-der-risikerer-at-staa-under-vand?referrer=RSS",
-        "published_date": "2026-10-25 21:03:45",
+        "url": "https://www.berlingske.dk/danmark/koebenhavns-lufthavn-varsler-fortsat-perioder-med-laengere-ventetid?referrer=RSS",
+        "published_date": "2026-10-26 15:31:45",
         "category": "Local Events"
     },
     {
-        "title": "The left's Amanda Heitmann will loyally follow the party's political line",
+        "title": "Business update: Genmab shares soar after 'unheard of strong data'",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/venstres-amanda-heitmann-vil-loyalt-foelge-partiets-politiske-linje?referrer=RSS",
-        "published_date": "2026-10-25 20:52:50",
+        "url": "https://www.berlingske.dk/oekonomi/business-updategenmab-aktie-skyder-i-vejret-efter-uhoert-staerke-data?referrer=RSS",
+        "published_date": "2026-10-26 15:31:22",
         "category": "Local Events"
     },
     {
-        "title": "Brazil's Supreme Court extends polling station opening hours by two hours",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/brasiliens-hoejesteret-udvider-valgsteders-aabningstid-med-to-timer?referrer=RSS",
-        "published_date": "2026-10-25 20:39:47",
+        "title": "Copenhagen Metro not suitable as bomb shelters without renovations",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261026/copenhagen-metro-not-suitable-as-bomb-shelters-without-renovations",
+        "published_date": "2026-10-26 15:24:35",
         "category": "Local Events"
     },
     {
-        "title": "Extended opening hours at polling stations in Brazil",
+        "title": "Smoked trout sold in Lidl recalled",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/udvidet-aabningstider-paa-valgsteder-i-brasilien",
-        "published_date": "2026-10-25 20:16:50",
+        "url": "https://www.dr.dk/nyheder/seneste/roeget-oerred-solgt-i-lidl-tilbagekaldt",
+        "published_date": "2026-10-26 14:55:16",
         "category": "Local Events"
     },
     {
-        "title": "Serbia reaches highest turnout in 34 years",
+        "title": "Another Aarhus intersection gets cameras",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/serbien-naar-hoejeste-valgdeltagelse-i-34-aar",
-        "published_date": "2026-10-25 19:13:34",
+        "url": "https://www.dr.dk/nyheder/seneste/endnu-et-aarhus-kryds-faar-kameraer-op",
+        "published_date": "2026-10-26 14:45:15",
         "category": "Local Events"
     },
     {
-        "title": "Tivoli honors Queen Margrethe for 25 years of effort",
+        "title": "The board publishes a guide for those particularly vulnerable after the CPR leak",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tivoli-haedrer-dronning-margrethe-25-aars-indsats",
-        "published_date": "2026-10-25 17:34:52",
+        "url": "https://www.dr.dk/nyheder/seneste/styrelse-udgiver-guide-til-saerligt-udsatte-efter-cpr-laek",
+        "published_date": "2026-10-26 14:21:31",
         "category": "Local Events"
     },
     {
-        "title": "Companies should investigate systems for data breaches",
+        "title": "Crane at risk of collapsing in central Oslo: Several buildings have been evacuated",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/virksomheder-boer-undersoege-systemer-efter-datalaek",
-        "published_date": "2026-10-25 17:05:09",
+        "url": "https://www.dr.dk/nyheder/seneste/kran-i-risiko-kollapse-i-det-centrale-oslo-flere-bygninger-er-evakueret",
+        "published_date": "2026-10-26 13:15:12",
         "category": "Local Events"
     },
     {
-        "title": "Venezuelan opposition leader is back in his homeland",
+        "title": "The right (and wrong) way to use reflectors during Denmark's dark months",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261026/the-right-and-wrong-way-to-use-reflectors-during-denmarks-dark-months",
+        "published_date": "2026-10-26 12:53:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tuborg money must get young people engaged in democracy",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/venezuelansk-oppositionsleder-er-tilbage-i-sit-hjemland",
-        "published_date": "2026-10-25 16:44:12",
+        "url": "https://www.dr.dk/nyheder/seneste/tuborg-penge-skal-faa-unge-engageret-i-demokratiet",
+        "published_date": "2026-10-26 11:20:50",
         "category": "Local Events"
     },
     {
-        "title": "100 years before \u00bbGame of Thrones\u00ab and \u00bbVikings\u00ab, Danish artist couples were obsessed with kings, heroes and myths.But does their art hold up today?",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kunst/100-aar-foer-game-of-thrones-og-vikings-var-dansk-kunstnerpar-besat-af-konger-helte-og-myter-men-holder-deres-kunst-i-dag?referrer=RSS",
-        "published_date": "2026-10-25 14:35:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sheffield Wednesday sacks Danish head coach",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/sheffield-wednesday-fyrer-dansk-cheftraener?referrer=RSS",
-        "published_date": "2026-10-25 14:34:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news from the USA and American politics - stay tuned here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/seneste-nyt-fra-usa-og-amerikansk-politik--foelg-med-her-18?referrer=RSS",
-        "published_date": "2026-10-25 14:20:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news about Danish politics - follow the development here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-37?referrer=RSS",
-        "published_date": "2026-10-25 14:10:46",
+        "title": "Chickens in the backyard must be protected from infection by wild birds",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/hoens-i-baghaven-skal-beskyttes-mod-vilde-fugles-smitte",
+        "published_date": "2026-10-26 09:14:56",
         "category": "Local Events"
     }
 ]
