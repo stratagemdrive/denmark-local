@@ -1,5 +1,12 @@
 [
     {
+        "title": "What the EU's new banking law means for foreigners in Denmark",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261027/what-the-eus-new-banking-law-means-for-foreigners-in-denmark",
+        "published_date": "2026-10-27 11:21:52",
+        "category": "Diplomacy"
+    },
+    {
         "title": "UN: Serious concern about ethnic cleansing in the West Bank",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/fn-alvorlig-bekymring-etnisk-udrensning-paa-vestbredden",
@@ -117,6 +124,13 @@
         "url": "https://www.berlingske.dk/indland/eu-kommissionen-med-ny-strategi-for-arktis-nej-til-nye-olie-og-gasboringer-i-arktis?referrer=RSS",
         "published_date": "2026-10-20 15:08:15",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Two men are charged in connection with an incident at a British military base",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/maend-tiltales-i-sag-om-haendelse-ved-britisk-militaerbase",
+        "published_date": "2026-10-27 09:50:17",
+        "category": "Military"
     },
     {
         "title": "Cease fire goes into effect in Russian-occupied city in southern Ukraine",
@@ -273,150 +287,143 @@
         "category": "Economy"
     },
     {
-        "title": "Business update: After price drop and new strategy, Novo's management is criticized - has not bought shares itself for two years",
+        "title": "Preben Bang Henriksen has been kicked out of the Liberal parliamentary group",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/business-updateefter-kursfald-og-ny-strategi-kritiseres-novos-ledelse--har-ikke-selv-koebt-aktier-i-to-aar?referrer=RSS",
-        "published_date": "2026-10-19 15:36:02",
-        "category": "Economy"
-    },
-    {
-        "title": "Kane after Ballon d'Or triumph: Anything is possible",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kane-efter-ballon-dor-triumf-alt-er-muligt?referrer=RSS",
-        "published_date": "2026-10-27 00:42:46",
+        "url": "https://www.berlingske.dk/indland/preben-bang-henriksen-er-blevet-smidt-ud-af-venstres-folketingsgruppe?referrer=RSS",
+        "published_date": "2026-10-27 16:01:41",
         "category": "Local Events"
     },
     {
-        "title": "Bolsonaro's party admits electoral defeat in Brazil",
+        "title": "Preben Bang Henriksen: I have been thrown out of Venstre",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/bolsonaros-parti-anerkender-valgnederlag-i-brasilien?referrer=RSS",
-        "published_date": "2026-10-27 00:12:46",
+        "url": "https://www.berlingske.dk/politik/preben-bang-henriksen-jeg-er-smidt-ud-af-venstre?referrer=RSS",
+        "published_date": "2026-10-27 15:58:43",
         "category": "Local Events"
     },
     {
-        "title": "FACTS: The last ten years of Ballon d'Or winners",
+        "title": "Danish publishers are fighting for \"the human-made book\" - banning employees from using artificial intelligence",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fakta-de-seneste-ti-aars-vindere-af-ballon-dor-2?referrer=RSS",
-        "published_date": "2026-10-26 23:34:51",
+        "url": "https://www.berlingske.dk/litteratur/danske-forlag-gaar-til-kamp-for-den-menneskeskabte-bog--forbyder-ansatte-at-bruge-kunstig-intelligens?referrer=RSS",
+        "published_date": "2026-10-27 15:47:25",
         "category": "Local Events"
     },
     {
-        "title": "The Trump administration is prosecuting former FBI chief for the third time",
+        "title": "Berlingske believes:\u00a0Stop the smoldering with the purchase of new warships",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-administrationen-retsforfoelger-tidligere-fbi-chef-for-tredje-gang?referrer=RSS",
-        "published_date": "2026-10-26 23:34:46",
+        "url": "https://www.berlingske.dk/laesere/berlingske-menerstands-smoeleriet-med-indkoeb-af-nye-krigsskibe?referrer=RSS",
+        "published_date": "2026-10-27 15:37:06",
         "category": "Local Events"
     },
     {
-        "title": "The leader of Bolsonaro's party acknowledges Brazilian election defeat",
+        "title": "Preben Bang on possible exclusion from V: Points in that direction",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/preben-bang-om-mulig-eksklusion-fra-v-peger-i-den-retning?referrer=RSS",
+        "published_date": "2026-10-27 15:28:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Liberal politician announces landmark meeting after disagreement",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/venstre-politiker-varsler-skelsaettende-moede-efter-uenighed?referrer=RSS",
+        "published_date": "2026-10-27 15:28:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Danish words you need to learn during cold and flu season",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261027/the-danish-words-you-need-to-learn-during-cold-and-flu-season",
+        "published_date": "2026-10-27 15:27:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cord sets with sockets are recalled - risk of electric shock",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/ledningssaet-med-stikdaaser-tilbagekaldes-risiko-for-elektrisk-stoed?referrer=RSS",
+        "published_date": "2026-10-27 15:25:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of Ebola cases in DR Congo exceeds 10,000",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/antallet-af-ebolatilfaelde-i-dr-congo-passerer-10000?referrer=RSS",
+        "published_date": "2026-10-27 15:22:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hummelgaard opens public debate.Several possible dates for the new big day of prayer",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/hummelgaard-aabner-folkelig-debat-flere-mulige-datoer-til-ny-store-bededag?referrer=RSS",
+        "published_date": "2026-10-27 15:22:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cord sets with sockets are recalled - risk of electric shock",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/lederen-af-bolsonaros-parti-anerkender-brasiliansk-valgnederlag",
-        "published_date": "2026-10-26 23:16:55",
+        "url": "https://www.dr.dk/nyheder/seneste/ledningssaet-med-stikdaaser-tilbagekaldes-risiko-elektrisk-stoed",
+        "published_date": "2026-10-27 15:18:25",
         "category": "Local Events"
     },
     {
-        "title": "Harry Kane wins the Ballon d'Or for the first time",
+        "title": "43-year-old convicted of nine-year-old rape after DNA match",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/harry-kane-vinder-ballon-dor-for-foerste-gang?referrer=RSS",
-        "published_date": "2026-10-26 23:13:46",
+        "url": "https://www.berlingske.dk/indland/43-aarig-doemt-for-ni-aar-gammel-voldtaegt-efter-dna-match?referrer=RSS",
+        "published_date": "2026-10-27 15:15:46",
         "category": "Local Events"
     },
     {
-        "title": "Rodr\u00edguez criticizes the return of opposition leaders to Venezuela",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rodriguez-kritiserer-oppositionsleders-tilbagevenden-til-venezuela?referrer=RSS",
-        "published_date": "2026-10-26 23:10:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "FACTS: This is how the awards were distributed at the Ballon d'Or party",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/fakta-saadan-blev-priserne-fordelt-ved-ballon-dor-fest?referrer=RSS",
-        "published_date": "2026-10-26 23:03:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge rejects Novo's request to ban Eli Lilly ads",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/dommer-afviser-novos-anmodning-om-forbud-mod-eli-lilly-reklamer?referrer=RSS",
-        "published_date": "2026-10-26 22:59:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "81-year-old ghost driver charged with reckless driving",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/81-aarig-spoegelsesbilist-sigtet-for-vanvidskoersel?referrer=RSS",
-        "published_date": "2026-10-26 22:39:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The University of Copenhagen exposed to a new hacker attack",
+        "title": "43-year-old convicted of nine-year-old rape after DNA match",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/koebenhavns-universitet-udsat-nyt-hackerangreb",
-        "published_date": "2026-10-26 17:23:10",
+        "url": "https://www.dr.dk/nyheder/seneste/43-aarig-doemt-ni-aar-gammel-voldtaegt-efter-dna-match",
+        "published_date": "2026-10-27 15:11:37",
         "category": "Local Events"
     },
     {
-        "title": "Rammstein's frontman visits Denmark in his own name",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/rammsteins-frontmand-gaester-danmark-i-eget-navn?referrer=RSS",
-        "published_date": "2026-10-26 16:39:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Agriculture sues the board: Pig stop lacks legal authority",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/landbruget-staevner-styrelse-svinestop-mangler-lovhjemmel?referrer=RSS",
-        "published_date": "2026-10-26 16:36:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "After surgery, the Pope is expected to visit South America",
+        "title": "High Court upholds sentence for sending daughters on a re-education trip",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/efter-operation-forventes-paven-besoege-sydamerika",
-        "published_date": "2026-10-26 16:23:08",
+        "url": "https://www.dr.dk/nyheder/seneste/landsret-stadfaester-dom-sende-doetre-paa-genopdragelsesrejse",
+        "published_date": "2026-10-27 14:50:17",
         "category": "Local Events"
     },
     {
-        "title": "American documentary will have its Danish premiere next month",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/amerikansk-dokumentarhit-faar-dansk-premiere-i-naeste-maaned?referrer=RSS",
-        "published_date": "2026-10-26 16:15:48",
+        "title": "Denmark's preliminary tax assessments to open two weeks late next month",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261027/denmarks-preliminary-tax-assessments-to-open-two-weeks-late-next-month",
+        "published_date": "2026-10-27 14:01:02",
         "category": "Local Events"
     },
     {
-        "title": "Berlingske believes: Netanyahu should not be part of Israel's future",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/ledere/berlingske-mener-netanyahu-boer-ikke-vaere-en-del-af-israels-fremtid?referrer=RSS",
-        "published_date": "2026-10-26 16:08:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "33-year-old arrested in action against illegal drugs",
+        "title": "Man from Holb\u00e6k convicted of smuggling half a ton of hashish",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/33-aarig-anholdt-i-aktion-mod-ulovlig-medicin",
-        "published_date": "2026-10-26 15:52:57",
+        "url": "https://www.dr.dk/nyheder/seneste/mand-fra-holbaek-doemt-indsmugling-af-et-halvt-ton-hash",
+        "published_date": "2026-10-27 13:00:07",
         "category": "Local Events"
     },
     {
-        "title": "He died before he could finish writing the book.Still, it is a masterpiece",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/litteratur/han-doede-foer-han-naaede-at-skrive-bogen-faerdig-alligevel-er-den-et-mestervaerk?referrer=RSS",
-        "published_date": "2026-10-26 15:50:56",
+        "title": "Ramb\u00f8ll fires 400 in the management corridors",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ramboell-fyrer-400-paa-ledelsesgangene",
+        "published_date": "2026-10-27 12:12:21",
         "category": "Local Events"
     },
     {
-        "title": "After concerns at Rigshospitalet, an investigation is launched",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/efter-bekymringer-paa-rigshospitalet-saettes-undersoegelse-i-gang?referrer=RSS",
-        "published_date": "2026-10-26 15:42:55",
+        "title": "Meghan Markle will be a guest host on Australian Masterchef",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/meghan-markle-skal-vaere-gaestevaert-paa-australsk-masterchef",
+        "published_date": "2026-10-27 08:54:13",
         "category": "Local Events"
     },
     {
-        "title": "Dramatic development in the case of the pig ban: Agriculture & Food is suing the state",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/dramatisk-udvikling-i-sagen-om-grisestoppet-landbrug-foedevarer-staevner-staten?referrer=RSS",
-        "published_date": "2026-10-26 15:36:01",
+        "title": "DR Congo has over 10,000 confirmed Ebola victims",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/dr-congo-har-over-10-000-bekraeftede-ebola-ramte",
+        "published_date": "2026-10-27 08:49:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261027/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-70",
+        "published_date": "2026-10-27 08:19:05",
         "category": "Local Events"
     }
 ]
