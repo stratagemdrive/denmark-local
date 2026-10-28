@@ -1,5 +1,12 @@
 [
     {
+        "title": "Argument between Cuba and the US interrupts debate at the UN",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/skaenderi-mellem-cuba-og-usa-afbryder-debat-i-fn?referrer=RSS",
+        "published_date": "2026-10-27 22:28:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "What the EU's new banking law means for foreigners in Denmark",
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20261027/what-the-eus-new-banking-law-means-for-foreigners-in-denmark",
@@ -252,13 +259,6 @@
         "category": "Energy"
     },
     {
-        "title": "Tottenham takes first league win of the season against promotion",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/tottenham-tager-foerste-ligasejr-i-saesonen-mod-oprykker?referrer=RSS",
-        "published_date": "2026-10-19 22:07:00",
-        "category": "Energy"
-    },
-    {
         "title": "We are scared out of our wits.But what does it really cost when the network goes down?",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kommentar/vi-er-skraemt-fra-vid-og-sans-men-hvad-koster-det-egentlig-naar-nettet-gaar-ned?referrer=RSS",
@@ -280,11 +280,81 @@
         "category": "Economy"
     },
     {
-        "title": "Martin \u00c5gerup: We spend billions on more bureaucracy \u2013 but what do we get out of it?",
+        "title": "Egyptian court orders internationally recognized media closed",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/martin-aagerup-vi-bruger-milliarder-paa-mere-bureaukrati--men-hvad-faar-vi-ud-af-det?referrer=RSS",
-        "published_date": "2026-10-19 21:38:33",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/internationalt/egyptisk-domstol-beordrer-internationalt-anerkendt-medie-lukket?referrer=RSS",
+        "published_date": "2026-10-28 01:24:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israeli opposition candidate calls on Netanyahu to resign",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/israelsk-oppositionskandidat-opfordrer-netanyahu-til-at-traede-tilbage?referrer=RSS",
+        "published_date": "2026-10-28 00:22:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former grand slam winner ends tennis career",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/tidligere-grand-slam-vinder-stopper-tenniskarrieren?referrer=RSS",
+        "published_date": "2026-10-28 00:18:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "DNA test links American serial killer to murder of 17-year-old girl in 1974",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/dna-test-knytter-amerikansk-seriemorder-til-drab-paa-17-aarig-pige-i-1974?referrer=RSS",
+        "published_date": "2026-10-27 23:40:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Arab party leader hopes to secure majority with opposition in Israel",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/arabisk-partileder-haaber-at-kunne-sikre-flertal-med-opposition-i-israel?referrer=RSS",
+        "published_date": "2026-10-27 22:57:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Musk's AI-generated series based on the \"Odyssey\" draws criticism from reviewers",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/musks-ai-genererede-serie-baseret-paa-odysseen-faar-kritik-af-anmeldere?referrer=RSS",
+        "published_date": "2026-10-27 22:48:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fourth Division teams send Arsenal out of the League Cup",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fjerdedivisionshold-sender-arsenal-ud-af-liga-cup?referrer=RSS",
+        "published_date": "2026-10-27 22:22:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Comedian Ray Samson wins this year's DM in stand-up",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/komiker-ray-samson-vinder-aarets-dm-i-standup?referrer=RSS",
+        "published_date": "2026-10-27 21:46:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Restaurants in Sardinia prohibit families from bringing screens to the table",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/restauranter-paa-sardinien-forbyder-familier-have-skaerme-med-til-bords",
+        "published_date": "2026-10-27 21:00:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Animals get sick, calves are born with injuries and a man was infected: what you need to know about the new virus",
+        "source": "JydskeVestkysten",
+        "url": "https://jv.dk/varde/en-franskmand-doede-med-virusset-men-en-anden-gaade-optager-forskeren-rene?rss",
+        "published_date": "2026-10-27 18:41:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Slovenia has said goodbye to glaciers on the country's highest mountain after a hot summer",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/slovenien-har-sagt-farvel-til-gletscher-paa-landets-hoejeste-bjerg-efter-varm-sommer",
+        "published_date": "2026-10-27 18:26:04",
+        "category": "Local Events"
     },
     {
         "title": "Preben Bang Henriksen has been kicked out of the Liberal parliamentary group",
@@ -347,83 +417,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/antallet-af-ebolatilfaelde-i-dr-congo-passerer-10000?referrer=RSS",
         "published_date": "2026-10-27 15:22:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hummelgaard opens public debate.Several possible dates for the new big day of prayer",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/hummelgaard-aabner-folkelig-debat-flere-mulige-datoer-til-ny-store-bededag?referrer=RSS",
-        "published_date": "2026-10-27 15:22:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cord sets with sockets are recalled - risk of electric shock",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ledningssaet-med-stikdaaser-tilbagekaldes-risiko-elektrisk-stoed",
-        "published_date": "2026-10-27 15:18:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "43-year-old convicted of nine-year-old rape after DNA match",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/43-aarig-doemt-for-ni-aar-gammel-voldtaegt-efter-dna-match?referrer=RSS",
-        "published_date": "2026-10-27 15:15:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "43-year-old convicted of nine-year-old rape after DNA match",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/43-aarig-doemt-ni-aar-gammel-voldtaegt-efter-dna-match",
-        "published_date": "2026-10-27 15:11:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "High Court upholds sentence for sending daughters on a re-education trip",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/landsret-stadfaester-dom-sende-doetre-paa-genopdragelsesrejse",
-        "published_date": "2026-10-27 14:50:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Denmark's preliminary tax assessments to open two weeks late next month",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261027/denmarks-preliminary-tax-assessments-to-open-two-weeks-late-next-month",
-        "published_date": "2026-10-27 14:01:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man from Holb\u00e6k convicted of smuggling half a ton of hashish",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-fra-holbaek-doemt-indsmugling-af-et-halvt-ton-hash",
-        "published_date": "2026-10-27 13:00:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ramb\u00f8ll fires 400 in the management corridors",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ramboell-fyrer-400-paa-ledelsesgangene",
-        "published_date": "2026-10-27 12:12:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Meghan Markle will be a guest host on Australian Masterchef",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/meghan-markle-skal-vaere-gaestevaert-paa-australsk-masterchef",
-        "published_date": "2026-10-27 08:54:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "DR Congo has over 10,000 confirmed Ebola victims",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dr-congo-har-over-10-000-bekraeftede-ebola-ramte",
-        "published_date": "2026-10-27 08:49:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261027/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-70",
-        "published_date": "2026-10-27 08:19:05",
         "category": "Local Events"
     }
 ]
