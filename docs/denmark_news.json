@@ -1,5 +1,12 @@
 [
     {
+        "title": "Finnish foreign minister to meet with Rubio about the war in Ukraine",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/finsk-udenrigsminister-skal-moedes-med-rubio-om-krigen-i-ukraine?referrer=RSS",
+        "published_date": "2026-10-29 01:02:45",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Personal Freud letters come up for auction",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/personlige-freud-breve-kommer-paa-auktion",
@@ -119,13 +126,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Demands from Nato can pave the way for a new Little Belt Bridge",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/fyn/krav-fra-nato-kan-bane-vej-for-ny-lillebaeltsbro?rss",
-        "published_date": "2026-10-20 19:00:00",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Democrats have spent millions of dollars on scathing TV ads like this one \u2014 and its message is causing serious concern among Trump's mates",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/demokraterne-har-brugt-millioner-af-dollar-paa-bidske-tv-reklamer-som-den-her--og-dens-budskab-vaekker-alvorlig-bekymring-blandt-trumps-partifaeller?referrer=RSS",
@@ -217,18 +217,11 @@
         "category": "Military"
     },
     {
-        "title": "Hegseth: The US does not have a limited satellite system for Ukraine",
+        "title": "Britain's Chancellor of the Exchequer will provide financial help after rising energy prices",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hegseth-usa-har-ikke-begraenset-satellitsystem-ukraine",
-        "published_date": "2026-10-20 22:19:41",
-        "category": "Military"
-    },
-    {
-        "title": "Hegseth: The US does not have a limited satellite system for Ukraine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/hegseth-usa-har-ikke-begraenset-satellitsystem-for-ukraine?referrer=RSS",
-        "published_date": "2026-10-20 21:02:49",
-        "category": "Military"
+        "url": "https://www.dr.dk/nyheder/seneste/storbritanniens-finansminister-vil-give-oekonomisk-hjaelp-efter-stigende-energipriser",
+        "published_date": "2026-10-28 19:29:50",
+        "category": "Energy"
     },
     {
         "title": "The leading team Herning continues its dominance in the ice hockey league",
@@ -287,6 +280,90 @@
         "category": "Economy"
     },
     {
+        "title": "High demand for AI chips ensures Samsung record profits",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/stor-efterspoergsel-paa-ai-chips-sikrer-samsung-rekordoverskud?referrer=RSS",
+        "published_date": "2026-10-29 01:54:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "City coach admits lack of practice from penalty spot",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/city-traener-erkender-manglende-traening-fra-straffesparkspletten?referrer=RSS",
+        "published_date": "2026-10-29 00:41:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are looking for two boys after a knife attack in Lyngby",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/politiet-leder-efter-drenge-efter-knivoverfald-i-lyngby",
+        "published_date": "2026-10-29 00:21:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "The police are looking for two boys after a knife attack in Lyngby",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/politiet-leder-efter-to-drenge-efter-knivoverfald-i-lyngby?referrer=RSS",
+        "published_date": "2026-10-29 00:20:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Albania introduces fines for violent protesters",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/albanien-indfoerer-boeder-til-voldelige-demonstranter?referrer=RSS",
+        "published_date": "2026-10-29 00:14:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazilian election chief: Presidential election was by the book",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/brasiliansk-valgchef-praesidentvalg-foregik-efter-bogen?referrer=RSS",
+        "published_date": "2026-10-28 23:24:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazilian electoral authority after presidential election: All rules were met",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/brasiliansk-valgmyndighed-efter-praesidentvalg-alle-regler-blev-opfyldt",
+        "published_date": "2026-10-28 22:48:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Google shares fall ten percent after disappointing financial figures",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/google-aktie-falder-ti-procent-efter-skuffende-regnskabstal?referrer=RSS",
+        "published_date": "2026-10-28 22:33:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "City and Liverpool kick each other in the cup quarter-finals from the spot",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/city-og-liverpool-sparker-sig-i-pokalkvartfinale-fra-pletten?referrer=RSS",
+        "published_date": "2026-10-28 22:23:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holger Rune breaks Polish serving machine into three sets",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/holger-rune-knaekker-polsk-servemaskine-i-tre-saet?referrer=RSS",
+        "published_date": "2026-10-28 22:23:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fl\u00e1vio Bolsonaro claims he is the elected president of Brazil",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/flavio-bolsonaro-haevder-han-er-brasiliens-valgte-praesident?referrer=RSS",
+        "published_date": "2026-10-28 21:58:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bolsonaro speaks out on X after election defeat",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bolsonaro-jeg-er-den-valgte-praesident",
+        "published_date": "2026-10-28 20:55:14",
+        "category": "Local Events"
+    },
+    {
         "title": "Genmab shares soar after new trial results",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/genmab-aktie-skyder-i-vejret-efter-nye-forsoegsresultater?referrer=RSS",
@@ -340,90 +417,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/business/koebenhavns-lufthavn-fik-paabud-om-sikkerhed-6-oktober?referrer=RSS",
         "published_date": "2026-10-28 15:24:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "65-year-old man remanded in custody in case of assault against his daughter",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/65-aarig-mand-varetaegtsfaengslet-i-sag-om-overgreb-mod-sin-datter",
-        "published_date": "2026-10-28 15:15:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Payments between Nordic countries still expensive despite close ties",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261028/payments-between-nordic-countries-still-expensive-despite-close-ties",
-        "published_date": "2026-10-28 14:05:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish Oscar winner to film Tine Bryld books",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dansk-oscar-modtager-skal-filmatisere-tine-bryld-boeger",
-        "published_date": "2026-10-28 13:57:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minced chili is recalled due to excessive heavy metal content",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/hakket-chili-tilbagekaldes-paa-grund-af-hoejt-indhold-af-tungmetal",
-        "published_date": "2026-10-28 13:56:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen Airport received security orders two days before long queues",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/forud-lang-koeer-koebenhavns-lufthavn-fik-paabud-om-sikkerhed",
-        "published_date": "2026-10-28 13:05:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Top MP kicked out of Denmark's Liberal party for rejecting party line",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261028/top-mp-kicked-out-of-denmarks-liberal-party-for-rejecting-party-line",
-        "published_date": "2026-10-28 12:11:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Broad majority in Danish parliament in favour of 'turbo chicken' ban",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261028/broad-majority-in-danish-parliament-in-favour-of-turbo-chicken-ban",
-        "published_date": "2026-10-28 11:40:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former football coach for children is sentenced for filming in the dressing room",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-fodboldtraener-boern-doemmes-filme-i-omklaedningsrummet",
-        "published_date": "2026-10-28 11:21:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Air traffic over Copenhagen Airport was stopped for half an hour",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/flytrafik-over-koebenhavns-lufthavn-var-standset-i-en-halv-time",
-        "published_date": "2026-10-28 09:42:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Collision between trains in Spain comes nine months after second major train accident",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tog-er-kollideret-i-spanien-togtrafik-indstillet",
-        "published_date": "2026-10-28 09:03:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "NSK: 'Cynical criminals' target the elderly in grief",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nsk-kyniske-kriminelle-gaar-maalrettet-efter-aeldre-i-sorg",
-        "published_date": "2026-10-28 08:57:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Wednesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261028/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-77",
-        "published_date": "2026-10-28 08:32:09",
         "category": "Local Events"
     }
 ]
