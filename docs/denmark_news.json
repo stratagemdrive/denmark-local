@@ -1,5 +1,26 @@
 [
     {
+        "title": "EU and Canada to bring ties to 'highest' possible level at summit",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261029/eu-and-canada-to-bring-ties-to-highest-possible-level-at-summit",
+        "published_date": "2026-10-29 17:18:16",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The European Central Bank maintains the interest rate",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/europaeisk-centralbank-fastholder-renten",
+        "published_date": "2026-10-29 14:27:07",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Upper secondary school students' written Danish skills continue to fall",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261029/upper-secondary-school-students-written-danish-skills-continue-to-fall",
+        "published_date": "2026-10-29 12:04:34",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Finnish foreign minister to meet with Rubio about the war in Ukraine",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/finsk-udenrigsminister-skal-moedes-med-rubio-om-krigen-i-ukraine?referrer=RSS",
@@ -98,32 +119,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "How Denmark became the sperm donation capital of the\u00a0world",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261021/how-denmark-became-the-sperm-donation-capital-of-the-world",
-        "published_date": "2026-10-21 14:54:36",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Queen Mary participates in the UN climate summit in Turkey",
+        "title": "PET issues a warning to Ukrainians in Denmark",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/dronning-mary-deltager-i-fn-s-klimatopmoede-i-tyrkiet",
-        "published_date": "2026-10-21 14:01:32",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "MEPs urge EU ministers to act and bring an end to seasonal clock changes",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261021/meps-urge-eu-ministers-to-act-and-bring-end-to-seasonal-clock-changes",
-        "published_date": "2026-10-21 13:44:53",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The EU increases the pressure on international partners for contributions to Ukraine",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-oeger-presset-paa-internationale-partnere-bidrag-til-ukraine",
-        "published_date": "2026-10-21 08:25:25",
-        "category": "Diplomacy"
+        "url": "https://www.dr.dk/nyheder/seneste/pet-kommer-med-advarsel-til-ukrainere-i-danmark",
+        "published_date": "2026-10-29 11:03:48",
+        "category": "Military"
     },
     {
         "title": "Democrats have spent millions of dollars on scathing TV ads like this one \u2014 and its message is causing serious concern among Trump's mates",
@@ -210,11 +210,11 @@
         "category": "Military"
     },
     {
-        "title": "Russia says it is ready to resume negotiations with the US and Ukraine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/rusland-melder-klar-til-at-genoptage-forhandlinger-med-usa-og-ukraine?referrer=RSS",
-        "published_date": "2026-10-21 14:53:46",
-        "category": "Military"
+        "title": "Investigation in case from 2023 against energy traders to be resumed",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/efterforskning-i-sag-fra-2023-mod-energihandlere-skal-genoptages",
+        "published_date": "2026-10-29 16:34:03",
+        "category": "Energy"
     },
     {
         "title": "Britain's Chancellor of the Exchequer will provide financial help after rising energy prices",
@@ -245,13 +245,6 @@
         "category": "Energy"
     },
     {
-        "title": "Britain approves gas field in the North Sea",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/storbritannien-godkender-gasfelt-i-nordsoeen",
-        "published_date": "2026-10-21 07:15:50",
-        "category": "Energy"
-    },
-    {
         "title": "Business update: Alm.Brand lays off 55 after record accounting",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/business-update-alm-brand-fyrer-55-efter-rekordregnskab?referrer=RSS",
@@ -266,157 +259,143 @@
         "category": "Economy"
     },
     {
-        "title": "Pelle Dragsted's tax hammer will hit successful companies: \"The proposal is pure poison\"",
+        "title": "Board: Three special functions are affected by unrest at Rigshospitalet",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/pelle-dragsteds-skattehammer-skal-ramme-succesfulde-virksomheder-forslaget-er-den-rene-gift?referrer=RSS",
-        "published_date": "2026-10-21 15:27:56",
-        "category": "Economy"
+        "url": "https://www.berlingske.dk/danmark/styrelse-tre-specialfunktioner-er-paavirket-af-uro-paa-rigshospitalet?referrer=RSS",
+        "published_date": "2026-10-29 17:07:45",
+        "category": "Local Events"
     },
     {
-        "title": "New multi-million dollar project to strengthen the quality of vocational training",
+        "title": "Comedian cheated with film project must develop real feature film",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/komiker-snydt-med-filmprojekt-skal-udvikle-rigtig-spillefilm?referrer=RSS",
+        "published_date": "2026-10-29 17:04:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serious traffic accident blocks country road south of Grindsted",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/alvorligt-trafikuheld-spaerrer-landevej-syd-for-grindsted?referrer=RSS",
+        "published_date": "2026-10-29 17:04:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Investigation resumes in case of million-dollar fraud on the electricity market",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/efterforskning-genoptages-i-sag-om-millionsvindel-paa-elmarkedet?referrer=RSS",
+        "published_date": "2026-10-29 17:00:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drive, was the order.Then the train set off at 200 kilometers per hour and headed for death",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/koer-loed-ordren-saa-satte-toget-i-gang-med-200-kilometer-i-timen-og-kurs-mod-doeden?referrer=RSS",
+        "published_date": "2026-10-29 16:52:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Company owned by ISS played a role in deadly fire in Hong Kong",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/selskab-ejet-af-iss-spillede-en-rolle-i-doedsbrand-i-hongkong?referrer=RSS",
+        "published_date": "2026-10-29 16:49:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ida Jessen's saturated slow-motion novel about Ann Barbara vibrates with details and intense scenes",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/litteratur/ida-jessens-maettede-slowmotion-roman-om-ann-barbara-sitrer-af-detaljer-og-intense-scener?referrer=RSS",
+        "published_date": "2026-10-29 16:48:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rumors of sacking bounce off pressured United coach",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/fyringsrygter-preller-af-paa-presset-united-traener?referrer=RSS",
+        "published_date": "2026-10-29 16:38:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "He is the most powerful man in Venstre's northern Jutland hinterland: \"Preben Bang himself chose to be excluded\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/han-er-den-mest-magtfulde-mand-i-venstres-nordjyske-bagland-preben-bang-valgte-selv-at-blive-ekskluderet?referrer=RSS",
+        "published_date": "2026-10-29 16:23:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorway reopens after accident with burning pig transport",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nyt-millionprojekt-skal-styrke-kvaliteten-paa-erhvervsuddannelserne",
-        "published_date": "2026-10-21 07:41:39",
-        "category": "Economy"
-    },
-    {
-        "title": "High demand for AI chips ensures Samsung record profits",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/stor-efterspoergsel-paa-ai-chips-sikrer-samsung-rekordoverskud?referrer=RSS",
-        "published_date": "2026-10-29 01:54:46",
+        "url": "https://www.dr.dk/nyheder/seneste/motorvej-genaabner-efter-ulykke-med-braendende-grisetransport",
+        "published_date": "2026-10-29 15:44:41",
         "category": "Local Events"
     },
     {
-        "title": "City coach admits lack of practice from penalty spot",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/city-traener-erkender-manglende-traening-fra-straffesparkspletten?referrer=RSS",
-        "published_date": "2026-10-29 00:41:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The police are looking for two boys after a knife attack in Lyngby",
+        "title": "Agriculture & Food is firing and changing management",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/politiet-leder-efter-drenge-efter-knivoverfald-i-lyngby",
-        "published_date": "2026-10-29 00:21:41",
+        "url": "https://www.dr.dk/nyheder/seneste/landbrug-foedevarer-fyrer-og-omrokerer-i-ledelsen",
+        "published_date": "2026-10-29 15:41:54",
         "category": "Local Events"
     },
     {
-        "title": "The police are looking for two boys after a knife attack in Lyngby",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/politiet-leder-efter-to-drenge-efter-knivoverfald-i-lyngby?referrer=RSS",
-        "published_date": "2026-10-29 00:20:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Albania introduces fines for violent protesters",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/albanien-indfoerer-boeder-til-voldelige-demonstranter?referrer=RSS",
-        "published_date": "2026-10-29 00:14:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazilian election chief: Presidential election was by the book",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/brasiliansk-valgchef-praesidentvalg-foregik-efter-bogen?referrer=RSS",
-        "published_date": "2026-10-28 23:24:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazilian electoral authority after presidential election: All rules were met",
+        "title": "Former top lawyer appeals prison sentence",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/brasiliansk-valgmyndighed-efter-praesidentvalg-alle-regler-blev-opfyldt",
-        "published_date": "2026-10-28 22:48:16",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-topadvokat-anker-faengselsstraf",
+        "published_date": "2026-10-29 15:41:11",
         "category": "Local Events"
     },
     {
-        "title": "Google shares fall ten percent after disappointing financial figures",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/google-aktie-falder-ti-procent-efter-skuffende-regnskabstal?referrer=RSS",
-        "published_date": "2026-10-28 22:33:43",
+        "title": "Many Danish companies want to help in a crisis but don't know how",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261029/many-danish-companies-want-to-help-in-a-crisis-but-dont-know-how",
+        "published_date": "2026-10-29 14:57:58",
         "category": "Local Events"
     },
     {
-        "title": "City and Liverpool kick each other in the cup quarter-finals from the spot",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/city-og-liverpool-sparker-sig-i-pokalkvartfinale-fra-pletten?referrer=RSS",
-        "published_date": "2026-10-28 22:23:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Holger Rune breaks Polish serving machine into three sets",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/holger-rune-knaekker-polsk-servemaskine-i-tre-saet?referrer=RSS",
-        "published_date": "2026-10-28 22:23:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fl\u00e1vio Bolsonaro claims he is the elected president of Brazil",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/flavio-bolsonaro-haevder-han-er-brasiliens-valgte-praesident?referrer=RSS",
-        "published_date": "2026-10-28 21:58:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bolsonaro speaks out on X after election defeat",
+        "title": "Denmark takes over the presidency of the Nordic Council",
         "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bolsonaro-jeg-er-den-valgte-praesident",
-        "published_date": "2026-10-28 20:55:14",
+        "url": "https://www.dr.dk/nyheder/seneste/danmark-overtager-formandskab-i-nordisk-raad",
+        "published_date": "2026-10-29 14:34:11",
         "category": "Local Events"
     },
     {
-        "title": "Genmab shares soar after new trial results",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/genmab-aktie-skyder-i-vejret-efter-nye-forsoegsresultater?referrer=RSS",
-        "published_date": "2026-10-28 16:38:48",
+        "title": "89-year-old dead after being hit in a car park",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/89-aarig-doed-efter-paakoersel-paa-parkeringsplads",
+        "published_date": "2026-10-29 14:27:52",
         "category": "Local Events"
     },
     {
-        "title": "Local VU chairman has come out in protest: \"I feel let down\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/lokal-vu-formand-har-meldt-sig-ud-i-protestjeg-foeler-mig-svigtet?referrer=RSS",
-        "published_date": "2026-10-28 16:37:21",
+        "title": "F.C.Copenhagen easily advance in the cup",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12734097#liveblog-embed",
+        "published_date": "2026-10-29 14:25:08",
         "category": "Local Events"
     },
     {
-        "title": "\"Before you were hungry, now you are full.Before you were thirsty, now you are...?' Writers want to renew the Danish language with new words",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/eksistens/foer-var-du-sulten-nu-er-du-maet-foer-var-du-toerstig-nu-er-du--forfattere-vil-forny-det-danske-sprog-med-nye-ord?referrer=RSS",
-        "published_date": "2026-10-28 16:24:15",
+        "title": "Illegal fireworks have been found - one person has been arrested",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ulovligt-fyrvaerkeri-er-fundet-en-person-er-anholdt",
+        "published_date": "2026-10-29 13:19:38",
         "category": "Local Events"
     },
     {
-        "title": "Celebrity wants to stop stories about inappropriate behavior - fears media court",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kendis-vil-stoppe-historier-om-upassende-adfaerd--frygter-mediedomstol?referrer=RSS",
-        "published_date": "2026-10-28 15:54:32",
+        "title": "New agreement for general practice is in place - takes time-consuming patients into account",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/ny-aftale-almen-praksis-er-paa-plads-tager-hensyn-til-tidskraevende-patienter",
+        "published_date": "2026-10-29 11:31:29",
         "category": "Local Events"
     },
     {
-        "title": "If these two Republicans lose, they can help their own party",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/taber-disse-to-republikanere-kan-de-hjaelpe-deres-eget-parti?referrer=RSS",
-        "published_date": "2026-10-28 15:41:52",
+        "title": "'A choice between studying and my marriage': Denmark's new spouse rules for students",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261029/a-choice-between-studying-and-my-marriage-denmarks-new-spouse-rules-for-students",
+        "published_date": "2026-10-29 10:48:26",
         "category": "Local Events"
     },
     {
-        "title": "Bolsonaro lands in the US after election defeat",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/bolsonaro-lander-i-usa-efter-valgnederlag?referrer=RSS",
-        "published_date": "2026-10-28 15:40:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The authorities contradict themselves in the inflamed case of pig stops: \"The confusion is total\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/virksomheder/myndighederne-modsiger-sig-selv-i-betaendt-sag-om-grisestop-forvirringen-er-jo-total?referrer=RSS",
-        "published_date": "2026-10-28 15:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Copenhagen Airport received a security order on 6 October",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/koebenhavns-lufthavn-fik-paabud-om-sikkerhed-6-oktober?referrer=RSS",
-        "published_date": "2026-10-28 15:24:45",
+        "title": "Today in Denmark: A roundup of the latest news on Thursday",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261029/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-63",
+        "published_date": "2026-10-29 08:05:48",
         "category": "Local Events"
     }
 ]
