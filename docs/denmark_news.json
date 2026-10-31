@@ -1,5 +1,19 @@
 [
     {
+        "title": "Trump administration ramps up probe into Alaska Senate election",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trumps-regering-skruer-op-for-efterforskning-af-senatsvalg-i-alaska?referrer=RSS",
+        "published_date": "2026-10-30 23:49:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The EU and Canada will define closer cooperation before the summit next year",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/eu-og-canada-vil-definere-taettere-samarbejde-inden-topmoede-naeste-aar",
+        "published_date": "2026-10-30 17:14:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The EU and Canada will define closer cooperation",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/eu-og-canada-vil-definere-taettere-samarbejde?referrer=RSS",
@@ -126,20 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Hundreds of passengers' flights rebooked due to queues at Copenhagen Airport",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261023/hundreds-of-passengers-flights-rebooked-due-to-queues-at-copenhagen-airport",
-        "published_date": "2026-10-23 12:56:57",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "'Generational rage': How young Europeans are fighting to be heard",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261023/generational-rage-how-young-europeans-are-fighting-to-be-heard",
-        "published_date": "2026-10-23 12:41:40",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Hardball guns caused great alarm at train stations",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/hardball-vaaben-udloeste-stor-alarm-paa-togstationer",
@@ -238,13 +238,6 @@
         "category": "Military"
     },
     {
-        "title": "Trump: Musk's satellite system is working again in Ukraine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/trump-musks-satellitsystem-virker-igen-i-ukraine?referrer=RSS",
-        "published_date": "2026-10-22 23:21:50",
-        "category": "Military"
-    },
-    {
         "title": "Investigation in case from 2023 against energy traders to be resumed",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/efterforskning-i-sag-fra-2023-mod-energihandlere-skal-genoptages",
@@ -271,6 +264,76 @@
         "url": "https://www.berlingske.dk/virksomheder/business-update-alm-brand-fyrer-55-efter-rekordregnskab?referrer=RSS",
         "published_date": "2026-10-28 15:26:36",
         "category": "Economy"
+    },
+    {
+        "title": "Bolsonaro on fleeing Brazil: I am a victim of persecution",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/bolsonaro-om-flugt-fra-brasilien-jeg-er-offer-for-forfoelgelse?referrer=RSS",
+        "published_date": "2026-10-31 01:53:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICE officer indicted for hit-and-run of Mexican national in Texas",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ice-betjent-tiltalt-for-paakoersel-af-mexicansk-statsborger-i-texas?referrer=RSS",
+        "published_date": "2026-10-31 01:53:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Expelled coaches end up in an open argument after Norwegian top match",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/udviste-traenere-ender-i-aabent-skaenderi-efter-norsk-topkamp?referrer=RSS",
+        "published_date": "2026-10-31 01:17:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "24-year-old man killed in serious collision north of Aarhus",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/24-aarig-mand-omkommet-i-alvorligt-sammenstoed-nord-aarhus",
+        "published_date": "2026-10-31 00:42:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "24-year-old man killed in serious collision north of Aarhus",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/24-aarig-mand-omkommet-i-alvorligt-sammenstoed-nord-for-aarhus?referrer=RSS",
+        "published_date": "2026-10-31 00:28:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ebola outbreak in DR Congo has cost more than 5000 people their lives",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ebolaudbrud-i-dr-congo-har-kostet-over-5000-mennesker-livet?referrer=RSS",
+        "published_date": "2026-10-30 23:57:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "As a Christian, I will not be taken to task for homophobic attitudes",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/som-kristen-vil-jeg-ikke-tages-til-indtaegt-for-homofobiske-holdninger?referrer=RSS",
+        "published_date": "2026-10-30 21:57:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Odense keeps the Final 4 hopes alive after a big ice hockey victory",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/odense-holder-liv-i-final-4-haabet-efter-stor-ishockeysejr?referrer=RSS",
+        "published_date": "2026-10-30 21:55:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister of Culture: Russian ice hockey comeback puts us in a difficult situation",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kulturminister-russisk-ishockeycomeback-stiller-os-i-svaer-situation?referrer=RSS",
+        "published_date": "2026-10-30 21:40:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kane won the Ballon d'Or by one of the narrowest margins in history",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kane-vandt-ballon-dor-med-en-af-historiens-mindste-marginer?referrer=RSS",
+        "published_date": "2026-10-30 21:07:43",
+        "category": "Local Events"
     },
     {
         "title": "Sweden will have tightened visa rules for Russian athletes",
@@ -340,76 +403,6 @@
         "source": "The Local DK",
         "url": "https://www.thelocal.dk/20261030/six-spooky-danish-films-to-watch-this-halloween",
         "published_date": "2026-10-30 14:46:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "What to eat in Denmark in November",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261030/what-to-eat-in-denmark-in-november",
-        "published_date": "2026-10-30 14:42:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pope Leo has voted by mail in the US midterm elections",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/pave-leo-har-brevstemt-ved-det-amerikanske-midtvejsvalg",
-        "published_date": "2026-10-30 14:37:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norwegian university exposed to cyber attack",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/norsk-universitet-udsat-cyberangreb",
-        "published_date": "2026-10-30 14:35:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The coffers are empty: 60 employees have been dismissed and sent home, while the growth company is fighting for survival",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/esbjerg/pengekassen-er-tom-60-ansatte-er-opsagt-og-sendt-hjem-mens-vaekstfirma-kaemper-for-overlevelse?rss",
-        "published_date": "2026-10-30 14:31:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Policeman convicted of wine fraud in Fleggaard: Here is the punishment",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/aabenraa/politimand-doemt-for-vinsvindel-i-fleggaard-her-er-straffen?rss",
-        "published_date": "2026-10-30 12:10:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Epstein's stay at Scottish castle is under investigation",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/epsteins-ophold-paa-skotsk-slot-efterforskes",
-        "published_date": "2026-10-30 12:01:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump abuses Lego\u00a0to hail himself shortly before midterm elections",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/billund/trump-misbruger-lego-til-at-hylde-sig-selv-kort-foer-midtvejsvalg?rss",
-        "published_date": "2026-10-30 11:53:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man arrested on first flight to new Greenlandic airport",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/mand-anholdt-paa-foerste-flyvning-til-ny-groenlandsk-lufthavn",
-        "published_date": "2026-10-30 11:46:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rigshospitalet gets a week for new answers in the case of layoffs",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rigshospitalet-faar-en-uge-til-nye-svar-i-sag-om-fyringer",
-        "published_date": "2026-10-30 10:53:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marius Borg H\u00f8iby requests release",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-anmoder-om-loesladelse",
-        "published_date": "2026-10-30 10:20:58",
         "category": "Local Events"
     }
 ]
