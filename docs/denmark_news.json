@@ -1,5 +1,19 @@
 [
     {
+        "title": "War in Europe - follow here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-med-her-13?referrer=RSS",
+        "published_date": "2026-10-31 15:15:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "'A lot of arguing to be done': What's at stake in the upcoming EU-UK summit?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261031/a-lot-of-arguing-to-be-done-whats-at-stake-in-the-upcoming-eu-uk-summit",
+        "published_date": "2026-10-31 10:36:08",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Trump administration ramps up probe into Alaska Senate election",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trumps-regering-skruer-op-for-efterforskning-af-senatsvalg-i-alaska?referrer=RSS",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "EU parliament approves more safeguards for travellers in Europe",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261023/eu-parliament-approves-more-safeguards-for-travellers-in-europe",
-        "published_date": "2026-10-23 14:49:21",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Jesper Koch moves into a well-known hotel:\n- I have long dreamed of such a place",
-        "source": "JydskeVestkysten",
-        "url": "https://jv.dk/soenderborg/jesper-koch-overtager-forpagtningen-af-hotel-baltic-vil-skabe-staerke-rammer-for-livets-fester?rss",
-        "published_date": "2026-10-23 14:41:00",
-        "category": "Diplomacy"
+        "title": "Every day we see the horrors of war from Ukraine.Go here if you want to restore your faith in humanity",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/kunst/hver-dag-ser-vi-krigens-raedsler-fra-ukraine-tag-herhen-hvis-du-vil-have-troen-paa-menneskeheden-tilbage?referrer=RSS",
+        "published_date": "2026-10-31 15:18:57",
+        "category": "Military"
     },
     {
         "title": "Hardball guns caused great alarm at train stations",
@@ -224,20 +231,6 @@
         "category": "Military"
     },
     {
-        "title": "Ukraine and Russia exchange 270 prisoners of war",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/ukraine-og-rusland-udveksler-270-krigsfanger",
-        "published_date": "2026-10-23 13:30:06",
-        "category": "Military"
-    },
-    {
-        "title": "Israel's military has killed two people in the West Bank",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/israels-militaer-melder-om-draebte-paa-vestbredden",
-        "published_date": "2026-10-23 06:34:57",
-        "category": "Military"
-    },
-    {
         "title": "Investigation in case from 2023 against energy traders to be resumed",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/efterforskning-i-sag-fra-2023-mod-energihandlere-skal-genoptages",
@@ -264,6 +257,104 @@
         "url": "https://www.berlingske.dk/virksomheder/business-update-alm-brand-fyrer-55-efter-rekordregnskab?referrer=RSS",
         "published_date": "2026-10-28 15:26:36",
         "category": "Economy"
+    },
+    {
+        "title": "Minister on removed TV 2 programme: Distasteful psychological experiment",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/minister-om-fjernet-tv-2-program-usmageligt-psykologisk-eksperiment?referrer=RSS",
+        "published_date": "2026-10-31 15:52:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crypto exchange after billion theft: 90 percent of the stolen assets are replaced",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/kryptoboers-efter-milliardtyveri-90-procent-af-de-stjaalne-aktiver-erstattes?referrer=RSS",
+        "published_date": "2026-10-31 15:48:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Although she is 25 years old and studying to be a midwife, Isabella Flach has kept many of her toys: \"My childhood has had a renaissance\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/selvom-hun-er-25-aar-og-laeser-til-jordemoder-har-isabella-flach-beholdt-meget-af-sit-legetoej-min-barndom-har-faaet-en-renaessance?referrer=RSS",
+        "published_date": "2026-10-31 15:45:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "US warns Russia of possible attack in Moscow",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-advarer-rusland-om-muligt-angreb-i-moskva?referrer=RSS",
+        "published_date": "2026-10-31 15:42:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran warns of a powerful response to new attacks from the US",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/iran-advarer-om-kraftfuldt-svar-ved-nye-angreb-fra-usa?referrer=RSS",
+        "published_date": "2026-10-31 15:24:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latest news about Danish politics - follow the development here",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-48?referrer=RSS",
+        "published_date": "2026-10-31 15:20:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Martin Johannes Larsen apologizes after criticism of the TV 2 hoax programme",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/martin-johannes-larsen-undskylder-efter-kritik-af-tv-2-fupprogram?referrer=RSS",
+        "published_date": "2026-10-31 15:16:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of reported burglaries in private homes has increased significantly",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-anmeldte-indbrud-i-private-hjem-er-steget-med",
+        "published_date": "2026-10-31 12:56:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "British Prime Minister ready to apologize for slavery - but rejects compensation",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/britisk-premierminister-klar-til-undskylde-slaveri-men-afviser-erstatning",
+        "published_date": "2026-10-31 12:30:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inside Denmark: How living abroad has changed the meaning of home for me",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261031/inside-denmark-how-living-abroad-has-changed-the-meaning-of-home-for-me",
+        "published_date": "2026-10-31 12:13:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pogacar discovered multiple back fractures: 'I'm happy to be alive'",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/cykling/norsk-hold-droemmer-om-jonas-vingegaard-og-mads-pedersen?focusId=12745292#liveblog-embed",
+        "published_date": "2026-10-31 12:04:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the Agenda: What's happening in Denmark next week?",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261031/on-the-agenda-whats-happening-in-denmark-next-week-8",
+        "published_date": "2026-10-31 10:04:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish expression of the day: slik eller ballade",
+        "source": "The Local DK",
+        "url": "https://www.thelocal.dk/20261031/danish-expression-of-the-day-slik-eller-ballade",
+        "published_date": "2026-10-31 09:38:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aston Villa to sue Carragher over statement in podcast",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12744558#liveblog-embed",
+        "published_date": "2026-10-31 07:25:00",
+        "category": "Local Events"
     },
     {
         "title": "Bolsonaro on fleeing Brazil: I am a victim of persecution",
@@ -305,104 +396,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/ebolaudbrud-i-dr-congo-har-kostet-over-5000-mennesker-livet?referrer=RSS",
         "published_date": "2026-10-30 23:57:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "As a Christian, I will not be taken to task for homophobic attitudes",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/laesere/som-kristen-vil-jeg-ikke-tages-til-indtaegt-for-homofobiske-holdninger?referrer=RSS",
-        "published_date": "2026-10-30 21:57:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Odense keeps the Final 4 hopes alive after a big ice hockey victory",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/odense-holder-liv-i-final-4-haabet-efter-stor-ishockeysejr?referrer=RSS",
-        "published_date": "2026-10-30 21:55:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister of Culture: Russian ice hockey comeback puts us in a difficult situation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kulturminister-russisk-ishockeycomeback-stiller-os-i-svaer-situation?referrer=RSS",
-        "published_date": "2026-10-30 21:40:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kane won the Ballon d'Or by one of the narrowest margins in history",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/kane-vandt-ballon-dor-med-en-af-historiens-mindste-marginer?referrer=RSS",
-        "published_date": "2026-10-30 21:07:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sweden will have tightened visa rules for Russian athletes",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/seneste-sport/sverige-vil-have-strammet-visumregler-russiske-sportsudoevere",
-        "published_date": "2026-10-30 16:39:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Meta reaches settlement with teenage girl in addiction case",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/business/meta-indgaar-forlig-med-teenagepige-i-sag-om-afhaengighed?referrer=RSS",
-        "published_date": "2026-10-30 16:38:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "In phase three, the chairman can be replaced.Special analysis shows where Troels Lund's \"journey\" is right now",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/i-fase-tre-kan-formanden-skiftes-ud-saerlig-analyse-viser-hvor-troels-lunds-rejse-er-lige-nu?referrer=RSS",
-        "published_date": "2026-10-30 16:20:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Institutions have reported a large number of requests for access to documents to the police",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/institutioner-har-politianmeldt-stort-antal-anmodninger-om-aktindsigt?referrer=RSS",
-        "published_date": "2026-10-30 16:17:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "First, Danish men were proclaimed as extremists.Then they were allowed to pay the bill",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kommentatorer/foerst-blev-danske-maend-udraabt-som-ekstremister-saa-fik-de-lov-til-at-betale-regningen?referrer=RSS",
-        "published_date": "2026-10-30 16:07:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "AC Horsens presents a loss of 72.4 million in six months",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/ac-horsens-praesenterer-underskud-paa-724-millioner-paa-et-halvt-aar?referrer=RSS",
-        "published_date": "2026-10-30 16:00:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "What do you have in common with a Roman emperor?Scarily so, it turns out",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/kunst/hvad-har-du-til-faelles-med-en-romersk-kejser-skraemmende-meget-viser-det-sig?referrer=RSS",
-        "published_date": "2026-10-30 15:55:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Facetime calls in the car triggered a fine and a requirement for a new driving test",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/facetime-opkald-i-bil-udloeste-boede-og-krav-om-ny-koereproeve?referrer=RSS",
-        "published_date": "2026-10-30 15:50:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish word of the day: bussemand",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261030/danish-word-of-the-day-bussemand",
-        "published_date": "2026-10-30 15:27:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six spooky Danish films to watch this Halloween",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261030/six-spooky-danish-films-to-watch-this-halloween",
-        "published_date": "2026-10-30 14:46:40",
         "category": "Local Events"
     }
 ]
