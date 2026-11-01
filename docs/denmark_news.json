@@ -1,5 +1,26 @@
 [
     {
+        "title": "Damn it!The crisis is scratching in Bordeaux - S\u00f8ren Frank shows you where you can make good purchases",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/gastronomi/for-pokker-krisen-kradser-ibordeaux--soeren-frank-viser-dig-hvor-du-kan-goere-gode-koeb?referrer=RSS",
+        "published_date": "2026-11-01 16:52:16",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Trump is visiting uncertain states during the final spurt of the election campaign",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-besoeger-usikre-stater-under-slutspurt-i-valgkampen?referrer=RSS",
+        "published_date": "2026-11-01 16:34:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Already ordered packages may be affected by a new fee",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/allerede-bestilte-pakker-kan-blive-ramt-af-nyt-gebyr?referrer=RSS",
+        "published_date": "2026-11-01 16:11:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Houdini's pocket watch sold for over one million kroner at auction",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/houdinis-lommeur-solgt-for-over-en-million-kroner-paa-auktion?referrer=RSS",
@@ -119,27 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Personal Freud letters come up for auction",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/personlige-freud-breve-kommer-paa-auktion",
-        "published_date": "2026-10-28 08:38:58",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Argument between Cuba and the US interrupts debate at the UN",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/skaenderi-mellem-cuba-og-usa-afbryder-debat-i-fn?referrer=RSS",
-        "published_date": "2026-10-27 22:28:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "What the EU's new banking law means for foreigners in Denmark",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261027/what-the-eus-new-banking-law-means-for-foreigners-in-denmark",
-        "published_date": "2026-10-27 11:21:52",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Every day we see the horrors of war from Ukraine.Go here if you want to restore your faith in humanity",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kunst/hver-dag-ser-vi-krigens-raedsler-fra-ukraine-tag-herhen-hvis-du-vil-have-troen-paa-menneskeheden-tilbage?referrer=RSS",
@@ -224,13 +224,6 @@
         "category": "Military"
     },
     {
-        "title": "Ukraine reports normal connection to important satellite system",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ukraine-melder-om-normal-forbindelse-til-vigtigt-satellitsystem?referrer=RSS",
-        "published_date": "2026-10-24 13:49:44",
-        "category": "Military"
-    },
-    {
         "title": "Investigation in case from 2023 against energy traders to be resumed",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/efterforskning-i-sag-fra-2023-mod-energihandlere-skal-genoptages",
@@ -250,6 +243,118 @@
         "url": "https://www.berlingske.dk/virksomheder/business-update-alm-brand-fyrer-55-efter-rekordregnskab?referrer=RSS",
         "published_date": "2026-10-28 15:26:36",
         "category": "Economy"
+    },
+    {
+        "title": "Br\u00f8ndby IF won at 1964 Park and sent OB Q home disappointed",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/sport/broendby-if-sejrede-paa-1964-park-og-sendte-ob-q-skuffede-hjem?rss",
+        "published_date": "2026-11-01 17:21:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "SF wants the Minister of Culture further involved in the TV 2 case",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/sf-vil-have-kulturministeren-laengere-ind-i-tv-2-sag?referrer=RSS",
+        "published_date": "2026-11-01 16:52:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "TV 2 will investigate proceedings concerning the TV 2 hoax programme",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/tv-2-vil-undersoege-forloeb-om-tv-2-fupprogram?referrer=RSS",
+        "published_date": "2026-11-01 16:41:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Feminism has won - but love pays the bill",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/synspunkter/feminismen-har-sejret--men-kaerligheden-betaler-regningen?referrer=RSS",
+        "published_date": "2026-11-01 16:33:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The actor in the TV 2 hoax was assured that Rasmus would love it",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/skuespiller-i-tv-2-fup-blev-forsikret-om-at-rasmus-ville-elske-det?referrer=RSS",
+        "published_date": "2026-11-01 16:24:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swedish running phenomenon wins in marathon debut",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/svensk-loebefaenomen-vinder-maratondebut",
+        "published_date": "2026-11-01 16:15:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andreas Odbjerg and Aphaca are added to the Arbejdersangbogen",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/andreas-odbjerg-og-aphaca-foejes-til-arbejdersangbogen?referrer=RSS",
+        "published_date": "2026-11-01 16:14:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "One in six calls to B\u00f8rnetelefonen takes place at night",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/hver-sjette-henvendelse-til-boernetelefonen-foregaar-om-natten?referrer=RSS",
+        "published_date": "2026-11-01 16:04:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Isaksen's pearl goal helps send Lazio to the top",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/isaksens-perlemaal-er-med-til-at-sende-lazio-til-tops?referrer=RSS",
+        "published_date": "2026-11-01 16:04:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish duo lose a close final to the world champions",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/verdens-bedste-er-samlet-i-odense?focusId=12754142#liveblog-embed",
+        "published_date": "2026-11-01 15:21:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shooting at American football game kills one, injures eight",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/skyderi-under-amerikansk-fodboldkamp-draeber-en-og-saarer-otte",
+        "published_date": "2026-11-01 14:32:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former European Championship gold winner has died at the age of 34",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/tidligere-em-guldvinder-er-doed-i-en-alder-af-34-aar",
+        "published_date": "2026-11-01 11:23:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "The author Zadie Smith was in Odense to receive a great prize: - Writing is an exercise in living",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/bolig-og-livsstil/forfatteren-zadie-smith-var-i-odense-for-at-faa-en-stor-pris-at-skrive-er-en-oevelse-i-at-leve?rss",
+        "published_date": "2026-11-01 09:51:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "New basketball team wins US championship in record time",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nyt-basketball-hold-vinder-rekordhurtigt-mesterskab-i-usa",
+        "published_date": "2026-11-01 08:04:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colony garden chairman nationally known after TV 2 documentary: Now she is charged in a criminal case",
+        "source": "Fyens Stiftstidende",
+        "url": "https://fyens.dk/bolig/kolonihaveformand-landskendt-efter-tv-2-dokumentar-nu-er-hun-tiltalt-i-en-straffesag?rss",
+        "published_date": "2026-11-01 08:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serious traffic accident near Herning",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/alvorlig-trafikulykke-spaerrer-vej-ved-herning",
+        "published_date": "2026-11-01 07:05:41",
+        "category": "Local Events"
     },
     {
         "title": "36 migrants in rubber boat rescued off the coast of the Netherlands",
@@ -277,118 +382,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/fbi-nordkorea-stod-bag-kryptotyveri-i-milliardklassen",
         "published_date": "2026-10-31 22:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barcelona rise with a big win in La Liga",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/barcelona-rejser-sig-med-storsejr-i-la-liga?referrer=RSS",
-        "published_date": "2026-10-31 22:02:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Milan extend derby dominance after dream start against Inter",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/milan-udbygger-derbydominans-efter-droemmestart-mod-inter?referrer=RSS",
-        "published_date": "2026-10-31 21:51:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge dismisses Trump's lawsuit against newspaper over Epstein article",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/dommer-afviser-trumps-soegsmaal-mod-avis-for-epstein-artikel?referrer=RSS",
-        "published_date": "2026-10-31 21:25:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crypto exchange replaces 90 percent of stolen assets after billion theft",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kryptoboers-erstatter-90-procent-af-stjaalne-aktiver-efter-milliardtyveri",
-        "published_date": "2026-10-31 16:54:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister on removed TV 2 programme: Distasteful psychological experiment",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/minister-om-fjernet-tv-2-program-usmageligt-psykologisk-eksperiment?referrer=RSS",
-        "published_date": "2026-10-31 15:52:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crypto exchange after billion theft: 90 percent of the stolen assets are replaced",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/kryptoboers-efter-milliardtyveri-90-procent-af-de-stjaalne-aktiver-erstattes?referrer=RSS",
-        "published_date": "2026-10-31 15:48:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Although she is 25 years old and studying to be a midwife, Isabella Flach has kept many of her toys: \"My childhood has had a renaissance\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/synspunkter/selvom-hun-er-25-aar-og-laeser-til-jordemoder-har-isabella-flach-beholdt-meget-af-sit-legetoej-min-barndom-har-faaet-en-renaessance?referrer=RSS",
-        "published_date": "2026-10-31 15:45:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "US warns Russia of possible attack in Moscow",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/usa-advarer-rusland-om-muligt-angreb-i-moskva?referrer=RSS",
-        "published_date": "2026-10-31 15:42:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran warns of a powerful response to new attacks from the US",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/iran-advarer-om-kraftfuldt-svar-ved-nye-angreb-fra-usa?referrer=RSS",
-        "published_date": "2026-10-31 15:24:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest news about Danish politics - follow the development here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-48?referrer=RSS",
-        "published_date": "2026-10-31 15:20:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Martin Johannes Larsen apologizes after criticism of the TV 2 hoax programme",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/martin-johannes-larsen-undskylder-efter-kritik-af-tv-2-fupprogram?referrer=RSS",
-        "published_date": "2026-10-31 15:16:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "FCK wins surprisingly over FC Nordsj\u00e6lland",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12746289#liveblog-embed",
-        "published_date": "2026-10-31 14:05:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of reported burglaries in private homes has increased significantly",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/antallet-af-anmeldte-indbrud-i-private-hjem-er-steget-med",
-        "published_date": "2026-10-31 12:56:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "British Prime Minister ready to apologize for slavery - but rejects compensation",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/britisk-premierminister-klar-til-undskylde-slaveri-men-afviser-erstatning",
-        "published_date": "2026-10-31 12:30:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside Denmark: How living abroad has changed the meaning of home for me",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261031/inside-denmark-how-living-abroad-has-changed-the-meaning-of-home-for-me",
-        "published_date": "2026-10-31 12:13:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pogacar discovered multiple back fractures: 'I'm happy to be alive'",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/cykling/norsk-hold-droemmer-om-jonas-vingegaard-og-mads-pedersen?focusId=12745292#liveblog-embed",
-        "published_date": "2026-10-31 12:04:47",
         "category": "Local Events"
     }
 ]
