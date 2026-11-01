@@ -1,5 +1,26 @@
 [
     {
+        "title": "Houdini's pocket watch sold for over one million kroner at auction",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/houdinis-lommeur-solgt-for-over-en-million-kroner-paa-auktion?referrer=RSS",
+        "published_date": "2026-11-01 01:23:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "A UN employee has died in the captivity of the Houthi movement",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fn-medarbejder-er-doed-i-houthibevaegelsens-fangenskab?referrer=RSS",
+        "published_date": "2026-11-01 00:50:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "\"You know what you're doing\": On Turkish forums, they guide each other in using Denmark as a springboard to Europe",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/i-ved-godt-hvad-i-goer-paa-tyrkiske-fora-vejleder-de-hinanden-i-at-bruge-danmark-som-springbraet-til-europa?referrer=RSS",
+        "published_date": "2026-10-31 21:46:34",
+        "category": "Diplomacy"
+    },
+    {
         "title": "War in Europe - follow here",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-med-her-13?referrer=RSS",
@@ -119,27 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "UN: Serious concern about ethnic cleansing in the West Bank",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fn-alvorlig-bekymring-etnisk-udrensning-paa-vestbredden",
-        "published_date": "2026-10-26 19:25:55",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "As Trump shouts fraud, EU breathes a sigh of relief: 'Brazil's democracy has won'",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/mens-trump-raaber-om-svindel-aander-eu-lettet-opbrasiliens-demokrati-har-vundet?referrer=RSS",
-        "published_date": "2026-10-26 16:30:41",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "War in Europe - follow here",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-med-her-1?referrer=RSS",
-        "published_date": "2026-10-25 14:21:39",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Every day we see the horrors of war from Ukraine.Go here if you want to restore your faith in humanity",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/kunst/hver-dag-ser-vi-krigens-raedsler-fra-ukraine-tag-herhen-hvis-du-vil-have-troen-paa-menneskeheden-tilbage?referrer=RSS",
@@ -245,18 +245,67 @@
         "category": "Energy"
     },
     {
-        "title": "The leading team Herning continues its dominance in the ice hockey league",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/foererholdet-herning-fortsaetter-dominansen-i-ishockeyligaen?referrer=RSS",
-        "published_date": "2026-10-23 20:03:45",
-        "category": "Energy"
-    },
-    {
         "title": "Business update: Alm.Brand lays off 55 after record accounting",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/virksomheder/business-update-alm-brand-fyrer-55-efter-rekordregnskab?referrer=RSS",
         "published_date": "2026-10-28 15:26:36",
         "category": "Economy"
+    },
+    {
+        "title": "36 migrants in rubber boat rescued off the coast of the Netherlands",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/36-migranter-i-gummibaad-reddet-ud-for-hollands-kyst?referrer=RSS",
+        "published_date": "2026-11-01 01:12:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The injured Antonsen withdraws late in the German semi-final",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/skadet-antonsen-traekker-sig-sent-i-tysk-semifinale?referrer=RSS",
+        "published_date": "2026-10-31 22:36:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mads Holger's swan song became the call of a new political generation",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/samfund/mads-holgers-svanesang-blev-en-ny-politisk-generations-kald?referrer=RSS",
+        "published_date": "2026-10-31 22:25:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "FBI: North Korea was behind crypto theft in the billions",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/fbi-nordkorea-stod-bag-kryptotyveri-i-milliardklassen",
+        "published_date": "2026-10-31 22:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barcelona rise with a big win in La Liga",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/barcelona-rejser-sig-med-storsejr-i-la-liga?referrer=RSS",
+        "published_date": "2026-10-31 22:02:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Milan extend derby dominance after dream start against Inter",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/milan-udbygger-derbydominans-efter-droemmestart-mod-inter?referrer=RSS",
+        "published_date": "2026-10-31 21:51:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Judge dismisses Trump's lawsuit against newspaper over Epstein article",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/dommer-afviser-trumps-soegsmaal-mod-avis-for-epstein-artikel?referrer=RSS",
+        "published_date": "2026-10-31 21:25:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crypto exchange replaces 90 percent of stolen assets after billion theft",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/kryptoboers-erstatter-90-procent-af-stjaalne-aktiver-efter-milliardtyveri",
+        "published_date": "2026-10-31 16:54:43",
+        "category": "Local Events"
     },
     {
         "title": "Minister on removed TV 2 programme: Distasteful psychological experiment",
@@ -308,6 +357,13 @@
         "category": "Local Events"
     },
     {
+        "title": "FCK wins surprisingly over FC Nordsj\u00e6lland",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12746289#liveblog-embed",
+        "published_date": "2026-10-31 14:05:39",
+        "category": "Local Events"
+    },
+    {
         "title": "The number of reported burglaries in private homes has increased significantly",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/antallet-af-anmeldte-indbrud-i-private-hjem-er-steget-med",
@@ -333,69 +389,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/sporten/cykling/norsk-hold-droemmer-om-jonas-vingegaard-og-mads-pedersen?focusId=12745292#liveblog-embed",
         "published_date": "2026-10-31 12:04:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the Agenda: What's happening in Denmark next week?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261031/on-the-agenda-whats-happening-in-denmark-next-week-8",
-        "published_date": "2026-10-31 10:04:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish expression of the day: slik eller ballade",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261031/danish-expression-of-the-day-slik-eller-ballade",
-        "published_date": "2026-10-31 09:38:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aston Villa to sue Carragher over statement in podcast",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12744558#liveblog-embed",
-        "published_date": "2026-10-31 07:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bolsonaro on fleeing Brazil: I am a victim of persecution",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/bolsonaro-om-flugt-fra-brasilien-jeg-er-offer-for-forfoelgelse?referrer=RSS",
-        "published_date": "2026-10-31 01:53:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE officer indicted for hit-and-run of Mexican national in Texas",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ice-betjent-tiltalt-for-paakoersel-af-mexicansk-statsborger-i-texas?referrer=RSS",
-        "published_date": "2026-10-31 01:53:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expelled coaches end up in an open argument after Norwegian top match",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/udviste-traenere-ender-i-aabent-skaenderi-efter-norsk-topkamp?referrer=RSS",
-        "published_date": "2026-10-31 01:17:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "24-year-old man killed in serious collision north of Aarhus",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/24-aarig-mand-omkommet-i-alvorligt-sammenstoed-nord-aarhus",
-        "published_date": "2026-10-31 00:42:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "24-year-old man killed in serious collision north of Aarhus",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/indland/24-aarig-mand-omkommet-i-alvorligt-sammenstoed-nord-for-aarhus?referrer=RSS",
-        "published_date": "2026-10-31 00:28:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ebola outbreak in DR Congo has cost more than 5000 people their lives",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/ebolaudbrud-i-dr-congo-har-kostet-over-5000-mennesker-livet?referrer=RSS",
-        "published_date": "2026-10-30 23:57:47",
         "category": "Local Events"
     }
 ]
