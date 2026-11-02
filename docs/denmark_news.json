@@ -1,5 +1,12 @@
 [
     {
+        "title": "The UN ends its peacekeeping mission in Western Sahara after 35 years",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/fn-afslutter-fredsmission-i-vestsahara-efter-35-aar?referrer=RSS",
+        "published_date": "2026-11-02 01:30:45",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Damn it!The crisis is scratching in Bordeaux - S\u00f8ren Frank shows you where you can make good purchases",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/gastronomi/for-pokker-krisen-kradser-ibordeaux--soeren-frank-viser-dig-hvor-du-kan-goere-gode-koeb?referrer=RSS",
@@ -133,11 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Finnish foreign minister to meet with Rubio about the war in Ukraine",
+        "title": "Ukraine's air force reports air alert app temporarily hacked",
         "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/finsk-udenrigsminister-skal-moedes-med-rubio-om-krigen-i-ukraine?referrer=RSS",
-        "published_date": "2026-10-29 01:02:45",
-        "category": "Diplomacy"
+        "url": "https://www.berlingske.dk/internationalt/ukraines-luftvaaben-melder-luftalarmsapp-midlertidigt-hacket?referrer=RSS",
+        "published_date": "2026-11-02 00:11:44",
+        "category": "Military"
+    },
+    {
+        "title": "Zelenskyy wants to stop oil attacks in exchange for Patriot missiles",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/zelenskyj-vil-stoppe-olieangreb-i-bytte-for-patriot-missiler?referrer=RSS",
+        "published_date": "2026-11-01 23:16:46",
+        "category": "Military"
+    },
+    {
+        "title": "Ulla Terkelsen has seen a lot, but Trump is in a class that reminds her of \"ancient fools\"",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ulla-terkelsen-har-set-meget-men-trump-er-i-en-klasse-der-minder-hende-om-oldtidens-tosser?referrer=RSS",
+        "published_date": "2026-11-01 22:03:39",
+        "category": "Military"
+    },
+    {
+        "title": "The longest ceasefire in the Ukraine war so far has ended",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/hidtil-laengste-vaabenhvile-i-ukraine-krigen-er-slut?referrer=RSS",
+        "published_date": "2026-11-01 21:54:43",
+        "category": "Military"
     },
     {
         "title": "Every day we see the horrors of war from Ukraine.Go here if you want to restore your faith in humanity",
@@ -210,20 +238,6 @@
         "category": "Military"
     },
     {
-        "title": "Musk closed loophole: Ukraine used satellite network to kill",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/musk-lukkede-smuthul-ukraine-brugte-satellitnetvaerk-til-at-draebe?referrer=RSS",
-        "published_date": "2026-10-24 23:42:49",
-        "category": "Military"
-    },
-    {
-        "title": "Helle Thomsen: Neither the attack nor the defense was good",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/helle-thomsen-hverken-angrebet-eller-forsvaret-var-godt?referrer=RSS",
-        "published_date": "2026-10-24 19:37:49",
-        "category": "Military"
-    },
-    {
         "title": "Investigation in case from 2023 against energy traders to be resumed",
         "source": "DR",
         "url": "https://www.dr.dk/nyheder/seneste/efterforskning-i-sag-fra-2023-mod-energihandlere-skal-genoptages",
@@ -243,6 +257,83 @@
         "url": "https://www.berlingske.dk/virksomheder/business-update-alm-brand-fyrer-55-efter-rekordregnskab?referrer=RSS",
         "published_date": "2026-10-28 15:26:36",
         "category": "Economy"
+    },
+    {
+        "title": "Russia reports disaster ministry app hit by cyber attack",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/rusland-melder-katastrofeministeriums-app-ramt-af-cyberangreb?referrer=RSS",
+        "published_date": "2026-11-02 01:16:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tearful Antonelli after historic victory: I am speechless",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/graedefaerdig-antonelli-efter-historisk-sejr-jeg-er-maalloes?referrer=RSS",
+        "published_date": "2026-11-02 00:55:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kimi Antonelli becomes the youngest Formula 1 world champion",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/sport/kimi-antonelli-bliver-den-yngste-formel-1-verdensmester?referrer=RSS",
+        "published_date": "2026-11-01 22:38:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "So it is not the food in the hospital that makes the patient well",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/laesere/det-er-altsaa-ikke-maden-paa-sygehuset-der-goer-patienten-rask?referrer=RSS",
+        "published_date": "2026-11-01 22:10:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Minister of Culture refuses to enter into a case about a TV 2 hoax programme",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/politik/kulturminister-afviser-at-gaa-ind-i-sag-om-tv-2-fupprogram?referrer=RSS",
+        "published_date": "2026-11-01 22:07:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bogforum again breaks the record for the number of visitors",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bogforum-slaar-igen-rekord-antal-besoegende",
+        "published_date": "2026-11-01 20:34:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eight killed in Israeli attacks in Gaza",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/otte-draebt-i-israelske-angreb-i-gaza",
+        "published_date": "2026-11-01 20:24:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "AGF coach misses quality from offensive profiles",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12756919#liveblog-embed",
+        "published_date": "2026-11-01 20:03:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Now special police with rifles walk the streets of Sydney",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/nu-gaar-saerligt-politi-med-rifler-i-sydneys-gader",
+        "published_date": "2026-11-01 19:27:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Br\u00f8ndby gets revenge against harmless AGF",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12756619#liveblog-embed",
+        "published_date": "2026-11-01 18:54:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Arsenal beats Liverpool and goes alone in the lead",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12756381#liveblog-embed",
+        "published_date": "2026-11-01 18:28:19",
+        "category": "Local Events"
     },
     {
         "title": "Br\u00f8ndby IF won at 1964 Park and sent OB Q home disappointed",
@@ -305,83 +396,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/isaksens-perlemaal-er-med-til-at-sende-lazio-til-tops?referrer=RSS",
         "published_date": "2026-11-01 16:04:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish duo lose a close final to the world champions",
-        "source": "DR",
-        "url": "https://www.dr.dk/sporten/verdens-bedste-er-samlet-i-odense?focusId=12754142#liveblog-embed",
-        "published_date": "2026-11-01 15:21:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shooting at American football game kills one, injures eight",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/skyderi-under-amerikansk-fodboldkamp-draeber-en-og-saarer-otte",
-        "published_date": "2026-11-01 14:32:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former European Championship gold winner has died at the age of 34",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tidligere-em-guldvinder-er-doed-i-en-alder-af-34-aar",
-        "published_date": "2026-11-01 11:23:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "The author Zadie Smith was in Odense to receive a great prize: - Writing is an exercise in living",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/bolig-og-livsstil/forfatteren-zadie-smith-var-i-odense-for-at-faa-en-stor-pris-at-skrive-er-en-oevelse-i-at-leve?rss",
-        "published_date": "2026-11-01 09:51:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "New basketball team wins US championship in record time",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/nyt-basketball-hold-vinder-rekordhurtigt-mesterskab-i-usa",
-        "published_date": "2026-11-01 08:04:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colony garden chairman nationally known after TV 2 documentary: Now she is charged in a criminal case",
-        "source": "Fyens Stiftstidende",
-        "url": "https://fyens.dk/bolig/kolonihaveformand-landskendt-efter-tv-2-dokumentar-nu-er-hun-tiltalt-i-en-straffesag?rss",
-        "published_date": "2026-11-01 08:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Serious traffic accident near Herning",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/alvorlig-trafikulykke-spaerrer-vej-ved-herning",
-        "published_date": "2026-11-01 07:05:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "36 migrants in rubber boat rescued off the coast of the Netherlands",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/36-migranter-i-gummibaad-reddet-ud-for-hollands-kyst?referrer=RSS",
-        "published_date": "2026-11-01 01:12:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The injured Antonsen withdraws late in the German semi-final",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/skadet-antonsen-traekker-sig-sent-i-tysk-semifinale?referrer=RSS",
-        "published_date": "2026-10-31 22:36:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mads Holger's swan song became the call of a new political generation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/samfund/mads-holgers-svanesang-blev-en-ny-politisk-generations-kald?referrer=RSS",
-        "published_date": "2026-10-31 22:25:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "FBI: North Korea was behind crypto theft in the billions",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/fbi-nordkorea-stod-bag-kryptotyveri-i-milliardklassen",
-        "published_date": "2026-10-31 22:05:00",
         "category": "Local Events"
     }
 ]
