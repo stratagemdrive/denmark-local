@@ -1,5 +1,12 @@
 [
     {
+        "title": "Next week, the US will mediate between Russia and Ukraine in Abu Dhabi",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usa-skal-naeste-uge-maegle-mellem-rusland-og-ukraine-i-abu-dhabi?referrer=RSS",
+        "published_date": "2026-11-03 00:06:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "DIF chairman: United front can keep Russia out",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/sport/dif-formand-faelles-front-kan-holde-rusland-ude?referrer=RSS",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The EU introduces a charge on parcels",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-indfoerer-gebyr-paa-pakker",
-        "published_date": "2026-10-30 06:26:50",
-        "category": "Diplomacy"
+        "title": "Force for Ukraine will start its first military exercise in November",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/styrke-for-ukraine-gaar-i-november-i-gang-med-foerste-militaeroevelse?referrer=RSS",
+        "published_date": "2026-11-03 02:48:46",
+        "category": "Military"
     },
     {
         "title": "Ukraine's air force reports air alert app temporarily hacked",
@@ -266,6 +273,69 @@
         "category": "Economy"
     },
     {
+        "title": "Media: The US has attacked an Iranian island in the Strait of Hormuz",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/medier-usa-har-angrebet-iransk-oe-i-hormuzstraedet?referrer=RSS",
+        "published_date": "2026-11-03 02:27:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Newspaper managers criticize TV 2 for failure in the creation of a hoax programme",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/avisledere-kritiserer-tv-2-for-svigt-i-tilblivelsen-af-fupprogram?referrer=RSS",
+        "published_date": "2026-11-03 01:49:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spanish authorities have identified all 69 victims of the train crash",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/spanske-myndigheder-har-identificeret-alle-69-ofre-efter-togulykke?referrer=RSS",
+        "published_date": "2026-11-03 00:41:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "OpenAI hires former Secretary of the United States Army as an advisor",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/openai-hyrer-tidligere-minister-for-usas-haer-som-raadgiver?referrer=RSS",
+        "published_date": "2026-11-02 23:41:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "US Supreme Court rejects request to override mail-in ballots",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/usas-hoejesteret-afviser-anmodning-om-at-tilsidesaette-brevstemmer?referrer=RSS",
+        "published_date": "2026-11-02 23:12:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Apple's revenue beats market expectations",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/apples-omsaetning-slaar-markedets-forventninger?referrer=RSS",
+        "published_date": "2026-11-02 23:02:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gis\u00e8le Pelicot receives Danner's Honorary Award for her focus on sexualized violence",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/danmark/gisele-pelicot-modtager-danners-aerespris-for-fokus-paa-seksualiseret-vold?referrer=RSS",
+        "published_date": "2026-11-02 22:25:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Apple's revenue beats market expectations",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/apples-omsaetning-slaar-markedets-forventninger",
+        "published_date": "2026-11-02 22:22:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five Danish companies have been hit by cyber attacks against cooling systems",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/business/fem-danske-virksomheder-har-vaeret-ramt-af-cyberangreb-mod-koelesystemer?referrer=RSS",
+        "published_date": "2026-11-02 21:43:45",
+        "category": "Local Events"
+    },
+    {
         "title": "Molly Thornhill got stuck when it came to tying shoes and handing out newspapers, but her diagnosis helped her when, as a child, she fell head over heels in love with the naked Mette Lisby in \"Klinkevalsen\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/eksistens/molly-thornhill-gik-i-staa-naar-der-skulle-bindes-sko-og-deles-aviser-ud-men-hendes-diagnose-hjalp-hende-da-hun-som-barn-blev-smaskforelsket-i-den-noegne-mette-lisby-i-klinkevalsen?referrer=RSS",
@@ -340,69 +410,6 @@
         "source": "DR",
         "url": "https://www.dr.dk/sporten/seneste-sport/nfl-lancerer-liga-i-ny-ol-disciplin",
         "published_date": "2026-11-02 18:56:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cod and oxygen depletion in the Baltic Sea must be investigated",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/torsk-og-iltsvind-i-oestersoeen-skal-undersoeges",
-        "published_date": "2026-11-02 17:17:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Oslo District Court does not extend the remand of Marius Borg H\u00f8iby",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/byretten-i-oslo-forlaenger-ikke-varetaegtsfaengsling-af-marius-borg-hoeiby",
-        "published_date": "2026-11-02 16:22:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "A defect in the heating plant makes heating more expensive in Aarhus",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/defekt-paa-varmevaerk-goer-varmen-dyrere-i-aarhus",
-        "published_date": "2026-11-02 14:59:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Organic chickpeas are recalled after insects are found",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/oekologiske-kikaerter-tilbagekaldes-efter-fund-af-insekter",
-        "published_date": "2026-11-02 14:52:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ports along the Great Belt must be upgraded as part of a strengthened preparedness",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/havne-ved-storebaelt-skal-opgraderes-som-led-i-et-styrket-beredskab",
-        "published_date": "2026-11-02 14:29:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Car on fire on S\u00f8nder Jutland motorway",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/bil-i-brand-paa-soenderjyske-motorvej",
-        "published_date": "2026-11-02 13:47:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scheduled flight makes emergency landing in Budapest after bomb threat",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/rutefly-noedlander-i-budapest-efter-bombetrussel",
-        "published_date": "2026-11-02 13:26:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Patient association reassured after meeting with department for liver transplants",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/patientforening-betrygget-efter-moede-med-afdeling-levertransplantationer",
-        "published_date": "2026-11-02 13:19:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman sentenced for several cases of contact fraud",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/kvinde-doemt-flere-tilfaelde-af-kontaktbedrageri",
-        "published_date": "2026-11-02 12:56:08",
         "category": "Local Events"
     }
 ]
