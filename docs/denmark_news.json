@@ -1,5 +1,19 @@
 [
     {
+        "title": "Democrats' young star seed wins: 'Right now the best bet for a presidential candidate'",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/demokraternes-unge-stjernefroe-vinderlige-nu-det-bedste-bud-paa-en-praesidentkandidat?referrer=RSS",
+        "published_date": "2026-11-04 00:34:39",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Bakken Bears top in Europe with fourth win in a row",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/bakken-bears-topper-i-europa-med-fjerde-sejr-i-traek",
+        "published_date": "2026-11-03 20:29:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The Arrow Points to One Place for Bomb Threats and Cyber \u200b\u200bAttacks Across Europe: \"Russia's Great Hybrid Campaign\"",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/pilen-peger-et-sted-hen-efter-bombetrusler-og-cyberangreb-paa-tvaers-af-europaruslands-store-hybridkampagne?referrer=RSS",
@@ -126,20 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The EU and Canada will define closer cooperation before the summit next year",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/eu-og-canada-vil-definere-taettere-samarbejde-inden-topmoede-naeste-aar",
-        "published_date": "2026-10-30 17:14:28",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The EU and Canada will define closer cooperation",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/eu-og-canada-vil-definere-taettere-samarbejde?referrer=RSS",
-        "published_date": "2026-10-30 16:48:46",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Force for Ukraine will start its first military exercise in November",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/styrke-for-ukraine-gaar-i-november-i-gang-med-foerste-militaeroevelse?referrer=RSS",
@@ -224,13 +224,6 @@
         "category": "Military"
     },
     {
-        "title": "Cease fire goes into effect in Russian-occupied city in southern Ukraine",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/vaabenhvile-traeder-i-kraft-i-russiskbesat-by-i-det-sydlige-ukraine?referrer=RSS",
-        "published_date": "2026-10-27 01:16:47",
-        "category": "Military"
-    },
-    {
         "title": "Trump calls midterm elections the most important in a lifetime",
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/trump-kalder-midtvejsvalg-det-vigtigste-i-en-menneskealder?referrer=RSS",
@@ -264,6 +257,104 @@
         "url": "https://www.berlingske.dk/virksomheder/business-update-alm-brand-fyrer-55-efter-rekordregnskab?referrer=RSS",
         "published_date": "2026-10-28 15:26:36",
         "category": "Economy"
+    },
+    {
+        "title": "Trump reaches out to Fox News as polls close",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/trump-langer-ud-efter-fox-news-mens-valgsteder-lukker?referrer=RSS",
+        "published_date": "2026-11-04 02:31:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Analysis institute: The Democrats win a majority in the House of Representatives",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/analyseinstitut-demokraterne-vinder-flertal-i-repraesentanternes-hus?referrer=RSS",
+        "published_date": "2026-11-04 02:27:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Georgia elects America's first black woman as governor",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/georgia-vaelger-usas-foerste-sorte-kvinde-som-guvernoer?referrer=RSS",
+        "published_date": "2026-11-04 02:27:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Democrats get off to a strong start in the Senate elections",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/demokraterne-faar-staerk-start-paa-valg-til-senatet?referrer=RSS",
+        "published_date": "2026-11-04 02:10:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Republicans lose Senate seat in North Carolina",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/republikanerne-taber-senatssaede-i-north-carolina?referrer=RSS",
+        "published_date": "2026-11-04 02:10:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Democrats win the first swing state of the evening",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/demokraterne-vinder-aftenens-foerste-svingstat?referrer=RSS",
+        "published_date": "2026-11-04 01:44:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ossoff takes key Democratic victory in swing state Georgia",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/ossoff-tager-vigtig-demokratisk-sejr-i-svingstaten-georgia?referrer=RSS",
+        "published_date": "2026-11-04 01:08:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "22-year-old man stabbed in the thigh on an open street in Frederikssund",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/indland/22-aarig-mand-stukket-i-laaret-paa-aaben-gade-i-frederikssund?referrer=RSS",
+        "published_date": "2026-11-03 23:56:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two completely new measurements: Voters are angry - and they blame Trump",
+        "source": "Berlingske",
+        "url": "https://www.berlingske.dk/internationalt/to-helt-nye-maalinger-vaelgerne-er-vrede--og-de-giver-trump-skylden?referrer=RSS",
+        "published_date": "2026-11-03 23:51:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish full-back scores two in Champions League win",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12768973#liveblog-embed",
+        "published_date": "2026-11-03 21:56:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rigshospitalet gets a delayed response deadline in the case of layoffs",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/rigshospitalet-faar-udskudt-svarfrist-i-sag-om-fyringer",
+        "published_date": "2026-11-03 20:47:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Danish ice hockey women lose big in the run-up to the WC",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/seneste-sport/danske-ishockeykvinder-taber-stort-i-optakt-til-vm",
+        "published_date": "2026-11-03 20:47:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Train operations on the Spanish route are reduced following the accident",
+        "source": "DR",
+        "url": "https://www.dr.dk/nyheder/seneste/togdriften-paa-spansk-straekning-reduceres-efter-ulykke",
+        "published_date": "2026-11-03 19:38:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lyngby send Randers out of the cup in extra time",
+        "source": "DR",
+        "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12767413#liveblog-embed",
+        "published_date": "2026-11-03 18:56:17",
+        "category": "Local Events"
     },
     {
         "title": "Norwegian coaches smoke a day in the corner of shame for screen killings",
@@ -305,104 +396,6 @@
         "source": "Berlingske",
         "url": "https://www.berlingske.dk/internationalt/terrorsigtet-norsk-kvinde-er-flygtet-fra-syrisk-lejr?referrer=RSS",
         "published_date": "2026-11-03 17:10:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "DBU chairman sees scenario with several Uefa candidates for Fifa elections",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/sport/dbu-formand-ser-scenarie-med-flere-uefa-kandidater-til-fifa-valg?referrer=RSS",
-        "published_date": "2026-11-03 17:10:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "When Morten Messerschmidt talked about foreigners, Mette Frederiksen suddenly threw in the Russian card: \"Danish People's Party always has my ear\"",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/politik/da-morten-messerschmidt-talte-om-udlaendinge-smed-mette-frederiksen-pludselig-russerkortet-dansk-folkeparti-har-altid-mit-oere?referrer=RSS",
-        "published_date": "2026-11-03 16:55:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Greenland's editor-in-chief is honored by Queen Margrethe",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/danmark/groenlandsk-chefredaktoer-haedres-af-dronning-margrethe?referrer=RSS",
-        "published_date": "2026-11-03 16:47:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danish word of the day: rugbr\u00f8dsmotor",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261103/danish-word-of-the-day-rugbrodsmotor",
-        "published_date": "2026-11-03 15:30:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "New tax ceiling to impact just 1.2 percent of Danish taxpayers",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261103/new-tax-ceiling-to-impact-just-1-2-percent-of-danish-taxpayers",
-        "published_date": "2026-11-03 14:46:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Public login solutions work again after a short breakdown",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/offentlige-loginloesninger-ramt-af-nedbrud",
-        "published_date": "2026-11-03 14:39:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Theft from one of the most guarded places in Copenhagen",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/tyveri-fra-et-af-de-mest-bevogtede-steder-i-koebenhavn",
-        "published_date": "2026-11-03 14:35:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "How will Denmark's new collective agreement-based work permit work?",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261103/how-will-denmarks-new-collective-agreement-based-work-permit-work",
-        "published_date": "2026-11-03 13:21:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six people arrested after explosion in Vejle",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/seks-personer-anholdt-efter-eksplosion-i-vejle",
-        "published_date": "2026-11-03 12:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Thousands of Danish students to strike in protest against plans to cut student grants",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261103/thousands-of-danish-students-to-strike-in-protest-against-plans-to-cut-student-grants",
-        "published_date": "2026-11-03 10:44:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Today in Denmark: A roundup of the latest news on Tuesday",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261103/today-in-denmark-a-roundup-of-the-latest-news-on-tuesday-71",
-        "published_date": "2026-11-03 09:48:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "EXPLAINED: Denmark's complicated rules for naming your baby",
-        "source": "The Local DK",
-        "url": "https://www.thelocal.dk/20261103/explained-denmarks-complicated-rules-for-naming-your-baby",
-        "published_date": "2026-11-03 09:20:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "10,000 pupils and students will take to the streets tomorrow",
-        "source": "DR",
-        "url": "https://www.dr.dk/nyheder/seneste/10-000-elever-og-studerende-gaar-paa-gaden-i-morgen",
-        "published_date": "2026-11-03 05:59:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Media: The US has attacked an Iranian island in the Strait of Hormuz",
-        "source": "Berlingske",
-        "url": "https://www.berlingske.dk/internationalt/medier-usa-har-angrebet-iransk-oe-i-hormuzstraedet?referrer=RSS",
-        "published_date": "2026-11-03 02:27:48",
         "category": "Local Events"
     }
 ]
